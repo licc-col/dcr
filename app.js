@@ -219,7 +219,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="example-card">
                     <span class="quote">${c.texto_cita}</span>
                     <div class="meta">
-                        <span class="author">${c.author || ''}</span>
+                        <span class="author">${c.autor || ''}</span>
                         <span class="cite">${c.referencia_obra || ''}</span>
                     </div>
                 </div>

@@ -84,6 +84,22 @@ def strip_html_tags(text):
     clean = re.sub(r'\s+', ' ', clean).strip()
     return clean
 
+def clean_and_preserve_paragraphs(text):
+    """
+    Separa el texto mediante etiquetas de párrafo o salto de línea,
+    limpia cada párrafo de HTML y los une con saltos de línea dobles.
+    """
+    if not text:
+        return ""
+    paragraphs = re.split(r'</p>|<p[^>]*>|<br\s*/?>', text, flags=re.IGNORECASE)
+    cleaned_paras = []
+    for p in paragraphs:
+        clean_p = strip_html_tags(p)
+        if clean_p:
+            cleaned_paras.append(clean_p)
+    return "\n\n".join(cleaned_paras)
+
+
 def get_section_key(header_text):
     clean = re.sub(r'<[^>]+>', '', header_text).strip().lower()
     clean_norm = re.sub(r'\.$', '', clean).strip()
@@ -239,7 +255,6 @@ def parse_html_to_json(filepath):
             citas_list.append({
                 "texto_cita": texto_cita,
                 "autor": autor_raw,
-                "author": autor_raw,  # Dual compatibility for JS frontend
                 "referencia_obra": ref_raw
             })
         return def_text, citas_list
@@ -310,7 +325,7 @@ def parse_html_to_json(filepath):
         data["acepciones"].append(acepcion)
     else:
         # Standard alphabetical acepciones exist
-        data['introduccion'] = strip_html_tags(content[pos_gram_end:real_acep_matches[0].start()])
+        data['introduccion'] = clean_and_preserve_paragraphs(content[pos_gram_end:real_acep_matches[0].start()])
         
         for i in range(len(real_acep_matches)):
             start_idx = real_acep_matches[i].end()
@@ -391,12 +406,16 @@ def parse_html_to_json(filepath):
         block = content[pos:next_pos].strip()
         key = get_section_key(text)
         if key:
-            cleaned_block = strip_html_tags(block)
+            cleaned_block = clean_and_preserve_paragraphs(block)
             if key in data:
                 if data[key]:
-                    data[key] += " " + cleaned_block
+                    data[key] += "\n\n" + cleaned_block
                 else:
                     data[key] = cleaned_block
+
+    # Clean category duplicate leaks from introduccion
+    if data['introduccion'] and data['introduccion'].startswith('-->'):
+        data['introduccion'] = re.sub(r'^-->\s*(?:[a-zA-Z]+)?\b\.?\s*', '', data['introduccion']).strip()
 
     return data
 

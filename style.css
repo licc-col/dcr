@@ -401,6 +401,7 @@ body {
     border-left: 3px solid var(--accent);
     padding-left: 20px;
     margin-left: 2px;
+    white-space: pre-wrap;
 }
 
 /* ── 6. JERARQUÍA DE ACEPCIONES Y EJEMPLOS ─────────────────────────────── */
@@ -579,6 +580,7 @@ body {
     font-size: 1.05rem;
     line-height: 1.75;
     color: var(--text-main);
+    white-space: pre-wrap;
 }
 
 /* Diferenciación visual premium para apéndices clave */

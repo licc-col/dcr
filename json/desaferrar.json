@@ -16,9 +16,11 @@
             {
               "texto_cita": "«A los navíos, con la carga graves, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Desafierran el   áncora, que estorba </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Que atrás se deje la ribera corva.»",
               "autor": "<a name=\"autor1460\"><font color = \"#FF000\"><u>Villav.</u></font></b>",
+              "author": "<a name=\"autor1460\"><font color = \"#FF000\"><u>Villav.</u></font></b>",
               "referencia_obra": "<i>Mosq</i>. 4 (R. 17. 585<sup>1</sup>)."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
@@ -28,9 +30,11 @@
             {
               "texto_cita": "«Llegó otro día por la mañana á Dunkerque   la nueva de que la armada había desaferrado de Calés.»",
               "autor": "<a name=\"autor1461\"><font color = \"#FF000\"><u>Coloma</u></font></b>",
+              "author": "<a name=\"autor1461\"><font color = \"#FF000\"><u>Coloma</u></font></b>",
               "referencia_obra": ", <i>Guerras de los Est. Bajos</i>, 1 (R. 28. 8<sup>2</sup>). </p>   </font><b><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\"></b>"
             }
-          ]
+          ],
+          "subsubacepciones": []
         }
       ]
     },
@@ -47,31 +51,36 @@
             {
               "texto_cita": "«Al fin hubieron de desaferrar el bergantín.»",
               "autor": "",
+              "author": "",
               "referencia_obra": ""
             }
-          ]
-        },
-        {
-          "id_marcador_html": "</font><font   face=\"arial\"> </p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
-          "id_limpio": "— α α )",
-          "definicion": "<i>Recípr</i>. </font><font face=\"arial\"   color=\"#000080\">",
-          "ejemplos_citas": [
+          ],
+          "subsubacepciones": [
             {
-              "texto_cita": "«Habían estado --- el bergantín y nave fuertemente aferrados, tanto por   poder así mejor comunicarse, cuanto por el escarceo de las ondas --- temerosos por no   despedazarse, estando así tan juntos y sujetos á sus mismos golpes y vaivenes ---   últimamente se desaferraron.»",
-              "autor": "<a name=\"autor1463\"><font color = \"#FF000\"><u>Césp. y Men.</u></font></b>",
-              "referencia_obra": "<i>Esp. Ger</i>.   2. 2 (R. 18. 245<sup>1</sup>)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
-          "id_limpio": "— β β )",
-          "definicion": "<i>Refl</i>. Con <i>de</i>, para expresar   aquello de que uno se suelta. </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
+              "id_marcador_html": "</font><font   face=\"arial\"> </p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+              "id_limpio": "— α α )",
+              "definicion": "<i>Recípr</i>. </font><font face=\"arial\"   color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Habían estado --- el bergantín y nave fuertemente aferrados, tanto por   poder así mejor comunicarse, cuanto por el escarceo de las ondas --- temerosos por no   despedazarse, estando así tan juntos y sujetos á sus mismos golpes y vaivenes ---   últimamente se desaferraron.»",
+                  "autor": "<a name=\"autor1463\"><font color = \"#FF000\"><u>Césp. y Men.</u></font></b>",
+                  "author": "<a name=\"autor1463\"><font color = \"#FF000\"><u>Césp. y Men.</u></font></b>",
+                  "referencia_obra": "<i>Esp. Ger</i>.   2. 2 (R. 18. 245<sup>1</sup>)."
+                }
+              ]
+            },
             {
-              "texto_cita": "«Llegamos al   abordaje: yo salté el primero en la embarcación enemiga, que al mismo tiempo logró   desaferrarse de la nuestra, y por consiguiente me hallé solo y prisionero.»",
-              "autor": "<a name=\"autor1464\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
-              "referencia_obra": "<i>Hamlet</i>, 4. 20 (R. 2. 535<sup>1</sup>). </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
+              "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
+              "id_limpio": "— β β )",
+              "definicion": "<i>Refl</i>. Con <i>de</i>, para expresar   aquello de que uno se suelta. </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Llegamos al   abordaje: yo salté el primero en la embarcación enemiga, que al mismo tiempo logró   desaferrarse de la nuestra, y por consiguiente me hallé solo y prisionero.»",
+                  "autor": "<a name=\"autor1464\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
+                  "author": "<a name=\"autor1464\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
+                  "referencia_obra": "<i>Hamlet</i>, 4. 20 (R. 2. 535<sup>1</sup>). </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
+                }
+              ]
             }
           ]
         }
@@ -90,19 +99,23 @@
             {
               "texto_cita": "«Desta manera Rengo á Talco afierra, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Y antes que á   la defensa se prevenga, </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Tan recio le apretó contra la tierra </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Que, el lomo   quebrantado, lo derrienga: </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Viéndolo pues así lo desafierra.»",
               "autor": "<a name=\"autor1466\"><font color = \"#FF000\"><u>Erc.</u></font></b>",
+              "author": "<a name=\"autor1466\"><font color = \"#FF000\"><u>Erc.</u></font></b>",
               "referencia_obra": "<i>Arauc</i>. 10 (R. 17. 42<sup>1</sup>)."
             }
-          ]
-        },
-        {
-          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
-          "id_limpio": "— α α )",
-          "definicion": "<i>Refl</i>. </font><font face=\"arial\"   color=\"#000080\">",
-          "ejemplos_citas": [
+          ],
+          "subsubacepciones": [
             {
-              "texto_cita": "«Y de rabiosa cólera impaciente, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> De un fuerte rodeón se   desafierra.»",
-              "autor": "<a name=\"autor1467\"><font color = \"#FF000\"><u>Erc.</u></font></b>",
-              "referencia_obra": "<i>Arauc</i>. 29 (R. 17. 110<sup>2</sup>)."
+              "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+              "id_limpio": "— α α )",
+              "definicion": "<i>Refl</i>. </font><font face=\"arial\"   color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Y de rabiosa cólera impaciente, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> De un fuerte rodeón se   desafierra.»",
+                  "autor": "<a name=\"autor1467\"><font color = \"#FF000\"><u>Erc.</u></font></b>",
+                  "author": "<a name=\"autor1467\"><font color = \"#FF000\"><u>Erc.</u></font></b>",
+                  "referencia_obra": "<i>Arauc</i>. 29 (R. 17. 110<sup>2</sup>)."
+                }
+              ]
             }
           ]
         },
@@ -114,9 +127,11 @@
             {
               "texto_cita": "«Con saber tú que no he hecho maldad, y no hay quien de tu mano me   desafierre.»",
               "autor": "<a name=\"autor1468\"><font color = \"#FF000\"><u>León</u></font></b>",
+              "author": "<a name=\"autor1468\"><font color = \"#FF000\"><u>León</u></font></b>",
               "referencia_obra": ", <i>Expos. de Job</i>, 10 (1. 176). </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
             }
-          ]
+          ],
+          "subsubacepciones": []
         }
       ]
     },
@@ -127,6 +142,7 @@
         {
           "texto_cita": "«No logró desaferrarlo de su opinion.»",
           "autor": "",
+          "author": "",
           "referencia_obra": "</font><font   face=\"arial\"> </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
         }
       ],
@@ -140,40 +156,31 @@
         {
           "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\"> — </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
           "id_limpio": "— α )",
-          "definicion": "Desliar ó desatar un lienzo ú otro objeto flexible que esté arrollado ó recogido. <i>Dicc.   Marít.</p>   </i></font><b><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\"></b>",
-          "ejemplos_citas": []
+          "definicion": "Desliar ó desatar un lienzo ú otro objeto flexible que esté arrollado ó recogido. <i>Dicc.   Marít.</p>   </i></font><b><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\"><dicarbrecont><a name=\"arbre1474\"><dicabrev><a name=\"abrev1473\"><b><u>Per. antecl.</u></b></dicabrev></dicarbrecont></font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\"><i>Siglo XV</i>: </font><font   face=\"arial\" color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«E dixeron los cómitres: Señor, si aferramos con ella, por   ventura vernán otras galeras sobre nos, é querremos desaferrar, é non podremos.»",
+              "autor": "<a name=\"autor1475\"><font color = \"#FF000\"><u>Crón. P. Niño</u></font></b>",
+              "author": "<a name=\"autor1475\"><font color = \"#FF000\"><u>Crón. P. Niño</u></font></b>",
+              "referencia_obra": "</i>, p. 65. </p>   <p ALIGN=\"JUSTIFY\">— <i>Siglo XIV</i>: </font><font face=\"arial\" color=\"#000080\">"
+            },
+            {
+              "texto_cita": "«Et   la galea de los cristianos aferró con la de los moros, et fueron así travadas una muy   grand pieza --- desque vio quel viento los llevaba á meter en poder de las otras galeas   de los moros que estaban cerca de Gibraltar, desaferraron de la galea de los moros.»",
+              "autor": "<a name=\"autor1476\"><font color = \"#FF000\"><u>Alf. XI</u></font></b>",
+              "author": "<a name=\"autor1476\"><font color = \"#FF000\"><u>Alf. XI</u></font></b>",
+              "referencia_obra": "</i>, 324 (R. 66. 380<sup>1</sup>).</p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"><dicarbrecont><a name=\"arbre1477\">Etim.</dicarbrecont></b></font><font   face=\"arial\"> Compuesto del prefijo negativo <i>des</i> y <i>aferrar</i>. Port. <i>desaferrar</i>.</p>   </font><b><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\"></b>"
+            }
+          ],
+          "subsubacepciones": []
         }
       ]
     },
     {
-      "id": "Per. antecl.",
-      "definicion": "</font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\"><i>Siglo XV</i>: </font><font   face=\"arial\" color=\"#000080\">",
-      "ejemplos_citas": [
-        {
-          "texto_cita": "«E dixeron los cómitres: Señor, si aferramos con ella, por   ventura vernán otras galeras sobre nos, é querremos desaferrar, é non podremos.»",
-          "autor": "<a name=\"autor1475\"><font color = \"#FF000\"><u>Crón. P. Niño</u></font></b>",
-          "referencia_obra": "</i>, p. 65. </p>   <p ALIGN=\"JUSTIFY\">— <i>Siglo XIV</i>: </font><font face=\"arial\" color=\"#000080\">"
-        },
-        {
-          "texto_cita": "«Et   la galea de los cristianos aferró con la de los moros, et fueron así travadas una muy   grand pieza --- desque vio quel viento los llevaba á meter en poder de las otras galeas   de los moros que estaban cerca de Gibraltar, desaferraron de la galea de los moros.»",
-          "autor": "<a name=\"autor1476\"><font color = \"#FF000\"><u>Alf. XI</u></font></b>",
-          "referencia_obra": "</i>, 324 (R. 66. 380<sup>1</sup>).</p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
-        }
-      ],
-      "subacepciones": []
-    },
-    {
-      "id": "Etim.",
-      "definicion": "</b></font><font   face=\"arial\"> Compuesto del prefijo negativo <i>des</i> y <i>aferrar</i>. Port. <i>desaferrar</i>.</p>   </font><b><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\">",
-      "ejemplos_citas": [],
-      "subacepciones": []
-    },
-    {
       "id": "Conjug.",
-      "definicion": "</font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Véase <code>AFERRAR</code>.</p>   </font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>",
+      "definicion": "",
       "ejemplos_citas": [],
       "subacepciones": []
     }
   ],
-  "etimologia": ""
+  "etimologia": "<dicarbrecont><a name=\"arbre1474\"><dicabrev><a name=\"abrev1473\"><b><u>Per. antecl.</u></b></dicabrev></dicarbrecont></font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\"><i>Siglo XV</i>: </font><font   face=\"arial\" color=\"#000080\">«E dixeron los cómitres: Señor, si aferramos con ella, por   ventura vernán otras galeras sobre nos, é querremos desaferrar, é non podremos.»</font><font   face=\"arial\"> <i><dicautor><a name=\"autor1475\"><font color = \"#FF000\"><u>Crón. P. Niño</u></font></b></dicautor></i>, p. 65. </p>   <p ALIGN=\"JUSTIFY\">— <i>Siglo XIV</i>: </font><font face=\"arial\" color=\"#000080\">«Et   la galea de los cristianos aferró con la de los moros, et fueron así travadas una muy   grand pieza --- desque vio quel viento los llevaba á meter en poder de las otras galeas   de los moros que estaban cerca de Gibraltar, desaferraron de la galea de los moros.»</font><font   face=\"arial\"> <i>Crón. <dicautor><a name=\"autor1476\"><font color = \"#FF000\"><u>Alf. XI</u></font></b></dicautor></i>, 324 (R. 66. 380<sup>1</sup>).</p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"><dicarbrecont><a name=\"arbre1477\">Etim.</dicarbrecont></b></font><font   face=\"arial\"> Compuesto del prefijo negativo <i>des</i> y <i>aferrar</i>. Port. <i>desaferrar</i>.</p>   </font><b><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\"><dicarbrecont><a name=\"arbre1479\"><dicabrev><a name=\"abrev1478\"><b><u>Conjug.</u></b></dicabrev></dicarbrecont></font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Véase <code>AFERRAR</code>.</p>   </font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>"
 }

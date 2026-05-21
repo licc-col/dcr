@@ -12,7 +12,8 @@
           "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
           "id_limpio": "— α )",
           "definicion": "Cfr.   <dicautor><a name=\"autor1095\"><font color = \"#FF000\"><u>Acad.</u></font></b></dicautor> <i>Dicc</i>.",
-          "ejemplos_citas": []
+          "ejemplos_citas": [],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
@@ -22,9 +23,11 @@
             {
               "texto_cita": "«¿Quiere saber, señor don   Tarfe, lo que hizo la muy zurrada cuando le llevé esta carta que ahora mi señor quiere   leer?»",
               "autor": "<a name=\"autor1097\"><font color = \"#FF000\"><u>Avell.</u></font></b>",
+              "author": "<a name=\"autor1097\"><font color = \"#FF000\"><u>Avell.</u></font></b>",
               "referencia_obra": "<i>Quij.</i> 2 (R. 18. 7</font><sup>1</sup><font   face=\"arial\">).</p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
             }
-          ]
+          ],
+          "subsubacepciones": []
         }
       ]
     },
@@ -41,56 +44,66 @@
             {
               "texto_cita": "«Cuando él la zurra, por algo lo hace.»",
               "autor": "<a name=\"autor1099\"><font color = \"#FF000\"><u>Pagés</u></font></b>",
+              "author": "<a name=\"autor1099\"><font color = \"#FF000\"><u>Pagés</u></font></b>",
               "referencia_obra": ", <i>Dicc</i>.).</font><font face=\"arial\"   color=\"#000080\"> X"
             },
             {
               "texto_cita": "«Sus maridos las zurran cuando ellas protestan del tiempo que pierden   riendo nuestras gracias.»",
               "autor": "<a name=\"autor1100\"><font color = \"#FF000\"><u>Gran encicl. Larousse</u></font></b>",
+              "author": "<a name=\"autor1100\"><font color = \"#FF000\"><u>Gran encicl. Larousse</u></font></b>",
               "referencia_obra": "</i>)."
             }
-          ]
-        },
-        {
-          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">—</font><font face=\"symbol\"> α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
-          "id_limpio": "— α α )",
-          "definicion": "Con <dicabrev><a name=\"abrev1101\"><b><u>dat.</u></b></dicabrev></font><font face=\"arial\"   color=\"#000080\"> X",
-          "ejemplos_citas": [
+          ],
+          "subsubacepciones": [
             {
-              "texto_cita": "«Y una de dos, Señor, u </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Le cascan u no le cascan; </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Si te le zurran, te vengan </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Dél, mas si   él se da tal maña </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Que sacude, te venga él.»",
-              "autor": "<a name=\"autor1102\"><font color = \"#FF000\"><u>Rojas</u></font></b>",
-              "referencia_obra": ", <i>Abre el   ojo</i>, 3 (R. 54. 140</font><sup>2</sup><font face=\"arial\">).</font><font face=\"arial\"   color=\"#000080\"> X"
+              "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">—</font><font face=\"symbol\"> α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+              "id_limpio": "— α α )",
+              "definicion": "Con <dicabrev><a name=\"abrev1101\"><b><u>dat.</u></b></dicabrev></font><font face=\"arial\"   color=\"#000080\"> X",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Y una de dos, Señor, u </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Le cascan u no le cascan; </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Si te le zurran, te vengan </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Dél, mas si   él se da tal maña </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Que sacude, te venga él.»",
+                  "autor": "<a name=\"autor1102\"><font color = \"#FF000\"><u>Rojas</u></font></b>",
+                  "author": "<a name=\"autor1102\"><font color = \"#FF000\"><u>Rojas</u></font></b>",
+                  "referencia_obra": ", <i>Abre el   ojo</i>, 3 (R. 54. 140</font><sup>2</sup><font face=\"arial\">).</font><font face=\"arial\"   color=\"#000080\"> X"
+                },
+                {
+                  "texto_cita": "«Los vellerices nos satisfarán, si les sonsacamos. O nos zurrarán el   drupo.»",
+                  "autor": "<a name=\"autor1103\"><font color = \"#FF000\"><u>Valle-Inclán</u></font></b>",
+                  "author": "<a name=\"autor1103\"><font color = \"#FF000\"><u>Valle-Inclán</u></font></b>",
+                  "referencia_obra": ", <i>Viva mi dueño</i>, 5. 28 (p. 207).</font><font   face=\"arial\" color=\"#000080\"> X"
+                },
+                {
+                  "texto_cita": "«Y le hubiera roto el hocico si no hubiera surgido por   allí el patrón don Justo, que me dio de patadas a mi para que me calmara. Me zurró una   sarta de porrazos que hasta que quedé dormido entre las piedras, con los huesos   tronándome de tan zafados que los tenía.»",
+                  "autor": "<a name=\"autor1104\"><font color = \"#FF000\"><u>Rulfo</u></font></b>",
+                  "author": "<a name=\"autor1104\"><font color = \"#FF000\"><u>Rulfo</u></font></b>",
+                  "referencia_obra": ", <i>El llano   en llamas</i>, p. 47. </p>   <p ALIGN=\"JUSTIFY\">— Además con <i>sin</i>.</font><font face=\"arial\" color=\"#000080\">   X"
+                },
+                {
+                  "texto_cita": "«Hubo un tiempo en que un mayordomo de grande zurraba sin misericordia la piel a los   pages de su señor.»",
+                  "autor": "<a name=\"autor1105\"><font color = \"#FF000\"><u>Hartz.</u></font></b>",
+                  "author": "<a name=\"autor1105\"><font color = \"#FF000\"><u>Hartz.</u></font></b>",
+                  "referencia_obra": "(<dicautor><a name=\"autor1106\"><font color = \"#FF000\"><u>Pagés</u></font></b></dicautor>, <i>Dicc</i>.)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Los vellerices nos satisfarán, si les sonsacamos. O nos zurrarán el   drupo.»",
-              "autor": "<a name=\"autor1103\"><font color = \"#FF000\"><u>Valle-Inclán</u></font></b>",
-              "referencia_obra": ", <i>Viva mi dueño</i>, 5. 28 (p. 207).</font><font   face=\"arial\" color=\"#000080\"> X"
-            },
-            {
-              "texto_cita": "«Y le hubiera roto el hocico si no hubiera surgido por   allí el patrón don Justo, que me dio de patadas a mi para que me calmara. Me zurró una   sarta de porrazos que hasta que quedé dormido entre las piedras, con los huesos   tronándome de tan zafados que los tenía.»",
-              "autor": "<a name=\"autor1104\"><font color = \"#FF000\"><u>Rulfo</u></font></b>",
-              "referencia_obra": ", <i>El llano   en llamas</i>, p. 47. </p>   <p ALIGN=\"JUSTIFY\">— Además con <i>sin</i>.</font><font face=\"arial\" color=\"#000080\">   X"
-            },
-            {
-              "texto_cita": "«Hubo un tiempo en que un mayordomo de grande zurraba sin misericordia la piel a los   pages de su señor.»",
-              "autor": "<a name=\"autor1105\"><font color = \"#FF000\"><u>Hartz.</u></font></b>",
-              "referencia_obra": "(<dicautor><a name=\"autor1106\"><font color = \"#FF000\"><u>Pagés</u></font></b></dicautor>, <i>Dicc</i>.)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
-          "id_limpio": "— β β )",
-          "definicion": "Con <i>en</i>.</font><font face=\"arial\"   color=\"#000080\"> X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«¿Y quién dice que el Lleras no es un putañero, un abusivo, un   condenado? ¿El Valle? ¡Ahí está, esperando que algún gallo le zurre en la cabeza!»",
-              "autor": "<a name=\"autor1107\"><font color = \"#FF000\"><u>Arguedas</u></font></b>",
-              "referencia_obra": ", <i>Ríos prof.</i> 8 (p. 97).</font><font face=\"arial\"   color=\"#000080\"> X"
-            },
-            {
-              "texto_cita": "«Están zurrando a las chicheras en la cárcel —dijo—.   Algunas han chillado duro, como alborotando. Dice que las fuetean en el trasero, delante   de sus maridos.»",
-              "autor": "<a name=\"autor1108\"><font color = \"#FF000\"><u>Arguedas</u></font></b>",
-              "referencia_obra": ", <i>Ríos prof.</i> 9 (p. 113)."
+              "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
+              "id_limpio": "— β β )",
+              "definicion": "Con <i>en</i>.</font><font face=\"arial\"   color=\"#000080\"> X",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«¿Y quién dice que el Lleras no es un putañero, un abusivo, un   condenado? ¿El Valle? ¡Ahí está, esperando que algún gallo le zurre en la cabeza!»",
+                  "autor": "<a name=\"autor1107\"><font color = \"#FF000\"><u>Arguedas</u></font></b>",
+                  "author": "<a name=\"autor1107\"><font color = \"#FF000\"><u>Arguedas</u></font></b>",
+                  "referencia_obra": ", <i>Ríos prof.</i> 8 (p. 97).</font><font face=\"arial\"   color=\"#000080\"> X"
+                },
+                {
+                  "texto_cita": "«Están zurrando a las chicheras en la cárcel —dijo—.   Algunas han chillado duro, como alborotando. Dice que las fuetean en el trasero, delante   de sus maridos.»",
+                  "autor": "<a name=\"autor1108\"><font color = \"#FF000\"><u>Arguedas</u></font></b>",
+                  "author": "<a name=\"autor1108\"><font color = \"#FF000\"><u>Arguedas</u></font></b>",
+                  "referencia_obra": ", <i>Ríos prof.</i> 9 (p. 113)."
+                }
+              ]
             }
           ]
         },
@@ -102,9 +115,11 @@
             {
               "texto_cita": "«Tal cachetina </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Siguió después, </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Que malferido, </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Zurrado bien, </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Allí entre el lodo </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Me lo dejé.»",
               "autor": "<a name=\"autor1109\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
+              "author": "<a name=\"autor1109\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
               "referencia_obra": "<i>rom</i>. 9 (R. 2. 605</font><sup>2</sup><font face=\"arial\">)."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">γ</font><font face=\"arial\"> )",
@@ -114,9 +129,11 @@
             {
               "texto_cita": "«Me zurró una sarta de porrazos que hasta me quedé   dormido entre las piedras, con los huesos tronándome de tan zafados que los tenía.»",
               "autor": "<a name=\"autor1112\"><font color = \"#FF000\"><u>Rulfo</u></font></b>",
+              "author": "<a name=\"autor1112\"><font color = \"#FF000\"><u>Rulfo</u></font></b>",
               "referencia_obra": ", <i>El llano en llamas</i>, p. 47."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">δ</font><font face=\"arial\"> )",
@@ -126,14 +143,17 @@
             {
               "texto_cita": "«Por cuya causa mi padre, después de haberme zurrado muy   bien la badana, me llevó a casa de un amigo suyo, llamado Bernardo Vadía, que era   barbero del Duque de Alburquerque, embajador ordinario de España, con el cual me acomodó   por su aprendiz.»",
               "autor": "",
+              "author": "",
               "referencia_obra": "</font><font face=\"arial\"> <i>Esteb. Gonz.</i> 1. 1. (Cl. C. 108. 66).</font><font   face=\"arial\" color=\"#000080\"> X"
             },
             {
               "texto_cita": "«Inútil era que prometiera zurrarle la badana o hacerle   salir la joroba por el pecho de un mal golpe. El continuaba observando una conducta   impura.»",
               "autor": "<a name=\"autor1113\"><font color = \"#FF000\"><u>Gran encicl. Larousse</u></font></b>",
+              "author": "<a name=\"autor1113\"><font color = \"#FF000\"><u>Gran encicl. Larousse</u></font></b>",
               "referencia_obra": "</i>).</p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
             }
-          ]
+          ],
+          "subsubacepciones": []
         }
       ]
     },
@@ -150,14 +170,17 @@
             {
               "texto_cita": "«No me duele nada, no tengo hambre, nadie me insulta ni   me zurra.»",
               "autor": "<a name=\"autor1115\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
+              "author": "<a name=\"autor1115\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
               "referencia_obra": "<i>Obr. póst.</i> (3. 61).</font><font   face=\"arial\" color=\"#000080\"> X"
             },
             {
               "texto_cita": "«Tanto abundan </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Los necios, que adonde quiera </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Que voy no me falta nunca </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Alguna   víctima. Y.. vamos; </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Como usted cuando los zurra </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Lo hace con tanto salero </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Y así... con   tanta frescura.»",
               "autor": "<a name=\"autor1116\"><font color = \"#FF000\"><u>Bretón</u></font></b>",
+              "author": "<a name=\"autor1116\"><font color = \"#FF000\"><u>Bretón</u></font></b>",
               "referencia_obra": "(<dicautor><a name=\"autor1117\"><font color = \"#FF000\"><u>Pagés</u></font></b></dicautor>, <i>Dicc</i>.)."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
@@ -167,18 +190,14 @@
             {
               "texto_cita": "«Ya nos hemos zurrado —Y de lo lindo.»",
               "autor": "<a name=\"autor1118\"><font color = \"#FF000\"><u>Pagés</u></font></b>",
+              "author": "<a name=\"autor1118\"><font color = \"#FF000\"><u>Pagés</u></font></b>",
               "referencia_obra": ", <i>Dicc</i>.).</font></p>   <p ALIGN=\"JUSTIFY\"><b><font face=\"arial\" color=\"#800080\"></b>"
             }
-          ]
+          ],
+          "subsubacepciones": []
         }
       ]
-    },
-    {
-      "id": "Etim.",
-      "definicion": "</font><font face=\"arial\"   color=\"#0000ff\"> </font></b><font face=\"arial\">De la onomatopeya <i>zurr</i>.</font></p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p> </dir> </body> </html><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>",
-      "ejemplos_citas": [],
-      "subacepciones": []
     }
   ],
-  "etimologia": ""
+  "etimologia": "<dicarbrecont><a name=\"arbre1119\">Etim.</dicarbrecont></font><font face=\"arial\"   color=\"#0000ff\"> </font></b><font face=\"arial\">De la onomatopeya <i>zurr</i>.</font></p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p> </dir> </body> </html><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>"
 }

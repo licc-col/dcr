@@ -1,14 +1,55 @@
 {
   "lema": "DIFIDENTE.",
   "categoria_gramatical": "adj.",
-  "introduccion": "--><dicabrev><a name=\"abrev324\"><b><u>adj.</u></b></dicabrev></i> </font></p><font   face=\"arial\">   <p ALIGN=\"JUSTIFY\">Que desconfía, receloso.</p>   </font><p ALIGN=\"JUSTIFY\"><font   face=\"arial\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> ) </font><font   face=\"arial\" color=\"#000080\">«Tal vez se hace uno de la parte de los agravios hechos al   príncipe, y le aconseja la venganza, ó porque así la quiere tomar de su enemigo con el   poder del príncipe, ó porque le quiere apartar de su servicio y hacelle difidente.»</font><font   face=\"arial\"> <dicautor><a name=\"autor325\"><font color = \"#FF000\"><u>Saav.</u></font></b></dicautor> <i>Emp</i>. 46 (R. 25. 116<sup>2</sup>). </font><font face=\"arial\"   color=\"#000080\">«Entendieron en fortificar aquella parte dañosa notablemente. Comenzaron   la fábrica por industria de personas ignorantes ó difidentes; dispúsose tan grande, que   pareció imposible de proseguir.»</font><font face=\"arial\"> <dicautor><a name=\"autor326\"><font color = \"#FF000\"><u>Melo</u></font></b></dicautor>, <i>Guerra de Catal</i>.   5 (R. 28.529<sup>1</sup>). </font></p><p ALIGN=\"JUSTIFY\">   <font face=\"arial\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> ) Con   <i>de</i>, para expresar la persona de quien se desconfía. </font><font face=\"arial\"   color=\"#000080\">«Porque no dé crédito el príncipe á nadie, le hace el valido   difidente de todos, y principalmente de los buenos, de quien se teme más.»</font><font   face=\"arial\"> <dicautor><a name=\"autor327\"><font color = \"#FF000\"><u>Saav.</u></font></b></dicautor> <i>Emp</i>. 50 (R. 25. 131<sup>2</sup>). </font><font face=\"arial\"   color=\"#000080\">«Un mal consejo impreso en la bondad del rey de Francia y señalado en   las divinas letras, le tiene temeroso de sí, difidente de su madre y hermano y de todo el   reino.»</font><font face=\"arial\"> Id. <i>ib</i>. 75 (R. 25. 205<sup>2</sup>).</font></p>   <p ALIGN=\"JUSTIFY\"><b><font face=\"arial\" color=\"#800080\">",
+  "introduccion": "--><dicabrev><a name=\"abrev324\"><b><u>adj.</u></b></dicabrev></i> </font></p><font   face=\"arial\">   <p ALIGN=\"JUSTIFY\">Que desconfía, receloso.",
   "acepciones": [
     {
-      "id": "Etim.",
-      "definicion": "</font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Port., <dicabrev><a name=\"abrev329\"><b><u>it.</u></b></dicabrev><i> diffidente:</i>   del <dicabrev><a name=\"abrev330\"><b><u>lat.</u></b></dicabrev> <i>diffidentem</i>,<i> diffidens</i>,<i> </i><dicabrev><a name=\"abrev331\"><b><u>part.</u></b></dicabrev> de <i>diffidere</i>,   desconfiar, compuesto de la partícula <i>dis</i>,<i> </i>que es aquí negativa, y <i>fidere</i>,   fiar.</font></p><font face=\"arial\">   <i><p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   </i></font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>",
+      "id": "",
+      "definicion": "",
       "ejemplos_citas": [],
-      "subacepciones": []
+      "subacepciones": [
+        {
+          "id_marcador_html": "</p>   </font><p ALIGN=\"JUSTIFY\"><font   face=\"arial\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> ) </font>",
+          "id_limpio": "— α )",
+          "definicion": "<font   face=\"arial\" color=\"#000080\"></font>",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tal vez se hace uno de la parte de los agravios hechos al   príncipe, y le aconseja la venganza, ó porque así la quiere tomar de su enemigo con el   poder del príncipe, ó porque le quiere apartar de su servicio y hacelle difidente.»",
+              "autor": "<a name=\"autor325\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
+              "author": "<a name=\"autor325\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
+              "referencia_obra": "<i>Emp</i>. 46 (R. 25. 116<sup>2</sup>). </font><font face=\"arial\"   color=\"#000080\">"
+            },
+            {
+              "texto_cita": "«Entendieron en fortificar aquella parte dañosa notablemente. Comenzaron   la fábrica por industria de personas ignorantes ó difidentes; dispúsose tan grande, que   pareció imposible de proseguir.»",
+              "autor": "<a name=\"autor326\"><font color = \"#FF000\"><u>Melo</u></font></b>",
+              "author": "<a name=\"autor326\"><font color = \"#FF000\"><u>Melo</u></font></b>",
+              "referencia_obra": ", <i>Guerra de Catal</i>.   5 (R. 28.529<sup>1</sup>)."
+            }
+          ],
+          "subsubacepciones": []
+        },
+        {
+          "id_marcador_html": "</font></p><p ALIGN=\"JUSTIFY\">   <font face=\"arial\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
+          "id_limpio": "— β )",
+          "definicion": "Con   <i>de</i>, para expresar la persona de quien se desconfía. </font><font face=\"arial\"   color=\"#000080\">",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque no dé crédito el príncipe á nadie, le hace el valido   difidente de todos, y principalmente de los buenos, de quien se teme más.»",
+              "autor": "<a name=\"autor327\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
+              "author": "<a name=\"autor327\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
+              "referencia_obra": "<i>Emp</i>. 50 (R. 25. 131<sup>2</sup>). </font><font face=\"arial\"   color=\"#000080\">"
+            },
+            {
+              "texto_cita": "«Un mal consejo impreso en la bondad del rey de Francia y señalado en   las divinas letras, le tiene temeroso de sí, difidente de su madre y hermano y de todo el   reino.»",
+              "autor": "",
+              "author": "",
+              "referencia_obra": "</font><font face=\"arial\"> Id. <i>ib</i>. 75 (R. 25. 205<sup>2</sup>).</font></p>   <p ALIGN=\"JUSTIFY\"><b><font face=\"arial\" color=\"#800080\"></b>"
+            }
+          ],
+          "subsubacepciones": []
+        }
+      ]
     }
   ],
-  "etimologia": ""
+  "etimologia": "<dicarbrecont><a name=\"arbre328\">Etim.</dicarbrecont></font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Port., <dicabrev><a name=\"abrev329\"><b><u>it.</u></b></dicabrev><i> diffidente:</i>   del <dicabrev><a name=\"abrev330\"><b><u>lat.</u></b></dicabrev> <i>diffidentem</i>,<i> diffidens</i>,<i> </i><dicabrev><a name=\"abrev331\"><b><u>part.</u></b></dicabrev> de <i>diffidere</i>,   desconfiar, compuesto de la partícula <i>dis</i>,<i> </i>que es aquí negativa, y <i>fidere</i>,   fiar.</font></p><font face=\"arial\">   <i><p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   </i></font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>"
 }

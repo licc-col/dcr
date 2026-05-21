@@ -22,9 +22,11 @@
             {
               "texto_cita": "«Es el que acusa un príncipe de Utrino, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> La acusada mi hija;      él sabio y justo, </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Ella cortada de la honra al justo.<i>»</i>",
               "autor": "<a name=\"autor343\"><font color = \"#FF000\"><u>Cerv.</u></font></b>",
+              "author": "<a name=\"autor343\"><font color = \"#FF000\"><u>Cerv.</u></font></b>",
               "referencia_obra": "<i> El laberinto de amor, </i>1 (<i>Com. </i>2. 118)."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
@@ -34,41 +36,48 @@
             {
               "texto_cita": "«Muchas veces le acusaron de secreto y achacaron delitos cometidos      contra la majestad real.<i>»</i>",
               "autor": "<a name=\"autor346\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+              "author": "<a name=\"autor346\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
               "referencia_obra": ", <i>Hist.      Esp</i>. 22.12 (R. 31. 136<sup>2</sup>). </font><font face=\"arial\" color=\"#000080\">"
             },
             {
               "texto_cita": "«Estaban      allí los príncipes de los sacerdotes y letrados de la ley acusándole fuertemente.»",
               "autor": "<a name=\"autor347\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
+              "author": "<a name=\"autor347\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
               "referencia_obra": "<i>Orac. y consid. </i>1. 10, § 3 (R. 8. 71<sup>2</sup>). </font><font face=\"arial\"   color=\"#000080\">"
             },
             {
               "texto_cita": "«El emperador Constantino animó y aun ofreció premios en una      ley á los que con verdad acusaban á sus ministros y domésticos.»",
               "autor": "<a name=\"autor348\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
+              "author": "<a name=\"autor348\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
               "referencia_obra": "<i>Emp</i>. 14 (R. 25. 42<sup>1</sup>)."
             }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font   face=\"arial\"> )",
-          "id_limpio": "— α α )",
-          "definicion": "<i>Pas</i>. </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
+          ],
+          "subsubacepciones": [
             {
-              "texto_cita": "«Entendiendo      Pilato que Cristo nuestro Señor no tenía culpa, y que era acusado por envidia,      pretendió librarle.»",
-              "autor": "<a name=\"autor349\"><font color = \"#FF000\"><u>Rivad.</u></font></b>",
-              "referencia_obra": "<i>Flos SS. Vida de      Cristo</i> (75)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font   face=\"arial\"> )",
-          "id_limpio": "— β β )",
-          "definicion": "<a name=3379250> <i>Part</i>.  </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font   face=\"arial\"> )",
+              "id_limpio": "— α α )",
+              "definicion": "<i>Pas</i>. </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Entendiendo      Pilato que Cristo nuestro Señor no tenía culpa, y que era acusado por envidia,      pretendió librarle.»",
+                  "autor": "<a name=\"autor349\"><font color = \"#FF000\"><u>Rivad.</u></font></b>",
+                  "author": "<a name=\"autor349\"><font color = \"#FF000\"><u>Rivad.</u></font></b>",
+                  "referencia_obra": "<i>Flos SS. Vida de      Cristo</i> (75)."
+                }
+              ]
+            },
             {
-              "texto_cita": "«¿En      qué consejo ó decisión has visto </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Que sentencie el que acusa al acusado?»",
-              "autor": "<a name=\"autor350\"><font color = \"#FF000\"><u>Quev.</u></font></b>",
-              "referencia_obra": "<i>Musa </i>6,<i> son. </i>28 (R. 69. 133<sup>1</sup>)."
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font   face=\"arial\"> )",
+              "id_limpio": "— β β )",
+              "definicion": "<a name=3379250> <i>Part</i>.  </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«¿En      qué consejo ó decisión has visto </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Que sentencie el que acusa al acusado?»",
+                  "autor": "<a name=\"autor350\"><font color = \"#FF000\"><u>Quev.</u></font></b>",
+                  "author": "<a name=\"autor350\"><font color = \"#FF000\"><u>Quev.</u></font></b>",
+                  "referencia_obra": "<i>Musa </i>6,<i> son. </i>28 (R. 69. 133<sup>1</sup>)."
+                }
+              ]
             }
           ]
         },
@@ -76,159 +85,182 @@
           "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font face=\"arial\"> )",
           "id_limpio": "— γ )",
           "definicion": "El cargo se expresa:",
-          "ejemplos_citas": []
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font   face=\"arial\"> )",
-          "id_limpio": "— α α )",
-          "definicion": "<a name=3379237>Con <i>de </i>y un <dicabrev><a name=\"abrev351\"><b><u>sust.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
+          "ejemplos_citas": [],
+          "subsubacepciones": [
             {
-              "texto_cita": "«El      delito de que acusaban á los numantinos no era cosa tan grave.»",
-              "autor": "<a name=\"autor352\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
-              "referencia_obra": ", <i>Hist. Esp. </i>3. 6 (R. 30. 66<sup>1</sup>). </font><font face=\"arial\"   color=\"#000080\">"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font   face=\"arial\"> )",
+              "id_limpio": "— α α )",
+              "definicion": "<a name=3379237>Con <i>de </i>y un <dicabrev><a name=\"abrev351\"><b><u>sust.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«El      delito de que acusaban á los numantinos no era cosa tan grave.»",
+                  "autor": "<a name=\"autor352\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+                  "author": "<a name=\"autor352\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+                  "referencia_obra": ", <i>Hist. Esp. </i>3. 6 (R. 30. 66<sup>1</sup>). </font><font face=\"arial\"   color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Es cosa de admiración que en un mismo tiempo fueron acusadas      de adulterio tres nueras del rey Filipo el Hermoso.»",
+                  "autor": "",
+                  "author": "",
+                  "referencia_obra": "</font><font face=\"arial\">      Id<i>. ib. </i>15. 15 (R. 30. 450<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Nunca      á pedirme el duque se dispuso, </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> De miedo que tu hijo, como agora, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Hiciese la maldad      de que le acuso.»",
+                  "autor": "<a name=\"autor353\"><font color = \"#FF000\"><u>Lope</u></font></b>",
+                  "author": "<a name=\"autor353\"><font color = \"#FF000\"><u>Lope</u></font></b>",
+                  "referencia_obra": "<i>, El molino</i>, 1. 12      (R<i>. </i>24. 25<sup>3</sup>). </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Estando      el rey en la guerra, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> De      adulterio la acusaron.»",
+                  "autor": "",
+                  "author": "",
+                  "referencia_obra": "</font><font face=\"arial\"> Id<i>. La campana de Aragón,      </i>1 (R. 41.41<sup>3</sup>). </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Bastaría      lo dicho para demostrar la injusticia de los consultantes, si no fuese preciso      demostrar también la mala fe con que nos acusaron del más enorme abuso de      la autoridad, que suponían usurpada violentamente.<i>»</i>",
+                  "autor": "<a name=\"autor354\"><font color = \"#FF000\"><u>Jovell.</u></font></b>",
+                  "author": "<a name=\"autor354\"><font color = \"#FF000\"><u>Jovell.</u></font></b>",
+                  "referencia_obra": "<i>Def. de la Junta central</i>, 1. 1. 53 (R. 46. 517<sup>2</sup>).      </font><font   face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«¿Cuál puede ser este delito de que se pretende      acusarme?»",
+                  "autor": "",
+                  "author": "",
+                  "referencia_obra": "</font><font face=\"arial\"> Id. <i>ib. apénd</i>. 3. 3. (R. 46. 579<sup>2</sup>)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Es cosa de admiración que en un mismo tiempo fueron acusadas      de adulterio tres nueras del rey Filipo el Hermoso.»",
-              "autor": "",
-              "referencia_obra": "</font><font face=\"arial\">      Id<i>. ib. </i>15. 15 (R. 30. 450<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font   face=\"arial\"> )",
+              "id_limpio": "— β β )",
+              "definicion": "Con<i> de</i> y un <dicabrev><a name=\"abrev355\"><b><u>pred.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Acusáronla      de hechicera [á la doncella de Orliens] y por ello fue quemada.»",
+                  "autor": "<a name=\"autor356\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+                  "author": "<a name=\"autor356\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+                  "referencia_obra": ", <i>Hist. Esp</i>. 20. 16 (R. 31. 87<sup>2</sup>). </font><font   face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Los grandes, interesados por no ser acusados de      traidores, y porque no les quedaba excusa alguna para no hacello, entregaron      al rey los castillos, fuerzas y lugares que tenían en su poder.»",
+                  "autor": "",
+                  "author": "",
+                  "referencia_obra": "</font><font face=\"arial\">      Id. <i>ib</i>. 11. 11 (R. 30. 319<sup>2</sup>). </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Y      en esta suspensión, la que primero </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Del silencio la voz sacó parlera, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> De      alevoso acusando al caballero, </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Fue la atrevida y lóbrega hechicera.»",
+                  "autor": "<a name=\"autor357\"><font color = \"#FF000\"><u>Valb.</u></font></b>",
+                  "author": "<a name=\"autor357\"><font color = \"#FF000\"><u>Valb.</u></font></b>",
+                  "referencia_obra": "<i>Bern</i>. 9 (R. 17. 239<sup>2</sup>)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Nunca      á pedirme el duque se dispuso, </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> De miedo que tu hijo, como agora, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Hiciese la maldad      de que le acuso.»",
-              "autor": "<a name=\"autor353\"><font color = \"#FF000\"><u>Lope</u></font></b>",
-              "referencia_obra": "<i>, El molino</i>, 1. 12      (R<i>. </i>24. 25<sup>3</sup>). </font><font face=\"arial\" color=\"#000080\">"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font   face=\"arial\"> )",
+              "id_limpio": "— γ γ )",
+              "definicion": "Con<i> de</i> y un <dicabrev><a name=\"abrev358\"><b><u>infin.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Acusó      á aquellos de haber vendido á sus hermanos por dinero.»",
+                  "autor": "<a name=\"autor359\"><font color = \"#FF000\"><u>Scío</u></font></b>",
+                  "author": "<a name=\"autor359\"><font color = \"#FF000\"><u>Scío</u></font></b>",
+                  "referencia_obra": ", <i>Mac</i>. 2. 10. 21."
+                }
+              ]
             },
             {
-              "texto_cita": "«Estando      el rey en la guerra, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> De      adulterio la acusaron.»",
-              "autor": "",
-              "referencia_obra": "</font><font face=\"arial\"> Id<i>. La campana de Aragón,      </i>1 (R. 41.41<sup>3</sup>). </font><font face=\"arial\" color=\"#000080\">"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">δ</font><font face=\"arial\"> </font><font face=\"symbol\">δ</font><font   face=\"arial\"> )",
+              "id_limpio": "— δ δ )",
+              "definicion": "<a name=3379233>Con <i>de </i>y una prop. <dicabrev><a name=\"abrev360\"><b><u>indic.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Le      hubieran acusado delante del gobernador de que se usurpaba un poder que no      pertenecía sino al soberano.»",
+                  "autor": "<a name=\"autor361\"><font color = \"#FF000\"><u>Scío</u></font></b>",
+                  "author": "<a name=\"autor361\"><font color = \"#FF000\"><u>Scío</u></font></b>",
+                  "referencia_obra": ", <i>S. Juan</i>,      8. 6, <i>nota</i>. </font><font face=\"symbol\">—</font><font face=\"arial\"> En este caso omitían á menudo nuestros      clásicos la <dicabrev><a name=\"abrev362\"><b><u>prep.</u></b></dicabrev>, lo cual hoy se miraría como incorrecto. </font><font face=\"arial\"   color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Acusó [Donato] falsamente á Ceciliano obispo de Cartago que      entregara á los gentiles los libros sagrados.»",
+                  "autor": "<a name=\"autor363\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+                  "author": "<a name=\"autor363\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+                  "referencia_obra": ",      <i>Hist. Esp</i>. 4. 14 (R. 30. 106<sup>2</sup>). </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Tiberio      César no se perturbó porque le acusaban que se detenía en la isla de Capri      atendiendo á los calumniadores, y que no iba á remediar las Galias.»",
+                  "autor": "<a name=\"autor364\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
+                  "author": "<a name=\"autor364\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
+                  "referencia_obra": "<i>Emp</i>. 32 (R. 25. 85<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Acúsanle      que á toda Galilea </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Deja confusa y tiene alborotada.»",
+                  "autor": "<a name=\"autor365\"><font color = \"#FF000\"><u>Hojeda</u></font></b>",
+                  "author": "<a name=\"autor365\"><font color = \"#FF000\"><u>Hojeda</u></font></b>",
+                  "referencia_obra": ", <i>Crist.</i> 5 (R. 17. 442<sup>2</sup>)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Bastaría      lo dicho para demostrar la injusticia de los consultantes, si no fuese preciso      demostrar también la mala fe con que nos acusaron del más enorme abuso de      la autoridad, que suponían usurpada violentamente.<i>»</i>",
-              "autor": "<a name=\"autor354\"><font color = \"#FF000\"><u>Jovell.</u></font></b>",
-              "referencia_obra": "<i>Def. de la Junta central</i>, 1. 1. 53 (R. 46. 517<sup>2</sup>).      </font><font   face=\"arial\" color=\"#000080\">"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">ε</font><font face=\"arial\"> </font><font face=\"symbol\">ε</font><font   face=\"arial\"> )",
+              "id_limpio": "— ε ε )",
+              "definicion": "<a name=3379235>Con <i>por</i>. </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Fueron      acusados por lo que habían hecho, y condenados en destierro.»",
+                  "autor": "<a name=\"autor366\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+                  "author": "<a name=\"autor366\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+                  "referencia_obra": ", <i>Hist. Esp</i>. 4. 20 (R. 30. 114<sup>1</sup>)."
+                }
+              ]
             },
             {
-              "texto_cita": "«¿Cuál puede ser este delito de que se pretende      acusarme?»",
-              "autor": "",
-              "referencia_obra": "</font><font face=\"arial\"> Id. <i>ib. apénd</i>. 3. 3. (R. 46. 579<sup>2</sup>)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font   face=\"arial\"> )",
-          "id_limpio": "— β β )",
-          "definicion": "Con<i> de</i> y un <dicabrev><a name=\"abrev355\"><b><u>pred.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Acusáronla      de hechicera [á la doncella de Orliens] y por ello fue quemada.»",
-              "autor": "<a name=\"autor356\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
-              "referencia_obra": ", <i>Hist. Esp</i>. 20. 16 (R. 31. 87<sup>2</sup>). </font><font   face=\"arial\" color=\"#000080\">"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">ζ</font><font face=\"arial\"> </font><font face=\"symbol\">ζ</font><font   face=\"arial\"> )",
+              "id_limpio": "— ζ ζ )",
+              "definicion": "<a name=3379251>Con <i>por </i>y un <dicabrev><a name=\"abrev367\"><b><u>pred.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Defendióla      del fariseo que la acusaba por pecadora, declarando la grandeza de su caridad.»",
+                  "autor": "<a name=\"autor368\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
+                  "author": "<a name=\"autor368\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
+                  "referencia_obra": "<i>Adic. al Mem. med</i>. 20, § 1 (R. 8. 574<sup>1</sup>).      </font><font   face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Fue tenido por malhechor y revolvedor del pueblo;      y por tal lo acusan ante los jueces.»",
+                  "autor": "",
+                  "author": "",
+                  "referencia_obra": "</font><font face=\"arial\"> Id. <i>Orac.      y consid</i>. 1, <i>miérc. por la mañ</i>. (R. 8. 73<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Comenzáronle      á acusar por hombre embaucador y revoltoso, y que con nuevas y falsas doctrinas      pervertía el pueblo.»",
+                  "autor": "<a name=\"autor369\"><font color = \"#FF000\"><u>Rivad.</u></font></b>",
+                  "author": "<a name=\"autor369\"><font color = \"#FF000\"><u>Rivad.</u></font></b>",
+                  "referencia_obra": "<i>Flos SS. Vida de      Cristo</i> (73). </font><font face=\"symbol\">—</font><font face=\"arial\"> <i>Part</i>.      </font><font   face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Después de haber sojuzgado </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> A Cartago, á su      senado, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> En      lugar de galardón, </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Acusado por ladrón, </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> En fin murió desterrado.»",
+                  "autor": "<a name=\"autor370\"><font color = \"#FF000\"><u>Castillejo</u></font></b>",
+                  "author": "<a name=\"autor370\"><font color = \"#FF000\"><u>Castillejo</u></font></b>",
+                  "referencia_obra": ", 3 <i>Querella contra fortuna</i> (R. 32. 210<sup>3</sup>). </font><font   face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Otros acusados por rebeldes y alborotadores del      reino, llamados, como no compareciesen, fueron en ausencia condenados de crimen      <i>laesae majestatis</i>.»",
+                  "autor": "<a name=\"autor371\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+                  "author": "<a name=\"autor371\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+                  "referencia_obra": ", <i>Hist. Esp</i>.      14. 3 (R. 30. 404<sup>1</sup>)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Los grandes, interesados por no ser acusados de      traidores, y porque no les quedaba excusa alguna para no hacello, entregaron      al rey los castillos, fuerzas y lugares que tenían en su poder.»",
-              "autor": "",
-              "referencia_obra": "</font><font face=\"arial\">      Id. <i>ib</i>. 11. 11 (R. 30. 319<sup>2</sup>). </font><font face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Y      en esta suspensión, la que primero </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Del silencio la voz sacó parlera, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> De      alevoso acusando al caballero, </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Fue la atrevida y lóbrega hechicera.»",
-              "autor": "<a name=\"autor357\"><font color = \"#FF000\"><u>Valb.</u></font></b>",
-              "referencia_obra": "<i>Bern</i>. 9 (R. 17. 239<sup>2</sup>)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font   face=\"arial\"> )",
-          "id_limpio": "— γ γ )",
-          "definicion": "Con<i> de</i> y un <dicabrev><a name=\"abrev358\"><b><u>infin.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Acusó      á aquellos de haber vendido á sus hermanos por dinero.»",
-              "autor": "<a name=\"autor359\"><font color = \"#FF000\"><u>Scío</u></font></b>",
-              "referencia_obra": ", <i>Mac</i>. 2. 10. 21."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">δ</font><font face=\"arial\"> </font><font face=\"symbol\">δ</font><font   face=\"arial\"> )",
-          "id_limpio": "— δ δ )",
-          "definicion": "<a name=3379233>Con <i>de </i>y una prop. <dicabrev><a name=\"abrev360\"><b><u>indic.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Le      hubieran acusado delante del gobernador de que se usurpaba un poder que no      pertenecía sino al soberano.»",
-              "autor": "<a name=\"autor361\"><font color = \"#FF000\"><u>Scío</u></font></b>",
-              "referencia_obra": ", <i>S. Juan</i>,      8. 6, <i>nota</i>. </font><font face=\"symbol\">—</font><font face=\"arial\"> En este caso omitían á menudo nuestros      clásicos la <dicabrev><a name=\"abrev362\"><b><u>prep.</u></b></dicabrev>, lo cual hoy se miraría como incorrecto. </font><font face=\"arial\"   color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Acusó [Donato] falsamente á Ceciliano obispo de Cartago que      entregara á los gentiles los libros sagrados.»",
-              "autor": "<a name=\"autor363\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
-              "referencia_obra": ",      <i>Hist. Esp</i>. 4. 14 (R. 30. 106<sup>2</sup>). </font><font face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Tiberio      César no se perturbó porque le acusaban que se detenía en la isla de Capri      atendiendo á los calumniadores, y que no iba á remediar las Galias.»",
-              "autor": "<a name=\"autor364\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
-              "referencia_obra": "<i>Emp</i>. 32 (R. 25. 85<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Acúsanle      que á toda Galilea </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Deja confusa y tiene alborotada.»",
-              "autor": "<a name=\"autor365\"><font color = \"#FF000\"><u>Hojeda</u></font></b>",
-              "referencia_obra": ", <i>Crist.</i> 5 (R. 17. 442<sup>2</sup>)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">ε</font><font face=\"arial\"> </font><font face=\"symbol\">ε</font><font   face=\"arial\"> )",
-          "id_limpio": "— ε ε )",
-          "definicion": "<a name=3379235>Con <i>por</i>. </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Fueron      acusados por lo que habían hecho, y condenados en destierro.»",
-              "autor": "<a name=\"autor366\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
-              "referencia_obra": ", <i>Hist. Esp</i>. 4. 20 (R. 30. 114<sup>1</sup>)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">ζ</font><font face=\"arial\"> </font><font face=\"symbol\">ζ</font><font   face=\"arial\"> )",
-          "id_limpio": "— ζ ζ )",
-          "definicion": "<a name=3379251>Con <i>por </i>y un <dicabrev><a name=\"abrev367\"><b><u>pred.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Defendióla      del fariseo que la acusaba por pecadora, declarando la grandeza de su caridad.»",
-              "autor": "<a name=\"autor368\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
-              "referencia_obra": "<i>Adic. al Mem. med</i>. 20, § 1 (R. 8. 574<sup>1</sup>).      </font><font   face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Fue tenido por malhechor y revolvedor del pueblo;      y por tal lo acusan ante los jueces.»",
-              "autor": "",
-              "referencia_obra": "</font><font face=\"arial\"> Id. <i>Orac.      y consid</i>. 1, <i>miérc. por la mañ</i>. (R. 8. 73<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Comenzáronle      á acusar por hombre embaucador y revoltoso, y que con nuevas y falsas doctrinas      pervertía el pueblo.»",
-              "autor": "<a name=\"autor369\"><font color = \"#FF000\"><u>Rivad.</u></font></b>",
-              "referencia_obra": "<i>Flos SS. Vida de      Cristo</i> (73). </font><font face=\"symbol\">—</font><font face=\"arial\"> <i>Part</i>.      </font><font   face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Después de haber sojuzgado </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> A Cartago, á su      senado, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> En      lugar de galardón, </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Acusado por ladrón, </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> En fin murió desterrado.»",
-              "autor": "<a name=\"autor370\"><font color = \"#FF000\"><u>Castillejo</u></font></b>",
-              "referencia_obra": ", 3 <i>Querella contra fortuna</i> (R. 32. 210<sup>3</sup>). </font><font   face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Otros acusados por rebeldes y alborotadores del      reino, llamados, como no compareciesen, fueron en ausencia condenados de crimen      <i>laesae majestatis</i>.»",
-              "autor": "<a name=\"autor371\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
-              "referencia_obra": ", <i>Hist. Esp</i>.      14. 3 (R. 30. 404<sup>1</sup>)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">η</font><font face=\"arial\"> </font><font face=\"symbol\">η</font><font   face=\"arial\"> )",
-          "id_limpio": "— η η )",
-          "definicion": "<a name=3379241>Con<i> como</i>. </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«A      Alvar Núñez de Herrera, mayordomo del condestable, se le acusó por el fiscal      del Rey como confidente y mensajero de su señor en los tratos con el rey de      Granada.»",
-              "autor": "<a name=\"autor372\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
-              "referencia_obra": "<i>D. Álv. de Luna</i> (R. 19. 383<sup>1</sup>)."
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">η</font><font face=\"arial\"> </font><font face=\"symbol\">η</font><font   face=\"arial\"> )",
+              "id_limpio": "— η η )",
+              "definicion": "<a name=3379241>Con<i> como</i>. </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«A      Alvar Núñez de Herrera, mayordomo del condestable, se le acusó por el fiscal      del Rey como confidente y mensajero de su señor en los tratos con el rey de      Granada.»",
+                  "autor": "<a name=\"autor372\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
+                  "author": "<a name=\"autor372\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
+                  "referencia_obra": "<i>D. Álv. de Luna</i> (R. 19. 383<sup>1</sup>)."
+                }
+              ]
             }
           ]
         },
@@ -236,47 +268,53 @@
           "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">δ</font><font face=\"arial\"> )",
           "id_limpio": "— δ )",
           "definicion": "El juez ó tribunal se expresa:",
-          "ejemplos_citas": []
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font   face=\"arial\"> )",
-          "id_limpio": "— α α )",
-          "definicion": "<a name=3379249>Con <i>á</i> (raro). </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
+          "ejemplos_citas": [],
+          "subsubacepciones": [
             {
-              "texto_cita": "«Está      claro que este mono habla con el estilo del diablo, y estoy maravillado cómo      no le han acusado al Santo Oficio.»",
-              "autor": "<a name=\"autor373\"><font color = \"#FF000\"><u>Cerv.</u></font></b>",
-              "referencia_obra": "<i>Quij.</i>      2. 25 (R. 1. 458<sup>2</sup>)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font   face=\"arial\"> )",
-          "id_limpio": "— β β )",
-          "definicion": "<a name=3379248>Con <i>ante</i>. </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Ofendiéronse      todos de la aspereza de las invectivas, y más los ministros del rey que fueron      por la tarde á acusar al religioso ante su prelado.»",
-              "autor": "<a name=\"autor374\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
-              "referencia_obra": "<i>Las <dicautor><a name=\"autor375\"><font color = \"#FF000\"><u>Casas</u></font></b></dicautor></i> (R. 19. 439<sup>1</sup>). </font><font face=\"symbol\">—</font><font face=\"arial\">      <i>Pas</i>. </font><font face=\"arial\" color=\"#000080\">"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font   face=\"arial\"> )",
+              "id_limpio": "— α α )",
+              "definicion": "<a name=3379249>Con <i>á</i> (raro). </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Está      claro que este mono habla con el estilo del diablo, y estoy maravillado cómo      no le han acusado al Santo Oficio.»",
+                  "autor": "<a name=\"autor373\"><font color = \"#FF000\"><u>Cerv.</u></font></b>",
+                  "author": "<a name=\"autor373\"><font color = \"#FF000\"><u>Cerv.</u></font></b>",
+                  "referencia_obra": "<i>Quij.</i>      2. 25 (R. 1. 458<sup>2</sup>)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Si fuese acusado ante      el emperador por sus robos, sería gravemente castigado.»",
-              "autor": "<a name=\"autor376\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
-              "referencia_obra": "<i> Símb. </i>4.<i> </i>14, §</font><font face=\"arial\" color=\"#0000ff\">      </font><font face=\"arial\">1 (R</font><font   face=\"arial\" color=\"#0000ff\"><b>. </b></font><font face=\"arial\">6. 511<sup>2</sup>).      </font><font   face=\"arial\" color=\"#000080\">"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font   face=\"arial\"> )",
+              "id_limpio": "— β β )",
+              "definicion": "<a name=3379248>Con <i>ante</i>. </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Ofendiéronse      todos de la aspereza de las invectivas, y más los ministros del rey que fueron      por la tarde á acusar al religioso ante su prelado.»",
+                  "autor": "<a name=\"autor374\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
+                  "author": "<a name=\"autor374\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
+                  "referencia_obra": "<i>Las <dicautor><a name=\"autor375\"><font color = \"#FF000\"><u>Casas</u></font></b></dicautor></i> (R. 19. 439<sup>1</sup>). </font><font face=\"symbol\">—</font><font face=\"arial\">      <i>Pas</i>. </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Si fuese acusado ante      el emperador por sus robos, sería gravemente castigado.»",
+                  "autor": "<a name=\"autor376\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
+                  "author": "<a name=\"autor376\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
+                  "referencia_obra": "<i> Símb. </i>4.<i> </i>14, §</font><font face=\"arial\" color=\"#0000ff\">      </font><font face=\"arial\">1 (R</font><font   face=\"arial\" color=\"#0000ff\"><b>. </b></font><font face=\"arial\">6. 511<sup>2</sup>).      </font><font   face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Por mí finalmente fuiste preso, --- presentado      ante unos y otros tribunales y jueces, y ante ellos acusado.»",
+                  "autor": "",
+                  "author": "",
+                  "referencia_obra": "</font><font face=\"arial\">      Id. <i>Guía</i>, 1. 4 (R. 6. 24<sup>2</sup>)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Por mí finalmente fuiste preso, --- presentado      ante unos y otros tribunales y jueces, y ante ellos acusado.»",
-              "autor": "",
-              "referencia_obra": "</font><font face=\"arial\">      Id. <i>Guía</i>, 1. 4 (R. 6. 24<sup>2</sup>)."
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font   face=\"arial\"> )",
+              "id_limpio": "— γ γ )",
+              "definicion": "<a name=3379236>Con<i><a href = #3379236>   </a>delante. </i>Véase </font><font face=\"symbol\">γ</font><font   face=\"arial\">, </font><font face=\"symbol\">δ</font><font face=\"arial\"> </font><font face=\"symbol\">δ</font><font face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>",
+              "ejemplos_citas": []
             }
           ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font   face=\"arial\"> )",
-          "id_limpio": "— γ γ )",
-          "definicion": "<a name=3379236>Con<i><a href = #3379236>   </a>delante. </i>Véase </font><font face=\"symbol\">γ</font><font   face=\"arial\">, </font><font face=\"symbol\">δ</font><font face=\"arial\"> </font><font face=\"symbol\">δ</font><font face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>",
-          "ejemplos_citas": []
         }
       ]
     },
@@ -293,19 +331,23 @@
             {
               "texto_cita": "«Jamás      me ha acusado la conciencia de haber dicho alguna mentira.»",
               "autor": "<a name=\"autor378\"><font color = \"#FF000\"><u>Cerv.</u></font></b>",
+              "author": "<a name=\"autor378\"><font color = \"#FF000\"><u>Cerv.</u></font></b>",
               "referencia_obra": "<i>Pers</i>. 1. 14 (R. 1. 579<sup>2</sup> ). </font><font face=\"arial\" color=\"#000080\">"
             },
             {
               "texto_cita": "«El      alcaide Vasco Pérez, por acusarle su conciencia de la maldad cometida y temer      la indignación del rey, --- se pasó en Africa.»",
               "autor": "<a name=\"autor379\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+              "author": "<a name=\"autor379\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
               "referencia_obra": ", <i>Hist. Esp</i>. 16. 2 (R. 30. 463<sup>1</sup>). </font><font face=\"symbol\">—</font><font face=\"arial\">      </font><font   face=\"arial\" color=\"#000080\">"
             },
             {
               "texto_cita": "«Esta rectificación y confirmación de su testamento      hará el buen cristiano todas las veces que estuviere quieto y contemplare      en la vida que espera, y se viere que no le acusa cosa de pecado mortal.»",
               "autor": "<a name=\"autor380\"><font color = \"#FF000\"><u>Venegas</u></font></b>",
+              "author": "<a name=\"autor380\"><font color = \"#FF000\"><u>Venegas</u></font></b>",
               "referencia_obra": ", <i>Agonía</i>, 2. 14 (<i>Míst</i>. 3. 34)."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
@@ -315,9 +357,11 @@
             {
               "texto_cita": "«Aquí [en la oración] es donde llegándose [el alma]      á aquella luz eterna, ve más claro sus defectos, y los llora, y los acusa.»",
               "autor": "<a name=\"autor381\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
+              "author": "<a name=\"autor381\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
               "referencia_obra": "<i>Orac. y consid. </i>1. 1, § 5 (R. 8. 7<sup>2</sup>)."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font face=\"arial\"> )",
@@ -327,44 +371,53 @@
             {
               "texto_cita": "«Pues los malaventurados que despedidos de aquellos tan grandes      bienes fueron condenados á estos males, ¿qué harán? qué dirán? cómo se acusarán?»",
               "autor": "<a name=\"autor382\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
+              "author": "<a name=\"autor382\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
               "referencia_obra": "<i>Guía</i>, 1. 8 (R. 6. 37<sup>2</sup>)."
             }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font   face=\"arial\"> )",
-          "id_limpio": "— α α )",
-          "definicion": "Dícese en especial de la confesión de los propios pecados, ora      se haga espiritual, ora sacramentalmente. </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
+          ],
+          "subsubacepciones": [
             {
-              "texto_cita": "«,      Allí el ánima religiosa se acusa delante de Dios.»",
-              "autor": "<a name=\"autor383\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
-              "referencia_obra": "<i>Orac. y</i> <i>consid. </i>1. 1, § 5 (R. 8. 7<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Puede      el hombre disponerse para la oración trayendo á la memoria sus pecados, y      señaladamente los de aquel día, acusarse dellos, y pedir al Señor perdón dellos.»",
-              "autor": "",
-              "referencia_obra": "</font><font   face=\"arial\"> Id<i>. ib</i>. 1. 3 (R. 8. 11<sup>1</sup>). </font><font face=\"arial\"   color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Ayuda también á esto examinar cada día antes que el hombre      se acueste su conciencia, y mirar en lo que ha pecado aquel día, y acusarse      dello ante nuestro Señor y pedirle perdón.»",
-              "autor": "",
-              "referencia_obra": "</font><font face=\"arial\"> Id.      <i>Mem. del crist. </i>1 (R. 11. 179<sup>1</sup>).<i> </i></font><i><font face=\"symbol\">—</font><font face=\"arial\">      </font></i><font   face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Demás del sacrilegio que cometen, son obligados      á hacer estas confesiones y acusarse de cómo las hicieron sin preceder para      ellas el examen necesario.»",
-              "autor": "<a name=\"autor384\"><font color = \"#FF000\"><u>Doctr.</u></font></b>",
-              "referencia_obra": "crist</i>.      3. 11, § 1 (R. 11. 155<sup>2</sup>). </font><font face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Este      no cumple confesando con decir: Acúsome que hurté una espada.»",
-              "autor": "",
-              "referencia_obra": "</font><font face=\"arial\">      Id. <i>ib.</i> 3. 11, § 3 (R. 11. 156<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«De      todos los pecados de la confesión pasada me acuso, y de tal pecado más.»",
-              "autor": "",
-              "referencia_obra": "</font><font face=\"arial\">      Id. <i>ib</i>. 3. 12 (R. 11. 158<sup>2</sup>).</font></p>   <b>    <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"></b>"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font   face=\"arial\"> )",
+              "id_limpio": "— α α )",
+              "definicion": "Dícese en especial de la confesión de los propios pecados, ora      se haga espiritual, ora sacramentalmente. </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«,      Allí el ánima religiosa se acusa delante de Dios.»",
+                  "autor": "<a name=\"autor383\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
+                  "author": "<a name=\"autor383\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
+                  "referencia_obra": "<i>Orac. y</i> <i>consid. </i>1. 1, § 5 (R. 8. 7<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Puede      el hombre disponerse para la oración trayendo á la memoria sus pecados, y      señaladamente los de aquel día, acusarse dellos, y pedir al Señor perdón dellos.»",
+                  "autor": "",
+                  "author": "",
+                  "referencia_obra": "</font><font   face=\"arial\"> Id<i>. ib</i>. 1. 3 (R. 8. 11<sup>1</sup>). </font><font face=\"arial\"   color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Ayuda también á esto examinar cada día antes que el hombre      se acueste su conciencia, y mirar en lo que ha pecado aquel día, y acusarse      dello ante nuestro Señor y pedirle perdón.»",
+                  "autor": "",
+                  "author": "",
+                  "referencia_obra": "</font><font face=\"arial\"> Id.      <i>Mem. del crist. </i>1 (R. 11. 179<sup>1</sup>).<i> </i></font><i><font face=\"symbol\">—</font><font face=\"arial\">      </font></i><font   face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Demás del sacrilegio que cometen, son obligados      á hacer estas confesiones y acusarse de cómo las hicieron sin preceder para      ellas el examen necesario.»",
+                  "autor": "<a name=\"autor384\"><font color = \"#FF000\"><u>Doctr.</u></font></b>",
+                  "author": "<a name=\"autor384\"><font color = \"#FF000\"><u>Doctr.</u></font></b>",
+                  "referencia_obra": "crist</i>.      3. 11, § 1 (R. 11. 155<sup>2</sup>). </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Este      no cumple confesando con decir: Acúsome que hurté una espada.»",
+                  "autor": "",
+                  "author": "",
+                  "referencia_obra": "</font><font face=\"arial\">      Id. <i>ib.</i> 3. 11, § 3 (R. 11. 156<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«De      todos los pecados de la confesión pasada me acuso, y de tal pecado más.»",
+                  "autor": "",
+                  "author": "",
+                  "referencia_obra": "</font><font face=\"arial\">      Id. <i>ib</i>. 3. 12 (R. 11. 158<sup>2</sup>).</font></p>   <b>    <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"></b>"
+                }
+              ]
             }
           ]
         }
@@ -389,84 +442,98 @@
             {
               "texto_cita": "«Cuando      los aires, Pármeno, divides </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Con el estoque negro, no te acuso </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Si por ángulo recto      ó por obtuso, </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Atento al arte las distancias mides.»",
               "autor": "<a name=\"autor387\"><font color = \"#FF000\"><u>B. Argens.</u></font></b>",
+              "author": "<a name=\"autor387\"><font color = \"#FF000\"><u>B. Argens.</u></font></b>",
               "referencia_obra": "<i>son. que empieza así </i>(R. 42. 322<sup>2</sup>)."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
           "id_limpio": "— β )",
           "definicion": "El cargo se expresa:",
-          "ejemplos_citas": []
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font   face=\"arial\"> )",
-          "id_limpio": "— α α )",
-          "definicion": "<a name=3379239> Con <a name=3379253> <i>de </i>   y un <dicabrev><a name=\"abrev388\"><b><u>sust.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
+          "ejemplos_citas": [],
+          "subsubacepciones": [
             {
-              "texto_cita": "«Llamamos      tantas veces al Dios de paz para que intervenga en nuestros sangrientos debates,      y venga á ayudarnos en las guerras que emprendemos, tan poco necesarias por      lo común, que no hemos adquirido todavía bastante derecho para acusar á nuestros      antepasados de iguales extravíos.»",
-              "autor": "<a name=\"autor389\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
-              "referencia_obra": "<i>Pizarro</i>      (R. 19. 305<sup>2</sup>). </font><font   face=\"arial\" color=\"#000080\">"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font   face=\"arial\"> )",
+              "id_limpio": "— α α )",
+              "definicion": "<a name=3379239> Con <a name=3379253> <i>de </i>   y un <dicabrev><a name=\"abrev388\"><b><u>sust.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Llamamos      tantas veces al Dios de paz para que intervenga en nuestros sangrientos debates,      y venga á ayudarnos en las guerras que emprendemos, tan poco necesarias por      lo común, que no hemos adquirido todavía bastante derecho para acusar á nuestros      antepasados de iguales extravíos.»",
+                  "autor": "<a name=\"autor389\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
+                  "author": "<a name=\"autor389\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
+                  "referencia_obra": "<i>Pizarro</i>      (R. 19. 305<sup>2</sup>). </font><font   face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Acusa de impiedad y libertinaje á quien lo confunde      con razones.»",
+                  "autor": "<a name=\"autor390\"><font color = \"#FF000\"><u>M. de la Rosa</u></font></b>",
+                  "author": "<a name=\"autor390\"><font color = \"#FF000\"><u>M. de la Rosa</u></font></b>",
+                  "referencia_obra": ", <i>¡Lo que</i></font><i><font face=\"arial\"   color=\"#0000ff\"> </font><font face=\"arial\">puede un empleo!</font><font face=\"arial\"   color=\"#0000ff\"> </font></i><font face=\"arial\">1. 5 (3. 7).</font><font face=\"arial\"   color=\"#000080\"> </font><font face=\"symbol\">—</font><font face=\"arial\"   color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«De estas olas y viento impetuoso </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> En vano acusas la      celeste esfera.»",
+                  "autor": "<a name=\"autor391\"><font color = \"#FF000\"><u>Rioja</u></font></b>",
+                  "author": "<a name=\"autor391\"><font color = \"#FF000\"><u>Rioja</u></font></b>",
+                  "referencia_obra": ", <i>son. mor</i>. 9 (R. 32.      379<sup>2</sup>)<i>. </i></font><i><font face=\"symbol\">—</font><font face=\"arial\">      Refl. </font></i><font   face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Así el discreto Apolo lo dispuso, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> A      los dos respondí, y en este hecho </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> De ignorancia ó malicia no me acuso.»",
+                  "autor": "<a name=\"autor392\"><font color = \"#FF000\"><u>Cerv.</u></font></b>",
+                  "author": "<a name=\"autor392\"><font color = \"#FF000\"><u>Cerv.</u></font></b>",
+                  "referencia_obra": "<i>Viaje</i>, 8 (R. 1. 700<sup>2</sup>). </font><font face=\"arial\"   color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Nos procuramos olvidar de lo que fuimos, por acusarnos de lo      que somos.»",
+                  "autor": "<a name=\"autor393\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
+                  "author": "<a name=\"autor393\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
+                  "referencia_obra": "<i>Emp</i>. 16 (R. 25. 45<sup>2</sup>)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Acusa de impiedad y libertinaje á quien lo confunde      con razones.»",
-              "autor": "<a name=\"autor390\"><font color = \"#FF000\"><u>M. de la Rosa</u></font></b>",
-              "referencia_obra": ", <i>¡Lo que</i></font><i><font face=\"arial\"   color=\"#0000ff\"> </font><font face=\"arial\">puede un empleo!</font><font face=\"arial\"   color=\"#0000ff\"> </font></i><font face=\"arial\">1. 5 (3. 7).</font><font face=\"arial\"   color=\"#000080\"> </font><font face=\"symbol\">—</font><font face=\"arial\"   color=\"#000080\">"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font   face=\"arial\"> )",
+              "id_limpio": "— β β )",
+              "definicion": "Con <i>de </i>y un <dicabrev><a name=\"abrev394\"><b><u>pred.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Pues      me acusa de inconstante </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> En su cólera mi amante, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> No conoce que la      ausencia </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Es      la muerte del amor.»",
+                  "autor": "<a name=\"autor395\"><font color = \"#FF000\"><u>D. Solís</u></font></b>",
+                  "author": "<a name=\"autor395\"><font color = \"#FF000\"><u>D. Solís</u></font></b>",
+                  "referencia_obra": ",<i> cantil. </i>2</font><font face=\"arial\"   color=\"#0000ff\"> </font><font face=\"arial\">(R. 67. 238<sup>2</sup>). </font><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«De      estéril osas acusar el suelo </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Porque á los gritos tuyos no se mueve.»",
+                  "autor": "<a name=\"autor396\"><font color = \"#FF000\"><u>Quev.</u></font></b>",
+                  "author": "<a name=\"autor396\"><font color = \"#FF000\"><u>Quev.</u></font></b>",
+                  "referencia_obra": "<i>Musa</i> 2, <i>son</i>. 97 (R. 69. 31<sup>2</sup>).<i>      </i></font><i><font face=\"symbol\">—</font><font face=\"arial\"> Refl. </font></i><font face=\"arial\"   color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Acúsome de puro majadero.»",
+                  "autor": "<a name=\"autor397\"><font color = \"#FF000\"><u>Mend.</u></font></b>",
+                  "author": "<a name=\"autor397\"><font color = \"#FF000\"><u>Mend.</u></font></b>",
+                  "referencia_obra": "<i>carta</i> 9 (R. 32. 65<sup>2</sup>)."
+                }
+              ]
             },
             {
-              "texto_cita": "«De estas olas y viento impetuoso </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> En vano acusas la      celeste esfera.»",
-              "autor": "<a name=\"autor391\"><font color = \"#FF000\"><u>Rioja</u></font></b>",
-              "referencia_obra": ", <i>son. mor</i>. 9 (R. 32.      379<sup>2</sup>)<i>. </i></font><i><font face=\"symbol\">—</font><font face=\"arial\">      Refl. </font></i><font   face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Así el discreto Apolo lo dispuso, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> A      los dos respondí, y en este hecho </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> De ignorancia ó malicia no me acuso.»",
-              "autor": "<a name=\"autor392\"><font color = \"#FF000\"><u>Cerv.</u></font></b>",
-              "referencia_obra": "<i>Viaje</i>, 8 (R. 1. 700<sup>2</sup>). </font><font face=\"arial\"   color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Nos procuramos olvidar de lo que fuimos, por acusarnos de lo      que somos.»",
-              "autor": "<a name=\"autor393\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
-              "referencia_obra": "<i>Emp</i>. 16 (R. 25. 45<sup>2</sup>)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font   face=\"arial\"> )",
-          "id_limpio": "— β β )",
-          "definicion": "Con <i>de </i>y un <dicabrev><a name=\"abrev394\"><b><u>pred.</u></b></dicabrev> </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Pues      me acusa de inconstante </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> En su cólera mi amante, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> No conoce que la      ausencia </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Es      la muerte del amor.»",
-              "autor": "<a name=\"autor395\"><font color = \"#FF000\"><u>D. Solís</u></font></b>",
-              "referencia_obra": ",<i> cantil. </i>2</font><font face=\"arial\"   color=\"#0000ff\"> </font><font face=\"arial\">(R. 67. 238<sup>2</sup>). </font><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«De      estéril osas acusar el suelo </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Porque á los gritos tuyos no se mueve.»",
-              "autor": "<a name=\"autor396\"><font color = \"#FF000\"><u>Quev.</u></font></b>",
-              "referencia_obra": "<i>Musa</i> 2, <i>son</i>. 97 (R. 69. 31<sup>2</sup>).<i>      </i></font><i><font face=\"symbol\">—</font><font face=\"arial\"> Refl. </font></i><font face=\"arial\"   color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Acúsome de puro majadero.»",
-              "autor": "<a name=\"autor397\"><font color = \"#FF000\"><u>Mend.</u></font></b>",
-              "referencia_obra": "<i>carta</i> 9 (R. 32. 65<sup>2</sup>)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font   face=\"arial\"> )",
-          "id_limpio": "— γ γ )",
-          "definicion": "<a name=3379234>Con <i>de </i>y una prop. <dicabrev><a name=\"abrev398\"><b><u>indic.</u></b></dicabrev> </font><font face=\"symbol\">—</font><font   face=\"arial\"> Nuestros clásicos omitían á menudo la <dicabrev><a name=\"abrev399\"><b><u>prep.</u></b></dicabrev> Hoy parecería incorrecto.      </font><font   face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Los que quedaban por codicia de sus riquezas,      eran acusados que concertaban salirse.»",
-              "autor": "<a name=\"autor400\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
-              "referencia_obra": "<i>Símb</i>.      4. 16, § 2 (R. 6. 516<sup>2</sup>). </font><font face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«San      Augustín se acusa, como verdadero humilde, que, estando muy lejos de toda      embriaguez, alguna vez había excedido los términos de la templanza.»",
-              "autor": "",
-              "referencia_obra": "</font><font face=\"arial\">      Id. <i>Vida de Áv.</i>, 4, § 4 (R. 11. 472<sup>1</sup>). </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font   face=\"arial\"> )",
+              "id_limpio": "— γ γ )",
+              "definicion": "<a name=3379234>Con <i>de </i>y una prop. <dicabrev><a name=\"abrev398\"><b><u>indic.</u></b></dicabrev> </font><font face=\"symbol\">—</font><font   face=\"arial\"> Nuestros clásicos omitían á menudo la <dicabrev><a name=\"abrev399\"><b><u>prep.</u></b></dicabrev> Hoy parecería incorrecto.      </font><font   face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Los que quedaban por codicia de sus riquezas,      eran acusados que concertaban salirse.»",
+                  "autor": "<a name=\"autor400\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
+                  "author": "<a name=\"autor400\"><font color = \"#FF000\"><u>Gran.</u></font></b>",
+                  "referencia_obra": "<i>Símb</i>.      4. 16, § 2 (R. 6. 516<sup>2</sup>). </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«San      Augustín se acusa, como verdadero humilde, que, estando muy lejos de toda      embriaguez, alguna vez había excedido los términos de la templanza.»",
+                  "autor": "",
+                  "author": "",
+                  "referencia_obra": "</font><font face=\"arial\">      Id. <i>Vida de Áv.</i>, 4, § 4 (R. 11. 472<sup>1</sup>). </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
+                }
+              ]
             }
           ]
         }
@@ -479,6 +546,7 @@
         {
           "texto_cita": "«Los que habían acusado la ignorancia y la codicia      de los cómicos, les hicieron echar <i>El príncipe perseguido, Las máscaras      de Amiens</i>.»",
           "autor": "<a name=\"autor402\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
+          "author": "<a name=\"autor402\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
           "referencia_obra": "<i>Obr. póst</i>. 1, p. 148. </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
         }
       ],
@@ -491,21 +559,25 @@
         {
           "texto_cita": "«El celo de un      ministro al bien público acusa el desamor de los demás; su inteligencia descubre      la ignorancia ajena.»",
           "autor": "<a name=\"autor405\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
+          "author": "<a name=\"autor405\"><font color = \"#FF000\"><u>Saav.</u></font></b>",
           "referencia_obra": "<i>Emp</i>. 10 (R. 25.      32<sup>1</sup>). </font><font   face=\"arial\" color=\"#000080\">"
         },
         {
           "texto_cita": "«La alabanza que merecieron sus principios, acusa      sus fines.»",
           "autor": "",
+          "author": "",
           "referencia_obra": "</font><font face=\"arial\"> Id. <i>Emp</i>. 63 (R. 25. 174<sup>1</sup>).      </font><font   face=\"arial\" color=\"#000080\">"
         },
         {
           "texto_cita": "«La necesidad presente acusa la liberalidad pasada.»",
           "autor": "",
+          "author": "",
           "referencia_obra": "</font><font   face=\"arial\"> Id. <i>Emp</i>. 97 (R. 25. 253<sup>1</sup>). </font><font face=\"arial\"   color=\"#000080\">"
         },
         {
           "texto_cita": "«Este gran modelo [Plutarco] está siempre presente para acusar      de temeridad á todos los que se atrevan á seguir el mismo camino.»",
           "autor": "<a name=\"autor406\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
+          "author": "<a name=\"autor406\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
           "referencia_obra": "<i>Vidas, pról.</i> (R. 19. 199)."
         }
       ],
@@ -518,9 +590,11 @@
             {
               "texto_cita": "«Tuvo      la resolución de desechar diferentes composiciones que acusaban demasiado      los pocos años y la inexperiencia del autor.»",
               "autor": "<a name=\"autor408\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
+              "author": "<a name=\"autor408\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
               "referencia_obra": "<i>Introd. á la poes. castell. del siglo XVIII</i>, 5 (R. 19. 154<sup>2</sup>).</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
             }
-          ]
+          ],
+          "subsubacepciones": []
         }
       ]
     },
@@ -537,9 +611,11 @@
             {
               "texto_cita": "«Si me lo permites, te diré que en muchos pasajes      te acusarán de dureza y obscuridad.»",
               "autor": "<a name=\"autor411\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
+              "author": "<a name=\"autor411\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
               "referencia_obra": "<i>Obr.      póst.</i> 2, p. 115."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
@@ -549,29 +625,35 @@
             {
               "texto_cita": "«Este aparato de juramentos y ofrendas en las confederaciones,      no sólo no las afirma, mas antes las acusa de sospechosas.»",
               "autor": "<a name=\"autor413\"><font color = \"#FF000\"><u>Quev.</u></font></b>",
+              "author": "<a name=\"autor413\"><font color = \"#FF000\"><u>Quev.</u></font></b>",
               "referencia_obra": "<i>M. Bruto</i> (R. 23. 146<sup>1</sup>). </font><font face=\"arial\"   color=\"#000080\">"
             },
             {
               "texto_cita": "«Pero al lugar donde salí volviendo, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Porque de divertido      no me acuses </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> (Bien que no sin gran causa), yo me enmiendo.»",
               "autor": "<a name=\"autor414\"><font color = \"#FF000\"><u>B. Argens.</u></font></b>",
+              "author": "<a name=\"autor414\"><font color = \"#FF000\"><u>B. Argens.</u></font></b>",
               "referencia_obra": "<i>epíst. Dícesme, Nuño</i> (R. 42. 308<sup>2</sup>). </font><font   face=\"arial\" color=\"#000080\">"
             },
             {
               "texto_cita": "«De escasas acusaron [los cuadrúpedos] las abejas.»",
               "autor": "<a name=\"autor415\"><font color = \"#FF000\"><u>Villav.</u></font></b>",
+              "author": "<a name=\"autor415\"><font color = \"#FF000\"><u>Villav.</u></font></b>",
               "referencia_obra": "<i><dicautor><a name=\"autor416\"><font color = \"#FF000\"><u>Mosq.</u></font></b></dicautor> </i>8 (R. 17. 603<sup>1</sup>). </font><font face=\"arial\"   color=\"#000080\">"
             },
             {
               "texto_cita": "«No hay paso concedido á mayor gloria, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Ni voz que no la      acusen de extranjera.»",
               "autor": "<a name=\"autor417\"><font color = \"#FF000\"><u>Góng.</u></font></b>",
+              "author": "<a name=\"autor417\"><font color = \"#FF000\"><u>Góng.</u></font></b>",
               "referencia_obra": "<i>son.</i> 73 (R.      32. 435<sup>2</sup>)<i>. </i></font><font face=\"arial\" color=\"#000080\">"
             },
             {
               "texto_cita": "«Todos      al duro asedio se aperciben, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Acusando      las horas de prolijas.»",
               "autor": "<a name=\"autor418\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
+              "author": "<a name=\"autor418\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
               "referencia_obra": "<i>La toma de Granada      </i>(R. 2. 574<sup>2</sup>)."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font face=\"arial\"> )",
@@ -581,14 +663,17 @@
             {
               "texto_cita": "«El      que no le acusa de criminal, le tacha, por lo menos, de imprudente.»",
               "autor": "<a name=\"autor419\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
+              "author": "<a name=\"autor419\"><font color = \"#FF000\"><u>Quint.</u></font></b>",
               "referencia_obra": "<i>Obr. inéd. </i>p<i>. </i>224. </font><font face=\"arial\" color=\"#000080\">"
             },
             {
               "texto_cita": "«Acaso      se me tildará de nimiamente severo en lo que me parece reprensible, acaso      los amantes indiscretos de la gloria nacional, en que tiene tanta parte Cervantes,      me acusarán de indiferente y aun de contrario á ella; pero serán injustos.»",
               "autor": "<a name=\"autor420\"><font color = \"#FF000\"><u>Clem.</u></font></b>",
+              "author": "<a name=\"autor420\"><font color = \"#FF000\"><u>Clem.</u></font></b>",
               "referencia_obra": "<i>Coment</i>. 1, p. XXXIV.</font></p>   <b>    <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"></b>"
             }
-          ]
+          ],
+          "subsubacepciones": []
         }
       ]
     },
@@ -611,19 +696,23 @@
             {
               "texto_cita": "«Ella      misma una y dos veces puso al rey pleito delante del romano Pontífice sobre      la corona. Acusábale la palabra que decía le dio de casamiento.»",
               "autor": "<a name=\"autor423\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
+              "author": "<a name=\"autor423\"><font color = \"#FF000\"><u>Mariana</u></font></b>",
               "referencia_obra": ", <i>Hist. Esp. </i>13. 12 (R. 30. 386<sup>2</sup>). </font><font face=\"arial\" color=\"#000080\">"
             },
             {
               "texto_cita": "«Acusábanle      al rey un juramento que los años pasados hizo en Daroca, en que se obligó      y estableció por ley perpetua que no enajenaría cosa de la corona real.»",
               "autor": "",
+              "author": "",
               "referencia_obra": "</font><font face=\"arial\">      Id. <i>ib</i>. 16. 3 (R. 30. 464<sup>2</sup>). </font><font face=\"arial\" color=\"#000080\">"
             },
             {
               "texto_cita": "«En      estos días el arzobispo don Lope de Luna vino otra vez á Castilla enviado      por el rey de Aragón con embajada á don Enrique para pedille cumpliese con      él lo que tenía capitulado, y acusalle los juramentos que le tenía hechos      y las pleitesías.»",
               "autor": "",
+              "author": "",
               "referencia_obra": "</font><font   face=\"arial\"> Id. <i>ib</i>. 17. 8 (R. 30. 511<sup>2</sup>)."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
@@ -633,9 +722,11 @@
             {
               "texto_cita": "«Yo tendré cuidado --- de acusar al autor de la      historia que, si otra vez la imprimiere, no se le olvide esto que el buen      Sancho ha dicho.»",
               "autor": "<a name=\"autor425\"><font color = \"#FF000\"><u>Cerv.</u></font></b>",
+              "author": "<a name=\"autor425\"><font color = \"#FF000\"><u>Cerv.</u></font></b>",
               "referencia_obra": "<i>Quij.</i> 2. 4 (R. 1. 412<sup>1</sup>). </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
             }
-          ]
+          ],
+          "subsubacepciones": []
         }
       ]
     },
@@ -652,115 +743,42 @@
             {
               "texto_cita": "«modernamente      introducida,»",
               "autor": "",
+              "author": "",
               "referencia_obra": "</font><font face=\"arial\"> de </font><font face=\"arial\" color=\"#000080\">"
             },
             {
               "texto_cita": "«barbarismo      muy impropio de la lengua castellana.»",
               "autor": "",
+              "author": "",
               "referencia_obra": "</font><font face=\"arial\"> Hoy es corriente."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
           "id_limpio": "— β )",
           "definicion": "En algunos juegos de naipes, manifestar      uno oportunamente que tiene determinadas cartas con que por ley de juego se      gana cierto número de tantos. <dicautor><a name=\"autor427\"><font color = \"#FF000\"><u>Acad.</u></font></b></dicautor> <i>Dicc</i>.",
-          "ejemplos_citas": []
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font   face=\"arial\"> )",
-          "id_limpio": "— α α )",
-          "definicion": "<i>Acusar las cuarenta: </i>decir con resolución y desenfado      lo que se piensa. <dicautor><a name=\"autor428\"><font color = \"#FF000\"><u>Acad.</u></font></b></dicautor> <i>Dicc. </i>Tómase del aire de triunfo con que en      el juego se declara esta ventaja que se adquiere sobre el contrario. </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
+          "ejemplos_citas": [],
+          "subsubacepciones": [
             {
-              "texto_cita": "«Yo      no sufro que mis novias </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Por su juguete me tengan, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Y á las primeras      de cambio </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Les      acuso las cuarenta.»",
-              "autor": "<a name=\"autor429\"><font color = \"#FF000\"><u>Bretón</u></font></b>",
-              "referencia_obra": ", <i>A Madrid me vuelvo,      </i>2. 6 (1. 82).</font></p>   <p ALIGN=\"JUSTIFY\"><b><font face=\"arial\" color=\"#800080\"></b>"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font   face=\"arial\"> )",
+              "id_limpio": "— α α )",
+              "definicion": "<i>Acusar las cuarenta: </i>decir con resolución y desenfado      lo que se piensa. <dicautor><a name=\"autor428\"><font color = \"#FF000\"><u>Acad.</u></font></b></dicautor> <i>Dicc. </i>Tómase del aire de triunfo con que en      el juego se declara esta ventaja que se adquiere sobre el contrario. </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Yo      no sufro que mis novias </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Por su juguete me tengan, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Y á las primeras      de cambio </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Les      acuso las cuarenta.»",
+                  "autor": "<a name=\"autor429\"><font color = \"#FF000\"><u>Bretón</u></font></b>",
+                  "author": "<a name=\"autor429\"><font color = \"#FF000\"><u>Bretón</u></font></b>",
+                  "referencia_obra": ", <i>A Madrid me vuelvo,      </i>2. 6 (1. 82).</font></p>   <p ALIGN=\"JUSTIFY\"><b><font face=\"arial\" color=\"#800080\"></b>"
+                }
+              ]
             }
           ]
         }
       ]
-    },
-    {
-      "id": "Per. antecl.",
-      "definicion": "</font></b>    <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> <i>Siglo      XV</i>: </font><font face=\"arial\" color=\"#000080\">",
-      "ejemplos_citas": [
-        {
-          "texto_cita": "«Porque si la consciencia      acusa de dentro, poco decia él que aprovechan los loores de fuera.»",
-          "autor": "<a name=\"autor432\"><font color = \"#FF000\"><u>Pulgar</u></font></b>",
-          "referencia_obra": ", <i>Clar. var.</i> 22 (129). </font><font face=\"arial\" color=\"#000080\">"
-        },
-        {
-          "texto_cita": "«Caya      en pena de diez mill mrs., la meytad para el que lo acusare e la otra meytad      para la çerca de la çibdad o villa o lugar do esto acahesciere.»",
-          "autor": "<a name=\"autor433\"><font color = \"#FF000\"><u>C. de L. y C.</u></font></b>",
-          "referencia_obra": "</i>3. 697). </font><font face=\"arial\" color=\"#000080\">"
-        },
-        {
-          "texto_cita": "«Nin      sean acusados, nin denunciados, nin reptados por el mi procurador fiscal.»",
-          "autor": "<a name=\"autor434\"><font color = \"#FF000\"><u>Seg. de Tordes.</u></font></b>",
-          "referencia_obra": "</i>3 (4<sup>2</sup>). </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> <i>Siglo      XIV</i>: </font><font face=\"arial\" color=\"#000080\">"
-        },
-        {
-          "texto_cita": "«Et si aquellos con quien      viviere non lo acusaren, que lo pueda acusar qualquier de los parientes mas      propincos.»",
-          "autor": "",
-          "referencia_obra": "</font><font   face=\"arial\"> <i>Orden. de Alcalá, </i>21. 2 (49). </font><font face=\"arial\"   color=\"#000080\">"
-        },
-        {
-          "texto_cita": "«Lo que él mas fasia, a otros lo acusaba.»",
-          "autor": "<a name=\"autor435\"><font color = \"#FF000\"><u>Arc. de Hita</u></font></b>",
-          "referencia_obra": ", 312 (R. 57. 237<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">"
-        },
-        {
-          "texto_cita": "«Que      aya ende el tercio de lo que fuere tomado de aquello que él acusó et descobrió.»",
-          "autor": "",
-          "referencia_obra": "</font><font   face=\"arial\"> <i>Cortes de Burgos, </i>año 1303 (<i>C. de L. y C</i>. 1. 167).      </font></p>   <p ALIGN=\"JUSTIFY\"><i><font face=\"symbol\">—</font><font face=\"arial\"> Siglo      XIII: </font></i><font   face=\"arial\" color=\"#000080\">"
-        },
-        {
-          "texto_cita": "«La meytad sea para el que lo acusare e la otra      meytad para mi.»",
-          "autor": "",
-          "referencia_obra": "</font><font face=\"arial\"> <i>Cortes de Jerez, </i>año 1268      (<i>C. de L. y C</i>. 1. 65). </font><font face=\"arial\" color=\"#000080\">"
-        },
-        {
-          "texto_cita": "«A      él [al alferez del rey] pertenesce de pedir merced al rey por los que sean      acusados sin culpa.»",
-          "autor": "<a name=\"autor436\"><font color = \"#FF000\"><u>Part.</u></font></b>",
-          "referencia_obra": "</i> 2. 9. 16 (2. 72).      </font><font face=\"arial\" color=\"#000080\">"
-        },
-        {
-          "texto_cita": "«Deximos, que si alguno acusare      a otro de algun mal fecho e aduxiere sus parientes por testigos, que los pueden      desechar fasta el tercer grado.»",
-          "autor": "<a name=\"autor437\"><font color = \"#FF000\"><u>O. L.</u></font></b>",
-          "referencia_obra": "1. 209). </font><font face=\"arial\" color=\"#000080\">"
-        },
-        {
-          "texto_cita": "«Si algun      omne vendiere su siervo, é aquel siervo quisiere acusar á aquel quel vendió      de algun pecado, reciba su siervo.»",
-          "autor": "<a name=\"autor438\"><font color = \"#FF000\"><u>Fuero</u></font></b>",
-          "referencia_obra": "Juzgo, </i>5. 4. 15 (88). </font><font face=\"arial\" color=\"#000080\">"
-        },
-        {
-          "texto_cita": "«Tales      personas cuemo estas que lexan la orden, mandamos que non puedan accusar a      otri, ni seer testimonias.»",
-          "autor": "",
-          "referencia_obra": "</font><font face=\"arial\"> <i>Ib</i>. 3. 5. 3 (61;      *acosar). </font><font   face=\"arial\" color=\"#000080\">"
-        },
-        {
-          "texto_cita": "«El Campeador por las parias fue entrado; </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Grandes      aueres priso e mucho sobeianos: </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Retouo dellos quanto que fue algo. </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Por      en vino a aquesto porque fue acusado.»",
-          "autor": "<a name=\"autor439\"><font color = \"#FF000\"><u>Cid</u></font></b>",
-          "referencia_obra": "</i>,      112 (R. 57. 2<sup>2</sup>).</font></p>   <p ALIGN=\"JUSTIFY\"><b><font face=\"arial\" color=\"#800080\"></b>"
-        }
-      ],
-      "subacepciones": []
-    },
-    {
-      "id": "Etim.",
-      "definicion": "</font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Lat. <i>accusare</i>,      compuesto de <i>ad</i>, á, y <i>causa</i>, en su sentido forense: propiamente      llevar á causa ó juicio. Fr. <i>accuser; </i>it<i>. accusare. </i></font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b>",
-      "ejemplos_citas": [],
-      "subacepciones": []
-    },
-    {
-      "id": "Constr.",
-      "definicion": "",
-      "ejemplos_citas": [],
-      "subacepciones": []
     }
   ],
-  "etimologia": "",
+  "etimologia": "<dicarbrecont><a name=\"arbre431\"><dicabrev><a name=\"abrev430\"><b><u>Per. antecl.</u></b></dicabrev></dicarbrecont></font></b>    <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> <i>Siglo      XV</i>: </font><font face=\"arial\" color=\"#000080\">«Porque si la consciencia      acusa de dentro, poco decia él que aprovechan los loores de fuera.»</font><font face=\"arial\">      <dicautor><a name=\"autor432\"><font color = \"#FF000\"><u>Pulgar</u></font></b></dicautor>, <i>Clar. var.</i> 22 (129). </font><font face=\"arial\" color=\"#000080\">«Caya      en pena de diez mill mrs., la meytad para el que lo acusare e la otra meytad      para la çerca de la çibdad o villa o lugar do esto acahesciere.»</font><font face=\"arial\">      <i>Cortes de Córdoba, </i>año 1455 (<i><dicautor><a name=\"autor433\"><font color = \"#FF000\"><u>C. de L. y C.</u></font></b></dicautor> </i>3. 697). </font><font face=\"arial\" color=\"#000080\">«Nin      sean acusados, nin denunciados, nin reptados por el mi procurador fiscal.»</font><font   face=\"arial\"> <i><dicautor><a name=\"autor434\"><font color = \"#FF000\"><u>Seg. de Tordes.</u></font></b></dicautor> </i>3 (4<sup>2</sup>). </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> <i>Siglo      XIV</i>: </font><font face=\"arial\" color=\"#000080\">«Et si aquellos con quien      viviere non lo acusaren, que lo pueda acusar qualquier de los parientes mas      propincos.»</font><font   face=\"arial\"> <i>Orden. de Alcalá, </i>21. 2 (49). </font><font face=\"arial\"   color=\"#000080\">«Lo que él mas fasia, a otros lo acusaba.»</font><font face=\"arial\">      <dicautor><a name=\"autor435\"><font color = \"#FF000\"><u>Arc. de Hita</u></font></b></dicautor>, 312 (R. 57. 237<sup>1</sup>). </font><font face=\"arial\" color=\"#000080\">«Que      aya ende el tercio de lo que fuere tomado de aquello que él acusó et descobrió.»</font><font   face=\"arial\"> <i>Cortes de Burgos, </i>año 1303 (<i>C. de L. y C</i>. 1. 167).      </font></p>   <p ALIGN=\"JUSTIFY\"><i><font face=\"symbol\">—</font><font face=\"arial\"> Siglo      XIII: </font></i><font   face=\"arial\" color=\"#000080\">«La meytad sea para el que lo acusare e la otra      meytad para mi.»</font><font face=\"arial\"> <i>Cortes de Jerez, </i>año 1268      (<i>C. de L. y C</i>. 1. 65). </font><font face=\"arial\" color=\"#000080\">«A      él [al alferez del rey] pertenesce de pedir merced al rey por los que sean      acusados sin culpa.»</font><font face=\"arial\"> <i><dicautor><a name=\"autor436\"><font color = \"#FF000\"><u>Part.</u></font></b></dicautor></i> 2. 9. 16 (2. 72).      </font><font face=\"arial\" color=\"#000080\">«Deximos, que si alguno acusare      a otro de algun mal fecho e aduxiere sus parientes por testigos, que los pueden      desechar fasta el tercer grado.»</font><font face=\"arial\"> <i>Espéc</i>. 4.      7. 28 (<dicautor><a name=\"autor437\"><font color = \"#FF000\"><u>O. L.</u></font></b></dicautor> 1. 209). </font><font face=\"arial\" color=\"#000080\">«Si algun      omne vendiere su siervo, é aquel siervo quisiere acusar á aquel quel vendió      de algun pecado, reciba su siervo.»</font><font   face=\"arial\"> <i><dicautor><a name=\"autor438\"><font color = \"#FF000\"><u>Fuero</u></font></b></dicautor> Juzgo, </i>5. 4. 15 (88). </font><font face=\"arial\" color=\"#000080\">«Tales      personas cuemo estas que lexan la orden, mandamos que non puedan accusar a      otri, ni seer testimonias.»</font><font face=\"arial\"> <i>Ib</i>. 3. 5. 3 (61;      *acosar). </font><font   face=\"arial\" color=\"#000080\">«El Campeador por las parias fue entrado; </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Grandes      aueres priso e mucho sobeianos: </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Retouo dellos quanto que fue algo. </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Por      en vino a aquesto porque fue acusado.»</font><font face=\"arial\"> <i><dicautor><a name=\"autor439\"><font color = \"#FF000\"><u>Cid</u></font></b></dicautor></i>,      112 (R. 57. 2<sup>2</sup>).</font></p>   <p ALIGN=\"JUSTIFY\"><b><font face=\"arial\" color=\"#800080\"><dicarbrecont><a name=\"arbre440\">Etim.</dicarbrecont></font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Lat. <i>accusare</i>,      compuesto de <i>ad</i>, á, y <i>causa</i>, en su sentido forense: propiamente      llevar á causa ó juicio. Fr. <i>accuser; </i>it<i>. accusare. </i></font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b><dicarbrecont><a name=\"arbre442\"><dicabrev><a name=\"abrev441\"><b><u>Constr.</u></b></dicabrev></dicarbrecont></b></font>    </p>   <i>    <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> Trans. </font>   </i>    <font face=\"symbol\">—</font><font face=\"arial\"> <i>Refl.:      </i><a href = #3379252>1,<i> b, </i></a></font><i>   <font face=\"symbol\"><a href = #3379252>γ</a><font face=\"arial\"> - </font></i>   <a href = #3379253><font face=\"arial\">2,<i> a, </i></font><font face=\"symbol\">β</font><font face=\"arial\">, </font><font face=\"symbol\">α</font><font   face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\">, </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font></a><font   face=\"arial\">.</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> <i><dicautor><a name=\"autor443\"><font color = \"#FF000\"><u>Part.</u></font></b></dicautor>:      </i><a href = #3379250>1,<i> a, </i></a></font><a href = #3379250><font face=\"symbol\">β</font><font face=\"arial\">, </font><font face=\"symbol\">β</font><font   face=\"arial\"> </font><font face=\"symbol\">β</font></a><font face=\"arial\"><a href = #3379250>   </a>- <a href = #3379251>1,<i>      a, </i></a></font><a href = #3379251><i><font face=\"symbol\">γ</font></i><font face=\"arial\">, </font><font face=\"symbol\">ζ</font><font   face=\"arial\"> </font><font face=\"symbol\">ζ</font></a><font face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><i><font face=\"symbol\">—</font><font face=\"arial\"> </font></i><font face=\"arial\">Con<i>      á: </i><a href = #3379249>1<i>, a, </i></a></font>   <a href = #3379249><font face=\"symbol\">δ</font><font face=\"arial\">,      </font><font face=\"symbol\">α</font><font   face=\"arial\"> </font><font face=\"symbol\">α</font></a><font face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><i><font face=\"symbol\">—</font><font face=\"arial\"> Ante:      </font></i><a href = #3379248><font face=\"arial\">1,<i> a, </i></font><font face=\"symbol\">δ</font><font face=\"arial\">,      </font><font face=\"symbol\">β</font><font   face=\"arial\"> </font><font face=\"symbol\">β</font></a><font face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><i><font face=\"symbol\">—</font><font face=\"arial\"> Como:      </font></i><a href = #3379241><font face=\"arial\">1,<i> a, </i></font><font face=\"symbol\">γ</font><font face=\"arial\">,      </font><font face=\"symbol\">η</font><font   face=\"arial\"> </font><font face=\"symbol\">η</font></a><font face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><i><font face=\"symbol\">—</font><font face=\"arial\"> De: </font></i>   <a href = #3379237><font face=\"arial\">1,<i>      a, </i></font><font face=\"symbol\">γ</font><font face=\"arial\">, </font><font face=\"symbol\">α</font><font   face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\">,</font><font face=\"symbol\"> β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font   face=\"arial\">, </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font face=\"arial\">, </font><font face=\"symbol\">δ</font><font   face=\"arial\"> </font><font face=\"symbol\">δ</font></a><font face=\"arial\"> -   <a href = #3379238>1,<i>      b, </i></a></font><font face=\"symbol\"><a href = #3379238>α</a><font face=\"arial\"> -   <a href = #3379239>2,<i> α, </i></a></font><a href = #3379239><font face=\"symbol\">β</font><font   face=\"arial\">, </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\">, </font><font face=\"symbol\">β</font><font   face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\">, </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font></a><font   face=\"arial\"><a href = #3379239> </a>- <a href = #3379240>3, </a> </font>   <a href = #3379240><font face=\"symbol\">α</font><font face=\"arial\">, </font><font face=\"symbol\">β</font><font face=\"arial\">, </font><font face=\"symbol\">γ</font></a><font   face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> <i>Delante:      </i><a href = #3379236>1, <i>a</i>, </a> </font><a href = #3379236><font face=\"symbol\">δ</font><font face=\"arial\">, </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font></a><i><font   face=\"arial\">.</font></i></p>   <p ALIGN=\"JUSTIFY\"> <i><font face=\"symbol\">—</font><font face=\"arial\"> Por:      </font></i><a href = #3379235><font face=\"arial\">1,<i> a</i>, </font><font face=\"symbol\">γ</font><font face=\"arial\">,      </font><font face=\"symbol\">ε</font><font   face=\"arial\"> </font><font face=\"symbol\">ε</font><font face=\"arial\">, </font><font face=\"symbol\">ζ</font><font face=\"arial\"> </font><font face=\"symbol\">ζ</font></a><font   face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> Con<i> prop.      <dicabrev><a name=\"abrev444\"><b><u>indic.</u></b></dicabrev>: </i><a href = #3379233>1,<i> a</i>, </a> </font>   <a href = #3379233><font face=\"symbol\">γ</font><font face=\"arial\">,      </font><font face=\"symbol\">δ</font><font face=\"arial\"> </font><font face=\"symbol\">δ</font></a><font face=\"arial\">    - <a href = #3379234>2, <i>a, </i></a></font><a href = #3379234><font face=\"symbol\">β</font><font face=\"arial\">,      </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font></a><font   face=\"arial\">.</font></p>   <p ALIGN=\"JUSTIFY\"><i><font face=\"symbol\">—</font><font face=\"arial\"> Prop.      <dicabrev><a name=\"abrev445\"><b><u>subj.</u></b></dicabrev>: </font></i><a href = #3379232><font face=\"arial\">4,<i> a</i>, </font><font face=\"symbol\">β</font></a><font face=\"arial\">.</font></p>   <font face=\"arial\"> <i>    <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   </i></font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></font>",
   "construccion_sintactica": "<u>Constr.</u></b></dicabrev></dicarbrecont></b></font>    </p>   <i>    <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> Trans. </font>   </i>    <font face=\"symbol\">—</font><font face=\"arial\"> <i>Refl.:      </i><a href = #3379252>1,<i> b, </i></a></font><i>   <font face=\"symbol\"><a href = #3379252>γ</a><font face=\"arial\"> - </font></i>   <a href = #3379253><font face=\"arial\">2,<i> a, </i></font><font face=\"symbol\">β</font><font face=\"arial\">, </font><font face=\"symbol\">α</font><font   face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\">, </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font></a><font   face=\"arial\">.</font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> <i><dicautor><a name=\"autor443\"><font color = \"#FF000\"><u>Part.</u></font></b></dicautor>:      </i><a href = #3379250>1,<i> a, </i></a></font><a href = #3379250><font face=\"symbol\">β</font><font face=\"arial\">, </font><font face=\"symbol\">β</font><font   face=\"arial\"> </font><font face=\"symbol\">β</font></a><font face=\"arial\"><a href = #3379250>   </a>- <a href = #3379251>1,<i>      a, </i></a></font><a href = #3379251><i><font face=\"symbol\">γ</font></i><font face=\"arial\">, </font><font face=\"symbol\">ζ</font><font   face=\"arial\"> </font><font face=\"symbol\">ζ</font></a><font face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><i><font face=\"symbol\">—</font><font face=\"arial\"> </font></i><font face=\"arial\">Con<i>      á: </i><a href = #3379249>1<i>, a, </i></a></font>   <a href = #3379249><font face=\"symbol\">δ</font><font face=\"arial\">,      </font><font face=\"symbol\">α</font><font   face=\"arial\"> </font><font face=\"symbol\">α</font></a><font face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><i><font face=\"symbol\">—</font><font face=\"arial\"> Ante:      </font></i><a href = #3379248><font face=\"arial\">1,<i> a, </i></font><font face=\"symbol\">δ</font><font face=\"arial\">,      </font><font face=\"symbol\">β</font><font   face=\"arial\"> </font><font face=\"symbol\">β</font></a><font face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><i><font face=\"symbol\">—</font><font face=\"arial\"> Como:      </font></i><a href = #3379241><font face=\"arial\">1,<i> a, </i></font><font face=\"symbol\">γ</font><font face=\"arial\">,      </font><font face=\"symbol\">η</font><font   face=\"arial\"> </font><font face=\"symbol\">η</font></a><font face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><i><font face=\"symbol\">—</font><font face=\"arial\"> De: </font></i>   <a href = #3379237><font face=\"arial\">1,<i>      a, </i></font><font face=\"symbol\">γ</font><font face=\"arial\">, </font><font face=\"symbol\">α</font><font   face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\">,</font><font face=\"symbol\"> β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font   face=\"arial\">, </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font><font face=\"arial\">, </font><font face=\"symbol\">δ</font><font   face=\"arial\"> </font><font face=\"symbol\">δ</font></a><font face=\"arial\"> -   <a href = #3379238>1,<i>      b, </i></a></font><font face=\"symbol\"><a href = #3379238>α</a><font face=\"arial\"> -   <a href = #3379239>2,<i> α, </i></a></font><a href = #3379239><font face=\"symbol\">β</font><font   face=\"arial\">, </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\">, </font><font face=\"symbol\">β</font><font   face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\">, </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font></a><font   face=\"arial\"><a href = #3379239> </a>- <a href = #3379240>3, </a> </font>   <a href = #3379240><font face=\"symbol\">α</font><font face=\"arial\">, </font><font face=\"symbol\">β</font><font face=\"arial\">, </font><font face=\"symbol\">γ</font></a><font   face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> <i>Delante:      </i><a href = #3379236>1, <i>a</i>, </a> </font><a href = #3379236><font face=\"symbol\">δ</font><font face=\"arial\">, </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font></a><i><font   face=\"arial\">.</font></i></p>   <p ALIGN=\"JUSTIFY\"> <i><font face=\"symbol\">—</font><font face=\"arial\"> Por:      </font></i><a href = #3379235><font face=\"arial\">1,<i> a</i>, </font><font face=\"symbol\">γ</font><font face=\"arial\">,      </font><font face=\"symbol\">ε</font><font   face=\"arial\"> </font><font face=\"symbol\">ε</font><font face=\"arial\">, </font><font face=\"symbol\">ζ</font><font face=\"arial\"> </font><font face=\"symbol\">ζ</font></a><font   face=\"arial\">. </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"symbol\">—</font><font face=\"arial\"> Con<i> prop.      <dicabrev><a name=\"abrev444\"><b><u>indic.</u></b></dicabrev>: </i><a href = #3379233>1,<i> a</i>, </a> </font>   <a href = #3379233><font face=\"symbol\">γ</font><font face=\"arial\">,      </font><font face=\"symbol\">δ</font><font face=\"arial\"> </font><font face=\"symbol\">δ</font></a><font face=\"arial\">    - <a href = #3379234>2, <i>a, </i></a></font><a href = #3379234><font face=\"symbol\">β</font><font face=\"arial\">,      </font><font face=\"symbol\">γ</font><font face=\"arial\"> </font><font face=\"symbol\">γ</font></a><font   face=\"arial\">.</font></p>   <p ALIGN=\"JUSTIFY\"><i><font face=\"symbol\">—</font><font face=\"arial\"> Prop.      <dicabrev><a name=\"abrev445\"><b><u>subj.</u></b></dicabrev>: </font></i><a href = #3379232><font face=\"arial\">4,<i> a</i>, </font><font face=\"symbol\">β</font></a><font face=\"arial\">.</font></p>   <font face=\"arial\"> <i>    <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   </i></font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></font>"
 }

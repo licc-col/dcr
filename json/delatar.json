@@ -12,54 +12,63 @@
           "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
           "id_limpio": "— α )",
           "definicion": "<i>   Trans</i>.",
-          "ejemplos_citas": []
-        },
-        {
-          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
-          "id_limpio": "— α α )",
-          "definicion": "Con <dicabrev><a name=\"abrev835\"><b><u>acus.</u></b></dicabrev> de <dicabrev><a name=\"abrev836\"><b><u>pers.</u></b></dicabrev> </font><font face=\"arial\"   color=\"#000080\">",
-          "ejemplos_citas": [
+          "ejemplos_citas": [],
+          "subsubacepciones": [
             {
-              "texto_cita": "«Obliga la ley de la caridad á delatar al culpado, siempre que éste   padece la pena de la pública infamia.»",
-              "autor": "<a name=\"autor837\"><font color = \"#FF000\"><u>Núñez</u></font></b>",
-              "referencia_obra": ", <i>Emp.</i> 43   (Dicc. <i>Autor</i>.). </p>   <p ALIGN=\"JUSTIFY\">— <i>Refl</i>. </font><font face=\"arial\" color=\"#000080\">"
+              "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+              "id_limpio": "— α α )",
+              "definicion": "Con <dicabrev><a name=\"abrev835\"><b><u>acus.</u></b></dicabrev> de <dicabrev><a name=\"abrev836\"><b><u>pers.</u></b></dicabrev> </font><font face=\"arial\"   color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Obliga la ley de la caridad á delatar al culpado, siempre que éste   padece la pena de la pública infamia.»",
+                  "autor": "<a name=\"autor837\"><font color = \"#FF000\"><u>Núñez</u></font></b>",
+                  "author": "<a name=\"autor837\"><font color = \"#FF000\"><u>Núñez</u></font></b>",
+                  "referencia_obra": ", <i>Emp.</i> 43   (Dicc. <i>Autor</i>.). </p>   <p ALIGN=\"JUSTIFY\">— <i>Refl</i>. </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Delatarse   al juez.»",
+                  "autor": "<a name=\"autor838\"><font color = \"#FF000\"><u>Acad.</u></font></b>",
+                  "author": "<a name=\"autor838\"><font color = \"#FF000\"><u>Acad.</u></font></b>",
+                  "referencia_obra": "<i>Gram</i>. </font><font face=\"arial\"   color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«¿Cómo he de sufrir que padezca mi amigo por mi culpa? --- No, no; voy   á delatarme, á librar su preciosa vida y á morir.»",
+                  "autor": "<a name=\"autor839\"><font color = \"#FF000\"><u>Jovell.</u></font></b>",
+                  "author": "<a name=\"autor839\"><font color = \"#FF000\"><u>Jovell.</u></font></b>",
+                  "referencia_obra": "<i>   El delincuente honrado</i>, 2. 7 (R. 46. 88<sup>1</sup>). </p>   <p ALIGN=\"JUSTIFY\">— <i>Part</i>. </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Siempre   reserve un oído al delatado; dé espera á la verdad.»",
+                  "autor": "<a name=\"autor840\"><font color = \"#FF000\"><u>Nieremb.</u></font></b>",
+                  "author": "<a name=\"autor840\"><font color = \"#FF000\"><u>Nieremb.</u></font></b>",
+                  "referencia_obra": "<i>Dict. reales</i>, 3 (Dicc.<i> Autor.</i>)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Delatarse   al juez.»",
-              "autor": "<a name=\"autor838\"><font color = \"#FF000\"><u>Acad.</u></font></b>",
-              "referencia_obra": "<i>Gram</i>. </font><font face=\"arial\"   color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«¿Cómo he de sufrir que padezca mi amigo por mi culpa? --- No, no; voy   á delatarme, á librar su preciosa vida y á morir.»",
-              "autor": "<a name=\"autor839\"><font color = \"#FF000\"><u>Jovell.</u></font></b>",
-              "referencia_obra": "<i>   El delincuente honrado</i>, 2. 7 (R. 46. 88<sup>1</sup>). </p>   <p ALIGN=\"JUSTIFY\">— <i>Part</i>. </font><font face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Siempre   reserve un oído al delatado; dé espera á la verdad.»",
-              "autor": "<a name=\"autor840\"><font color = \"#FF000\"><u>Nieremb.</u></font></b>",
-              "referencia_obra": "<i>Dict. reales</i>, 3 (Dicc.<i> Autor.</i>)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
-          "id_limpio": "— β β )",
-          "definicion": "Con <dicabrev><a name=\"abrev841\"><b><u>acus.</u></b></dicabrev> de cosa. </font><font face=\"arial\"   color=\"#000080\">",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Delatar un crimen al juez.»",
-              "autor": "<a name=\"autor842\"><font color = \"#FF000\"><u>Acad.</u></font></b>",
-              "referencia_obra": "<i>Gram</i>.   </font><font face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«Delató [Annese] inmediatamente al pueblo la   propuesta, y mandó ahorcar en el acto al que la había traído.»",
-              "autor": "<a name=\"autor843\"><font color = \"#FF000\"><u>A. Saav.</u></font></b>",
-              "referencia_obra": "<i>Masan.</i> 2.16 (5. 243). </p>   <p ALIGN=\"JUSTIFY\">— <i>Part</i>. </font><font face=\"arial\" color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«La   nueva, que delatada </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Por Timónides oíste, </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Fue industria, con que asegura </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Que de buscarle se olviden.»",
-              "autor": "<a name=\"autor844\"><font color = \"#FF000\"><u>Cald.</u></font></b>",
-              "referencia_obra": "<i>Argenis y Poliarco</i>, 1. 16 (R. 7. 442<sup>1</sup>)."
+              "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">β</font><font face=\"arial\"> </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
+              "id_limpio": "— β β )",
+              "definicion": "Con <dicabrev><a name=\"abrev841\"><b><u>acus.</u></b></dicabrev> de cosa. </font><font face=\"arial\"   color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Delatar un crimen al juez.»",
+                  "autor": "<a name=\"autor842\"><font color = \"#FF000\"><u>Acad.</u></font></b>",
+                  "author": "<a name=\"autor842\"><font color = \"#FF000\"><u>Acad.</u></font></b>",
+                  "referencia_obra": "<i>Gram</i>.   </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«Delató [Annese] inmediatamente al pueblo la   propuesta, y mandó ahorcar en el acto al que la había traído.»",
+                  "autor": "<a name=\"autor843\"><font color = \"#FF000\"><u>A. Saav.</u></font></b>",
+                  "author": "<a name=\"autor843\"><font color = \"#FF000\"><u>A. Saav.</u></font></b>",
+                  "referencia_obra": "<i>Masan.</i> 2.16 (5. 243). </p>   <p ALIGN=\"JUSTIFY\">— <i>Part</i>. </font><font face=\"arial\" color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«La   nueva, que delatada </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Por Timónides oíste, </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Fue industria, con que asegura </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Que de buscarle se olviden.»",
+                  "autor": "<a name=\"autor844\"><font color = \"#FF000\"><u>Cald.</u></font></b>",
+                  "author": "<a name=\"autor844\"><font color = \"#FF000\"><u>Cald.</u></font></b>",
+                  "referencia_obra": "<i>Argenis y Poliarco</i>, 1. 16 (R. 7. 442<sup>1</sup>)."
+                }
+              ]
             }
           ]
         },
@@ -71,9 +80,11 @@
             {
               "texto_cita": "«Delatar de sí mismo»",
               "autor": "",
+              "author": "",
               "referencia_obra": "</font><font face=\"arial\"> por<i> delatarse</i>."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">γ</font><font face=\"arial\"> )",
@@ -83,14 +94,17 @@
             {
               "texto_cita": "«deferre de   parricidio.»",
               "autor": "",
+              "author": "",
               "referencia_obra": "</font><font face=\"arial\"> </font><font face=\"arial\" color=\"#000080\">"
             },
             {
               "texto_cita": "«A este   mismo tiempo le delató en la misma curia de tales delitos y excesos.»",
               "autor": "",
+              "author": "",
               "referencia_obra": "</font><font   face=\"arial\"> Cornejo, <i>Crón. de S. Franc.</i> 3. 1. 21 (Dicc. <i>Autor.</i>). </p>   </font><font face=\"arial\" color=\"#800080\"><b><p ALIGN=\"JUSTIFY\"></b>"
             }
-          ]
+          ],
+          "subsubacepciones": []
         }
       ]
     },
@@ -107,35 +121,34 @@
             {
               "texto_cita": "«Tales son las prendas que caracterizan este y el siguiente   pasaje; y ellas delatan el verdadero autor.»",
               "autor": "<a name=\"autor848\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
+              "author": "<a name=\"autor848\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
               "referencia_obra": "<i>Hamlet,   notas</i>, 2. 20 (R. 2. 557<sup>1</sup>)."
             }
-          ]
-        },
-        {
-          "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
-          "id_limpio": "— α α )",
-          "definicion": "<i>Refl</i>. </font><font face=\"arial\"   color=\"#000080\">",
-          "ejemplos_citas": [
+          ],
+          "subsubacepciones": [
             {
-              "texto_cita": "«Sea lo que fuere desto, yo estuve en un error muy grosero, yo le   escribí, y discurrí sobre él; y ahora me delato, y le confieso á usted, y aun le pido   que esta confesión se comunique al tío del sobrino.»",
-              "autor": "<a name=\"autor849\"><font color = \"#FF000\"><u>Jovell.</u></font></b>",
-              "referencia_obra": "<i>   Corresp. con Posada</i> (R. 50. 246<sup>2</sup>). </font><font face=\"arial\"   color=\"#000080\">"
-            },
-            {
-              "texto_cita": "«El novio de la muchacha viendo enfurecido al padre, creo que ha   descubierto sus amores y se delata.»",
-              "autor": "<a name=\"autor850\"><font color = \"#FF000\"><u>M. de la Rosa</u></font></b>",
-              "referencia_obra": ", <i>Anot. á   la Poét.</i> 5. 23 (1. 248).</p>   </font><b><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\"></b>"
+              "id_marcador_html": "</p>   <p ALIGN=\"JUSTIFY\">— </font><font face=\"symbol\">α</font><font face=\"arial\"> </font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+              "id_limpio": "— α α )",
+              "definicion": "<i>Refl</i>. </font><font face=\"arial\"   color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Sea lo que fuere desto, yo estuve en un error muy grosero, yo le   escribí, y discurrí sobre él; y ahora me delato, y le confieso á usted, y aun le pido   que esta confesión se comunique al tío del sobrino.»",
+                  "autor": "<a name=\"autor849\"><font color = \"#FF000\"><u>Jovell.</u></font></b>",
+                  "author": "<a name=\"autor849\"><font color = \"#FF000\"><u>Jovell.</u></font></b>",
+                  "referencia_obra": "<i>   Corresp. con Posada</i> (R. 50. 246<sup>2</sup>). </font><font face=\"arial\"   color=\"#000080\">"
+                },
+                {
+                  "texto_cita": "«El novio de la muchacha viendo enfurecido al padre, creo que ha   descubierto sus amores y se delata.»",
+                  "autor": "<a name=\"autor850\"><font color = \"#FF000\"><u>M. de la Rosa</u></font></b>",
+                  "author": "<a name=\"autor850\"><font color = \"#FF000\"><u>M. de la Rosa</u></font></b>",
+                  "referencia_obra": ", <i>Anot. á   la Poét.</i> 5. 23 (1. 248).</p>   </font><b><font face=\"arial\" color=\"#800080\"><p ALIGN=\"JUSTIFY\"></b>"
+                }
+              ]
             }
           ]
         }
       ]
-    },
-    {
-      "id": "Etim.",
-      "definicion": "</font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Port. <i>delatar</i>: del <dicabrev><a name=\"abrev852\"><b><u>lat.</u></b></dicabrev>   bajo <i>delatare</i>, por <i>deferre</i>, ocasionado sin duda por la frecuencia de la   pasiva <i>delatus est</i> y del <dicabrev><a name=\"abrev853\"><b><u>sust.</u></b></dicabrev> <i>delator</i>. Véase <code>DEFERIR</code>.</p>   </font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>",
-      "ejemplos_citas": [],
-      "subacepciones": []
     }
   ],
-  "etimologia": ""
+  "etimologia": "<dicarbrecont><a name=\"arbre851\">Etim.</dicarbrecont></font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Port. <i>delatar</i>: del <dicabrev><a name=\"abrev852\"><b><u>lat.</u></b></dicabrev>   bajo <i>delatare</i>, por <i>deferre</i>, ocasionado sin duda por la frecuencia de la   pasiva <i>delatus est</i> y del <dicabrev><a name=\"abrev853\"><b><u>sust.</u></b></dicabrev> <i>delator</i>. Véase <code>DEFERIR</code>.</p>   </font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>"
 }

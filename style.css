@@ -1,18 +1,61 @@
+/* 
+ * style.css — Estilos Premium (Edición Lexicográfica Avanzada 2026)
+ * Diseño sofisticado con soporte para modo oscuro automático, glassmorphism, 
+ * tipografía estilizada y micro-animaciones fluidas.
+ */
+
+/* ── 1. VARIABLES DEL SISTEMA (TEMA HSL DINÁMICO) ────────────────────────── */
 :root {
-    --bg-app: #f1f5f9;
-    --bg-card: #ffffff;
-    --primary: #0f172a;
-    --accent: #2563eb;
-    --accent-soft: #dbeafe;
-    --text-main: #1e293b;
-    --text-muted: #64748b;
-    --border: #e2e8f0;
-    --font-serif: 'Lora', serif;
-    --font-sans: 'Inter', sans-serif;
-    --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    /* Tema Claro por Defecto */
+    --bg-app: hsl(210, 40%, 96%);
+    --bg-card: hsl(0, 0%, 100%);
+    --bg-sidebar: hsl(0, 0%, 100%);
+    --primary: hsl(220, 40%, 13%);
+    --accent: hsl(217, 90%, 56%);
+    --accent-soft: hsl(217, 90%, 94%);
+    --accent-glow: hsla(217, 90%, 56%, 0.15);
+    --text-main: hsl(215, 25%, 27%);
+    --text-muted: hsl(215, 16%, 47%);
+    --border: hsl(214, 32%, 91%);
+    --border-focus: hsl(217, 90%, 65%);
+    --shadow: 0 4px 20px -2px hsla(220, 30%, 10%, 0.05), 0 2px 8px -2px hsla(220, 30%, 10%, 0.03);
+    --shadow-hover: 0 12px 30px -4px hsla(220, 30%, 10%, 0.1), 0 4px 12px -2px hsla(220, 30%, 10%, 0.05);
+    
+    /* Tipografía */
+    --font-serif: 'Lora', Georgia, serif;
+    --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+    --font-mono: 'Roboto Mono', monospace;
+    
+    /* Transiciones */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-fast: all 0.15s ease;
 }
 
-* { box-sizing: border-box; margin: 0; padding: 0; }
+/* Modo Oscuro Automático */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-app: hsl(220, 30%, 7%);
+        --bg-card: hsl(220, 30%, 11%);
+        --bg-sidebar: hsl(220, 25%, 9%);
+        --primary: hsl(210, 40%, 95%);
+        --accent: hsl(217, 90%, 65%);
+        --accent-soft: hsl(217, 40%, 18%);
+        --accent-glow: hsla(217, 90%, 65%, 0.25);
+        --text-main: hsl(210, 15%, 85%);
+        --text-muted: hsl(215, 13%, 65%);
+        --border: hsl(220, 20%, 18%);
+        --border-focus: hsl(217, 90%, 70%);
+        --shadow: 0 4px 20px -2px hsla(0, 0%, 0%, 0.3);
+        --shadow-hover: 0 12px 30px -4px hsla(0, 0%, 0%, 0.5);
+    }
+}
+
+/* ── 2. ESTILOS GENERALES Y RESET ────────────────────────────────────────── */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
 body {
     background-color: var(--bg-app);
@@ -20,178 +63,319 @@ body {
     font-family: var(--font-sans);
     height: 100vh;
     overflow: hidden;
+    line-height: 1.5;
+    transition: background-color 0.5s ease, color 0.5s ease;
+    -webkit-font-smoothing: antialiased;
 }
 
-.hidden { display: none !important; }
+.hidden {
+    display: none !important;
+}
 
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--text-muted);
+}
+
+/* Container de la App */
 .app-container {
     display: flex;
     height: 100vh;
 }
 
-/* Sidebar */
+/* ── 3. DISEÑO DE LA BARRA LATERAL (SIDEBAR) ──────────────────────────────── */
 .sidebar {
     width: 380px;
-    background: white;
+    background: var(--bg-sidebar);
     border-right: 1px solid var(--border);
     display: flex;
     flex-direction: column;
-    z-index: 100;
+    z-index: 10;
+    box-shadow: 4px 0 20px -5px hsla(0, 0%, 0%, 0.05);
+    transition: var(--transition-smooth);
 }
 
 .sidebar-header {
-    padding: 30px;
+    padding: 24px;
     border-bottom: 1px solid var(--border);
 }
 
 .sidebar-header h2 {
-    font-size: 1.5rem;
+    font-size: 1.35rem;
+    font-weight: 700;
     color: var(--primary);
+    letter-spacing: -0.025em;
     margin-bottom: 4px;
 }
 
 .sidebar-header p {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
+    font-weight: 500;
     color: var(--text-muted);
-    margin-bottom: 20px;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
 }
 
 .search-box input {
     width: 100%;
-    padding: 12px 16px;
+    padding: 10px 14px;
     border: 1px solid var(--border);
     border-radius: 8px;
-    font-size: 0.95rem;
-    transition: all 0.2s;
-    background: #f8fafc;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--primary);
+    background: var(--bg-app);
+    transition: var(--transition-smooth);
 }
 
 .search-box input:focus {
     outline: none;
-    border-color: var(--accent);
-    box-shadow: 0 0 0 4px var(--accent-soft);
-    background: white;
+    border-color: var(--border-focus);
+    box-shadow: 0 0 0 3px var(--accent-glow);
+    background: var(--bg-card);
 }
 
+/* Navegación Alfabética */
 .alphabet-nav {
     display: flex;
     flex-wrap: wrap;
-    gap: 6px;
-    margin-top: 15px;
+    gap: 4px;
+    margin-top: 12px;
 }
 
 .alpha-btn {
-    width: 30px;
-    height: 30px;
+    width: 27px;
+    height: 27px;
     display: flex;
     align-items: center;
     justify-content: center;
     border: 1px solid var(--border);
     border-radius: 6px;
-    background: white;
-    font-size: 0.8rem;
-    font-weight: 600;
+    background: var(--bg-card);
+    color: var(--text-main);
+    font-size: 0.75rem;
+    font-weight: 700;
     cursor: pointer;
-    transition: all 0.2s;
+    transition: var(--transition-fast);
 }
 
-.alpha-btn:hover { background: var(--accent-soft); }
-.alpha-btn.active {
-    background: var(--accent);
-    color: white;
+.alpha-btn:hover {
+    background: var(--accent-soft);
+    color: var(--accent);
     border-color: var(--accent);
 }
 
+.alpha-btn.active {
+    background: var(--accent);
+    color: var(--bg-card);
+    border-color: var(--accent);
+    box-shadow: 0 2px 6px var(--accent-glow);
+}
+
+/* Lista de Lemas */
 .list-container {
     flex: 1;
     overflow-y: auto;
+    padding: 12px 0;
 }
 
 .list-item {
-    padding: 12px 30px;
+    padding: 12px 24px;
     cursor: pointer;
-    border-bottom: 1px solid #f8fafc;
-    transition: all 0.1s;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--text-main);
+    border-left: 3px solid transparent;
+    transition: var(--transition-fast);
 }
 
-.list-item:hover { background: #f8fafc; }
+.list-item:hover {
+    background: var(--accent-soft);
+    color: var(--accent);
+}
+
 .list-item.selected {
     background: var(--accent-soft);
-    border-left: 4px solid var(--accent);
-    font-weight: 500;
+    border-left-color: var(--accent);
+    color: var(--accent);
+    font-weight: 600;
 }
 
-/* Main Area */
+/* ── 4. AREA DE CONTENIDO PRINCIPAL (MAIN AREA) ────────────────────────── */
 .main-area {
     flex: 1;
     overflow-y: auto;
-    padding: 40px;
+    padding: 30px 40px;
     position: relative;
+    background-color: var(--bg-app);
 }
 
+/* Pantalla de Bienvenida */
 .welcome-screen {
     height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
+    animation: fadeIn 0.8s ease-out;
 }
 
 .welcome-card {
     text-align: center;
     max-width: 500px;
+    padding: 40px;
+    background: var(--bg-card);
+    border-radius: 20px;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border);
+    transition: var(--transition-smooth);
+}
+
+.welcome-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-hover);
 }
 
 .welcome-card h1 {
     font-family: var(--font-serif);
-    font-size: 2.2rem;
-    margin-bottom: 15px;
+    font-size: 1.85rem;
+    font-weight: 600;
+    color: var(--primary);
+    margin-bottom: 12px;
 }
 
-/* Entry View */
+.welcome-card p {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    margin-bottom: 24px;
+}
+
+.welcome-card .stats {
+    display: inline-block;
+    padding: 8px 16px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    border-radius: 30px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* ── 5. DISEÑO DE LA FICHA LEXICOGRÁFICA (ENTRY VIEW) ───────────────────── */
 .viewer-content {
     max-width: 900px;
     margin: 0 auto;
+    animation: slideUp 0.5s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
+/* Barra de Herramientas */
 .toolbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 20px;
-    background: white;
-    padding: 15px 25px;
+    margin-bottom: 24px;
+    background: var(--bg-card);
+    padding: 12px 24px;
     border-radius: 12px;
     box-shadow: var(--shadow);
+    border: 1px solid var(--border);
 }
 
-.toggle-group { display: flex; gap: 20px; }
+.toggle-group {
+    display: flex;
+    gap: 20px;
+}
+
 .toggle {
     display: flex;
     align-items: center;
     gap: 8px;
-    font-size: 0.85rem;
-    font-weight: 600;
+    font-size: 0.8rem;
+    font-weight: 700;
     cursor: pointer;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    user-select: none;
+    transition: var(--transition-fast);
 }
 
+.toggle:hover {
+    color: var(--accent);
+}
+
+.toggle input {
+    accent-color: var(--accent);
+    width: 14px;
+    height: 14px;
+}
+
+.btn-text {
+    background: transparent;
+    border: 1px solid var(--border);
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: var(--transition-fast);
+}
+
+.btn-text:hover {
+    background: var(--accent-soft);
+    color: var(--accent);
+    border-color: var(--accent);
+}
+
+/* Tarjeta Principal de la Entrada */
 .entry-card {
-    background: white;
-    padding: 60px;
+    background: var(--bg-card);
+    padding: 48px;
     border-radius: 16px;
     box-shadow: var(--shadow);
-    min-height: 80vh;
+    border: 1px solid var(--border);
+    min-height: 75vh;
+    transition: var(--transition-smooth);
+}
+
+.entry-card:hover {
+    box-shadow: var(--shadow-hover);
 }
 
 .entry-header {
-    border-bottom: 2px solid var(--border);
-    padding-bottom: 30px;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 24px;
     margin-bottom: 30px;
 }
 
-.lema-row { display: flex; align-items: baseline; gap: 20px; }
+.lema-row {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
 .lema-row h1 {
     font-family: var(--font-serif);
-    font-size: 3rem;
+    font-size: 2.6rem;
+    font-weight: 600;
+    color: var(--primary);
+    letter-spacing: -0.03em;
 }
 
 .badge {
@@ -199,128 +383,312 @@ body {
     color: var(--accent);
     padding: 4px 12px;
     border-radius: 20px;
-    font-size: 0.9rem;
-    font-weight: 600;
+    font-size: 0.85rem;
+    font-weight: 700;
+    font-style: italic;
 }
 
+/* Definición Introductoria */
 .entry-body {
     font-family: var(--font-serif);
     font-size: 1.15rem;
-    line-height: 1.8;
-    margin-bottom: 40px;
+    line-height: 1.75;
+    margin-bottom: 36px;
 }
 
-.intro-box { color: #475569; }
+.intro-box {
+    color: var(--text-main);
+    border-left: 3px solid var(--accent);
+    padding-left: 20px;
+    margin-left: 2px;
+}
 
-/* Acepciones */
-.acepcion-item { margin-bottom: 50px; }
+/* ── 6. JERARQUÍA DE ACEPCIONES Y EJEMPLOS ─────────────────────────────── */
+
+/* Contenedor de Acepciones */
+.acepcion-item {
+    margin-bottom: 36px;
+    padding: 16px 0;
+}
+
+/* Ocultar separación superior y contenedor para acepciones ficticias */
+.acepcion-item.dummy-parent {
+    padding-top: 0;
+    margin-bottom: 16px;
+}
+
 .acepcion-head {
     display: flex;
     align-items: baseline;
-    gap: 12px;
-    margin-bottom: 15px;
+    gap: 10px;
+    margin-bottom: 12px;
 }
 
 .acepcion-num {
     font-family: var(--font-sans);
-    font-weight: 700;
+    font-weight: 800;
     color: var(--accent);
-    font-size: 1.2rem;
+    font-size: 1.15rem;
     white-space: nowrap;
-    min-width: 80px;
+    min-width: 60px;
 }
 
-/* Examples / Citas */
+.acepcion-text {
+    font-family: var(--font-serif);
+    font-size: 1.15rem;
+    line-height: 1.7;
+    color: var(--text-main);
+}
+
+/* Grid de Ejemplos / Citas Literarias (En Azul en la fuente) */
 .examples-grid {
     margin-left: 30px;
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .example-card {
-    background: #f8fafc;
-    border-left: 4px solid #cbd5e1;
-    padding: 15px 20px;
+    background: var(--bg-app);
+    border-left: 3px solid var(--accent);
+    padding: 12px 18px;
     border-radius: 0 8px 8px 0;
+    transition: var(--transition-fast);
 }
 
-.quote { font-style: italic; color: #334155; margin-bottom: 8px; display: block; }
-.meta { font-size: 0.85rem; color: var(--text-muted); font-family: var(--font-sans); }
-.author { font-weight: 600; color: var(--primary); }
+.example-card:hover {
+    background: var(--accent-soft);
+}
 
-/* Subacepciones */
+.quote {
+    font-family: var(--font-serif);
+    font-size: 1.05rem;
+    font-style: italic;
+    color: var(--text-main);
+    margin-bottom: 6px;
+    display: block;
+    line-height: 1.6;
+}
+
+.meta {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    font-family: var(--font-sans);
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+.author {
+    font-weight: 700;
+    color: var(--accent);
+}
+
+.cite {
+    font-style: normal;
+}
+
+/* Subacepciones con Símbolo Inicial (Nivel 1 Griegas α, β) */
 .sub-list {
-    margin-top: 25px;
-    margin-left: 40px;
+    margin-top: 20px;
+    margin-left: 30px;
     padding-left: 20px;
     border-left: 1px dashed var(--border);
 }
 
-.sub-item { margin-bottom: 30px; }
-
-/* Modal */
-.modal {
-    position: fixed;
-    top:0; left:0; width:100%; height:100%;
-    background: rgba(15, 23, 42, 0.8);
-    display: flex;
-    align-items: center; justify-content: center;
-    z-index: 1000;
+.sub-item {
+    margin-bottom: 24px;
 }
 
-.modal-content {
-    background: white;
-    width: 80%; height: 80%;
-    border-radius: 12px;
-    display: flex; flex-direction: column;
+.sub-text {
+    font-family: var(--font-serif);
+    font-size: 1.1rem;
+    line-height: 1.65;
+    color: var(--text-main);
 }
 
-.modal-content header {
-    padding: 20px;
-    border-bottom: 1px solid var(--border);
-    display: flex; justify-content: space-between;
+/* subsubacepciones con Símbolo Inicial (Nivel 2 Griegas αα, ββ) */
+.sub-sub-list {
+    margin-top: 16px;
+    margin-left: 30px;
+    padding-left: 20px;
+    border-left: 1px dashed var(--border);
 }
 
-.modal-content pre {
-    flex: 1; overflow: auto; padding: 20px;
-    font-family: 'Roboto Mono', monospace; font-size: 0.85rem;
-    background: #f8fafc;
+.sub-sub-item {
+    margin-bottom: 18px;
 }
 
-/* Logic for Toggles */
-.hide-def .acepcion-text, .hide-def .sub-text { display: none; }
-.hide-sub .sub-list { display: none; }
-.hide-eje .examples-grid { display: none; }
+.sub-sub-text {
+    font-family: var(--font-serif);
+    font-size: 1.05rem;
+    line-height: 1.6;
+    color: var(--text-main);
+}
 
-/* Custom formatting for HTML inside JSON */
-i { font-style: italic; }
-b { font-weight: 600; }
-font[color="#000080"] { color: #1e3a8a; }
-font[color="#FF000"] { color: #b91c1c; }
-.loading { padding: 40px; text-align: center; color: var(--text-muted); font-style: italic; }
-
+/* ── 7. SECCIONES ESPECIALES (ETIMOLOGÍA, CONSTRUCCIONES) ───────────────── */
 .extra-section {
-    margin-top: 40px;
-    padding-top: 30px;
-    border-top: 2px solid var(--border);
+    margin-top: 36px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
 }
 
 .construction-box h3 {
-    font-size: 1.1rem;
+    font-size: 0.85rem;
+    font-weight: 700;
     color: var(--accent);
-    margin-bottom: 15px;
+    margin-bottom: 12px;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 0.05em;
 }
 
 .section-content {
+    font-family: var(--font-serif);
     font-size: 1.1rem;
-    color: #475569;
+    line-height: 1.7;
+    color: var(--text-main);
 }
 
 .etim-box {
+    font-family: var(--font-serif);
     font-style: italic;
     font-size: 1rem;
     color: var(--text-muted);
+    background: var(--bg-app);
+    padding: 16px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+}
+
+/* ── 8. CONTROL DE FILTROS DE VISUALIZACIÓN ────────────────────────────── */
+.hide-def .acepcion-text, 
+.hide-def .sub-text, 
+.hide-def .sub-sub-text {
+    display: none;
+}
+
+.hide-sub .sub-list, 
+.hide-sub .sub-sub-list {
+    display: none;
+}
+
+.hide-eje .examples-grid {
+    display: none;
+}
+
+/* Formateo de las Etiquetas y Colores Originales en el HTML */
+i {
+    font-style: italic;
+}
+
+b {
+    font-weight: 700;
+}
+
+u {
+    text-decoration: underline;
+    text-decoration-color: var(--accent-glow);
+}
+
+font[color="#000080"] {
+    color: var(--accent);
+}
+
+font[color="#FF000"] {
+    color: hsl(0, 75%, 45%);
+}
+
+.loading {
+    padding: 40px;
+    text-align: center;
+    color: var(--text-muted);
+    font-style: italic;
+    font-size: 0.9rem;
+}
+
+/* ── 9. VENTANA MODAL (RAW JSON VIEW) ────────────────────────────────── */
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: hsla(220, 40%, 10%, 0.7);
+    backdrop-filter: blur(8px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    animation: fadeIn 0.25s ease-out;
+}
+
+.modal-content {
+    background: var(--bg-card);
+    width: 80%;
+    height: 80%;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 20px 50px -10px hsla(0, 0%, 0%, 0.5);
+    border: 1px solid var(--border);
+    animation: zoomIn 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+    overflow: hidden;
+}
+
+.modal-content header {
+    padding: 20px 24px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--bg-card);
+}
+
+.modal-content header h3 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--primary);
+}
+
+#closeModal {
+    background: transparent;
+    border: none;
+    font-size: 1.75rem;
+    line-height: 1;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: var(--transition-fast);
+}
+
+#closeModal:hover {
+    color: var(--accent);
+}
+
+.modal-content pre {
+    flex: 1;
+    overflow: auto;
+    padding: 24px;
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    background: var(--bg-app);
+    color: var(--text-main);
+    border-top: 1px solid var(--border);
+}
+
+/* ── 10. ANIMACIONES ─────────────────────────────────────────────────── */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideUp {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes zoomIn {
+    from { opacity: 0; transform: scale(0.95); }
+    to { opacity: 1; transform: scale(1); }
 }

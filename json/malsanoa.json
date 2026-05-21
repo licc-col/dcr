@@ -16,9 +16,11 @@
             {
               "texto_cita": "«Casaron en Doncarral </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Con un viejo de setenta, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Malsano de todas      partes, </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> A      una niña de perlas.»",
               "autor": "",
+              "author": "",
               "referencia_obra": "</font><font face=\"arial\"><i> Bailes <dicabrev><a name=\"abrev3\"><b><u>ant.</u></b></dicabrev></i> (NBAE. 18.      481)."
             }
-          ]
+          ],
+          "subsubacepciones": []
         },
         {
           "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"> <font face=\"arial\">— </font><font face=\"symbol\">β</font><font face=\"arial\">      )",
@@ -28,9 +30,11 @@
             {
               "texto_cita": "«¿Eres tú?...      Debes de ser </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> Porque      del ser de mujer </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Se espera mayor flaqueza: </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> --- Fuiste incostante y liviana; </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> De fuera como manzana      </font><font face=\"symbol\">|</font><font face=\"arial\" color=\"#000080\"> De      alegre y bella sazón, </font><font face=\"symbol\">|</font><font face=\"arial\"   color=\"#000080\"> Pero enfermo el corazón </font><font face=\"symbol\">|</font><font   face=\"arial\" color=\"#000080\"> Y la voluntad malsana.»",
               "autor": "<a name=\"autor4\"><font color = \"#FF000\"><u>Lope</u></font></b>",
+              "author": "<a name=\"autor4\"><font color = \"#FF000\"><u>Lope</u></font></b>",
               "referencia_obra": ",<i> Los amores de Albanio e Ismenia,</i> p. 33. </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
             }
-          ]
+          ],
+          "subsubacepciones": []
         }
       ]
     },
@@ -47,53 +51,61 @@
             {
               "texto_cita": "«Heredó un joven cierta extensión de territorio      próximo a una aldea pero la tierra era malsana y pantanosa.»",
               "autor": "<a name=\"autor6\"><font color = \"#FF000\"><u>Pagés</u></font></b>",
+              "author": "<a name=\"autor6\"><font color = \"#FF000\"><u>Pagés</u></font></b>",
               "referencia_obra": ",<i> Dicc.</i>).</font><font face=\"arial\" color=\"#000080\">      X"
             },
             {
               "texto_cita": "«En el barrio donde habitaban, la combinación de la niebla y el humo es      horrible y malsano.»",
               "autor": "<a name=\"autor7\"><font color = \"#FF000\"><u>Baroja</u></font></b>",
+              "author": "<a name=\"autor7\"><font color = \"#FF000\"><u>Baroja</u></font></b>",
               "referencia_obra": "(<dicautor><a name=\"autor8\"><font color = \"#FF000\"><u>Pagés</u></font></b></dicautor>,<i> Dicc.</i>).</font><font face=\"arial\" color=\"#000080\">      X"
             },
             {
               "texto_cita": "«Te llevaré conmigo. Por este tiempo no es malsano Hato Viejo. Después,      ya veremos.»",
               "autor": "<a name=\"autor9\"><font color = \"#FF000\"><u>Gallegos</u></font></b>",
+              "author": "<a name=\"autor9\"><font color = \"#FF000\"><u>Gallegos</u></font></b>",
               "referencia_obra": ",<i> Cantaclaro,</i> p. 87."
             }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"> <font   face=\"arial\">— </font><font face=\"symbol\">α</font><font face=\"arial\"><i>      </i></font><font face=\"symbol\">α</font><font face=\"arial\"> )",
-          "id_limpio": "— α α )",
-          "definicion": "En superlativo <dicabrev><a name=\"abrev10\"><b><u>absol.</u></b></dicabrev></font><font face=\"arial\"   color=\"#000080\"> X",
-          "ejemplos_citas": [
+          ],
+          "subsubacepciones": [
             {
-              "texto_cita": "«Mira que el brasero es muy muy malsano y que tú estás muy      expuesto a una apoplejía.»",
-              "autor": "<a name=\"autor11\"><font color = \"#FF000\"><u>Pagés</u></font></b>",
-              "referencia_obra": ",<i>      Dicc.</i>)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"> <font face=\"arial\">— </font><font face=\"symbol\">β</font><font face=\"arial\">      </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
-          "id_limpio": "— β β )",
-          "definicion": "En grado comparativo. </font><font face=\"symbol\">+</font><font face=\"arial\"> </font><font face=\"arial\" color=\"#000080\">",
-          "ejemplos_citas": [
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"> <font   face=\"arial\">— </font><font face=\"symbol\">α</font><font face=\"arial\"><i>      </i></font><font face=\"symbol\">α</font><font face=\"arial\"> )",
+              "id_limpio": "— α α )",
+              "definicion": "En superlativo <dicabrev><a name=\"abrev10\"><b><u>absol.</u></b></dicabrev></font><font face=\"arial\"   color=\"#000080\"> X",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Mira que el brasero es muy muy malsano y que tú estás muy      expuesto a una apoplejía.»",
+                  "autor": "<a name=\"autor11\"><font color = \"#FF000\"><u>Pagés</u></font></b>",
+                  "author": "<a name=\"autor11\"><font color = \"#FF000\"><u>Pagés</u></font></b>",
+                  "referencia_obra": ",<i>      Dicc.</i>)."
+                }
+              ]
+            },
             {
-              "texto_cita": "«No      es la carne del puerco tan malsana como comúnmente piensan.»",
-              "autor": "<a name=\"autor12\"><font color = \"#FF000\"><u>P. Mexía</u></font></b>",
-              "referencia_obra": ",<i> Coloq. </i>2. 2 (p. 96)."
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"> <font face=\"arial\">— </font><font face=\"symbol\">γ</font><font face=\"arial\">      </font><font face=\"symbol\">γ</font><font face=\"arial\"> )",
-          "id_limpio": "— γ γ )",
-          "definicion": "Sustantivado. Con<i> de</i> determinativo.</font><font   face=\"arial\" color=\"#000080\"> X",
-          "ejemplos_citas": [
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"> <font face=\"arial\">— </font><font face=\"symbol\">β</font><font face=\"arial\">      </font><font face=\"symbol\">β</font><font face=\"arial\"> )",
+              "id_limpio": "— β β )",
+              "definicion": "En grado comparativo. </font><font face=\"symbol\">+</font><font face=\"arial\"> </font><font face=\"arial\" color=\"#000080\">",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«No      es la carne del puerco tan malsana como comúnmente piensan.»",
+                  "autor": "<a name=\"autor12\"><font color = \"#FF000\"><u>P. Mexía</u></font></b>",
+                  "author": "<a name=\"autor12\"><font color = \"#FF000\"><u>P. Mexía</u></font></b>",
+                  "referencia_obra": ",<i> Coloq. </i>2. 2 (p. 96)."
+                }
+              ]
+            },
             {
-              "texto_cita": "«Agripa y después Augusto, hicieron arrasar      los bosques, a cuya densa espesura, que interrumpía el curso del aire, se      atribuyó lo malsano del sitio.»",
-              "autor": "<a name=\"autor13\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
-              "referencia_obra": "<i> Obr. póst.      </i>p. 408. </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
+              "id_marcador_html": "</font></p>   <p ALIGN=\"JUSTIFY\"> <font face=\"arial\">— </font><font face=\"symbol\">γ</font><font face=\"arial\">      </font><font face=\"symbol\">γ</font><font face=\"arial\"> )",
+              "id_limpio": "— γ γ )",
+              "definicion": "Sustantivado. Con<i> de</i> determinativo.</font><font   face=\"arial\" color=\"#000080\"> X",
+              "ejemplos_citas": [
+                {
+                  "texto_cita": "«Agripa y después Augusto, hicieron arrasar      los bosques, a cuya densa espesura, que interrumpía el curso del aire, se      atribuyó lo malsano del sitio.»",
+                  "autor": "<a name=\"autor13\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
+                  "author": "<a name=\"autor13\"><font color = \"#FF000\"><u>Mor.</u></font></b>",
+                  "referencia_obra": "<i> Obr. póst.      </i>p. 408. </font></p>   <p ALIGN=\"JUSTIFY\"><font face=\"arial\" color=\"#800080\"><b></b>"
+                }
+              ]
             }
           ]
         }
@@ -112,33 +124,32 @@
             {
               "texto_cita": "«Los más pacíficos huían por las sendas, volviendo      atrás la cabeza con malsana curiosidad.»",
               "autor": "",
+              "author": "",
               "referencia_obra": "</font><font face=\"arial\"> Blasco      Ibáñez,<i> La barraca,</i> 9 (p. 277).</font><font face=\"arial\" color=\"#000080\">      X"
             },
             {
               "texto_cita": "«Julián sentía el deseo malsano de mortificarla.»",
               "autor": "<a name=\"autor15\"><font color = \"#FF000\"><u>Pagés</u></font></b>",
+              "author": "<a name=\"autor15\"><font color = \"#FF000\"><u>Pagés</u></font></b>",
               "referencia_obra": ",<i> Dicc</i>.).</font><font   face=\"arial\" color=\"#000080\"> X"
             },
             {
               "texto_cita": "«Los comuneros perdieron la fe, y Rosendo sentía      que se estaba moviendo en un ambiente malsano, extraño a su sentido de la      vida, tétrico como una cueva donde podía herir a mansalva la garra más artera.»",
               "autor": "<a name=\"autor16\"><font color = \"#FF000\"><u>Alegría</u></font></b>",
+              "author": "<a name=\"autor16\"><font color = \"#FF000\"><u>Alegría</u></font></b>",
               "referencia_obra": ",<i> El mundo es ancho y ajeno,</i> 8 (p. 296).</font><font face=\"arial\"   color=\"#000080\"> X"
             },
             {
               "texto_cita": "«¡Qué horror! — se le escapó a Dolores. — Dice      usted bien: ¡qué horror! Se hizo un silencio malsano.»",
               "autor": "<a name=\"autor17\"><font color = \"#FF000\"><u>Zunzunegui</u></font></b>",
+              "author": "<a name=\"autor17\"><font color = \"#FF000\"><u>Zunzunegui</u></font></b>",
               "referencia_obra": ",<i> Páginas pref.</i> p. 240. </font></p>   <p ALIGN=\"JUSTIFY\"><b><font face=\"arial\" color=\"#800080\"></b>"
             }
-          ]
+          ],
+          "subsubacepciones": []
         }
       ]
-    },
-    {
-      "id": "Etim.",
-      "definicion": "</font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Del <dicabrev><a name=\"abrev19\"><b><u>lat.</u></b></dicabrev><i> malesanus</i>      ‘loco, sin juicio’, de<i> male</i> ‘mal’ y<i> sanus</i>      ‘sano’. Fr.<i> malsain,</i> <dicabrev><a name=\"abrev20\"><b><u>it.</u></b></dicabrev><i> malsano,</i> <dicabrev><a name=\"abrev21\"><b><u>port.</u></b></dicabrev><i> malsão.      </i></font></p>   <font face=\"arial\">    <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   </font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>",
-      "ejemplos_citas": [],
-      "subacepciones": []
     }
   ],
-  "etimologia": ""
+  "etimologia": "<dicarbrecont><a name=\"arbre18\">Etim.</dicarbrecont></font><font   face=\"arial\" color=\"#0000ff\"> </font></b><font face=\"arial\">Del <dicabrev><a name=\"abrev19\"><b><u>lat.</u></b></dicabrev><i> malesanus</i>      ‘loco, sin juicio’, de<i> male</i> ‘mal’ y<i> sanus</i>      ‘sano’. Fr.<i> malsain,</i> <dicabrev><a name=\"abrev20\"><b><u>it.</u></b></dicabrev><i> malsano,</i> <dicabrev><a name=\"abrev21\"><b><u>port.</u></b></dicabrev><i> malsão.      </i></font></p>   <font face=\"arial\">    <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   <p ALIGN=\"JUSTIFY\"> </p>   </font><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\u0000</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>"
 }

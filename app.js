@@ -130,15 +130,19 @@ document.addEventListener('DOMContentLoaded', () => {
         outAcepciones.innerHTML = '';
         data.acepciones.forEach(acep => {
             const div = document.createElement('div');
-            div.className = 'acepcion-item';
+            const isDummyParent = !acep.id && !acep.definicion;
+            div.className = 'acepcion-item' + (isDummyParent ? ' dummy-parent' : '');
             
-            let html = `
-                <div class="acepcion-head">
-                    <span class="acepcion-num">${acep.id}</span>
-                    <div class="acepcion-text">${acep.definicion}</div>
-                </div>
-                ${renderCitas(acep.ejemplos_citas)}
-            `;
+            let html = '';
+            if (!isDummyParent) {
+                html += `
+                    <div class="acepcion-head">
+                        <span class="acepcion-num">${acep.id}</span>
+                        <div class="acepcion-text">${acep.definicion}</div>
+                    </div>
+                `;
+            }
+            html += renderCitas(acep.ejemplos_citas);
             
             if (acep.subacepciones.length > 0) {
                 html += `<div class="sub-list">`;
@@ -150,8 +154,25 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <div class="sub-text">${sub.definicion}</div>
                             </div>
                             ${renderCitas(sub.ejemplos_citas)}
-                        </div>
                     `;
+                    
+                    if (sub.subsubacepciones && sub.subsubacepciones.length > 0) {
+                        html += `<div class="sub-sub-list">`;
+                        sub.subsubacepciones.forEach(ss => {
+                            html += `
+                                <div class="sub-sub-item">
+                                    <div class="acepcion-head">
+                                        <span class="acepcion-num">${ss.id_limpio}</span>
+                                        <div class="sub-sub-text">${ss.definicion}</div>
+                                    </div>
+                                    ${renderCitas(ss.ejemplos_citas)}
+                                </div>
+                            `;
+                        });
+                        html += `</div>`;
+                    }
+                    
+                    html += `</div>`;
                 });
                 html += `</div>`;
             }

@@ -528,38 +528,128 @@ body {
     color: var(--text-main);
 }
 
-/* ── 7. SECCIONES ESPECIALES (ETIMOLOGÍA, CONSTRUCCIONES) ───────────────── */
-.extra-section {
-    margin-top: 36px;
-    padding-top: 24px;
-    border-top: 1px solid var(--border);
+/* ── 7. SECCIONES ESPECIALES (OPCIONALES Y APÉNDICES) ─────────────────────── */
+.extras-container {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 40px;
 }
 
-.construction-box h3 {
+.extra-section {
+    position: relative;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px 28px;
+    box-shadow: var(--shadow);
+    transition: var(--transition-smooth);
+}
+
+.extra-section:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-hover);
+}
+
+/* Encabezados de sección premium */
+.extra-section h3 {
+    font-family: var(--font-sans);
     font-size: 0.85rem;
     font-weight: 700;
     color: var(--accent);
-    margin-bottom: 12px;
+    margin-bottom: 16px;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.08em;
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
-.section-content {
+.extra-section h3::before {
+    content: '';
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    background-color: var(--accent);
+    border-radius: 50%;
+}
+
+.extra-section .section-content {
     font-family: var(--font-serif);
-    font-size: 1.1rem;
-    line-height: 1.7;
+    font-size: 1.05rem;
+    line-height: 1.75;
     color: var(--text-main);
 }
 
+/* Diferenciación visual premium para apéndices clave */
 .etim-box {
-    font-family: var(--font-serif);
+    border-left: 4px solid hsl(270, 70%, 50%); /* Violeta filológico */
+    background: linear-gradient(135deg, var(--bg-card) 0%, var(--bg-app) 100%);
+}
+.etim-box h3 {
+    color: hsl(270, 70%, 50%);
+}
+.etim-box h3::before {
+    background-color: hsl(270, 70%, 50%);
+}
+.etim-box .section-content {
     font-style: italic;
-    font-size: 1rem;
-    color: var(--text-muted);
-    background: var(--bg-app);
-    padding: 16px;
-    border-radius: 8px;
-    border: 1px solid var(--border);
+    color: var(--text-main);
+}
+
+.antecl-box {
+    border-left: 4px solid hsl(25, 80%, 45%); /* Cobre histórico */
+    background: linear-gradient(135deg, var(--bg-card) 0%, var(--bg-app) 100%);
+}
+.antecl-box h3 {
+    color: hsl(25, 80%, 45%);
+}
+.antecl-box h3::before {
+    background-color: hsl(25, 80%, 45%);
+}
+
+.lat-hisp-box {
+    border-left: 4px solid hsl(140, 50%, 35%); /* Verde oliva medieval */
+}
+.lat-hisp-box h3 {
+    color: hsl(140, 50%, 35%);
+}
+.lat-hisp-box h3::before {
+    background-color: hsl(140, 50%, 35%);
+}
+
+.conjugacion-box {
+    border-left: 4px solid hsl(350, 70%, 45%); /* Rubí morfológico */
+}
+.conjugacion-box h3 {
+    color: hsl(350, 70%, 45%);
+}
+.conjugacion-box h3::before {
+    background-color: hsl(350, 70%, 45%);
+}
+
+.construction-box {
+    border-left: 4px solid var(--accent); /* Azul estándar de régimen */
+}
+
+.nota-box {
+    border-left: 4px solid hsl(45, 90%, 40%); /* Ámbar lexicográfico */
+}
+.nota-box h3 {
+    color: hsl(45, 90%, 40%);
+}
+.nota-box h3::before {
+    background-color: hsl(45, 90%, 40%);
+}
+
+.forma-box, .ortografia-box, .prosodia-box, .colocacion-box {
+    border-left: 4px solid hsl(200, 70%, 45%); /* Cian técnico */
+}
+.forma-box h3, .ortografia-box h3, .prosodia-box h3, .colocacion-box h3 {
+    color: hsl(200, 70%, 45%);
+}
+.forma-box h3::before, .ortografia-box h3::before, .prosodia-box h3::before, .colocacion-box h3::before {
+    background-color: hsl(200, 70%, 45%);
 }
 
 /* ── 8. CONTROL DE FILTROS DE VISUALIZACIÓN ────────────────────────────── */

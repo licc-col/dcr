@@ -1,0 +1,22 @@
+{
+  "name": "dcr-visualizer",
+  "version": "1.0.0",
+  "description": "Visualizador local del Diccionario de construcción y régimen de Cuervo",
+  "type": "module",
+  "main": "src/server/server.js",
+  "scripts": {
+    "import:abbrev": "node src/parser/extractAbbreviations.js",
+    "import:authors": "node src/parser/extractAuthors.js",
+    "import:lemmas": "node src/parser/importDCR.js",
+    "import:contextual": "node src/parser/importContextual.js",
+    "import:all": "npm run import:abbrev && npm run import:authors && npm run import:lemmas && npm run import:contextual",
+    "dev": "node --watch src/server/server.js",
+    "start": "node src/server/server.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "express": "^5.0.0",
+    "iconv-lite": "^0.6.3",
+    "mongoose": "^8.0.0"
+  }
+}

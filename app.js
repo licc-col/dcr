@@ -181,15 +181,33 @@ document.addEventListener('DOMContentLoaded', () => {
             outAcepciones.appendChild(div);
         });
 
-        // Add Construction / Sintaxis if present
-        if (data.construccion_sintactica) {
-            const constrDiv = document.createElement('div');
-            constrDiv.className = 'extra-section construction-box';
-            constrDiv.innerHTML = `<h3>Construcciones Sintácticas</h3><div class="section-content">${data.construccion_sintactica}</div>`;
-            outAcepciones.appendChild(constrDiv);
-        }
+        // Add Extra/Tail sections if present
+        outEtim.innerHTML = '';
         
-        outEtim.innerHTML = data.etimologia ? `<div class="extra-section etim-box"><strong>Etimología:</strong> ${data.etimologia}</div>` : '';
+        const extraSections = [
+            { key: 'periodo_anteclasico', label: 'Período Anteclásico', className: 'antecl-box' },
+            { key: 'testimonios_latino_hispanicos', label: 'Testimonios Latino-Hispánicos', className: 'lat-hisp-box' },
+            { key: 'etimologia', label: 'Etimología', className: 'etim-box' },
+            { key: 'nota', label: 'Nota', className: 'nota-box' },
+            { key: 'forma', label: 'Forma', className: 'forma-box' },
+            { key: 'ortografia', label: 'Ortografía', className: 'ortografia-box' },
+            { key: 'conjugacion', label: 'Conjugación', className: 'conjugacion-box' },
+            { key: 'construccion_sintactica', label: 'Construcciones', className: 'construction-box' },
+            { key: 'prosodia', label: 'Prosodia', className: 'prosodia-box' },
+            { key: 'colocacion_concordancia', label: 'Colocación y Concordancia', className: 'colocacion-box' }
+        ];
+
+        extraSections.forEach(sec => {
+            if (data[sec.key] && data[sec.key].trim() !== "") {
+                const secDiv = document.createElement('div');
+                secDiv.className = `extra-section ${sec.className}`;
+                secDiv.innerHTML = `
+                    <h3>${sec.label}</h3>
+                    <div class="section-content">${data[sec.key]}</div>
+                `;
+                outEtim.appendChild(secDiv);
+            }
+        });
     }
 
     function renderCitas(citas) {

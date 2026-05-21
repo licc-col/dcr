@@ -513,10 +513,6 @@ document.addEventListener('DOMContentLoaded', () => {
             const expansion = abbreviationsDb[key] || abbreviationsDb[key.toLowerCase()];
             if (!expansion) return;
             content = `
-                <div class="popover-abbr-header">
-                    <span class="abbr-icon">📖</span>
-                    <span>Término Lexicográfico</span>
-                </div>
                 <div class="popover-abbr-body">
                     <span class="abbr-key">${key}</span> &rarr; <span class="abbr-val">${expansion}</span>
                 </div>

@@ -239,6 +239,8 @@ def parse_html_to_json(filepath):
         citas_list = []
         citas_split = re.split(r'«', text)
         def_text = strip_html_tags(citas_split[0])
+        if not re.search(r'\w', def_text):
+            def_text = ""
         for c in citas_split[1:]:
             qp = re.split(r'»', c, maxsplit=1)
             texto_cita = "«" + strip_html_tags(qp[0]) + ("»" if len(qp) > 1 else "")

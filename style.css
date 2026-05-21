@@ -787,3 +787,118 @@ font[color="#FF000"] {
     from { opacity: 0; transform: scale(0.95); }
     to { opacity: 1; transform: scale(1); }
 }
+
+/* ── 11. GLOSSARY POP-OVERS & INTERACTIVITY ─────────────────────────── */
+.popover-trigger {
+    cursor: help;
+    border-bottom: 1.5px dotted var(--accent);
+    transition: var(--transition-fast);
+    display: inline-block;
+}
+
+.popover-trigger:hover {
+    color: var(--accent);
+    background-color: var(--accent-glow);
+    border-bottom-style: solid;
+    border-radius: 4px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.premium-popover {
+    position: absolute;
+    z-index: 9999;
+    max-width: 340px;
+    padding: 16px 20px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.82);
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.05);
+    color: #1a202c;
+    font-size: 0.88rem;
+    line-height: 1.5;
+    font-family: var(--font-sans);
+    opacity: 0;
+    transform: scale(0.95) translateY(5px);
+    transition: opacity 0.2s cubic-bezier(0.16, 1, 0.3, 1), transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    pointer-events: auto;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    .premium-popover {
+        background: rgba(22, 28, 45, 0.88);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 255, 255, 0.05);
+        color: #e2e8f0;
+    }
+}
+
+.premium-popover.visible {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+}
+
+.popover-abbr-header {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--accent);
+    margin-bottom: 8px;
+}
+
+.popover-abbr-body {
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.abbr-key {
+    font-family: var(--font-mono);
+    font-weight: 700;
+    background: var(--accent-soft);
+    color: var(--accent);
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+}
+
+.abbr-val {
+    font-weight: 600;
+}
+
+.popover-works-label {
+    display: block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    margin-top: 12px;
+    margin-bottom: 6px;
+    border-top: 1px solid var(--border);
+    padding-top: 8px;
+}
+
+.popover-works-list {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 0.78rem;
+    max-height: 150px;
+    overflow-y: auto;
+}
+
+.popover-works-list li {
+    padding: 4px 0;
+    border-bottom: 1px dashed var(--border);
+    color: var(--text-muted);
+}
+
+.popover-works-list li:last-child {
+    border-bottom: none;
+}

@@ -74,18 +74,21 @@ body {
 
 /* Custom Scrollbars */
 ::-webkit-scrollbar {
-    width: 6px;
-    height: 6px;
+    width: 10px;
+    height: 10px;
 }
 ::-webkit-scrollbar-track {
-    background: transparent;
+    background: var(--bg-app);
+    border-radius: 5px;
 }
 ::-webkit-scrollbar-thumb {
-    background: var(--border);
-    border-radius: 4px;
+    background: var(--text-muted);
+    border: 2px solid var(--bg-app);
+    border-radius: 10px;
+    transition: var(--transition-fast);
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: var(--text-muted);
+    background: var(--accent);
 }
 
 /* Container de la App */
@@ -386,6 +389,24 @@ body {
     font-size: 0.85rem;
     font-weight: 700;
     font-style: italic;
+}
+
+.badge.popover-trigger {
+    cursor: help;
+    border-bottom: none !important;
+    display: inline-block;
+    transition: var(--transition-smooth);
+}
+
+.badge.popover-trigger:hover {
+    background-color: var(--accent) !important;
+    color: var(--bg-card) !important;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px var(--accent-glow);
+    border-bottom: none !important;
+    border-radius: 20px !important;
+    padding-left: 12px !important;
+    padding-right: 12px !important;
 }
 
 /* Definición Introductoria */

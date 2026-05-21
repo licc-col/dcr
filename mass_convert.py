@@ -238,7 +238,9 @@ def parse_html_to_json(filepath):
     def process_citas(text):
         citas_list = []
         citas_split = re.split(r'«', text)
-        def_text = strip_html_tags(citas_split[0])
+        def_text = strip_html_tags(citas_split[0]).strip()
+        # Clean leading dot and space
+        def_text = re.sub(r'^\s*\.\s*', '', def_text).strip()
         if not re.search(r'\w', def_text):
             def_text = ""
         for c in citas_split[1:]:
@@ -338,7 +340,8 @@ def parse_html_to_json(filepath):
             
             block = content[start_idx:end_idx].strip()
             acep_html_id = real_acep_matches[i].group(1).strip()
-            acepcion_id = strip_html_tags(acep_html_id)
+            acepcion_id = strip_html_tags(acep_html_id).strip()
+            acepcion_id = re.sub(r'\.$', '', acepcion_id).strip()
             
             acepcion = {
                 "id": acepcion_id,

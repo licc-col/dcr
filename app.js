@@ -42,6 +42,44 @@ document.addEventListener('DOMContentLoaded', () => {
         fullIndex = indexData;
         abbreviationsDb = abbrevData;
         authorsDb = authorData;
+        
+        // Add core grammatical abbreviations for beautiful and premium popovers
+        const extraAbbrevs = {
+            "v": "verbo",
+            "v.": "verbo",
+            "s. f.": "sustantivo femenino",
+            "s. m.": "sustantivo masculino",
+            "s.f.": "sustantivo femenino",
+            "s.m.": "sustantivo masculino",
+            "sf": "sustantivo femenino",
+            "sm": "sustantivo masculino",
+            "f.": "femenino",
+            "m.": "masculino",
+            "f": "femenino",
+            "m": "masculino",
+            "v. tr.": "verbo transitivo",
+            "v. intr.": "verbo intransitivo",
+            "v. refl.": "verbo reflexivo",
+            "v. prnl.": "verbo pronominal",
+            "prep": "preposición",
+            "prep.": "preposición",
+            "adj.": "adjetivo",
+            "adj": "adjetivo",
+            "adv.": "adverbio",
+            "adv": "adverbio",
+            "s.": "sustantivo",
+            "s": "sustantivo",
+            "conj.": "conjunción",
+            "conj": "conjunción",
+            "pron.": "pronombre",
+            "pron": "pronombre",
+            "interj.": "interjección",
+            "interj": "interjección",
+            "part.": "participio",
+            "part": "participio"
+        };
+        Object.assign(abbreviationsDb, extraAbbrevs);
+
         document.getElementById('viewerStats').innerText = `Base de datos cargada: ${fullIndex.length} lemas procesados.`;
         createAlphabetNav();
         renderList(fullIndex);
@@ -136,7 +174,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
     }
 
-    function linkifyText(text) {
+    function linkifyText(text, isCategory = false) {
         if (!text) return "";
         if (!abbreviationsDb || Object.keys(abbreviationsDb).length === 0) return text;
         
@@ -145,10 +183,18 @@ document.addEventListener('DOMContentLoaded', () => {
         
         // Build regex pattern for abbreviations
         const escapedKeys = keys.map(k => {
-            return k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            let escaped = k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            if (isCategory) {
+                // In category grammatical field, trailing dot is optional
+                if (escaped.endsWith('\\.')) {
+                    escaped = escaped.slice(0, -2) + '\\.?';
+                }
+            }
+            return escaped;
         });
         
-        const pattern = new RegExp(`\\b(${escapedKeys.join('|')})`, 'g');
+        // Unicode-aware word boundary regex (supports Spanish accented chars)
+        const pattern = new RegExp(`(?<!\\p{L})(${escapedKeys.join('|')})(?!\\p{L})`, 'gui');
         
         // Split by HTML tags to only replace text nodes
         const parts = text.split(/(<[^>]+>)/g);
@@ -156,9 +202,15 @@ document.addEventListener('DOMContentLoaded', () => {
         const processedParts = parts.map((part, index) => {
             if (index % 2 === 0) {
                 return part.replace(pattern, (match) => {
-                    const expansion = abbreviationsDb[match] || abbreviationsDb[match.toLowerCase()];
+                    // Normalize lookup key
+                    let key = match;
+                    let expansion = abbreviationsDb[key] || abbreviationsDb[key.toLowerCase()];
+                    if (!expansion && !key.endsWith('.')) {
+                        key = match + '.';
+                        expansion = abbreviationsDb[key] || abbreviationsDb[key.toLowerCase()];
+                    }
                     if (expansion) {
-                        return `<span class="abbrev-tag popover-trigger" data-popover-type="abbreviation" data-popover-key="${match}">${match}</span>`;
+                        return `<span class="abbrev-tag popover-trigger" data-popover-type="abbreviation" data-popover-key="${key}">${match}</span>`;
                     }
                     return match;
                 });
@@ -172,20 +224,60 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function renderEntry(data) {
         outLema.innerHTML = data.lema;
-        outCat.innerHTML = linkifyText(data.categoria_gramatical);
+        
+        // Render grammatical category badge as an interactive popover trigger if it exists
+        if (data.categoria_gramatical && data.categoria_gramatical.trim() !== "") {
+            const catLimpio = data.categoria_gramatical.trim();
+            const key = catLimpio.endsWith('.') ? catLimpio : catLimpio + '.';
+            const expansion = abbreviationsDb[catLimpio] || abbreviationsDb[catLimpio.toLowerCase()] || abbreviationsDb[key] || abbreviationsDb[key.toLowerCase()];
+            
+            outCat.classList.remove('hidden');
+            if (expansion) {
+                outCat.className = 'badge popover-trigger';
+                outCat.setAttribute('data-popover-type', 'abbreviation');
+                outCat.setAttribute('data-popover-key', key);
+            } else {
+                outCat.className = 'badge';
+                outCat.removeAttribute('data-popover-type');
+                outCat.removeAttribute('data-popover-key');
+            }
+            outCat.innerHTML = catLimpio;
+        } else {
+            outCat.innerHTML = '';
+            outCat.className = 'badge hidden';
+        }
+        
         outIntro.innerHTML = linkifyText(data.introduccion);
         
         outAcepciones.innerHTML = '';
         data.acepciones.forEach(acep => {
+            // Check if this acep has any content whatsoever to display
+            const hasContent = (acep.definicion && acep.definicion.trim() !== "") || 
+                                (acep.ejemplos_citas && acep.ejemplos_citas.length > 0) || 
+                                (acep.subacepciones && acep.subacepciones.some(sub => 
+                                    (sub.definicion && sub.definicion.trim() !== "") || 
+                                    (sub.ejemplos_citas && sub.ejemplos_citas.length > 0) ||
+                                    (sub.subsubacepciones && sub.subsubacepciones.some(ss => 
+                                        (ss.definicion && ss.definicion.trim() !== "") || 
+                                        (ss.ejemplos_citas && ss.ejemplos_citas.length > 0)
+                                    ))
+                                ));
+            
+            if (!hasContent) {
+                return; // Skip rendering completely empty structural acepcion entirely
+            }
+
             const div = document.createElement('div');
             const isDummyParent = !acep.id && !acep.definicion;
             div.className = 'acepcion-item' + (isDummyParent ? ' dummy-parent' : '');
             
             let html = '';
             if (!isDummyParent) {
+                // Format structural number/roman IDs to render with a uniform trailing dot in the UI
+                const displayId = /^\d+$|^[IVXLCDM]+$/i.test(acep.id) ? `${acep.id}.` : acep.id;
                 html += `
                     <div class="acepcion-head">
-                        <span class="acepcion-num">${acep.id}</span>
+                        <span class="acepcion-num">${displayId}</span>
                         <div class="acepcion-text">${linkifyText(acep.definicion)}</div>
                     </div>
                 `;
@@ -193,9 +285,17 @@ document.addEventListener('DOMContentLoaded', () => {
             html += renderCitas(acep.ejemplos_citas);
             
             if (acep.subacepciones.length > 0) {
-                html += `<div class="sub-list">`;
+                let subHtml = '';
                 acep.subacepciones.forEach(sub => {
-                    html += `
+                    const hasSubContent = (sub.definicion && sub.definicion.trim() !== "") || 
+                                          (sub.ejemplos_citas && sub.ejemplos_citas.length > 0) || 
+                                          (sub.subsubacepciones && sub.subsubacepciones.some(ss => 
+                                              (ss.definicion && ss.definicion.trim() !== "") || 
+                                              (ss.ejemplos_citas && ss.ejemplos_citas.length > 0)
+                                          ));
+                    if (!hasSubContent) return;
+
+                    subHtml += `
                         <div class="sub-item">
                             <div class="acepcion-head">
                                 <span class="acepcion-num">${sub.id_limpio}</span>
@@ -205,9 +305,13 @@ document.addEventListener('DOMContentLoaded', () => {
                     `;
                     
                     if (sub.subsubacepciones && sub.subsubacepciones.length > 0) {
-                        html += `<div class="sub-sub-list">`;
+                        let subSubHtml = '';
                         sub.subsubacepciones.forEach(ss => {
-                            html += `
+                            const hasSubSubContent = (ss.definicion && ss.definicion.trim() !== "") || 
+                                                     (ss.ejemplos_citas && ss.ejemplos_citas.length > 0);
+                            if (!hasSubSubContent) return;
+
+                            subSubHtml += `
                                 <div class="sub-sub-item">
                                     <div class="acepcion-head">
                                         <span class="acepcion-num">${ss.id_limpio}</span>
@@ -217,12 +321,17 @@ document.addEventListener('DOMContentLoaded', () => {
                                 </div>
                             `;
                         });
-                        html += `</div>`;
+                        if (subSubHtml) {
+                            subHtml += `<div class="sub-sub-list">${subSubHtml}</div>`;
+                        }
                     }
                     
-                    html += `</div>`;
+                    subHtml += `</div>`;
                 });
-                html += `</div>`;
+
+                if (subHtml) {
+                    html += `<div class="sub-list">${subHtml}</div>`;
+                }
             }
             
             div.innerHTML = html;
@@ -335,7 +444,10 @@ document.addEventListener('DOMContentLoaded', () => {
             const trigger = e.target.closest('.popover-trigger');
             if (!trigger) return;
             
-            if (activeTrigger === trigger) return;
+            // If we came from another element within the same trigger, do nothing
+            if (e.relatedTarget && e.relatedTarget.closest('.popover-trigger') === trigger) {
+                return;
+            }
             
             clearTimeout(hoverTimeout);
             activeTrigger = trigger;
@@ -348,6 +460,11 @@ document.addEventListener('DOMContentLoaded', () => {
         viewerContent.addEventListener('mouseout', (e) => {
             const trigger = e.target.closest('.popover-trigger');
             if (!trigger) return;
+            
+            // If we are moving to another element within the same trigger, do nothing
+            if (e.relatedTarget && e.relatedTarget.closest('.popover-trigger') === trigger) {
+                return;
+            }
             
             clearTimeout(hoverTimeout);
             

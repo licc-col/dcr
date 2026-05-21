@@ -659,8 +659,11 @@ body {
     display: none;
 }
 
-.hide-sub .sub-list, 
-.hide-sub .sub-sub-list {
+.hide-sub .sub-list {
+    display: none;
+}
+
+.hide-subsub .sub-sub-list {
     display: none;
 }
 

@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Toggles
     const checkDef = document.getElementById('checkDef');
     const checkSub = document.getElementById('checkSub');
+    const checkSubSub = document.getElementById('checkSubSub');
     const checkEje = document.getElementById('checkEje');
     
     // Output Areas
@@ -232,11 +233,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const updateToggles = () => {
         viewerContent.classList.toggle('hide-def', !checkDef.checked);
         viewerContent.classList.toggle('hide-sub', !checkSub.checked);
+        viewerContent.classList.toggle('hide-subsub', !checkSubSub.checked);
         viewerContent.classList.toggle('hide-eje', !checkEje.checked);
     };
     
     checkDef.onchange = updateToggles;
     checkSub.onchange = updateToggles;
+    checkSubSub.onchange = updateToggles;
     checkEje.onchange = updateToggles;
 
     // 7. JSON Modal

@@ -67,6 +67,23 @@ def clean_structural_tags(text):
     text = re.sub(r'(</p>|<br/?>|\s)+$', '', text, flags=re.IGNORECASE)
     return text
 
+import html
+
+def strip_html_tags(text):
+    """
+    Elimina todas las etiquetas HTML y decodifica entidades HTML.
+    Normaliza los espacios en blanco.
+    """
+    if not text:
+        return ""
+    # Eliminar cualquier etiqueta HTML
+    clean = re.sub(r'<[^>]+>', '', text)
+    # Decodificar entidades HTML
+    clean = html.unescape(clean)
+    # Normalizar espacios
+    clean = re.sub(r'\s+', ' ', clean).strip()
+    return clean
+
 def get_section_key(header_text):
     clean = re.sub(r'<[^>]+>', '', header_text).strip().lower()
     clean_norm = re.sub(r'\.$', '', clean).strip()
@@ -161,11 +178,11 @@ def parse_html_to_json(filepath):
     }
     
     m_lema = re.search(r'<dicentry>(.*?)</dicentry>', content, flags=re.IGNORECASE)
-    if m_lema: data['lema'] = m_lema.group(1).strip()
+    if m_lema: data['lema'] = strip_html_tags(m_lema.group(1))
     
     m_gram = re.search(r'<dicgrammar>(.*?)</dicgrammar>', content, flags=re.IGNORECASE)
     pos_gram_end = m_gram.end() if m_gram else 0
-    if m_gram: data['categoria_gramatical'] = m_gram.group(1).strip()
+    if m_gram: data['categoria_gramatical'] = strip_html_tags(m_gram.group(1))
         
     def is_real_acep(text):
         return get_section_key(text) is None
@@ -205,20 +222,20 @@ def parse_html_to_json(filepath):
     def process_citas(text):
         citas_list = []
         citas_split = re.split(r'«', text)
-        def_text = clean_structural_tags(balance_tags(citas_split[0].strip()))
+        def_text = strip_html_tags(citas_split[0])
         for c in citas_split[1:]:
             qp = re.split(r'»', c, maxsplit=1)
-            texto_cita = balance_tags("«" + qp[0].strip() + ("»" if len(qp) > 1 else ""))
+            texto_cita = "«" + strip_html_tags(qp[0]) + ("»" if len(qp) > 1 else "")
             autor_raw = ""
             ref_raw = ""
             if len(qp) > 1:
                 remainder = qp[1].strip()
                 m_autor = re.search(r'<dicautor>(.*?)</dicautor>', remainder, flags=re.IGNORECASE)
                 if m_autor:
-                    autor_raw = clean_structural_tags(balance_tags(m_autor.group(1).strip()))
-                    ref_raw = clean_structural_tags(balance_tags(remainder[m_autor.end():].strip()))
+                    autor_raw = strip_html_tags(m_autor.group(1))
+                    ref_raw = strip_html_tags(remainder[m_autor.end():])
                 else:
-                    ref_raw = clean_structural_tags(balance_tags(remainder))
+                    ref_raw = strip_html_tags(remainder)
             citas_list.append({
                 "texto_cita": texto_cita,
                 "autor": autor_raw,
@@ -262,7 +279,7 @@ def parse_html_to_json(filepath):
             
             if level == 1:
                 sub_acep = {
-                    "id_marcador_html": clean_structural_tags(marker),
+                    "id_marcador_html": strip_html_tags(marker),
                     "id_limpio": clean_marker.strip(),
                     "definicion": sub_def,
                     "ejemplos_citas": sub_citas,
@@ -273,7 +290,7 @@ def parse_html_to_json(filepath):
             else:
                 # Level 2 (sub-subacepción)
                 subsub_acep = {
-                    "id_marcador_html": clean_structural_tags(marker),
+                    "id_marcador_html": strip_html_tags(marker),
                     "id_limpio": clean_marker.strip(),
                     "definicion": sub_def,
                     "ejemplos_citas": sub_citas
@@ -293,7 +310,7 @@ def parse_html_to_json(filepath):
         data["acepciones"].append(acepcion)
     else:
         # Standard alphabetical acepciones exist
-        data['introduccion'] = clean_structural_tags(balance_tags(content[pos_gram_end:real_acep_matches[0].start()].strip()))
+        data['introduccion'] = strip_html_tags(content[pos_gram_end:real_acep_matches[0].start()])
         
         for i in range(len(real_acep_matches)):
             start_idx = real_acep_matches[i].end()
@@ -304,7 +321,7 @@ def parse_html_to_json(filepath):
             
             block = content[start_idx:end_idx].strip()
             acep_html_id = real_acep_matches[i].group(1).strip()
-            acepcion_id = re.sub(r'<[^>]+>', '', acep_html_id).strip()
+            acepcion_id = strip_html_tags(acep_html_id)
             
             acepcion = {
                 "id": acepcion_id,
@@ -336,7 +353,7 @@ def parse_html_to_json(filepath):
                 
                 if level == 1:
                     sub_acep = {
-                        "id_marcador_html": clean_structural_tags(marker),
+                        "id_marcador_html": strip_html_tags(marker),
                         "id_limpio": clean_marker.strip(),
                         "definicion": sub_def,
                         "ejemplos_citas": sub_citas,
@@ -347,7 +364,7 @@ def parse_html_to_json(filepath):
                 else:
                     # Level 2 (sub-subacepción)
                     subsub_acep = {
-                        "id_marcador_html": clean_structural_tags(marker),
+                        "id_marcador_html": strip_html_tags(marker),
                         "id_limpio": clean_marker.strip(),
                         "definicion": sub_def,
                         "ejemplos_citas": sub_citas
@@ -374,7 +391,7 @@ def parse_html_to_json(filepath):
         block = content[pos:next_pos].strip()
         key = get_section_key(text)
         if key:
-            cleaned_block = clean_structural_tags(balance_tags(block))
+            cleaned_block = strip_html_tags(block)
             if key in data:
                 if data[key]:
                     data[key] += " " + cleaned_block

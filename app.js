@@ -251,8 +251,9 @@ document.addEventListener('DOMContentLoaded', () => {
         
         outAcepciones.innerHTML = '';
         data.acepciones.forEach(acep => {
-            // Check if this acep has any content whatsoever to display
-            const hasContent = (acep.definicion && acep.definicion.trim() !== "") || 
+            // Check if this acep has any content whatsoever to display, or has a structural ID
+            const hasContent = (acep.id && acep.id.trim() !== "") ||
+                                (acep.definicion && acep.definicion.trim() !== "") || 
                                 (acep.ejemplos_citas && acep.ejemplos_citas.length > 0) || 
                                 (acep.subacepciones && acep.subacepciones.some(sub => 
                                     (sub.definicion && sub.definicion.trim() !== "") || 

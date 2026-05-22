@@ -24,6 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const jsonRawPre = document.getElementById('jsonRaw');
     const btnRaw = document.getElementById('viewRawJson');
     const btnCloseModal = document.getElementById('closeModal');
+    const btnBack = document.getElementById('btnBack');
     
     let fullIndex = [];
     let currentData = null;
@@ -171,6 +172,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Reset scroll position to top
                 const mainArea = document.querySelector('.main-area');
                 if (mainArea) mainArea.scrollTop = 0;
+
+                // Slide in detail panel on mobile
+                const appContainer = document.querySelector('.app-container');
+                if (appContainer) appContainer.classList.add('show-detail');
             });
     }
 
@@ -430,6 +435,13 @@ document.addEventListener('DOMContentLoaded', () => {
     };
     btnCloseModal.onclick = () => modal.classList.add('hidden');
     modal.onclick = (e) => { if(e.target === modal) modal.classList.add('hidden'); };
+
+    if (btnBack) {
+        btnBack.onclick = () => {
+            const appContainer = document.querySelector('.app-container');
+            if (appContainer) appContainer.classList.remove('show-detail');
+        };
+    }
 
     // 8. Premium Glassmorphic Popover
     const popover = document.createElement('div');

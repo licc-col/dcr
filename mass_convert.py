@@ -174,6 +174,12 @@ def parse_html_to_json(filepath):
         return None
 
     content = re.sub(r'[\r\n]+', ' ', content)
+    
+    # Clean comment wrappers from dicentry and dicgrammar, keeping their content, and strip other comments
+    content = re.sub(r'<!--\s*>\s*(<dicentry>.*?</dicentry>)\s*-->', r'\1', content, flags=re.IGNORECASE | re.DOTALL)
+    content = re.sub(r'<!--\s*>\s*(<dicgrammar>.*?</dicgrammar>)\s*-->', r'\1', content, flags=re.IGNORECASE | re.DOTALL)
+    content = re.sub(r'<!--.*?-->', '', content, flags=re.DOTALL)
+    
     content = translate_symbols(content)
     
     data = {
@@ -194,7 +200,16 @@ def parse_html_to_json(filepath):
     }
     
     m_lema = re.search(r'<dicentry>(.*?)</dicentry>', content, flags=re.IGNORECASE)
-    if m_lema: data['lema'] = strip_html_tags(m_lema.group(1))
+    if m_lema:
+        raw_lema = strip_html_tags(m_lema.group(1))
+        lema_val = raw_lema.strip()
+        if lema_val:
+            # Trailing dot normalization: if it doesn't end with a dot,
+            # nor ends with a dot followed by an asterisk, nor ends with a parenthesis
+            # preceded by a dot (homograph markers).
+            if not lema_val.endswith('.') and not re.search(r'\.\s*\*\s*$', lema_val) and not (lema_val.endswith(')') and re.search(r'\.\s*\([^)]+\)$', lema_val)):
+                lema_val += '.'
+        data['lema'] = lema_val
     
     m_gram = re.search(r'<dicgrammar>(.*?)</dicgrammar>', content, flags=re.IGNORECASE)
     pos_gram_end = m_gram.end() if m_gram else 0
@@ -421,6 +436,47 @@ def parse_html_to_json(filepath):
     # Clean category duplicate leaks from introduccion
     if data['introduccion'] and data['introduccion'].startswith('-->'):
         data['introduccion'] = re.sub(r'^-->\s*(?:[a-zA-Z]+)?\b\.?\s*', '', data['introduccion']).strip()
+
+    # Clean leading duplicate lemma occurrences from introduccion
+    if data['introduccion'] and data['lema']:
+        lema_clean_norm = re.sub(r'[\s.,()\-‑—*]+', '', data['lema']).strip().lower()
+        if lema_clean_norm:
+            for _ in range(10):  # Maximum 10 iterations to prevent any infinite loops
+                intro_str = data['introduccion'].strip()
+                if not intro_str:
+                    break
+                first_chunk = re.split(r'\n+|<br\s*/?>|</p>|<p[^>]*>', intro_str, maxsplit=1)[0].strip()
+                if not first_chunk:
+                    break
+                first_chunk_clean = re.sub(r'[\s.,()\-‑—*]+', '', first_chunk).strip().lower()
+                if first_chunk_clean == lema_clean_norm:
+                    remainder = intro_str[len(first_chunk):].strip()
+                    remainder = re.sub(r'^(?:[\s.,()\-‑—]+|<br\s*/?>|</p>|<p[^>]*>)+', '', remainder).strip()
+                    data['introduccion'] = remainder
+                else:
+                    break
+
+    # Clean invalid introductions (grammatical tags, duplicate of the lemma, etc.)
+    if data['introduccion']:
+        intro_str = data['introduccion']
+        intro_clean = re.sub(r'[\s.,()\-‑—]+', ' ', intro_str).strip().lower()
+        lema_clean = re.sub(r'[\s.,()\-‑—*]+', ' ', data['lema']).strip().lower()
+        
+        is_invalid = False
+        if not intro_clean or intro_clean == lema_clean:
+            is_invalid = True
+        else:
+            gram_words = {
+                's', 'f', 'm', 'adj', 'v', 'adv', 'prep', 'pron', 'art', 'conj', 'interj',
+                'pl', 'sing', 'tr', 'intr', 'ref', 'p', 'part', 'a', 'd', 'c', 'masc', 'fem',
+                'n', 'u', 't', 'g', 'o', 'r', 'e', 'x'
+            }
+            words = intro_clean.split()
+            if all(w in gram_words for w in words):
+                is_invalid = True
+                
+        if is_invalid:
+            data['introduccion'] = ""
 
     return data
 

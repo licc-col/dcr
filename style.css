@@ -923,3 +923,173 @@ font[color="#FF000"] {
 .popover-works-list li:last-child {
     border-bottom: none;
 }
+
+/* ── 12. DISEÑO RESPONSIVO (MÓVILES Y TABLETS) ───────────────────────────── */
+@media (max-width: 768px) {
+    /* Contenedor principal de la app */
+    .app-container {
+        position: relative;
+        width: 100vw;
+        height: 100vh;
+        overflow: hidden;
+    }
+
+    /* Barra Lateral (Lista) ocupando toda la pantalla por defecto */
+    .sidebar {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border-right: none;
+        transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        z-index: 10;
+        transform: translateX(0);
+    }
+
+    /* Área de Contenido Principal (Detalle) oculta a la derecha por defecto */
+    .main-area {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        padding: 16px;
+        transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        z-index: 5;
+        transform: translateX(100%);
+        background: var(--bg-app);
+    }
+
+    /* Transición al mostrar el detalle de un lema */
+    .app-container.show-detail .sidebar {
+        transform: translateX(-100%);
+    }
+
+    .app-container.show-detail .main-area {
+        transform: translateX(0);
+        z-index: 15;
+    }
+
+    /* Ajustes del Botón de Retroceso en móvil */
+    .btn-back {
+        display: inline-flex !important;
+        align-items: center;
+        gap: 6px;
+        font-weight: 700;
+        color: var(--accent);
+        background: var(--accent-soft);
+        border-color: var(--accent);
+    }
+    
+    .btn-back.hidden {
+        display: none !important;
+    }
+
+    /* Barra de Herramientas Deslizable Horizontalmente */
+    .toolbar {
+        flex-direction: row;
+        justify-content: flex-start;
+        gap: 16px;
+        overflow-x: auto;
+        white-space: nowrap;
+        padding: 12px;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .toggle-group {
+        display: flex;
+        flex-wrap: nowrap;
+        gap: 16px;
+        flex-shrink: 0;
+    }
+
+    .toolbar .btn-text {
+        flex-shrink: 0;
+    }
+
+    /* Cinta alfabética horizontal en una sola línea */
+    .alphabet-nav {
+        display: flex;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        gap: 6px;
+        padding-bottom: 8px;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .alpha-btn {
+        flex-shrink: 0;
+        width: 32px;
+        height: 32px;
+        font-size: 0.85rem;
+    }
+
+    /* Tarjeta del lema adaptada */
+    .entry-card {
+        padding: 24px 16px;
+        border-radius: 12px;
+        min-height: auto;
+    }
+
+    .lema-row h1 {
+        font-size: 1.85rem;
+    }
+
+    .entry-body {
+        font-size: 1.05rem;
+        line-height: 1.6;
+        margin-bottom: 24px;
+    }
+
+    .intro-box {
+        padding-left: 12px;
+    }
+
+    /* Acepciones y Ejemplos adaptados */
+    .acepcion-item {
+        margin-bottom: 24px;
+        padding: 8px 0;
+    }
+
+    .acepcion-num {
+        font-size: 1.05rem;
+        min-width: 45px;
+    }
+
+    .acepcion-text, .sub-text, .sub-sub-text {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    .examples-grid {
+        margin-left: 12px;
+        gap: 8px;
+    }
+
+    .example-card {
+        padding: 10px 12px;
+    }
+
+    .quote {
+        font-size: 0.95rem;
+    }
+
+    .sub-list, .sub-sub-list {
+        margin-left: 12px;
+        padding-left: 10px;
+    }
+
+    /* Ocultar scrollbars horizontales en toolbar y alphabet-nav para limpieza estética, pero mantener funcionalidad */
+    .toolbar::-webkit-scrollbar,
+    .alphabet-nav::-webkit-scrollbar {
+        height: 4px;
+    }
+    
+    .toolbar::-webkit-scrollbar-thumb,
+    .alphabet-nav::-webkit-scrollbar-thumb {
+        background: var(--border-focus);
+        border-radius: 2px;
+    }
+}
+

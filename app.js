@@ -34,10 +34,11 @@ document.addEventListener('DOMContentLoaded', () => {
     let authorsDb = {};
 
     // 1. Initial Load
+    const cacheBuster = Date.now();
     Promise.all([
-        fetch('./json/index_db.json').then(r => r.json()),
-        fetch('./json/abbreviations_db.json').then(r => r.json()).catch(e => { console.warn(e); return {}; }),
-        fetch('./json/authors_db.json').then(r => r.json()).catch(e => { console.warn(e); return {}; })
+        fetch(`./json/index_db.json?t=${cacheBuster}`).then(r => r.json()),
+        fetch(`./json/abbreviations_db.json?t=${cacheBuster}`).then(r => r.json()).catch(e => { console.warn(e); return {}; }),
+        fetch(`./json/authors_db.json?t=${cacheBuster}`).then(r => r.json()).catch(e => { console.warn(e); return {}; })
     ])
     .then(([indexData, abbrevData, authorData]) => {
         fullIndex = indexData;
@@ -161,7 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 5. Load & Render Entry
     function loadEntry(file) {
-        fetch(`./json/${file}`)
+        fetch(`./json/${file}?t=${Date.now()}`)
             .then(r => r.json())
             .then(data => {
                 currentData = data;

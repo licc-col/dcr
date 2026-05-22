@@ -345,6 +345,10 @@ body {
     border-color: var(--accent);
 }
 
+.btn-back {
+    display: none;
+}
+
 /* Tarjeta Principal de la Entrada */
 .entry-card {
     background: var(--bg-card);
@@ -980,10 +984,6 @@ font[color="#FF000"] {
         color: var(--accent);
         background: var(--accent-soft);
         border-color: var(--accent);
-    }
-    
-    .btn-back.hidden {
-        display: none !important;
     }
 
     /* Barra de Herramientas Deslizable Horizontalmente */

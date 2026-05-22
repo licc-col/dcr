@@ -251,16 +251,35 @@ def parse_html_to_json(filepath):
         pos_normal_end = len(content)
 
     def process_citas(text):
+        def protect_parenthesis_quotes(t):
+            if not t:
+                return ""
+            def replace_parens(match):
+                inner = match.group(0)
+                if '«' in inner or '»' in inner:
+                    inner = inner.replace('«', '@@@LQUOT@@@').replace('»', '@@@RQUOT@@@')
+                return inner
+            return re.sub(r'\([^)]*\)', replace_parens, t)
+
+        def restore_parenthesis_quotes(t):
+            if not t:
+                return ""
+            return t.replace('@@@LQUOT@@@', '«').replace('@@@RQUOT@@@', '»')
+
         citas_list = []
-        citas_split = re.split(r'«', text)
+        protected_text = protect_parenthesis_quotes(text)
+        citas_split = re.split(r'«', protected_text)
         def_text = strip_html_tags(citas_split[0]).strip()
         # Clean leading dot and space
         def_text = re.sub(r'^\s*\.\s*', '', def_text).strip()
         if not re.search(r'\w', def_text):
             def_text = ""
+        def_text = restore_parenthesis_quotes(def_text)
+
         for c in citas_split[1:]:
             qp = re.split(r'»', c, maxsplit=1)
             texto_cita = "«" + strip_html_tags(qp[0]) + ("»" if len(qp) > 1 else "")
+            texto_cita = restore_parenthesis_quotes(texto_cita)
             autor_raw = ""
             ref_raw = ""
             if len(qp) > 1:
@@ -271,6 +290,7 @@ def parse_html_to_json(filepath):
                     ref_raw = strip_html_tags(remainder[m_autor.end():])
                 else:
                     ref_raw = strip_html_tags(remainder)
+            ref_raw = restore_parenthesis_quotes(ref_raw)
             citas_list.append({
                 "texto_cita": texto_cita,
                 "autor": autor_raw,

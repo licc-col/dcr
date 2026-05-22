@@ -1,79 +1,42 @@
-# Diccionario de Construcción y Régimen (DCR) - Cuervo
+# Diccionario de Construcción y Régimen (DCR) - Cuervo Digital
 
-Este repositorio contiene la versión digital y refinada del **Diccionario de Construcción y Régimen de la Lengua Castellana** de Rufino José Cuervo.
-
-Los datos han sido extraídos del **Diccionario de construcción y régimen de la lengua castellana en CD-ROM** (1ª ed.). Barcelona: Herder Editorial, y han sido transformados a un formato **JSON estructurado** para su visualización a través de una aplicación web ligera.
+Este repositorio contiene la versión digital actualizada del **Diccionario de Construcción y Régimen de la Lengua Castellana** de Rufino José Cuervo. El proyecto transforma y estructura el corpus lexicográfico original en archivos **JSON estructurados** para su visualización interactiva a través de una aplicación web moderna y responsiva.
 
 ## 🚀 Vista Rápida
 
-- **URL del Visor**: [https://johnatanebonilla.github.io/dcr/](https://johnatanebonilla.github.io/dcr/)
-- **Lemas procesados**: 2758
-- **Tecnologías**: Python (Conversión), JavaScript/HTML/CSS (Visor).
-
-## 🛠️ Proceso de Conversión (`mass_convert.py`)
-
-El script de Python realiza las siguientes tareas críticas para garantizar la integridad de los datos:
-
-1.  **Traducción de Símbolos Griegos**: Convierte caracteres de la fuente _Symbol_ (propios de Windows antiguo) a Unicode estándar. Protege las etiquetas HTML para evitar romper enlaces.
-2.  **Detección de Sub-acepciones**: Utiliza expresiones regulares avanzadas para identificar marcadores griegos (`— α )`, `α α )`, etc.) que a menudo están fragmentados en el HTML original.
-3.  **Balanceo de Etiquetas**: Cierra automáticamente etiquetas de formato (`<i>`, `<b>`, `<font>`) que quedaron abiertas en los bloques originales, evitando que el estilo se derrame en el resto de la interfaz.
-4.  **Extracción de Sintaxis**: Captura la sección de "Construcción" (`Constr.`) presente en lemas complejos, manteniendo los hipervínculos internos.
-5.  **Generación de Índice**: Crea un archivo `index_db.json` con todos los lemas para permitir la búsqueda instantánea en el visor.
-
-## 📂 Estructura del Repositorio
-
-- `index.html`: Punto de entrada del visor web.
-- `app.js` / `style.css`: Lógica y diseño de la interfaz.
-- `json/`: Carpeta con los 2700+ archivos JSON (uno por lema).
-- `mass_convert.py`: Script documentado utilizado para la transformación de datos.
-- `guia_estructura.md`: Detalle técnico de los campos del JSON.
-
-## 📄 Estructura de un Lema (JSON)
-
-Cada entrada sigue este esquema:
-
-```json
-{
-  "lema": "Palabra",
-  "categoria_gramatical": "...",
-  "introduccion": "Definición general...",
-  "acepciones": [
-    {
-      "id": "a)",
-      "definicion": "...",
-      "ejemplos_citas": [...],
-      "subacepciones": [...]
-    }
-  ],
-  "construccion_sintactica": "Sección técnica...",
-  "etimologia": "..."
-}
-```
-
-## 👩‍💻 Uso Local
-
-Si deseas ejecutar el conversor o el visor localmente:
-
-1. Asegúrate de tener los archivos `.htm` originales en una carpeta `/html`.
-2. Ejecuta `python mass_convert.py`.
-3. Para ver los resultados, inicia un servidor local: `python -m http.server 8000` y abre `localhost:8000`.
-
-## Créditos y Citación
-
-Este desarrollo ha sido realizado por **Johnatan E. Bonilla** en el marco del proyecto **“Observatorio Ecosistema Digital de Lenguas de Colombia”**, que es del **Grupo de Investigaciones** de la **Línea de investigación en Lingüística de Corpus y Computacional** del **Instituto Caro y Cuervo**.
-
-Si utilizas estos datos o esta herramienta en una investigación académica, por favor cita tanto el desarrollo técnico como las fuentes originales en formato APA:
-
-### Desarrollo Técnico
-
-- Bonilla, J. E. (2026). _Visor Digital del Diccionario de Construcción y Régimen de la Lengua Castellana_. [https://github.com/johnatanebonilla/dcr](https://johnatanebonilla.github.io/dcr)
-
-### Fuentes Originales
-
-- Cuervo, R. J. (1886). _Diccionario de construcción y régimen de la lengua castellana_. París: Roger.
-- Cuervo, R. J. (2002). _Diccionario de construcción y régimen de la lengua castellana en CD-ROM_ (1ª ed.). Barcelona: Herder Editorial.
-- Instituto Caro y Cuervo. (1954–1994). _Diccionario de construcción y régimen de la lengua castellana_ (Vols. 3–8). Bogotá: Instituto Caro y Cuervo.
+*   **URL del Visor**: [https://johnatanebonilla.github.io/dcr/](https://johnatanebonilla.github.io/dcr/)
+*   **Lemas procesados**: 2758
+*   **Tecnologías**: Python (Conversión y Estructuración), JavaScript / HTML5 / CSS3 (Visor Interactivo Responsivo).
 
 ---
 
-_Proyecto de preservación y digitalización lexicográfica._
+## 🛠️ Características Principales
+
+1.  **Versión Digital Actualizada**: Conversión integral del corpus a una base de datos estructurada en JSON.
+2.  **Interactividad Premium**: Hipervinculación de abreviaturas lexicográficas y firmas de autores con ventanas emergentes contextuales (popovers).
+3.  **Diseño Adaptable (Responsivo)**: Interfaz de alta gama optimizada para móviles, tablets y escritorios con transiciones fluidas de paneles.
+4.  **Preservación de la Microestructura**: Organización y ordenación de acepciones, sub-acepciones, ejemplos literarios y notas etimológicas.
+
+---
+
+## 📂 Estructura del Repositorio
+
+*   `index.html`: Interfaz del visor web.
+*   `app.js` / `style.css`: Lógica interactiva y diseño visual responsivo.
+*   `json/`: Base de datos de lemas individuales en formato JSON.
+*   `mass_convert.py`: Procesador y normalizador de lemas en Python.
+
+---
+
+## 👥 Equipo del Proyecto
+
+Este desarrollo ha sido llevado a cabo por el siguiente equipo en el **Instituto Caro y Cuervo**:
+
+*   **Johnatan E. Bonilla**
+*   **Daniel Espinel**
+*   **Udiluz Monsalve**
+*   **Instituto Caro y Cuervo**
+
+---
+
+_Proyecto de preservación, digitalización y actualización lexicográfica._

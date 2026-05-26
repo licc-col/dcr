@@ -4,7 +4,7 @@ Este repositorio contiene la versión digital actualizada del **Diccionario de C
 
 ## 🚀 Vista Rápida
 
-*   **URL del Visor**: [https://johnatanebonilla.github.io/dcr/](https://johnatanebonilla.github.io/dcr/)
+*   **URL del Visor**: [https://licc-col.github.io/dcr/](https://johnatanebonilla.github.io/dcr/)
 *   **Lemas procesados**: 2758
 *   **Tecnologías**: Python (Conversión y Estructuración), JavaScript / HTML5 / CSS3 (Visor Interactivo Responsivo).
 

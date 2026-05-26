@@ -32,11 +32,12 @@ Este repositorio contiene la versión digital actualizada del **Diccionario de C
 
 Este desarrollo ha sido llevado a cabo por el siguiente equipo en el **Instituto Caro y Cuervo**:
 
-*   **Johnatan E. Bonilla**
-*   **Daniel Espinel**
-*   **Udiluz Monsalve**
-*   **Instituto Caro y Cuervo**
+*   Johnatan E. Bonilla
+*   Daniel Espinel 
+*   Udiluz Monsalve 
+*   **Proyecto**: Observatorio ecosistema digital lenguas Colombia
+*   **Línea de investigación en Lingüística de Corpus y Computacional**
 
 ---
 
-_Proyecto de preservación, digitalización y actualización lexicográfica._
+

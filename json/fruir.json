@@ -1,68 +1,97 @@
 {
   "lema": "FRUIR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v. Disfrutar, gozar del bien que se ha deseado (intrans.).",
+  "introduccion": "Disfrutar, gozar del bien que se ha deseado (intrans.).",
   "acepciones": [
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Fruyr es amar una cosa por amor de sí misma; y vsar es amarla no por sí sino por amor de otra cosa.»",
               "autor": "Estella",
-              "referencia_obra": ", Medit. 3 (p. 3). X"
+              "referencia_obra": ", Medit. 3 (p. 3)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Svma peruersidad es --- vsar de lo que deuemos fruyr.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 3 (p. 3). X"
+              "referencia_obra": "Id. ib. 3 (p. 3)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Fruición: Acción o efecto de fruir. Goce del bien que se posee.»",
               "autor": "",
               "referencia_obra": "Serrano, Dicc. sb. voc. fruición."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar: — el medio. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Dios nuestro Señor dioos ánima con que fruyéssedes, y entendimiento con que le conociéssedes.»",
-                  "autor": "Guev.",
-                  "referencia_obra": "epíst. A una sobrina suya (Dicc. Autor.). — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Dios nuestro Señor dioos ánima con que fruyéssedes, y entendimiento con que le conociéssedes.»",
+                      "autor": "Guev.",
+                      "referencia_obra": "epíst. A una sobrina suya (Dicc. Autor.)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Entonces imité al amante de mi ama en lo de las montantadas, bernardinas y giros y como él me hice perrengue añusgándome a cada paso; también le copié en fruir con estuosidad.»",
-                  "autor": "Pagés",
-                  "referencia_obra": ", Dicc.)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Entonces imité al amante de mi ama en lo de las montantadas, bernardinas y giros y como él me hice perrengue añusgándome a cada paso; también le copié en fruir con estuosidad.»",
+                      "autor": "Pagés",
+                      "referencia_obra": ", Dicc.)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de. +",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Aquel es malo que vsa del Criador y frue de la criatura.»",
                   "autor": "Estella",
-                  "referencia_obra": ", Medit. 3 (p. 3). X"
+                  "referencia_obra": ", Medit. 3 (p. 3)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Svma peruersidad es fruyr de las cesas que hemos de vsar.»",
                   "autor": "Estella",
                   "referencia_obra": ", Medit. 3 (p. 3)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -71,10 +100,10 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «Vti... vsar estomar algo en la facultad voluntaria. Mas frui es vsar de algo con goso no por sperança saluo de fecho. Assí que el que fruye vsa pero no al contrario.» Pal. Univ. vocab. 539b. «Por la qual [perfeción] se alcanza entre los mortales la corona de la buena fama, e ante Dios sempiterno fruir de la perdurable gloria.» Mena, Coron. 49 (p. 212). «¿Y cómo abastaste mi seso infacundo | Fruir de coloquio tan alto a deshora?» Id. Lab. 24 (p. viii).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Cultismo raro del lat. frui, ‘hacer’ uso de, disfrutar, gozar y este de fructus, fruto, disfrute, producto. Es más frecuente la forma sustantiva fruición: X «Contemplando con fruición aquel muelle de Buenaventura, recomendado en su discurso de posesión y fabricado luego por un gobernador que tuvo el valor de atreverse, como se atrevió Reyes, a construir el ferrocarril de Girardot.» M. F. Suárez, Sueños, 2 (p. 106). Port. fruir.",
+  "etimologia": "Etim. Cultismo raro del lat.<i> frui,</i> ‘hacer’ uso de, disfrutar, gozar y este de<i> fructus,</i> fruto, disfrute, producto. Es más frecuente la forma sustantiva<i> fruición:</i> X «Contemplando con fruición aquel muelle de Buenaventura, recomendado en su discurso de posesión y fabricado luego por un gobernador que tuvo el valor de atreverse, como se atrevió Reyes, a construir el ferrocarril de Girardot.» M. F. Suárez,<i> Sueños,</i> 2 (p. 106). Port.<i> fruir.</i>",
   "nota": "",
   "forma": "",
-  "ortografia": "Ortogr. Ante e, a, o, cambia la i en y: fruyera, fruyese, fruyere, fruyendo, fruya, fruyo, fruyó.\n\n\u0000",
+  "ortografia": "Ortogr. Ante e, a, o, cambia la i en y: fruyera, fruyese, fruyere, fruyendo, fruya, fruyo, fruyó.",
   "conjugacion": "Conjug. Presenta las siguientes formas irregulares: fruyo, -es, -e, -en; fruyó, -eron; fruya, -as, -a, -amos, -áis, -an; fruye (tú).",
   "construccion_sintactica": "",
   "prosodia": "",

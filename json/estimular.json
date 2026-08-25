@@ -6,38 +6,48 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Propiamente, Aguijonear a un animal para que ande o corra (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con un compl. instrumental precedido de con. X",
+          "definicion": "Con un compl. instrumental precedido de con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El jinete estimula con la espuela al caballo.»",
               "autor": "Moliner",
               "referencia_obra": ", Dicc. s. v."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part. Con de para indicar el agente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Yo --- convertida en vaca por Júpiter y estimulada de un moscón o tábano por castigo de Juno, corrió varios países hasta Egipto.»",
               "autor": "T. Iriarte",
               "referencia_obra": ", Arte poétic. de Hor. nota 31 (4. 77)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -45,31 +55,39 @@
     {
       "id": "b)",
       "definicion": "Por extensión, Incitar con cualquier medio a un animal para que ande o corra (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El ñato los veía estrecharse estimulando a sus caballos hasta conquistar en tremendas topadas los mejores puestos de la primera fila.»",
               "autor": "",
               "referencia_obra": "A. Blest. Gana, El loco Estero, p. 94."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con un compl. instrumental precedido de con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con tus voces | Anima, y con el látigo estimula | Al caballo derecho.»",
                   "autor": "",
                   "referencia_obra": "Hermosilla, Iliada. 23 (2. 360)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -78,150 +96,184 @@
     {
       "id": "2",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Excitar, provocar o avivar una potencia espiritual, afecto o pasión (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El mejor camino de conseguir la abundancia de los productos de la tierra y del trabajo, sean los que fueren, era estimular el interés individual por medio de la libertad de su tráfico.»",
               "autor": "Jovell.",
-              "referencia_obra": "Ley agraria, 1ª clase (R. 50. 1132). X"
+              "referencia_obra": "Ley agraria, 1ª clase (R. 50. 1132)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El ladrón roba, el liviano se desmanda, el pendenciero riñe, cuando se presenta la oportunidad, estimulando la pasión.»",
               "autor": "Balmes",
-              "referencia_obra": ", El criterio, p. 49. X"
+              "referencia_obra": ", El criterio, p. 49."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ninguno como él lisonjeó sus instintos, estimuló sentimientos de vanidad hasta entonces desconocidos para esa clase.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 5 (p. 519). X"
+              "referencia_obra": ", Amalia, 5 (p. 519)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Algunas afinidades de carácter han debido cimentar nuestras simpatías confirmadas por diferencias esenciales de espíritu, que han hecho servir el suyo de peso opuesto a la impaciencia de mis propósitos, no sin que alguna vez haya yo quizás estimulado y ensanchado la fuerza de su voluntad en la adopción de mejoras.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Provincia, p. 148. X"
+              "referencia_obra": ", Recuerdos de Provincia, p. 148."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esto no pone grillos a mis aficiones gramaticales, antes las estimula.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 80). X"
+              "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 80)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Infinitamente más comprensivos los ingleses, han dado a la manía el nombre cariñoso de \"hobby\", y han hecho de ella un poderoso instrumento de educación y de progreso. En vez de atacarla, la estimulan; lejos de querer extirparla, la provocan.»",
               "autor": "",
-              "referencia_obra": "Rueda Vargas, Lentus in umbra, p. 85. X"
+              "referencia_obra": "Rueda Vargas, Lentus in umbra, p. 85."
             },
             {
+              "marca": "X",
               "texto_cita": "«Estimularon el deseo de fijar en Europa su campo de conquista y conversión.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Estud. mesa redonda, 1 (p. 20). X"
+              "referencia_obra": ", Estud. mesa redonda, 1 (p. 20)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El ocio en que la vida pobre y retirada sumía a las gentes estimulaba el amor a los libros.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 8 (p. 127). X"
+              "referencia_obra": "Id. ib. 8 (p. 127)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La soledad estimuló el deseo de ver al pueblo desde la cumbre.»",
               "autor": "A. Yáñez",
               "referencia_obra": ", Al filo del agua, p. 246."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. de persona. X",
+              "definicion": "Con dat. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En primer lugar, está | El emperador con ellos, | Lo cual ha de estimular | El apetito a los nuestros.»",
                   "autor": "García Gutiérrez",
-                  "referencia_obra": ", Venganza catalana (Cl. C. 65. 124). X"
+                  "referencia_obra": ", Venganza catalana (Cl. C. 65. 124)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Al lado de esos calmantes, los bolleros, los vendedores de tortitas, de alfajores y de alfeñiques, llegaban a estimularle el apetito.»",
                   "autor": "Blest Gana",
-                  "referencia_obra": ", El loco Estero, p. 94. X"
+                  "referencia_obra": ", El loco Estero, p. 94."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ella le servía el plato, le estimulaba el apetito.»",
                   "autor": "Gallegos",
                   "referencia_obra": ", Doña Bárbara, p. 254."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "El dat. de persona puede convertirse en compl. determinativo del acus., con sentido de posesión. X",
+              "definicion": "El dat. de persona puede convertirse en compl. determinativo del acus., con sentido de posesión.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si otro cualquier manjar, que ves delante | Cuando la mesa cubren, estimula | De tal modo tu gula, | Que devorarlo anhelas al instante; | Por el que fue clavado en un madero, | Cómelo con paciencia lo postrero.»",
                   "autor": "Hartz.",
-                  "referencia_obra": "Fábulas, 146 (Cl. C. 179. 192). X"
+                  "referencia_obra": "Fábulas, 146 (Cl. C. 179. 192)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero al fin venció mis escrúpulos y estimuló mi voluntad para el consentimiento una sola razón, aunque poderosa.»",
                   "autor": "",
-                  "referencia_obra": "Mndz. Pelayo, Estudios, p. 79. X"
+                  "referencia_obra": "Mndz. Pelayo, Estudios, p. 79."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Su personalidad de escritor reclamaba el grande escenario: la electrizada atmósfera de la sociedad que inspira y estimula al pensamiento de Schlégel en los grandes días de Wéimar.»",
                   "autor": "Rodó",
-                  "referencia_obra": ", Motivos de Proteo, p. 144. X"
+                  "referencia_obra": ", Motivos de Proteo, p. 144."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El doble temor: el de la presencia de Quintaverde en su casa y el del riesgo de ser descubierto si entregaba la llave a Díaz, estimuló su ingenio repentinamente.»",
                   "autor": "Blest Gana",
-                  "referencia_obra": ", El loco Estero, p. 86. X"
+                  "referencia_obra": ", El loco Estero, p. 86."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mido y aprecio, en todo su valer, este inmerecido galardón que estimulará mi entusiasmo en favor de la obra de solidaridad continental en que con tanto ardor y bajo tan felices auspicios venís empeñados.»",
                   "autor": "G. Valencia",
-                  "referencia_obra": ", Discursos (1. 94). X"
+                  "referencia_obra": ", Discursos (1. 94)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Los largos inviernos que recogen a estos pueblos de pescadores en torno a las brasas del hogar, los largos veranos en que se duerme en los bosques dorados por un sol que no se oculta, estimulan la imaginación del viejo que inventa los relatos para el niño, del poeta que echa a caminar sus héroes por el sendero de las sagas.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 2. 13 (p. 238)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Part. Con un compl. agente con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«También es loable y muy importante en los príncipes aquella ira hija de la razón, que estimulada de la gloria obliga a lo arduo y glorioso.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 8 (R. 25. 272)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Desenvolviéndose el miedo que se estimula a sí mismo y multiplica sus fuerzas, yo renuncié a entrar.»",
               "autor": "",
               "referencia_obra": "D. F. Sarmiento, Recuerdos de Provincia, p. 42."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -229,118 +281,144 @@
     {
       "id": "b)",
       "definicion": "Fomentar, promover, suscitar la realización o aparición de una cosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El objeto del plan --- es reducir a mejor y más provechoso método sus estudios domésticos, y estimular su aplicación con premios y recompensas.»",
               "autor": "Jovell.",
-              "referencia_obra": "Regl. col. de Calatr. preámb. (R. 46. 1702). X"
+              "referencia_obra": "Regl. col. de Calatr. preámb. (R. 46. 1702)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mantiene a la plebe, estimula el trabajo y provee largamente a las necesidades y al esplendor de los homhres y de los dioses.»",
               "autor": "Catalina",
-              "referencia_obra": ", Roma, p. 316. X"
+              "referencia_obra": ", Roma, p. 316."
             },
             {
+              "marca": "X",
               "texto_cita": "«Así el gobierno papal hace transacciones con los bandidos, a quienes da empleos en Roma, estimulando con esto el bandidaje, y creándole un porvenir seguro.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Facundo, 1. 3 (p. 62). X"
+              "referencia_obra": ", Facundo, 1. 3 (p. 62)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En vez de prevenirlo [el mal] los Gobiernos | Lo riegan y estimulan.»",
               "autor": "Silva",
-              "referencia_obra": ", El libro de versos, p. 99. X"
+              "referencia_obra": ", El libro de versos, p. 99."
             },
             {
+              "marca": "X",
               "texto_cita": "«A menudo este exquisito arte interior promueve y estimula al otro: aquel que se realiza exteriormente por obras que conocerán y admirarán los hombres.»",
               "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 99. X"
+              "referencia_obra": ", Motivos de Proteo, p. 99."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero ni por esas pudo estimular, en el grado que él deseaba y que fuera bastante al consumo nacional, la siembra del trigo ni la consiguiente industria molinera.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 150). X"
+              "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 150)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esto fue ya en los días en que el presidente paria apenas podía hacer otra cosa que contemplar y estimular con decisión la obra conciliadora e inteligente de aquellos dos funcionarios.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 3 (p. 311). X"
+              "referencia_obra": "Id. ib. 3 (p. 311)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De esta indiscutible verdad síguese la obligación inexcusable del Estado de estimular y promover la cultura.»",
               "autor": "Ramón y Cajal",
-              "referencia_obra": ", Tónicos de la voluntad, 10 (p. 179). X"
+              "referencia_obra": ", Tónicos de la voluntad, 10 (p. 179)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Estimular esta búsqueda ha sido uno de los afanes constantes de las sociedades bolivarianas.»",
               "autor": "G. Valencia",
-              "referencia_obra": ", Discursos (1. 88). X"
+              "referencia_obra": ", Discursos (1. 88)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Por las faldas, bajaba el rebaño de ovejas envueltas en gruesos vellones, cuyo crecimiento estimuló el frío.»",
               "autor": "Alegría",
-              "referencia_obra": ", El mundo es ancho y ajeno, 12 (p. 494). X"
+              "referencia_obra": ", El mundo es ancho y ajeno, 12 (p. 494)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sir William Cecil aconseja a la reina no estimule empresas tan turbias.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Biogr. del Caribe, 1. 8 (p. 135). X"
+              "referencia_obra": ", Biogr. del Caribe, 1. 8 (p. 135)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En Inglaterra, Francia, Holanda, los jugadores asisten a la riña por correspondencia, cambian apuestas, estimulan los encuentros como viciosos tahúres.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 2. 12 (p. 222). X"
+              "referencia_obra": "Id. ib. 2. 12 (p. 222)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Establece nuevas bases para la hacienda pública, baja los derechos de aduana, estimula el comercio, impulsa la agricultura, construye caminos, abre escuelas.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 3. 18 (p. 327). X"
+              "referencia_obra": "Id. ib. 3. 18 (p. 327)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Gerardo lo escuchó con aquella paciencia que era su estilo de cortesía y que estimulaba tanto la repetición del esfuerzo expresivo.»",
               "autor": "Mallea",
-              "referencia_obra": ", El vínculo, p. 54. X"
+              "referencia_obra": ", El vínculo, p. 54."
             },
             {
+              "marca": "X",
               "texto_cita": "«El frío es otra excitación, más de la mente y de la máscara que de los sentidos; estimula ciertas actitudes de violenta elegancia en los momentos de arroparse.»",
               "autor": "Fuentes",
               "referencia_obra": ", Obras completas (1. 880)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. de persona. X",
+              "definicion": "Con dat. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En todos había fru-fru de billetes, billetes amorosos de la aventura con su alfilerito de amor atravesándoles el corazón, estimulándoles el emprendimiento.»",
                   "autor": "Gómez de la Serna",
-                  "referencia_obra": ", Cab. del hongo gris, p. 36. X"
+                  "referencia_obra": ", Cab. del hongo gris, p. 36."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero la ciudad parecía arrancarles prescripciones ancestrales y estimularles la irreverencia y la rebeldía.»",
                   "autor": "",
                   "referencia_obra": "J. A. Osorio L. El camino en la sombra, p. 44."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Part. Con por. X",
+              "definicion": "Part. Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La insurrección de los Comuneros no fue un movimiento estimulado por el solo deseo de obtener alivio en la condición económica de los pueblos.»",
                   "autor": "Martínez Silva",
                   "referencia_obra": ", Ensayos, p. 119."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -349,179 +427,225 @@
     {
       "id": "c)",
       "definicion": "Incitar o mover a obrar, dar ánimo (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«También le estimulaba el parecer que estaba ociosa.»",
               "autor": "Yepes",
               "referencia_obra": ", Vida de Sta. Ter. 2. 18 (Míst. 1. 181)."
             },
             {
+              "marca": "",
               "texto_cita": "«Estimulábalos grandemente el deseo de borrar la deshonra pasada.»",
               "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 15. 9 (R. 30. 4402). +"
+              "referencia_obra": ", Hist. Esp. 15. 9 (R. 30. 4402)."
             },
             {
+              "marca": "+",
               "texto_cita": "«La asociación contaba entre sus individuos un gran número de hombres --- cuyo crédito y opinión estimuló después a otros hombres semejantes.»",
               "autor": "Quint.",
-              "referencia_obra": "Cartas a L. Holland, 7 (R. 19. 5691). X"
+              "referencia_obra": "Cartas a L. Holland, 7 (R. 19. 5691)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero tienes una brillante pronunciación. —Eso me lo decían por estimularme.»",
               "autor": "Isaacs",
-              "referencia_obra": ", María, p. 85. X"
+              "referencia_obra": ", María, p. 85."
             },
             {
+              "marca": "X",
               "texto_cita": "«Estimulábame la ambición, que siempre se aviva con lo que parece colmarla.»",
               "autor": "Marroquín",
-              "referencia_obra": ", Blas Gil, 19 (p. 203). X"
+              "referencia_obra": ", Blas Gil, 19 (p. 203)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Qué es lo que nos falta; qué es lo que necesitamos? Dinero para construir buenos edificios, dinero para dotar las escuelas de lo necesario, dinero para retribuir y estimular la evangélica y nobilísima profesión del maestro.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños de L. Pulgar, 3 (p. 182). X"
+              "referencia_obra": ", Sueños de L. Pulgar, 3 (p. 182)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Con frecuencia los sorprendía haciéndose guiños de desconsuelo, pero me estimulaban así: \"No te fatigues mucho: hay que saber lo que son las fiebres\".»",
               "autor": "Rivera",
-              "referencia_obra": ", La vorágine, 2 (p. 126). X"
+              "referencia_obra": ", La vorágine, 2 (p. 126)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En tales casos, el investigador en cierne puede no ser reparado por el profesor o no estimularle éste lo bastante, tomando acaso su reserva por limitación.»",
               "autor": "Ramón y Cajal",
-              "referencia_obra": ", Tónicos de la voluntad, 9 (p. 172). X"
+              "referencia_obra": ", Tónicos de la voluntad, 9 (p. 172)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Elevar el nivel intelectual de la masa para formar ambiente moral susceptible de comprender, estimular y galardonar al sabio.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 10 (p. 179). X"
+              "referencia_obra": "Id. ib. 10 (p. 179)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Seguramente, si hubieran tenido informaciones concretas, si pudieran localizar al combatiente, habrían tratado de auxiliarlo y estimularlo, aun cuando ello les implicase el acentuamiento de la injusta hostilidad que las circundaba.»",
               "autor": "",
-              "referencia_obra": "J. A. Osorio L. El camino en la sombra, p. 113. X"
+              "referencia_obra": "J. A. Osorio L. El camino en la sombra, p. 113."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero los jefes necesitaban muchas cosas para estimular a sus tropas.»",
               "autor": "",
-              "referencia_obra": "Id. ib. p. 144. X"
+              "referencia_obra": "Id. ib. p. 144."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo era un niño, pero a fuerza de oír cómo te elogiaban todos en la familia y, especialmente mamá, que no se quitaba de la boca un \"aprende a Lorenzo\" cada vez que quería estimularme, me había formado de ti la más alta idea que puede caber en una cabeza de ocho años.»",
               "autor": "Gallegos",
-              "referencia_obra": ", Doña Bárbara, p. 105. X"
+              "referencia_obra": ", Doña Bárbara, p. 105."
             },
             {
+              "marca": "X",
               "texto_cita": "«Es patente la diferencia para el español, entre la imaginación que le estimula y la razón que no le trabaja.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Biogr. del Caribe, 1. 6 (p. 99). X"
+              "referencia_obra": ", Biogr. del Caribe, 1. 6 (p. 99)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La carne enlatada de la \"ración de fierro\" no hace sino estimularla [a la tropa] de un modo exquisito.»",
               "autor": "Roa",
               "referencia_obra": "Bastos, Hijo de hombre, p. 268."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para indicar aquello cuya ejecución se promueve. X",
+              "definicion": "Con a, para indicar aquello cuya ejecución se promueve.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La mala conciencia suele estimular el ánimo al castigo del que murmura.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. (Cl. C. 76. 138). X"
+                  "referencia_obra": "Emp. (Cl. C. 76. 138)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y para estimularlo a la venta, se le debían depositar con pretexto de que las guardara, las libras destinadas al trato, en la seguridad de que el oro se quedaría allí.»",
                   "autor": "Rivera",
-                  "referencia_obra": ", La vorágine, 1 (p. 48). X"
+                  "referencia_obra": ", La vorágine, 1 (p. 48)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Para estimular a éste al trabajo, don Martín hizo insertar en el contrato una cláusula que estipulaba el abono de las mejoras a tasación de peritos.»",
                   "autor": "Blest Gana",
-                  "referencia_obra": ", El loco Estero, p. 27. — El término de la prep. viene representado frecuentemente por un infinitivo."
-                },
+                  "referencia_obra": ", El loco Estero, p. 27."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Aprovecha --- ceñir a las carnes alguna cosa que le dé pena o cosa semejante, para que aquello le esté siempre amonestando y estimulando a que ande sobre aviso.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Doctr. esp. 36 (R. 11. 2682). X"
-                },
-                {
-                  "texto_cita": "«Con la que acabo de recibir, son tres las cartas en que vuestra merced me estimula a rebatir al religioso valenciano.»",
-                  "autor": "",
-                  "referencia_obra": "Feijoo, Cartas eruditas (Cl. C. 85. 107). X"
-                },
-                {
-                  "texto_cita": "«El consuelo que el hombre bueno recibe viendo crecer el fruto de la bondad de su amigo, le estimula a cultivar más y más la suya propia.»",
-                  "autor": "Cadalso",
-                  "referencia_obra": ", Cartas marr. 46 (Cl. C. 112. 182)."
-                },
-                {
-                  "texto_cita": "«Fueron muy poderosas las instancias que se le hicieron a Moratín para que diese al teatro nuevas producciones; pero no existían ya los motivos que le habían estimulado a ocuparse en esto.»",
-                  "autor": "Mor.",
-                  "referencia_obra": "La escuela de los maridos, advert. (R. 2. 443)."
-                },
-                {
-                  "texto_cita": "«No ha llegado el caso de verificarlo, y ni aun ahora lo hiciera, si no me estimulase a hacerlo el desempeño de un encargo, de el cual sólo usted puede sacarme.»",
-                  "autor": "",
-                  "referencia_obra": "Id. Obr. póst. 3, p. 346."
-                },
-                {
-                  "texto_cita": "«Estas amenazas en vez de contener los deseos de don Lope, solo sirvieron a estimularle a cumplirlos.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "D. Álv. de Luna (R. 19. 4151). X"
-                },
-                {
-                  "texto_cita": "«Ese fue, y no otro, el motivo que me estimuló a salir.»",
-                  "autor": "",
-                  "referencia_obra": "M. de la Rosa, Aben Humeya, 1 (Cl. C. 107. 188). X"
-                },
-                {
-                  "texto_cita": "«Piedad sólo | Me estimuló a venir a estas murallas.»",
-                  "autor": "Saav.",
-                  "referencia_obra": "Lanuza, 3 (Cl. C. 206. 180). X"
-                },
-                {
-                  "texto_cita": "«No me estimula a escribir el convencimiento de causarte un placer.»",
-                  "autor": "Fern.",
-                  "referencia_obra": "Caball. Lágrimas, p. 99."
-                },
-                {
-                  "texto_cita": "«Esa inicua grey | Que tus instintos adula, | Y frívola te estimula | A vagar sin Dios ni ley.»",
-                  "autor": "",
-                  "referencia_obra": "A. L. de Ayala, El tejado de vidrio, 1. 6 (2. 40). X"
-                },
-                {
-                  "texto_cita": "«Rivadavia, residente en Londres entonces, estimuló a los empresarios a traer sus capitales a la República Argentina.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Facundo, p. 104. X"
-                },
-                {
-                  "texto_cita": "«Y al fin las necesidades de su familia le estimularon a trocar la mezquina seguridad de un sueldo por las aventuras y esperanzas del trabajo libre.»",
-                  "autor": "P. Galdós",
-                  "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 48). X"
-                },
-                {
-                  "texto_cita": "«La estimulé a presentar el problema tal como era, en toda su desnudez abrumadora.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. (Cl. Castal. 34. 187). X"
-                },
-                {
-                  "texto_cita": "«En vez de desmayar ante la realidad de las dificultades que lo cercaban, la enérgica tenacidad de su índole lo estimulaba a persistir.»",
-                  "autor": "Blest Gana",
-                  "referencia_obra": ", El loco Estero, p. 74. X"
-                },
-                {
-                  "texto_cita": "«Sí, leí el artículo, el cual me causó agrado y me dio pena. Lo primero por su forma muy bondadosa y cortés, la cual agradezco y la cual me estimula a escribir.»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 219)."
+                  "id_limpio": "—",
+                  "definicion": "El término de la prep. viene representado frecuentemente por un infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Aprovecha --- ceñir a las carnes alguna cosa que le dé pena o cosa semejante, para que aquello le esté siempre amonestando y estimulando a que ande sobre aviso.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Doctr. esp. 36 (R. 11. 2682)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Con la que acabo de recibir, son tres las cartas en que vuestra merced me estimula a rebatir al religioso valenciano.»",
+                      "autor": "",
+                      "referencia_obra": "Feijoo, Cartas eruditas (Cl. C. 85. 107)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El consuelo que el hombre bueno recibe viendo crecer el fruto de la bondad de su amigo, le estimula a cultivar más y más la suya propia.»",
+                      "autor": "Cadalso",
+                      "referencia_obra": ", Cartas marr. 46 (Cl. C. 112. 182)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Fueron muy poderosas las instancias que se le hicieron a Moratín para que diese al teatro nuevas producciones; pero no existían ya los motivos que le habían estimulado a ocuparse en esto.»",
+                      "autor": "Mor.",
+                      "referencia_obra": "La escuela de los maridos, advert. (R. 2. 443)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«No ha llegado el caso de verificarlo, y ni aun ahora lo hiciera, si no me estimulase a hacerlo el desempeño de un encargo, de el cual sólo usted puede sacarme.»",
+                      "autor": "",
+                      "referencia_obra": "Id. Obr. póst. 3, p. 346."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Estas amenazas en vez de contener los deseos de don Lope, solo sirvieron a estimularle a cumplirlos.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "D. Álv. de Luna (R. 19. 4151)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ese fue, y no otro, el motivo que me estimuló a salir.»",
+                      "autor": "",
+                      "referencia_obra": "M. de la Rosa, Aben Humeya, 1 (Cl. C. 107. 188)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Piedad sólo | Me estimuló a venir a estas murallas.»",
+                      "autor": "Saav.",
+                      "referencia_obra": "Lanuza, 3 (Cl. C. 206. 180)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«No me estimula a escribir el convencimiento de causarte un placer.»",
+                      "autor": "Fern.",
+                      "referencia_obra": "Caball. Lágrimas, p. 99."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Esa inicua grey | Que tus instintos adula, | Y frívola te estimula | A vagar sin Dios ni ley.»",
+                      "autor": "",
+                      "referencia_obra": "A. L. de Ayala, El tejado de vidrio, 1. 6 (2. 40)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Rivadavia, residente en Londres entonces, estimuló a los empresarios a traer sus capitales a la República Argentina.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Facundo, p. 104."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y al fin las necesidades de su familia le estimularon a trocar la mezquina seguridad de un sueldo por las aventuras y esperanzas del trabajo libre.»",
+                      "autor": "P. Galdós",
+                      "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 48)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La estimulé a presentar el problema tal como era, en toda su desnudez abrumadora.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. (Cl. Castal. 34. 187)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En vez de desmayar ante la realidad de las dificultades que lo cercaban, la enérgica tenacidad de su índole lo estimulaba a persistir.»",
+                      "autor": "Blest Gana",
+                      "referencia_obra": ", El loco Estero, p. 74."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Sí, leí el artículo, el cual me causó agrado y me dio pena. Lo primero por su forma muy bondadosa y cortés, la cual agradezco y la cual me estimula a escribir.»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 219)."
+                    }
+                  ]
                 }
               ]
             },
@@ -529,122 +653,157 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con para, en lugar de a, seguida de una oración en infinitivo o subjuntivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Estos eran los motivos que la estimulaban entonces para hacer nueva profesión de la primera y antigua regla de la orden.»",
                   "autor": "Yepes",
-                  "referencia_obra": ", Vida de Sta. Ter. 2. 1 (Míst. 1. 108). X"
+                  "referencia_obra": ", Vida de Sta. Ter. 2. 1 (Míst. 1. 108)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El amor que a don Alejandro tenía la estimulaba para que no permitiese que le quitasen enemigos suyos la vida.»",
                   "autor": "Solórzano",
-                  "referencia_obra": ", La Garduña de Sevilla, 2 (Cl. C. 42. 124). X"
+                  "referencia_obra": ", La Garduña de Sevilla, 2 (Cl. C. 42. 124)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Encargó a los jefes de batallón que estimularan a los músicos mayores para que compusieran algo que enardeciera el ánimo del soldado.»",
                   "autor": "Palma",
-                  "referencia_obra": ", Tradiciones peruanas, p. 349. X"
+                  "referencia_obra": ", Tradiciones peruanas, p. 349."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Deja una carta al general Rigaud, un mulato rival de Toussaint, dándole todo poder y estimulándolo para que reúna a los mulatos contra Toussaint.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 3. 18 (p. 325)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con un compl. instrumental precedido de con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En vano el benemérito don Ignacio de Luzán quiso estimular a sus conciudadanos con la doctrina y el ejemplo.»",
                   "autor": "Mor.",
                   "referencia_obra": "Vida de N. Mor. (R. 2. VIII)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Estos cuerpos, en fin, no se entrometen en tejer cintas, ni en hacer máquinas, ni en plantar árboles, ni en arar la tierra, ni en dirigir manufacturas; pero estimulan, ilustran y favorecen con sus luces y sus auxilios a los que deben hacerlo.»",
                   "autor": "",
                   "referencia_obra": "Id. Obr. póst. 1, p. 170."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Si eres estimulado de vanagloria, tanto más te humilla en todas las cosas.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Guía, 2. 10 (R. 6. 1371). X"
+                  "referencia_obra": "Guía, 2. 10 (R. 6. 1371)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El gobierno había sido estimulado por el pueblo a iniciar una acción enérgica y justiciera para castigar a los que hubieran resultado culpables del atroz delito de engañar a los incautos.»",
                   "autor": "Pulgar",
                   "referencia_obra": ", 2 (p. 204)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Part. +",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Como el temor sea causa de buscar remedio y consejo, estimulado dél, fuese [Salomón] a Dios, y pidióle ---.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Epist. 1. 11 (1. 330; Cl. C. 11. 152)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Sigue su veloz huella el torpe amante | De su insano apetito estimulado.»",
                   "autor": "Jáur.",
-                  "referencia_obra": "Orfeo, 1 (Fern. 8. 256). X"
+                  "referencia_obra": "Orfeo, 1 (Fern. 8. 256)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y Lidia que le vido, | Despierta y levantada, | Cual tigre estimulada | Al cazador rendido, | A la aljaba arremete | Y al Venado acomete.»",
                   "autor": "Villegas",
-                  "referencia_obra": ", Eróticas, 20 (Cl. C. 21. 217). X"
+                  "referencia_obra": ", Eróticas, 20 (Cl. C. 21. 217)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ahora me permitirá usted que continúe la relación de mi viaje con la misma priesa con que le hice, estimulado del deseo de ver los amados lugares donde empecé a respirar.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Cartas (Cl. C. 129. 185). X"
+                  "referencia_obra": "Cartas (Cl. C. 129. 185)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ella creía que no tenían defecto; pero estimulada por mí le quedaron en lo sucesivo intachables.»",
                   "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 235. X"
+                  "referencia_obra": ", María, p. 235."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Monsieur de Saillard, estimulado acaso por el champagne, se enfrascó en críticas imprudentes sobre la manera cómo estaba organizado el ejército peruano ---.»",
                   "autor": "Palma",
-                  "referencia_obra": ", Tradiciones peruanas, p. 369. X"
+                  "referencia_obra": ", Tradiciones peruanas, p. 369."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Estimulado por la atención del auditorio, Emilio Cardonel empezaba a explicar el combate de Buin, cuando se presentó otra vez ña Gervasia.»",
                   "autor": "",
-                  "referencia_obra": "A. Blest Gana, El loco Estero, p. 181. X"
+                  "referencia_obra": "A. Blest Gana, El loco Estero, p. 181."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Estimulado por nuestra presencia, le dijo a Alicia: —Le voy a dedicá la faena.»",
                   "autor": "Rivera",
-                  "referencia_obra": ", La vorágine, 1 (p. 41). X"
+                  "referencia_obra": ", La vorágine, 1 (p. 41)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Rabelais planea los viajes fantásticos de Pantagruel, quizás el más estupendo de sus libros, estimulado por los viajes del pirata Juan Florentín.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe p. 13. X"
+                  "referencia_obra": ", Biogr. del Caribe p. 13."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Interminables discusiones tuve yo muchas veces en España, cuando se levantaban los manteles y estimulados los comensales por el dulce coñac español, alguien ponía sobre la mesa el tema de Felipe II.»",
                   "autor": "Calderón",
-                  "referencia_obra": ", Ancha es Castilla, p. 95. — Con a, para indicar el objeto cuya ejecución se promueve."
-                },
+                  "referencia_obra": ", Ancha es Castilla, p. 95."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Conociendo la inmensa dificultad de la empresa, y no estimulado a ella por la inclinación de su talento, la abandonó muy luego.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Meléndez (R. 19. 1102)."
+                  "id_limpio": "—",
+                  "definicion": "Con a, para indicar el objeto cuya ejecución se promueve.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Conociendo la inmensa dificultad de la empresa, y no estimulado a ella por la inclinación de su talento, la abandonó muy luego.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Meléndez (R. 19. 1102)."
+                    }
+                  ]
                 }
               ]
             }
@@ -653,31 +812,38 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y cuando llega el turno, Leonello Spada, herido en su vanidad de principiante por desdeñosas burlas de Guido, se estimula a sí propio con la idea de humillar un día al burlador.»",
               "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 107. X"
+              "referencia_obra": ", Motivos de Proteo, p. 107."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pugnaba por estimularse en las réplicas para hacer más fuertes y menos sospechadas las formas que, triunfando de los monstruos inciertos, en el diálogo erigía.»",
               "autor": "Mallea",
               "referencia_obra": ", El vínculo, p. 55."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con sentido recíproco. Con a. X",
+              "definicion": "Con sentido recíproco. Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Despertóme al amanecer el cuchicheo de los niños, que en vano se estimulaban a respetar mi sueño.»",
                   "autor": "Isaacs",
                   "referencia_obra": ", María, p. 92."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -686,7 +852,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «Son aquí de notar dos puntos muy maravillosos: el primero, un rey comunalmente entendido en muchas cosas, e ser de todo punto negligente e remiso en la governación de un reyno, no le moviendo ni estimulando a ello la discreción.» P. de Guzmán, Gener. 33 (R. 68. 7132; Cl. C. 61. 122). + «Todos los que se sienten dispuestos e suficientes a alguna obra e auto, su propia virtud los punge e estimula al exercitar e usar dello.» Id. ib. 24 (R. 68. 7081).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. stimulare ‘aguijonear, picar’, y éste de stimulus ‘estímulo para picar a los bueyes’.\n\n\u0000",
+  "etimologia": "Etim. Del lat.<i> stimulare</i> ‘aguijonear, picar’, y éste de<i> stimulus</i> ‘estímulo para picar a los bueyes’.",
   "nota": "",
   "forma": "",
   "ortografia": "",

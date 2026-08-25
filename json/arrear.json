@@ -1,95 +1,123 @@
 {
   "lema": "ARREAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v. Poner arreos, adornar, engalanar, así en lo físico como en lo moral (trans.) (Hoy es de raro uso.).",
+  "introduccion": "Poner arreos, adornar, engalanar, así en lo físico como en lo moral (trans.) (Hoy es de raro uso.).",
   "acepciones": [
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Se pasean | Por las cortes muy pulidos | Y las adornan y arrean | Como al cuerpo los vestidos.»",
               "autor": "Castillejo",
               "referencia_obra": ", 3, Vida de corte (R. 32. 2163)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Vestíase á las cinco de la mañana y componiase, y decía que ningún tiempo le parecía que perdía sino el que gastaba en arrearse y componerse.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Cisma, 1. 3 (R. 60. 1892)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Eumenia, para mí dulce y graciosa, | Más que mujer de cuantas hoy se arrean.»",
                   "autor": "Quev.",
                   "referencia_obra": "Musa 9, cant. de cant. (R. 69. 3441)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mil autores le siguen desalados | A los templos de Baco, do se arrean, | Y de inmundicia y hiel salen cargados.»",
                   "autor": "Quint.",
                   "referencia_obra": "Reglas del drama, 3 (R. 19. 791)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Dijo no haber en Europa ni en Asia visto corte más lucida ni arreada.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 11. 3 (R. 30. 3111)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con de, que expresa el origen ó clase del arreo. — Refl.",
-          "ejemplos_citas": [
+          "definicion": "Con de, que expresa el origen ó clase del arreo.",
+          "marca": "",
+          "ejemplos_citas": [],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«No es otro mi oficio sino servir á los semejantes, y desto vivo, desto me arreo.»",
-              "autor": "",
-              "referencia_obra": "Celest. 4 (R. 3. 242)."
-            },
-            {
-              "texto_cita": "«¡Oh cómo te quiere aquella malvada hembra engañar con su alto nombre, del cual todas se arrean!»",
-              "autor": "",
-              "referencia_obra": "Ib. 19 (R. 3. 682)."
-            },
-            {
-              "texto_cita": "«Dirá que quien bien se emplea | Y se ofrece á la ventura, | Que no es posible que sea | Del tal juzgado á locura | El brío de que se arrea.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Gal. 1 (R. 1. 41)."
-            },
-            {
-              "texto_cita": "«La condición de que te arreas | Se extiende á pretender quitar la vida | Al que te dio la tuya.»",
-              "autor": "",
-              "referencia_obra": "Ib. ib. 3 (R. 1. 431)."
-            },
-            {
-              "texto_cita": "«La singular belleza suya, y las apariencias de la incomparable honestidad de que se arrea, son partes para que no sólo sea querida, sino adorada de todos cuantos la miraren.»",
-              "autor": "",
-              "referencia_obra": "Ib. ib. 5 (R. 1. 791)."
-            },
-            {
-              "texto_cita": "«De aparatos, jaeces, guarniciones | Los gallardos soldados se arreaban.»",
-              "autor": "Erc.",
-              "referencia_obra": "Arauc. 13 (R. 17. 531)."
+              "id_limpio": "—",
+              "definicion": "Refl.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«No es otro mi oficio sino servir á los semejantes, y desto vivo, desto me arreo.»",
+                  "autor": "",
+                  "referencia_obra": "Celest. 4 (R. 3. 242)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«¡Oh cómo te quiere aquella malvada hembra engañar con su alto nombre, del cual todas se arrean!»",
+                  "autor": "",
+                  "referencia_obra": "Ib. 19 (R. 3. 682)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Dirá que quien bien se emplea | Y se ofrece á la ventura, | Que no es posible que sea | Del tal juzgado á locura | El brío de que se arrea.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Gal. 1 (R. 1. 41)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«La condición de que te arreas | Se extiende á pretender quitar la vida | Al que te dio la tuya.»",
+                  "autor": "",
+                  "referencia_obra": "Ib. ib. 3 (R. 1. 431)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«La singular belleza suya, y las apariencias de la incomparable honestidad de que se arrea, son partes para que no sólo sea querida, sino adorada de todos cuantos la miraren.»",
+                  "autor": "",
+                  "referencia_obra": "Ib. ib. 5 (R. 1. 791)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«De aparatos, jaeces, guarniciones | Los gallardos soldados se arreaban.»",
+                  "autor": "Erc.",
+                  "referencia_obra": "Arauc. 13 (R. 17. 531)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -97,35 +125,43 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«De sus tribulaciones escapan despojados de vicios, arreados de virtudes, émulos de lo malo, celados de lo bueno.»",
                   "autor": "Capm.",
                   "referencia_obra": "Teatro, 2. 88)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Destas gracias arreada, | Si loallas y querellas | Es gracia muy señalada, | Ved si la terná doblada | Quien llegare á gozar de ellas.»",
                   "autor": "Castillejo",
                   "referencia_obra": ", 1 (R. 32. 1181)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Venían de fuertes petos arreados.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 9 (R. 17. 361)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "En el lugar siguiente do está por de do:",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Que aunque más doblado seas | Y más pintes tu deleite, | Estas cosas do te arreas | Son deformes caras feas, | Encubiertas del afeite.»",
                   "autor": "",
                   "referencia_obra": "R. de Cota (R. 2. 2263)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -133,54 +169,67 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con con, en igual sentido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El principal ornamento con que el hombre sabio ha de arrear su persona y en que debe señalarse entre los otros, es en el hablar ordinario que todos entienden, y todos se sirven dél para manifestar lo que sienten.»",
               "autor": "A. Mor.",
               "referencia_obra": "pról. al Diál. de la dignidad del hombre (R. 65. 377)."
             },
             {
+              "marca": "",
               "texto_cita": "«Es la cubierta y el ligero manto | Con que su vano y monstruo cuerpo arrea.»",
               "autor": "Villav.",
               "referencia_obra": "Mosq. 3 (R. 17. 5802)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Cuando se comulgaba, que era todas las pascuas y fiestas principales, y especialmente las de nuestra Señora, se vestía de las ropas más ricas y se arreaba con las joyas de más precio que tenía.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Cisma, 2. 20 (R. 60. 2541)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por el mismo tiempo Tarragona fue con nuevos edificios arreada, y con nueva muralla ensanchada, y juntamente le dieron nombre y autoridad de colonia romana.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 2. 14 (R. 30. 451)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Paulo por burla llevaba en la cabeza una corona de cuero negro; seguíanse los soldados muy arreados con penachos y libreas.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 6. 13 (R. 30. 1702)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -189,7 +238,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. (Nótense las formas arriar, arrayar.)\n\n— Siglo XV: «Alcanzaron con sus loables trabajos que ovieron é virtudes que siguieron, el nombre de varones claros, de que sus descendientes en especial se deben arrear.» Pulgar, Clar. var. 17 (108). «Aprés de las quales vi mas un varon | En hábito honesto, mas bien arreado.» Santill. p. 100. «Un ome de buen semblante --- | Por aquel monte venia | Honestamente arreado.» Id. p. 351. «Pero no le quiso hablar antes que se afeytasse y arreasse.» Mena, Coron. 34 (172). «Sabed que m’ arrayo de grant jasaran | E cotta muy fuerte commo piedra yman.» Canc. de Baena, p. 457. «De vestiduras muy enperiales | Arrean sus cuerpos con grand vanagloria.» Ib. p. 395. «El non ossava yr por razon que era muy arreada é graciosa mujer.» Ib. p. 232.\n\n— Siglo XIII: «Eran [las azes] bien de todas armas fieramente arreadas.» Alex. 826 (R. 57. 1731). «Fue en pocos de annos la casa arreada, | De labor de ganados asaz bien aguisada.» Berc. S. Dom. 110 (R. 57. 431). «Cuydaron que en sus dias nanqua serien minguados, | Ffueron en Valencia muy bien arreados.» Cid, 2471 (R. 57 271).» Non pudieron ellos saber la quenta de todos los cauallos, | Que andan arriados e non ha qui tomalos.» Ib. 1778 (R. 57. 202).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Deriv. de arreo. Port. arrear, arreyar, arraiar; cat. arrear, arresar; prov. aredar, arrezar; fr. ant. arreer, areer, arreier, arraier, arroier (ing. array); it. arredare. Cp. arreo. El lat. bajo arraiare, arriare (Ducange) representa bien el arrayar del Canc. de Baena, y el arriar del Cid.\n\n\u0000",
+  "etimologia": "Etim. Deriv. de <i>arreo</i>. Port. <i>arrear</i>,<i> arreyar</i>,<i> arraiar</i>; cat. <i>arrear</i>,<i> arresar;</i> prov. <i>aredar</i>,<i> arrezar;</i> fr. ant. <i>arreer</i>,<i> areer</i>,<i> arreier</i>,<i> arraier</i>,<i> arroier</i> (ing. <i>array</i>); it. <i>arredare. </i>Cp.<i> arreo</i>. El lat. bajo <i>arraiare</i>, <i>arriare</i> (Ducange) representa bien el <i>arrayar</i> del Canc. de Baena, y el <i>arriar</i> del Cid.",
   "nota": "",
   "forma": "",
   "ortografia": "",

@@ -6,55 +6,70 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Poner ó meter en un rincón (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Arrinconar un trasto.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con en, para expresar el lugar mismo donde viene á quedar la persona ó cosa, ó el lugar donde se halla el rincón. Arrinconar allao en la caballeriza.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Volvió á encajar el sombrero, y volvió á su melancolía y á arrinconarse en el rincón donde esperaba la muerte.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 3. 11 (R. 1. 6442)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Soy de esta casa el lacayo. | Y aunque en la caballeriza | Me arrincono, el amor ciego | Con su hielo y con su fuego | Me consume y martiriza.»",
                   "autor": "",
                   "referencia_obra": "Id. La entretenida, 2 (Com. 2. 204)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Al presente se halla esta pieza [un facistol] sin uso, y arrinconada en la sacristía.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Mem. sobre los conv. de S. Dom. y S. Franc. (R. 46. 4311)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -63,33 +78,49 @@
     {
       "id": "b)",
       "definicion": "Por extensión, Poner en lugar retirado ó poco visible (trans.). Con en.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Así las arrinconé [las comedias] en un cofre, y las consagré y condené a perpetuo silencio.»",
           "autor": "Cerv.",
           "referencia_obra": "Com. pról. (Com. 1. LXIII)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "met. Estrechar á alguno obligándole á meterse en un rincón, ó á llegar á parte en que halle obstáculo para seguir retirándose (trans.). Con en.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Hicieron guerra á los británicos, y los vencieron y arrinconaron en cierta parte de la isla más remota, y se apoderaron del reino.»",
           "autor": "Rivad.",
           "referencia_obra": "Cisma, argum. (R. 60. 185)."
         },
         {
+          "marca": "",
           "texto_cita": "«Habiendo arrinconado á los moros en Granada, pudieron ya gozar de algunos intervalos de paz más larga y segura.»",
           "autor": "Jovell.",
-          "referencia_obra": "Mem. sobre espect. 1 (R. 46. 4822). —"
-        },
+          "referencia_obra": "Mem. sobre espect. 1 (R. 46. 4822)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«La Sarmacia de Europa es la primera | Que allí de Asia arrincona los mojones.»",
-          "autor": "Valb.",
-          "referencia_obra": "Bern. 15 (R. 17. 3032)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«La Sarmacia de Europa es la primera | Que allí de Asia arrincona los mojones.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 15 (R. 17. 3032)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -97,16 +128,28 @@
     {
       "id": "d)",
       "definicion": "met. Part. Dícese de las tierras distantes, apartadas del centro y situadas como á trasmano.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Por estar en tierras tan arrinconadas.»",
           "autor": "A. Mor.",
-          "referencia_obra": "1, fol. 197 (Dicc. Autor.). —"
-        },
+          "referencia_obra": "1, fol. 197 (Dicc. Autor.)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Podemos considerar no una cosa arrinconada y limitada, sitio un mundo interior, adonde caben tantas y tan lindas moradas como habéis visto.»",
-          "autor": "Sta. Ter.",
-          "referencia_obra": "Mor. 7. 1 (R. 53. 4821)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Podemos considerar no una cosa arrinconada y limitada, sitio un mundo interior, adonde caben tantas y tan lindas moradas como habéis visto.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor. 7. 1 (R. 53. 4821)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -114,123 +157,151 @@
     {
       "id": "2",
       "definicion": "met. Los varios motivos por que una persona ó cosa puede ir á dar á un rincón originan otras tantas aplicaciones metafóricas.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Aludiendo á las cosas que por inútiles ó despreciables se ponen ó tiran por los rincones, Privar á alguno del cargo, confianza ó favor que gozaba, ó negarle el que merece (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El desprecio arrinconaba á los doctos, y la locura daba las armas de los valientes á los cobardes.»",
               "autor": "Quev.",
               "referencia_obra": "Prov. de Dios (R. 48. 1941)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué espera el príncipe que en cada ocasión experimenta un hombre, y que á cada uno que le da victoria, le arrincona en dándosela?»",
               "autor": "",
               "referencia_obra": "Id. Polític. de Dios, 2. 23, § 2 (R. 23. 1092)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y córtolas [las polainas] tan bien, que en verdad que me podría examinar de maestro, sino que la corta suerte me tiene arrinconado.»",
               "autor": "Cerv.",
               "referencia_obra": "Nov. 3 (R. 1. 1342)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Qué de habilidades hay perdidas por ahí! qué de ingenios arrinconados! qué de virtudes menospreciadas!»",
               "autor": "",
               "referencia_obra": "Id. Quij. 2. 62 (R. 1. 5372)."
             },
             {
+              "marca": "",
               "texto_cita": "«La malicia y ambición reina ---- la virtud está arrinconada y olvidada.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 2. 3, § 1 (R. 6. 2902)."
             },
             {
+              "marca": "",
               "texto_cita": "«El estado en que el hombre quedó por el pecado es como el de un reino en que hubiese dos reyes, uno legítimo y natural, el cual estuviese desarmado y arrinconado con solos sus criados, y el otro tirano y usurpador de lo ajeno.»",
               "autor": "",
               "referencia_obra": "Id. Adic. al Mem. 2. 11 (R. 8. 4542)."
             },
             {
+              "marca": "",
               "texto_cita": "«Estaban pues allí como gente necesitada, extranjera, arrinconada, mal aposentada, y desfavorecida del mundo.»",
               "autor": "",
               "referencia_obra": "Id. Mem. vida crist. 6. 5, § 7 (R. 8. 3422)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Por qué --- el que es justo pacífico y provechoso está arrinconado y sepultado en perpetuo olvido?»",
               "autor": "Rivad.",
               "referencia_obra": "Flos SS. Todos los Santos (Vida de la Virgen, 358)."
             },
             {
+              "marca": "",
               "texto_cita": "«Las jerarquías de los ángeles, como veían claramente la infinita majestad y grandeza de Dios, y por otra parte le miraban tan humillado, arrinconado y desconocido de los hombres, quedaron admirados en extremo de tanta humildad.»",
               "autor": "Puente",
               "referencia_obra": ", Medit. 2. 18 (1. 345)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si hay beneméritos arrinconados, y virtuosos sin premios, no toda la culpa es mía.»",
               "autor": "Quev.",
               "referencia_obra": "Hora de todos (R. 23. 3851)."
             },
             {
+              "marca": "",
               "texto_cita": "«No se hubiera visto tampoco en Madrid aquella extravagante procesión, ni aquel retrato llevado en ella, ni aquella refriega de las Platerías, todo tan ridículo, todo tan deplorable, y que parecía fraguado menos en honor del personaje á quien se aparentaba solemnizar, que en odio y ultraje del ministerio que le tenía arrinconado.»",
               "autor": "Quint.",
               "referencia_obra": "Cartas á L. Holland, 5 (R. 19. 5591)."
             },
             {
+              "marca": "",
               "texto_cita": "«Quedé yo descartado y arrinconado, lo cual confieso que fue uno de los golpes más duros que he llevado.»",
               "autor": "A. Galiano",
               "referencia_obra": ", Recuerdos, 534."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Dícese también de las cosas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Se logró el arrinconar los sombreros que carecían de tal ó tal adorno.»",
               "autor": "Cadalso",
               "referencia_obra": ", Cart. marr. 64 (2. 259)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y las leyes sin fuerza arrinconadas, | Aunque mudas, de lejos voceaban.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 30 (R. 17. 1122)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No era razón que una tan grande luz y una tan santa ley dada por el mismo Dios estuviese arrinconada sin echar sus rayos hasta los fines del mundo.»",
                   "autor": "Gran.",
                   "referencia_obra": "Símb. 2. 32 (R. 6. 3902)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Era ya conocido [el astrolabio] en el tiempo del rey de Castilla don Alonso el Sabio. Los progresos de la ciencia lo tienen arrinconado en el día.»",
                   "autor": "Clem.",
                   "referencia_obra": "Coment. 5, p. 101"
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -239,32 +310,48 @@
     {
       "id": "b)",
       "definicion": "Con alusión al que, perdiendo terreno en un combate ó refriega, busca abrigo en un rincón, Acosar, apretar, vencer (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Esto importa mucho á cualquier alma que tenga oración, poca ó mucha, que no la arrinconen ni aprieten.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Mor. 1. 2 (R. 53. 4372)."
             },
             {
+              "marca": "",
               "texto_cita": "«La intención recta y la voluntad determinada, como tengo dicho, de no ofender á Dios, no dejéis arrinconar vuestra alma, que en lugar de procurar santidad, sacará muchas imperfecciones, que el demonio le porná por otras vías.»",
               "autor": "",
               "referencia_obra": "Ead. Cam. perf. 41 (R. 53. 3732)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hete arrinconado á razones sin salida, para tenerte, si no más reducido, más atento.»",
               "autor": "Quev.",
-              "referencia_obra": "Prov. de Dios (R. 48. 1771). —"
-            },
+              "referencia_obra": "Prov. de Dios (R. 48. 1771)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Vemos cómo arrincona y barre la aurora las estrellas del cielo.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Nov. 1 (R. 1. 1092)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Vemos cómo arrincona y barre la aurora las estrellas del cielo.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Nov. 1 (R. 1. 1092)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -272,25 +359,31 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pues las llega el Señor á tan grande estado, sírvanle con ello, y no se arrinconen.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Conc. 2 (R. 53. 3961)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Los frailes eran cuatro ó cinco, y ésos pobres, conocidos de pocos --- la madre, que era la fundadora, arrinconada y maltratada de palabras que de ella decían.»",
                   "autor": "Yepes",
                   "referencia_obra": ", Vida de Sta. Ter. 2. 28 (Míst. 1. 235)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -299,36 +392,45 @@
     {
       "id": "c)",
       "definicion": "Considerándose el rincón como lugar á propósito para no ser visto estando en él, Refl. Retirarse, alejarse de las gentes.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Decimos --- arrinconarse, por retirarse y esconderse.»",
               "autor": "Covarr.",
               "referencia_obra": "sb. voc. rincón."
             },
             {
+              "marca": "",
               "texto_cita": "«Por aquí la virtud queda sin valedores, | Y apenas hay quien en público la mire, ó vuelva por ella: y así se arrincona y da franca la entrada á mil engañosas opiniones y vicios.»",
               "autor": "Yepes",
               "referencia_obra": ", Villa de Sta. Ter. 1. 1 (Míst. 1. 5)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Digo esto porque, estando yo arrinconado en una celda, quiero enseñar de la manera que se podrán proponer los misterios de nuestra fe, á los que traen las manos en la masa.»",
                   "autor": "Gran.",
                   "referencia_obra": "Modo de cateq. Al lector (R. 8. 597)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -337,7 +439,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. (Nótese la forma ranconar correspondiente al simple rancón por rincón.)\n\n—Siglo XV: «Non pasavan | De Duero, tanto estavan | Los christianos coartados, | Estrechos e arrinconados.» P. de Gumnán, Clar. var. 208 (Rim. inéd. 303).\n\n— Siglo XIII: «Fueron nuestros abuelos gran tiempo muy laçerados, | Ca los tenían los moros fuerte-mente arinconados.» Fern. Gonz. 219 (R. 57. 3961). «Europa e Africa, yazen bien ranconadas.» Alex. 2414 (R. 57. 2211).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Comp. de á y rincón. Port. ant. arrincoar; cat., mall. arraconar.\n\n\u0000",
+  "etimologia": "Etim. Comp. de <i>á y rincón. </i>Port. ant. <i>arrincoar</i>; cat., mall. <i>arraconar</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",

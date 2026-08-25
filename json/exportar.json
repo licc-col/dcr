@@ -1,70 +1,101 @@
 {
   "lema": "EXPORTAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v. Enviar productos comerciales a un país extranjero (trans.).",
+  "introduccion": "Enviar productos comerciales a un país extranjero (trans.).",
   "acepciones": [
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El ramal en construcción | Agua llevará a su seno, | Que fecunde su terreno | Y exporte su producción.»",
               "autor": "",
               "referencia_obra": "A. L. de Ayala, El tanto por ciento, 1. 1 (5. 14)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Pas. Con en, para indicar el medio de transporte.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se podrá restringir [esta excepción] --- a saber: que los frutos y efectos de nuestras colonias no puedan ser exportados en buques extranjeros.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Inf. sobre fomento de la marina mercante (R. 50. 262)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Pas. refl. X",
+              "definicion": "Pas. refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En Burdeos hay dieciséis fábricas destinadas a refinar azúcar de la isla: allí se importa azúcar, se exporta brandy y hay un centenar de pequeñas industrias que surgen al lado de las destilerías.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 3. 18 (p. 310). — Con de, para indicar la procedencia."
+                  "referencia_obra": ", Biogr. del Caribe, 3. 18 (p. 310)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con de, para indicar la procedencia.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Los cueros son muy escasos en Inglaterra; pero no debe causar admiración si se considera la inmensa cantidad de reses que se han exportado de esta isla.»",
+                      "autor": "Mor.",
+                      "referencia_obra": "Obr. póst. p. 179."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Los cueros son muy escasos en Inglaterra; pero no debe causar admiración si se considera la inmensa cantidad de reses que se han exportado de esta isla.»",
-                  "autor": "Mor.",
-                  "referencia_obra": "Obr. póst. p. 179. — Con de y para (o a). X"
-                },
-                {
-                  "texto_cita": "«Al capitán Lincoln, cuyo buque parece una plaza de mercado, le roban harina, carne de puerco, manteca, pescado, cebollas, papas, manzanas: cosas que se exportan de Boston para Cuba.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 4. 20 (p. 347)."
+                  "id_limpio": "—",
+                  "definicion": "Con de y para (o a).",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Al capitán Lincoln, cuyo buque parece una plaza de mercado, le roban harina, carne de puerco, manteca, pescado, cebollas, papas, manzanas: cosas que se exportan de Boston para Cuba.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Caribe, 4. 20 (p. 347)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Será que ya no exporto dudas ni minerales, | No genera divisas mi conducta, | Tiene desequilibrios mi balanza de pagos, | La caridad me cobra intereses leoninos | Y acaparo dolor para el mercado interno.»",
                   "autor": "Benedetti",
                   "referencia_obra": ", Espejos (La casa, p. 107)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -73,7 +104,7 @@
   ],
   "periodo_anteclasico": "",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Proveniente del lat. exportare ‘llevar fuera’, y éste de ex- y portare ‘llevar, transportar’. Pr. exporter, it. esportare, cat. y port. exportar, rum. exporta.\n\n\u0000",
+  "etimologia": "Etim. Proveniente del lat.<i> exportare</i> ‘llevar fuera’, y éste de<i> ex- </i>y<i> portare</i> ‘llevar, transportar’. Pr.<i> exporter,</i> it.<i> esportare,</i> cat. y port.<i> exportar, </i>rum.<i> exporta.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

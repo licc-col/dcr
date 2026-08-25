@@ -6,80 +6,120 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Perfeccionar, hacer que algo o alguien sea mejor de lo que era (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ten más cuidado de mejorar que no ensanchar tu señorío, procurando de imitar aquellos que bien governaron su señorío y no a los que o lo adquirieron o lo ensancharon.»",
               "autor": "A. de Valdés",
               "referencia_obra": ", Diál. de Merc. y Carón, 2 (Cl. C. 96. 199)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y ansí es que las [mujeres] que en sus casas cerradas y ocupadas las mejorarán, andando fuera de ellas las destruyen.»",
               "autor": "León",
               "referencia_obra": ", Perf. cas. 17 (4. 503)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si en este ejercicio es tocado con su centella de este amor, luego siente en sí nuevos propósitos y deseos de mejorar su vida.»",
               "autor": "Gran.",
-              "referencia_obra": "Adic. al Mem. 1. 1 (3. 2622). X"
+              "referencia_obra": "Adic. al Mem. 1. 1 (3. 2622)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Antes de bajar a pormenores es menester observar que a mejorar el estado de la mujer debieron de contribuir sobremanera las grandiosas ideas del cristianismo sobre la humanidad.»",
               "autor": "Balmes",
-              "referencia_obra": ", Protest. p. 230. X"
+              "referencia_obra": ", Protest. p. 230."
             },
             {
+              "marca": "X",
               "texto_cita": "«Quien intente mejorar al hombre no ha de prescindir de sus malas pasiones.»",
               "autor": "Martí",
               "referencia_obra": ", Páginas escogidas, p. 262."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, que indica: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, que indica:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Por ahora [en la fonda] se servirá variedad de fiambres y se darán comidas, almuerzos y meriendas por encargo, y en todo se hallará el aseo y el más exquisito esmero, sin perjuicio de mejorarla con suntuosidad.»",
-                  "autor": "Larra",
-                  "referencia_obra": ", Artíc. de cost. (Cl. C. 45. 166). X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Por ahora [en la fonda] se servirá variedad de fiambres y se darán comidas, almuerzos y meriendas por encargo, y en todo se hallará el aseo y el más exquisito esmero, sin perjuicio de mejorarla con suntuosidad.»",
+                      "autor": "Larra",
+                      "referencia_obra": ", Artíc. de cost. (Cl. C. 45. 166)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Quién duda que se puede con destreza | Mejorar lo que obró naturaleza?»",
+                      "autor": "Hartz.",
+                      "referencia_obra": "Fáb. (Cl. C. 179. 230)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Quién duda que se puede con destreza | Mejorar lo que obró naturaleza?»",
-                  "autor": "Hartz.",
-                  "referencia_obra": "Fáb. (Cl. C. 179. 230). — El medio. X"
+                  "id_limpio": "—",
+                  "definicion": "El medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Con cuyo honestado medio, | Si no mejoró su dicha, | Mejoró su fingimiento.»",
+                      "autor": "Cald.",
+                      "referencia_obra": "El pintor de su deshonra, 1 (Cl. C. 142. 138)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ésta no solo cultivará las plantas que dé su rincón de tierra, sino que las mejorará con el cultivo i sembrará nuevas con buenas semillas que conserva, o que le den los ánjeles.»",
+                      "autor": "Fern.",
+                      "referencia_obra": "Caball. Lágrimas, p. 28."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Con ella [con la voluntad] fue vistiendo, mejorando, puliendo, todos los dones recibidos.»",
+                      "autor": "Valencia",
+                      "referencia_obra": ", Discursos, 1 (p. 260)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Con cuyo honestado medio, | Si no mejoró su dicha, | Mejoró su fingimiento.»",
-                  "autor": "Cald.",
-                  "referencia_obra": "El pintor de su deshonra, 1 (Cl. C. 142. 138). X"
-                },
-                {
-                  "texto_cita": "«Ésta no solo cultivará las plantas que dé su rincón de tierra, sino que las mejorará con el cultivo i sembrará nuevas con buenas semillas que conserva, o que le den los ánjeles.»",
-                  "autor": "Fern.",
-                  "referencia_obra": "Caball. Lágrimas, p. 28. X"
-                },
-                {
-                  "texto_cita": "«Con ella [con la voluntad] fue vistiendo, mejorando, puliendo, todos los dones recibidos.»",
-                  "autor": "Valencia",
-                  "referencia_obra": ", Discursos, 1 (p. 260). — Además con en. X"
-                },
-                {
-                  "texto_cita": "«Con todo este ejercicio en nada he mejorado el estilo, ni creo que nadie le hallará poco ni mucho más perfecto en mis últimas producciones que en las primeras.»",
-                  "autor": "",
-                  "referencia_obra": "Feijoo, Cartas eruditas (Cl. C. 85. 69)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Con todo este ejercicio en nada he mejorado el estilo, ni creo que nadie le hallará poco ni mucho más perfecto en mis últimas producciones que en las primeras.»",
+                      "autor": "",
+                      "referencia_obra": "Feijoo, Cartas eruditas (Cl. C. 85. 69)."
+                    }
+                  ]
                 }
               ]
             },
@@ -87,28 +127,49 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con contra.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con esto se mejoraba [el bueno] más cada día contra su combatidor.»",
                   "autor": "León",
                   "referencia_obra": ", Expos. de Job, apénd. (2. 364)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, que indica: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, que indica:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Rafael, maestro entre los maestros, pintor sumo, continuó, mejorándolas en gran manera, las tradiciones de su padre y de Pedro Vannucci.»",
-                  "autor": "Catalina",
-                  "referencia_obra": ", Roma, p. 217. — El lugar. X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Rafael, maestro entre los maestros, pintor sumo, continuó, mejorándolas en gran manera, las tradiciones de su padre y de Pedro Vannucci.»",
+                      "autor": "Catalina",
+                      "referencia_obra": ", Roma, p. 217."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Había mejorado el altaruco en la antigua alcoba familiar.»",
-                  "autor": "",
-                  "referencia_obra": "Osorio Lizarazo, El camino en la sombra, p. 239."
+                  "id_limpio": "—",
+                  "definicion": "El lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Había mejorado el altaruco en la antigua alcoba familiar.»",
+                      "autor": "",
+                      "referencia_obra": "Osorio Lizarazo, El camino en la sombra, p. 239."
+                    }
+                  ]
                 }
               ]
             },
@@ -116,16 +177,28 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con para.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Llámalos el Señor para sí, y ellos van de muy buena gana, confiando en él, que pues los mejoró y dispuso para morir, les será favorable en aquella hora terrible.»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Festiv. 11 (5. 343). — Con una prop. infinitiva, que indica la finalidad. X"
-                },
+                  "referencia_obra": ", Festiv. 11 (5. 343)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Todo lo van mejorando y hermoseando para hacer de este retiro su edén.»",
-                  "autor": "Valera",
-                  "referencia_obra": ", Pepita Jiménez, p. 111."
+                  "id_limpio": "—",
+                  "definicion": "Con una prop. infinitiva, que indica la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Todo lo van mejorando y hermoseando para hacer de este retiro su edén.»",
+                      "autor": "Valera",
+                      "referencia_obra": ", Pepita Jiménez, p. 111."
+                    }
+                  ]
                 }
               ]
             }
@@ -134,133 +207,164 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. Con según. X",
+          "definicion": "Pas. Con según.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cuando la ambición, las artes y el ingenio, buscando su alimento, se colocaron en derredor, entonces la escena se fijó también allí permanentemente y su policía fue arreglada y mejorada según las ideas del tiempo.»",
               "autor": "Jovell.",
               "referencia_obra": "Mem. sobre espect. (Cl. C. 110. 277)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Se arrojó a decir que si él hubiera asistido al lado del divino Hacedor en la fábrica del universo, muchas cosas se hubieran dispuesto de otro modo y otras mejorado.»",
               "autor": "Gracián",
-              "referencia_obra": ", El criticón, 1. 3 (Cl. C. 165. 39). X"
+              "referencia_obra": ", El criticón, 1. 3 (Cl. C. 165. 39)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Quiera Dios no vea yo el gobierno público en manos de los próceres, mientras no se mejore la crianza de su primera edad!»",
               "autor": "Forner",
-              "referencia_obra": ", Los gramáticos (Cl. C. 168. 24). X"
+              "referencia_obra": ", Los gramáticos (Cl. C. 168. 24)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Aunque los primeros ensayos no fueron muy felices, poco a poco se fueron mejorando.»",
               "autor": "",
               "referencia_obra": "Hermosilla, Arte de hablar, 27 (p. 344)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El hombre vivo, lo primero es hombre, no se le puede mejorar la naturaleza.»",
                   "autor": "Zabaleta",
                   "referencia_obra": ", Errores celebr. (Cl. C. 169. 13)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, se expresa el medio. X",
+              "definicion": "Con la prep. con, se expresa el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Qué mayor mal puede venir a un hombre que la muerte? Y siendo esto así, no es locura el dilatarla: con la vida se enmiendan y mejoran las malas suertes y con la muerte desesperada no sólo no se acaban y se mejoran, pero se empeoran y comienzan de nuevo.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 2. 13 (Cl. Castal. 12. 230)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, para señalar el tiempo. X",
+              "definicion": "Con en, para señalar el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si la lança no me miente, | En estas mis romerías, | Yo haré que en pocos días | Se mejore y acresciente | Mi partido.»",
                   "autor": "Castillejo",
-                  "referencia_obra": ", Obr. (Cl. C. 91. 46). X"
+                  "referencia_obra": ", Obr. (Cl. C. 91. 46)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Después de Antonio de Lebrija se mejoró algo esta lengua en el reinado del Carlos V.»",
                   "autor": "Mayáns",
                   "referencia_obra": ", Oríg. leng. esp. p. 345."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ten siempre en la memoria que si te dieron el imperio, no fue porque eras ciudadano romano, ni porque eras magnánimo ---, sino sólo porque eras virtuoso, y lo que es más de todo, que no te pide el pueblo que te mejores, sino que no te empeores.»",
               "autor": "Guev.",
-              "referencia_obra": "Epíst. 2. 30 (Cl. Esp. 12. 353). X"
+              "referencia_obra": "Epíst. 2. 30 (Cl. Esp. 12. 353)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Por el estímulo a ennoblecerse y mejorarse que el amor inspira, suyo preferentemente es el poder iniciador en las mayores vocaciones de la energía y de la inteligencia.»",
               "autor": "Rodó",
               "referencia_obra": ", Motivos de Proteo, p. 96."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con bajo. X",
+              "definicion": "Con bajo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Como él es interesado y codicioso a la vez que leal y adicto a su señor, como él se educa y mejora bajo la disciplina de su patrono.»",
                   "autor": "Menéndez y Pelayo",
                   "referencia_obra": ", Estudios, p. 118."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pon gran cuidado y resuélvete desde ahora a no desechar qualquiera pensamiento que te parezca santo, y apropósito para mejorarte en la virtud.»",
                   "autor": "Isla",
                   "referencia_obra": ", Adic. Año christ. p. 20."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tomó por medio buscar otros nuevos maestros, ---; por cuyo medio fuese conocida su virtud y se mejorase más.»",
                   "autor": "Yepes",
                   "referencia_obra": ", Vida de Sta. Ter. 1. 10 (Míst. 1. 42)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -268,91 +372,120 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Habiendo vencido [Viriato] infinitas batallas y héchose señor de gran parte de España, jamás mejoró de traje.»",
               "autor": "Navarr.",
-              "referencia_obra": "Conserv. de la monarq. 33 (R. 25. 5211). X"
+              "referencia_obra": "Conserv. de la monarq. 33 (R. 25. 5211)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuanto más se gasta en adquirir tanto menos queda para mejorar.»",
               "autor": "Jovell.",
-              "referencia_obra": "Ley agraria (Cl. C. 110. 150). X"
+              "referencia_obra": "Ley agraria (Cl. C. 110. 150)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Durante ese tiempo sus patillas habían mejorado y la negrura de ellas hacía contraste con sus mejillas sonrosadas.»",
               "autor": "Isaacs",
-              "referencia_obra": ", María, p. 84. X"
+              "referencia_obra": ", María, p. 84."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sí, ha mejorado mucho ---, de veras, y Lalo es un delantero ágil y trabajador.»",
               "autor": "Vargas Llosa",
               "referencia_obra": ", Los cachorros, 1 (p. 41)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Podrá mejorar, educarse en todo lo que le permita su idiotismo, pero no más allá.»",
                   "autor": "Quiroga",
                   "referencia_obra": ", Cuentos de amor, p. 51."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La honra que se da se queda, y queda mejorada la honra del que la da.»",
               "autor": "Zabaleta",
               "referencia_obra": ", Errores celebr. (Cl. C. 169. 67)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, que señala el agente. X",
+              "definicion": "Con por, que señala el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La doctrina del célebre José González, mejorada por Zabala, resucitada por Loinaz.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Discursos (Cl. C. 129. 74). X"
+                  "referencia_obra": "Discursos (Cl. C. 129. 74)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Esta finca, plantada y mejorada por mí; esta finca, con su casalicio y sus bodegas, bien vale cincuenta mil duros.»",
                   "autor": "Miró",
-                  "referencia_obra": ", Años y leguas, p. 118. X"
+                  "referencia_obra": ", Años y leguas, p. 118."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mejorada la figura jurídica del indio por las leyes, se conservó al negro esclavo.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Estud. mesa redonda, 13 (p. 190)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para señalar el modo. X",
+              "definicion": "Con la prep. con, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El infatigable magistrado lee y extracta estas obras ---, y mejoradas con nuevas y admirables observaciones, las presenta.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Discursos (Cl. C. 129. 87). — γ γ Con en, que indica el campo en que se mejora. X"
-                },
+                  "referencia_obra": "Discursos (Cl. C. 129. 87)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«En todas las virtudes queda mejorada, y no dejará de ir creciendo si no torna atrás ya a hacer ofensas de ir creciendo de Dios, porque entonces todo se pierde, por subida que esté un alma en la cumbre.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Mor. 4. 3 (Cl. C.1. 78)."
+                  "id_limpio": "—",
+                  "definicion": "γ γ Con en, que indica el campo en que se mejora.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En todas las virtudes queda mejorada, y no dejará de ir creciendo si no torna atrás ya a hacer ofensas de ir creciendo de Dios, porque entonces todo se pierde, por subida que esté un alma en la cumbre.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Mor. 4. 3 (Cl. C.1. 78)."
+                    }
+                  ]
                 }
               ]
             }
@@ -361,24 +494,29 @@
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
-          "definicion": "Forma la expresión Mejorando lo presente: que se dice por cortesía cuando en presencia de alguien se alaba a otra persona. X",
+          "definicion": "Forma la expresión Mejorando lo presente: que se dice por cortesía cuando en presencia de alguien se alaba a otra persona.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Era un hombre que, mejorando lo presente no es posible hallarle de más respeto, más caballeroso.»",
               "autor": "Mor.",
-              "referencia_obra": "El sí de las niñas, p. 185. X"
+              "referencia_obra": "El sí de las niñas, p. 185."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sí, señora; doña Amalia, es la señora más buena que yo he conocido, mejorando lo presente.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 3 (p. 276). X"
+              "referencia_obra": ", Amalia, 3 (p. 276)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En los cuentos de Trueba encontramos frases antioqueñas como mejorando lo presente, pare de contar, mozo de fundamento, bueno como él solo ---.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 2 (p. 96)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -386,55 +524,68 @@
     {
       "id": "b)",
       "definicion": "Superar, aventajar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con dat. Además con en. X",
+          "definicion": "Con dat. Además con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Un cisne, que en voz sonora, | Si no fue alada vigüela, | Fue allí nevada tiorba; | Pues en lo cándido y dulce, | En pluma y pico, mejora | Al ruiseñor lo suave, | Y lo cándido a la rosa.»",
               "autor": "Rojas",
-              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 17). X"
+              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 17)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sé que en belleza | Te ha mejorado a ti naturaleza.»",
               "autor": "Villegas",
-              "referencia_obra": ", Eróticas, 29 (Cl. C. 21. 97). X"
+              "referencia_obra": ", Eróticas, 29 (Cl. C. 21. 97)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En fuga irrevocable huye la hora; | Pero aquella el mejor cálculo cuenta | Que en la lección y estudios nos mejora.»",
               "autor": "Quev.",
               "referencia_obra": "Poemas escogidos (Cl. Castal. 97)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pues ¿qué tienen tus sentidos, | que a los míos se mejoran?»",
               "autor": "Mto.",
               "referencia_obra": "El Caballero, 2. 19 (R. 39. 3031)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Dejaron muertos seis o siete tlascaltecas de los que hallaron impedidos y desarmados; pero se cobró la presa, mejorada con algunos despojos del enemigo.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 5. 13 (R. 28. 3631)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -442,37 +593,54 @@
     {
       "id": "c)",
       "definicion": "Cambiar de estado o condición por otro más holgado y ventajoso (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y le aconsejó que para ir a ver al Duque mejorara de traje.»",
               "autor": "A. Saav.",
               "referencia_obra": "Masan. 1. 13 (5. 106)."
             },
             {
+              "marca": "",
               "texto_cita": "«Casi todos los ministros que llegan a mejorar de hacienda y fortuna fundan en la corte sus casas y mayorazgos.»",
               "autor": "Navarr.",
               "referencia_obra": "Conserv. de mon. 15 (R. 25. 4762)."
             },
             {
+              "marca": "",
               "texto_cita": "«La nación temía recaer en los males pasados, y esperaba mejorar de suerte.»",
               "autor": "M. de la Rosa",
-              "referencia_obra": ", Espír. del siglo, 6. 27 (5. 128). X"
+              "referencia_obra": ", Espír. del siglo, 6. 27 (5. 128)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Como Fausto, han vendido su alma o porciones de ella para mejorar de fortuna.»",
               "autor": "",
-              "referencia_obra": "Ortega y Gasset, Mocedades, p. 122. — Además con en."
-            },
+              "referencia_obra": "Ortega y Gasset, Mocedades, p. 122."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Pocos príncipes mejoran de costumbres en el imperio, como nos muestran las sagradas letras en Saúl y Salomón.»",
-              "autor": "Saav.",
-              "referencia_obra": "Emp. 100 (R. 25. 2701)."
+              "id_limpio": "—",
+              "definicion": "Además con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Pocos príncipes mejoran de costumbres en el imperio, como nos muestran las sagradas letras en Saúl y Salomón.»",
+                  "autor": "Saav.",
+                  "referencia_obra": "Emp. 100 (R. 25. 2701)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -480,18 +648,22 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Que si es condición de los bienes del cielo ---, mejorar en lo natural su sujeto ---; en naturales no solo tan corregidos, sino tan perfectos de suyo, tan santos, que hará tantas gracias.»",
                   "autor": "León",
-                  "referencia_obra": ", Nomb. 3 (3. 409). X"
+                  "referencia_obra": ", Nomb. 3 (3. 409)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Carece de entendimiento | (Perdóname, padre, ahora), | Quien en algo no mejora | Su primero nacimiento.»",
                   "autor": "Lope",
                   "referencia_obra": ", El villano en su rincón, 3 (Cl. C. 157. 93)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -499,16 +671,28 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Estas victorias de presente muy señaladas para adelante fueron muy provechosas, porque se mejoraron de armas.»",
               "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 15. 14 (1. 7641). — Además con por."
-            },
+              "referencia_obra": ", Hist. Esp. 15. 14 (1. 7641)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Ya me había algo mejorado de ropa por medio del Alcayde, a quien visitaba siempre.»",
-              "autor": "Quev.",
-              "referencia_obra": "Buscón, 18 (1. 274)."
+              "id_limpio": "—",
+              "definicion": "Además con por.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Ya me había algo mejorado de ropa por medio del Alcayde, a quien visitaba siempre.»",
+                  "autor": "Quev.",
+                  "referencia_obra": "Buscón, 18 (1. 274)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -516,32 +700,39 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Hubo de aprovechar la ocasión que se le ofrecía con su ausencia y mejorarse en fortuna y en partido.»",
                   "autor": "Quint.",
                   "referencia_obra": "D. Álv. de Luna (3. 14)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pero sólo me consuela | Lo que mejoráis en esto.»",
                   "autor": "Mto.",
                   "referencia_obra": "De fuera vendrá, 2. 5 (R. 39. 671)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "En el siguiente texto, Mudar a una parte más adecuada. Con de. X",
+          "definicion": "En el siguiente texto, Mudar a una parte más adecuada. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La primera noche que entré en Lisboa, yendo por una de sus principales calles, o rúas, como ellos las llaman, por mejorar de posada ---, un embozado portugués con quien encontré, me desvió de sí con tanta fuerza, que tuve necesidad de arrimarme al suelo.»",
               "autor": "Cerv.",
               "referencia_obra": "Pers. 3. 6 (Cl. Castal. 12. 316)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -549,124 +740,154 @@
     {
       "id": "d)",
       "definicion": "Milit. Avanzar o cambiar ventajosamente el orden o disposición del combate (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Siempre los españoles mejoraban | Haciendo fiero estrago y tan sangriento | En los osados indios, que pagaban | El poco seso y mucho atrevimiento.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 2 (R. 17. 112)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Oyendo los golpes de arcabuz, y visto que se peleaba por aquella parte de Pedro de Mendoza, se mejoró.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granad. 4 (R. 21. 1211)."
             },
             {
+              "marca": "",
               "texto_cita": "«Como desde un collado desta parte de Humala vio la ordenanza del ejército católico, y las tropas de caballos que se venían mejorando la vuelta dél, conoció que era perdido si la caballería católica cargaba de veras.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 5 (R. 28. 541)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Que se alojasen [ordenó el Vélez] en forma de batalla por la falda del monte, mejorándose cuanto fuese necesario a los volantes.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal. 5 (R. 21. 5261)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. Además con por y una prop. infinitiva. X",
+              "definicion": "Con la prep. con. Además con por y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Rocaford y Fernán Jiménez fuéronse mejorando con su gente por asegurarse de que los masagetas no se les fuesen por pies.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 143 (Cl. C. 54. 151)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por la poca confianza que de su esfuerzo hacían, intentaron mejorarse de lugar.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 5. 3 (1. 2062)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Habían dejado los caballos y mejorádose de puesto, porque tomaron los altos, de donde mejor se podían guardar y ofender, impidiendo la subida a sus enemigos.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 1. 14 (R. 21. 151; Cl. C. 54. 56)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pocas horas después déste se echó de ver que el enemigo desalojaba para mejorar de puesto.»",
                   "autor": "Coloma",
                   "referencia_obra": ", Guerra de los Est. Bajos, 5 (R. 28. 581)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mandó a don Francisco, su hijo, que con ellos se mejorase en lo alto de la montaña.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Granad. 1 (R. 21. 792)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No fue solo urbanidad, sino artificio para que entre tanto, la infantería catalana, que se retiraba, sus caballos y bagajes tuviesen tiempo de mejorarse en las marchas.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal. 4 (R. 21. 5161)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con hasta y una prop. infinitiva, para expresar el límite del avance. X",
+              "definicion": "Con hasta y una prop. infinitiva, para expresar el límite del avance.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Topé en la paredilla con una piedra, en que pude estribar muy bien, y haciendo fuerza con ella, ayudándome de la de los brazos, mejoreme, hasta poder asir el madero en que estaba asida la puerta del desaguadero.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 1. 21 (Cl. C. 43. 261)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con por, que especifica el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Las centinelas que estaban en lo alto de las torres de Galípoli dieron la señal de acometer, porque descubrían mejor al enemigo, que venía mejorándose por los collados.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 1. 35 (R. 21. 331; Cl. C. 54. 126)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -674,13 +895,16 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los Aragoneses peleaban mejorados del lugar, y por todas partes estaban sobre los enemigos.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 14. 13 (1. 7181)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -688,134 +912,166 @@
     {
       "id": "e)",
       "definicion": "Subsanar, remediar, reponer (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Estamos mal, muy mal, pero no hacemos nada para mejorar nuestra situación.»",
               "autor": "Azorín",
-              "referencia_obra": ", La voluntad (Cl. Castal. 3. 295). X"
+              "referencia_obra": ", La voluntad (Cl. Castal. 3. 295)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esa caridad, esa beneficencia, esa benevolencia no pueden dirigirse a enriquecer, sino a mejorar la condición moral, intelectual económica y material de los favorecidos.»",
               "autor": "",
               "referencia_obra": "M. F. Suárez, Sueños, 2 (p. 314)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con y una prop. infinitiva. X",
+              "definicion": "Con la prep. con y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ella, con vergüenza y con los ojos en el suelo, le dijo que por haberse considerado gitana, y que mejoraba su suerte con casarse con un caballero de hábito y tan principal como don Juan de Cárcamo ---, alguna vez le había mirado con ojos aficionados.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Gitanilla (Cl. C. 27. 123)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Que frequentada de toda clase de personas, grandes y pequeños, ricos y no ricos, plebeyos y nobles, Eclesiásticos y Seculares, como que todos mejorarían su suerte en rentas, cosechas, jornales, y diezmos!»",
                   "autor": "Ponz",
                   "referencia_obra": ", Viaje de Esp. 3 (16. 165)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Al fin de la guerra buscaba frecuentemente la manera de mejorar el estado del erario, por medio de un plan que evitara la necesidad de agentes fiscales del gobierno en el extranjero.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 3 (p. 265)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Hoy de Leucino acaba el cruel tormento | Y mi triste pobreza se mejora, | Que Eliodora, a quien veo, aunque rehúya | Hará mi voluntad contra la suya.»",
               "autor": "Cueva",
-              "referencia_obra": ", El infamador, 3 (Cl. C. 60. 38). X"
+              "referencia_obra": ", El infamador, 3 (Cl. C. 60. 38)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mejorándose mi ventura y adobándoseme el juicio, podría ser que encaminase mis pasos por mejor camino del que llevo.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 58 (Cl. C. 22. 52)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los abusos no se mejoran, sino que se corrigen.»",
               "autor": "Clem.",
               "referencia_obra": "Coment. 1. 2 (2. 23)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para expresar el medio. X",
+              "definicion": "Con la prep. con, para expresar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mudada, pues, la fortuna, se dará fin al poema, como veis que concluyó su Eneida Virgilio, luego que con la muerte de Turno se mejoró su fortuna.»",
                   "autor": "Cascales",
                   "referencia_obra": ", Tablas poétic. 1 (Cl. C. 207. 169)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Oh bien haya aquel discreto, | Que cuando se mejoró | De fortuna, se quedó | Con aquel mismo sujeto.»",
                   "autor": "Lope",
                   "referencia_obra": ", Las bizarrías de Belisa, 1 (Cl. C. 157. 143)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con de. X",
+          "definicion": "Part. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Me hallé algo más mejorado de entendimiento, y determiné, como si hablar supiera, aprovecharme dellos en las ocasiones que se me ofreciesen.»",
               "autor": "Cerv.",
               "referencia_obra": "Coloq. (Cl. C. 36. 249)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Sustantivado. Con en. X",
+              "definicion": "Sustantivado. Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con ser [el hombre] el señor, el del entendimiento, el de la libertad y el mejorado en todos los bienes y herencia del Padre Dios, a éste sólo se le dejó sin pluma como suelen decir.»",
                   "autor": "M. de Chaide",
                   "referencia_obra": ", Magd. 5. 8 (Cl. C. 104. 213)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -824,64 +1080,102 @@
     {
       "id": "2",
       "definicion": "Ir cobrando la salud perdida, restablecerse, curarse (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Todos participaremos | De su mal [de amor] si no mejora.»",
               "autor": "Tirso",
-              "referencia_obra": ", Amor médico, 2 (Cl. C. 131. 64). X"
+              "referencia_obra": ", Amor médico, 2 (Cl. C. 131. 64)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Y no ha mejorado el Conde? — Mejorado sí, pero quedose como un niño: Le visten, le sientan en un sillón y allí se pasa el día: Dicen que no conoce a nadie.»",
               "autor": "Valle-Inclán",
-              "referencia_obra": ", Sonata de invierno, p. 168. X"
+              "referencia_obra": ", Sonata de invierno, p. 168."
             },
             {
+              "marca": "X",
               "texto_cita": "«Aunque mejoró un poco y dejó de quejarse, andaba tonteando por el caserío.»",
               "autor": "Alegría",
-              "referencia_obra": ", El mundo es ancho y ajeno, 1 (p. 37). X"
+              "referencia_obra": ", El mundo es ancho y ajeno, 1 (p. 37)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Jaime mejoró, y se atrevió a preguntale a la tía si su amigo Juan Manuel lo había buscado.»",
               "autor": "Fuentes",
-              "referencia_obra": ", Obr. complet. p. 807. X"
+              "referencia_obra": ", Obr. complet. p. 807."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuando la respiración de Melquíades empezó a oler, Arcadio lo llevó a bañarse al río los jueves en la mañana. Pareció mejorar.»",
               "autor": "Márquez",
-              "referencia_obra": ", Cien años de soledad, p. 70. — met. X"
-            },
+              "referencia_obra": ", Cien años de soledad, p. 70."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Mi situación, empero, ha mejorado algo estos últimos años.»",
-              "autor": "Ramón y Cajal",
-              "referencia_obra": ", El mundo, 13 (p. 44)."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Mi situación, empero, ha mejorado algo estos últimos años.»",
+                  "autor": "Ramón y Cajal",
+                  "referencia_obra": ", El mundo, 13 (p. 44)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para especificar el medio. X",
+              "definicion": "Con la prep. con, para especificar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El mal higado del cura mejoró con los remedios del gringo, que se reveló como un experto herbolario.»",
                   "autor": "Roa",
-                  "referencia_obra": "Bastos, Hijo de hombre, p. 71. — Además con de, que señala la enfermedad."
+                  "referencia_obra": "Bastos, Hijo de hombre, p. 71."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con de, que señala la enfermedad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Acompañó a su marido la Reina Da. Leonor, y con su beneplácito se quedó en Castilla para probar si con los aires naturales --- podía mejorar de una dolencia larga.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 18. 12 (2. 1521)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Acompañó a su marido la Reina Da. Leonor, y con su beneplácito se quedó en Castilla para probar si con los aires naturales --- podía mejorar de una dolencia larga.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 18. 12 (2. 1521). — Siendo el término una prop. infinitiva. X"
-                },
-                {
-                  "texto_cita": "«¿Cómo te sientes? | Mejoran | Los enfermos de mi humor | Sólo con ver de hora en hora | Al médico junto a sí.»",
-                  "autor": "Tirso",
-                  "referencia_obra": ", Amor médico, 2 (Cl. C. 131. 72)."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Cómo te sientes? | Mejoran | Los enfermos de mi humor | Sólo con ver de hora en hora | Al médico junto a sí.»",
+                      "autor": "Tirso",
+                      "referencia_obra": ", Amor médico, 2 (Cl. C. 131. 72)."
+                    }
+                  ]
                 }
               ]
             },
@@ -889,88 +1183,108 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de, que especifica la enfermedad o dolencia.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ansí mejoró algo deste mal.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Fund. 12 (2. 305)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Desde a pocos días el rey mejoró de su enfermedad.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 16. 16 (2. 411)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Salió el duque de Parma de Aspa, a mediado otubre, algo mejorado de su hidropesía.»",
                   "autor": "Coloma",
                   "referencia_obra": ", Guerra de los Est. Bajos, 2 (R. 28. 221)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, que expresa el tiempo. X",
+              "definicion": "Con en, que expresa el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mejoró en los días sucesivos. Aquella vida desplomada se sostenía con un esfuerzo prestado por el espíritu para engañarse a sí mismo y a los demás.»",
                   "autor": "P. Galdós",
-                  "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 186). X"
+                  "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 186)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Me interesé por su reuma y me dijo que en los otoños secos mejora.»",
                   "autor": "Delibes",
                   "referencia_obra": ", Diario de un cazador, p. 56."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con hasta y una prop. infinitiva, para expresar el límite de la recuperación. X",
+              "definicion": "Con hasta y una prop. infinitiva, para expresar el límite de la recuperación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Desde entonces empezó a mejorar hasta quedar perfectamente sano, pero enteramente mudo.»",
                   "autor": "Gumilla",
                   "referencia_obra": ", Orinoco, 1. 17 (p. 195)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Trans. X",
+          "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Antes (si pudo mejorarlo el padecer), a nuestro modo de entender, la Cruz lo mejoró.»",
               "autor": "Domínguez Camargo",
-              "referencia_obra": ", Obr. (ICC. 15. 470). X"
+              "referencia_obra": ", Obr. (ICC. 15. 470)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Habéis de saber hijos míos, que las hojas de naranjo con sebo tienen sobre mi organización la virtud específica... — De mejorarlo a usted y enfermar a los otros.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 3 (p. 331). X"
+              "referencia_obra": ", Amalia, 3 (p. 331)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No sabemos qué bebedizo te haya dado en esos andurriales — dícenle amigos interesados por sacarlo de aquí, mejorándolo.»",
               "autor": "",
               "referencia_obra": "Yáñez, Al filo del agua, p. 59."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para señalar el tiempo. X",
+              "definicion": "Con en, para señalar el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Más sublima, | Y a Ignacio en siete días lo mejora.»",
                   "autor": "Domínguez Camargo",
                   "referencia_obra": ", Obr. (ICC. 15. 169)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -978,38 +1292,63 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Quedaba su alma mejorada, y con más fortaleza.»",
               "autor": "Yepes",
-              "referencia_obra": ", Vida de Sta. Ter. 1. 10 (Míst. 1. 40). X"
+              "referencia_obra": ", Vida de Sta. Ter. 1. 10 (Míst. 1. 40)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Encontré a María Juana bastante mejorada al día siguiente, mas no completamente bien.»",
               "autor": "",
-              "referencia_obra": "P. Galdós, Lo prohibido (Cl. Castal. 34. 340). — En grado superlativo. X"
-            },
+              "referencia_obra": "P. Galdós, Lo prohibido (Cl. Castal. 34. 340)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Renquea un poco de la pierna izquierda, pero está muy mejorado.»",
-              "autor": "Delibes",
-              "referencia_obra": ", Diario de un cazador, p. 173."
+              "id_limpio": "—",
+              "definicion": "En grado superlativo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Renquea un poco de la pierna izquierda, pero está muy mejorado.»",
+                  "autor": "Delibes",
+                  "referencia_obra": ", Diario de un cazador, p. 173."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Díjome que estaba muy mejorado de su reblandecimiento.»",
                   "autor": "P. Galdós",
-                  "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 303). — En grado superlativo."
-                },
+                  "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 303)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Volvió el duque de Parma a Bruselas a los 6 de febrero, muy mejorado, al parecer, de sus achaques.»",
-                  "autor": "Coloma",
-                  "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 252)."
+                  "id_limpio": "—",
+                  "definicion": "En grado superlativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Volvió el duque de Parma a Bruselas a los 6 de febrero, muy mejorado, al parecer, de sus achaques.»",
+                      "autor": "Coloma",
+                      "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 252)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1018,19 +1357,23 @@
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Forma la expresión Que se mejore: usada para desear la pronta recuperación de alguien. X",
+          "definicion": "Forma la expresión Que se mejore: usada para desear la pronta recuperación de alguien.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Bien, mi hijita, adiós. Memorias a mamá, y que se mejore para que nos veamos pronto.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 1 (p. 105). X"
+              "referencia_obra": ", Amalia, 1 (p. 105)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Nada! Que al Señor Conde le ha dado un vahído..., y yo me he asustado mucho. — Adiós, Fabián; que se mejore usted.»",
               "autor": "Alarcón",
               "referencia_obra": ", El escándalo, 2 (Cl. C. 178. 118)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1038,7 +1381,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo. XV: X «Pues que mi grave dolor | Nunca mejora ni sana, | Quiero perder el temor, | Que en la aventura de amor | Quien no aventura no gana.» Encina, Poes. lír. (Cl. Castal. 62. 79). X «Te a puesto en las sillas más altas para que tengas eternas riquezas, y mejorando el sitio que tienes, ya no seas última con las últimas regiones, mas primera entre las primeras.» Arc. de Talav. Vida de S. Isid. (Cl. C. 134. 68). X «Del todo muero por vos, | E non mejora | Ni mal, jurovos a Dios, | Mas empeora.» Santill. Canc. y decires (Cl. C. 18. 184).\n\n— Siglo XIV: X «Santa María Magdalena, | Rruega a Dios verdadero | Por quien diere buena estrena, | De meaja o de dinero, | Para mejorar la çena | A nos e nuestro conpañero.» Arc. de Hita, 1713 (Cl. C. 17. 288).\n\n— Siglo XIII: X «Oyeron decir que Hércules muriera en aquel logar, e hobieron respuesta de sos dioses que si fuessen allá e troxiessen de los sus huessos a daquello que dél finçara, que mejoaríe siempre la cibdat.» Alf. X, Crón. gen. (Cl. Ebro, 45. 56). X «Confessose el monge e fizo penitenzia, | Meiorose de toda su mala contenencia, | Sirvió a la Gloriosa mientre ovo potencia.» Berc. Mil. 2 (Cl. C. 44. 25). X «Dexemos nos al conde en [grand] pryes[s]a a estar, | Nunca naçció omne d’armas que le podeis | Mejorar.» Fern. Gonz. (Cl. C. 128. 151 ).\n\n— Siglo XII: X «Dezid ¿qué vos merecí, infantes de Carrión, | En juego o en vero o en alguna razón? | Aquí lo mejoraré a juvizio de la cort.» Cid, 3259 (Cl. C. 24. 274).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. meliorare ‘mejorar, acrecentar, aumentar’. Cat. millorar, fr. améliorer, it. migliorare.\n\n\u0000",
+  "etimologia": "Etim. Del lat.<i> meliorare</i> ‘mejorar, acrecentar, aumentar’. Cat.<i> millorar,</i> fr.<i> améliorer,</i> it.<i> migliorare.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

@@ -6,124 +6,169 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Trabajar en una cosa (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con en, que señala el asunto o la materia. X",
+          "definicion": "Con en, que señala el asunto o la materia.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ni sé de puntas ni randas | Porque yo trato en poesía.»",
               "autor": "Lope",
               "referencia_obra": ", Servir a señor discreto (Cl. Castal. 68. 110)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. adj. En grado comparativo. X",
+          "definicion": "Part. adj. En grado comparativo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Aunque con poco artificio, los representantes nuestros en los bailes, no es la ditirámbica antigua, que nunca usaron los latinos; que si esto fuera, no hubo cosa más tratada y usada que esto en los romanos.»",
               "autor": "Cascales",
               "referencia_obra": ", Cartas filológ. 3. 10 (Cl. C. 118. 234)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
       "id": "b)",
-      "definicion": "Con en, Comerciar (intrans.). X",
+      "definicion": "Con en, Comerciar (intrans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Tratar en ganado.»",
           "autor": "Acad.",
           "referencia_obra": "Dicc."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Considerar, discurrir, proyectar un negocio o asunto (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El piloto para esto demandó licencia al Almirante, y los mancebos, pensando que era aquella habla para tratar alguna trayción, huyeron.»",
               "autor": "Pz. de Oliva",
-              "referencia_obra": ", Hist. inu. Ynd. (ICC. 20. 99). X"
+              "referencia_obra": ", Hist. inu. Ynd. (ICC. 20. 99)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Suspenda, amigo Donato, la enumeración de sus provincialismos, en atención a que necesitamos la mitad del diálogo para tratar otros asuntos que me ha indicado Justino.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 3 (p. 201)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "El acus. es una prop. subjuntiva. X",
+              "definicion": "El acus. es una prop. subjuntiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tratamos que los desposorios se hiziesen en la ciudad de Lisboa, porque el rey de lusitanos en ellos tuviesse presente.»",
                   "autor": "Gil Polo",
                   "referencia_obra": ", Diana (Cl. C. 135. 45)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con a, que indica el modo. X",
+              "definicion": "Con a, que indica el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Abrid ese pliego, y mirad lo que dice. | Hízolo así el recién nacido secretario, y habiendo leído lo que decía, dijo que era negocio para tratarle a solas.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 47 (Cl. C. 19. 192)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, que señala: — la persona. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Has de saber que esta dama | Tiene una cierta esclavilla | Mulata y no de Sevilla | Porque ser indiana es fama. | Con ésta sus cosas trata | Y ésta la puerta ha de ser | Para entrar a esta mujer.»",
-                  "autor": "Lope",
-                  "referencia_obra": ", Servir a señor discreto (Cl. Castal. 68. 93). X"
+                  "id_limpio": "—",
+                  "definicion": "la persona.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Has de saber que esta dama | Tiene una cierta esclavilla | Mulata y no de Sevilla | Porque ser indiana es fama. | Con ésta sus cosas trata | Y ésta la puerta ha de ser | Para entrar a esta mujer.»",
+                      "autor": "Lope",
+                      "referencia_obra": ", Servir a señor discreto (Cl. Castal. 68. 93)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Que trajo, imagino yo, | Negocios de Estado y guerra, | De importancia que tratar | Con el Rey.»",
+                      "autor": "Guev.",
+                      "referencia_obra": "El diablo está en Cantillana, 1 (Cl. C. 132. 114)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pero es un poder de hecho replicó el señor Mandeville—, y el plenipotenciario no tiene que investigar su legalidad, sino reconocerlo y tratar con él.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 5 (p. 572)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Que trajo, imagino yo, | Negocios de Estado y guerra, | De importancia que tratar | Con el Rey.»",
-                  "autor": "Guev.",
-                  "referencia_obra": "El diablo está en Cantillana, 1 (Cl. C. 132. 114). X"
-                },
-                {
-                  "texto_cita": "«Pero es un poder de hecho replicó el señor Mandeville—, y el plenipotenciario no tiene que investigar su legalidad, sino reconocerlo y tratar con él.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 5 (p. 572). — El modo. X"
-                },
-                {
-                  "texto_cita": "«Encargose la vieja, agradecida a la respuesta, de tratar el negocio con igualdad y satisfacción.»",
-                  "autor": "Avell.",
-                  "referencia_obra": "Quij. 6. 18 (Cl. C. 175. 124)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Encargose la vieja, agradecida a la respuesta, de tratar el negocio con igualdad y satisfacción.»",
+                      "autor": "Avell.",
+                      "referencia_obra": "Quij. 6. 18 (Cl. C. 175. 124)."
+                    }
+                  ]
                 }
               ]
             }
@@ -132,78 +177,117 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Menester será que por dissimular lo que aquí se trataba, al son de nuestros instrumentos comencemos a cantar.»",
               "autor": "Gil Polo",
-              "referencia_obra": ", Diana (Cl. C. 135. 29). X"
+              "referencia_obra": ", Diana (Cl. C. 135. 29)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entre los grandes señores, | Si cosas se han de tratar, | Es costumbre d' enviar | Legados o embaxadores | Que vayan a negociar.»",
               "autor": "Castillejo",
               "referencia_obra": ", Obr. (Cl. C. 91. 143)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, que señala el modo. X",
+              "definicion": "Con la prep. con, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Vaya, pues, de aquí adelante, afuera, como digo, la lisonjera dedicación, y la cosa tan graue se trate con la grauedad que es justo.»",
                   "autor": "L. Pinciano",
                   "referencia_obra": ", Philosophia (BALH. 20. 190)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de, para señalar el objeto de la consideración. X",
+              "definicion": "Con de, para señalar el objeto de la consideración.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Entre todos los objetos de la instrucción siempre será el primero la moral cristiana, de que va a tratarse ahora.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Men. sobre educ. pública (Cl. C. 111. 132). X"
+                  "referencia_obra": "Men. sobre educ. pública (Cl. C. 111. 132)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Voy a prescindir de todo sentimiento, y voy a discurrir con frialdad, como si se tratase del asunto que me fuese más extraño.»",
                   "autor": "Valera",
-                  "referencia_obra": ", Pepita Jiménez, p. 128. X"
+                  "referencia_obra": ", Pepita Jiménez, p. 128."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Iba muy a menudo a hablar con el director, y casi siempre le recibía en el gabinete reservado, señal de que se trataba de asuntos de contrabando.»",
                   "autor": "Pereda",
                   "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 27)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, para señalar: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Bien conocía César, que en esta plática de Lisco era señalado Dummnorix hermano de Diviciaco: mas no queriendo que se tratasen aquellos puntos en presencia de muchos, despidió luego la junta.»",
-                  "autor": "Valbuena",
-                  "referencia_obra": ", tr. Los coment. de Julio César, p. 14. — El medio. X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Bien conocía César, que en esta plática de Lisco era señalado Dummnorix hermano de Diviciaco: mas no queriendo que se tratasen aquellos puntos en presencia de muchos, despidió luego la junta.»",
+                      "autor": "Valbuena",
+                      "referencia_obra": ", tr. Los coment. de Julio César, p. 14."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Cautivaron peleando con muchas heridas a don Diego Osorio, que venía con despachos del Rey para don Juan y el Duque, en que se trataba la resolución de la guerra, y por la mano del Habaqui.»",
-                  "autor": "Mend.",
-                  "referencia_obra": "Guerra de Gran. (Cl. Castal. 22. 358). — El lugar. X"
+                  "id_limpio": "—",
+                  "definicion": "El medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cautivaron peleando con muchas heridas a don Diego Osorio, que venía con despachos del Rey para don Juan y el Duque, en que se trataba la resolución de la guerra, y por la mano del Habaqui.»",
+                      "autor": "Mend.",
+                      "referencia_obra": "Guerra de Gran. (Cl. Castal. 22. 358)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Me paresce que este lugar queda muy perjudicado con que se traten en él cosas de dolor.»",
-                  "autor": "Gil Polo",
-                  "referencia_obra": ", Diana (Cl. C. 135. 121). X"
-                },
-                {
-                  "texto_cita": "«La segunda división de sermones es que en unos se trata un solo tema.»",
-                  "autor": "F. Terrones",
-                  "referencia_obra": ", Instrucción (Cl. C. 126. 49)."
+                  "id_limpio": "—",
+                  "definicion": "El lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Me paresce que este lugar queda muy perjudicado con que se traten en él cosas de dolor.»",
+                      "autor": "Gil Polo",
+                      "referencia_obra": ", Diana (Cl. C. 135. 121)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La segunda división de sermones es que en unos se trata un solo tema.»",
+                      "autor": "F. Terrones",
+                      "referencia_obra": ", Instrucción (Cl. C. 126. 49)."
+                    }
+                  ]
                 }
               ]
             }
@@ -212,109 +296,150 @@
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Impers. X",
+          "definicion": "Impers.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Una vez que Carlos dio fin a su trova, suplicó a mi hermana y a María que cantasen también. Esta parecía no haber caído en cuenta de lo que se trataba.»",
               "autor": "Isaacs",
               "referencia_obra": ", María, p. 89."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Entiendo —contestó Mariño con una sonrisa indefinible, comprendiendo que se trataba de alguna víctima, pues que el hombre que entraba en su cuartel de serenos, no salía de allí sino para la eternidad.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 3 (p. 288). X"
+                  "referencia_obra": ", Amalia, 3 (p. 288)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pensaba él, y pensará sin duda todavía, que, tratándose de una amistad en que tanto disfrutan los amigos como las amigas, si no ellas más, era demasiado justo y puesto en razón el que alguna vez las damas se tornasen de regaladas en regaladoras.»",
                   "autor": "Carrasquilla",
-                  "referencia_obra": ", Frutos, 16 (p. 186). X"
+                  "referencia_obra": ", Frutos, 16 (p. 186)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Poco a poco he ido experimentando una de las más intensas, de las más enormes sensaciones estéticas de mi vida de lector. Se trata del libro de Catalina Emmerich.»",
                   "autor": "Azorín",
                   "referencia_obra": ", La voluntad (Cl. Castal. 3. 264)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Intrans. X",
+          "definicion": "Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Quiero escuchar lo que tratan, | Escondida desde aquí.»",
               "autor": "Tirso",
               "referencia_obra": ", Marta la piadosa (Cl. Ebro, 44. 94)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, que señala el modo. X",
+              "definicion": "Con la prep. con, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«GIison trató con excelencia y novedad del hígado; Warton, de las glándulas.»",
                   "autor": "Feijóo",
-                  "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 182). X"
+                  "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 182)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y no hablemos más de lo que es accesorio en el arte de Cervantes, aunque no sea lícito tratarlo con el desdén e irreverencia que afectan algunos singulares cervantistas de última hora.»",
                   "autor": "Menéndez y Pelayo",
                   "referencia_obra": ", Estudios, p. 96."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de, que indica el objeto de la gestión o el debate. X",
+              "definicion": "Con de, que indica el objeto de la gestión o el debate.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Oyó cerca de sí entre unas matas el susurro de las voces de algunos moros, que habiendo cenado en tierra con regocijo trataban de sus hurtos, porque acostumbran que lo que en un lugar prenden lo venden en otro.»",
                   "autor": "Lope",
-                  "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 140). X"
+                  "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 140)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sinforosa, antes de tratar de su causa, quiso tratar de la de su padre.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Pers. (Cl. Castal. 12. 186). X"
+                  "referencia_obra": "Pers. (Cl. Castal. 12. 186)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Forasteros | Más tratan de su negocio, | Que de tantas menudencias.»",
                   "autor": "Tirso",
-                  "referencia_obra": ", Amor médico, 1 (Cl. C. 131. 6). — Siendo el término una prop. subjuntiva. X"
-                },
+                  "referencia_obra": ", Amor médico, 1 (Cl. C. 131. 6)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Comencé a tratar de que se nos buscase casa alquilada, costase lo que costase.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Fund. (Cl. C. 115. 127)."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término una prop. subjuntiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Comencé a tratar de que se nos buscase casa alquilada, costase lo que costase.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Fund. (Cl. C. 115. 127)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, que señala el lugar. X",
+              "definicion": "Con en, que señala el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cierto que yo recomendé el asunto al diputado que lo trató en las Cortes.»",
                   "autor": "Pereda",
-                  "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 164). — Con la expresión en su nombre. X"
-                },
+                  "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 164)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«De las catorce provincias que forman la República, siete han retirado al general Rosas la facultad de tratar en su nombre.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 5 (p. 573)."
+                  "id_limpio": "—",
+                  "definicion": "Con la expresión en su nombre.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«De las catorce provincias que forman la República, siete han retirado al general Rosas la facultad de tratar en su nombre.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 5 (p. 573)."
+                    }
+                  ]
                 }
               ]
             }
@@ -323,37 +448,45 @@
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«(¡Linda ventura tenemos! | Pídole a Otavio a Finea, | Y cuando a decirle vengo | El casamiento tratado, | Hallo que a su ser se ha vuelto).»",
               "autor": "Lope",
-              "referencia_obra": ", La dama de boda, 3 (Cl. C. 159. 252). X"
+              "referencia_obra": ", La dama de boda, 3 (Cl. C. 159. 252)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tratado su casamiento, | Las previno mi señora; | Y habiendo perdido agora, | Con la esperanza, el intento | De ese estado, determina | Tomar el de religión.»",
               "autor": "Alarcón",
               "referencia_obra": ", El examen de maridos, 22 (Cl. C. 146. 149)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Forma la expresión en trantándose de. X",
+          "definicion": "Forma la expresión en trantándose de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«De varias trazas eran, genios, modos; | Y aunque de armas tomar ninguno fuera | (porque de los cincuenta pasan todos), | Son por una mismísima tijera | Cortados en tratándose de godos.»",
               "autor": "Bello",
-              "referencia_obra": ", Poes. p. 588. X"
+              "referencia_obra": ", Poes. p. 588."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y ésta es la razón por qué, en tratándose de los católicos, no se ha querido que el principio político dominante diera sus consecuencias, se le ha desnaturalizado.»",
               "autor": "Balmes",
               "referencia_obra": ", Escritos polít. p. 103."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -361,125 +494,154 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Tener relaciones sociales, tener amistad (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Esta soberbia me dio | De experiencia el tiempo ingrato, | Pues entre muchos que trato | No hallo un hombre como yo.»",
               "autor": "",
-              "referencia_obra": "G. de Castro, Los mal casados (Cl. Castal. 76. 240). X"
+              "referencia_obra": "G. de Castro, Los mal casados (Cl. Castal. 76. 240)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De mañana daremos una vuelta y os pondré, como digo, con quien los conoció y trató gran tiempo.»",
               "autor": "Alemán",
-              "referencia_obra": ", Guzmán, 1. 3 (Cl. C. 83. 169). X"
+              "referencia_obra": ", Guzmán, 1. 3 (Cl. C. 83. 169)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Es persona discreta | A quien podéis tratar sin etiqueta, | Y que holgará de conoceros.»",
               "autor": "Bello",
-              "referencia_obra": ", Poes. p. 352. X"
+              "referencia_obra": ", Poes. p. 352."
             },
             {
+              "marca": "X",
               "texto_cita": "«Agustina tiene un especial empeño en tratarte, y ha buscado este medio.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 2 (p. 181). X"
+              "referencia_obra": ", Amalia, 2 (p. 181)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo tengo que vivir en el mundo, tengo que tratar a las gentes, tengo que verlas, y no he de arrancarme los ojos.»",
               "autor": "Valera",
               "referencia_obra": ", Pepita Jiménez, p. 46."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la expresión a poco. X",
+              "definicion": "Con la expresión a poco.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Evita asimismo los amigos y protectores ricos y necios. A poco que los trates te verás convertido en su amanuense o en su lacayo.»",
                   "autor": "Ramón y Cajal",
                   "referencia_obra": ", Charlas de café, 1 (p. 15)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. X",
+          "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Condición de este Don Roque, | El cual con nadie se trata, | Y es su casa una prisión, | Eternamente cerrada.»",
               "autor": "Mor.",
-              "referencia_obra": "El viejo y la niña, p. 28. X"
+              "referencia_obra": "El viejo y la niña, p. 28."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entristece reconocer que cuando mayor es el mérito literario o científico de los hombres, menos se conocen entre sí y más injustamente se tratan.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Charlas de café, 9 (p. 185)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando se trata con personas de alguna advertencia, contribuye a la persuasión hacer primero la experiencia de manifestar adónde hay cauces de agua ocultos.»",
                   "autor": "Feijóo",
                   "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 44)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Intrans. Con la prep. con. X",
+          "definicion": "Intrans. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Un caballero de Ávila, llamado don Rafael, con quien yo jamás había tratado no sé cómo que no me acuerdo, vino a entender que se quería hacer un monesterio de Descalzos.»",
               "autor": "Sta. Ter.",
-              "referencia_obra": "Fund. (Cl. C. 115. 218). X"
+              "referencia_obra": "Fund. (Cl. C. 115. 218)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Me parece que ese señor está poco habituado a tratar con caballero —dijo Mariño.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 2 (p. 234). X"
+              "referencia_obra": ", Amalia, 2 (p. 234)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Terció Crescencio y nos separó. Esto le pasa a uno por tratar con gitanos.»",
               "autor": "Delibes",
               "referencia_obra": ", Diario de un cazador, p. 207."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. Con en. X",
+          "definicion": "Part. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ansí se criavan estos donzeles en la corte del soldán, que no fueran más bien tratados ni mirados si en las cortes de sus padres estuvieran.»",
               "autor": "Ortúñez de Calahorra",
               "referencia_obra": ", Espejo 1 (Cl. C. 193. 135)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -487,49 +649,61 @@
     {
       "id": "b)",
       "definicion": "Tener relaciones amorosas (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Dexa, jayán, de tratar essa donzella de tal suerte. Mira ques gran villanía en los hombres poner manos en mugeres.»",
               "autor": "Ortúñez de Calahorra",
               "referencia_obra": ", Espejo, 1 (Cl. C. 193. 259)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Intrans. Con la prep. con. X",
+          "definicion": "Intrans. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Corrida estoy no poco de ver no lo estéys más de lo que yo estáys de aver tenido atrevimiento de llegar a mi cama esta noche a tratar conmigo, sabiendo de la suerte que estoy.»",
               "autor": "Avell.",
-              "referencia_obra": "Quij. 6. 16 (Cl. C. 175. 76). X"
+              "referencia_obra": "Quij. 6. 16 (Cl. C. 175. 76)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Para ti eso es un juego. Y más con estos pobres diablos, que apenas tratarán con mujeres.»",
               "autor": "Buero Vallejo",
               "referencia_obra": ", Concierto (Cl. Castal. 35. 118)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de y una prop. infinitiva, que indica la finalidad. X",
+              "definicion": "Con de y una prop. infinitiva, que indica la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En cuanto a los hombres que venían a las fiestas ---, era evidente que trataban de acostarse con Oona alentados por ella, por sus constantes coqueterías y provocaciones.»",
                   "autor": "Mendoza",
                   "referencia_obra": ", Años de fuga, 4. 2 (p. 296)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -538,189 +712,232 @@
     {
       "id": "c)",
       "definicion": "Proceder bien o mal con una persona, de obra o de palabra (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pues Nise, trátame bien.»",
               "autor": "Lope",
-              "referencia_obra": ", La dama boba, 3 (Cl. Cl. 159. 234). X"
+              "referencia_obra": ", La dama boba, 3 (Cl. Cl. 159. 234)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se debe enseñar al príncipe que trate a los que manda como él quisiera ser tratado.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 1. 20 (Cl. C. 76. 186). X"
+              "referencia_obra": "Emp. 1. 20 (Cl. C. 76. 186)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Al reverendísimo, eruditísimo, sabio y discreto maestro y señor Feijoo le trata como pudiera a un monaguillo.»",
               "autor": "Isla",
-              "referencia_obra": ", Fr. Ger. (Cl. C. 148. 24). X"
+              "referencia_obra": ", Fr. Ger. (Cl. C. 148. 24)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No me diga Usía. Tráteme como quiera, no más.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 3 (p. 274). X"
+              "referencia_obra": ", Amalia, 3 (p. 274)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entonces a hombre y mujeres | Vida, tormentos y placeres, | Grandezas, glorias y poderes. | Los tratamos cual ellos son.»",
               "autor": "Pombo",
-              "referencia_obra": ", Antol. poét. p. 39. X"
+              "referencia_obra": ", Antol. poét. p. 39."
             },
             {
+              "marca": "X",
               "texto_cita": "«Nos tratan como mulas de carga!...»",
               "autor": "Carrasquilla",
               "referencia_obra": ", Frutos, 1 (p. 7)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, que señala el modo. X",
+              "definicion": "Con la prep. con, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Siempre le trata con ira.»",
                   "autor": "Castillejo",
-                  "referencia_obra": ", Serm. de amores (Cl. C. 72. 42). X"
+                  "referencia_obra": ", Serm. de amores (Cl. C. 72. 42)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Muy bien sabéis con qué regalos le crié, con qué amor lo traté.»",
                   "autor": "Gil Polo",
-                  "referencia_obra": ", Diana (Cl. C. 135. 104). X"
+                  "referencia_obra": ", Diana (Cl. C. 135. 104)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Le tratáis con amor.»",
                   "autor": "Castillejo",
-                  "referencia_obra": ", Obr. de amores (Cl. C. 79. 70). X"
+                  "referencia_obra": ", Obr. de amores (Cl. C. 79. 70)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mas si veis la perfección | Que Dios me dio sin tramoya, | ¿queréis que trate esta joya | Con menos estimación.»",
                   "autor": "Mto.",
                   "referencia_obra": "El lindo D. Diego, 1 (Cl. C. 32. 49)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, que indica la situación. X",
+              "definicion": "Con en, que indica la situación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Casandra murmura | Que le ha tratado mal en esta ausencia.»",
                   "autor": "Lope",
                   "referencia_obra": ", El castigo sin venganza (Cl. Castal. 25. 351)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. X",
+          "definicion": "Pas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los que quieran quedarse, serán tratados como hermanos y tendrán su protección...»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 3. 18 (p. 326)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tenemos que contemplar así mismo la inmunda crueldad con que son tratados los infelices jamelgos.»",
                   "autor": "Valera",
                   "referencia_obra": ", Pasarse de listo, 1 (5. 14)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Así se trata a un grande cortesano?»",
               "autor": "",
-              "referencia_obra": "J. Cánces, El Cortesano (Ramillete de entremeses; Cl. Castal. 21. 284). X"
+              "referencia_obra": "J. Cánces, El Cortesano (Ramillete de entremeses; Cl. Castal. 21. 284)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Señor don Leandro | Vaya en hora mala, | Que no puede en buena | Quien tan mal se trata.»",
               "autor": "Quev.",
-              "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 328). X"
+              "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 328)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tres años de constancia y de amor, me dan derecho a interrogar por la causa de un procedimiento semejante y a pedir la razón del modo por que así se me trata.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 1 (p. 128)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Recípr. X",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Siendo todos mahometanos, se tratan recíprocamente como herejes.»",
               "autor": "Feijóo",
               "referencia_obra": ", Teatro crít. 1 (Cl. C. 48. 270)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Part. Con la prep. con. X",
+          "definicion": "Part. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No puede haber en Turquía | Captiverio más esquivo | Que el del amante captivo | Tratado con tiranía, | Sin favor.»",
               "autor": "Castillejo",
               "referencia_obra": ", Serm. de amores (Cl. C. 72. 41)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Aplicado a los animales. X",
+          "definicion": "Aplicado a los animales.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Son tan animosos, [unos ratones bandoleros] que muchas veces nos acometen y tratan muy mal.»",
               "autor": "",
-              "referencia_obra": "Salas de Barbadillo, La peregrinación sabia (Cl. C. 57. 17). X"
+              "referencia_obra": "Salas de Barbadillo, La peregrinación sabia (Cl. C. 57. 17)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los médicos tenemos mucho adelantado para no alcanzar la decrepitud. Tratamos irrespetuosamente a los microbios, y ellos, naturalmente, adoptan represalias.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Charlas de café, 3 (p. 78)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, que señala el modo. X",
+              "definicion": "Con la prep. con, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La mayoría de los parásitos animales tratan a sus víctimas con miramientos casi piadosos.»",
                   "autor": "Ramón y Cajal",
                   "referencia_obra": ", Charlas de café, 10 (p. 214)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -728,105 +945,128 @@
     },
     {
       "id": "d)",
-      "definicion": "Motejar a una persona (trans.). Con de y un adjetivo despectivo o injurioso. X",
+      "definicion": "Motejar a una persona (trans.). Con de y un adjetivo despectivo o injurioso.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«No niego yo que el vino es importante, | No quiero desmentir el gran Galeno, | Ni a Hipócrates tratarlo de ignorante.»",
           "autor": "L. Argens.",
-          "referencia_obra": "(Pagés, Dicc.). X"
+          "referencia_obra": "(Pagés, Dicc.)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Cuando... pedí que a tenor de dicho bando se me hiciese justicia, me trató de loco.»",
           "autor": "Gallego",
           "referencia_obra": "(Pagés, Dicc.)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "e)",
-      "definicion": "Cuidarse bien o mal, especialmente en orden a la comida, vestido, etc. (refl.). X",
+      "definicion": "Cuidarse bien o mal, especialmente en orden a la comida, vestido, etc. (refl.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Aunque hacían vida retirada, como todo está caro, y se trataba bien, y se vestían con cierto lujo para su clase, renta y sueldo se consumían completamente, y gracias si no se hallaban a veces en apuros.»",
           "autor": "Valera",
           "referencia_obra": ", Pasarse de listo, 4 (5. 51)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
       "definicion": "Procurar el logro de algún fin, intentar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con una prop. en subjuntivo como acus. X",
+          "definicion": "Con una prop. en subjuntivo como acus.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Bajándose del terrado a tratar que se aderezase la cena, y a salir un poco por la ciudad a su insigne Alameda.»",
               "autor": "Guev.",
               "referencia_obra": "Diablo coj. 7 (Cl. C. 38. 211)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. Con de y una prop. infinitiva. X",
+          "definicion": "Pas. refl. Con de y una prop. infinitiva.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si se tratase de defenderla de un hombre, de dos hombres, de más que fuesen, con la espada en la mano, yo te dejaría muy tranquilo el placer de entretenerte con ellos.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 3 (p. 333). X"
+              "referencia_obra": ", Amalia, 3 (p. 333)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Nada le debes prometer a María, pues que la promesa de ser su esposo, una vez cumplido el plazo que he señalado, haría vuestro trato más íntimo, y es precisamente lo que se trata de evitar.»",
               "autor": "Isaacs",
               "referencia_obra": ", María, p. 45."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Intrans. Con de y una prop. infinitiva. X",
+          "definicion": "Intrans. Con de y una prop. infinitiva.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿No os turbais? Todo se sabe | Que tratastes de dar muerte | A mi hermano.»",
               "autor": "Rojas",
-              "referencia_obra": ", Morir pensando en matar (Cl. C. 153. 97). X"
+              "referencia_obra": ", Morir pensando en matar (Cl. C. 153. 97)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La revolución de los Estados Unidos fue un movimiento nacional, fue la explosión de un sentimiento de independencia y libertad; y cuando el pueblo emancipado trató de constituírse lo hizo no por el prurito de vanas teorías, sino satisfaciendo una imperiosa necesidad.»",
               "autor": "Balmes",
               "referencia_obra": ", Escritos polít. p. 261."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
       "id": "4",
-      "definicion": "Someterse a la curación de una enfermedad (prnl.). X",
+      "definicion": "Someterse a la curación de una enfermedad (prnl.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Fue un puro golpe de curiosidad el que lo metió en la ventolera de visitar al médico para tratarse un dolor que no tenía.»",
           "autor": "García Márquez",
           "referencia_obra": ", Cien años de soledad, p. 94."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «Holgança le restituya la fuerça, Plazer le abiuaua el entendimiento; y en tal manera lo trataron que quando lo que Laureola le escriuió acabó de leer, estaua tan sano como si ninguna pasión vuiera tenido.» D. de S. Pedro. Cárcel de amor (Cl. C. 133. 146). X «Assí que non ay cosa fuerte, | Que a papas y emperadores | E perlados, | Assí los trata la Muerte | Como a los pobres pastores | De ganados.» J. Manr. Canc. (Cl. C. 94. 96). X «Ni me libra, ni me suelta, | Ni m'oluida, | Mas de tal guisa me tracta.» Id. ib. (Cl. C. 94. 39). X «Los libros que escrivio [Sanct Isidro] fueron muchos: como el Chrónico que trata desde el prinçipio del mundo hasta el tiempo.» Arc. de Talav. Vida de S. Isid. (Cl. C. 134. 77).\n\n— Siglo XIII: X «Tractaron con el obispo todo este consejo; | Tóvolo el obispo por muy bono sobejo.» Berc. S. Dom. (Cl. Castal. 49. 102).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. tractare 'traer', frecuentativo de trahere 'traer, declarar, decir'. It. trattare, fr. traiter, cat. tractar.\n\n\u0000",
+  "etimologia": "Etim. Del lat. <i>tractare</i> 'traer', frecuentativo de <i>trahere</i> 'traer, declarar, decir'. It. <i>trattare</i>, fr. <i>traiter</i>, cat. <i>tractar</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",

@@ -1,83 +1,101 @@
 {
   "lema": "ABSOLVER.",
   "categoria_gramatical": "v",
-  "introduccion": "v.\n\nEl sentido material etimológico es Desatar; pero como las acepciones no se han desenvuelto en castellano, sino que se han tomado del latín, no siempre se percibe la conexión de ellas entre sí; por lo cual se indicará en cada caso la metáfora que ha servido de base.",
+  "introduccion": "El sentido material etimológico es Desatar; pero como las acepciones no se han desenvuelto en castellano, sino que se han tomado del latín, no siempre se percibe la conexión de ellas entre sí; por lo cual se indicará en cada caso la metáfora que ha servido de base.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "Dar por libre de algún cargo ú obligación; esto es, dejar á alguno libre de lo que moralmente le ataba (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con de, para expresar el cargo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En este medio, por muerte de Boodes ó por habelle absuelto del gobierno, Maharbal vino por gobernador de España.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 2. 5 (R. 30. 331)."
             },
             {
+              "marca": "",
               "texto_cita": "«Para este propósito absolvieron á los grandes del pleito homenaje que hicieran á Wamba.»",
               "autor": "",
               "referencia_obra": "Id. ib. 6. 17 (R. 30. 1742)."
             },
             {
+              "marca": "",
               "texto_cita": "«Absolvióle del voto que tenía hecho de ir á la Tierra Santa.»",
               "autor": "",
               "referencia_obra": "Id. ib. 10. 3 (R. 30. 2802)."
             },
             {
+              "marca": "",
               "texto_cita": "«Juntaron capítulo, en que absolvieron del maestrazgo á don Garcí López de Padilla, y pusieron en su lugar á don Alemán, comendador de Zorita.»",
               "autor": "",
               "referencia_obra": "Id. ib. 15. 4 (R. 30. 4342)."
             },
             {
+              "marca": "",
               "texto_cita": "«Desde aquel día absolvía á los gobernadores de aquel cargo, y mandaba que las provisiones y cartas reales en adelante se robrasen con su sello.»",
               "autor": "",
               "referencia_obra": "Id. ib. 19. 1 (R. 31. 322)."
             },
             {
+              "marca": "",
               "texto_cita": "«Absuelve á los vasallos y súbditos de la obediencia y juramento hecho al rey.»",
               "autor": "Rivad.",
               "referencia_obra": "Cisma, 1. 30 (R. 60. 2152)."
             },
             {
+              "marca": "",
               "texto_cita": "«Todos saben y todos creen que en las necesidades públicas y extremas la falta de medios absuelve al estado de toda obligación.»",
               "autor": "Jovell.",
               "referencia_obra": "Carta á Campomanes (R. 50. 1401)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Alcanzó todo aquello que á pretender había ido, conviene á saber, que el legado fuese absuelto de aquel cargo y volviese á Roma.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 9. 18 (R. 30. 2702)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se negó á abrir las puertas del castillo, diciendo haber jurado al gobernador de la isla no entregarle á otro que á él, bien que advertido de que estaba ausente y que el veguer ejercía sus veces, y absuelto de su juramento, las abrió, y franqueó la entrada.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Mem. del Castillo de Bellver (R. 46. 4182)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No por hallarse destinados á seguir la carrera de las letras en las escuelas públicas, están absueltos de las obligaciones religiosas que contrajeron en su profesión.»",
                   "autor": "",
                   "referencia_obra": "Id. Regl. del col. de Calatr. 1. 2 (R. 46. 1722)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -85,23 +103,28 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "En ocasiones el cargo aparece en acus. y la persona en dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Absuélveme el homenaje. | — Sí absuelvo.»",
               "autor": "Lope",
               "referencia_obra": ", La campana de Aragón, 3 (R. 41. 572)."
             },
             {
+              "marca": "",
               "texto_cita": "«Dios al fin me ha vengado, | Amado padre mío, y ya me absuelve | La fe que os he jurado.»",
               "autor": "",
               "referencia_obra": "Id. Dineros son calidad, 1. 12 (R. 41. 622)."
             },
             {
+              "marca": "",
               "texto_cita": "«Jamás podremos hallarla [la conformidad], | Viviendo juntos. — Lo mismo | Digo yo, y por esta causa | De la palabra te absuelvo. | — Yo te absuelvo la palabra; | Que ver siempre al homicida | De mi hermano en mesa y cama | Me ha de dar pena.»",
               "autor": "",
               "referencia_obra": "Id. La estrella de Sevilla, 3. 18 (R. 24. 1533)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -109,37 +132,47 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Dejar libre remitiendo la culpa ó declarando inocente.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Vos mismo, que justamente condenáis, piadosamente absolvéis.»",
               "autor": "Gran.",
               "referencia_obra": "Adic. al Mem. med. 16, § 4 (R. 8. 5572)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl. Defenderse, vindicarse (raro).",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tal fue | La turbación, que callando | Ni se absuelve ni disculpa.»",
                   "autor": "Cald.",
                   "referencia_obra": "Saber del mal y del bien, 1. 5 (R. 7. 213)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -147,54 +180,67 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con acus. de pers., y de para expresar la culpa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Solamente el perdón del eterno Padre nos puede enteramente librar de nuestros pecados, y absolvernos de nuestras deudas.»",
               "autor": "Gran.",
               "referencia_obra": "Doctr. crist, 3. 4, § 6 (R. 11. 1432)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "El cargo puede representarse con un adjetivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El éxito únicamente podía absolver de temeraria esta bizarría.»",
                   "autor": "Quint.",
                   "referencia_obra": "R. de Lauria (R. 19. 2201)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Se usa también hablando de la sentencia que condena, y aun de la misma pena.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mandamos que, si el mismo rey con humildad lo pidiere, por vuestra autoridad le absolváis en la forma acostumbrada de la sentencia de descomunión.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 18. 18 (R. 31. 312)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Dícese Absolver de culpa y de pena, ó Absolver á culpa y á pena.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mas diréis: Padre, pues el sacramento de la penitencia no vale para eso, ¿cómo vale el baptismo, que lo quita todo absolviendo al hombre de culpa y de pena?»",
                   "autor": "Gran.",
                   "referencia_obra": "Mem. vida crist. 2. 3. 1 (R. 8. 2351)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se ha de considerar la eficacia de aquella palabra: Tus pecados te son perdonados, con la cual la absolvió á culpa y á pena.»",
                   "autor": "Puente",
                   "referencia_obra": ", Medit. 3. 25 (2. 184)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -202,16 +248,28 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "A veces aparece el delito en acus.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Esta muerte no excitará el aura más leve de acusación; su madre misma absolverá el hecho juzgándole casual.»",
               "autor": "Mor.",
-              "referencia_obra": "Hamlet, 4. 23 (R. 2. 536). —"
-            },
+              "referencia_obra": "Hamlet, 4. 23 (R. 2. 536)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Por este pues que va condenado al monte Calvario, son absueltos los pecados del mundo.»",
-              "autor": "Gran.",
-              "referencia_obra": "Adic. al Mem. med. 16, § 4 (R. 8. 5572)"
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Por este pues que va condenado al monte Calvario, son absueltos los pecados del mundo.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "Adic. al Mem. med. 16, § 4 (R. 8. 5572)"
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -219,13 +277,16 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Tiene conexión con la construcción precedente la del pasaje que sigue, en que vale Redimir.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con sangre de una víctima que ofrecen | Absuelven el castigo que merecen.»",
                   "autor": "Lope",
                   "referencia_obra": ", Angél. 7 (Obr. suelt. 2. 111)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -234,42 +295,52 @@
     {
       "id": "b)",
       "definicion": "En especial, Dar por libre al reo demandado civil ó criminalmente (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los promotores fiscales de las justicias inferiores, y los fiscales del crimen en las chancillerías y audiencias, podrán, no contraviniendo á las reglas generales del derecho, apelar ó suplicar de las sentencias pronunciadas aun en las causas criminales en que se prohibe la apelación ó súplica á los reos, si por ventura como suele suceder, se les absuelve injustamente, ó se les impone menor pena de la establecida.»",
               "autor": "",
               "referencia_obra": "Febr. novís. 4, p. 831."
             },
             {
+              "marca": "",
               "texto_cita": "«Soy de parecer que digáis á esos señores [jueces] que á mí os enviaron, que, pues están en un fiel las razones de condenarle ó absolverle, que le dejen pasar libremente.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 51 (R. 1. 5112)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con de para expresar el delito.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Aquí soy tu amigo; allí | Soy tu rey: aquí te absuelvo | De los delitos, y allí | Te he de castigar por ellos.»",
               "autor": "Tirso",
               "referencia_obra": ", El rey don Pedro en Madrid, 3. 11 (R. 5. 6082)."
             },
             {
+              "marca": "",
               "texto_cita": "«A Menelao, reo de toda maldad, le absolvió de todos sus delitos; y á aquellos infelices, que se declararían inocentes aun cuando tratasen su causa entre los escitas, los condenó á muerte.»",
               "autor": "Scío",
               "referencia_obra": ", Macab. 2. 4. 47."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -277,33 +348,49 @@
     {
       "id": "c)",
       "definicion": "Por extensión ó metafóricamente se aplica á cualquier decisión que se representa como dada por un juez.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Suponiendo que esta ley fuese obligatoria en el caso extraordinario á que quiere aplicarse, es claro que los constituyentes del Gobierno Central sólo pudieron pecar contra ella en dos puntos: primero en no juntar las Cortes para instituír el gobierno del reino conforme á la ley; segundo en haberle instituído en mayor número de personas, que el señalado por la ley --- El que los absuelva en el primer cargo, no podrá condenarlos en el segundo.»",
           "autor": "Jovell.",
           "referencia_obra": "Def. de la Junta Central, 6. 1 (R. 46. 5131)."
         },
         {
+          "marca": "",
           "texto_cita": "«Mas el único juez es el oído: | Escucha, falla, ordena, | Absuelve grato ó rígido condena.»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", Poét. 3 (1. 103)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "En especial, Remitir á un penitente sus pecados en el tribunal de la confesión, ó levantarle las censuras en que hubiere incurrido. Con acus. de la persona y de.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Llegó el cura presto, por ver si por algunas señales daba indicios de arrepentimiento de sus pecados para absolverle dellos.»",
           "autor": "Cerv.",
-          "referencia_obra": "Nov. 6 (R. 1. 1712). —"
-        },
+          "referencia_obra": "Nov. 6 (R. 1. 1712)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Vino á preguntarle si había incurrido en alguna excomunión, de que no estuviese absuelto.»",
-          "autor": "Gran.",
-          "referencia_obra": "Símb. 2. 29, § 10 (R. 6. 3712)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Vino á preguntarle si había incurrido en alguna excomunión, de que no estuviese absuelto.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 29, § 10 (R. 6. 3712)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -311,93 +398,114 @@
     {
       "id": "e)",
       "definicion": "En general. Dejar libre.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Si desta pena absuelto | Alguna vez me viese, | No prisión trabajosa, | Mas libertad dichosa, | Sería para mí cuando así fuese»",
           "autor": "",
           "referencia_obra": "Cetina, canc. 1 (R. 32. 412)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
       "definicion": "Resolver, poner en claro una cuestión ó duda propuesta al efecto (trans.). Hoy tiene poco uso fuera del foro, donde se usa especialmente tratándose de posiciones ó declaraciones (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Querría yo que el señor gobernador me absolviese ciertas dudas que tengo.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 33 (R. 1. 4752)."
             },
             {
+              "marca": "",
               "texto_cita": "«Con todo eso querría que vuesa merced me sorbiese una duda que ahora en este punto me ha venido á la memoria. Asolviese quieres decir, Sancho, dijo D. Quijote.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 8 (R. 1. 4202)."
             },
             {
+              "marca": "",
               "texto_cita": "«Suplícote por quien eres nos absuelvas esta duda.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 1. 1. 8 (R. 3. 2082)."
             },
             {
+              "marca": "",
               "texto_cita": "«La duda absuelves. | Tu ingenio me maravilla.»",
               "autor": "Lope",
               "referencia_obra": ", El desprecio agradecido, 3. 18 (R. 34. 2663)."
             },
             {
+              "marca": "",
               "texto_cita": "«Que en la corte, do se junta | Tanta risa y tanto lloro, | Haya quien nos tome el oro | Y absuelva cualquier pregunta --- | ¿Qué maravilla?»",
               "autor": "Góng.",
               "referencia_obra": "letr. 38 (R. 32. 4983)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pero tal duda no absuelvo, | Porque, en allegando al quinto | No hay quien no sepa del sexto.»",
               "autor": "",
               "referencia_obra": "Id. letr. 58 (R. 32. 5031)."
             },
             {
+              "marca": "",
               "texto_cita": "«Con saber quién es mañana, | ¿Todas las dudas no absuelvo?»",
               "autor": "Cald.",
               "referencia_obra": "Mejor está que estaba, 2. 15 (R. 7. 2361)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si éste es el espíritu del cargo, poco nos costará absolverle, y aun hacerle recaer sobre nuestros censores.»",
               "autor": "Jovell.",
               "referencia_obra": "Def. de la Junta Central, 1. 1 (R. 46. 5201)."
             },
             {
+              "marca": "",
               "texto_cita": "«Entonces se cuidará de que se observe y siga bien esta forma [la silogística]; de que el sustentante resuma y absuelva las proposiciones según ella, y de que se guarde el rito y el lenguaje que admite este método.»",
               "autor": "",
               "referencia_obra": "Id. Regl. del col. de Calatr. 2. 5 (R. 46. 2211)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los colegiales á quienes se dirigieren las preguntas, las absolverán con la mayor claridad y exactitud que pudieren.»",
               "autor": "",
               "referencia_obra": "Id. ib. (R. 46. 2251)."
             },
             {
+              "marca": "",
               "texto_cita": "«También puede pedir una parte á la otra todas las declaraciones ó posiciones que tenga por conveniente de una vez ó de muchas, con tal que conciernan al pleito y no sean sobre lo confesado claramente; y el juez debe deferir y apremiar al preguntado á que las absuelva categóricamente.»",
               "autor": "Febr. novís.",
               "referencia_obra": "3, p. 223."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pues con decir que se fue, | Todas las dudas se absuelven.»",
                   "autor": "Cald.",
                   "referencia_obra": "Mejor está que estaba, 1. 16 (R. 7. 2302)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -406,36 +514,45 @@
     {
       "id": "4",
       "definicion": "Acabar, concluír. La metáfora, según conjetura Freund, se toma del acto de desatar del telar la tela ya terminada. Hoy tiene poco uso.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A sus aras llegó, donde devoto | Su camino absolvió, cumplió su voto.»",
               "autor": "Góng.",
               "referencia_obra": "rom. 108 (R. 32. 5462)."
             },
             {
+              "marca": "",
               "texto_cita": "«Nuestro deseo es que estos dos importantes ramos del estudio preliminar canónico se absuelvan enteramente en el invierno y verano del primer año de cánones.»",
               "autor": "Jovell.",
               "referencia_obra": "Regl. del col. de Calatr. 2. 5 (R. 46. 2251)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Estoy acabando la ordenanza y plan para mi nueva escuela, y por eso he interrumpido el trabajo sobre la Ley Agraria, en que están enteramente absueltas la primera y segunda parte.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Corresp. con Posada (R. 50. 1831)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -444,11 +561,11 @@
   ],
   "periodo_anteclasico": "Per. antecl.\n\n— Siglo XV: «Yo los absolvo e relievo, e do por libres e quitos dellas.» Docum. de 1473 (Berg. Antigüed. 2. 243). «Yo de mi pecado me absuelvo.» Santill. p. 75. «Aquesta cuestion ya está absuelta por lo que la Sabiduría determinó fablando de la providencia de Dios.» Vis. delect. 2. 8 (R. 36. 3872). «E para absolver las nuestras quistiones, | Tomo por jues al lyndo, amoroso --- | Ferrant Manuel con sus distynçiones.» Canc. de Baena., p. 463. «E de todo lo passado | Vos asuelvo con paciençia.» Ib. p. 147.\n\n— Siglo XIV: «Allí tomó penitençia | E muy bien lo asoluieron.» Alf. XI, 1514 (R. 57. 5231). «Ficieron pleyto, et omenage, et jura sobre los sanctos evangelios; et si contra ello fuesen, que nunca fuesen absueltos sinon por el Papa.» Crón. Alf. XI, 17 (R. 66. 1861). «Por contriçión e lagrimas la santa Magdalena | Fue quita et absuelta de culpa e de pena.» Arc. de Hita, 1115 (R. 57. 2622). «Asolved a mi comadre, váyase de las callejas.» Id. 328 (R. 57. 2372). «Si la parte sabia que eran descomulgadas las pruebas quando las traxo --- entonce su testimonio non es verdadero --- ca él les debiera ante facer absolver, o atender fasta que fuesen absueltos.» Leyes del est. 177 (O. L. 2. 310).\n\n— Siglo XIII: «Sean descomungados fasta que fecieren ende enmienda á la Eglesia, et sean asueltos per aquel que los puede soltar.» Conc. de León, año 1267 ( Esp. Sagr. 36. 248). «Santa eglesia estableció tres reglas sobre la descomunion: la primera es que ningun menor non puede descomulgar nin asolver á su mayoral: la segunda que qualquier que puede descomulgar puede asolver: la tercera que quien puede asolver puede descomulgar.» Part. 1. 9. 7 (1. 333). «Roma es el lugar señalado o se va a absolver el que mete manos iradas en clérigo.» Part. 1. 9. 4 (1. 330). «Débele luego absolver despues que se le hobiese confesado de sus pecados. «Part. 1. 4. 89 (1. 155). «Penitenciar pueden et absolver los prestes á los que se les confiesan.» Part. 1. 4. 75 (1. 136.) «Estos [perlados] han poder de los absolver porque pueden oír las confesiones.» Part. 1. 4. 74 (1. 136). «Si non veniere, e el juyzio fuer por él, deve seer absuelto de las costas su contendor.» Espéc. 5. 14. 17 (O. L. 1. 464).» Quando quier que acaeciere que aquellos encreidos se absolvieren de las sogas e de los lazos del diablo --- podémosles facer merced.» Fuero Juzgo, 12. 3. 27 (2031). «Dixol que metria la cabeça ha perder, | Que la adevinança non podria asolver.» Appoll. 28 (R. 57. 2841). «Ruega a Dios por él e por sus encomendados, | Que él los absuelva de todos los pecados.» Berc. Sacr. 269 (R. 57. 891). «E fueron absolvidos de todos los pecados.» Id. Mil. 401 (R. 57. 1161).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Port. absolver; cat. absoldrer, ant. absolrer; mall. absoldrer, absolver; val. absoldre; prov. absolver, assolver, absolvre; fr. absoudre, ant. assouldre; it. assolvere: del lat. absolvere, comp. de ab, que da la idea de separación, y solvere, desatar. En castellano se omitía también la b, no sólo en tiempos remotos sino en el siglo de oro.",
+  "etimologia": "Etim. Port. <i>absolver</i>; cat. <i>absoldrer</i>, ant. <i>absolrer</i>; mall. <i>absoldrer</i>, <i>absolver</i>; val. <i>absoldre; </i>prov. <i>absolver</i>, <i>assolver</i>, <i>absolvre</i>; fr<i>. absoudre, </i>ant<i>. assouldre; </i>it<i>. assolvere: </i>del lat<i>. absolvere, </i>comp<i>. </i>de<i> ab, </i>que da la idea de separación, y <i>solvere</i>, desatar. En castellano se omitía también la <i>b</i>, no sólo en tiempos remotos sino en el siglo de oro.",
   "nota": "",
   "forma": "",
   "ortografia": "",
-  "conjugacion": "Conjug. Tiene estas formas irregulares: absuelv-o, es, e, en; absuelv-a, as, a, an; absuelve; absuelto.\n\n\u0000",
+  "conjugacion": "Conjug. Tiene estas formas irregulares: absuelv-o, es, e, en; absuelv-a, as, a, an; absuelve; absuelto.",
   "construccion_sintactica": "",
   "prosodia": "",
   "colocacion_concordancia": ""

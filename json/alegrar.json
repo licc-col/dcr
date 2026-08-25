@@ -6,88 +6,123 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Causar alegría, llenar de alegría (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por todas las vías posibles procuraban alegrarle, diciéndole el bachiller que se animase y levantase para comenzar su pastoral ejercicio.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 74 (R. 1. 5562)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hízome sacar joyas de oro y piedras, que las tenía de gran valor, en especial una de diamantes que apreciaba en mucho. Ella pensó que me alegraran; yo estaba riéndome entre mí, y habiendo lástima de ver lo que estiman los hombres.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Vida, 38 (R. 53. 1162)."
             },
             {
+              "marca": "",
               "texto_cita": "«Alegraste con tu presencia á los antiguos padres que estaban allí cautivos, y sacándolos de sus tinieblas y prisiones, los llevaste á los deleites del paraíso.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 5. 5, orac. 7 (R. 8. 3101)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si desta manera tratáis á vuestros amigos en este valle de lágrimas, ¿cómo los trataréis en el paraíso de vuestros deleites? Si así los alegráis en el camino, ¿cómo los alegraréis en su patria?»",
               "autor": "",
               "referencia_obra": "Id. Adic. al Mem. 14, consid. 1, § 6 (R. 8. 4781)."
             },
             {
+              "marca": "",
               "texto_cita": "«En este dulce juego | Me alegra el convertir el agua en fuego.»",
               "autor": "Lope",
               "referencia_obra": ", Selva sin amor, pról. (Obr. suelt. 1. 230)."
             },
             {
+              "marca": "",
               "texto_cita": "«Prende al gran pescador de Galilea | Para que alegre al pueblo con su muerte | Cuando la pascua celebrada sea.»",
               "autor": "L. Argens.",
               "referencia_obra": "terc. De David en el trono (R. 42. 2791)."
             },
             {
+              "marca": "",
               "texto_cita": "«Podéis por Dios creer que me ha alegrado | Vuestra vitoria.»",
               "autor": "Alarcón",
               "referencia_obra": ", La verdad sospechosa, 3. 13 (R. 20. 3393)."
             },
             {
+              "marca": "",
               "texto_cita": "«A tales nuevas Balboa --- determinó volver cuanto antes al Darién á alegrar á sus compañeros con tan grandes esperanzas.»",
               "autor": "Quint.",
-              "referencia_obra": "Balboa (R. 19. 2872). —"
+              "referencia_obra": "Balboa (R. 19. 2872)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Consolación es refrigerio del ánimo afligido, la cual en medio de los dolores alegra el ánima dulcemente.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "Esc. espir. 7, § 1 (R. 11. 3182)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Mira no me engañes, ni quieras con falsas alegrías alegrar mis verdaderas tristezas.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 2. 10 (R. 1. 4232)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Si no fuese contra caridad, diría que nunca sane D. Quijote, porque con su salud no solamente perdemos sus gracias, sino las de Sancho Panza su escudero, que cualquiera dellas puede volver á alegrar á la misma melancolía.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 2. 65 (R. 1. 5422)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Con su presencia quiso honrar y alegrar nuestra fiesta.»",
+                  "autor": "",
+                  "referencia_obra": "Id. Gal. 1 (R. 1. 152)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Consolación es refrigerio del ánimo afligido, la cual en medio de los dolores alegra el ánima dulcemente.»",
-              "autor": "Gran.",
-              "referencia_obra": "Esc. espir. 7, § 1 (R. 11. 3182)."
-            },
-            {
-              "texto_cita": "«Mira no me engañes, ni quieras con falsas alegrías alegrar mis verdaderas tristezas.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 10 (R. 1. 4232)."
-            },
-            {
-              "texto_cita": "«Si no fuese contra caridad, diría que nunca sane D. Quijote, porque con su salud no solamente perdemos sus gracias, sino las de Sancho Panza su escudero, que cualquiera dellas puede volver á alegrar á la misma melancolía.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 2. 65 (R. 1. 5422)."
-            },
-            {
-              "texto_cita": "«Con su presencia quiso honrar y alegrar nuestra fiesta.»",
-              "autor": "",
-              "referencia_obra": "Id. Gal. 1 (R. 1. 152). —"
-            },
-            {
-              "texto_cita": "«No todas las hermosuras enamoran, que algunas alegran la vista y no rinden la voluntad.»",
-              "autor": "",
-              "referencia_obra": "Id. Quij. 1. 14 (R. 1. 2821)."
-            },
-            {
-              "texto_cita": "«Los árboles movidos por el viento | Hacían un movimiento y un ruído | Que alegraban la vista y el oído.»",
-              "autor": "Erc.",
-              "referencia_obra": "Arauc. 20 (R. 17. 772)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«No todas las hermosuras enamoran, que algunas alegran la vista y no rinden la voluntad.»",
+                  "autor": "",
+                  "referencia_obra": "Id. Quij. 1. 14 (R. 1. 2821)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Los árboles movidos por el viento | Hacían un movimiento y un ruído | Que alegraban la vista y el oído.»",
+                  "autor": "Erc.",
+                  "referencia_obra": "Arauc. 20 (R. 17. 772)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -95,13 +130,16 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part. Es de poco uso fuera de los tiempos compuestos con haber. De ordinario le reemplaza alegre. Cp. Bello, Gram. § 380, c.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con estos tales dones crece esta nobilísima virtud [la caridad] y juntamente con la experiencia de verse el hombre desta manera esforzado, alegrado y visitado de Dios.»",
                   "autor": "Gran.",
                   "referencia_obra": "Esc. espir. 7, § 1 (R. 11. 3182)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -109,13 +147,16 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El trigo que fortifica, y el olio que alumbra, y el vino que alegra, y todos los dones del ánimo con esta lluvia florecen.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 1, Padre (R. 37. 1102)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -123,11 +164,21 @@
     {
       "id": "b)",
       "definicion": "Refl. Recibir ó sentir alegría.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Se alegra el niño cuando después de haber perdido de vista á su madre, la torna á ver.»",
           "autor": "Gran.",
-          "referencia_obra": "Esc. espir. 7, § 1 (R. 11. 3182). — La causa ó motivo de la alegría se expresa de varios modos:"
+          "referencia_obra": "Esc. espir. 7, § 1 (R. 11. 3182)."
+        }
+      ],
+      "subsubsubacepciones": [
+        {
+          "id_limpio": "—",
+          "definicion": "La causa ó motivo de la alegría se expresa de varios modos:",
+          "marca": "",
+          "ejemplos_citas": []
         }
       ],
       "subacepciones": [
@@ -135,26 +186,40 @@
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con de que denota el origen ó procedencia.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Volvieron á recoger la soga con mucha facilidad y sin peso alguno, señal que les hizo imaginar que D. Quijote se quedaba dentro, y, creyéndolo así Sancho, lloraba amargamente, y tiraba con mucha priesa por desengañarse; pero llegando, á su parecer, á poco más de las ochenta brazas, sintieron peso, de que en extremo se alegraron.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 22 (R. 1. 4511)."
             },
             {
+              "marca": "",
               "texto_cita": "«Alégranse los buenos | De los bienes ajenos.»",
               "autor": "Lope",
               "referencia_obra": ", Laurel de Apolo, 1 (Obr. suelt. 1. 12)."
             },
             {
+              "marca": "",
               "texto_cita": "«A mí me debes la borla de doctor que te dieron en el monte. — ¿A ti? Pues me alegro de saberlo.»",
               "autor": "Mor.",
-              "referencia_obra": "El médico á palos, 3. 10 (R. 2. 4722). —"
-            },
+              "referencia_obra": "El médico á palos, 3. 10 (R. 2. 4722)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«La naturaleza se alegra de muchos amigos y parientes.»",
-              "autor": "Gran.",
-              "referencia_obra": "Imit. 3. 59 (R. 11. 4181)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«La naturaleza se alegra de muchos amigos y parientes.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "Imit. 3. 59 (R. 11. 4181)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -163,74 +228,98 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con por, que denota la razón ó motivo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Yace aquí Blas.... y se alegra | Por no vivir con su suegra.»",
               "autor": "",
               "referencia_obra": "M. de la Rosa, Cement. de Momo (1. 21)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con con, que denota el medio ó instrumento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Alegráronse sus padres con la salud y bienvenida de su hijo.»",
               "autor": "Cerv.",
               "referencia_obra": "Nov. 6 (R. 1. 1701)."
             },
             {
+              "marca": "",
               "texto_cita": "«El cautivo se alegró con las nuevas que de su camarada le dieron.»",
               "autor": "",
               "referencia_obra": "Id. Quij. 1. 40 (R. 1. 3642)."
             },
             {
+              "marca": "",
               "texto_cita": "«Abrazóle Sansón y suplicóle le avisase de su buena ó mala suerte, para alegrarse con ésta ó entristecerse con aquélla.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 7 (R. 1. 4191)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aunque D. Juan quisiera que D. Quijote leyera más del libro --- no lo pudieron acabar con él, diciendo que él lo daba por leído --- y que no quería, si acaso llegase á noticia de su autor que le había tenido en sus manos, se alegrase con pensar que le había leído.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 59 (R. 1. 5301)."
             },
             {
+              "marca": "",
               "texto_cita": "«El amor que la madre tiene á un hijo hace que tanto se alegre ella con la dignidad que dan al hijo, como si ella la recibiera.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 5. 2. 30, § 1 (R. 6. 6722)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si fueran amigos, llorarían nuestros males y no se alegrarían con ellos.»",
               "autor": "",
               "referencia_obra": "Id. Serm. contra escánd. (R. 11. 451)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué cosa más contra la ley natural y fuera de razón que alegrarse un hermano con el mal del otro?»",
               "autor": "Doctr.",
               "referencia_obra": "crist. 2. 17 (R. 11. 1261)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si amo el mundo, alégrome con sus prosperidades y entristézcome de sus adversidades.»",
               "autor": "",
               "referencia_obra": "Id. Imit. 3. 53 (R. 11. 4151)."
             },
             {
+              "marca": "",
               "texto_cita": "«El amor de los prójimos nos hace procurar con estas ansias la salud de sus ánimas, y alegrarnos con el remedio dellas.»",
               "autor": "",
               "referencia_obra": "Id. Vida de Áv., 2, § 3 (R. 11. 4541)."
             },
             {
+              "marca": "",
               "texto_cita": "«[Le llama bárbaro] Si nunca ha visto naipes en sus mano | Ni alegrádose más con sus pinturas | Que con las de Durero ó de Ticiano.»",
               "autor": "L. Argens.",
-              "referencia_obra": "epíst. Obediente respondo (R. 42. 2752). —"
-            },
+              "referencia_obra": "epíst. Obediente respondo (R. 42. 2752)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«El ojo naturalmente se alegra con la vista de cosas lindas.»",
-              "autor": "Rivad.",
-              "referencia_obra": "Trib. 1. 1 (R. 60. 3611)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«El ojo naturalmente se alegra con la vista de cosas lindas.»",
+                  "autor": "Rivad.",
+                  "referencia_obra": "Trib. 1. 1 (R. 60. 3611)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -239,36 +328,52 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Con en, que denota el fundamento. (Hoy tendría en la mayor parte de los casos sabor arcaico).",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Alégrense los otros en las riquezas y honras del mundo; otros en la nobleza de sus linajes; otros en los favores y privanzas de los príncipes; otros en la preeminencia de sus oficios y dignidades; mas vosotros que presumís tener á Dios por vuestro, que es vuestra heredad y vuestra posesión, alegraos y gloriaos más de verdad en este bien.»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 12, § 1 (R. 6. 521)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se declararon en lo profundo de mi corazón tus señales y maravillas, y alegrándome en la fe, alabé tu nombre.»",
               "autor": "",
               "referencia_obra": "Id. Símb. 2. 29, § 5 (R. 6. 3652)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Oh bienaventurada Virgen! ¿qué sentía tu piadoso corazón cuando decías: Engrandece mi ánima á Dios, y mi espíritu se alegró en Dios?»",
               "autor": "",
               "referencia_obra": "Id. Mem. del crist. 23 (R. 11. 2081)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ni la gente perdida | Se alegrará soberbia en mi caída.»",
               "autor": "León",
-              "referencia_obra": ", Poes. 3, salmo 24 (R. 37. 482). —"
-            },
+              "referencia_obra": ", Poes. 3, salmo 24 (R. 37. 482)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«La naturaleza teme la confusión y el desprecio; mas la gracia alégrase en sufrir injurias por el nombre de Jesús.»",
-              "autor": "Gran.",
-              "referencia_obra": "Imit. 3. 59 (R. 11. 4172)."
-            },
-            {
-              "texto_cita": "«Oh amado de mi corazón, si tanto me alegro en ver la hermosura y perfección de estas criaturas, ¿cómo no me alegraré en ver la hermosura y perfección tuya, de quien procedieron ellas?»",
-              "autor": "Puente",
-              "referencia_obra": ", Medit. 6. 5 (3. 277)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«La naturaleza teme la confusión y el desprecio; mas la gracia alégrase en sufrir injurias por el nombre de Jesús.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "Imit. 3. 59 (R. 11. 4172)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Oh amado de mi corazón, si tanto me alegro en ver la hermosura y perfección de estas criaturas, ¿cómo no me alegraré en ver la hermosura y perfección tuya, de quien procedieron ellas?»",
+                  "autor": "Puente",
+                  "referencia_obra": ", Medit. 6. 5 (3. 277)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -277,53 +382,65 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Con un gerundio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si tanto se alegraba viéndolo debajo del velo con que acá se nos muestra, ¿qué será mirarlo sin velo en su misma gloria y hermosura?»",
               "autor": "Gran.",
               "referencia_obra": "Vida de Áv., 4, § 8 (R. 11. 4752)."
             },
             {
+              "marca": "",
               "texto_cita": "«En las conversaciones | No te alegres contando tus acciones.»",
               "autor": "Quev.",
               "referencia_obra": "Epict. 39 (R. 69. 4012)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Cuando lo que causa la alegría se expresa con una prop., el verbo de ésta va en subj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Alégrome de que viva, | Y de que viva me pesa.»",
               "autor": "Alarcón",
               "referencia_obra": ", Siempre ayuda la verdad, 3. 11 (R. 90. 2443)."
             },
             {
+              "marca": "",
               "texto_cita": "«Me alegro de que nada de esto haya ocurrido.»",
               "autor": "Mor.",
               "referencia_obra": "Obr. póst. 2, p. 349."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Se omite á menudo el de en el lenguaje familiar. Es modo de hablar incorrecto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Me alegro que así á padre como á ti hubiesen hecho fuerza los graves motivos que tuve para excusar el tránsito por Madrid.»",
                   "autor": "Isla",
                   "referencia_obra": ", Cart. famil. 1. 97 (R. 15. 4611)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Me alegro que guste la comedia de Aminta.»",
                   "autor": "Mor.",
                   "referencia_obra": "Obr. póst. 2, p. 160."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -332,69 +449,93 @@
     {
       "id": "c)",
       "definicion": "Refl. Ponerse alegre por haber bebido con exceso algún licor, aunque sin llegar á embriagarse (fam.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«¿Se suele alegrar, hablando | A estilo de caballeros, | Por no decir si es borracho?»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", Los celos infundados, 1. 1 (3. 140)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "met. Dar nuevo esplendor y más apacible vista á las cosas inanimadas; animar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Qué figura más alegre y hermosa se puede ofrecer á nuestros ojos, que la del sol cuando sale por la mañana? El cual--- alegra los cielos, y la tierra, y la mar, y los ojos de todos los animales.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 1. 5 § 1 (R. 6. 1991)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Quién ha sido el que tanto mal ha hecho al mundo? ¿Quién ha quitado dél la belleza que le alegraba, el donaire le entretenía, y la honestidad que le acreditaba?»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 32 (R. 1. 2731)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los instrumentos que anoche oímos vuelven á alegrar los valles, y sin duda los desposorios se celebrarán en el frescor de la mañana.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 20 (R. 1. 4452)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y alegra el campo un aire tierno y frío.»",
               "autor": "Herr.",
               "referencia_obra": "1, canc. 3 (R. 32. 4731)."
             },
             {
+              "marca": "",
               "texto_cita": "«El blando aliento de favonio tierno, | En mil preciosas flores encendido, | Alegraba los fines del invierno.»",
               "autor": "",
               "referencia_obra": "F. de la Torre, 3, égI. 1 (86)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los aires y los cielos alegrando, | Rompió la aurora con su luz, saliendo, | Las negras nubes del oriente.»",
               "autor": "",
               "referencia_obra": "Id. ib. égl. 5 (121)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ya que no vimos hombres, hallamos muchos ganados de todas especies, que alegraban un poco aquella melancólica soledad.»",
               "autor": "",
               "referencia_obra": "Mor. Obr. póst. 2, p. 6."
             },
             {
+              "marca": "",
               "texto_cita": "«Ya cesan los truenos, | Huyen las tinieblas, | Y el sonrosado día | El mustio campo alegra.»",
               "autor": "Lista",
-              "referencia_obra": ", idil. 4 (R. 67. 3541). —"
-            },
+              "referencia_obra": ", idil. 4 (R. 67. 3541)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Una dama que se alegra | Con agua pura la faz.»",
-              "autor": "Alarcón",
-              "referencia_obra": ", El semejante á sí mismo, 1. 1 (R. 20. 63 2)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Una dama que se alegra | Con agua pura la faz.»",
+                  "autor": "Alarcón",
+                  "referencia_obra": ", El semejante á sí mismo, 1. 1 (R. 20. 63 2)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -402,13 +543,16 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Los sauces destilaban maná sabroso, reíanse las fuentes, murmuraban los arroyos, alegrábanse las selvas.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 14 (R. 1. 4321)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -417,29 +561,33 @@
     {
       "id": "2",
       "definicion": "Refl. En el antiguo lenguaje forense de Aragón, Gozar, disfrutar.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Et no se puedan alegrar de inmunidad alguna.»",
           "autor": "",
           "referencia_obra": "Actos de Cortes de Aragón, fol. 7 (Dicc. Autor.)"
         },
         {
+          "marca": "",
           "texto_cita": "«El dicho preso sea ipso foro et ipso facto habido por manifestado --- E se alegre de todos aquellos privilegios y libertades que los manifestados por la dicha corte se pueden alegrar.»",
           "autor": "Fueros",
           "referencia_obra": "de Aragón, fol. 155 (Dicc. Autor.)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. — Siglo XV: «El mariscal Garcigonzalez de Herrera fue un buen caballero, --- pero muy malenconioso é triste, y que pocas veces se alegraba.» P. de Guzmán, Gener. 19 (R. 68. 7071). «Infimos son aquellos que sin ningun orden, regla nin cuento façen estos romançes e cantares, de que las gentes de baxa é servil condiçion se alegran.» Santill. p. 7. «Asi como hazen los enamorados | Quando les hablan de lo que bien quieren, | Alegran los ojos do quier que estouieren | Y cobran semblantes muy mas alterados.» Mena, Lab. 234 (822). «El vino alegra el corazon del ome, é el pan le confirma.» Crón. P. Niño, p. 143. «Vestras palabras estrañas | Nos alegran de rendon.» Canc. de Baena, p. 143. «Por ende, señora mya, | Vestro buen gesto alegrat | Con placer é loçanía.» lb. p. 18.\n\n— Siglo XIV: «Si catardes con derecho mis razones, é rescibierdes las mis escusas, en ello me alegraré.» Crón. Pedro I, 18. 22 (R. 66. 5672). «Alégrase el malo en dar por miel venino.» Arc. de Hita, 1328 (R. 57. 2691). «Dis que yasie doliente el leon de dolor: | Todas las animalias vinien ver su sennor, | --- Alegráronse todas mucho por su amor.» Id. 72 (R. 57. 2292).\n\n— Siglo XIII: «Por el vino entiéndese la esperanza que todo cristiano debe haber de la misericordia de Dios, que alegra la voluntad del pecador así como el vino al corazon del hombre.» Part. 1. 10. 15 (1. 367). «¡Ay alma! non te fies en las riquezas et en las dividades con que se alegran los mundanos.» Cal. é Dymna (R. 5 151). «Muerto es el su padre daquel, é semeia que non es muerto, ca dexó despues de sí su fiio, que lo semeia: violo en su vida, é alegros con él.» Fuero Juzgo, 4. 2. 14 (70). «El cuedado de los principes es entonz complido quando ellos piensan del provecho del pueblo, y ellos non se deven poco alegrar quando la sentencia de la ley antigua es crebantada, la qual quiere departir el casamiento de las personas que son eguales.» Ib. 3. 1. 1 (45). «Alegrat uos, amigos, en uostras uoluntades:| Por poco non uos digo que uillanos semeiades.» Alex. 238 (R. 57. 1542). «Nunqua vino a él nin enfermo, nin sano, | A qui non alegrasse su boca ó su mano.» Berc. S. Dom. 485 (R. 57. 551). «Non podia el bon omne la cara alegrar, | Nin lo podian por nada sos omnes confortar.» Id. Mil. 682 (R. 57. 1242). «Alegrole todel cuerpo, sonrrisos de coraçon.» Cid, 3184 (R. 57. 331).«E mandó mill marcos de plata a San Pero leuar, | E que los diesse al abbat don Sancho, | En estas nuevas todos se alegrando.» Ib. 1287 (R. 57. 161). «Quando esto oyó el conde yas yua alegrando.» lb. 1036 (R. 57. 132).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Deriv. de alegre. Port., cat., prov. alegrar; it. allegrare. Hay un verbo homónimo alegrar, lo mismo que legrar, término de cirugía que vale Raer y manifestar el casco ó hueso en las heridas de cabeza con la legra.",
+  "etimologia": "Etim. Deriv. de <i>alegre. </i>Port., cat., prov. <i>alegrar; </i>it<i>. allegrare. </i>Hay un verbo homónimo <i>alegrar, </i>lo mismo que <i>legrar</i>, término de cirugía que vale Raer y manifestar el casco ó hueso en las heridas de cabeza con la legra.",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.\n\n— Refl. 1, b -1, c - 1, d, α, α α - 2.\n\n— Part.: 1, a, α, α α.\n\n— Con con:1, b, γ.\n\n— De: 1, b, α.\n\n— En: 1, b, δ.\n\n— Por: 1, b, β.\n\n— Con gerundio: 1, b, ε.\n\n— Con prop. subj.: 1, b, ζ.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.\n\n— Refl. 1, b -1, c - 1, d, α, α α - 2.\n\n— Part.: 1, a, α, α α.\n\n— Con con:1, b, γ.\n\n— De: 1, b, α.\n\n— En: 1, b, δ.\n\n— Por: 1, b, β.\n\n— Con gerundio: 1, b, ε.\n\n— Con prop. subj.: 1, b, ζ.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

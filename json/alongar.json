@@ -1,73 +1,89 @@
 {
   "lema": "ALONGAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nEste verbo, que, después de haber sido de grande uso en los escritores anteclásicos, alcanza todavía á aparecer en Cervantes, está hoy completamente olvidado, y si se halla empleado alguna vez, es un puro arcaísmo.",
+  "introduccion": "Este verbo, que, después de haber sido de grande uso en los escritores anteclásicos, alcanza todavía á aparecer en Cervantes, está hoy completamente olvidado, y si se halla empleado alguna vez, es un puro arcaísmo.",
   "acepciones": [
     {
       "id": "a)",
       "definicion": "Prolongar, alargar (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Si desear vivir no es por más de alongar la vida --- es impío, y no de cristiano.»",
           "autor": "Venegas",
           "referencia_obra": ", Agonía, 2. 5 (Míst. 3. 18)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Alejar, desviar, apartar.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α)",
           "id_limpio": "— α)",
           "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Asió la espada por la empuñadura, y arrojóla por el aire con tanta fuerza, que uno de los labradores asistentes que era escribano, que fue por ella, dio después por testimonio que la alongó de sí casi tres cuartos de legua.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 19 (R. 1. 4442). Refl."
             },
             {
+              "marca": "",
               "texto_cita": "«El, sin mirar si le seguía su escudero, se alongó un buen trecho.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 17 (R. 1. 2892)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α)",
               "id_limpio": "— α α)",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El que se aleja de la ribera, por el movimiento de la nao ó del barco, no deja de alongarse de la tierra, aunque ella esté queda.»",
                   "autor": "Venegas",
                   "referencia_obra": ", Agonía, 2. 3 (Míst. 3. 16)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Poco trecho se había alongado D. Quijote del lugar de D. Diego, cuando encontró con dos como clérigos ó como estudiantes.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 19 (R. 1. 4422)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Sucedió pues que no habiéndose alongado mucho de la ínsula de su gobierno --- vio que por el camino por donde él iba venían seis peregrinos.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 2. 54 (R. 1. 5172)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La nave comenzó á correr en popa por el contrario rumbo que venía, alongándose de las barcas con toda priesa.»",
                   "autor": "",
                   "referencia_obra": "Id. Pers. 1. 7 (R. 1. 5711)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Los nuestros media legua aun no se habían | De aquel su muro lejos alongado, | Cuando al calar de un monte descubrían | El araucano ejército ordenado.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 9 (R. 17. 362)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -75,40 +91,56 @@
           "id_marcador_html": "— γ)",
           "id_limpio": "— γ)",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Sancho, deja ese caballo ó asno, ó lo que tú quisieres que sea, que como su dueño nos vea alongados de aquí, volverá por él.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 21 (R. 1. 3002)."
             },
             {
+              "marca": "",
               "texto_cita": "«Alongados pues un tanto de la isla, como se ha dicho, adornaron la nave con flámulas y gallardetes.»",
               "autor": "",
               "referencia_obra": "Id. Pers. 1. 2 (R. 1. 5641)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aun mil pasos no está de su castillo | Alongado Velázquez.»",
               "autor": "A. Saav.",
               "referencia_obra": "Moro expós. 10 (2. 356)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
       "id": "c)",
-      "definicion": "Trasladado al tiempo, Dilatar, diferir (trans.). — Refl.",
-      "ejemplos_citas": [
+      "definicion": "Trasladado al tiempo, Dilatar, diferir (trans.).",
+      "marca": "",
+      "ejemplos_citas": [],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Tanto cuanto más se dilataba su partida, tanto más á su parecer se alongaba el cumplimiento de su deseo.»",
-          "autor": "Cerv.",
-          "referencia_obra": "Pers. 2. 8 (R. 1. 6012)."
-        },
-        {
-          "texto_cita": "«El tiempo que se aluenga al mal extraño, | Y mis pasos me muestra bien contados, | Si término pusiese á mis cuidados, | Sería á mi esperanza desengaño.»",
-          "autor": "Herr.",
-          "referencia_obra": "1, son. 97 (R. 32. 2772. * El tiempo que se alarga al mal extraño)."
+          "id_limpio": "—",
+          "definicion": "Refl.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Tanto cuanto más se dilataba su partida, tanto más á su parecer se alongaba el cumplimiento de su deseo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 2. 8 (R. 1. 6012)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«El tiempo que se aluenga al mal extraño, | Y mis pasos me muestra bien contados, | Si término pusiese á mis cuidados, | Sería á mi esperanza desengaño.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, son. 97 (R. 32. 2772. * El tiempo que se alarga al mal extraño)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -116,10 +148,10 @@
   ],
   "periodo_anteclasico": "Per. antecl. — Siglo XV: «Aunque no lo contradixo, alongó la execucion dello.» Crón. Juan II, 14. 43 (R. 68. 3962). «E aun sy a Vuestra Excelençia plaçe que tanto non nos alonguemos de las vuestras regiones é tierras, ayamos memoria del Cid Ruy Diaz.» Santill. p. 24 (* alexemos). «Pues lee nuestro rey é mira los serviçios, regráçialos é satisfáçelos, é si se aluenga, non se tira.» Id. p. 149. «¡Oh viento! oh fortuna! --- ¿quántos amores, quántas querencias aluengas é partes?» Crón. P. Niño, p. 147. «Tal es su oficio, vida de grand trabajo, alongados de todo vicio.» Ib. p. 10 «Si el comer se alongare que non ayan de pedir tal paño estando al seruicio del cortar.» Villena, Arte cis. 5 (36). «Les envió á decir que non tomasen enojo porque se les alongaba su partida.» Gonz. Clav. p. 210. «E es una gran maravilla durar este castillo entre tantos moros, é tan alongados de christianos.» Id. p. 106. «Siempre [Dios] oyrá á quien lo oyere --- | E quien se le aluengua, él se alongará.» Canc. de Baena, p. 582. «En quanto alongada la vy de plaseres ---» Ib. p. 351. «Doled vos de mí que bivo en tristura, | De bien alongado syn plazer é viçio.» Ib. p. 72.\n\n— Siglo XIV: «Tú me libra, Sennor, de mal tan alongado.» Rim. de Pal. 766 (R 57. 4492). «Los que los sus pecados no quieren confesar, | E cras e cras diçiendo lo quieren alongar ---» Ib. 121 (R. 57. 4291). «Los que eran del consejo querrian que la conquista se feciese de la parte donde ellos son moradores, por alongar de sí los enemigos.» Crón. Alf. XI, 57 (R 66. 2072). «Tovo que alongaria algund tiempo que non tomase don Enrique otra carrera.» Crón. Fern. IV, 10 (R. 66. 1262). «Deben --- enviar un montero con bocina á tañer de rastro, alongado de la ida del venado, porque la oya el señor.» Mont. Alf. XI, 1. 18 (Bibl. venat. 1. 62). «Es bueno porque los pueda alcanzar ante que se aluenguen mucho.» Ib. 1. 10 (Bibl. venat. 1. 46). «Entendimiento, voluntad y memoria --- trahen al alma consolaçion e aluengan la vida al cuerpo.» Arc. de Hita, preámb. (R. 57. 2252). «Que ffagan e derechament la justiçia, e que non consientan alongar los pleytos.» Cortes de Valladolid, año 1312 (C. de L. y C. 1. 209). «Et Saladin le dijo que sin todas aquellas razones la amaba mas que á otra mujer del mundo, et ella teníagelo en merced, non dándole á entender que entendia otra razon; ¿qué vos iré alongando? Saladin le hobo de decir como la amaba.» J. Man. C. Luc. 12 (R. 51. 4212).«Et ¿qué vos iré alongando? El mancebo fue juzgado que lo matasen.» Id. ib. 37 (R. 51. 4191). «Alongáronse tanto de las gentes, que ninguno dellos non vio por donde iban.» Id. ib. 6 (R. 51. 3941). «Respondióle que poco seso decia si por esta razon queria alongar el casamiento.» Id. ib. 18 (R. 51. 3891). «Et cuanto el filósofo mas alongaba, tanto había el rey mozo mayor queja por lo saber.» Id. ib. 18 (R. 51. 3832). «Cuando ellos ovieron la puerta de la ciudad abierta, los tres cavalleros que se tornaron su paso, eran ya cuanto alongados.» Id. ib. 2 (R. 51. 3832). «Acaesció que uno de aquellos gallos andaba un día alongado de la su casa por un campo.» Id. ib. 32 (R. 51. 3811). «Parescia muy alongado de la carrera de la salvacion, et por esto estaba el ermitaño de muy mal talante et muy lejano de cuidar que este sería su compañero.» Id. ib. 4 (R. 51. 3732). «Et el alcalde les pone plazo a que parezcan antell, o gelo aluenga a dia cierto.» Leyes del est. 140 (O. L. 92. 295).\n\n— Siglo XIII: «Lo debe alongar de sí el home quanto mas pudiere.» Part. 2. 27. 4 (2. 307). «Débelos el rey extrañar et alongar de sí como aquellos que yerran contra su señor.» Part. 2. 8. 2 (2. 56). «Una es la consagracion de la eglesia et otra la de los altares; et puédelas el obispo facer amas en un dia si quisiere, ó en dos, uno en pos otro, ó en tiempo mas alongado.» Part. 1. 10. 12 (1. 365). «La enfermedat pequeña podria sanar aina si tomasen á ella consejo luego, et si la alongasen, cresceria el mal.» Part. 1. 4. 77 (1. 139). «Non los pueden fallar porque se asconden o se aluengan de la tierra.» Espéc. 5. 1. 10 (O. L. 1. 295). «E por esta razon alongar se yan los pleitos, e non se librarian tan aina.» Ib. 4. 2. 2 (O. L. 1. 130). «Deve por ende perder merced del rey e seer alongado de la conpana de aquel fijo del rey.» Ib. 2. 4. 1 (O. L. 1. 26). «Cuanto mas se trabaja en andar, tanto mas se aluenga del logar donde querie llegar.» Cal. é Dymna (R. 51. 131). «E si acaesciere quel obispo se aluengue de su sey, lexe en su vez un sacerdot que pueda complir é espedir con el alcalde de la tierra este mandamiento que nos mandamos.» Fuero Juzgo, 12. 3. 25 (202; * alluengue). «Mas si en estos dos annos ambas las partes quisieren mudar los pleytos por alongar las bodas --- non pueden alongar mas de lo dos annos.» Ib. 3. 1. 4 (47; * alungar). «E si alguno fuere alongado por C millas, si viniese fasta XII dias daquel dia del plazo, non aya ninguna pena desta ley.» Ib. 2. 1. 17 (17; * alungado, allongado, alunguado). «Si quisiere alongar el pleyto, porque se asconde solamiente, peche cinco sueldos doro á aquel que se querella.» Ib. 2. 1. 17 (16; * allongar, alungar, alunguar). «Tanto auemos, sennores, la razon allongada,| Dexemos la natura toda desamparada.» Alex. 2260 (R. 57. 2162). «Era allongado e non podrie uyar.» Berc. S. Dom. 507 (R. 57. 561). «El rey e la reyna eran much allongados, | Non podrien en sex dias alla seer viados.» Id. ib. 506 (R. 57. 561). «Aun del monasterio non eran alongados.» Id. S. Mill. 273 (R. 57. 731). «Non querré, si podiero, la razon alongar, | Ca vos avriedes tedio.» Id. Mil. 704 (R. 57. 1251).» Ya le creçe la barba, e vale allongando.» Cid, 1238 (B. 57. 152).",
   "testimonios_latino_hispanicos": "Test. latin. hisp. «Postea vero affirmatum monasterium ad fratres, et alongado exinde episcopo domino Ero, retornavit frater Sinderigus ipsum signum ---» Docum. de 934 (Esp. sagr. 40. 402).",
-  "etimologia": "Etim. Port., cat. ant. alongar; prov. alongar, alonguar, alonjar, alunhar; fr. allonger; it. allungare: lat. bajo allongare, comp. de ad, á, y longus, luengo, largo.",
+  "etimologia": "Etim. Port., cat. ant. <i>alongar</i>; prov. <i>alongar, alonguar, alonjar, alunhar; </i>fr<i>. allonger; </i>it<i>. allungare: </i>lat. bajo <i>allongare, </i>comp.<i> </i>de <i>ad</i>, á, y <i>longus, </i>luengo, largo.",
   "nota": "",
   "forma": "",
-  "ortografia": "Ortogr. Antes de e lleva gu: aluengue, alonguéis.\n\n\u0000",
+  "ortografia": "Ortogr. Antes de e lleva gu: aluengue, alonguéis.",
   "conjugacion": "Conjug. Tiene estas formas diptongadas alueng-o, as, a, an; aluengu-e, es, e, en; aluenga tú.",
   "construccion_sintactica": "",
   "prosodia": "",

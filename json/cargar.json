@@ -1,39 +1,56 @@
 {
   "lema": "CARGAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones van distribuídas así:\n\n— 1, a) Poner encima un peso ó carga, b) imponer carga, gravamen ú oligación, c) tributos, d) imputar, acusar, e) en especial, embarcar, transportar mercaderías;\n\n— 2, a) poner encima muchas cosas, b) met., c) refl. llenarse, llegar á tener abundancia de alguna cosa, d) refl. aplicado al cielo, e) á los árboles, f) comer ó beber destempladamente, g) part. preñada;\n\n— 3, a) hacer que una cosa descanse sobre otra, b) met. aplicado al juicio, la consideración, etc., c) refl. echarse con todo el cuerpo sobre algo, d) refl. inclinarse hacia alguna parte, e) estribar, descansar, f) aplicado al acento. o pronunciación;\n\n— 4, a) hacer peso, oprimir, b) met., c) caer ó tocar responsabilidad, d) aplicado á las espaldas, e) al sueño, las enfermedades ó pasiones, f) apretar, arreciar, g) concurrir, acudir en abundancia, h) acometer, i) instar, importunar, j) incomodar, molestar;\n\n— 5, a) poner pesado, b) agravar;\n\n— 6, acepciones especiales: a) aplicado á las armas de fuego, b) á las partidas de una cuenta, c) Veter., d) en juegos de naipes.",
+  "introduccion": "Las acepciones van distribuídas así:\n\n— 1, a) Poner encima un peso ó carga, b) imponer carga, gravamen ú oligación, c) tributos, d) imputar, acusar, e) en especial, embarcar, transportar mercaderías;\n\n— 2, a) poner encima muchas cosas, b) met., c) refl. llenarse, llegar á tener abundancia de alguna cosa, d) refl. aplicado al cielo, e) á los árboles, f) comer ó beber destempladamente, g) part. preñada;\n\n— 3, a) hacer que una cosa descanse sobre otra, b) met. aplicado al juicio, la consideración, etc., c) refl. echarse con todo el cuerpo sobre algo, d) refl. inclinarse hacia alguna parte, e) estribar, descansar, f) aplicado al acento. o pronunciación;\n\n— 4, a) hacer peso, oprimir, b) met., c) caer ó tocar responsabilidad, d) aplicado á las espaldas, e) al sueño, las enfermedades ó pasiones, f) apretar, arreciar, g) concurrir, acudir en abundancia, h) acometer, i) instar, importunar, j) incomodar, molestar;\n\n— 5, a) poner pesado, b) agravar;\n\n— 6, acepciones especiales: a) aplicado á las armas de fuego, b) á las partidas de una cuenta, c) Veter., d) en juegos de naipes.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Poner ó echar encima, como un peso ó carga sobre el hombro, sobre una bestia, nave, etc., para transportarlo (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Cargar á hombros, en hombros, cargar á flete.»",
           "autor": "Acad.",
           "referencia_obra": "Gram."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Siendo acus. el objeto que recibe la carga.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cargando las bestias, id á la tierra de Canaán.»",
               "autor": "Scío",
-              "referencia_obra": ", Gén. 45. 17. — Part."
-            },
+              "referencia_obra": ", Gén. 45. 17."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Tomaron los soldados lo que habían menester, como adquirido con el derecho de la necesidad, y volvieron al cuartel cargados y contentos.»",
-              "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 2. 8 ( R. 28. 2412)."
+              "id_limpio": "—",
+              "definicion": "Part.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Tomaron los soldados lo que habían menester, como adquirido con el derecho de la necesidad, y volvieron al cuartel cargados y contentos.»",
+                  "autor": "Solís",
+                  "referencia_obra": ", Conq. de Méj. 2. 8 ( R. 28. 2412)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -41,51 +58,77 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, para expresar la carga.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El curioso inventor de usos modernos, | Copete y goma, que lo carguen de heno, | Como al buey coceador sobre los cuernos.»",
                   "autor": "B. Argens.",
                   "referencia_obra": "epíst. Dícesme, Nuño (R. 42. 307¹)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Este alto dromedario | De lo mejor cargamos del corsario.»",
                   "autor": "Valb.",
-                  "referencia_obra": "Bern. 6 (R. 17. 200¹). — Refl."
+                  "referencia_obra": "Bern. 6 (R. 17. 200¹)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Refl.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«En diciéndole Cristo: toma tu carretón y anda, rindió su juicio, y con gran prontitud, presteza y alegría se cargó de él y comenzó á caminar.»",
+                      "autor": "Puente",
+                      "referencia_obra": ", Medit. 3. 32 (2. 217)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«En topando con la oveja, no la dio con el cayado, ni la lleva arrastrando, ó á puntapiés, sino con grande gozo se carga de ella sobre sus hombros, hasta volverla á su rebaño.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 3. 48 (2. 287)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Se fueron cada uno por su parte, con más cuidado de escaparse de la Hermandad, que temían, que de cargarse de la cadena, é ir á presentarse ante la señora Dulcinea del Toboso.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 22 (R. 1. 306¹)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Todos se cargaron de piedras y se pusieron en ala esperando recebir á D. Quijote en las puntas de sus guijarros.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 2. 11 (R. 1. 4262)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«O pídele sin duda que la pase á sí [la carga] y se cargue de ella.»",
+                      "autor": "",
+                      "referencia_obra": "Leon, Expos. de Job, 7 (1. 136)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«En diciéndole Cristo: toma tu carretón y anda, rindió su juicio, y con gran prontitud, presteza y alegría se cargó de él y comenzó á caminar.»",
-                  "autor": "Puente",
-                  "referencia_obra": ", Medit. 3. 32 (2. 217)."
-                },
-                {
-                  "texto_cita": "«En topando con la oveja, no la dio con el cayado, ni la lleva arrastrando, ó á puntapiés, sino con grande gozo se carga de ella sobre sus hombros, hasta volverla á su rebaño.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 3. 48 (2. 287)."
-                },
-                {
-                  "texto_cita": "«Se fueron cada uno por su parte, con más cuidado de escaparse de la Hermandad, que temían, que de cargarse de la cadena, é ir á presentarse ante la señora Dulcinea del Toboso.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 22 (R. 1. 306¹)."
-                },
-                {
-                  "texto_cita": "«Todos se cargaron de piedras y se pusieron en ala esperando recebir á D. Quijote en las puntas de sus guijarros.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 2. 11 (R. 1. 4262)."
-                },
-                {
-                  "texto_cita": "«O pídele sin duda que la pase á sí [la carga] y se cargue de ella.»",
-                  "autor": "",
-                  "referencia_obra": "Leon, Expos. de Job, 7 (1. 136). — Part."
-                },
-                {
-                  "texto_cita": "«Los soldados volvieron alegres con las victorias, ricos y cargados de despojos.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 9. 11 (R. 30. 260¹)."
-                },
-                {
-                  "texto_cita": "«En pago del cual querría, y es mi voluntad, que cargados de esa cadena que os quité de vuestros cuellos, luégo os pongáis en camino y vais á la ciudad del Toboso.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 22 (R. 13052)."
+                  "id_limpio": "—",
+                  "definicion": "Part.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Los soldados volvieron alegres con las victorias, ricos y cargados de despojos.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 9. 11 (R. 30. 260¹)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«En pago del cual querría, y es mi voluntad, que cargados de esa cadena que os quité de vuestros cuellos, luégo os pongáis en camino y vais á la ciudad del Toboso.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 22 (R. 13052)."
+                    }
+                  ]
                 }
               ]
             },
@@ -93,13 +136,16 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con con, en sentido análogo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Iba tras su amo cargado con todo aquello que había de llevar el rucio.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 22 (R. 1. 3062)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -107,62 +153,85 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Siendo acus. el nombre que representa la carga.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Con mucha priesa recogieron su ganado, y cargaron las reses muertas, que pasaban de siete, y sin averiguar otra cosa se fueron.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 18 (R. 1. 292¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si le han de poner su misma capa, ha de doblar las rodillas para que se la carguen como camello.»",
               "autor": "",
               "referencia_obra": "A. Pantaleón, Vejamen (Dicc. Autor.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con sobre, para expresar el objeto que recibe la carga.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Cargaron la cruz sobre aquellos hombros molidos y quebrantados.»",
                   "autor": "Gran.",
                   "referencia_obra": "Adic. al Mem. med. 16, § 4 (R. 8. 5562)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En este tiempo vi en Judá que pisaban lagares en sábado, que acarreaban haces, y cargaban sobre asnos vino y uvas, é higos, y toda carga.»",
                   "autor": "Scío",
                   "referencia_obra": ", Esdras, 2. 13. 15."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Admite además un dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Suelen hasta los mesmos verdugos --- atapar los ojos á los que van á degollar, porque no vean el instrumento que les ha de acabar la vida; mas aquí no sólo no usan deste linaje de humanidad con el Salvador, sino antes se lo cargan sobre los hombros.»",
                   "autor": "Gran.",
                   "referencia_obra": "Orac. y consid. 1, cap. últ. § 1 (R. 8. 91¹)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en, igualmente para expresar el objeto que recibe la carga.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El conocimiento es una obligación particular que un capitán ó maestre de navío otorga por medio de su firma en favor de un negociante que ha cargado en su navío algunas mercaderías y otras cosas para llevarlas de un puerto á otro.»",
                   "autor": "",
-                  "referencia_obra": "Orden. de Bilbao, 18. 34 (62). — Pas."
-                },
+                  "referencia_obra": "Orden. de Bilbao, 18. 34 (62)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Haciendo que de noche y escondido | En su nave el tesoro se cargase.»",
-                  "autor": "Erc.",
-                  "referencia_obra": "Arauc. 32 (R. 17. 1202)."
+                  "id_limpio": "—",
+                  "definicion": "Pas.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Haciendo que de noche y escondido | En su nave el tesoro se cargase.»",
+                      "autor": "Erc.",
+                      "referencia_obra": "Arauc. 32 (R. 17. 1202)."
+                    }
+                  ]
                 }
               ]
             }
@@ -172,75 +241,91 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "A semejanza de otros verbos que cambian el acus. en un compl. formado por con, se usa intransitivamente de este modo; sólo que, siendo construcción más enfática, se toma de ordinario por Llevarse, tomar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cargué con ella, fingiendo pesar mucho, y me pesaba mucho más de que no era más.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 1. 2. 7 (R. 3. 231¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Acabaron de comer, cargaron con sus imágines, y despidiéndose de D. Quijote, siguieron su viaje.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 58 (R. 1. 525¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué se me da á mí que mis vasallos sean negros? ¿Habrá más que cargar con ellos y traerlos á España, donde los podré vender, y adonde me los pagarán de contado?»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 29 (R. 1. 332¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Fui á ver una arca adonde tenía en una maleta todo el dinero que me había quedado de mi herencia y de lo ganado al juego --- hallé que el buen licenciado Brandagalas y Pero López habían cargado con ello y no parecian.»",
               "autor": "Quev.",
               "referencia_obra": "Gran Tac. 20 (R. 23. 520¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Llegué al segundo, trasunto | Del llanto y de la tristeza, | Y de una enlutada pieza | Vi cargar con un difunto.»",
               "autor": "Tirso",
               "referencia_obra": ", La celosa de sí misma, 1. 2 (R. 5. 129¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Matóle y cargó con él, | Sin duda á salar le lleva.»",
               "autor": "Cald.",
               "referencia_obra": "La devoción de la Cruz, 1. 4 (R. 7. 562)."
             },
             {
+              "marca": "",
               "texto_cita": "«Yo he menester esta calle. | — Pues cargad con sus guijarros.»",
               "autor": "",
               "referencia_obra": "Mto. S. Franco de Sena, 1. 11 (R. 39. 127¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Carga con ella, vuela, y atrevido | Pone su bola en el sagrado nido.»",
               "autor": "Saman.",
               "referencia_obra": "Fáb. 1. 5 (R. 61. 359¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Envíame dinero cuando puedas, no porque en el día lo necesite, sino porque no pierdo de mira el aumentar mi depósito, para cuando la irrupción gálica ocupe ambas Hesperias, y sea necesario cargar con el cofre y la media manta á Trieste ó á los infiernos.»",
               "autor": "Mor.",
               "referencia_obra": "Obr. póst. 2, p. 155."
             },
             {
+              "marca": "",
               "texto_cita": "«Cargo con mi bagaje apostólico, y éntrome en la barca.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1, p. 467."
             },
             {
+              "marca": "",
               "texto_cita": "«No bien hubo dicho: llevadle, cuando entre siete ú ocho cargaron con el desventurado tuerto, y le llevaron en volandas hasta unas barandillas que daban á la escalera principal.»",
               "autor": "",
               "referencia_obra": "Id. Derr. de los pedantes (R. 2. 5692)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "met. Tomar sobre sí alguna responsabilidad, obligación ó cuidado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Lo que había logrado era cargar con una responsabilidad enorme --- y crear nuevos elementos de discordia.»",
                   "autor": "A. Galiano",
                   "referencia_obra": ", Recuerdos, p. 397."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -248,38 +333,46 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Omitido el acus. que denota el objeto que recibe la carga, resulta otra construcción intrans. con de, que precede al nombre que denota la carga. A esta construcción corresponde la definición que da así la Acad.:",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Acopiar con abundancia algunas cosas para usar de ellas, para venderlas ó para otros fines;»",
               "autor": "",
               "referencia_obra": "y"
             },
             {
+              "marca": "",
               "texto_cita": "«así se dice del estudioso y erudito que carga de libros y de escritos curiosos, y del comerciante y tratante que cargó en tal feria de diversas suertes de sedas, paños, etc.»",
               "autor": "",
               "referencia_obra": "Dicc. Autor."
             },
             {
+              "marca": "",
               "texto_cita": "«Mandó al marqués de la Favara que con mil hombres y cien caballos y gran número de bagajes atravesase el puerto de la Ravaha, y cargase de vitualla en la Calahorra.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Gran. 4 (R. 21. 114¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«A todo se abalanzan no por el celo de introducir religión ó policía, sino por cargar de aquella droga [las especias], causadora de las inobediencias y supersticiones.»",
               "autor": "Capm.",
               "referencia_obra": "Teatro, 4. 400)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Ay del que carga de las alhajas de los enemigos de Dios, que lleva su perdición en ellas sin entenderse!»",
               "autor": "Capm.",
               "referencia_obra": "Teatro, 4. 186)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cargaron de ropas y mercaderías de valor, y particularmente se cebaron en los almacenes de la sal.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 3. 7 (R. 28. 275¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -287,38 +380,56 @@
     {
       "id": "b)",
       "definicion": "met. Imponer algo que pueda mirarse como carga; vr. gra. un gravamen ú obligación.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con acus. de pers.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, para expresar la carga.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«De todas estas cosas le cargó el Pontífice al santo doctor, para que lo que respondiese fuese respondido, y aquello, sobreponiéndole su autoridad, confirmándolo y autorizándolo con firmeza apostólica, se tuviese por decretado.»",
                   "autor": "Sig.",
                   "referencia_obra": "Vida de S. Jer. 3, 5. (178)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Oh Dios purísimo, que estando libre de culpas y de penas, tomando nuestra naturaleza te cargaste de penas para descubrir el aborrecimiento que tienes á las culpas, cárgame aquí de tormentos, con tal que para siempre me libres de pecados.»",
                   "autor": "Puente",
-                  "referencia_obra": ", Medit. 1. 6 (1. 83). — Refl."
-                },
+                  "referencia_obra": ", Medit. 1. 6 (1. 83)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Dice Cristo en el Evangelio que cada uno tome su cruz; no dice que tome la ajena, sino manda que cada uno se cargue de la suya propia.»",
-                  "autor": "León",
-                  "referencia_obra": ", Perf. cas. introd. (3. 423)."
-                },
-                {
-                  "texto_cita": "«De donde procede, con una falsa aprensión de necesidad ó piedad, querer abarcar muchas cosas, y cargarse de muchedumbre de ocupaciones sobre sus fuerzas.»",
-                  "autor": "Puente",
-                  "referencia_obra": ", Medit. 3, introd, § 5 (2. 12)."
+                  "id_limpio": "—",
+                  "definicion": "Refl.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Dice Cristo en el Evangelio que cada uno tome su cruz; no dice que tome la ajena, sino manda que cada uno se cargue de la suya propia.»",
+                      "autor": "León",
+                      "referencia_obra": ", Perf. cas. introd. (3. 423)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«De donde procede, con una falsa aprensión de necesidad ó piedad, querer abarcar muchas cosas, y cargarse de muchedumbre de ocupaciones sobre sus fuerzas.»",
+                      "autor": "Puente",
+                      "referencia_obra": ", Medit. 3, introd, § 5 (2. 12)."
+                    }
+                  ]
                 }
               ]
             },
@@ -326,42 +437,52 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Las razones que les opuso el obispo fueron tan fuertes y tan severas, cargólos con una responsabilidad tan grande si por escuchar sus miserables pasiones suspendían el efecto de unas gracias concedidas á servicios eminentes y notorios en los dos mundos, que puso miedo en todos.»",
                   "autor": "Quint.",
                   "referencia_obra": "Balboa (R.19. 2972)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con solo acus.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ni les falte en lo que han menester, ni en lo que ellos han de hacer los cargue demasiadamente.»",
                   "autor": "León",
                   "referencia_obra": ", Perf. cas. 11 (3. 468)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No sé si voy contra mi conciencia en descubriros lo que me parece que también la cargaria si lo callase.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 11 (R. 1. 2242)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En buena cristiandad no es desventurado, ni queda, como dicen, cargado el que recibe la injuria, sino el que la hace.»",
                   "autor": "Sig.",
                   "referencia_obra": "Vida de S. Jer. 3. 3 (157)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -369,79 +490,105 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con acus. de cosa.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. de pers. ó cosa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Aun no tiene hombros para sufrir la cobija, y ya le cargan en su pensamiento [al hijo recién nacido] el peso del gobierno, del obispado ó presidencia del reino.»",
                   "autor": "Roa",
                   "referencia_obra": ", Vida de Dª. Ana Ponce de León, 2. 1 (53)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Cuando de ocupación tan importuna | Cargan el grave yugo á sus cervices, | El carro van tirando de Fortuna.»",
                   "autor": "B. Argens.",
                   "referencia_obra": "epíst. ¿Esos consejos das (R. 42. 301² )."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Cualquiera destas cosas bastara para librar las cervices del peso que por nuestra credulidad nos cargamos.»",
                   "autor": "Capm.",
                   "referencia_obra": "Teatro, 4. 387)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Qué prendas me tiene dadas la fortuna de que en este niño se ha de aplacar con aquella familia, á quien, en correspondencia del hospedaje con que recibió las gentes de Europa, condenó á sostener inmortales enemistades; y por la protección que pensó hallar en vuestras armas, ordenó que le cargásedes yugo intolerable?»",
                   "autor": "",
                   "referencia_obra": "Id. (ib. 4. 388)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Lo cual redunda en otros dos daños del ave robada, que es matarle sus hijos y cargarle la crianza de los ajenos.»",
                   "autor": "Gran.",
                   "referencia_obra": "Símb. 1. 17, § 2 (R. 6. 228¹)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Cuando pudiere y debiere tener lugar la equidad, no cargues todo el rigor de la ley al deIincuente; que no es mejor la fama del juez riguroso que la del compasivo.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 42 (R. 1. 4922)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Espero escribir con fiel verdad estos sucesos por el cuidado que puse en cargar á la memoria menuda y precisamente las cosas de que fui testigo.»",
                   "autor": "Coloma",
                   "referencia_obra": ", Guerras de los Est. Bajos, 1 (R. 28. 4¹)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«A muchos cuerdos parece que ninguno debe de cargar sobre sí obligación determinada que el cumplilla ó el estorbo de ella esté en mano de otro.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Granad. 3 (R. 21. 962)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En cuya proposición se portó con total indiferencia, ó porque no llevaba hecho dictamen, ó porque le llevaba de no cargar sobre sí la incertidumbre del suceso.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 4. 17 (R. 28. 333¹)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Por más que dijeron, Andrés quiso ser ladrón solo y señero, con intención de apartarse de la cuadrilla, y comprar por su dinero alguna cosa que pudiese decir que la había hurtado, y deste modo cargar lo menos que pudiese sobre su conciencia.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 1 (R. 1. 111¹)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se le acusa de --- no haber sabido libertar á los indios de las plagas que sufrían, sin cargarlas sobre los infelices africanos.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Las Casas (R. 19. 4442). —"
-                },
+                  "referencia_obra": "Las Casas (R. 19. 4442)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No se calculó que si el labrador hubiera de tomar sobre sí estas funciones, cargaría también sobre sus frutos el valor del tiempo y el trabajo consumidos en ellas y robados á su profesión.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "Ley agraria, 1ª. clase (R. 50. 109¹)."
+                  "id_limpio": "—",
+                  "definicion": "",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«No se calculó que si el labrador hubiera de tomar sobre sí estas funciones, cargaría también sobre sus frutos el valor del tiempo y el trabajo consumidos en ellas y robados á su profesión.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "Ley agraria, 1ª. clase (R. 50. 109¹)."
+                    }
+                  ]
                 }
               ]
             }
@@ -452,58 +599,72 @@
     {
       "id": "c)",
       "definicion": "met. Dícese en especial de los tributos.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con acus. de pers.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cuando le aconsejaban que cargase á sus vasallos, respondía con gran compasión: No pueden pagar lo que deben, ¿cómo queréis que les reparta más?»",
               "autor": "Márquez",
               "referencia_obra": ", Gob. crist. 1. 16, § 3 (1. 196)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué habemos de hacer, cuando nace aquel Príncipe que no ha de cargar á sus súbditos, ni ponerles pechos ni tributos, sino tomar sobre sí las cargas de ellos y pagar en su cuerpo las penas que ellos merecen?»",
               "autor": "Rivad.",
               "referencia_obra": "Flos SS. Nativ. de N. S. J. C. (Vida de Cristo, 165)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ordenó que Roboam. no creyese á los ancianos --- sino á los mozos que le dijeron que le apretase [al pueblo] y cargase más.»",
               "autor": "",
               "referencia_obra": "Id. Trib. 2. 9 (R. 60. 425¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Llegó á cargar sus reinos de imposiciones y tributos intolerables.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Mej. 4. 15 (R. 28. 330¹)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El rey Salomón había cargado su reino con gravísimos tributos.»",
                   "autor": "Márquez",
                   "referencia_obra": ", Gob. crist. 1. 16, § 3 (1. 183)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El saber el número de los vasallos y la calidad de las haciendas, sirve solamente para cargallos mejor con tributos.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 14 (R. 25. 422)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -511,21 +672,34 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con acus. de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El príncipe cargaba y aliviaba los tributos por sola su autoridad.»",
               "autor": "Márquez",
               "referencia_obra": ", Gob. crist. 1. 16, § 3 (1. 184)."
             },
             {
+              "marca": "",
               "texto_cita": "«Determinados el cuánto de la contribución, y los objetos de su inversión, la Junta procederá á determinar el modo de cargarla y exigirla.»",
               "autor": "",
-              "referencia_obra": "Jovell. Instrucc. á la Junta de Hacienda (R. 50. 78¹). — Pas."
-            },
+              "referencia_obra": "Jovell. Instrucc. á la Junta de Hacienda (R. 50. 78¹)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Aquella imposición se cargó sin que el pueblo hebreo la aceptase.»",
-              "autor": "Márquez",
-              "referencia_obra": "Gob. crist. 1, 16, § 3 (1. 185)."
+              "id_limpio": "—",
+              "definicion": "Pas.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Aquella imposición se cargó sin que el pueblo hebreo la aceptase.»",
+                  "autor": "Márquez",
+                  "referencia_obra": "Gob. crist. 1, 16, § 3 (1. 185)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -533,33 +707,49 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. de pers.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Cansados con nuevas imposiciones que les cargaba, llevaban mal la aspereza del rey y su condición.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 11. 15 (R. 30. 3242)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Solo este príncipe [Moisés], dice Filón, no supo cargar tributos sobre sus vasallos.»",
                   "autor": "Márquez",
-                  "referencia_obra": ", Gob. crist. 1. 16, § 2 (1. 177). —"
-                },
+                  "referencia_obra": ", Gob. crist. 1. 16, § 2 (1. 177)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Los romanos cargaron grandes tributos sobre las aromas, perlas y piedras preciosas que se traían de Arabia.»",
-                  "autor": "Saav.",
-                  "referencia_obra": "Emp. 67 (R. 25. 1852)."
-                },
-                {
-                  "texto_cita": "«Deberá calcular, con la mayor aproximación que le sea posible, la suma total de su producto, para conocer el máximo de la renta nacional, y determinar el máximo de la contribución que se puede cargar sobre ella.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "ubi supra (R. 50. 772)."
+                  "id_limpio": "—",
+                  "definicion": "",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Los romanos cargaron grandes tributos sobre las aromas, perlas y piedras preciosas que se traían de Arabia.»",
+                      "autor": "Saav.",
+                      "referencia_obra": "Emp. 67 (R. 25. 1852)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Deberá calcular, con la mayor aproximación que le sea posible, la suma total de su producto, para conocer el máximo de la renta nacional, y determinar el máximo de la contribución que se puede cargar sobre ella.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "ubi supra (R. 50. 772)."
+                    }
+                  ]
                 }
               ]
             },
@@ -567,13 +757,16 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Embarcóse después para pasar á Sicilia, alterada entonces por las contribuciones que el virrey Juan de Lanuza había cargado en sus pueblos.»",
                   "autor": "Quint.",
                   "referencia_obra": "Gran Capitán (R. 19. 258¹)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -582,54 +775,89 @@
     {
       "id": "d)",
       "definicion": "met. Hacer un cargo ó imputación, acusar.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con acus. de pers.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Decía el marqués que la falta de vitualla había sido causa de haberse deshecho su campo; cargaba á don Juan, al consejo de Granada.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granad. 3 (R. 21. 101¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, para expresar lo imputado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Quede pues por cosa cierta que Brunechilde fue buena princesa, y que sin embargo en aquellos tiempos muy perdidos la cargaron de pecados ajenos.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 5. 10 (R. 30. 1382). — Con un pred."
+                  "referencia_obra": ", Hist. Esp. 5. 10 (R. 30. 1382)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con un pred.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Don Diego Ordóñez cargaba á los ciudadanos de traidores como participantes en aquel caso.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 9. 10 (R. 30. 259¹)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«¿Quién [según el juicio humano] no cargara á Job de impaciente y atrevido, y loara á sus amigos de celosos de la honra de Dios?»",
+                      "autor": "León",
+                      "referencia_obra": ", Expos. de Job, 42 (2. 325)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«En esta retirada, cargan los historiadores griegos á los nuestros de insolentes y crueles, que hicieron más daños en las ciudades de Asia que los turcos enemigos del nombre cristiano.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ", Exped. 18 (R. 21. 172)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Don Diego Ordóñez cargaba á los ciudadanos de traidores como participantes en aquel caso.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 9. 10 (R. 30. 259¹)."
+                  "id_limpio": "—",
+                  "definicion": "Con una prop. indic.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Comúnmente cargaban á Carlos, rey que era á la sazón de Nápoles y Sicilia, de que no vengó esta muerte.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 14. 10 (R. 30. 419¹)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Quién [según el juicio humano] no cargara á Job de impaciente y atrevido, y loara á sus amigos de celosos de la honra de Dios?»",
-                  "autor": "León",
-                  "referencia_obra": ", Expos. de Job, 42 (2. 325)."
-                },
-                {
-                  "texto_cita": "«En esta retirada, cargan los historiadores griegos á los nuestros de insolentes y crueles, que hicieron más daños en las ciudades de Asia que los turcos enemigos del nombre cristiano.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ", Exped. 18 (R. 21. 172). — Con una prop. indic."
-                },
-                {
-                  "texto_cita": "«Comúnmente cargaban á Carlos, rey que era á la sazón de Nápoles y Sicilia, de que no vengó esta muerte.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 14. 10 (R. 30. 419¹). — Con un infin."
-                },
-                {
-                  "texto_cita": "«Reprehendía á sus ciudadanos, cargábalos de ser fautores de herejes.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 12. 1 (R. 30. 3412)."
+                  "id_limpio": "—",
+                  "definicion": "Con un infin.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Reprehendía á sus ciudadanos, cargábalos de ser fautores de herejes.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 12. 1 (R. 30. 3412)."
+                    }
+                  ]
                 }
               ]
             },
@@ -637,13 +865,16 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Es preciso confesar que no fue tan rigorosa como prometía la animosidad mostrada contra don Álvaro y las odiosas imputaciones con que antes le cargaban.»",
                   "autor": "Quint.",
                   "referencia_obra": "D. Álv. de Luna (R. 19. 4132)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -651,66 +882,95 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con acus. de cosa y dat. de pers.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cuando están en oración, les parece querrían ser abatidas y públicamente afrentadas por Dios, y después, una falta pequeña encubrirían si pudiesen, ó que si no la han hecho, y se la cargan, Dios nos libre.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Mor. 5. 3 (R. 53. 458¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cargábanle culpas, escarnecíanle, burlaban de su condición sus mismos consejeros.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Gran. 3 (R. 21. 102² )."
             },
             {
+              "marca": "",
               "texto_cita": "«Bendecía el hierro o agua un sacerdote después de dicha su misa: el que tocado el hierro ó bebida el agua, escapaba del peligro, era dado por libre de la sospecha ó infamia que le cargaban.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 5. 7 (R. 30. 133¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Determinó acusar á su madre de adulterio --- La acusación de don García alteró grandemente el ánimo del rey luégo que supo lo que pasaba. Acudió á su reino. Extrañaba mucho lo que cargaban á la reina.»",
               "autor": "",
               "referencia_obra": "Id. ib. 8. 13 (R. 30. 243¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Prendieron por mandado del rey al adelantado Pedro Manrique: cargábanle ciertas pláticas y tratos que decían tenía con don Alonso de Aragón.»",
               "autor": "",
               "referencia_obra": "Id. ib. 18. 3 (R. 31. 62)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cargando á todas la culpa que yo solo tenía, dijo ---»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 39 (R. 1. 4862)."
             },
             {
+              "marca": "",
               "texto_cita": "«Fatal desdicha de la nación española el cargarle todas las demás las culpas que no tiene, como en este caso.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 362)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cargábanle comúnmente la culpa de la pérdida de Tarragona.»",
               "autor": "Melo",
-              "referencia_obra": ", Guerra de Catal. 5 (R. 21. 518² ). — Pas."
+              "referencia_obra": ", Guerra de Catal. 5 (R. 21. 518² )."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Pas.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Los monjes se maravillaron del caso viendo descubierto el hurto, y que el león estaba ajeno de la culpa que se le cargaba.»",
+                  "autor": "Sig.",
+                  "referencia_obra": "Vida de S. Jer. 5. 8 (475)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Los monjes se maravillaron del caso viendo descubierto el hurto, y que el león estaba ajeno de la culpa que se le cargaba.»",
-              "autor": "Sig.",
-              "referencia_obra": "Vida de S. Jer. 5. 8 (475). — Con una prop. indic."
-            },
-            {
-              "texto_cita": "«Reprehende la soberbia y orgullo del francés; cárgale que confiaba en sus fuerzas y en su fiereza, que era la causa de tener las orejas cerradas á la razón y justicia.»",
-              "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 5. 6 (R. 30. 1292)."
-            },
-            {
-              "texto_cita": "«Cierto soldado en secreto murmuraba de Garcí Pérez de Vargas: cargábale que el escudo ondeado que traía era de diferente linaje.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 13. 7 (R. 30. 380²)."
-            },
-            {
-              "texto_cita": "«En esta ciudad en una noche hizo matar diez y seis hombres principales: cargábales fueron los primeros que en ella dieron entrada al rey don Enrique.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 17. 10 (R. 30. 5142)."
+              "id_limpio": "—",
+              "definicion": "Con una prop. indic.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Reprehende la soberbia y orgullo del francés; cárgale que confiaba en sus fuerzas y en su fiereza, que era la causa de tener las orejas cerradas á la razón y justicia.»",
+                  "autor": "Mariana",
+                  "referencia_obra": ", Hist. Esp. 5. 6 (R. 30. 1292)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Cierto soldado en secreto murmuraba de Garcí Pérez de Vargas: cargábale que el escudo ondeado que traía era de diferente linaje.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 13. 7 (R. 30. 380²)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«En esta ciudad en una noche hizo matar diez y seis hombres principales: cargábales fueron los primeros que en ella dieron entrada al rey don Enrique.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 17. 10 (R. 30. 5142)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -720,55 +980,67 @@
     {
       "id": "e)",
       "definicion": "En especial, Embarcar y transportar mercadurías para comerciar con ellas (trans.). A menudo se usa en absol.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Cargar para Indias.»",
           "autor": "Covarr.",
           "referencia_obra": ""
         },
         {
+          "marca": "",
           "texto_cita": "«Nunca consintió á sus hijos que cargasen para las Indias, aunque entonces se veían en este negocio muchas ganancias.»",
           "autor": "Palma",
           "referencia_obra": ", Vida de G. de la Palm., p.14"
         },
         {
+          "marca": "",
           "texto_cita": "«Ningún capitán podrá firmar conocimiento alguno en confianza de oferta ni papel de otro que le manifestare su deseo de cargar.»",
           "autor": "Orden. de Bilbao",
           "referencia_obra": ", 24. 60 (86)."
         },
         {
+          "marca": "",
           "texto_cita": "«El medio más eficaz y general de fomentar nuestra marina --- será conceder á los que cargaren en buques españoles algunas gracias en la percepción de los derechos de entrada y salida.»",
           "autor": "Jovell.",
           "referencia_obra": "Inf. sobre fomento de la marina mercante (R. 50. 272)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Se usa como suj. el nombre de la embarcación.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tal bergantín cargará en Málaga cien pipas de vino.»",
               "autor": "Salvá",
               "referencia_obra": ", Dicc."
             },
             {
+              "marca": "",
               "texto_cita": "«Tuve nuevas que había una nave ginovesa que cargaba allí para Génova.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 39 (R. 1. 363¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si algún fletante después de haber cargado el navío sus mercaderías, le conviniere anular el fletamento y descargarlas, lo podrá hacer.»",
               "autor": "Orden. de Bilbao",
               "referencia_obra": ", 18. 9 (59)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los mismos aranceles convencen que era libre por aquellos tiempos á los buques extranjeros cargar en nuestros puertos.»",
               "autor": "Jovell.",
               "referencia_obra": "Inf. sobre fomento de la marina mercante (R. 50. 222)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -776,59 +1048,74 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Poner ó echar encima muchas cosas (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con acus. de pers. y de para expresar lo que se pone.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cargáronme de joyas y atavíos, | Y me privaron de la paz dichosa | Que yo gozaba en mi inocente asilo.»",
               "autor": "Quint.",
               "referencia_obra": "El duque de Viseo, 1. 1 (R. 19. 43¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«i Oh príncipes, cargaos de brocados, acumulad muchos tesoros, juntad muchos ejércitos---!»",
                   "autor": "",
                   "referencia_obra": "Guev. (Capm. Teatro, 2. 113)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Part. Se toma en general por Cubierto, lleno.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El árbol cargado de trofeos no queda menos tronco que antes.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 17 (R. 25. 46¹)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Parece que esta arquitectura representa el carácter de los tiempos en que fue cultivada: grosera, sólida y sencilla en los castillos y fortalezas; seria, rica y cargada de adornos en los templos.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Elog. de las bellas artes (R. 46. 3512)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¡No está cargada [la biblioteca], como otras muchas, de libros góticos que ya nadie lee.»",
                   "autor": "",
                   "referencia_obra": "Mor. Obr. post. 1, p. 526."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -836,13 +1123,16 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con acus. de cosa y dat. de pers.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cargándole cuanta ropa podía sufrir en la cama, no podía entrar en calor.»",
               "autor": "Gran.",
               "referencia_obra": "Vida de Áv., 5, § 5 (R. 11. 4802)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -850,65 +1140,88 @@
     {
       "id": "b)",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El objeto de estas dos últimas unidades es cargar lo menos que sea posible la imaginación de los espectadores con circunstancias inverosímiles en la representación del drama, y hacer que la imitacion se acerque más á la realidad.»",
               "autor": "Jovell.",
               "referencia_obra": "Human. castell. Poét. (R. 46. 144² )."
             },
             {
+              "marca": "",
               "texto_cita": "«Deseamos evitar que el catedrático cargue la memoria con una muchedumbre de inútiles preceptos.»",
               "autor": "",
               "referencia_obra": "Id. Regl. col. de Calatr. 2. 1 (R. 46. 193¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Se le puede enseñar con brevedad la lengua latina, sin cargarle de preceptos que los mismos maestros ó no los saben, ó los han olvidado.»",
               "autor": "Espinel",
               "referencia_obra": ". Escud. 1. 7 (R. 18. 393¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cargando su memoria de impertinentes reglas y preceptos, le hacemos consagrar á los métodos de inquirir la verdad el tiempo que debiera emplear en alcanzarla y poseerla.»",
               "autor": "Jovell.",
               "referencia_obra": "Orac. sobre el est. de la lit. y las ciencias (R. 46. 331¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«A este fin podrá el catedrático inclinar á los discípulos á la lectura de los orígenes de nuestra poesía, escritos por el marqués de Valdeflores --- no tanto para cargar su memoria de noticias y preceptos, cuanto para que conozcan la historia y adelantamientos de nuestra poesía.»",
               "autor": "",
               "referencia_obra": "Id. Regl. col. de Calatr. 2. 1 (R. 46. 1982)."
             },
             {
+              "marca": "",
               "texto_cita": "«Semejantes asuntos se prestaban al interés dramático; pero Lupercio los cargó de incidentes extraños, amontonó las muertes de un modo absurdo y atroz.»",
               "autor": "",
-              "referencia_obra": "Gil y Zárate, Resum. histór. p. 249. —"
-            },
+              "referencia_obra": "Gil y Zárate, Resum. histór. p. 249."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Cuando les carga de maldiciones por la culpa, les ofrece al Autor de todas las bendiciones celestiales, por sola su gracia.»",
-              "autor": "Puente",
-              "referencia_obra": ", Medit. 2. 5 (1. 277)."
-            },
-            {
-              "texto_cita": "«Una acción tan villana --- es preciso no mirarla sino para cargarla de maldiciones.»",
-              "autor": "Quint.",
-              "referencia_obra": "Cartas á L. Holland, 5 (R. 19. 556¹)."
-            },
-            {
-              "texto_cita": "«Los cristianos pacíficos lo digan | Sometidos al árabe gobierno, | A quienes de Giafar el fanatismo | Cargó de oprobio, de miseria y hierros.»",
-              "autor": "",
-              "referencia_obra": "A. Saav. Moro expós. 2 (2. 38)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Cuando les carga de maldiciones por la culpa, les ofrece al Autor de todas las bendiciones celestiales, por sola su gracia.»",
+                  "autor": "Puente",
+                  "referencia_obra": ", Medit. 2. 5 (1. 277)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Una acción tan villana --- es preciso no mirarla sino para cargarla de maldiciones.»",
+                  "autor": "Quint.",
+                  "referencia_obra": "Cartas á L. Holland, 5 (R. 19. 556¹)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Los cristianos pacíficos lo digan | Sometidos al árabe gobierno, | A quienes de Giafar el fanatismo | Cargó de oprobio, de miseria y hierros.»",
+                  "autor": "",
+                  "referencia_obra": "A. Saav. Moro expós. 2 (2. 38)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -916,28 +1229,34 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La rigurosa mano que me aparta, | Como á ti de tu bien, a mí del mío, | Cargada va de triunfos y victorias.»",
                   "autor": "",
                   "referencia_obra": "F. de la Torre, 1, canc. 1 (19)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¡Pues qué! ya hombre cargado de cuidados entre arrepentimiento y desengaños, empezando á sentir el montón de las enfermedades que la mocedad acaudaló.»",
                   "autor": "Quev.",
                   "referencia_obra": "Entremetido (R. 23. 363² )."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Volvió el duque de Guisa á su casa, hacia la fin del año, cargado de esperanzas.»",
                   "autor": "Coloma",
                   "referencia_obra": ", Guerras de los Est. Bajos, 4 (R. 28. 52¹)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Recogió los soldados huídos, y muy de mañana con el sol acometió los reales de los enemigos, que cargados de sueño y vino se hallaban muy lejos de pensar cosa semejante.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 9. 8 (R. 30. 256¹)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -945,16 +1264,28 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "En general, Multiplicar, menudear.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mira, Sancho, no te digo yo que parece mal un refrán traído á propósito; pero cargar y ensartar refranes á troche moche, hace la plática desmayada y baja.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 43 (R. 1. 493²). —"
-            },
+              "referencia_obra": "Quij. 2. 43 (R. 1. 493²)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Por este [método] se señala claramente el punto que se ha de probar, y se va cargando una prueba sobre otra hasta que los oyentes queden enteramente convencidos.»",
-              "autor": "Jovell.",
-              "referencia_obra": "Human. castell. Retór. (R. 46. 136²)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Por este [método] se señala claramente el punto que se ha de probar, y se va cargando una prueba sobre otra hasta que los oyentes queden enteramente convencidos.»",
+                  "autor": "Jovell.",
+                  "referencia_obra": "Human. castell. Retór. (R. 46. 136²)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -964,36 +1295,45 @@
     {
       "id": "c)",
       "definicion": "Refl. En general, Llenarse ó llegar á tener copia ó abundancia; se dice de ciertas cosas así materiales como inmateriales. Con de.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cargarse de lágrimas los ojos; cargarse de hijos; cargarse de razón.»",
               "autor": "Acad.",
               "referencia_obra": "Dicc."
             },
             {
+              "marca": "",
               "texto_cita": "«En vez de llorar allí las culpas que de fuera trajeron, allí hacen y se cargan de otras mayores.»",
               "autor": "Roa",
               "referencia_obra": ", Vida de Dª. Sancha Carrillo, 1. 7 (49)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No me maravillo de aquellos dos divinos filósofos, cargados de años, ciencia y experiencia, diciendo el uno que ---»",
                   "autor": "Quev.",
                   "referencia_obra": "Casa de locos (R. 23. 3552)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1001,23 +1341,28 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Se halla la construcción intrans. cargar de hijos en lugar de la usual cargarse de hijos.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Veinte años le duró el estado presente, en quien cargó de hijos, cierta cosecha en casa de los pobres.»",
               "autor": "Césp. y Men.",
               "referencia_obra": "Sold. Pínd. 1. 1 (R. 18. 278 )."
             },
             {
+              "marca": "",
               "texto_cita": "«Tornando mi padre á tomar estado, dio madrastra á su hija, aversión conocida á mis flacos progresos, y mayormente luégo que cargó de hijos.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 20 (R. 18. 314)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aunque ha cargado de hijos, no por eso ha aflojado en el albergue de los pobres, gastos y limosnas continuas.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 21 (R. 18. 318¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1025,31 +1370,39 @@
     {
       "id": "d)",
       "definicion": "Refl. Aplicado al cielo, al horizonte.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cargarse de nubes el cielo.»",
               "autor": "Acad.",
               "referencia_obra": "Dicc."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Menos nos mueve el mar en calma que una tormenta deshecha: menos el cielo sereno y sembrado de estrellas que iluminado de relámpagos y cargado de nublados.»",
                   "autor": "Capm.",
                   "referencia_obra": "Filosof. eloc. 2. 1 (240)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1057,22 +1410,36 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol. Dícese del tiempo, del horizonte, etc. cuando se van aglomerando y condensando las nubes.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Lo cual vemos que no hace cuando está doliente, ó cuando el tiempo es cargado y triste.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Símb. 1. 12, § 3 (R. 6. 213 ) — Sup."
-                },
+                  "referencia_obra": "Símb. 1. 12, § 3 (R. 6. 213 )"
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Se entregaron todos á lisonjeras esperanzas, no obstante ver cargadísimo el horizonte por la boca del Guadalquivir --- indicio infalible de un viento vendaval acompañado de lluvia.»",
-                  "autor": "A. Galiano",
-                  "referencia_obra": ", Recuerdos, p. 195."
+                  "id_limpio": "—",
+                  "definicion": "Sup.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Se entregaron todos á lisonjeras esperanzas, no obstante ver cargadísimo el horizonte por la boca del Guadalquivir --- indicio infalible de un viento vendaval acompañado de lluvia.»",
+                      "autor": "A. Galiano",
+                      "referencia_obra": ", Recuerdos, p. 195."
+                    }
+                  ]
                 }
               ]
             }
@@ -1083,37 +1450,61 @@
     {
       "id": "e)",
       "definicion": "Hablándose de los árboles se dice que cargan de fruta, ó simplemente que cargan.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En cargando el árbol de frutas, luégo las flores se caen ó se tornan marchitas.»",
               "autor": "Guev.",
               "referencia_obra": "Marco Aurelio, 3. 21 (Dicc. Autor.)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los más de los árboles cargan más á la vejez de fruto que cuando nuevos.»",
               "autor": "Herr.",
               "referencia_obra": "Agric. gen. 3. 7 (2. 63)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si cargan mucho de fruta [los manzanos], cuando está menuda entresaquen la más desmedrada.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 3. 31 (2. 289). —"
+              "referencia_obra": "Id. ib. 3. 31 (2. 289)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Suelen asimismo [los duraznos] cargar mucho, y por eso perecen más aína.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 3. 23 (2. 207)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Suelen asimismo [los duraznos] cargar mucho, y por eso perecen más aína.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 3. 23 (2. 207). —"
-            },
-            {
-              "texto_cita": "«Trasplantada en la religión, cargó de flores y frutos de excelentes virtudes.»",
-              "autor": "Roa",
-              "referencia_obra": ", Vida de Dª. Ana Ponce de León, 1. 1 (16)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Trasplantada en la religión, cargó de flores y frutos de excelentes virtudes.»",
+                  "autor": "Roa",
+                  "referencia_obra": ", Vida de Dª. Ana Ponce de León, 1. 1 (16)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -1121,18 +1512,22 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La hermosura de algunos árboles cuando están muy cargados de fruta ya madura, ¿quién no la ve?»",
                   "autor": "Gran.",
                   "referencia_obra": "Símb. 1. 10, § 3 (R. 6. 208 )."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El olivar más cargado | De aceitunas me parece | Menos hermoso.»",
                   "autor": "Lope",
                   "referencia_obra": ", Peribáñez y el Comendador de Ocaña, 1. 1 (R. 41. 2812)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1141,58 +1536,71 @@
     {
       "id": "f)",
       "definicion": "met. Comer ó beber destempladamente. De ordinario se usa en absol. y acompañado de adverbios como mucho, demasiado.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Por Dios, Nuño, que sospecho | Que habéis cargado en la venta.»",
           "autor": "Alarcón",
           "referencia_obra": ", Siempre ayuda la verdad, 3. 11 (R. 20. 2442)."
         },
         {
+          "marca": "",
           "texto_cita": "«A él por desatinado y loco, ó porque había cargado demasiado, y á los fulleros por gente sospechosa --- les hicieron pagar las costas sin averiguar el secreto.»",
           "autor": "Espinel",
           "referencia_obra": ", Escud. 1. 13 (R. 18. 406¹)."
         },
         {
+          "marca": "",
           "texto_cita": "«A veces el vino á quien carga demasiado, le hace ver dos candelas donde no hay más que una.»",
           "autor": "Gracián",
           "referencia_obra": ", Obras, fol. 73 (Dicc. Autor.)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Estar cargado (fam.): haber bebido mucho»",
               "autor": "Salvá",
               "referencia_obra": ", Dicc."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "En igual sentido se ha usado la frase cargar delantero, en que el último hace oficio de adverbio. Ignoramos su valor originario.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Delantero debió de cargar anoche en el refectorio, padre Rebolledo, pues aun no se han despedido los arrobos de Baco.»",
               "autor": "Tirso",
               "referencia_obra": ", Los tres maridos burlados (R. 18. 489¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mi ama vivía en un aposento bajo; dejóme, como el escarabajo, el peso á las cuestas, y fuese á dormir; debió de cenar salado, que cargó delantero, conforme á su costumbre antigua.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 1. 2. 6 (R. 3. 228¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Murieron de brindis á brindis veinte ó treinta sin confesión --- con esto salimos de casa á montería de corchetes --- El alguacil puso la justicia en sus pies, y apeló por la calle arriba dando voces; no lo pudimos seguir, por haber cargado delantero.»",
               "autor": "Quev.",
               "referencia_obra": "Gran Tac. 23 (R. 23. 528¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1200,77 +1608,96 @@
     {
       "id": "g)",
       "definicion": "Part. fem. Preñada.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Doña María, mujer del infante don Pedro, en Córdova, do quedó muy cargada, parió una hija, por nombre doña Blanca.»",
           "autor": "Mariana",
           "referencia_obra": ", Hist. Esp 15. 16 (R. 30. 4522)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Hacer que una cosa descanse ó pese sobre otra (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si tan pesada tiene la mano cuando la carga para azotar, ¿qué tan blanda la tendrá cuando la extiende para regalar?»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 16 (R. 6. 59¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con sobre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Miembros tostados agregó, y cual pudo | Cargó sobre éstos un penasco rudo.»",
               "autor": "Jáur.",
               "referencia_obra": "Fars. 16 (Fern. 8. 125)."
             },
             {
+              "marca": "",
               "texto_cita": "«Sus obras son perfectas y acabadas, y no las comienza ni abre los cimientos sino para cargar sobre ellos el edificio.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 2. 11, § 4 (R. 6. 310¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«En esto Rengo, á tiempo el pie trocado, | Del firme Tucapel ciñó el derecho, | Y entre los duros brazos apretado | Cargó sobre él con fuerza el duro pecho.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 30 (R. 17. 1112)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Siendo él [el edificio] flaco y movedizo, lo será todo lo que sobre él se cargare.»",
                   "autor": "Gran.",
                   "referencia_obra": "Símb. 5. 2. 3 (R. 6. 617¹)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En cuya comparación esta tan maravillosa fábrica del mundo no es más, como dice el Sabio, que una gota del rocío de la mañana, ó un grano de peso que se carga sobre la balanza.»",
                   "autor": "",
                   "referencia_obra": "Id. Mem. vida crist. 3. 4, § 1 (R. 8. 2462)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1279,55 +1706,68 @@
     {
       "id": "b)",
       "definicion": "met. Dícese particularmente del juicio ó la consideración, por Aplicarlos con intensión.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Con deseo de excusallos, cargué la consideración, y discurrí entre mí si acaso, como había Dios con particular providencia formado de tal suerte al hombre, que no se pudiese ver el rostro ---»",
               "autor": "",
               "referencia_obra": "Saav. Rep. (R. 25. 4042)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por donde cargando yo el juicio algunas veces en ello, me resolví en que de todo aquel vocear, y reñir, no se podía dar causa alguna que colorada fuese.»",
               "autor": "León",
               "referencia_obra": ", Perf. cas. 17 (R. 37. 240¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y sobre todo cargó la consideración en la mala consecuencia de volver las espaldas á la amenaza de aquellos bárbaros.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 1. 19 (R. 28. 2272)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con sobre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si los ambiciosos de prelacías cargaran la imaginación sobre lo referido, aplacaran la sed, y no se atrevieran á desplegar tras las dignidades las velas de sus deseos.»",
               "autor": "Núñez",
               "referencia_obra": ", Emp. 2 (Dicc. Autor.)."
             },
             {
+              "marca": "",
               "texto_cita": "«Nada ha dañado tanto á la elocuencia castellana como la idea siniestra de su naturaleza y objeto, dando más valor á sus accidentes que á su sustancia; haciéndola casi consistir en la doctrina de los tropos, y cargando sobre los accesorios el estudio y cuidado que debíamos á su principal objeto.»",
               "autor": "Jovell.",
               "referencia_obra": "Trat. de enseñ. 1 (R. 46. 246¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1335,38 +1775,47 @@
     {
       "id": "c)",
       "definicion": "Refl. Echarse con todo el cuerpo apoyándose en alguna cosa. En el pasaje siguiente de señala el punto de apoyo.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Vile á la dama el copete; no os pasaréis, le dije, sin que os asga del cabello: carguéme de uno como todos los demás.»",
           "autor": "Alemán",
           "referencia_obra": ", Guzmán, 1. 3. 8 (R. 3. 254¹)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cada cual quería para sí á Jerónimo, teniendo por cierto sería fácil la victoria contra los otros si se cargaba á su parte tal socorro.»",
               "autor": "",
               "referencia_obra": "Sig. Vida de S. Jer. 3. 3 (150)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "En igual sentido se usa como intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Esto mismo dividió la nación muchas veces en partidos, y aquél era más fuerte donde cargaba la mayor parte de los grandes propietarios.»",
               "autor": "Jovell.",
               "referencia_obra": "Disc. sobre la legisl. y la hist. (R. 46. 295¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1374,40 +1823,58 @@
     {
       "id": "d)",
       "definicion": "met. Refl. Inclinarse hacia alguna parte. Con complementos que expresan la dirección.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Se cargó el viento al norte.»",
               "autor": "Acad.",
               "referencia_obra": "Dicc."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "En igual sentido se usa como intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cargó la tempestad hacia el puerto.»",
               "autor": "Acad.",
               "referencia_obra": "Dicc."
             },
             {
+              "marca": "",
               "texto_cita": "«Le advirtieron de cómo el enemigo venía marchando, y según lo que le vieron cargar sobre la mano izquierda, juzgaban que se encaminaba á querer entrar por la puerta de Seles.»",
               "autor": "Coloma",
-              "referencia_obra": ", Guerras de los Est. Bajos, 8 (R. 28. 1192). —"
-            },
+              "referencia_obra": ", Guerras de los Est. Bajos, 8 (R. 28. 1192)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Corría fama que lo primero desembarcarían en la playa de Valencia, y allí cargaría aquella tempestad que se armaba.»",
-              "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 16. 6 (R. 30. 468¹)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Corría fama que lo primero desembarcarían en la playa de Valencia, y allí cargaría aquella tempestad que se armaba.»",
+                  "autor": "Mariana",
+                  "referencia_obra": ", Hist. Esp. 16. 6 (R. 30. 468¹)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1416,13 +1883,16 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part. dep.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ni [era] creíble que los mejicanos dejasen de tener cuidadosa guarnición en Suchimilco, lugar de tanta consecuencia y tan avanzado, particularmente cuando iban cargados hacia el mismo paraje todos los fugitivos de los reencuentros pasados.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 5. 18 (R. 28. 3722)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1430,61 +1900,75 @@
     {
       "id": "e)",
       "definicion": "Estribar, descansar una cosa sobre otra (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con sobre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Llevélo derecho de un pilar ó poste de piedra que en la plaza estaba, sobre el cual y sobre otros cargaban saledizos de aquellas casas.»",
               "autor": "Mend.",
               "referencia_obra": "Lazarill. 1 (R. 3. 81¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hoy es la iglesia catedral de Córdoba, por la manera del edificio, gran número y hermosura de columnas sobre que carga la bóveda, una de las obras más señaladas de España.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 7. 7 (R. 30. 201¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Sobre troncados árboles ocultos | Estatuas cargan de labor tan ruda, | Que al mustio ceño de sus torpes bultos | Se erizan ramas de la selva muda.»",
               "autor": "Jáur.",
               "referencia_obra": "Fars. 6 (Fern. 7. 145)."
             },
             {
+              "marca": "",
               "texto_cita": "«Sobre columna recta y nivelada | Si el peso carga, ayuda á su firmeza; | Pero si oblicua en el cimiento estriba, | Tiembla, y ligero golpe la derriba.»",
               "autor": "Fern.",
               "referencia_obra": "7. 26)."
             },
             {
+              "marca": "",
               "texto_cita": "«El Palazzo della Ragione, situado en la plaza de'Signoriò, es el más grande de todos, rodeado de dos galerías, una sobre otra, la primera dórica, la segunda jónica, con arcos que cargan sobre columnas, más pequeñas que las que sostienen los dos cuerpos referidos.»",
               "autor": "Mor.",
               "referencia_obra": "Obr. póst. 1, p. 456."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Les declaraba las dificultades de cada estado, no como quien persuadía á esto ó aquello, sino como quien informaba sincera y desapasionadamente, para que, cargando el edificio sobre mejor fundamento, fuese más firme y seguro.»",
                   "autor": "Palma",
                   "referencia_obra": ", Vida de G. de la Palma, p. 21."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ya no sabe amor con qué | Apurar mi sufrimiento; | Que es leve cualquier tormento | Si carga sobre mi fe.»",
                   "autor": "L. Argens.",
                   "referencia_obra": "redond. Señora, después que os vi (R. 42. 261 )."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No hay ni puede haber nación cuyo edificio no cargue sobre sus leyes fundamentales.»",
                   "autor": "Forner",
                   "referencia_obra": ", Exequias de la lengua castell. (R. 63. 380¹)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1492,18 +1976,22 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Traje en los hombros esta grave carga | Sin reposar, como otro nuevo Atlante, | En quien de todo el cielo el peso carga.»",
               "autor": "Herr.",
               "referencia_obra": "2, eleg. 13 (R. 32. 3322)."
             },
             {
+              "marca": "",
               "texto_cita": "«Miro distinto | Del templo de la Fama | El alto techo y arquitrabes de oro, | Que en cien columnas de diamante duro | Cargan.»",
               "autor": "Mor.",
               "referencia_obra": "oda 2 (R. 2. 588¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1511,37 +1999,46 @@
     {
       "id": "f)",
       "definicion": "Gramát. Tratándose de acentuación ó pronunciación, Hallarse el acento ó la mayor intensidad de la voz en tal ó cual letra ó sílaba (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Se necesita que los acentos carguen en ciertas partes del verso [endecasílabo], y no en otras.»",
               "autor": "",
               "referencia_obra": "T. Iriarte, Donde las dan las toman (6. 106)."
             },
             {
+              "marca": "",
               "texto_cita": "«lnvoluntariamente nuestro oído tiene por larga toda sílaba en que carga el acento agudo.»",
               "autor": "",
               "referencia_obra": "M de la Rosa, Anot. á la Poét. 3. (1. 149)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con sobre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si concurren dos vocales, la primera llena y la segunda débil, y el acento carga sobre la débil, las dos vocales forman naturalmente dos sílabas.»",
               "autor": "Bello",
               "referencia_obra": ", Ortol. 3, § 2 (58)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1549,53 +2046,66 @@
     {
       "id": "4",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Hacer peso, oprimir.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Bendita sea de Dios la poca ropa | Que no carga los hombros y los tapa»",
               "autor": "Quev.",
               "referencia_obra": "Musa 6, son. 8 (R. 69. 129¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Hay piedra que tanto cargue las espaldas de Sísifo, como carga el amor contino los pensamientos de los enamorados?»",
               "autor": "Cerv.",
               "referencia_obra": "Gal. 4 (R. 1. 562)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol. Se agregan complementos que determinan la dirección.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Todo el cuerpo estaba pendiente en el aire, sostenido de unos garfios de hierro, de manera que cuando cargaba el peso de él sobre los pies, se desgarraban los mismos pies con los clavos que tenían atravesados; y lo mismo hacían las manos cuando el peso del cuerpo cargaba hacia aquella parte.»",
               "autor": "Rivad.",
               "referencia_obra": "Vida de Cristo (88, 89)."
             },
             {
+              "marca": "",
               "texto_cita": "«Demás desto crecen los dolores con el peso del cuerpo, que siempre carga para bajo; y así está siempre desgarrando y ensanchando las heridas.»",
               "autor": "Gran.",
               "referencia_obra": "Orac. y consid. 1, dom. por la mañ. (R. 8. 91¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cuanto más procura los gustos de la carne, tanto más disminuye los del espíritu, y cuanto más con el peso de sus aficiones carga para bajo, tanto más nos derriba de lo alto, como dijo el Sabio.»",
               "autor": "",
               "referencia_obra": "Id. Símb. 4, diál. 8 (R. 6. 574¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1603,88 +2113,108 @@
     {
       "id": "b)",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Esta imaginación le hizo ligero aquel peso, que poco después le cargó tanto que le puso en aprieto de dejar la reputación ó el mando.»",
               "autor": "Melo",
               "referencia_obra": ", Guerra de Catal. 3 (R. 21. 485¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Bienaventurado el que no va tras aquellas cosas que poseídas cargan, amadas ensucian, perdidas afligen.»",
               "autor": "Rivad.",
               "referencia_obra": "Trib. 1. 16 (R. 60. 3882)."
             },
             {
+              "marca": "",
               "texto_cita": "«En fe de esta esperanza llevaba esta sierva del Señor el peso de su continua y larga enfermedad no sólo sin pesadumbre sino con gusto, y entonces le tenía mayor cuando ella más cargaba.»",
               "autor": "Roa",
               "referencia_obra": ", Vida de Dª. Sancha Carrillo, 1. 9 (65)."
             },
             {
+              "marca": "",
               "texto_cita": "«Viéndose pues solo, comenzó á cargar tanto la imaginación de su desventura, que claramente conoció por las premisas mortales que en sí sentía, que se le iba acabando la vida.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 35 (R. 1. 354¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Intrans. Con sobre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mis pecados, oh dulce Jesús, son los que cargan sobre tus hombros.»",
               "autor": "Puente",
               "referencia_obra": ", Medit. 4. 39 (2. 557)."
             },
             {
+              "marca": "",
               "texto_cita": "«Veamos agora las adversidades que este pueblo padece --- y los tributos tan desaforados que cargan sobre ellos.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 4. 18, § 3 (R. 6. 5252)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y es cosa cierto mucho para notar, ver cómo un tan gran rey sobre quien cargaban tan grandes negocios, así de paz como de guerra, que tuviese el corazón tan libre y tan desapegado de todas las cosas.»",
               "autor": "",
               "referencia_obra": "Id. Mem. vida crist. 5. 3 § 2 (R. 8. 304¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Con de, que expresa el punto de apoyo, Pender, depender.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«De manera, Señor, que todos los hombres cargan de ti, chicos y grandes ---»",
               "autor": "Ávila",
               "referencia_obra": ", Audi (Garcés, 2. 301: 1886)."
             },
             {
+              "marca": "",
               "texto_cita": "«Por muchos negocios que despidiese el padre Francisco, eran tantos los que en la corte cargaban dél, que le faltaba tiempo para el reposo necesario de su cuerpo.»",
               "autor": "Rivad.",
               "referencia_obra": "Vida de S. Franc. de Borja, 2. 14 (Garcés, 2. 301: 1886)."
             },
             {
+              "marca": "",
               "texto_cita": "«Llano es que hallándole tan imposibilitado, había de cargar de mis hombros la justa obligación de amistad tan antigua.»",
               "autor": "Césp. y Men.",
               "referencia_obra": "Sold. Pínd. 2. 13 (R. 18. 343¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1692,76 +2222,94 @@
     {
       "id": "c)",
       "definicion": "met. Caer ó tocar la responsabilidad de algún hecho ó defecto ajeno (intrans.). Con sobre.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«A nosotros --- conviene avisar destos peligros; porque los que por nosotros deben ser avisados, no se llamen á engaño; y si ellos se perdieren, no cargue su sangre sobre nosotros.»",
           "autor": "Gran.",
           "referencia_obra": "Guía, 1. 26 (R. 6. 952)."
         },
         {
+          "marca": "",
           "texto_cita": "«La pena que el mismo pueblo tomó sobre sí cuando dijo: Su sangre cargue sobre nosotros y sobre nuestros hijos.»",
           "autor": "",
           "referencia_obra": "Id. Símb. 5. 4. 6 (R. 6. 733¹)."
         },
         {
+          "marca": "",
           "texto_cita": "«Decía don Álvaro que en el caso de negarse los confederados á estas condiciones tan razonables, todos los males y resultas del rompimiento cargarían sobre ellos, y el rey tendría de su parte á Dios y á la justicia.»",
           "autor": "Quint.",
           "referencia_obra": "D. Álv. de Luna (R. 19. 410¹)"
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "met. Dícese de alguno que las espaldas le cargan, cuando es corcovado (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No tenía siete palmos de los pies á la cabeza, y las espaldas, que algún tanto le cargaban, la hacían mirar al suelo más de lo que ella quisiera.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 16 (R. 1. 2852)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Andar al uso queremos: | Al bachiller, licenciado --- | Al ingenioso, constante, | Al corcovado, cargado.»",
               "autor": "Lope",
               "referencia_obra": ", Fuente Ovejuna, 1. 4 (R. 41. 635¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El es hombre bajo, cargado de espaldas, barbinegro, natural de Burbáguena.»",
                   "autor": "Lope",
                   "referencia_obra": "de Rueda, El convidado (R. 2. 263¹)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Este que veis aquí de rostro aguileño, de cabello castaño --- algo cargado de espaldas y no muy ligero de pies: éste digo que es el rostro del autor de la Galatea.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. pról. (R. 1. 99)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Era [Godoy] de alta estatura, lleno de carnes, aunque no gordo, muy cargado de espaldas, á punto de llevar la cabeza algo baja.»",
                   "autor": "A. Galiano",
                   "referencia_obra": ", Recuerdos, p. 58."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1770,60 +2318,74 @@
     {
       "id": "e)",
       "definicion": "met. Dícese del sueño, de las enfermedades, pasiones, etc. cuando se hacen sentir mucho.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No me aprovechó nada este buen deseo para dejar de ir adonde no espero volver, según me cargan los años y un mal de orina que llevo que no me deja reposar un rato.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 22 (R. 1. 304¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿De qué tal melancolía | Te ha cargado en un instante?»",
               "autor": "Alarcón",
               "referencia_obra": ", Las paredes oyen, 3. 9 (R. 20. 592)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mas luégo, á los mortales, | Por el hurto alevoso, | Cargó un enfermo estrago lastimero | De pestilentes males.»",
               "autor": "Jáur.",
               "referencia_obra": "trad. de Hor. od. 1. 3 (R. 42. 1102)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si carga [el sueño] más que debía | Pienso en las deudas que debo, | Y el sueño huye de nuevo | Como la sombra del día.»",
               "autor": "Alcázar",
               "referencia_obra": ", redond. No es el sueño cierto lance (R. 32. 4062)."
             },
             {
+              "marca": "",
               "texto_cita": "«El jumento está como conviene, la montaña cerca, la hambre carga; no hay que hacer sino retirarnos con gentil compás de pies.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 19 (R. 1. 2952)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Intrans. Con sobre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tanto más puede el recelo que la verdad, aunque cargue sobre personas sin sobresalto.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granad. 3 (R. 21. 1082)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1831,99 +2393,121 @@
     {
       "id": "f)",
       "definicion": "met. Apretar, urgir, arreciar (intrans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«El viento cargó con tanta furia que todo lo que habíamos navegado en dos días, en poco mas de catorce horas nos vimos á seis millas ó siete de la propia isla de donde habíamos partido.»",
           "autor": "Cerv.",
           "referencia_obra": "Nov. 2 (R. 1. 123¹)."
         },
         {
+          "marca": "",
           "texto_cita": "«No es tiempo de cumplimientos:| A embarcar, que el viento carga.»",
           "autor": "",
           "referencia_obra": "Id. Los baños de Argel, 3 (Com. 1. 185)."
         },
         {
+          "marca": "",
           "texto_cita": "«Acabe y menéese, que es tarde, y los enemigos crecen, y las voces se aumentan, y el peligro carga.»",
           "autor": "",
           "referencia_obra": "Id. Quij. 2. 53 (R. 1. 516² )."
         },
         {
+          "marca": "",
           "texto_cita": "«La noche carga, el aire truena, | Ya por el cielo va, ya el suelo toca, | Gime la rota antena.»",
           "autor": "León",
           "referencia_obra": ", Poes. 1, A Ntra. Sra. (R. 37. 122)."
         },
         {
+          "marca": "",
           "texto_cita": "«Iba la ciega noche amortiguando | La poca luz que sobre el mundo había, | Y el frío viento y tempestad cargando, | La nao con nuevo miedo acometía.»",
           "autor": "Valb.",
           "referencia_obra": "Bern. 13 (R. 17. 284¹)."
         },
         {
+          "marca": "",
           "texto_cita": "«Crece la tempestad, crece el tormento, | Y el rechinar de cuerdas y alaridos; | Carga la ciega noche, carga el viento, | Cargan truenos y rayos encendidos.»",
           "autor": "",
           "referencia_obra": "Id. ib. 11 (R. 17. 2552)."
         },
         {
+          "marca": "",
           "texto_cita": "«Yo triste, á quien rabioso | Y eterno mal persigue noche y día, | Si cuando está en el cielo el sol me acaba, | Mi estado trabajoso | Más carga, si en el mar su frente lava.»",
           "autor": "F. de la Torre",
           "referencia_obra": ", 2, canc. 3 (58)."
         },
         {
+          "marca": "",
           "texto_cita": "«Como el tiempo estaba tan adelante, cargaban las aguas.»",
           "autor": "Coloma",
           "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 862)."
         },
         {
+          "marca": "",
           "texto_cita": "«En estas empresas pasaron los meses del estío y parte del otoño; y porque cargaba el tiempo, por el mes de noviembre del año 1224 dieron la vuelta á Toledo.»",
           "autor": "Mariana",
           "referencia_obra": ", Hist. Esp. 12. 11 (R. 30. 3562)."
         },
         {
+          "marca": "",
           "texto_cita": "«En estas cosas se pasaron los calores del estío, y el tiempo comenzaba á cargar.»",
           "autor": "",
           "referencia_obra": "Id. ib. 12. 12 (R. 30. 3582)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "g)",
       "definicion": "met. Concurrir, acudir ó venir en abundancia (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mas como la gente al gran ruido cargase, y la casa estuviese llena della, viendo que no podían afrentarse con las armas, decíanse palabras injuriosas.»",
               "autor": "Mend.",
               "referencia_obra": "Lazarill. 5 (R. 3. 882)."
             },
             {
+              "marca": "",
               "texto_cita": "«Solicitábale sobre todos su madre, y cada día cargaban mensajes de todas partes en esta misma razón.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 12. 15 (R. 30. 3632)."
             },
             {
+              "marca": "",
               "texto_cita": "«El mejor día de los mortales, ése es el que primero huye; y luégo cargan enfermedades, y con ellas la triste vejez.»",
               "autor": "Gran.",
               "referencia_obra": "Orac. y consid. 1, martes en la noche (R. 8. 322)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con á, para expresar el punto adonde se acude.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Era ya tanta la gente católica que había cargado á la muralla, y tal la prisa que se daba en descargar sus arcabuces y mosquetes sobre los herejes, que al fin volvieron del todo las espaldas.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 2 (R. 28. 21¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1931,132 +2515,161 @@
     {
       "id": "h)",
       "definicion": "met. Milit. Acometer con fuerza y vigor.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No fue menor la [industria] que practicaron después enviando por diferentes rodeos canoas de gastadores á limpiar los fosos que iban cegando los españoles para cargarlos al tiempo de la retirada con todas sus fuerzas.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 5. 22 (R. 28. 3792)."
             },
             {
+              "marca": "",
               "texto_cita": "«Causó esta novedad grande turbación y desconsuelo entre los mejicanos; desarmóse la prevención que tenían hecha para cargar la retirada.»",
               "autor": "",
               "referencia_obra": "Id. ib. 5. 24 (R. 28. 3832)."
             },
             {
+              "marca": "",
               "texto_cita": "«Con la espada en la mano volvía segunda vez á cargar á los enemigos.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 322)."
             },
             {
+              "marca": "",
               "texto_cita": "«De tal manera cargaron al enemigo --- que obligándoles á volver del todo las espaldas, degollaron sesenta y prendieron treinta y cuatro.»",
               "autor": "",
               "referencia_obra": "Id. ib. 6 (R. 28. 79¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cargando las corazas francesas y arcabuceros de á caballo nuestros á su retaguardia, le hicieron algún daño sin recebirlo.»",
               "autor": "",
               "referencia_obra": "Id. ib. 7 (R. 28. 922)."
             },
             {
+              "marca": "",
               "texto_cita": "«Entresacó Andrónico de su caballería ochocientos, y con dos mil infantes les mandó salir á cargar á Fernán Jiménez, que se retiraba con riquísima presa.»",
               "autor": "Moncada",
               "referencia_obra": ", Exped. 39 (R. 21. 372)."
             },
             {
+              "marca": "",
               "texto_cita": "«Fue acometido de los indios, que le dieron en qué entender toda la noche; y al fin tuvo que volverse al Cuzco á la mañana siguiente, cargándole ellos y molestándole hasta que le encerraron en la ciudad.»",
               "autor": "Quint.",
               "referencia_obra": "Pizarro (R. 19. 346¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y con las armas que el furor les presta| Cargan á los turbados sarracenos.»",
               "autor": "A. Saav.",
               "referencia_obra": "Moro expós. 2 (2. 40)."
             },
             {
+              "marca": "",
               "texto_cita": "«El joven como valiente ---| Carga á los dos y los hiere.»",
               "autor": "",
               "referencia_obra": "Id. La buenaventura, 2 (3. 117)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Aquí de los nuestros, que por esta parte cargan más los enemigos.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 53 (R. 1. 5162)."
             },
             {
+              "marca": "",
               "texto_cita": "«Al pasar del río guarneció con alguna infantería las trincheras del de Holach, por si el enemigo cargaba.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 5 (R. 28. 68¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pero el hijo de Carlos conociendo | Del traidor renegado el bajo intento, | Con gran furia el movido mar rompiendo, | Carga dándole caza en seguimiento.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 25 (R. 17. 942)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Intrans. Con sobre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Juntad armas y fuerzas, cargad sobre el enemigo que está descuidado, cercándole los vuestros por una parte, y los nuestros por la otra, por frente y por las espaldas.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 3. 10 (R. 30. 70¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Salieron los de Jerez á ellos, cargaron de sobresalto sobre los que iban descuidados y seguros: desbaratáronlos.»",
               "autor": "",
               "referencia_obra": "Id. ib. 16. 7 (R. 30. 470¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«En ira envueltos y en furor metidos, | Cargan sobre los fieros araucanos | Por el ímpetu nuevo enflaquecidos.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 2 (R. 17. 112)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ocuparon los miquelets algunas casas, desde donde cargando súbitamente sobre los del presidio, mataron muchos.»",
               "autor": "Melo",
               "referencia_obra": ", Guerra de Catal. 4 (R. 21. 5022)."
             },
             {
+              "marca": "",
               "texto_cita": "«Finalmente tantos cargaron sobre Andrés que le prendieron y le aherrojaron con dos muy gruesas cadenas.»",
               "autor": "Cerv.",
               "referencia_obra": "Nov. 1 (R. 1. 116¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cayó otro francés del caballo, y por matarle ó rendirle todos los españoles cargaron sobre él, y todos los franceses arrebatadamente á defenderle.»",
               "autor": "Quint.",
               "referencia_obra": "Gran Capitán (R. 19. 263¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Lo cierto es que sobre mí | Todas las desdichas cargan.»",
                   "autor": "Bretón",
                   "referencia_obra": ", Los dos sobrinos, 2. 3 (1. 28)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -2065,37 +2678,46 @@
     {
       "id": "i)",
       "definicion": "met. Instar, importunar (intrans.). Con sobre.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Cargaron tantos sobre Ramón, que no pudo negarse.»",
           "autor": "Acad.",
           "referencia_obra": "Dicc."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "j)",
       "definicion": "met. Incomodar, molestar, cansar (trans.) (fam.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«i Pues no muestras poco afán!| — Es que tus bachillerías | Me cargan.»",
           "autor": "Núñez",
           "referencia_obra": "de Arce, Justicia providencial, 3. 6 (350)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Se usa también como refl. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No preguntó en llegando por sus perros, | Tampoco preguntó por sus caballos; | Cargábase en extremo con las fiestas, | Y con las justas y con los torneos, | Y más con sus amigos que con todos.»",
               "autor": "Boscán",
               "referencia_obra": ", 3, Leandro y Hero (321)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2103,66 +2725,83 @@
     {
       "id": "k)",
       "definicion": "Nótese que algunas de estas acepciones parecen equivalentes á las frases hacer peso, ser pesado, de donde proviene que el uso se inclina al dativo; así es que no se diría:",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Las espaldas lo cargan»",
           "autor": "",
           "referencia_obra": ","
         },
         {
+          "marca": "",
           "texto_cita": "«Usted dice que lo carga la petulancia de Tomás»",
           "autor": "",
           "referencia_obra": "."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "5",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Poner pesado (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El aire que en ella se respira es muy perjudicial: carga la cabeza y ataca el pecho con notorio peligro de la salud.»",
               "autor": "Mor.",
               "referencia_obra": "Obr. post. 1, p. 193."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se cargan un poco, y á veces un mucho las piernas; pero como es cosa que va y viene, y se desaparece del todo sin consecuencia, estamos sin cuidado.»",
                   "autor": "",
                   "referencia_obra": "Jovell. Corresp. con Posada (R. 50. 245¹)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tienes cargada la vista | Como si hubieses llorado.»",
                   "autor": "",
                   "referencia_obra": "M. de la Rosa, La boda y el duelo, 1. 4 (3. 440)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -2170,25 +2809,31 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con de, para expresar la causa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y si los ojos se cargaren de sueño, entiende en aguna obra de manos para apartarlo de ti.»",
               "autor": "Gran.",
               "referencia_obra": "Esc. espir. 14 (R. 11. 327¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tendré los ojos cargados | De coser.»",
                   "autor": "M. de la Rosa",
                   "referencia_obra": ", La niña en casa, 3. 4 (3. 116)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -2197,49 +2842,62 @@
     {
       "id": "b)",
       "definicion": "met. Agravar, aumentar el peso (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«La iniquidad de este odio con las disculpas se carga.»",
           "autor": "",
           "referencia_obra": "Manero, Apolog. de Tertul. 1 (Dicc. Autor.)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "6",
       "definicion": "Acepciones especiales:",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Introducir la carga en el cañón de una arma de fuego para disparar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cargó su mosquete un soldado walón, y, disparando contra el sargento, le rompió un brazo.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 362)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ya estaba dispuesta la banda que había de tirarle, cargados los fusiles, y él atado al árbol fatal.»",
                   "autor": "Quint.",
                   "referencia_obra": "Meléndez (R. 19. 1182)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -2248,55 +2906,68 @@
     {
       "id": "b)",
       "definicion": "Apuntar en el libro de cuentas una partida en el cargo ó débito de alguno (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Lo pagará con el tres tanto de lo que montare lo que así dejare de cargar ó pusiere en data.»",
               "autor": "",
               "referencia_obra": "Recop. 9. 5. 18 (Dicc. Autor.)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ya le dije á usted en otra mía que la dicha casa de Basterreche podría pagar la conducción de dichos libros hasta Bayona, cargándole á usted este gasto, para que usted me lo cargue después en nuestra cuenta.»",
               "autor": "Mor.",
               "referencia_obra": "Obr. póst. 2, p. 447."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con dat. refl. Hacerse cargo de las cantidades recibidas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En el principio de esta cuenta se carga fray Pedro Dez-Coll cierto alcance que le resultaba del año anterior.»",
               "autor": "Jovell.",
               "referencia_obra": "Mem. del castillo de Bellver (R. 46. 415¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pida después la recompensa de la ofensa recibida, y cargue por servicio el haberla tolerado.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 9 (R. 25. 312)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aquellos primeros movimientos que se adelantan á la razón, no se nos cargan por culpa.»",
               "autor": "Gran.",
               "referencia_obra": "Orac. y consid. 2. 4, § 5 (R. 8. 130¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2304,24 +2975,28 @@
     {
       "id": "c)",
       "definicion": "Veter. Embarrar y untar las bestias caballares desde la cruz hasta las caderas con su propia sangre, mezclada con otros ingredientes, después de haberlas sangrado. Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "En los juegos de naipes, y especialmente en el de la malilla, echar sobre la carta jugada otra superior que la gane (trans.). Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «Quisiera yo lueg algun oficio para poder cargar á otros como otros cargan a mí.» Pulgar, Letras, 23 (260). «E porque no vayamos penados con la carga mal cargada, veréis si os paresce que vaya hecha en dos fardelejos.» Id. ib. 4 (169). «El tiempo cargaba de aguas, y aquella fortaleza era tal que se podia defender treinta días.» Crón. Juan II, 4. 34 (R. 68. 3302). «Como aquel de quien cargaban todos los mayores é mas principales negocios que en Castilla eran é ocurrian.» Crón. Álv. de Luna, 83 (217). «Lanzaban los targones de sí, é cargabanse de piedras, é tiraban á los de la iglesia.» Ib. 65 (172). «Los moros que estaban cerca --- comenzaron á cargar mas.» Ib. 38 (116). «Non puede mucho alcanzar | Ninguno, es mi creencia, | Sin el cuerpo trabajar | O cargar la conciencia.» P. de Guzmán, Prov. 9 (Rim. inéd. 347). «E en tanto que los unos peleaban, los otros cargaron sus bestias é camellos, é fuyeron.» Crón. P. Niño, p. 75. «Linpie a menudo los cuchillos con que cortare, antes que en ellos cargue o paresca vianda ó grosura della.» Villena, Arte cis. 5 (38). «E el patron fizo descargar de las cargas que levaba, y cargar cierta sal.» Gonz. Clav. p. 28.\n\n— Siglo XIV: «Cargaron en algunos de los nuestros puertos de las marismas algunas naos de mercadurias.» Cortes de Alcalá, año 1348 (C. de L. y C. 1. 611). «Desque lo trojieren dos ó tres canes alcanzado, quel renueven, et le carguen de canes lo mas aina que pudieren.» Mont. Alf. XI, 1. 19 (Bibl. venat. 1. 62). «Ca si se quejasen ante a tañer ladradura et fablarle, facerleian mover et andar mas, et tardarseia de cargarlo de canes por aquella razon, et muy aina se podria perder.» Ib. 1. 9 (Bibl. venat. 1. 38). «Tomaron en Sevilla talegas é cargáronlas en naves é en barcas para ir á la cerca de Algecira.» Crón. Fern. IV, 17 (R. 66. 163¹). «Otrosí mandó cargar en Sevilla é en los puertos de Algecira muchas naves de trigo é de cebada é de vinos é de otras viandas.» Crón. Alf. X, 59 (R. 66. 472).\n\n— Siglo XIII: «Señor, la mi alma es cargada é atormentada de muchos pecados.» Cast. é docum. 86 (R. 51. 2212). «Sy cargare en la nao mas auer de cuanto dixere en las cartas --- tomen le todo quanto quel fallaren.» Cortes de Jerez, año 1268 (C. de L. y C. 1. 75). «Otrosi prometió el mercadero al maestro sobredicho de haber cargada la nave en el puerto de Sevilla en todo el mes de marzo.» Part. 3. 18. 77 (2. 601). «Et estas acémilas que las pueda levar cargadas de cargas comunales.» Part. 3. 18. 76 (2. 600). «Muchas veces acaece que el buen árbol tanto carga de su buen fruto que se pierde con ello.» Cal. é Dymna (R. 51. 282). «Conpiençan a recebir lo que el Cid mandó. | Quando son pagados a todo so sabor, | Hya mandauan cargar ynffantes de Carrión.» Cid, 2587 (R. 57. 28¹). «Dixo Martin Antolinez: cargen las archas priuado.» Ib. 166 (R. 57. 3¹).",
   "testimonios_latino_hispanicos": "Test. latin. hisp. «De karro de alios, aut de cepolas viginti restes de octo capeças, de assino decem restes, de peone karregato quinque restes.» Fuero de Villavicencio (Muñoz, F. 173). «Licentiam damus pergat per defesas, per terras laboratas, per vineas, et limites frangere, per via discurrente ad carro, vel ad equus, et mulus cargatus ambulare.» Docum. de 972 (Yepes, 1. 22).",
-  "etimologia": "Etim. Prov. cargar; fr. charger; port., cat. carregar; it. caricare: lat. bajo caricare, carricare, derivado de carrus, carro, como si se dijera poner ó llevar en el carro.",
+  "etimologia": "Etim. Prov. <i>cargar</i>; fr. <i>charger</i>; port., cat. <i>carregar</i>; it. <i>caricare</i>: lat. bajo <i>caricare, carricare</i>, derivado de <i>carrus</i>, carro, como si se dijera poner ó llevar en el carro.",
   "nota": "",
   "forma": "",
   "ortografia": "Ortogr. Antes de e se escribe gu: cargue, carguéis.",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Intrans.: 1, a, γ, δ - 1, e - 2, c, β - 2, ε - 2, φ - 3, χ, β - 3, δ, β - 3, ε - 3, φ - 4, α, β - 4, β, β, γ, δ - 4, e - 4, f - 4, g - 4, h, β, γ - 4, i - 4, j - 4, k.\n\n— Refl.: 1, a, α, α α - 1, b, α - 2, α, α, α α - 2, c - 2, d - 3, c - 3, d - 4, j, α - 5, α, α, α α - 6, b, β.\n\n— Part.: 1, a, α - 1, α, α, α α - 1, b, α, δ δ - 2, a, α, β β - 2, b, β, α α - 2, c, α, α α - 2, d, α, α α - 2, d, β, α α - 2, e, α, α α - 2, f, α - 2, γ - 3, δ, γ - 4, δ, β - 5, α, α, β β - 5, a, β, α α - 6, a, α, α α.\n\n— Con á: 3, c, α - 3, δ, α - 4, γ, β.\n\n— Con: 1, a, α, β β - 1, a, γ - 1, β, α, β β - 1, c, α, β β - 1, d, α, β β - 2, b, α.\n\n— De; 1, a, α, α α - 1, a, δ - 1, b, α, α α - 1, c, α, α α - 1, d, α, α α - 2, a, α - 2, β, β - 2, χ - 2, δ, α - 2, e - 3, c - 4, b, δ - 4, d, β, α α - 5, a, β.\n\n— En: 1, a, β, γ γ - 1, c, β, γ γ - 3, b, β - 3, ε, β - 3, φ, α.\n\n— Hacia: 3, d, γ.\n\n— Para: 4, a, β.\n\n— Por: 6, b, γ.\n\n— Sobre: 1, a, β, α α - 1, b, β, β β - 1, c, β, β β - 3, a, β - 3, β, γ - 3, δ, β - 3, ε, α - 3, φ, β - 4, a, β - 4, β, γ - 4, χ - 4, ε, γ - 4, h, γ - 4, i.\n\n— Con dat.: 1, a, β, β β - 1, b, β, α α - 1, c, β, α α - 1, d, β - 2, α, β - 4, κ.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Intrans.: 1, a, γ, δ - 1, e - 2, c, β - 2, ε - 2, φ - 3, χ, β - 3, δ, β - 3, ε - 3, φ - 4, α, β - 4, β, β, γ, δ - 4, e - 4, f - 4, g - 4, h, β, γ - 4, i - 4, j - 4, k.\n\n— Refl.: 1, a, α, α α - 1, b, α - 2, α, α, α α - 2, c - 2, d - 3, c - 3, d - 4, j, α - 5, α, α, α α - 6, b, β.\n\n— Part.: 1, a, α - 1, α, α, α α - 1, b, α, δ δ - 2, a, α, β β - 2, b, β, α α - 2, c, α, α α - 2, d, α, α α - 2, d, β, α α - 2, e, α, α α - 2, f, α - 2, γ - 3, δ, γ - 4, δ, β - 5, α, α, β β - 5, a, β, α α - 6, a, α, α α.\n\n— Con á: 3, c, α - 3, δ, α - 4, γ, β.\n\n— Con: 1, a, α, β β - 1, a, γ - 1, β, α, β β - 1, c, α, β β - 1, d, α, β β - 2, b, α.\n\n— De; 1, a, α, α α - 1, a, δ - 1, b, α, α α - 1, c, α, α α - 1, d, α, α α - 2, a, α - 2, β, β - 2, χ - 2, δ, α - 2, e - 3, c - 4, b, δ - 4, d, β, α α - 5, a, β.\n\n— En: 1, a, β, γ γ - 1, c, β, γ γ - 3, b, β - 3, ε, β - 3, φ, α.\n\n— Hacia: 3, d, γ.\n\n— Para: 4, a, β.\n\n— Por: 6, b, γ.\n\n— Sobre: 1, a, β, α α - 1, b, β, β β - 1, c, β, β β - 3, a, β - 3, β, γ - 3, δ, β - 3, ε, α - 3, φ, β - 4, a, β - 4, β, γ - 4, χ - 4, ε, γ - 4, h, γ - 4, i.\n\n— Con dat.: 1, a, β, β β - 1, b, β, α α - 1, c, β, α α - 1, d, β - 2, α, β - 4, κ.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

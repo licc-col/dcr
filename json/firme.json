@@ -1,63 +1,77 @@
 {
   "lema": "FIRME.",
   "categoria_gramatical": "adj.",
-  "introduccion": "adj.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, sólido, resistente, que soporta presiones sin hundirse ni romperse;\n\n— 2, bien afincado, arraigado, a) sólidamente asentado, inconmovible, b) dicho de las personas, con los pies bien afincados en tierra, en posición segura, c) dicho de las instituciones sociales, bien fundamentadas en la ley o la costumbre y por ello válidas, vigentes, d) dicho de ideas, creencias, afectos, seguros, bien fundados;\n\n— 3, estable, que mantiene una posición, idea, afecto sin vacilación o desfallecimiento, a) dicho de objetos físicos o mentales, Que mantienen su posición, aun contra fuerzas contrarias sin perder el equilibrio, b) dicho de personas o de sus partes, que conserva su posición y fortaleza sin flaquear, c) dicho de la voz o las palabras, sin titubeos ni vacilación, seguro, claro, inequívoco, d) dicho de la mirada, fijo, continuo, sin desvío, e) en milicia, en posición recta y rígida, f) dicho de la salud, vigorosa, en buen estado, g) dicho de ideas, creencias, afectos, sentimientos, cualidades, bienes, duradero, seguro, constante, h) en la vida afectiva, constante, fiel, que no duda de sus afectos, i) resuelto, determinado a cumplir lo que se propone, g) tenaz, obstinado, k) imperturbable, sereno, l) insobornable;\n\n— 4, bien ceñido, templado, tenso, a) dicho de cuerpos flexibles como cuerdas, tenso, templado o apretadamente entretejido, b) aplicado al rostro de las personas o a su representación, de líneas precisas, bien destacadas, c) de la escritura o el estilo, claro, seguro, inequívoco;\n\n— 5, indeleble, bien grabado, a) en lo escrito, b) en la mente o la memoria;\n\n— 6, adv. a) con firmeza, seguridad, certeza, b) con valor, sin debilidad, c) con fuerza.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, sólido, resistente, que soporta presiones sin hundirse ni romperse;\n\n— 2, bien afincado, arraigado, a) sólidamente asentado, inconmovible, b) dicho de las personas, con los pies bien afincados en tierra, en posición segura, c) dicho de las instituciones sociales, bien fundamentadas en la ley o la costumbre y por ello válidas, vigentes, d) dicho de ideas, creencias, afectos, seguros, bien fundados;\n\n— 3, estable, que mantiene una posición, idea, afecto sin vacilación o desfallecimiento, a) dicho de objetos físicos o mentales, Que mantienen su posición, aun contra fuerzas contrarias sin perder el equilibrio, b) dicho de personas o de sus partes, que conserva su posición y fortaleza sin flaquear, c) dicho de la voz o las palabras, sin titubeos ni vacilación, seguro, claro, inequívoco, d) dicho de la mirada, fijo, continuo, sin desvío, e) en milicia, en posición recta y rígida, f) dicho de la salud, vigorosa, en buen estado, g) dicho de ideas, creencias, afectos, sentimientos, cualidades, bienes, duradero, seguro, constante, h) en la vida afectiva, constante, fiel, que no duda de sus afectos, i) resuelto, determinado a cumplir lo que se propone, g) tenaz, obstinado, k) imperturbable, sereno, l) insobornable;\n\n— 4, bien ceñido, templado, tenso, a) dicho de cuerpos flexibles como cuerdas, tenso, templado o apretadamente entretejido, b) aplicado al rostro de las personas o a su representación, de líneas precisas, bien destacadas, c) de la escritura o el estilo, claro, seguro, inequívoco;\n\n— 5, indeleble, bien grabado, a) en lo escrito, b) en la mente o la memoria;\n\n— 6, adv. a) con firmeza, seguridad, certeza, b) con valor, sin debilidad, c) con fuerza.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "Dicho del suelo, rocas y similares, Sólido, resistente, que soporta presiones sin hundirse ni romperse.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Vueltas, huyendo venturosamente, | Y, honrando con su vista tierras tantas, | Las plumas pliegas, y a tus alas santas | El Cielo en tierra firme ve la gente.»",
               "autor": "Espinosa",
-              "referencia_obra": ", Poes. p. 35. X"
+              "referencia_obra": ", Poes. p. 35."
             },
             {
+              "marca": "X",
               "texto_cita": "«Con más pesado rumbo, las romanas | Procuran en valor aventajarse; | Que, a semejanza de la firme tierra, | Son aptas para el uso de la guerra.»",
               "autor": "Jáur.",
-              "referencia_obra": "Rimas (Cl. C. 182. 81). X"
+              "referencia_obra": "Rimas (Cl. C. 182. 81)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dulce materia firme en la que el mundo, | Con nieves o con sol, con pena o dicha, | Se entretenía caprichosamente | En modelar prodigios, rostros y alma.»",
               "autor": "Salinas",
-              "referencia_obra": ", Razón (Cl. Castal. 2. 151). X"
+              "referencia_obra": ", Razón (Cl. Castal. 2. 151)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El hombre más seguro no es tanto el que pisa tierra firme, como el que inventa las razones de su seguridad. Gerardo se las había inventado, de pies a cabeza.»",
               "autor": "Mallea",
               "referencia_obra": ", El vínculo, p. 35."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En grado comparativo, con valor ponderativo. X",
+              "definicion": "En grado comparativo, con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pues bien: el suelo de aquellas cuestas, que parece quisieran juntarse, es tan firme, que el camino no presenta en ningún sitio derrumbamientos.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 4 (p. 207)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«También contigo van tres cuervos —sigue diciendo la voz— cuando sin brújula, te pierdes, mar adentro, en el punto desde cuya soledad no se divisa tierra firme de fe.»",
                   "autor": "Rodó",
                   "referencia_obra": ", Motivos de Proteo, p. 249."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -65,31 +79,38 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Para fundar bien una casa es necesario abrir primero los cimientos y echar fuera todo lo movedizo hasta llegar a lo firme, para edificar sobre ello.»",
               "autor": "Gran.",
               "referencia_obra": "Adic. al mem. 2. 6 (R. 8. 447²)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "La locución, Tierra firme: tierra continental, por oposición a la insular. X",
+          "definicion": "La locución, Tierra firme: tierra continental, por oposición a la insular.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Le había de dar por mujer a una doncella de la Emperatriz, heredera de un rico y grande estado de tierra firme, sin ínsulos ni ínsulas, que ya no las quería.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 26 (Cl. C. 6. 337). X"
+              "referencia_obra": "Quij. 1. 26 (Cl. C. 6. 337)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La parte que el cabo se continúa con la tierra firme, y que dejaron el combate, más por la fortaleza del sitio, que por el valor de los que le defendían.»",
               "autor": "Moncada",
               "referencia_obra": ", Exped. 1. 9 (Cl. C. 54. 37)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -97,77 +118,104 @@
     {
       "id": "2",
       "definicion": "Bien afincado, arraigado, con fundamentos sólidos.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Solidamente asentado, inconmovible.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Plantado y vuelto al enemigo asiste, | Y como firme y sólida trinchera, | La flecha, dardo y lanza allí resiste.»",
               "autor": "Jáur.",
-              "referencia_obra": "Rimas (Cl. C. 182. 85). X"
+              "referencia_obra": "Rimas (Cl. C. 182. 85)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si es la corona tan pesada carga | Que al fin la llama la romana historia | Un muro en la cabeza, no está el muro, | En la de un niño rey, firme y seguro.»",
               "autor": "Tirso",
-              "referencia_obra": ", Averígüelo Vargas, 1 (Cl. C. 131. 180). X"
+              "referencia_obra": ", Averígüelo Vargas, 1 (Cl. C. 131. 180)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Con doscientos mil lombardos, | Que cada cual, firme roca, | Que cada cual, monte altivo, | Contra los soplos de Bóreas, | Contra el zafir de los cielos, | Se sospecha o se blasona.»",
               "autor": "Rojas",
-              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 15). X"
+              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 15)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La arcada descansa sobre un firme antepecho corrido en torno, y le sirve de embasamento, al mismo tiempo que corona al cuerpo inferior en que se apoya.»",
               "autor": "Jovell.",
               "referencia_obra": "Obr. select. (Cl. Ebro, 31. 50)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En grado superlativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ciudad en aquella sazón por los muchos moradores que tenía, hermosura de edificios, pertrechos y murallas muy firmes, nobilísima.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 6. 12 (R. 30. 168²). X"
+                  "referencia_obra": ", Hist. Esp. 6. 12 (R. 30. 168²)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Retiembla el choque al duradero asiento | En que el orbe firmísimo se afierra, | Abre su abismo el mar, su estrago cunde, | E imperios al no ser súbito hunde.»",
                   "autor": "Espronc.",
                   "referencia_obra": "Poes. (Cl. Castal. 20. 93)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En grado comparativo. X",
+              "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«—Y ¿qué harás? | —Tenerme firme, | Firme como una montaña.»",
                   "autor": "Hartz.",
-                  "referencia_obra": "La jura en Santa Gadea, 2. 6 (Cl. C. 113. 186). X"
+                  "referencia_obra": "La jura en Santa Gadea, 2. 6 (Cl. C. 113. 186)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Como yo le preguntara si no le gustaba también Palito Ortega, creyendo que la quería hacer caer en una trampa, firme como fierro la cachirula me contestó con un gracioso mohín que prefería la música seria.»",
                   "autor": "Sábato",
-                  "referencia_obra": ", Abdón, p. 381. — Con valor ponderativo. X"
-                },
+                  "referencia_obra": ", Abdón, p. 381."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¿No está una casa principal tan firme | Como de piedra, al fin yeso y ladrillo, | Y renta mil ducados a su dueño?»",
-                  "autor": "Lope",
-                  "referencia_obra": ", La dama boba, 2 (Cl. C. 159. 213)."
+                  "id_limpio": "—",
+                  "definicion": "Con valor ponderativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿No está una casa principal tan firme | Como de piedra, al fin yeso y ladrillo, | Y renta mil ducados a su dueño?»",
+                      "autor": "Lope",
+                      "referencia_obra": ", La dama boba, 2 (Cl. C. 159. 213)."
+                    }
+                  ]
                 }
               ]
             }
@@ -177,20 +225,25 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Dicho de las obras públicas, Capa de guija o de piedra machacada que sirve para consolidar el piso de una carretera. Cfr. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con en, para indicar el campo donde el objeto arraiga.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Lo uno es como echar raíces firmes en lo bajo, y lo otro como crecer y subir a lo alto.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 6. 2 (R. 8. 329¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -198,53 +251,66 @@
     {
       "id": "b)",
       "definicion": "Dicho de las personas, Con los pies bien afincados en tierra, en posición segura.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con a, para indicar la situación. X",
+          "definicion": "Con a, para indicar la situación.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pensaba que estaba ocioso | En sus prisiones estrechas, | Y nunca estarlo ha podido | Quien firme al pie de la brecha, | En guerra desesperada | Contra sí mismo pelea.»",
               "autor": "",
               "referencia_obra": "R. de Castro, En las orillas del Sar (Cl. Castal. 90. 145)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con contra, para denotar el objeto a que se opone la decisión. X",
+              "definicion": "Con contra, para denotar el objeto a que se opone la decisión.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No fue menor valor en el Gran Capitán sufrir las murmuraciones de su ejército en el Garellano, que mantener firme el pie contra la evidencia del peligro.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 14 (Cl. C. 76. 136)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para señalar el objeto que sirve de sostén. X",
+              "definicion": "Con en, para señalar el objeto que sirve de sostén.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El pie siniestro al diestro adelantando, | En ambos firme con gentil despejo, | Y, el cuerpo muy airoso señalando.»",
                   "autor": "Mor.",
-                  "referencia_obra": "Poes. (R. 2. 642). X"
+                  "referencia_obra": "Poes. (R. 2. 642)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El buen Bayardo (a mi pesar lo cuento) | Cae por la vez primera de su vida; | Pero resurte y pone en salvamento | Al mísero Reinaldos, que la brida | No rige ya. Gradoso, aunque la bella | Alfana cae, se tiene firme en ella.»",
                   "autor": "Bello",
-                  "referencia_obra": ", Poes. p. 430. X"
+                  "referencia_obra": ", Poes. p. 430."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sin haber dado un grito, firme en su posición, el Cojo continuaba su danza, mientras que Justo ya no se limitaba a avanzar en redondo.»",
                   "autor": "Vargas Llosa",
                   "referencia_obra": ", El desafío, p. 108."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -252,143 +318,185 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "A firme: En serio, en verdad. X",
+              "definicion": "A firme: En serio, en verdad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«—Entonces fue el trabajo a firme. A pata pelada caminábamos, con la capacha al hombro y tovía medio jorobados por la angostura y engeridos de frío con el agua que goteaba.»",
                   "autor": "Alegría",
                   "referencia_obra": ", El mundo es ancho y ajeno, 13 (p. 519)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "A pie firme: Sin retroceder, desmayar, o desertar. X",
+              "definicion": "A pie firme: Sin retroceder, desmayar, o desertar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Torero vencido por la casta del toro e incapaz de aguantarlo a pie firme.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 267."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "A rostro firme: Con sentido semejante al anterior. X",
+              "definicion": "A rostro firme: Con sentido semejante al anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Buscar un poderoso protector --- contra los abrazados ardores de la envidia, asegurando a rostro firme que con tal mecenas no teme ni a los Aristarcos ni a los Zoilos.»",
                   "autor": "Isla",
-                  "referencia_obra": ", Fr. Ger. 1 (Cl. C. 148. 150). X"
+                  "referencia_obra": ", Fr. Ger. 1 (Cl. C. 148. 150)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Peleose con gran denuedo de ambas partes; bien que los nuestros, como no podían guardar su formación, ni resistir a rostro firme, --- se pertubaban muchísimo.»",
                   "autor": "Valb.",
                   "referencia_obra": "tr. Los coment. de C. Julio César, p. 198."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "De firme: Con ardor y sin parar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La infeliz mujer unas veces les replicaba de firme y otras les dejaba desatinar.»",
                   "autor": "Hartz.",
-                  "referencia_obra": "Un viaje, p. 352. X"
+                  "referencia_obra": "Un viaje, p. 352."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Nosotros nos quedamos aquí mientras va a darles de firme a esos traidores.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 4 (p. 379). X"
+                  "referencia_obra": ", Amalia, 4 (p. 379)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El giro cargaba de firme, el buche pegado a su contrario, que le daba un poco el flanco cruzando el pescueso.»",
                   "autor": "Güiraldes",
-                  "referencia_obra": ", Don Segundo Sombra, 13 (p. 84). X"
+                  "referencia_obra": ", Don Segundo Sombra, 13 (p. 84)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Los \"pronunciados\" no creían nunca que fuese preciso luchar de firme para obtener triunfo.»",
                   "autor": "Ortega y Gasset",
-                  "referencia_obra": ", Esp. invertebr. p. 70. — En el siguiente texto Violenta, certeramente. X"
-                },
+                  "referencia_obra": ", Esp. invertebr. p. 70."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y en medio, de firme, un tajo, | Delante una almohada negra, | Y una hacha, en cuya cuchilla | Los rayos del sol reflejan.»",
-                  "autor": "Saav.",
-                  "referencia_obra": "Rom. (Cl. C. 9. 114)."
+                  "id_limpio": "—",
+                  "definicion": "En el siguiente texto Violenta, certeramente.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y en medio, de firme, un tajo, | Delante una almohada negra, | Y una hacha, en cuya cuchilla | Los rayos del sol reflejan.»",
+                      "autor": "Saav.",
+                      "referencia_obra": "Rom. (Cl. C. 9. 114)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "De firme a firme: Para denotar el empeño de una lucha, el denuedo, la lealtad, la igualdad de armas o medios. X",
+              "definicion": "De firme a firme: Para denotar el empeño de una lucha, el denuedo, la lealtad, la igualdad de armas o medios.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los florentines se tenían con los españoles de firme a firme hasta que les allegó de socorro çierta infanterya ytaliana del capitán Andrés Gastaldo.»",
                   "autor": "Jmz. de Quesada",
-                  "referencia_obra": ", El Antijovio (ICC. 10. 216). X"
+                  "referencia_obra": ", El Antijovio (ICC. 10. 216)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Entrándome en casa del Cardenal de Oria, arzobispo de Palermo, mi bravo se quedó plantado de firme a firme, tirando ángulos corvos y obtusos a la puerta de la posada.»",
                   "autor": "",
                   "referencia_obra": "Esteb. Gonz. 1. 2 (Cl. C. 108. 116)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Paso firme: propiamente, bien asentado, que se posa con seguridad en el suelo. X",
+              "definicion": "Paso firme: propiamente, bien asentado, que se posa con seguridad en el suelo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«—La espero pronto, dijo Dámaso a Manuela, y salió de la casa con paso firme y denodado.»",
                   "autor": "Díaz Castro",
-                  "referencia_obra": ", Manuela, 14 (p. 172). X"
+                  "referencia_obra": ", Manuela, 14 (p. 172)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La atención general me hizo recordar mi audacia de chico pueblero. Con paso firme me acerqué, levanté el chambergo sobre la frente, crucé los brazos y quebré la cadera.»",
                   "autor": "Güiraldes",
                   "referencia_obra": ", Don Segundo Sombra, 11 (p. 68)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Pisada firme: resuelta, sin temor. X",
+              "definicion": "Pisada firme: resuelta, sin temor.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Presentación Campos comenzó a marchar a paso lento. Su carne sólida se desplazaba con gracia. La pisada firme, la mirada alta, el cabello crespo en marejada.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 7 (p. 15)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— θ θ )",
               "id_limpio": "— θ θ )",
-              "definicion": "Planta firme: Con sentido igual al anterior. X",
+              "definicion": "Planta firme: Con sentido igual al anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ese hombre de las alturas sentaba también su planta firme sobre el propio suelo en que vivía.»",
                   "autor": "Valencia",
-                  "referencia_obra": ", Discursos, 1 (p. 262). X"
+                  "referencia_obra": ", Discursos, 1 (p. 262)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Quién, pues, como yo para entrar con planta firme en los empingorotados salones, y aspirar a ser el mimado cronista de sus fiestas y ornamentos?»",
                   "autor": "Pereda",
                   "referencia_obra": ", Pedro Sánchez (Cl. C. 145. 49)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -397,46 +505,57 @@
     {
       "id": "c)",
       "definicion": "Dicho de las instituciones sociales, Bien fundamentadas en la ley o la costumbre y por ello válidas, vigentes.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Respondieron que el matrimonio del rey con la reina era legítimo, firme y no prohibido por el derecho divino.»",
               "autor": "Rivad.",
-              "referencia_obra": "Cisma, 1. 11 (R. 60. 196²). X"
+              "referencia_obra": "Cisma, 1. 11 (R. 60. 196²)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Lo que determinasen por lo menos los seis de ellos, con tal empero que de cada cual de las naciones concurriese un voto, aquello fuese valedero y firme.»",
               "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. (Cl. Ebro, 3. 112). X"
+              "referencia_obra": ", Hist. Esp. (Cl. Ebro, 3. 112)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La blanca luna, ornato de los bosques, | Testigo de mi bien, oyó mil veces | Los firmes juramentos que quebranta.»",
               "autor": "Espinosa",
               "referencia_obra": ", Poes. p. 11."
             },
             {
+              "marca": "",
               "texto_cita": "«Ellas dijeron que sí, y que todo lo que en aquel caso hiciese, lo daban por bien hecho, por firme y por valedero.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 56 (R. 1. 522²)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por la Santísima Virgen, que como verdadera madre poseía este tesoro, se nos hace hoy esta donación firmísima.»",
                   "autor": "Gran.",
                   "referencia_obra": "serm. Purific. 1 (R. 11. 8²)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -445,152 +564,194 @@
     {
       "id": "d)",
       "definicion": "Dicho de ideas, creencias, afectos, Seguros, bien fundados, sólidamente arraigados.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El dar por Reyna al Reyno vna Persiana: | Y en solo esto dezir firme se estriua | Que Achiles se juntó con su cautiua.»",
               "autor": "Aldana",
               "referencia_obra": ", Obr. complet. (BALH. 23. 184)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y reposa, dice, esta esperanza en mi seno, para decir que está firme en él la esperanza de esta verdad.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 19 (3. 301)."
             },
             {
+              "marca": "",
               "texto_cita": "«Por ser muchacho yo entonces, no podía hacer juicio firme de la bondad de sus versos.»",
               "autor": "Cerv.",
-              "referencia_obra": "Com. Pról. (Com. 1. lx). X"
+              "referencia_obra": "Com. Pról. (Com. 1. lx)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sepoltura fue un tiempo aborrecida, | Adonde estuvo mi esperanza muerta, | Y agora es templo de mi gloria cierta | Y firme amparo de mi dulce vida.»",
               "autor": "L. Argens.",
-              "referencia_obra": "Rimas (Cl. C. 173. 62). X"
+              "referencia_obra": "Rimas (Cl. C. 173. 62)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y vos, si el haber nacido | En mi casa, y si el amor | Que del Marqués mi señor | Habéis, Beltrán, merecido; | Si la firme confianza | Con que en vuestra fe y lealtad | Resignó su voluntad, | Aseguran mi esperanza.»",
               "autor": "Alarcón",
-              "referencia_obra": ", El examen de maridos (Cl. C. 146. 117). X"
+              "referencia_obra": ", El examen de maridos (Cl. C. 146. 117)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La religión y la verdad son los fundamentos firmes y estables, y solamente feliz aquel príncipe a quien la luz biva de la naturaleza con una prudencia cándidamente recatada enseñó el arte de reynar.»",
               "autor": "Saav.",
-              "referencia_obra": "Rep. (Cl. C. 46. 33). X"
+              "referencia_obra": "Rep. (Cl. C. 46. 33)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Orden, moderación, son las divisas | De aquellos que defienden justas causas. | Son el apoyo firme de los buenos.»",
               "autor": "A. Saav.",
-              "referencia_obra": "Lanuza, 3 (Cl. C. 206. 177). X"
+              "referencia_obra": "Lanuza, 3 (Cl. C. 206. 177)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El señor Martigny admiraba cada vez más en Daniel el tono de firme convicción con que expresaba sus ideas.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 3 (p. 254)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Era necesario declararles los fundamentos firmísimos que tienen para creer.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Símb. 5, pról. (R. 6. 602). X"
+                  "referencia_obra": "Símb. 5, pról. (R. 6. 602)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Él [el galán] es mi bien y desseo, | Y en él viue mi esperança | Él es la gala y asseo | En que me veo, | Con muy firme confiança.»",
                   "autor": "Fernández",
-                  "referencia_obra": ", Farsas y Égl. (Cl. Castal. 72. 111). X"
+                  "referencia_obra": ", Farsas y Égl. (Cl. Castal. 72. 111)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Con este presupuesto firmíssimo, pude dezir que viví seis meses en una continua y permanente guerra.»",
                   "autor": "Césp. y Men.",
-                  "referencia_obra": "Sold. Pínd. (Cl. C. 203. 66). X"
+                  "referencia_obra": "Sold. Pínd. (Cl. C. 203. 66)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El hombre, al querer examinar el origen de sus conocimientos y los principios en que estriba su certeza, se encuentra con el hecho de la conciencia de sus actos internos; que esta conciencia [de sus actos internos] produce una certeza firmísima.»",
                   "autor": "Balmes",
-                  "referencia_obra": ", Filosof. fund. (BAC. 37. 92). X"
+                  "referencia_obra": ", Filosof. fund. (BAC. 37. 92)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La generosa y fecundísima escuela de Federico Díez y sus discípulos, todavía pueden ser consultados con provecho y servir de apoyo firmísimo en más de un caso a todo investigador que ponga el pie en el terreno de los orígenes de las lenguas romances.»",
                   "autor": "Menéndez y Pelayo",
-                  "referencia_obra": ", Estudios, p. 21. X"
+                  "referencia_obra": ", Estudios, p. 21."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Colombia se distingue y se ha distinguido siempre como pueblo católico de sentimientos irreducibles y de firmísimas creencias, sin que jamás haya podido alterarse esa índole popular, ni por medios violentos ni por propaganda pacífica.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 2 (p. 165)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En superlativo relativo. X",
+              "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Hecho para dudar de la verdad del Purgatorio de San Patricio, por ser el crédito de tan grave autor el más firme apoyo que sostiene la historia de dicho purgatorio. Yo creo haber hallado motivos suficientes para no dejarme arrastrar sobre este asunto de la autoridad de Mateo de París.»",
                   "autor": "Feijóo",
-                  "referencia_obra": ", Teatro crít. 3 (Cl. C. 67. 173). X"
+                  "referencia_obra": ", Teatro crít. 3 (Cl. C. 67. 173)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Concluído el rosario, hizo un fervorso ofrecimiento. Jamás he oído voz más llena de unción, fervor más puro, fe más firme, ni oración más bella, más adecuada a las circunstancias que la que recitó.»",
                   "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Facundo, 11 (p. 38). X"
+                  "referencia_obra": ", Facundo, 11 (p. 38)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«\"Y si es la nada lo que nos está reservado, hagamos que sea una injusticia esto\", y tendréis la más firme base de acción para quien no pueda o no quiera ser un dogmático.»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Del sen. trág. de la vida, 11 (p. 209). X"
+                  "referencia_obra": ", Del sen. trág. de la vida, 11 (p. 209)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El tiempo, gran destructor de la vida, es también inexorable apagador de los más firmes sentimientos.»",
                   "autor": "Ramón y Cajal",
-                  "referencia_obra": ", Charlas de café, 11 (p. 248). X"
+                  "referencia_obra": ", Charlas de café, 11 (p. 248)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Con la ley se parte la verdá más firme como acero mal templao...»",
                   "autor": "Alegría",
                   "referencia_obra": ", El mundo es ancho y ajeno, 7 (p. 283)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "En grado comparativo. X",
+              "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Parecía que trajese un pan milagroso en su pico; y las peñas miniadas, las almenas rosa en las ascuas de poniente, adquirían una actualidad ingenua más firme que todas las verdades de todos los tiempos.»",
                   "autor": "Miró",
                   "referencia_obra": ", Años y leguas, p. 167."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con en. X",
+          "definicion": "Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En el punto que murió Cristo se les cerró este libro a todos sus discípulos. ¡Sancta María! Todos dudaron que era el Mesías, y no estaban en ello firmes.»",
               "autor": "",
-              "referencia_obra": "Vásquez, Sermones (Cl. C. 123. 29). — Con valor ponderativo. X"
-            },
+              "referencia_obra": "Vásquez, Sermones (Cl. C. 123. 29)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Inclinaciones de no más firme origen son muchas de las que parecen venir, por su fervor, de hondo e instintivo impulso.»",
-              "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 148."
+              "id_limpio": "—",
+              "definicion": "Con valor ponderativo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Inclinaciones de no más firme origen son muchas de las que parecen venir, por su fervor, de hondo e instintivo impulso.»",
+                  "autor": "Rodó",
+                  "referencia_obra": ", Motivos de Proteo, p. 148."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -598,14 +759,17 @@
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Locución, Estar en lo firme: Estar en lo cierto. +",
+          "definicion": "Locución, Estar en lo firme: Estar en lo cierto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Si tú llegaras a tratar a la duquesa, verías si estoy en lo firme.»",
               "autor": "Ganiv.",
               "referencia_obra": "Pio Cid, 4 (2. 31)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -613,87 +777,115 @@
     {
       "id": "3",
       "definicion": "Estable, que mantiene una posición, idea, afecto sin vacilación o desfallecimiento.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Dicho de objetos físicos o mentales, Que mantienen su posición, aun contra fuerzas contrarias sin perder el equilibrio.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Satisfecho del todo, quedó loco de gusto, admirando del suceso y sobremanera glorioso de haber puesto con él un firme clavo a la inconstante rueda.»",
               "autor": "Césp. y Men.",
-              "referencia_obra": "Hist. (Cl. Castal. 23. 157). X"
+              "referencia_obra": "Hist. (Cl. Castal. 23. 157)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La nave ya, del ímpetu contrario | De griegas proas, todo leño y trabe | Mostraba poco firmes, y cubiertos, | Sus altos bordos de los hombres muertos.»",
               "autor": "Jáur.",
               "referencia_obra": "Rimas (Cl. C. 182. 86)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mi escudero, que Dios maldiga, mejor desata la lengua para decir malicias, que ata y cincha una silla para que esté firme.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 30 (R. 1. 468 ). X"
+              "referencia_obra": "Quij. 2. 30 (R. 1. 468 )."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ladrillarás el suelo y pondrás encima, sin ahondar nada, las tinajas por ambos costados, --- conque estarán firmes y seguras.»",
               "autor": "Cascales",
-              "referencia_obra": ", Cartas filológ. (Cl. C. 117. 206). X"
+              "referencia_obra": ", Cartas filológ. (Cl. C. 117. 206)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuando lleguen los bárbaros | A las puertas de oro | De tu ciudad --- | Déjalos que penetren | Y huellen con el casco | De sus corceles ágiles | El pórtico sagrado de donde erigen | Su firme lanza las esbeltas diosas.»",
               "autor": "Maya",
-              "referencia_obra": ", Obra poétic. 1 (p. 57). X"
+              "referencia_obra": ", Obra poétic. 1 (p. 57)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero si se decide, que la vocación sea firme como un roble, capaz de resistir tanta tentación como ha dado en llegarnos.»",
               "autor": "Fuentes",
               "referencia_obra": ", Obr. complet. p. 737."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo absol. X",
+              "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Como quiera que la escala no estava muy bien firme, desbaraustando por un lado, se desprendió el un garfio, y su baivén descompuso a mi dueño.»",
                   "autor": "Césp. y Men.",
-                  "referencia_obra": "Sold. Pínd. 12 (Cl. C. 202. 124). X"
+                  "referencia_obra": "Sold. Pínd. 12 (Cl. C. 202. 124)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿No es muy alto? | — Pero muy firme. No se caerá.»",
                   "autor": "Buero Vallejo",
                   "referencia_obra": ", Concierto (Cl. Castal. 35. 136)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En grado comparativo, X",
+              "definicion": "En grado comparativo,",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mas esta bellaca de ausencia deshaze las cosas que hombre piensa que están más firmes.»",
                   "autor": "Montem.",
-                  "referencia_obra": "Diana, p. 124. X"
+                  "referencia_obra": "Diana, p. 124."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y si Dios quisiera darme de comer a pie enjuto y en mi casa --- claro está que mi alegría fuera más firme y valedera, pues la que tengo va mezclada con la tristeza del dejarte.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 5 (R. 1. 4132). X"
+                  "referencia_obra": "Quij. 2. 5 (R. 1. 4132)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A ella [evidencia] oponéis vosotros una fe agnóstica, una desconfianza de la raxón, una creencia más o menos firme en su ceguera para lo absoluto.»",
                   "autor": "Machado",
-                  "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 101). — Con valor ponderativo."
+                  "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 101)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con valor ponderativo.",
+                  "marca": "",
+                  "ejemplos_citas": []
                 }
               ]
             }
@@ -703,30 +895,37 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con a, para señalar el objeto a que se resiste.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La cuai [tu fe] pusiste en la boca | Y en vanos prometimientos, | No firme al mar y a los vientos | Como bien fundada roca.»",
               "autor": "Cerv.",
               "referencia_obra": "Gal. 2 (R. 1. 202)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Ves cómo las riberas permancen | Firmes, Pacheco, al mar embravecido, | Que aunque al horrendo golpe se estremecen | Con el temor quizá del gran ruido, | Después de roto un mar con igual frente, | Animosas agum dan el siguiente?»",
               "autor": "Rioja",
               "referencia_obra": ", silva 9 (R. 32. 3842)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No está más firme a los combates fieros | Del cierzo helado la montaña de Oca --- | Como la casta niña a las blanduras | Y amenazas del bárbaro enemigo.»",
                   "autor": "Valb.",
                   "referencia_obra": "Bern. 5 (R. 17. 1892)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -734,44 +933,54 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con contra para señalar el objeto a que dirige el ataque o la defensa. En superlativo absoluto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Plaza --- tan importante a la conservación de los Países Bajos cuanto necesaria para ser firmísimo baluarte contra Francia por aquella parte.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerra de los Est. Bajos, 8 (R. 28. 1052)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Con en. X",
+          "definicion": "Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y les manda dar por honra cojín en que se sienten, ceremonias que van y vienen con los tiempos y voluntades de los príncipes; pero firmes en España en solas doce Casas, entre las cuales estas dos son y fueron de grande autoridad.»",
               "autor": "Mend.",
-              "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 375). X"
+              "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 375)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El giro había caído livianamente al suelo, --- firme en el enemigo la pupila de azabache engarzada en un anillo de oro.»",
               "autor": "Güiraldes",
               "referencia_obra": ", Don Segundo Sombra, 13 (p. 83)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "met. X",
+          "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Italia, advertida de la prevención del auditorio, para tenerse firme y pasear segura tan estrecha senda, tomó por bastón la Señoría de Venecia.»",
               "autor": "Quev.",
               "referencia_obra": "Hora de todos (Cl. Castal. 67.119)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -779,58 +988,72 @@
     {
       "id": "b)",
       "definicion": "Dicho de personas o de sus partes, Que conserva su posición y fortaleza sin flaquear.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y quedando firme el fuerte cavallero en su cavallo, encontró a Florinaldos en medio de los pechos, y fue tan poderoso el encuentro que dio con él y su cavallo en el suelo.»",
               "autor": "Ortúñez de Calahorra",
-              "referencia_obra": ", Espejo, 2 (Cl. C. 195. 83). X"
+              "referencia_obra": ", Espejo, 2 (Cl. C. 195. 83)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Él ha padecido | Una larga enfermedad. | Si no tiene el brazo firme, | Conmigo no lidiará.»",
               "autor": "Hartz.",
-              "referencia_obra": "Los amantes de Teruel (Cl. Ebro, 53. 54). X"
+              "referencia_obra": "Los amantes de Teruel (Cl. Ebro, 53. 54)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y en las rodillas duras y firmes de la Abuela | Con movimiento rítmico se balancea el niño | Y entrambos agitados y trémulos están.»",
               "autor": "Silva",
-              "referencia_obra": ", El libro de versos, p. 34. X"
+              "referencia_obra": ", El libro de versos, p. 34."
             },
             {
+              "marca": "X",
               "texto_cita": "«Otra vez se repitieron los cimbronazos, que parecían quererme despegar los huesos, pero sintiendo las rodillas firmes y alentando por un \"¡aura!\" de mis compañeros, volví a dar un rebencazo a mi potro.»",
               "autor": "Güiraldes",
               "referencia_obra": ", Don Segundo Sombra, 7 (p. 50)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Su brazo era el más firme, su lanza la más fuerte, su flecha la más certera.»",
                   "autor": "Quint.",
                   "referencia_obra": "Balboa (R. 19. 2842)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "En grado comparativo, con valor ponderativo. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«También juzgó el gobernador oportuno que su hermano fuese allá a tomar el gobierno de la ciudad --- quería que el mando y la dirección de aquellas cosas estuviesen en manos más firmes y más capaces.»",
                   "autor": "Quint.",
                   "referencia_obra": "Pizarro (R. 19. 3441)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -838,72 +1061,89 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con a, para señalar el objeto al que se opone la resistencia.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Quién da fuerzas al brazo que robusto | Hace a tus leyes firme resistencia?»",
               "autor": "",
               "referencia_obra": "B. Argens, son. Díme, Padre común (R. 42. 3252)."
             },
             {
+              "marca": "",
               "texto_cita": "«La grandeza de muchos estados no puede mantenerse firme a los accidentes y peligros de la elección.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 59 (R. 25. 1612)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Con en. En grado comparativo. X",
+          "definicion": "Con en. En grado comparativo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«De modo que brevemente don Alonso estuvo tan firme en la silla y cierto en el ristre.»",
               "autor": "Alemán",
-              "referencia_obra": ", Guzmán 1. 1 (Cl. C. 73. 218). X"
+              "referencia_obra": ", Guzmán 1. 1 (Cl. C. 73. 218)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En el choque terrible que se han dado, | Firme estuvo Argalí como una torre; | El otro, ya se sabe, es derribado | Por más que del estribo se socorre.»",
               "autor": "Bello",
               "referencia_obra": ", Poes. p. 378."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Mano firme: que no tiembla ni desfallece. X",
+              "definicion": "Mano firme: que no tiembla ni desfallece.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Magnificado [Goethe] su sentimiento de la vida, aquietada su mente, retemplada y como bruñida su sensibilidad, llega a la entera posesión de sí mismo y rige con firme mano las cuadrigas de su fuerza creadora.»",
                   "autor": "Rodó",
-                  "referencia_obra": ", Motivos de Proteo, p. 178. X"
+                  "referencia_obra": ", Motivos de Proteo, p. 178."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Albemarle va arreglando estas diferencias con mano firme, y a veces con tacto. Respeta el gesto de los del Cabildo. Al obispo le conmina con anuncio de destierro.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 3. 17 (p. 300)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Pulso firme: con sentido igual al del anterior. X",
+              "definicion": "Pulso firme: con sentido igual al del anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Luego, con su sonrisa dulce de siempre, terminó [Braulio] al colocar con pulso firme un pistón en la chimenea de la escopeta: Es un gatico, y está ya herido.»",
                   "autor": "Isaacs",
                   "referencia_obra": ", María, p. 72."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -912,54 +1152,75 @@
     {
       "id": "c)",
       "definicion": "Dicho de la voz o las palabras, Sin titubeos ni vacilación, seguro, claro, inequívoco.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ya que la lira, en corregidas vozes, | Precursora del canto se adelanta, | I en pereçosos puntos; o velozes | Suena la firme, o trémula garganta; | Fieras vorazes, aspides atrozes | Tierno mitiga, sonoro encanta.»",
               "autor": "Jáur.",
-              "referencia_obra": "Orfeo (BAHL. 13. 54). X"
+              "referencia_obra": "Orfeo (BAHL. 13. 54)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Personas que la han oído antes nos han asegurado que en los puntos bajos, que en el día son firmes y claros, y en algunas notas medias ha tenido, sin embargo, más vigor.»",
               "autor": "Larra",
-              "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 156). X"
+              "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 156)."
             },
             {
+              "marca": "X",
               "texto_cita": "«— Hablad, señor, hablad — dijo el agente francés, seducido por la palabra firme y por la fisonomía de aquel joven, radiante de inteligencia.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 3 (p. 245). X"
+              "referencia_obra": ", Amalia, 3 (p. 245)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tocó el turno a Don Segundo, que avanzó hacia su compañera retándola con firme voz de amenaza: \" Una, dos, tres, cuatro | Si no me querés me mato.»",
               "autor": "Güiraldes",
-              "referencia_obra": ", Don Segundo Sombra, 11 (p. 71). X"
+              "referencia_obra": ", Don Segundo Sombra, 11 (p. 71)."
             },
             {
+              "marca": "X",
               "texto_cita": "«— ¿Por qué no has venido? — No había necesidad — dijo Jaime con voz firme y baja —. Ahora viene porque me obligaron.»",
               "autor": "Fuentes",
               "referencia_obra": ", Obr. complet. p. 797."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mas como las [palabras] que estaban escuchando, | No eran tan firmes como al viento roca ---.»",
                   "autor": "Lope",
-                  "referencia_obra": ", Angél. 13 (Obr. suelt. 2. 191). — Con valor ponderativo."
-                },
+                  "referencia_obra": ", Angél. 13 (Obr. suelt. 2. 191)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Opone | Tan firmes voces al tumulto insano, Que a su atención los ánimos compone.»",
-                  "autor": "Jáur.",
-                  "referencia_obra": "Orfeo, 5 (Fern. 8. 306)."
+                  "id_limpio": "—",
+                  "definicion": "Con valor ponderativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Opone | Tan firmes voces al tumulto insano, Que a su atención los ánimos compone.»",
+                      "autor": "Jáur.",
+                      "referencia_obra": "Orfeo, 5 (Fern. 8. 306)."
+                    }
+                  ]
                 }
               ]
             }
@@ -969,190 +1230,241 @@
     },
     {
       "id": "d)",
-      "definicion": "Dicho de la mirada, Fijo, continuo, sin desvío. X",
+      "definicion": "Dicho de la mirada, Fijo, continuo, sin desvío.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Tiene, con un mirar firme y contino, | Cualquiera en un lugar puesta la cara, | Donde el gran tribunal muestra divino | La traza de su luz distincta y clara.»",
           "autor": "Aldana",
-          "referencia_obra": ", Poes. (Cl. C. 143. 138). X"
+          "referencia_obra": ", Poes. (Cl. C. 143. 138)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Ten siempre el curso firme, y firme el ojo | Do vees que estampan hijo mío mis pisadas: | De aquellos tres mayores cercos mira | Que en medio están jamás tocar estremo.»",
           "autor": "",
           "referencia_obra": "Id. Obr. complet. (BALH. 22. 179)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "e)",
       "definicion": "En milicia, En posición recta y rígida.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La mañana ardía en las bayonetas sobre la boca negra de los fusiles. Súbito, una seca voz de mando puso firme toda la fila.»",
               "autor": "Uslar-Pietri",
-              "referencia_obra": ", Lanzas coloradas, 4 (p. 51). X"
+              "referencia_obra": ", Lanzas coloradas, 4 (p. 51)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Él asistiría al espectáculo desde su ventana, firme y rígido, aunque acaso emocionado por lo que pudiese hacer sufrir a otros.»",
               "autor": "Carpentier",
               "referencia_obra": ", El recurso, p. 131."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Interj. Voz de mando que se da a los soldados para que se cuadren. Cfr. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
       "id": "f)",
-      "definicion": "Dicho de la salud, Vigorosa, en buen estado. En grado comparativo. X",
+      "definicion": "Dicho de la salud, Vigorosa, en buen estado. En grado comparativo.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Se os da el entendimiento en esta carta, | La cual sólo escrebí por daros cuenta | De la salud que, Dios loado, tengo | Más firme y más en sí que jamás tuve.»",
           "autor": "Aldana",
           "referencia_obra": ", Poes. (Cl. C. 143. 52)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "g)",
       "definicion": "Dicho de ideas, creencias, afectos, sentimientos, cualidades, bienes, Duradero, seguro, constante.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No es posible hallarse hermosura firme en materia frágil y corruptible.»",
               "autor": "Gran.",
-              "referencia_obra": "Orac. y consid. 1, martes en la noche (R. 8. 331). X"
+              "referencia_obra": "Orac. y consid. 1, martes en la noche (R. 8. 331)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡O fundamento flaco y miserable de las cosas humanas, no solamente desseadas, mas adoradas por los hombres! ¡A quán poco fuisteis jamás firmes, y quántos millares, no solamente baxos y comunes, más de reyes y emperadores has engañado!»",
               "autor": "Ortúñez de Calahorra",
-              "referencia_obra": ", Espejo (Cl. C. 193. 43). X"
+              "referencia_obra": ", Espejo (Cl. C. 193. 43)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pierde, amigo, la congoja | Y la memoria cruel | De tu reciente fortuna, | Viendo en tu mayor trabajo | Que no hay firme bien debajo | De los cercos de la luna.»",
               "autor": "Cald.",
-              "referencia_obra": "Mágico prodigioso (Cl. Ebro, 87. 61). X"
+              "referencia_obra": "Mágico prodigioso (Cl. Ebro, 87. 61)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Cómo te has de resistir? | — Con firme valor. | — ¿Quién vio | Tanta dureza? | — Quien dio | Fama a Roma en las edades.»",
               "autor": "Rojas",
-              "referencia_obra": ", Del rey abajo ninguno (Cl. Castal. 38. 175). X"
+              "referencia_obra": ", Del rey abajo ninguno (Cl. Castal. 38. 175)."
             },
             {
+              "marca": "X",
               "texto_cita": "«A despecho del tiempo sus victorias, | A pesar del olvido sus trofeos, | Firmes son instrumentos de su gloria.»",
               "autor": "Lobo",
-              "referencia_obra": ", Obr. poética, 2 (p. 238). X"
+              "referencia_obra": ", Obr. poética, 2 (p. 238)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Siendo obedientes los inferiores a los superiores, con buen orden y concierto se hazen firmes y estables.»",
               "autor": "Avell.",
-              "referencia_obra": "Quij. 5 (Cl. C. 174. 91). X"
+              "referencia_obra": "Quij. 5 (Cl. C. 174. 91)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El emperador Septimio dijo a sus hijos cuando se moría, que les dejaba el imperio firme, si fuesen buenos; y poco durable si malos.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 18 (Cl. C. 76. 164). X"
+              "referencia_obra": "Emp. 18 (Cl. C. 76. 164)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ni fueron firmes, [los deleites] ni fieles fueron; | Dañáron[me] huyendo; i si uvo alguno | Que no, huyó con cuantos me huyeron.»",
               "autor": "Herr.",
-              "referencia_obra": "Poes. son. 62 (Cl. C. 26. 186). X"
+              "referencia_obra": "Poes. son. 62 (Cl. C. 26. 186)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sólo el Tibre quedó, cuya corriente, | Si ciudad la regó, ya, sepoltura, | La llora con funesto son doliente. | ¡Oh Roma, en tu grandeza, en tu hermosura | Huyó lo que era firme, y solamente | Lo fugitivo permanece y dura.»",
               "autor": "Quev.",
-              "referencia_obra": "Poem. escogidos (Cl. Castal. 60. 141). X"
+              "referencia_obra": "Poem. escogidos (Cl. Castal. 60. 141)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mientra al agua y viento se conforma, | Yace frágil, [el barro] y firme sufrimiento | Le da la llama con que eterno dura.»",
               "autor": "Rioja",
-              "referencia_obra": ", Versos, p. 324. X"
+              "referencia_obra": ", Versos, p. 324."
             },
             {
+              "marca": "X",
               "texto_cita": "«Que junto a la ambición, en cosa alguna, | Jamás juró estar firme la fortuna.»",
               "autor": "Iglesias",
-              "referencia_obra": ", égl. 7 (R. 61. 4562). X"
+              "referencia_obra": ", égl. 7 (R. 61. 4562)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y cuando Alcadir estuvo firme en Valencia, los mismos mercaderes entraron, disimulando el tesoro, en la ciudad de las huertas opimas.»",
               "autor": "Marañón",
-              "referencia_obra": ", Tiempo viejo, p. 19. X"
+              "referencia_obra": ", Tiempo viejo, p. 19."
             },
             {
+              "marca": "X",
               "texto_cita": "«Fue sólo un instante, y de nuevo volvió a sentirse firme y seguro. Dio las gracias y continuó marchando solo hasta llegar a la calle.»",
               "autor": "Uslar-Pietri",
-              "referencia_obra": ", Lanzas coloradas, 9 (p. 117). X"
+              "referencia_obra": ", Lanzas coloradas, 9 (p. 117)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El viejo Petrus pensaba ofrecerle un puesto en el astillero, una posición tentadora y firme, algo capaz de retener al señor Larsen.»",
               "autor": "Onetti",
               "referencia_obra": ", El astillero, p. 36."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En grado comparativo. X",
+              "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En todas las cosas podría haver fin, por más firmes que sean, porque officio es del tiempo y de la fortuna andar en estos movimientos tan ligeros como ellos lo han sido siempre.»",
                   "autor": "Montem.",
-                  "referencia_obra": "Diana, p. 78. X"
+                  "referencia_obra": "Diana, p. 78."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Así que, amigo Lauso, plega al cielo que sea más firme tu contento de lo que yo imagino, y goces largos tiempos la libertad que pregonas.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Gal. 2 (Cl. C. 155. 150). — Con valor ponderativo. X"
-                },
+                  "referencia_obra": "Gal. 2 (Cl. C. 155. 150)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¿Cuánto pues sería más firme y más constante la fama de Pisón si se fundara sobre la verdad?»",
-                  "autor": "Saav.",
-                  "referencia_obra": "Emp. 18 (Cl. C. 76. 170). X"
-                },
-                {
-                  "texto_cita": "«Con voluntad tan firme y tan constante | Quiere morir, que muere porque quiere; | Vivía con la vida de su amante, | Y, fiel a su pasión, con ella muere.»",
-                  "autor": "Campoamor",
-                  "referencia_obra": ", Poes. (Cl. C. 10. 154). X"
-                },
-                {
-                  "texto_cita": "«La inscripción vindicatoria duró cuanto el mismo monumento: firme como la justicia y la verdad.»",
-                  "autor": "Rodó",
-                  "referencia_obra": ", Motivos de Proteo, p. 43."
+                  "id_limpio": "—",
+                  "definicion": "Con valor ponderativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Cuánto pues sería más firme y más constante la fama de Pisón si se fundara sobre la verdad?»",
+                      "autor": "Saav.",
+                      "referencia_obra": "Emp. 18 (Cl. C. 76. 170)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Con voluntad tan firme y tan constante | Quiere morir, que muere porque quiere; | Vivía con la vida de su amante, | Y, fiel a su pasión, con ella muere.»",
+                      "autor": "Campoamor",
+                      "referencia_obra": ", Poes. (Cl. C. 10. 154)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La inscripción vindicatoria duró cuanto el mismo monumento: firme como la justicia y la verdad.»",
+                      "autor": "Rodó",
+                      "referencia_obra": ", Motivos de Proteo, p. 43."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Supuesto q[ue] la felicidad fue por todos puesta en lo firme y estable, eran obligados a tener virtud en todo y por todo, y más, en el apetito de la vianda.»",
                   "autor": "L. Pinciano",
                   "referencia_obra": ", Philosophia (BALH. 19. 26)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1161,102 +1473,126 @@
     {
       "id": "h)",
       "definicion": "En la vida afectiva, Constante, fiel, que no duda de sus afectos.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Oh celoso Galafrón, | De mis venturas suspenso! | ¡Oh Silvio, de mis desdichas | Amigo firme y secreto!»",
               "autor": "Lope",
-              "referencia_obra": ", Arcadia (Cl. Castal. 63. 341). X"
+              "referencia_obra": ", Arcadia (Cl. Castal. 63. 341)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No es menester la muerte; | Que si es para obligar un pecho noble, | Basta la fe, con un amor conforme; | Ni la que se pretende | Es tan difícil fama, | Si persevera firme el que bien ama.»",
               "autor": "Jáur.",
-              "referencia_obra": "Aminta (Cl. C. 183. 154). X"
+              "referencia_obra": "Aminta (Cl. C. 183. 154)."
             },
             {
+              "marca": "X",
               "texto_cita": "«— Blanca, sin blanca ninguna; | Tiene un santo a quien ayuna. | — ¿Agora en vigilias da? | — Es firme y santa mujer.»",
               "autor": "Tirso",
-              "referencia_obra": ", El burlador de Sevilla (Cl. C. 2. 222). X"
+              "referencia_obra": ", El burlador de Sevilla (Cl. C. 2. 222)."
             },
             {
+              "marca": "X",
               "texto_cita": "«— No dirás que no he venido | A verte. — Fineza ha sido | De amante firme y constante. | — No dejo de ser amante | Yo, mi bien, por ser marido.»",
               "autor": "",
               "referencia_obra": "Cald, El médico de su honra (Cl. C. 142. 58)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo absol. X",
+              "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sea para siempre Jesu Cristo bendito, --- el manso, el benigno, el lleno de misericordia, el firmíssimo amador mío hasta la muerte.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Epist. 20 (Cl. C. 11. 267)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En superlativo relativo. X",
+              "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡O mi Arsileo! ¡O discreción jamás oída! ¡O el más firme amador que jamás pudo versse!»",
                   "autor": "Montem.",
                   "referencia_obra": "Diana. p. 220."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dicen dél que es el más firme y más leal enamorado que se sabe, y que su dama es una tal Dulcinea del Toboso.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 58 (R. 1. 5262)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "En grado comparativo, con valor ponderativo. X",
+              "definicion": "En grado comparativo, con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y no es por falta de amarte, | Pues nadie estuvo tan firme, | Mas porque suelo venirme | A estos prados a mirarte | Y ora vengo a despedirme.»",
                   "autor": "",
-                  "referencia_obra": "Montem, Diana, p. 88. X"
+                  "referencia_obra": "Montem, Diana, p. 88."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«No quiso ni pudo creer que en el pecho de su tan firme amigo pudiese caber género de pensamiento que contra su honra fuese.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 34 (Cl. C. 8. 244). X"
+                  "referencia_obra": "Quij. 1. 34 (Cl. C. 8. 244)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Lidia, siendo mujer, tan firme ha sido; | Y por ti, siendo bella, | Humilde sigue mi amorosa huella.»",
                   "autor": "Villegas",
-                  "referencia_obra": ", Eróticas, (Cl. C. 21. 196). X"
+                  "referencia_obra": ", Eróticas, (Cl. C. 21. 196)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Gérmenes y propensiones rebeldes se agitan siempre dentro de nosotros, y su ocasión natural de despertar coincide acaso con el instante en que más firmes nos hallábamos en la pasión que daba seguro impulso a nuestra vida.»",
                   "autor": "Rodó",
                   "referencia_obra": ", Motivos de Proteo, p. 46."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Este es el amante, el fino, | El firme, el enamorado, | El apacible, el bienquisto, | El verdadero, el leal?»",
                   "autor": "Rojas",
                   "referencia_obra": ", Morir pensando matar (Cl. C. 153. 64)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1264,113 +1600,56 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con a, para denotar aquello a que se opone la firmeza.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y la que está a tantos encuentros firme, bien merece llamarse corona de su marido.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 22 (R. 1. 4492)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Con en, para señalar el objeto que sirve de apoyo. X",
+          "definicion": "Con en, para señalar el objeto que sirve de apoyo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y lo bueno es que no sé a quién ponga parte de la culpa que se me puede atribuir, porque, si quiero ponella a la poca edad que entonces tenía, pues la tuve para quererte, no me avía de faltar para estar firme en la fe que te devía.»",
               "autor": "Montem.",
               "referencia_obra": "Diana, p. 308."
             },
             {
+              "marca": "",
               "texto_cita": "«No por esto el desamorado Lenio dejó de estar firme en su opinión.»",
               "autor": "Cerv.",
               "referencia_obra": "Gal. 1 (R. 1. 171)."
             },
             {
+              "marca": "",
               "texto_cita": "«Firme siempre | En mi amor y mis intentos, | Fiel a mi obligación y mi decoro, | Jamás podré aceptar vuestros deseos.»",
               "autor": "Jovell.",
-              "referencia_obra": "Pelayo, 2. 7 (R. 46. 602). — Siendo el término una prop. infinitiva. X"
-            },
-            {
-              "texto_cita": "«Que al baile, por verte, | Van muchas pastoras, | Firmes en quererte.»",
-              "autor": "Iglesias",
-              "referencia_obra": ", letr. 7 (R. 61. 4203)."
+              "referencia_obra": "Pelayo, 2. 7 (R. 46. 602)."
             }
           ],
-          "subsubacepciones": [
+          "subsubsubacepciones": [
             {
-              "id_marcador_html": "— α α )",
-              "id_limpio": "— α α )",
-              "definicion": "En grado comparativo. X",
+              "id_limpio": "—",
+              "definicion": "Siendo el término una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
-                  "texto_cita": "«Estos son los principales estribos de nuestra confianza, y éstos los que hacían a los santos estar tan firmes en lo que esperaban como lo estaba en su lugar el monte de Sión.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Guía, 13. 53 (Cl. C. 97. 193). X"
-                },
-                {
-                  "texto_cita": "«No debían estar entonces los apóstoles tan firmes en la fe, como después estuvieron y tenemos razón de estar nosotros ahora.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Mor. (Cl. C. 1. 182)."
+                  "marca": "X",
+                  "texto_cita": "«Que al baile, por verte, | Van muchas pastoras, | Firmes en quererte.»",
+                  "autor": "Iglesias",
+                  "referencia_obra": ", letr. 7 (R. 61. 4203)."
                 }
               ]
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "— δ )",
-          "id_limpio": "— δ )",
-          "definicion": "Por sinécdoque, se dice también de algunas partes de la persona, por la persona misma. X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Dese modo, bien podría | Esperar dichosa palma, | Si en esta empresa mi alma | Calla, está firme y porfía»",
-              "autor": "Cerv.",
-              "referencia_obra": "Nov. (Cl. C. 27. 281). X"
-            },
-            {
-              "texto_cita": "«Norte será de hoy más, árbol de aviso, | En piélagos de llanto, en cielo airado, | De un firme corazón que, desamado, | Dio experiencias a Amor de cuanto quiso.»",
-              "autor": "Villamediana",
-              "referencia_obra": ", Obr. (Cl. Castal. 8. 157). X"
-            },
-            {
-              "texto_cita": "«¿Cómo pudiera el olvido, | A mi pecho de diamante, | Hacer de firme, inconstante, | Si enamorado imagino, | Que hago valor de ser fino?»",
-              "autor": "Rojas",
-              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 39)."
-            }
-          ],
-          "subsubacepciones": []
-        },
-        {
-          "id_marcador_html": "— ε )",
-          "id_limpio": "— ε )",
-          "definicion": "Predicado de la pasión o sentimiento mismo. X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«A quien no le duele un mal | Ni ablanda un firme querer | Podría quiçá doler | Otro que no fuesse tal.»",
-              "autor": "Montem.",
-              "referencia_obra": "Diana, p. 156."
-            },
-            {
-              "texto_cita": "«La verdadera y firme amistad es tener un mesmo querer y no querer con nuestro amigo.»",
-              "autor": "Gran.",
-              "referencia_obra": "Adic. al Mem. 1. 5 (R. 8. 4341). X"
-            },
-            {
-              "texto_cita": "«Diole sal el pastor, y ella contenta | La tomó de la misma justa mano, | Que un firme amor cualquier agravio olvida.»",
-              "autor": "Lope",
-              "referencia_obra": ", Poes. lír. (Cl. C. 68. 117)."
-            },
-            {
-              "texto_cita": "«Con fe pura | Paga el amor con que mi fe la adora; | Es noble, es bella, es firme; y yo dichoso | En la palabra que le di de esposo.»",
-              "autor": "Alarcón",
-              "referencia_obra": ", El tejedor de Segovia, 3. 18 (R. 20. 4123)."
-            },
-            {
-              "texto_cita": "«¿Por qué ha de ser tan dura la verdad, y por qué la amistad no ha de ser firme para decirla y dócil para escucharla?»",
-              "autor": "Jovell.",
-              "referencia_obra": "Corresp. con Posada (R. 50. 2481 )."
             }
           ],
           "subsubacepciones": [
@@ -1378,21 +1657,124 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
+                  "texto_cita": "«Estos son los principales estribos de nuestra confianza, y éstos los que hacían a los santos estar tan firmes en lo que esperaban como lo estaba en su lugar el monte de Sión.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "Guía, 13. 53 (Cl. C. 97. 193)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«No debían estar entonces los apóstoles tan firmes en la fe, como después estuvieron y tenemos razón de estar nosotros ahora.»",
+                  "autor": "Sta. Ter.",
+                  "referencia_obra": "Mor. (Cl. C. 1. 182)."
+                }
+              ],
+              "subsubsubacepciones": []
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "— δ )",
+          "id_limpio": "— δ )",
+          "definicion": "Por sinécdoque, se dice también de algunas partes de la persona, por la persona misma.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
+              "texto_cita": "«Dese modo, bien podría | Esperar dichosa palma, | Si en esta empresa mi alma | Calla, está firme y porfía»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. (Cl. C. 27. 281)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Norte será de hoy más, árbol de aviso, | En piélagos de llanto, en cielo airado, | De un firme corazón que, desamado, | Dio experiencias a Amor de cuanto quiso.»",
+              "autor": "Villamediana",
+              "referencia_obra": ", Obr. (Cl. Castal. 8. 157)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«¿Cómo pudiera el olvido, | A mi pecho de diamante, | Hacer de firme, inconstante, | Si enamorado imagino, | Que hago valor de ser fino?»",
+              "autor": "Rojas",
+              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 39)."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": []
+        },
+        {
+          "id_marcador_html": "— ε )",
+          "id_limpio": "— ε )",
+          "definicion": "Predicado de la pasión o sentimiento mismo.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
+              "texto_cita": "«A quien no le duele un mal | Ni ablanda un firme querer | Podría quiçá doler | Otro que no fuesse tal.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana, p. 156."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«La verdadera y firme amistad es tener un mesmo querer y no querer con nuestro amigo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 1. 5 (R. 8. 4341)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Diole sal el pastor, y ella contenta | La tomó de la misma justa mano, | Que un firme amor cualquier agravio olvida.»",
+              "autor": "Lope",
+              "referencia_obra": ", Poes. lír. (Cl. C. 68. 117)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Con fe pura | Paga el amor con que mi fe la adora; | Es noble, es bella, es firme; y yo dichoso | En la palabra que le di de esposo.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El tejedor de Segovia, 3. 18 (R. 20. 4123)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«¿Por qué ha de ser tan dura la verdad, y por qué la amistad no ha de ser firme para decirla y dócil para escucharla?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 2481 )."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": [
+            {
+              "id_marcador_html": "— α α )",
+              "id_limpio": "— α α )",
+              "definicion": "En grado comparativo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
                   "texto_cita": "«Dulcinea se está entera, y mis pensamientos más firmes que nunca.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 59 (R. 1. 5292). — Con valor ponderativo."
-                },
+                  "referencia_obra": "Quij. 2. 59 (R. 1. 5292)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y si esto es así, se podría echar de ver, para universal admiración, cuán firme debió ser la amistad destos dos pacíficos animales.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 12 (R. 1. 4272)."
-                },
-                {
-                  "texto_cita": "«¡Oh cuán poco en las dichas | Está firme el amor y la fortuna.»",
-                  "autor": "Lope",
-                  "referencia_obra": ", Gatom. 1 (Obr. suelt. 19. 181)."
+                  "id_limpio": "—",
+                  "definicion": "Con valor ponderativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y si esto es así, se podría echar de ver, para universal admiración, cuán firme debió ser la amistad destos dos pacíficos animales.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 2. 12 (R. 1. 4272)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«¡Oh cuán poco en las dichas | Está firme el amor y la fortuna.»",
+                      "autor": "Lope",
+                      "referencia_obra": ", Gatom. 1 (Obr. suelt. 19. 181)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1402,25 +1784,31 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Se aplica también a las personas creyentes en una religión.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Algunos [moriscos] había cristianos firmes y verdaderos.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 54 (R. 1. 5182)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Murió de un mosquetazo por los pechos el tirón, ilustrísimo irlandés y firmísimo católico.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal. 5 (R. 21. 5291)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1429,63 +1817,78 @@
     {
       "id": "i)",
       "definicion": "Resuelto, determinado a cumplir o realizar lo que se propone o lo que está obligado.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Dicho de las personas o de las cosas personificadas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Hombre de prudencia con negocios graves, de ánimo firme.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granad. 1 (R. 21. 692)."
             },
             {
+              "marca": "",
               "texto_cita": "«Huaina Capac vivía, y las fuerzas todas de aquel grande estado, dirigidas por un príncipe tan hábil como firme, cayendo de pronto sobre aquellos pocos advenedizos, fácilmente los hubieran exterminado.»",
               "autor": "Quint.",
-              "referencia_obra": "Pizarro (R. 19. 309 ). X"
+              "referencia_obra": "Pizarro (R. 19. 309 )."
             },
             {
+              "marca": "X",
               "texto_cita": "«Santander, de un lado conservador de chapa, si los hubo, y si este calificativo corresponde al estadista rígido, organizador y firme, fue por otro lado el sembrador más resuelto de la simiente liberal.»",
               "autor": "",
               "referencia_obra": "M. F. Suárez, Sueños, 2 (p. 29)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En grado comparativo, con valor ponderativo. X",
+              "definicion": "En grado comparativo, con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Fuera muy más justo nonbrar por auctores de aquel vençimiento a los alemanes, que fueron los que más presto acudieron, y los que más firmes estuvieron en la canpaña, y los que con mejor meneo y denuedo acometieron.»",
                   "autor": "Jmz. de Quesada",
                   "referencia_obra": ", El Antijovio (ICC. 10. 231)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, se indica aquello en que uno está resuelto o determinado. X",
+              "definicion": "Con en, se indica aquello en que uno está resuelto o determinado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si os olvidan y se apartan de las ocasiones de ser infamadas, dezís que de inconstantes y poco firmes en un propósito.»",
                   "autor": "Montem.",
                   "referencia_obra": "Diana, p. 44."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Con la misma [facilidad] se lo concedieron Mahamut y Ricardo; y quedando firmes en esto, aquel mismo día dio cuenta el cadí a Halima del viaje que pensaba hacer a Constantinopla.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Nov. 2 (R. 1. 1302). X"
+                  "referencia_obra": "Nov. 2 (R. 1. 1302)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Viendo que Quela permanecía firme y constante en su determinación, el tío Juan López se encaminó entre aflijido y abochornado a casa del alcalde.»",
                   "autor": "Fern.",
                   "referencia_obra": "Caball. Lágrimas, p. 38."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1493,42 +1896,52 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Referido especialmente al alma, la voluntad, el carácter y a sus determinaciones.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Partieron la vuelta de Andrinópoli --- con la firme determinación de pelear con Miguel, aunque fuese asistido del mayor poder de su imperio.»",
               "autor": "Moncada",
-              "referencia_obra": ", Exped. 36 (R. 21. 341). X"
+              "referencia_obra": ", Exped. 36 (R. 21. 341)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Martín estaba en mi casa, con una cartera atiborrada de proyectos, de cuya autenticidad nada he podido saber, y la firme disposición de casarse con mi hija.»",
               "autor": "García Márquez",
               "referencia_obra": ", Hojarasca, p. 99."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo absol. X",
+              "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Propuestos ya estos dos preámbulos, el primer fundamento desta obra, y la primera piedra deste edificio es asentar en tu corazón un muy firme y determinado propósito de morir mil muertes, si fuese necesario, antes que hacer un pecado mortal contra Dios.»",
                   "autor": "Gran.",
                   "referencia_obra": "Guía, 3 (Cl. C. 97. 115)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En superlativo relativo. X",
+              "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Destinado [el proyecto] a poner en salvo y en cobro para siempre, de un modo absoluto, en la manera más firme, sin restricciones mentales y sin segundas intenciones, los derechos e intereses de la religión.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 2 (p. 182)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1537,53 +1950,66 @@
     {
       "id": "j)",
       "definicion": "Tenaz, obstinado.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Se dice de las personas y de las afecciones del alma o del cuerpo. X",
+          "definicion": "Se dice de las personas y de las afecciones del alma o del cuerpo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«— El viejo es firme. — Y el mozo | Testarudo como cuatro. | — Lucinda es un gran partido. | — ¿Lo soy yo menos acaso?»",
               "autor": "Bello",
-              "referencia_obra": ", Poes. p. 154. X"
+              "referencia_obra": ", Poes. p. 154."
             },
             {
+              "marca": "X",
               "texto_cita": "«En ellos ostenta con pura altiveza, | Fijándolos firme, intrépido ardor, | Más luego se apaga con fría tristeza.»",
               "autor": "Espronc.",
               "referencia_obra": "Poes. (Cl. C. 47. 227)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En grado comparativo, con valor ponderativo. X",
+              "definicion": "En grado comparativo, con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Ay miembros fatigados, y cuán firme | Es el dolor que os cansa y enflaquece!»",
                   "autor": "Garcil.",
                   "referencia_obra": "Obr. égl. 2 (Cl. C. 3. 29)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de o en, que determina aquello en que la persona se muestra tenaz.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Viniendo a toda priesa adonde estaba | Firme en el triste llanto y sentimiento ---.»",
                   "autor": "Erc.",
-                  "referencia_obra": "Arauc. 21 (R. 17. 801). X"
+                  "referencia_obra": "Arauc. 21 (R. 17. 801)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Empenachados de ilusión | Y acorazados de audacia, --- | Firmes de ardor, vivos de empeño.»",
                   "autor": "Darío",
                   "referencia_obra": ", Poes. p. 406."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1592,47 +2018,58 @@
     {
       "id": "k)",
       "definicion": "Imperturbable, sereno.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ni porque el cielo mires quebrantado | Venirse a tierra con estruendo horrible, | Muestres el firme corazón turbado.»",
               "autor": "Jáur.",
               "referencia_obra": "eleg. Partió la noche (R. 42. 1091)."
             },
             {
+              "marca": "",
               "texto_cita": "«Roja sangre | De la herida manaba; pero firme | Los dolores sufría.»",
               "autor": "",
-              "referencia_obra": "Hermosilla, Iliada. 11 (1. 350). X"
+              "referencia_obra": "Hermosilla, Iliada. 11 (1. 350)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Voy firme por mi camino | Juzgando al Destino fiel: | Me prometió de su vino, | Me prometió de su miel | Y me prometió el divino | Logro del Ensueño aquél.»",
               "autor": "Nervo",
               "referencia_obra": ", Poes. (Obr. complet. 2. 1811)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Por sinécdoque, se predica también de las partes. X",
+          "definicion": "Por sinécdoque, se predica también de las partes.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Huyendo el portento luminoso, | Que aún más la atemoriza que le admira; | Solo, con rostro firme, el generoso | Prelado al nuevo sol, atento, mira.»",
               "autor": "Jáur.",
-              "referencia_obra": "Rimas (Cl. C. 182. 175). X"
+              "referencia_obra": "Rimas (Cl. C. 182. 175)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vedle, don Felix es espada en mano, | Sereno el rostro, firme el corazón.»",
               "autor": "Espronc.",
               "referencia_obra": "Estud. de Salam. (Cl. C. 47. 148)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1640,67 +2077,92 @@
     {
       "id": "l)",
       "definicion": "Insobornable, que no se deja seducir por halagos, ni influir por consideraciones subalternas. Con contra, para expresar aquello de que uno es insobornable.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«La cabeza de aquel hombre, ya desvanecida con los honores y mercedes que la corte le hacía --- no podía mantenerse firme contra las sugestiones de la ambición.»",
           "autor": "Quint.",
           "referencia_obra": "Pizarro (R. 19. 3482)."
         },
         {
+          "marca": "",
           "texto_cita": "«Pero él, firme contra las sugestiones del interés y del temor, respondió fieramente ---.»",
           "autor": "",
           "referencia_obra": "Id. Gran Capitán (R. 19. 274 )."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "4",
       "definicion": "Bien ceñido, templado, tenso.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Dicho de cuerpos flexibles como cuerdas, Tenso, templado o apretadamente entretejido.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿No viste siempre en firme lazo atadas | La piedad y la fe a la mansedumbre?»",
               "autor": "Rioja",
               "referencia_obra": ", Versos, p. 344."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En grado comparativo. X",
+              "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Entonres con tan firme y duradero | Lazo un efecto al otro se eslabona, | Que no se da poder que los desuna | En el mundo, en el tiempo, en la fortuna.»",
                   "autor": "Bello",
-                  "referencia_obra": ", Poes. p. 434. X"
+                  "referencia_obra": ", Poes. p. 434."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ellas le abrazan [a Laconte] | Con doble, firme vuelta la cintura; | Los escamados lomos le relazan | A la garganta, y a mayor altura | Sobrealzando las crestas, amenazan.»",
                   "autor": "Caro",
-                  "referencia_obra": ", Obr. de Virgilio (2. 88). X"
+                  "referencia_obra": ", Obr. de Virgilio (2. 88)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Angélica Inés volvió a sonreir, descansó nuevamente en su misterio --- balanceando en la tarde sin viento las trenzas maduras y firmes como sogas.»",
                   "autor": "Onetti",
-                  "referencia_obra": ", El astillero, p. 105. — Con valor ponderativo. X"
-                },
+                  "referencia_obra": ", El astillero, p. 105."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El sol, aun quando más firme la rienda | De sus aetones con que el monte gira, | Ni aun por rexas de trébol ve el camino.»",
-                  "autor": "Cueto",
-                  "referencia_obra": "y Mena, Obr. (ICC. 9. 207)."
+                  "id_limpio": "—",
+                  "definicion": "Con valor ponderativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El sol, aun quando más firme la rienda | De sus aetones con que el monte gira, | Ni aun por rexas de trébol ve el camino.»",
+                      "autor": "Cueto",
+                      "referencia_obra": "y Mena, Obr. (ICC. 9. 207)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1711,41 +2173,51 @@
     {
       "id": "b)",
       "definicion": "Aplicado al rostro de las personas o a su representación, De líneas precisas, bien destacadas.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Tenía [Monseñor Antonelli] los ojos llenos de fuego, la nariz aguileña y la boca de estatua, firme y bien dibujada.»",
               "autor": "Valle-Inclán",
-              "referencia_obra": ", Sonata de primav. p. 23. X"
+              "referencia_obra": ", Sonata de primav. p. 23."
             },
             {
+              "marca": "X",
               "texto_cita": "«He aquí que parece concretarse una de ellas [imágenes] en firmes y preciosos contornos; he aquí que un recuerdo súbito la hiere y, como las formas de las nubes, tiembla y se disipa.»",
               "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 48. X"
+              "referencia_obra": ", Motivos de Proteo, p. 48."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los gruesos labios se plegaban naturalmente, sin deformaciones y, entre los ojos cerrados, la nariz de firme trazo a una frente severa y dulce, enmarcadas por dos ondas de albo cabello.»",
               "autor": "Alegría",
               "referencia_obra": ", El mundo es ancho y ajeno, 2 (p. 64)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo absol. X",
+              "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El río apressurado | Lleve abundancia siempre de agua clara; | Y tú, Fortuna avara, | Vuelve el rostro de crudo y variable | Muy firme y favorable.»",
                   "autor": "Gil Polo",
                   "referencia_obra": ", Diana (Cl. C. 135. 193)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1753,32 +2225,40 @@
     },
     {
       "id": "c)",
-      "definicion": "De la escritura o el estilo, Claro, seguro, inequívoco. X",
+      "definicion": "De la escritura o el estilo, Claro, seguro, inequívoco.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Lord Macaulay, de atractiva exposición, a pesar de sus tendencias oratorias o tal vez por ellas, Sydney Smith, de pluma firme y a trechos sarcástica, y otros.»",
           "autor": "Sanín Cano",
           "referencia_obra": ", El humanismo, p. 60."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "",
           "id_limpio": "",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para indicar el objeto en que reside el vigor. X",
+              "definicion": "Con de, para indicar el objeto en que reside el vigor.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Asombra encontrar, entre el fárrago insulso de los versos que entonces se componían, una meditación poética tan alta de pensamiento y tan firme de estilo --- como la citada.»",
                   "autor": "Menéndez y Pelayo",
                   "referencia_obra": ", Discursos (Cl. C. 140. 64)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1787,37 +2267,47 @@
     {
       "id": "5",
       "definicion": "Indeleble, bien grabado.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "En lo escrito.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "En grado comparativo. X",
+          "definicion": "En grado comparativo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«De mi carácter conservador, más fino y más firme que si estuviera trazado sobre un pañuelo con tinta de fruta de aguacate o persea gratísima.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 4 (p. 59)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con valor ponderativo. X",
+              "definicion": "Con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡O escriptura tan firme, cuya pluma son duros clavos, cuya tinta es la misma sangre del que escrive, y el papel su propria carne!»",
                   "autor": "Ávila",
                   "referencia_obra": ", Epist. 20 (Cl. C. 11. 262)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1826,81 +2316,99 @@
     {
       "id": "b)",
       "definicion": "En la mente o la memoria.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Y habla Salomón de esta diligencia aquí --- por dejarla con el repetir más firme en la memoria.»",
           "autor": "León",
           "referencia_obra": ", Perf. cas. 17 (3. 501)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "6",
       "definicion": "adv.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Con firmeza, seguridad, certeza.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Y creyendo firme con el entendimiento que todo poder es de Dios --- haremos burla de nuestro enemigo.»",
           "autor": "Ávila",
           "referencia_obra": ", Audi. 30 (Míst. 3. 188)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Con valor, sin debilidad.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Téngase, señora firme en la cruz: no quiera descender de ella por descansar.»",
           "autor": "Ávila",
           "referencia_obra": ", Epist. 3. 25 (7. 112)."
         },
         {
+          "marca": "",
           "texto_cita": "«Acometed con gallardía, tened firme en los peligros.»",
           "autor": "Mariana",
           "referencia_obra": ", Hist. Esp. 16. 7 (R. 30. 4721)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
-      "definicion": "Con fuerza. X",
+      "definicion": "Con fuerza.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Pues atadme por un cabo, | Tendrás firme por esotro, | Por si de la escala caigo.»",
           "autor": "Cañizares",
-          "referencia_obra": ", La más ilustre fregona, 2 (R. 49. 604 ). X"
+          "referencia_obra": ", La más ilustre fregona, 2 (R. 49. 604 )."
         },
         {
+          "marca": "X",
           "texto_cita": "«Pues tente firme — ¡Qué diestro | Está el bellaco lacayo!»",
           "autor": "Lope",
-          "referencia_obra": ", El perro del hortelano (Cl. Castal. 25. 155). X"
+          "referencia_obra": ", El perro del hortelano (Cl. Castal. 25. 155)."
         },
         {
+          "marca": "X",
           "texto_cita": "«¡Qué bueno de verdad parecía su padre cuando alcanzaba el tabalet y se colgaba de la faja! (¿Cómo se lo agarraría tan firme de la faja?).»",
           "autor": "Miró",
-          "referencia_obra": ", Años y leguas, p. 157. X"
+          "referencia_obra": ", Años y leguas, p. 157."
         },
         {
+          "marca": "X",
           "texto_cita": "«Jugaba el niño en el jardín de la casa con una copa de cristal --- manteniéndola no muy firme, en una mano traía en la otra un junco con el que él golpeaba acompasadamente en la copa.»",
           "autor": "Rodó",
           "referencia_obra": ", Motivos de Proteo, p. 26."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «No piensan tener firme, como deben, mas temporizar, como suelen.» Pulgar, Letras, 7 (p. 186). X «Y pues esto visto tienes, | Que jamás podrás conmigo | Por herirme | Torna agora a darme bienes, | Porque tengas por amigo | Hombre tan firme.» J. Manr. Canc. (Cl. C. 94. 11). + «A la segunda y tercera generación, e todavía más adelante, serán católicos e firmes en la fe.» P. de Guzmán, Gener. 26 (R. 7092). «Casa de seguridat, | Firme contra todos vientos.» Santill. p. 232. «E todavia él estuvo firme en su propósito.» Crón. Juan II, 14. 37 (R. 68. 3942). «Piedra del monte tajada | Non por mano humanal | Mas por graçia divinal | Sea firme e bien fundada.» Canc. de Baena, p. 546. «Tú adelantaste virtud con estado, | Muriendo muy firme por la santa ley.» Mena, Lab. (Cl. C. 119. 101). «Por estar firmes aquellas [confederaciones], non se puede [él] excusar.» Seg. de Tordes. 68 (p. 91).\n\n— Siglo XIV: «Et esto es por muchas ocasiones que puden contescer a los falcones en las alcándaras que firmes non son ---.» Lz. de Ayala, Caza, 34 (Bibl. venat. 3. 2296). «Et como quiera que de amas las partes oviese omes muy firmes, pero los de la villa non podieron sofrir a los del rey.» Crón. Alf. Xl, 157 (R. 66. 2751). «Quando ellos estudieren firmes e non fuyeren, estonce lidiaré yo con ellos de rrezio.» Buenos proverbios (Knust, 39). «El infante lo desfacía e negaba al rey, que ge lo preguntaba, e se ofrecía firme en su servicio.» Crón. Álv. de Luna, 19 (p. 62). «Et sy en este tiempo --- non se querellare commo dicho es, finque el juyzio de que se alçó firme.» Cortes de Alcalá, año 1348 (C. de L. y C. 1. 512). «Non te atrevas en cosas en que no tengas los pies firmes.» Cast. e docum. 43 (R. 51. 1681). «A do este no es çimiento, no se puede faser obra firme, ni firme edifiçio segund dise el Apóstol.» Arc. de Hita, pról. (R. 57. 2262).\n\n— Siglo Xlll: «Fijo, está siempre firme en el buen proponimiento.» Cast. e docum. 70 (R. 51. 1991). «Por el quarto evangelio rogaron los obispos de Asia a sant Juan apóstol, porque fuessen quatro los pilares de la yglesia, en que se sostoviese ella firmemente, asy como es firme toda cosa quadrada.» Crón. gen. 1. 118 (p. 922). «Mandamos que sea tenudo el que se alzó de seguir el alzada fasta dos meses; et si en este tiempo non la siguiere, finque el juicio de que se agravió por firme.» Part. 3. 23. 23 (2. 695). «Mandamos que sea firme [esta partición] si se pudiere probar por testigos.» Fuero Juzgo, 10. 1. 2 (p. 164). «Mandó que --- | Entrassen en las naues cuemo firmes uarones.» Alex. 409 (R. 57. 1601). «Resuçitó don Xpo, de firmes lo creamos.» Berc. Loores, 117 (R. 57. 971). «Págame carta firme a mi plaçenteria.» Id. Mil. 740 (R. 57. 1261).\n\n— Siglo XII: «Ffirme[s] son los moros, avn nos van del campo.» Cid, 755 (R. 57. 102). «El que en buen ora nasco firme gelo vedaua.» Ib. 663 (R. 57. 92). «Myo Çid don Rodrigo Alcoçer cuida ganar. | Bien puebla el otero, firme prende las posadas.» ib. 557 (R. 57. 82). «Et prenda firmes del merino, mas que non responda a otro.» Fuero de Durango, año 1180 (Llor. Prov. Vasc. 4. 256).",
   "testimonios_latino_hispanicos": "Test. latin. hisp. «Illi cabezallarii possunt partire, et dare firmes, si volunt, et etiam vendere et impignorare hereditatem ad opus illorum.» Fuero de San Sebastián, año 1180 (Llor. Prov. Vasc. 4. 250). «Et si antea ista venditionem vel donationem firmis permaneat.» Docum, de 923 ó 929 (J. Villan. Viaje, 9. 218). «Et in antea ista scriptura firmis permaneat et stabilis omnique tempore.» Docum. de 924 (J. Villan. Viaje, 10. 246). «Et in antea ista dotis vel donatios firmis permaneat.» Docum. de 904 (J. Villan. Viaje, 13. 236).",
-  "etimologia": "Etim. Fr. ferme, it. fermo, prov. ferm, cat. ferma. Del lat. vulg. firmis, -e, y éste de firmes, de una antigua forma *fermus, como se tiene Virgilius frente a Vergilius.\n\n\u0000",
+  "etimologia": "Etim. Fr.<i> ferme,</i> it.<i> fermo,</i> prov.<i> ferm,</i> cat.<i> ferma.</i> Del lat. vulg.<i> firmis, -e,</i> y éste de<i> firmes,</i> de una antigua forma<i> *fermus,</i> como se tiene<i> Virgilius</i> frente a<i> Vergilius.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

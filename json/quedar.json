@@ -6,64 +6,87 @@
     {
       "id": "1",
       "definicion": "Detenerse, permanecer en un sitio, lugar o paraje (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Sí quedaban | Arnaldo y Baltasar y Ordoño, | Pero veis que nos detuvimos en la cuadra.»",
               "autor": "P. Mexía",
               "referencia_obra": ", Coloq. 2. 2 (p. 87)."
             },
             {
+              "marca": "",
               "texto_cita": "«Estos señores y yo, si de algún provecho fuéremos, y vuesas mercedes determinaren de quedar aquí esta noche, procuraremos que se les dé el mejor recado que ser pudiere.»",
               "autor": "Avell.",
               "referencia_obra": "Quij. 1 (R. 18. 42)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para indicar la finalidad. +",
+              "definicion": "Con a, para indicar la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Hacía el oficio de general un consejo formado de tres oidores, auditor general, Francisco Gutiérrez de Cuéllar ---, quedando a la guardia de la ciudad cuatro mil infantes.»",
                   "autor": "Mend.",
-                  "referencia_obra": "Guerra de Granad. 7 (p. 165). — El término es una prop. infinitiva. +"
-                },
+                  "referencia_obra": "Guerra de Granad. 7 (p. 165)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Aviendo quedado los soldados naturales de Damasco a poblar en tierra de Granada --- fácil cosa es de creer que Granada tomase el nombre de Nata la del poniente.»",
-                  "autor": "Mend.",
-                  "referencia_obra": "Guerra de Granada, 1 (p. 7)."
-                },
-                {
-                  "texto_cita": "«Y los demás que quedaron a morar en ella ---, fueron muertos por los israelitas.»",
-                  "autor": "Sig.",
-                  "referencia_obra": "Vida de S. Jer. 5. 4 (p. 429). +"
-                },
-                {
-                  "texto_cita": "«Poco seguro [Rocafort] de la determinación que tanta gente junta pudiera tomar, y temiéndose de algunos caballeros, que aunque eran sus amigos, deseaban que el Infante quedase a gobernalles, les dijo que el caso de que se trataba no podía discurrirse bien entre tantos.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ". Exped. 50 (R. 21. 472). +"
-                },
-                {
-                  "texto_cita": "«Igualmente ganaban sueldo los que quedaban a guardar los bastimentos como los que iban a pelear con los enemigos.»",
-                  "autor": "Guev.",
-                  "referencia_obra": "Oratorio, 12 (p. 53l)."
-                },
-                {
-                  "texto_cita": "«Pasaron luego los españoles de la vanguardia, quedando los tlascaltecas a continuar la diversión del enemigo.»",
-                  "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 5. 18 (R. 28. 3721)."
-                },
-                {
-                  "texto_cita": "«Estas plantas | Le vieron perecer [al hombre], y ellas quedaron: | Quedaron a esparcir sus ramos bellos | Sobre mí.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Poes. A. Cienfuegos (R. 19. 302)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Aviendo quedado los soldados naturales de Damasco a poblar en tierra de Granada --- fácil cosa es de creer que Granada tomase el nombre de Nata la del poniente.»",
+                      "autor": "Mend.",
+                      "referencia_obra": "Guerra de Granada, 1 (p. 7)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y los demás que quedaron a morar en ella ---, fueron muertos por los israelitas.»",
+                      "autor": "Sig.",
+                      "referencia_obra": "Vida de S. Jer. 5. 4 (p. 429)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Poco seguro [Rocafort] de la determinación que tanta gente junta pudiera tomar, y temiéndose de algunos caballeros, que aunque eran sus amigos, deseaban que el Infante quedase a gobernalles, les dijo que el caso de que se trataba no podía discurrirse bien entre tantos.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ". Exped. 50 (R. 21. 472)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Igualmente ganaban sueldo los que quedaban a guardar los bastimentos como los que iban a pelear con los enemigos.»",
+                      "autor": "Guev.",
+                      "referencia_obra": "Oratorio, 12 (p. 53l)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Pasaron luego los españoles de la vanguardia, quedando los tlascaltecas a continuar la diversión del enemigo.»",
+                      "autor": "Solís",
+                      "referencia_obra": ", Conq. de Méj. 5. 18 (R. 28. 3721)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Estas plantas | Le vieron perecer [al hombre], y ellas quedaron: | Quedaron a esparcir sus ramos bellos | Sobre mí.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Poes. A. Cienfuegos (R. 19. 302)."
+                    }
+                  ]
                 }
               ]
             },
@@ -71,72 +94,113 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, para indicar la compañía.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«A Endimión no dejes tú, Diana, | Queda con él, no siga al amor mío.»",
                   "autor": "Herr.",
                   "referencia_obra": "Egl. Venatoria (Fern. 18. 81)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de, para indicar el modo. X",
+              "definicion": "Con de, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sirvió Manuel la sopa, la tomaron todos los huéspedes, sorbiéndola con un desagradable resoplido, y, por mandato de su madre, el muchacho quedó allí, de pie.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, 1. 3 (p. 39). — Además con en, que señala el lugar."
-                },
+                  "referencia_obra": ", La busca, 1. 3 (p. 39)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No hay duda sino que antiguamente moró por allí cierta gente llamada Sicana, los cuales dicen quedaron de guarnición en aquella isla.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 1. 11 (1. 202)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, que señala el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«No hay duda sino que antiguamente moró por allí cierta gente llamada Sicana, los cuales dicen quedaron de guarnición en aquella isla.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 1. 11 (1. 202)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, que indica el lugar. +",
+              "definicion": "Con en, que indica el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Quedaron más de tres mill ombres en la costa esa noche.»",
                   "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 30 (1. 353). +"
+                  "referencia_obra": ", Quinquag. 1. 30 (1. 353)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Quedaron en Francia los soldados de la Iglesia todo el verano.»",
                   "autor": "Fuenmayor",
                   "referencia_obra": ", Vida de S. Pío V, 3 (p. 123)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Los partidos fueron: que los bienes de los ciudadanos muertos ... : los que quisiesen quedar en la ciudad, retuviesen sus haciendas.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 6. 25 (1. 3122). — Además con a, y una prop. en infinitivo. +"
-                },
+                  "referencia_obra": ", Hist. Esp. 6. 25 (1. 3122)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Valdivia quedó en la isla a preparar y activar los socorros que necesitaba el Darién.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Balboa (R. 19. 2841)."
+                  "id_limpio": "—",
+                  "definicion": "Además con a, y una prop. en infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Valdivia quedó en la isla a preparar y activar los socorros que necesitaba el Darién.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Balboa (R. 19. 2841)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con un gerundio. x",
+              "definicion": "Con un gerundio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Manuel pasó por la plaza del Oriente y quedó en el Viaducto mirando desde allá a la gente que pasaba por la calle de Segovia.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, 2. 9 (p. 117). — Además con atracción del pronombre."
-                },
+                  "referencia_obra": ", La busca, 2. 9 (p. 117)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Le suplicó que él y la hermosa Felismena se fuesen con ella al templo de Diana, donde los quedaba esperando con grandísimo deseo de verlos.»",
-                  "autor": "Montem.",
-                  "referencia_obra": "Diana, 7 (p. 126)."
+                  "id_limpio": "—",
+                  "definicion": "Además con atracción del pronombre.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Le suplicó que él y la hermosa Felismena se fuesen con ella al templo de Diana, donde los quedaba esperando con grandísimo deseo de verlos.»",
+                      "autor": "Montem.",
+                      "referencia_obra": "Diana, 7 (p. 126)."
+                    }
+                  ]
                 }
               ]
             }
@@ -146,185 +210,251 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl. x",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Se les suele ofrecer entrar acaso por una selva tan intrincada, que no aciertan a salir de ella en seis días; y si el hombre no va harto, o bien proveído las alforjas, allí se podrá quedar, como muchas veces se queda, hecho carne momia.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 50 (CI. C. 10. 290)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los seis vuelven a salir, | Y el uno dentro se queda.»",
               "autor": "Alarcón",
-              "referencia_obra": ", La cueva de Salamanca, 1 (R. 20. 882). +"
+              "referencia_obra": ", La cueva de Salamanca, 1 (R. 20. 882)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Como se fueron alzando los demonios, él [hombrecico] se fue quedando, y sin saber de sí ni poder moverse de donde estaba.»",
               "autor": "Espinel",
               "referencia_obra": ", Escud. 1. 23 (CI. C. 43. 284). x"
             },
             {
+              "marca": "",
               "texto_cita": "«En estas y en las poblaciones primitivas es regular, se fueran quedando los Gefes de familias, los padres y ancianos: y que sus hijos --- fuessen respectivamente llevando a otras partes nuevas Colonias.»",
               "autor": "Rdgz. Mohedano",
               "referencia_obra": ", Hist. lit. esp. 1. 1 (p. 42). x"
             },
             {
+              "marca": "",
               "texto_cita": "«Al punto vais a marchar. | —¿A dónde? —el anciano dijo, | —Para el destierro, —Y mi hijo? | Aquí se debe quedar.»",
               "autor": "Carrasquilla",
               "referencia_obra": ", Obr. p. 312. x"
             },
             {
+              "marca": "",
               "texto_cita": "«El capitán sabe que voy a ausentarme de él para siempre, que me quedaré aquí, y no puede ocultar su desagrado.»",
               "autor": "E. Zalamea",
               "referencia_obra": ", Cuatro años, 7 (p. 135). x"
             },
             {
+              "marca": "",
               "texto_cita": "«Y aquí me quedo, porque hay un Madrid velazqueño y calderoniano cuya esencia quiero atrapar.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 115. x"
             },
             {
+              "marca": "",
               "texto_cita": "«Sin embargo, a medida que el tiempo pasaba era más evidente su intención de quedarse, pues no concebía planes que no fueran a largo plazo.»",
               "autor": "García Márquez",
               "referencia_obra": ", Cien años de soledad, p. 344."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. Además con para, que indica la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¡Oh, y hermano, si supieses qué merced tan grande te hizo Jesu-Cristo en quedársete acá para mantenimiento.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Eucar. 26 (4. 395)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con a. x",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Aquí debe de estar sin duda, porque éste es el coche que él dicen que sigue: quédese uno de nosotros a la puerta y entren los demás a buscarle.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 44 (CI. C. 10. 148). x"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y entrándose los dos dentro, uno se quedó a la puerta y el otro se fue a rodear la venta.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 1. 44 (CI. C. 10. 149). — El término es una prop. infinitiva. x"
-                },
+                  "referencia_obra": "Id. ib. 1. 44 (CI. C. 10. 149)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Determineme de no volver más a la escuela ni a casa de mis padres, sino de quedarme a servir a don Diego.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Buscón (CI. C. 5. 32)."
-                },
-                {
-                  "texto_cita": "«Por sueño, o por descuido, alguna dueña | Que en la antesala del pequeño infante | Se quedaba a velar, dejó una antorcha | Inmediata a un movible cortinaje.»",
-                  "autor": "A. Saav.",
-                  "referencia_obra": "Moro expós. 9 (2. 319)."
-                },
-                {
-                  "texto_cita": "«Los desposados se quedaron a vivir en la ciudad.»",
-                  "autor": "Valera",
-                  "referencia_obra": ", Comendador Mendoza, 30 (p. 233). +"
-                },
-                {
-                  "texto_cita": "«Al menos —dijo D. Estanislao— hazme el favor de acompañarme a almorzar --- . Quedóse Pío Cid a almorzar.»",
-                  "autor": "Ganiv.",
-                  "referencia_obra": "Pío Cid. 4 (Obr. 2. 139)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva. x",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Determineme de no volver más a la escuela ni a casa de mis padres, sino de quedarme a servir a don Diego.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Buscón (CI. C. 5. 32)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Por sueño, o por descuido, alguna dueña | Que en la antesala del pequeño infante | Se quedaba a velar, dejó una antorcha | Inmediata a un movible cortinaje.»",
+                      "autor": "A. Saav.",
+                      "referencia_obra": "Moro expós. 9 (2. 319)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Los desposados se quedaron a vivir en la ciudad.»",
+                      "autor": "Valera",
+                      "referencia_obra": ", Comendador Mendoza, 30 (p. 233)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Al menos —dijo D. Estanislao— hazme el favor de acompañarme a almorzar --- . Quedóse Pío Cid a almorzar.»",
+                      "autor": "Ganiv.",
+                      "referencia_obra": "Pío Cid. 4 (Obr. 2. 139)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de, para indicar el tiempo. Además con un gerundio que indica el modo. +",
+              "definicion": "Con de, para indicar el tiempo. Además con un gerundio que indica el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Estando el Marqués [don Pedro Dávila] preso --- y visitándole sus amigos ---, muchas veces o siempre se quedaban de noche acompañándole.»",
                   "autor": "Espinel",
                   "referencia_obra": ". Escud. 2 (CI. C. 51. 11)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en, que expresa el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Le mandó precepto de santa obediencia que se quedase en su Arzobispado.»",
                   "autor": "Gran.",
                   "referencia_obra": "Vida de Ávila, 5 (6. 6582). x"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Es bien que se consuma a humo muerto como si fuera hoja seca de carrasco viejo, que después de vendida la leña se queda en la lastre de la carreta?»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 50 (CI. C. 19. 252«Y así como la dueña la vio entrar en la estancia de don Quijote, porque no faltase en ella la general costumbre que a todas las dueñas tienen de ser chismosas, al momento lo fue a poner en pico a su señora la Duquesa, de como doña Rodríguez quedaba en el aposento de don Quijote.» ). x"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Manuel y la sobrina de la patrona se quedaron en el pasillo.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, 1. 3 (p. 43). — Además con la prep. con, para señalar la compañía. +"
-                },
+                  "referencia_obra": ", La busca, 1. 3 (p. 43)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Resuelto ya [Roger] de partirse, María su mujer con todos los de su casa no quiso quedarse en Galípoli.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ", Exped. 26 (R. 21. 251)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para señalar la compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Resuelto ya [Roger] de partirse, María su mujer con todos los de su casa no quiso quedarse en Galípoli.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ", Exped. 26 (R. 21. 251)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con para y una prop. infinitiva, que expresa la finalidad. +",
+              "definicion": "Con para y una prop. infinitiva, que expresa la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Dos días se detuvo Montaner en su compañía [la del Infante], platicando los medios más necesarios para su libertad, y últimamente, quiso quedarse para serville y asistille en la prisión.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 57 (R. 21. 541)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con por, para introducir una frase adverbial de tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Escribí al Obispo de Palencia, suplicándole, qúe pues ya había tan poco de Verano, que se quedase por entonces.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Fund. 31 (2. 460)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Con un predicado. +",
+              "definicion": "Con un predicado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«El menor daño que me podía suceder era quedarme por yerno en casa [del turco].»",
                   "autor": "Espinel",
-                  "referencia_obra": ". Escud. 2. 9 (Cl. C. 51. 70). X"
+                  "referencia_obra": ". Escud. 2. 9 (Cl. C. 51. 70)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tobías se quedó apoyado contra el muro, parapetado por la camilla.»",
                   "autor": "Fuentes",
-                  "referencia_obra": ", Obr. complet. p. 1286. — Además con en, que señala el lugar. +"
-                },
+                  "referencia_obra": ", Obr. complet. p. 1286."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Suelen los varones perfectos y religiosos, acabados, quedarse postreros en el coro.»",
-                  "autor": "Guev.",
-                  "referencia_obra": "Oratorio, 35 bis (p. 655). X"
-                },
-                {
-                  "texto_cita": "«Le insta para que se quede en Rusia como oficial del ejército.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr del Caribe, 4. 23 (p. 273)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, que señala el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Suelen los varones perfectos y religiosos, acabados, quedarse postreros en el coro.»",
+                      "autor": "Guev.",
+                      "referencia_obra": "Oratorio, 35 bis (p. 655)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Le insta para que se quede en Rusia como oficial del ejército.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr del Caribe, 4. 23 (p. 273)."
+                    }
+                  ]
                 }
               ]
             }
@@ -333,113 +463,140 @@
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pasar en un lugar la noche o un rato largo. X",
+          "definicion": "Pasar en un lugar la noche o un rato largo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Don Quijote ---ordenó que al momento se partiesen y fuesen a parar la noche enla venta, sin tocar en la ermita, donde quisiera el primo que se quedasen.»",
               "autor": "",
               "referencia_obra": "Cerv. Quij. 2. 24 (Cl. C. 16. 123)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "No quedar atrás: no ser inferior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No queda muy atrás del nuestro el sentimiento que yo tengo para tan buen hijo y aprovechado discípulo como vos.»",
                   "autor": "J. de Pineda",
                   "referencia_obra": ", Agr. crist. 31. 1 (R. 170. 1471)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Quedarse a (con) Dios. X",
+              "definicion": "Quedarse a (con) Dios.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sabed que yo soy el valeroso don Quijote de la Mancha, el desfacedor de agravios y sinrazones, y a Dios quedad.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 4 (Cl. C. 4. 122). X"
+                  "referencia_obra": "Quij. 1. 4 (Cl. C. 4. 122)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Sábese, por ventura —dijo Anselmo—, el camino que llevan Lotario y Camila? — Ni por pienso —dijo el ciudadano—, puesto que el gobernador ha usado de mucha diligencia en buscarlos. — A Dios vais, señor —dijo Anselmo. —Con él quedéis —espondió el ciudadano, y fuese.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 1. 35 (Cl. C. 8. 274)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si tú quieres quedarte, compañero, | Quédate a Dios, que sale ya la estrella.»",
                   "autor": "Valb.",
                   "referencia_obra": "Siglo de oro, 2 (p. 57)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Quedarse aquí: No llevar más lejos un asunto. X",
+              "definicion": "Quedarse aquí: No llevar más lejos un asunto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Dígolo porque todos nos conocemos, y a mí se me ha de echar dado falso. Y en esto del encantamiento de mi amo Dios sabe la verdad; y quédese aquí, porque es peor meneallo.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 47 (Cl. C. 10. 227). X"
+                  "referencia_obra": "Quij. 1. 47 (Cl. C. 10. 227)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La sin par Dulcinea del Toboso es quien es, y la señora doña Belerma es quien es, y quien ha sido, y quédese aquí.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 2. 23 (Cl. C. 16. 102)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Quedarse atrás: ser inferior a uno.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mucho debo a Dios y a mi padre por me haber puesto en las letras, viendo que los que no han estudiado me quedan tan atrás, que no merecen comparárseme.»",
                   "autor": "J. de Pineda",
                   "referencia_obra": ", Agr. crist. 15. 31 (R. 163. 118)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Digo que sois un ramo de fino coral, que alegráis el corazón con vuestras dulces palabras. —Yo creo que son sus sabrosas dádivas. — Pues no le quedáis vos atrás ni aun venía desconfiado de vuestra liberalidad más que alejandrinos.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 19. 1 (R. 163. 2731)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Quedarse en el tintero: sin relatar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Qué te preguntó de mí? Y tú, ¿qué le respondiste? Acaba, cuéntamelo todo; no se te quede en el tintero una mínima.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 31 (Cl. C. 8. 133)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Quedarse en zaga: ser adelantado por otros. +",
+              "definicion": "Quedarse en zaga: ser adelantado por otros.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«El nuevo maestre de campo --- y los otros jefes de los barrios y todos los nuevos empleados, por no quedarse en zaga, se mostraron aquella mañana misma inexorables contra cuantos se calificaban ligeramente de sospechosos.»",
                   "autor": "A. Saav.",
                   "referencia_obra": "Masan. 1. 16 (R. 102. 1751)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -448,40 +605,50 @@
     {
       "id": "2",
       "definicion": "Permanecer, subsistir una persona, una cosa o parte de ella.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Dicho de personas (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Alamo no quedó, no quedó fuente, | Pastor ni lavandera, --- | Que no se condoliese tiernamente | De ver en su ribera | Llorar de amor un hombre Licenciado.»",
               "autor": "Lope",
-              "referencia_obra": ", Canc. (Fern. 11. 101). X"
+              "referencia_obra": ", Canc. (Fern. 11. 101)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Al detenernos en la estación de Burgos, bajaron los cuatro hombres atados, y todos los que quedaban se pusieron a charlar y a hacer comentarios sobre la suerte de aquellos infelices.»",
               "autor": "Baroja",
-              "referencia_obra": ", La busca, p. 19. X"
+              "referencia_obra": ", La busca, p. 19."
             },
             {
+              "marca": "X",
               "texto_cita": "«En la guarapería de la comadre María sólo quedaban dos borrachos que se abrazaban llorando, tirados por tierra.»",
               "autor": "Caballero Calderón",
-              "referencia_obra": ", Siervo, 2. 5 (p. 128). X"
+              "referencia_obra": ", Siervo, 2. 5 (p. 128)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sabemos donde está cada ventana --- | Dónde quedaron enterrados los sueños | De los muertos y también de los vivos | Dónde quedó el resto del naufragio | Y dónde están los sobrevivientes.»",
               "autor": "Benedetti",
               "referencia_obra": ", Noc. Patria (La casa, 30)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -489,106 +656,131 @@
     {
       "id": "b)",
       "definicion": "Dicho de cosas. (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Junto a él estaba otro [libro] que se llamaba Palmerín de Inglaterra, lo cual visto por el licenciado, dijo: —esa oliva se haga luego rayas y se queme, que aun no queden della las cenizas.»",
               "autor": "",
-              "referencia_obra": "Cerv. Quij. 1. 6 (Cl. C. 4. 158). X"
+              "referencia_obra": "Cerv. Quij. 1. 6 (Cl. C. 4. 158)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y, así, se bebió de la que no pudo caber en la alcuza y quedaba en la olla donde se había cocido, casi media azumbre.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 17 (Cl. C. 6. 57). +"
+              "referencia_obra": "Quij. 1. 17 (Cl. C. 6. 57)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Donde mucho hubo, algo queda.»",
               "autor": "Ganiv.",
               "referencia_obra": "Pío Cid, 4 (Obr. 2. 80)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No había de quedar en el Perú ni una pizarra en que tropezar.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Pizarro (2. 148). X"
+                  "referencia_obra": "Pizarro (2. 148)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Las lagunas actuales eran un solo volcán humeante | Y una vez cayó ceniza como una nieve negra | Y quedaron las huellas en la corriente de lodo volcánico | Que iba hacia el lago.»",
                   "autor": "Cardenal",
                   "referencia_obra": ", Poesía, p. 291."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con para, que indica la finalidad. El término es una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Cuanto más se gasta en adquirir, tanto menos queda para mejorar.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Informes (7. 85). X"
+                  "referencia_obra": "Informes (7. 85)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ella entendería. Quedaba esa carta para salvar las cosas.»",
                   "autor": "Fuentes",
                   "referencia_obra": ", Obr. complet. p. 1131."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. +",
+          "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Esto [de la seda y paño] se quede aquí, que en otra parte se tratará más esta materia.»",
               "autor": "Oviedo",
               "referencia_obra": ", Quinquag. 1. 14 (1. 176)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con +",
+              "definicion": "Con la prep. con",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«A la córnea dividen [los médicos] en dos, cuya parte anterior se queda con nombre de córnea, y a la posterior llaman esclerótica.»",
                   "autor": "J. de Pineda",
-                  "referencia_obra": ", Agr crist. 6. 5 (R. 162. 162). +"
+                  "referencia_obra": ", Agr crist. 6. 5 (R. 162. 162)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«También dividen [los médicos] la úvea; y su parte anterior se queda con este nombre, y la posterior se llama secundina.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 6. 5 (R. 162. 162)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con para.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mas cuando Tirsi comenzar quería, Ladró Melampo, y dijo Atandro, al lobo; | Y el canto se quedó para otro día.»",
                   "autor": "Lope",
                   "referencia_obra": ", Son. (Fern. 11.43)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -596,36 +788,44 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Estar una cosa ubicada en un sitio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Primeramente Italia, cuyo suelo | Supones dista poco, y cuyas playas | Piensas, mal informado, tocar presto,| Lejana queda.»",
               "autor": "T. Iriarte",
-              "referencia_obra": ", Eneida, 3 (3. 215). X"
+              "referencia_obra": ", Eneida, 3 (3. 215)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Dónde queda Fonseca? En un sitio del Caribe, equidistante entre Providencia y la Isla de Cuba.»",
               "autor": "Arciniegas",
-              "referencia_obra": ". Biogr. del Caribe, 2. 10 (p. 196). X"
+              "referencia_obra": ". Biogr. del Caribe, 2. 10 (p. 196)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tardó la humanidad veinte mil años en peregrinar desde las cuevas de Altamira hasta la Colegiata de Santillana del Mar, que queda media legua más arriba.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 199."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Dejar. Trans. Con dat. X",
+          "definicion": "Dejar. Trans. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No pintándolos [Homero y Virgilio a Ulises y Eneas] ni describiéndolos como ellos fueron, sino como habían de ser, para quedar ejemplo a los venideros hombres de sus virtudes.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 25 (Cl. C. 6. 289)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -633,151 +833,184 @@
     {
       "id": "c)",
       "definicion": "Apropiarse o conservar algo para sí (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Todo [lo robado] lo compró el Gran Capitán a los soldados y lo volvió sin quedar cosa alguna y todo lo restituyó al monasterio.»",
               "autor": "Crón. Gran Capitán",
               "referencia_obra": ", 8. 13 (NBAE. 10. 3952)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No son mil ducados los que da, sino seiscientos; ya puede ser se quede ella ahora con lo demás.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Carta, 119 (R. 55. 1081)."
             },
             {
+              "marca": "",
               "texto_cita": "«Estas [condiciones] fueron: Que el Juez de Arborea y Matheo Doria fuesen perdonados y se quedasen con los vasallos y pueblos que tenían.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 16. 19 (2. 521)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ananías y Safira ---, porque habiendo hecho voto de pobreza, se quedaron con la parte del precio en que habían vendido su heredad, murieron desastradamente.»",
               "autor": "Puente",
               "referencia_obra": ", Medit. 1. 21 (1. 170)."
             },
             {
+              "marca": "",
               "texto_cita": "«La gloria mueve primero la defensa, y después la ambición a quedarse con todo.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 92 (R. 25. 2412)."
             },
             {
+              "marca": "",
               "texto_cita": "«Por la lengua se recibe el sabor de los manjares; justo será que la lengua de a los oídos el gusto de las palabras. Quien se queda con lo que debe siempre comete culpa.»",
               "autor": "Zabaleta",
-              "referencia_obra": ", Errores celebr (Cl. C. 169. 21). +"
+              "referencia_obra": ", Errores celebr (Cl. C. 169. 21)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Con esto anunció [don Jaime] que también quería quedarse con los estados de Sicilia y de Italia.»",
               "autor": "Quint.",
               "referencia_obra": "R. de Lauria (R. 19. 2262)."
             },
             {
+              "marca": "",
               "texto_cita": "«Muerto Mandricardo en desafío por Rugero se quedó éste con su caballo y sus armas.»",
               "autor": "Clem.",
-              "referencia_obra": "Coment. 2. 26 (5. 48). X"
+              "referencia_obra": "Coment. 2. 26 (5. 48)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El afilador se quedó con el ganso, y Martín, cargado con la piedra de afilar, continuó su camino.»",
               "autor": "Trueba",
               "referencia_obra": ", Breve antol. p. 104."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Intrans. Con la prep. con, para indicar lo que se retiene. Además con para.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A pesar de todos sus competidores, quedó con el reino de Sicilia para sí y su posteridad.»",
               "autor": "Moncada",
               "referencia_obra": ", Exped. 4 (R. 21. 62)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Heredar o conservar algo de épocas anteriores. Con dat. X",
+          "definicion": "Heredar o conservar algo de épocas anteriores. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Quedó a los españoles el vocablo griego [hispános], ni más ni menos que los griegos lo pronuncian, ambiciosos de dar nombre en su lengua a las naciones hispánicas.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Gran. (Cl. Castal. 22. 371)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ddesde aquí aseguran que a los franceses que bebieron más que todos, y les brindaron los italianos, les quedó el no hablar como escriben, ni el obrar lo que dice.»",
               "autor": "Gracián",
               "referencia_obra": ", Criticón, 1. 7 (Cl. C. 165. 102)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Loc. Quedar por alguien o algo cierta cosa: En guerras o conflictos armados, resolverse a favor de alguno de los contendientes la victoria o adquirir este los bienes o posesiones del enemigo. +",
+          "definicion": "Loc. Quedar por alguien o algo cierta cosa: En guerras o conflictos armados, resolverse a favor de alguno de los contendientes la victoria o adquirir este los bienes o posesiones del enemigo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Avnquél campo quedó por los françeses, tantos e más murieron dellos que de los españoles.»",
               "autor": "Oviedo",
-              "referencia_obra": ", Quinquag. 1. 9 (1. 135). +"
+              "referencia_obra": ", Quinquag. 1. 9 (1. 135)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Parte [de las escoltas] se encerraron en una iglesia donde acabaron quemados, con que la puente quedó por los enernigos.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granad. 2 (p. 50)."
             },
             {
+              "marca": "",
               "texto_cita": "«El campo y la victoria quedó por los Romanos.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 2. 12 (1. 711)."
             },
             {
+              "marca": "",
               "texto_cita": "«La victoria quedó por Pompeio, destrozado el ejército de Sertorio.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 3. 14 (1. 1252)."
             },
             {
+              "marca": "",
               "texto_cita": "«Vinieron a las manos cerca de París, quedó la victoria por el tirano.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 4. 20 (1. 1901)."
             },
             {
+              "marca": "",
               "texto_cita": "«La victoria quedó por los nuestros.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 8. 6 (1. 3862)."
             },
             {
+              "marca": "",
               "texto_cita": "«Quedó entonces Tabasco por los españoles; población grande y con todas las prevenciones de puesta en defensa.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 1. 17 (R. 28. 2262)."
             },
             {
+              "marca": "",
               "texto_cita": "«Buscáronse los dos ejércitos, y acometiéndose con igual resolución, fue reñida y sangrienta la batalla; pero la ganaron con grandes ventajas los de Chalco, y aunque perdieron mucha gente, hicieron mayor daño al enemigo, y quedó por ellos la campaña.»",
               "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 5. 16 (R. 28. 3692). +"
+              "referencia_obra": ", Conq. de Méj. 5. 16 (R. 28. 3692)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Llamado por Federico para que le ayudase en la conquista de Diano, única plaza que quedaba por los franceses y se resistía a sus armas, volvió a tierra firme.»",
               "autor": "Quint.",
               "referencia_obra": "Gran Capitán (R. 19. 2581)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -785,189 +1018,256 @@
     {
       "id": "d)",
       "definicion": "Estar presentes aspectos parciales, restar, pervivir (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Queda que digamos de la unión de gracia, con que cualquier cristiano en el bautismo se hace miembro fiel de su cabeza, que es Cristo.»",
               "autor": "Venegas",
-              "referencia_obra": ", Agonía, 1. 10 (Míst. 2. 12). +"
+              "referencia_obra": ", Agonía, 1. 10 (Míst. 2. 12)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Es muy clara demostración de que el sol es muy mayor que la tierra; pero queda agora que veamos cómo es la tierra mayor que la luna.»",
               "autor": "P. Mexía",
               "referencia_obra": ", Coloq. 3 (p. 130)."
             },
             {
+              "marca": "",
               "texto_cita": "«Porque si aprovecha a alguno, y no es Dios a quien aprovecha; queda que aproveche al que la hace, que es lo que pretende Eliú.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 2. 35 (2. 208)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Qué le queda ya más qué desear a María?»",
                   "autor": "M. de Chaide",
                   "referencia_obra": "Magd. 4. 60 (R. 27. 4031)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Qué les queda sino morir de sed en el calor del infierno?»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 1. 1 (R. 27. 2881)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Levantaos con presteza, que largo camino os queda.»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Eucar. 3 (3. 106). +"
+                  "referencia_obra": ", Eucar. 3 (3. 106)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«A quien me sucedieren no le quedo que hacer, sino con pequeño cuidado gozar la gloria.»",
                   "autor": "Fuenmayor",
-                  "referencia_obra": ", Vida de S. Pío V, 6 (p. 241). X"
+                  "referencia_obra": ", Vida de S. Pío V, 6 (p. 241)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Con todo eso —replicó el caminante— me queda un escrúpulo, y es que muchas veces he leído que se traban palabras entre dos andantes caballeros y de, una en otra, se les viene a encender la cólera.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 13 (Cl. C. 4. 293)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pues luego que allí llegamos, porque nos quedase poco que desear, sobre las flores Ursanio y Tirseo así con sus delgadas voces las de los pintados pajarillos suspendieron.»",
                   "autor": "Valb.",
                   "referencia_obra": "Siglo de oro, 9 (p. 193)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No les quedaba [a los protestantes] diligencia por hacer ni voluntad por tentar. Coloma, Guerras de los Est. Bajos, 4 (R. 28. 452).",
                   "autor": "",
                   "referencia_obra": ""
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Nos queda ahora que tratar de la turbación o pasión.»",
                   "autor": "Luzán",
-                  "referencia_obra": ", Poét. 3. 11 (2. 171). X"
+                  "referencia_obra": ", Poét. 3. 11 (2. 171)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Porque recobraseis la paz del alma y fueseis feliz, diera yo todos los días que me quedan de vivir, menos uno para verlo.»",
                   "autor": "Hartz.",
-                  "referencia_obra": "Los amantes de Teruel, 3. 1. 1 (Cl. C. 113. 90). +"
+                  "referencia_obra": "Los amantes de Teruel, 3. 1. 1 (Cl. C. 113. 90)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Mujer fatal, cortos instantes | Me quedan que vivir si no has mentido.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 3. 1. 3 (Cl. C. 113. 103). X"
+                  "referencia_obra": "Id. ib. 3. 1. 3 (Cl. C. 113. 103)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A Numancia no le quedó esperanza de salvarse estando cercada por el cónsul Escipión.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 4 (p. 240). — Además con de. X"
-                },
+                  "referencia_obra": ", Sueños, 4 (p. 240)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Pues el tiempo es el círculo vivido | Y es el espacio la espiral soñada, | Ya no me queda de la vida nada | Más que lo vanamente perseguido.»",
-                  "autor": "Valencia",
-                  "referencia_obra": ", El sueño, p. 153."
+                  "id_limpio": "—",
+                  "definicion": "Además con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pues el tiempo es el círculo vivido | Y es el espacio la espiral soñada, | Ya no me queda de la vida nada | Más que lo vanamente perseguido.»",
+                      "autor": "Valencia",
+                      "referencia_obra": ", El sueño, p. 153."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. +",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Si venimos a los teólogos, hallaremos que todos quedan con esta verdad ---»",
                   "autor": "J. de Pineda",
                   "referencia_obra": ", Agr. crist. 9. 16 (R. 162. 2341)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Si alguna parte queda por ventura | De mi razón, por mí no osa mostrarse.»",
                   "autor": "Garcil.",
-                  "referencia_obra": "Son. 27 (p. 198). — El término es una prop. infinitiva."
-                },
+                  "referencia_obra": "Son. 27 (p. 198)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Al Duque quedaron de contar a ciertos plazos seiscientos mil florines por una vez.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 18.12 (2. 1512). +"
-                },
-                {
-                  "texto_cita": "«Agora queda vuestra pregunta de aclarar.»",
-                  "autor": "J. de Pineda",
-                  "referencia_obra": ", Agr. crist. 12. 32 (R. 162. 4301)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Al Duque quedaron de contar a ciertos plazos seiscientos mil florines por una vez.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 18.12 (2. 1512)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Agora queda vuestra pregunta de aclarar.»",
+                      "autor": "J. de Pineda",
+                      "referencia_obra": ", Agr. crist. 12. 32 (R. 162. 4301)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Las reliquias que en el alma me han quedado basta[n] para dessearte yo todo el contentamiento possible.»",
                   "autor": "",
                   "referencia_obra": "Montem, Diana, p. 253."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Finalmente no hubo ni quedó cosa en toda la villa, que no sintiese parte desta desdicha.»",
                   "autor": "Césp. y Men.",
-                  "referencia_obra": "Sold. Pínd. 2. 25 (R. 18. 3682). X"
+                  "referencia_obra": "Sold. Pínd. 2. 25 (R. 18. 3682)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mira que tú eres lo único que me va a quedar en la vida, de un momento a otro.»",
                   "autor": "Gallegos",
                   "referencia_obra": ", Canaima, 15 (p. 312)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con para, que indica el tiempo. X",
+              "definicion": "Con para, que indica el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«De estos cines, Claudia, de estas fiestas, | De estas carreras de caballos, | No quedará nada para la posteridad | Sino los versos de Ernesto Cardenal para Claudia.»",
                   "autor": "Cardenal",
                   "referencia_obra": ", Poes. Epigr. p. 47."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con por y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El que ama, da a sí mismo con lo que tiene, sin que le quede nada por dar.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Eucar. 1 (3. 1)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y una cosa queda por decir, que no es la menor.»",
                   "autor": "",
-                  "referencia_obra": "Id. Eucar. 14 (4. 50). X"
+                  "referencia_obra": "Id. Eucar. 14 (4. 50)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sabidas las reglas antecedentes respecto de los nombres sustantivos, en cuanto a los adjetivos, sólo queda por hacer la misma aplicación de dotrina.»",
                   "autor": "Mayáns",
-                  "referencia_obra": ". Orig. leng. esp. p. 441. —- Además con para y una prop. infinitiva, que indica la finalidad."
-                },
+                  "referencia_obra": ". Orig. leng. esp. p. 441."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Hemos andado poco, y queda mucho por andar para llegar al lugar de la eterna holganza.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ". Epist. 3 (7. 148)."
+                  "id_limpio": "—",
+                  "definicion": "- Además con para y una prop. infinitiva, que indica la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Hemos andado poco, y queda mucho por andar para llegar al lugar de la eterna holganza.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ". Epist. 3 (7. 148)."
+                    }
+                  ]
                 }
               ]
             }
@@ -977,92 +1277,113 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cuánto hayamos en esto aprovechado, quédese a juicio de otros.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 19. 1 (2. 1721)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Omitir, dejar de lado. +",
+          "definicion": "Omitir, dejar de lado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Quédese por un poco Medusa, y digamos de su matador Perseo... el cual tuvo un oráculo que, si su hija pariese, su nieto le mataría. J. de Pineda, Agr. crist. 7. 23 (R. 162. 1322).",
               "autor": "",
               "referencia_obra": ""
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Expresiones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "¿En qué quedamos?: se invita a poner término a una indecisión o aclarar una incongruencia. X",
+              "definicion": "¿En qué quedamos?: se invita a poner término a una indecisión o aclarar una incongruencia.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Di en qué quedamos de lo otro,....»",
                   "autor": "R. de la Cruz",
-                  "referencia_obra": ", Sainetes (NBAE. 23. 3362). X"
+                  "referencia_obra": ", Sainetes (NBAE. 23. 3362)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Cáscaras! Si estoy que no me llega la ropa al cuerpo, | Hasta ver en que quedamos... | Voy a la consulta, y vuelvo.»",
                   "autor": "Mor.",
-                  "referencia_obra": "La mojig. (Obr. 2. 127). X"
+                  "referencia_obra": "La mojig. (Obr. 2. 127)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y el señor Pulgar, a despecho de defender el significado histórico y hasta jurídico del nombre que nos ocupa, no deja de decir \"Unión Americana\" hablando de la república de los Estados Unidos. ¿En qué quedamos?»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 4 (p. 236)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Quedar uno en una cosa: acordar, convenir algo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ocurrió que hacía usted falta, y yo quedé en avisar a usted si venía.»",
                   "autor": "Hartz.",
                   "referencia_obra": "La coja y el encogido, 3. 2 (p. 301)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Estuvo ayer en conversación con usted toda la noche, la acompañó hasta su casa, y quedó en venir hoy a visitarla.»",
                   "autor": "Gil y Zárate",
-                  "referencia_obra": ", El entremetido, 1. 3 (p. 611). +"
+                  "referencia_obra": ", El entremetido, 1. 3 (p. 611)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Martina fue elegida --- y presentada a la modista, que la admitió gustosa, quedando en fijar el sueldo después del algunos días de ensayo.»",
                   "autor": "Ganiv.",
-                  "referencia_obra": "Pío Cid, 2 (Obr. 1. 38). +"
+                  "referencia_obra": "Pío Cid, 2 (Obr. 1. 38)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Se despidió [Pïo Cid] quedando en volver en la semana entrante.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 3 (Obr. 1. 268). +"
+                  "referencia_obra": "Id. ib. 3 (Obr. 1. 268)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Vino Pío Cid a buscarme --- Quedamos, pues, en irnos los dos en el coche de Jaén.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 4 (Obr. 2. 130). X"
+                  "referencia_obra": "Id. ib. 4 (Obr. 2. 130)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Me dijo que pensó en Luisa y el niño antes de morir. — Papá. Quedamos en que no...»",
                   "autor": "Fuentes",
                   "referencia_obra": ", Obr. complet. p. 1131."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1071,22 +1392,36 @@
     {
       "id": "e)",
       "definicion": "Conservar o guardar algo en la memoria (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con en. Además con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Otras muchas solía yo saber de coro, las cuales ya he olvidado, y aun me maravillo cómo me han quedado éstas en la memoria.»",
               "autor": "Mayáns",
-              "referencia_obra": ", Oríg. leng. esp. p. 98). — Además con por, para señalar la causa."
-            },
+              "referencia_obra": ", Oríg. leng. esp. p. 98)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Hazañas hicieron algunas mujeres, por las cuales quedaron en perpetua memoria.»",
-              "autor": "Ávila",
-              "referencia_obra": ", Eucar. 3 (3. 80)."
+              "id_limpio": "—",
+              "definicion": "Además con por, para señalar la causa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Hazañas hicieron algunas mujeres, por las cuales quedaron en perpetua memoria.»",
+                  "autor": "Ávila",
+                  "referencia_obra": ", Eucar. 3 (3. 80)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1095,13 +1430,16 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No miras ni reparas [vulgo] en las altas moralidades de tan divinos ingenios, y solo te contentas de lo que dijo el perro y respondió la zorra: eso se te pega, y como lo leíste se te queda.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, Al vulgo (R. 3. 185)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1109,212 +1447,372 @@
     {
       "id": "3",
       "definicion": "Resultar, venir a estar, perdurar en determinado estado, situación, posición, por efecto de algún suceso o acción.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Dicho de estados o situaciones de las personas (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "",
           "id_limpio": "",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Evidente queda que no tuvo que ver Belerofonte con el reino de Corinto.»",
                   "autor": "J. de Pineda",
-                  "referencia_obra": ", Agr. crist. 7. 27 (R. 162. 1412). +"
+                  "referencia_obra": ", Agr. crist. 7. 27 (R. 162. 1412)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«En aquella edad comenzó [Otomano] a ser temido, y a levantar poco después su monarquía, venciendo y sujetando los demás tiranos de las provincias que vamos nombrando, con que quedó absoluto señor y príncipe de todas ellas.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 9 (R. 21. 102)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Hirieron a Montaner y le mataron el caballo; y creyendo los genoveses que su dueño lo quedaba, dijeron a voces:\"Muerto es el capitán, y Galípoli nuestro\"»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 44 (R. 21. 412)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«ya se ha marchado. A Dios gracias 1 Dueño del campo he quedado.»",
                   "autor": "Gil y Zárate",
                   "referencia_obra": ", Un año después de la boda, 1. 6 (p. 351)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Parece que aunque esta Oda inédita lo quedase eternamente, se hubiera perdido poco.»",
                   "autor": "T. Iriarte",
-                  "referencia_obra": ", Donde las dan las toman (6. 167). +"
+                  "referencia_obra": ", Donde las dan las toman (6. 167)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Nos vamos por la noche, y ustedes quedan dueñas de la casa.»",
                   "autor": "Ganiv.",
-                  "referencia_obra": "Pío Cid, 2 (Obr. 1. 131). X"
+                  "referencia_obra": "Pío Cid, 2 (Obr. 1. 131)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Digo que los de arriba van a quedar abajo y los de abajo nos vamos a encaramar encima.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Siervo, 3.3 (p. 169)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«También de mariposa | Le quedó la inconstancia: | Llega, hiere, y de un pecho| A herir otro se pasa.»",
                   "autor": "Mel.",
-                  "referencia_obra": "Poes. (Cl. C. 64. 77). —- Además con de, para señalar la causa."
+                  "referencia_obra": "Poes. (Cl. C. 64. 77)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "- Además con de, para señalar la causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Mas cómo no os quedaron flacos [los brazos] de tantos tormentos como pasastes en la Cruz?»",
+                      "autor": "",
+                      "referencia_obra": "Sta. Ter. Cam. perf. 16 (1. 466)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«En salud huyo siempre las cosas que provocan sed, pero la que tengo agora, cierto me quedó de una purga que me dieron.»",
+                      "autor": "P. Mexía",
+                      "referencia_obra": ", Coloq. 1 (p. 21)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Mas cómo no os quedaron flacos [los brazos] de tantos tormentos como pasastes en la Cruz?»",
-                  "autor": "",
-                  "referencia_obra": "Sta. Ter. Cam. perf. 16 (1. 466). +"
-                },
-                {
-                  "texto_cita": "«En salud huyo siempre las cosas que provocan sed, pero la que tengo agora, cierto me quedó de una purga que me dieron.»",
-                  "autor": "P. Mexía",
-                  "referencia_obra": ", Coloq. 1 (p. 21). — Además con por. X"
-                },
-                {
-                  "texto_cita": "«Un caballero español llamado Diego Pérez de Vargas --- machacó tanto moros que le quedó por sobrenombre Machuca.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 8 (Cl. C. 4. 194)."
+                  "id_limpio": "—",
+                  "definicion": "Además con por.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Un caballero español llamado Diego Pérez de Vargas --- machacó tanto moros que le quedó por sobrenombre Machuca.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 8 (Cl. C. 4. 194)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con a: — para indicar el modo. +",
-              "ejemplos_citas": [
+              "definicion": "Con a:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Haciendo apear del suyo [su caballo] a su escudero, hizo subir los dos presos, y quedando él a pie, comenzó a caminar a su lado.»",
-                  "autor": "F. de Mena",
-                  "referencia_obra": ", Teágenes y Cariclea, 1 (p. 19)."
+                  "id_limpio": "—",
+                  "definicion": "para indicar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Haciendo apear del suyo [su caballo] a su escudero, hizo subir los dos presos, y quedando él a pie, comenzó a caminar a su lado.»",
+                      "autor": "F. de Mena",
+                      "referencia_obra": ", Teágenes y Cariclea, 1 (p. 19)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y yéndose la claridad, quedaron a escuras.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Ven. Esp. Santo, 5 (2. 361)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Y yéndose la claridad, quedaron a escuras.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Ven. Esp. Santo, 5 (2. 361). — Que introduce una frase adverbial. +"
-                },
-                {
-                  "texto_cita": "«Así como destruídos los muros quedan a merced de los enemigos todos los vecinos, así, si desechamos de nosotros la abstinencia ---.»",
-                  "autor": "Guev.",
-                  "referencia_obra": "Oratorio, 24 (p. 594)."
+                  "id_limpio": "—",
+                  "definicion": "Que introduce una frase adverbial.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Así como destruídos los muros quedan a merced de los enemigos todos los vecinos, así, si desechamos de nosotros la abstinencia ---.»",
+                      "autor": "Guev.",
+                      "referencia_obra": "Oratorio, 24 (p. 594)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, para indicar: — La posición o estado. +",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Yo prometo, si quedare con la vida, a los persas y a los etíopes una perpetua paz y amistad.»",
-                  "autor": "Mena",
-                  "referencia_obra": ", Teágenes y Cariclea, 9 (p. 37 l). +"
+                  "id_limpio": "—",
+                  "definicion": "La posición o estado.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Yo prometo, si quedare con la vida, a los persas y a los etíopes una perpetua paz y amistad.»",
+                      "autor": "Mena",
+                      "referencia_obra": ", Teágenes y Cariclea, 9 (p. 37 l)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Al ausentarse el Amir, | Con este cargo quedé.»",
+                      "autor": "Hartz.",
+                      "referencia_obra": "Los amantes de Teruel, 1. 2 (Cl. C. 113. 41)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Al ausentarse el Amir, | Con este cargo quedé.»",
-                  "autor": "Hartz.",
-                  "referencia_obra": "Los amantes de Teruel, 1. 2 (Cl. C. 113. 41). — Además con un predicado. X"
+                  "id_limpio": "—",
+                  "definicion": "Además con un predicado.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Quedó un momento silencioso y ceñudo, con la venda entre las manos, mostrando la temerosa cuchillada que le hendía la frente.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de invierno, p. 165."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Quedó un momento silencioso y ceñudo, con la venda entre las manos, mostrando la temerosa cuchillada que le hendía la frente.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de invierno, p. 165. — La causa."
+                  "id_limpio": "—",
+                  "definicion": "La causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Con su muerte quedaron señores del campo, y abierta mucha senda para sus designios.»",
+                      "autor": "Sig.",
+                      "referencia_obra": "Vida de S. Jer. 4. 8 (p. 314)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Quedó Carlos con su muerte [del rey don Pedro de Aragón] príncipe y rey de las Dos Sicilias.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ", Exped. 1 (R. 21. 31)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Con esta pérdida quedó Roger y su madre con suma pobreza, y con la misma se crió hasta edad de quince años.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 3 (R. 21. 51)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Tuvo tormentas mi ciudad | Cada uno teníamos un rayito privado | Nos quedábamos sordos con los propios truenos.»",
+                      "autor": "Benedetti",
+                      "referencia_obra": ", Ciudad (La casa, p. 75)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Con su muerte quedaron señores del campo, y abierta mucha senda para sus designios.»",
-                  "autor": "Sig.",
-                  "referencia_obra": "Vida de S. Jer. 4. 8 (p. 314). +"
+                  "id_limpio": "—",
+                  "definicion": "La compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Yo quedé solo con el exclaustrado, que abriendo los largos brazos me estrechó contra su pecho, al mismo tiempo que murmuraba conmovido.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de invierno, p. 97."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Quedó Carlos con su muerte [del rey don Pedro de Aragón] príncipe y rey de las Dos Sicilias.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ", Exped. 1 (R. 21. 31). +"
-                },
-                {
-                  "texto_cita": "«Con esta pérdida quedó Roger y su madre con suma pobreza, y con la misma se crió hasta edad de quince años.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 3 (R. 21. 51). X"
-                },
-                {
-                  "texto_cita": "«Tuvo tormentas mi ciudad | Cada uno teníamos un rayito privado | Nos quedábamos sordos con los propios truenos.»",
-                  "autor": "Benedetti",
-                  "referencia_obra": ", Ciudad (La casa, p. 75). — La compañía. X"
-                },
-                {
-                  "texto_cita": "«Yo quedé solo con el exclaustrado, que abriendo los largos brazos me estrechó contra su pecho, al mismo tiempo que murmuraba conmovido.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de invierno, p. 97. — Además con a, y una prop. infinitiva, para expresar la finalidad."
-                },
-                {
-                  "texto_cita": "«Quedó solo Hernán Cortés con algunos de los suyos a sustentar el combate.»",
-                  "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 5. 22 (R. 28. 3812)."
+                  "id_limpio": "—",
+                  "definicion": "Además con a, y una prop. infinitiva, para expresar la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Quedó solo Hernán Cortés con algunos de los suyos a sustentar el combate.»",
+                      "autor": "Solís",
+                      "referencia_obra": ", Conq. de Méj. 5. 22 (R. 28. 3812)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, para indicar: — el nuevo estado.",
-              "ejemplos_citas": [
+              "definicion": "Con en, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y si quisiesen venir a probar la hartura y experiencia de aquesta doctrina, con deseos de ser virtuosos, cierto no quedarían en su ceguedad e infidelidad.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Audi, 35 (Míst. 2. 197)."
+                  "id_limpio": "—",
+                  "definicion": "el nuevo estado.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y si quisiesen venir a probar la hartura y experiencia de aquesta doctrina, con deseos de ser virtuosos, cierto no quedarían en su ceguedad e infidelidad.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Audi, 35 (Míst. 2. 197)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Señor no te apartes de mí. Porque Dios ido, quedamos en muerte primera de culpa.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 48 (Míst. 3. 221)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Así el imperio de los romanos del occidente ha venido a quedar en un título vano de su grandeza, porque Italia, Francia, España e Inglaterra, que un tiempo le rindieron tributo y recibieron sus leyes, hoy se ven libres.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ", Exped. 62 (R. 21. 572)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ya entraron todos; con que el carro quedó en cueros, o los cueros en el carro.»",
+                      "autor": "Píc. Just.",
+                      "referencia_obra": "(1. 193)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Señor no te apartes de mí. Porque Dios ido, quedamos en muerte primera de culpa.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 48 (Míst. 3. 221). +"
+                  "id_limpio": "—",
+                  "definicion": "El resultado de una suma.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Sófocles añadió tres [personas], y quedaron en quince.»",
+                      "autor": "Luzán",
+                      "referencia_obra": ", Poét. 3. 15 (2. 21l)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Así el imperio de los romanos del occidente ha venido a quedar en un título vano de su grandeza, porque Italia, Francia, España e Inglaterra, que un tiempo le rindieron tributo y recibieron sus leyes, hoy se ven libres.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ", Exped. 62 (R. 21. 572). X"
+                  "id_limpio": "—",
+                  "definicion": "El lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Quedaron muertos en la campaña más de ochocientos indios, y fue grande el número de los heridos.»",
+                      "autor": "Solís",
+                      "referencia_obra": ", Conq. de Méj. 1. 19 (R. 28. 2291)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Ya entraron todos; con que el carro quedó en cueros, o los cueros en el carro.»",
-                  "autor": "Píc. Just.",
-                  "referencia_obra": "(1. 193). — El resultado de una suma."
+                  "id_limpio": "—",
+                  "definicion": "Además con por, que introduce una frase adverbial.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Tomóse concierto que los renegados tomasen a nuestra fee y los demás quedasen en su ley por entonces.»",
+                      "autor": "Mend.",
+                      "referencia_obra": "Guerra de Granad. 1 (p. 9)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Sófocles añadió tres [personas], y quedaron en quince.»",
-                  "autor": "Luzán",
-                  "referencia_obra": ", Poét. 3. 15 (2. 21l). — El lugar."
+                  "id_limpio": "—",
+                  "definicion": "Además con a:",
+                  "marca": "",
+                  "ejemplos_citas": []
                 },
                 {
-                  "texto_cita": "«Quedaron muertos en la campaña más de ochocientos indios, y fue grande el número de los heridos.»",
-                  "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 1. 19 (R. 28. 2291). — Además con por, que introduce una frase adverbial. +"
+                  "id_limpio": "—",
+                  "definicion": "- para introducir una frase adverbial y con la prep. con, que indica el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Con este trato quedaron nuestras cosas, al parecer, en suma grandeza; porque los catalanes se vieron señores de todas las provincias de Asia.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ", Exped. 23 (R. 21. 231)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Tomóse concierto que los renegados tomasen a nuestra fee y los demás quedasen en su ley por entonces.»",
-                  "autor": "Mend.",
-                  "referencia_obra": "Guerra de Granad. 1 (p. 9). — Además con a: —- para introducir una frase adverbial y con la prep. con, que indica el medio. +"
-                },
-                {
-                  "texto_cita": "«Con este trato quedaron nuestras cosas, al parecer, en suma grandeza; porque los catalanes se vieron señores de todas las provincias de Asia.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ", Exped. 23 (R. 21. 231). —- Que señala el lugar."
-                },
-                {
-                  "texto_cita": "«No he visto ninguna destas [ánimas], que quede baja en este camino.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Vida, 13 (1. 87)."
+                  "id_limpio": "—",
+                  "definicion": "- Que señala el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«No he visto ninguna destas [ánimas], que quede baja en este camino.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Vida, 13 (1. 87)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1322,131 +1820,187 @@
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con un predicado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Confesaban algunos que se embarcaban con él en el río que lloviendo a toda furia, quedando todos mojadísimos, solo el arzobispo no lo quedaba.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Vida de B. de los márt. 11 (6. 6071). +"
+                  "referencia_obra": "Vida de B. de los márt. 11 (6. 6071)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Para que el hombre vacie y deseche este perverso amor, y quede capaz para recebir el amor divino, ayuda mucho la tribulación.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Trib. 1. 9 (R. 60. 3741)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y para los de éste [tiempo] no pequeña afrenta en quedar tan inferiores a los gustos y deseos de esta hembra.»",
                   "autor": "Sig.",
-                  "referencia_obra": "Vida de S. Jer. 5. 1 (p. 393). +"
+                  "referencia_obra": "Vida de S. Jer. 5. 1 (p. 393)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Burito --- subiendo al púlpito en Oxonio — para vituperarle [a Pío V], quedó mudo.»",
                   "autor": "Fuenmayor",
-                  "referencia_obra": ", Vida de S. Pío V, 2 (p. 86). X"
+                  "referencia_obra": ", Vida de S. Pío V, 2 (p. 86)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«No se rió Fadrique, mas quedó pensativo.»",
                   "autor": "L. Pinciano",
                   "referencia_obra": ", Philosophia, p. 19."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En la pretensión de las mercedes y premios es muy importante la modestia y recato,... con que se obliga mucho, como lo quedó Dios cuando Salomón no le pidió más que un corazón dócil.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 23 (R. 25. 652). X"
+                  "referencia_obra": "Emp. 23 (R. 25. 652)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Los niños quedaron un momento reflexionando.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de invierno, p. 111. X"
+                  "referencia_obra": ", Sonata de invierno, p. 111."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Quedó el rústico absorto, mirando la facha del forastero y, al cabo, le respondió con mucha sequedad: ---.»",
                   "autor": "León",
-                  "referencia_obra": ", Amor de los amores, 1. 1 (p. 54). — El predicado es introducido por con. +"
+                  "referencia_obra": ", Amor de los amores, 1. 1 (p. 54). — El predicado es introducido por con."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Quedaban [los herejes] con nombre de obedientes al Rey, en todo lo que no era religión.»",
                   "autor": "Fuenmayor",
-                  "referencia_obra": ", Vida de S. Pío V. 3 (p. 126). — Además con de, que señala el estado anterior."
+                  "referencia_obra": ", Vida de S. Pío V. 3 (p. 126)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con de, que señala el estado anterior.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«De señores, de libres, de temidos, | Quedáis siervos, sujetos y abatidos.»",
+                      "autor": "Erc.",
+                      "referencia_obra": "Arauc. 3 (R. 17. 141)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«De señores, de libres, de temidos, | Quedáis siervos, sujetos y abatidos.»",
-                  "autor": "Erc.",
-                  "referencia_obra": "Arauc. 3 (R. 17. 141). — Además con en, para señalar el lugar."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para señalar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Pusiéronse en manos de los Reyes, con dejar sus haciendas a los que quisiesen quedar cristianos en la tierra.»",
+                      "autor": "Mend.",
+                      "referencia_obra": "Guerra de Gran. 1 (R. 21. 692)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Ordenó [Don Juan] que el duque de Sesa quedase su lugartiniente en Granada.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 6 (p. 162)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Pusiéronse en manos de los Reyes, con dejar sus haciendas a los que quisiesen quedar cristianos en la tierra.»",
-                  "autor": "Mend.",
-                  "referencia_obra": "Guerra de Gran. 1 (R. 21. 692). +"
+                  "id_limpio": "—",
+                  "definicion": "Además con entre.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«La obra de que se habla quedó imperfecta entre los papeles del autor.»",
+                      "autor": "Arteaga",
+                      "referencia_obra": ", Belleza Ideal, 6 (Cl. C. 122. 82)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Ordenó [Don Juan] que el duque de Sesa quedase su lugartiniente en Granada.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 6 (p. 162). — Además con entre. +"
-                },
-                {
-                  "texto_cita": "«La obra de que se habla quedó imperfecta entre los papeles del autor.»",
-                  "autor": "Arteaga",
-                  "referencia_obra": ", Belleza Ideal, 6 (Cl. C. 122. 82). — El predicado es introducido con por, que equivale a como, para indicar el cargo o concepto."
-                },
-                {
-                  "texto_cita": "«Más querría quedar por necio que ser tenido por porfiado.»",
-                  "autor": "Valdés",
-                  "referencia_obra": ", Diál. (Mayáns, Oríg. leng. esp. p. 23)."
-                },
-                {
-                  "texto_cita": "«Y mirad por otra parte la firmeza de nuestra fe y de nuestra iglesia, y cómo ha quedado por vencedora.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Audi, 46 (Míst. 2. 218). +"
-                },
-                {
-                  "texto_cita": "«Murió el Rey cathólico, e quedó la dicha Sereníssima Reyna Doña Johana su hija por vniversal Señora y eredera de los reynos.»",
-                  "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 7 (1. 103). +"
-                },
-                {
-                  "texto_cita": "«Muchas vezes acontesle que vn cauallero queda por rehenes.»",
-                  "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 14 (1. 178). +"
-                },
-                {
-                  "texto_cita": "«Tenga [el christiano] sus desseos firmes e fixos en Dios Christo nuestro Redemptor ---. Porque, al fin, al que otra esperança busca es vana su gloria, e queda por vano su desseo.»",
-                  "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 43 (1. 476). +"
-                },
-                {
-                  "texto_cita": "«¿Quién querrá quedarse por proprio, viéndose comprado por Dios, y por precio de Dios?»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Epist. 1. 18 (1. 371). +"
-                },
-                {
-                  "texto_cita": "«Con esta vitoria la mayor parte de la provincia de Tracia quedó por despojos de los nuestros.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ", Exped. 36 (R. 21. 352)."
-                },
-                {
-                  "texto_cita": "«Y si algún miserable no concede | Lo que tan justamente le es pedido, | Por enemigo de la patria quede.»",
-                  "autor": "Erc.",
-                  "referencia_obra": "Arauc. 29 (R. 17. 1091)."
-                },
-                {
-                  "texto_cita": "«Perdóname Médico del cielo, porque quedes por justo.»",
-                  "autor": "",
-                  "referencia_obra": "M. de Chaide, Magd. 2. 14 (R. 27. 3202). +"
-                },
-                {
-                  "texto_cita": "«Merecieron ser alabadas en todos los siglos, y quedar por dechado y espejo de todas las mujeres casadas.»",
-                  "autor": "Rivad.",
-                  "referencia_obra": "Trib. 1. 20 (R. 60. 3971). +"
-                },
-                {
-                  "texto_cita": "«El primogénito [de Clitona] se llamó Atlante y quedó por rey de la isla, y el mar Atlántico tiene de allí su nombre.»",
-                  "autor": "J. de Pineda",
-                  "referencia_obra": ", Agr. crist. 8. 9 (R. 162. 1671). +"
-                },
-                {
-                  "texto_cita": "«Queda mi hijo por heredero.»",
-                  "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 6 (Cl. C. 43. 104)."
+                  "id_limpio": "—",
+                  "definicion": "El predicado es introducido con por, que equivale a como, para indicar el cargo o concepto.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Más querría quedar por necio que ser tenido por porfiado.»",
+                      "autor": "Valdés",
+                      "referencia_obra": ", Diál. (Mayáns, Oríg. leng. esp. p. 23)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y mirad por otra parte la firmeza de nuestra fe y de nuestra iglesia, y cómo ha quedado por vencedora.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Audi, 46 (Míst. 2. 218)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Murió el Rey cathólico, e quedó la dicha Sereníssima Reyna Doña Johana su hija por vniversal Señora y eredera de los reynos.»",
+                      "autor": "Oviedo",
+                      "referencia_obra": ", Quinquag. 1. 7 (1. 103)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Muchas vezes acontesle que vn cauallero queda por rehenes.»",
+                      "autor": "Oviedo",
+                      "referencia_obra": ", Quinquag. 1. 14 (1. 178)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Tenga [el christiano] sus desseos firmes e fixos en Dios Christo nuestro Redemptor ---. Porque, al fin, al que otra esperança busca es vana su gloria, e queda por vano su desseo.»",
+                      "autor": "Oviedo",
+                      "referencia_obra": ", Quinquag. 1. 43 (1. 476)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«¿Quién querrá quedarse por proprio, viéndose comprado por Dios, y por precio de Dios?»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Epist. 1. 18 (1. 371)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Con esta vitoria la mayor parte de la provincia de Tracia quedó por despojos de los nuestros.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ", Exped. 36 (R. 21. 352)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y si algún miserable no concede | Lo que tan justamente le es pedido, | Por enemigo de la patria quede.»",
+                      "autor": "Erc.",
+                      "referencia_obra": "Arauc. 29 (R. 17. 1091)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Perdóname Médico del cielo, porque quedes por justo.»",
+                      "autor": "",
+                      "referencia_obra": "M. de Chaide, Magd. 2. 14 (R. 27. 3202)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Merecieron ser alabadas en todos los siglos, y quedar por dechado y espejo de todas las mujeres casadas.»",
+                      "autor": "Rivad.",
+                      "referencia_obra": "Trib. 1. 20 (R. 60. 3971)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«El primogénito [de Clitona] se llamó Atlante y quedó por rey de la isla, y el mar Atlántico tiene de allí su nombre.»",
+                      "autor": "J. de Pineda",
+                      "referencia_obra": ", Agr. crist. 8. 9 (R. 162. 1671)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Queda mi hijo por heredero.»",
+                      "autor": "Espinel",
+                      "referencia_obra": ", Escud. 1. 6 (Cl. C. 43. 104)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1454,23 +2008,28 @@
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con un gerundio, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El que tocó una cosa olorosa, queda oliendo a lo que tocó.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Doctr. esp. 6. 37 (6. 2791). X"
+                  "referencia_obra": "Doctr. esp. 6. 37 (6. 2791)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y quédase la señora | Riendo de verlo muerto.»",
                   "autor": "Castillejo",
-                  "referencia_obra": ", Sermón de amores (Cl. C. 72. 40). X"
+                  "referencia_obra": ", Sermón de amores (Cl. C. 72. 40)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Después del precioso rato que pasamos en la azotea hablando de Andalucía y poesía —, me quedé leyendo.»",
                   "autor": "Alberti",
                   "referencia_obra": ", Marinero (Cl. Castal. 48. 115)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1478,101 +2037,155 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl. Con un predicado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mas determinóse de humillarse y obedecer a hombres para que Dios fuese glorificado... y los hombres se avergonzasen de quedarse enhiestos y desobedientes.»",
               "autor": "Ávila",
-              "referencia_obra": ", Festiv. 2 (5. 81). X"
+              "referencia_obra": ", Festiv. 2 (5. 81)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hemos de vivir entrambos,| Sirviéndonos solamente | A los dos este criado, | Que curioso se quedó.»",
               "autor": "Cald.",
-              "referencia_obra": "El mágico prodigioso (Cl. Ebro. 87. 83). X"
+              "referencia_obra": "El mágico prodigioso (Cl. Ebro. 87. 83)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se fue quedando solo, ciego, sin memoria, en el peor de los olvidos, el de la indiferencia. Lo recuerdo de aquella época.»",
               "autor": "Roa",
-              "referencia_obra": "Bastos, Hijo de hombre, p. 46. — Además con a y una prop. infinitiva, para señalar la causa. X"
-            },
+              "referencia_obra": "Bastos, Hijo de hombre, p. 46."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Quedóse atónito y como pasmado al oír semejante cuestión el metafisiquísimo fray Toribio.»",
-              "autor": "Isla",
-              "referencia_obra": ". Fr. Ger. 2. 1 (Cl. C. 149. 25)."
+              "id_limpio": "—",
+              "definicion": "Además con a y una prop. infinitiva, para señalar la causa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Quedóse atónito y como pasmado al oír semejante cuestión el metafisiquísimo fray Toribio.»",
+                  "autor": "Isla",
+                  "referencia_obra": ". Fr. Ger. 2. 1 (Cl. C. 149. 25)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. Además con un gerundio, que indica el modo. Con atracción de pronombre. X",
+              "definicion": "Con dat. Además con un gerundio, que indica el modo. Con atracción de pronombre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ella retiró la mano sin prisa, como la Galatea que huye, y se le quedó mirando sin enojo.»",
                   "autor": "A. Reyes",
                   "referencia_obra": ", Grata compañía, 1. 10 (p. 104)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para indicar: — el estado en el que permanece. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Muy lejos y eclipsado | Con su impresión se queda | Cuanto el ingenio un día | Fingió de las sirenas.»",
-                  "autor": "Mel.",
-                  "referencia_obra": "Poes. (Cl. C. 64. 161). — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "el estado en el que permanece.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Muy lejos y eclipsado | Con su impresión se queda | Cuanto el ingenio un día | Fingió de las sirenas.»",
+                      "autor": "Mel.",
+                      "referencia_obra": "Poes. (Cl. C. 64. 161)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El Roto tiraba lentamente, y, corrida la pinta para que todos la viesen, quedándose un momento con la mano en alto vino la sota.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Tirano Banderas, 5. 3. 1 (p. 140)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El Roto tiraba lentamente, y, corrida la pinta para que todos la viesen, quedándose un momento con la mano en alto vino la sota.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Tirano Banderas, 5. 3. 1 (p. 140)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en. +",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Yo comencé a quedarme en costumbre de leerlos [los libros de caballería], y aquella pequeña falta, que en ella ví, me comenzó a enfriar los deseos.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Vida, 2 (R. 53. 242)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pudo ser que alguno de los caudillos mejicanos condujese aquella gente con ánimo de asaltar cautelosamente a los españoles, creyendo no sería desagradable a su Rey---. pero esto se quedó en presunción.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 3. 9 (R. 28. 2781)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con por. +",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Dijo el sol [al cierzo] que --- procurasen quitar la capa que aquel caminante llevaba al hombro, y que quien se la quitase, quedase por más.»",
                   "autor": "J. de Pineda",
                   "referencia_obra": ", Agr. crist. 6. 8 (R. 162. 212)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con sin. X",
+              "definicion": "Con sin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Hacía muy bien Adriano en mirar no se quedasen sus senadores sin la honra que daban.»",
                   "autor": "Zabaleta",
-                  "referencia_obra": ", Errores celebr. (Cl. C. 169. 67). — El término es una prop. infinitiva."
-                },
+                  "referencia_obra": ", Errores celebr. (Cl. C. 169. 67)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Muchos mancebicos de diez y más años se quedan ordinariamente sin oír misa los domingos y fiestas.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Epíst. 4 (7. 261)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Muchos mancebicos de diez y más años se quedan ordinariamente sin oír misa los domingos y fiestas.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Epíst. 4 (7. 261)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1580,430 +2193,542 @@
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con una prop. adverbial como complemento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Yo me quedé como quien camina por unas ásperas y fragosas montañas.»",
                   "autor": "Montem.",
-                  "referencia_obra": "Diana, 4 (p. 157). X"
+                  "referencia_obra": "Diana, 4 (p. 157)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ahora me acuerdo que especialmente cuando oí esos textos en el sermón, me quedé como atorrollado.»",
                   "autor": "Isla",
-                  "referencia_obra": ", Fr. Ger. 2. 4 (Cl. C. 149. 63). X"
+                  "referencia_obra": ", Fr. Ger. 2. 4 (Cl. C. 149. 63)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuál saltando se adelanta, | Cuál burlando atrás se queda, | Y cuál en medio de todas | Repica la pandereta.»",
                   "autor": "Mel.",
-                  "referencia_obra": "Poesía (Cl. C. 64. 199). +"
+                  "referencia_obra": "Poesía (Cl. C. 64. 199)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Si apareciese ahora | Entre ellos vivo y robusto | El mismo a quien juzgan muerto, | Como figuras de estuco | Se quedarían.»",
                   "autor": "Bretón",
-                  "referencia_obra": ", Muérete y verás, 4. 4 (Cl. C. 92. 100). X"
+                  "referencia_obra": ", Muérete y verás, 4. 4 (Cl. C. 92. 100)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mejorado sí, pero quedóse como un niño.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de invierno, p. 168."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Se emplea como auxiliar de ciertos participios. +",
+          "definicion": "Se emplea como auxiliar de ciertos participios.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«No pudiendo caminar a pie los soldados tan gran trecho, fueron nescesitados a quedar la noche cansados y mojados.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granada, 5 (p. 130)."
             },
             {
+              "marca": "",
               "texto_cita": "«De esta manera quedó mudado aquel hombre después que pecó: y así lo quedamos todos en él.»",
               "autor": "Gran.",
-              "referencia_obra": "Símb. 3. 1. 3 (4. 4101). X"
+              "referencia_obra": "Símb. 3. 1. 3 (4. 4101)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Oye, señor; de corrido | Apenas hablar acierto: | Por mi orden quedó muerto.»",
               "autor": "G. de Castro",
               "referencia_obra": ", Los mal casados (Cl. Castal. 76. 296)."
             },
             {
+              "marca": "",
               "texto_cita": "«A los unos y a los otros queda respondido en este capítulo.»",
               "autor": "Sig.",
               "referencia_obra": "Vida de S. Jer. 6. 1 (p. 550)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y el engañado dejó estos montes y yo no sé si lo quedé en fiarme tanto de sus cosas.»",
               "autor": "Valb.",
               "referencia_obra": "Siglo de oro, 7 (p. 148)."
             },
             {
+              "marca": "",
               "texto_cita": "«Conocióme, y conocile; Y de estos conocimientos | He quedado yo preñada.»",
               "autor": "Cerv.",
               "referencia_obra": "La gran sultana, 3 (Com 2. 108)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pues no podrán servir tus diligencias, | Sino de que estorvando tu reposo, | Tú quedes desdichado, y él vicioso.»",
               "autor": "Quev.",
               "referencia_obra": "Epicteto y Focílides (5. 604)."
             },
             {
+              "marca": "",
               "texto_cita": "«Propongo a vuestra alteza la Idea de un príncipe político —cristiano, --- para que por los ojos y por los oídos (instrumentos del saber) quede más informado el ánimo de vuestra alteza en la ciencia de reinar.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. Al príncipe (R. 25. 2)."
             },
             {
+              "marca": "",
               "texto_cita": "«Habiendo venido el rey Luis de Francía a la corte de Toledo (en tiempo del rey don Alonso el emperador), quedó admirado de su grandeza y lucimiento.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 69 (R. 25. 1902). X"
+              "referencia_obra": "Id. ib. 69 (R. 25. 1902)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vióla un día por accidente Procopio, hijo de Sinfronio, Gobernador de Roma, y quedó tan ciegamente enamorado de ella, que resolvió tomarla por esposa.»",
               "autor": "Isla",
-              "referencia_obra": ", Año christ. 21 (p. 312). X"
+              "referencia_obra": ", Año christ. 21 (p. 312)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ninguno supo quedar | Sobre mi pecho grabado, | Pues a todos los perdí | Por aquello que lograron.»",
               "autor": "Camacho",
-              "referencia_obra": ", Luna de arena, 2 (p. 73). X"
+              "referencia_obra": ", Luna de arena, 2 (p. 73)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No se sabe qué le ha pasado: se ha quedado muerto.»",
               "autor": "Baroja",
-              "referencia_obra": ", La busca, 3. 7 (p. 176). X"
+              "referencia_obra": ", La busca, 3. 7 (p. 176)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Después limpiaba los cristales empañados, y mirando al huerto quedábase abstraída.»",
               "autor": "Valle-Inclán",
-              "referencia_obra": ", Sonata de invierno, p. 154. X"
+              "referencia_obra": ", Sonata de invierno, p. 154."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cada paso de la acción concurre a la unidad que consagrará majestuosamente el desenlace, o que acaso quedará suspensa, con poético misterio, por la interrupción de la obra.»",
               "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 22. X"
+              "referencia_obra": ", Motivos de Proteo, p. 22."
             },
             {
+              "marca": "X",
               "texto_cita": "«Por eso, aunque tenía otra vez ganas de orinar, prefirió quedarse sentado.»",
               "autor": "Hoyos",
               "referencia_obra": ", Tuyo es mi corazón, 2 (p. 427)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a y una prop. infinitiva, que señala la causa. X",
+              "definicion": "Con a y una prop. infinitiva, que señala la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Algo cortado se quedó fray Gerundio al oir este extraño cumplimiento.»",
                   "autor": "Isla",
                   "referencia_obra": ", Fr. Ger. 3. 5 (Cl. C. 149. 297)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de y una prop. infinitiva. X",
+              "definicion": "Con de y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pues como vio a Sireno junto a la fuente quedó espantado de velle tan triste.»",
                   "autor": "Montem.",
                   "referencia_obra": "Diana, p. 23."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Morir. Con en. X",
+          "definicion": "Morir. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Rogó don Quijote que le dejasen solo, porque quería dormir un poco. Hiciéronlo así y durmió de un tirón, como dicen, más de seis horas; tanto, que pensaron en Ama y la sobrina que se había de quedar en el sueño.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 74 (Cl. C. 22. 321). +"
+              "referencia_obra": "Quij. 2. 74 (Cl. C. 22. 321)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Un día entra | [Roger] | en mi posada furioso --- y se arroja a mí diciendo en mal articuladas voces que uno de los dos había de quedar en el sitio.»",
               "autor": "Hartz.",
               "referencia_obra": "Los amantes de Teruel, 2. 1 (Cl. C. 113. 58)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Caer. Con en. X",
+          "definicion": "Caer. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Eres aquella misteriosa red en cuyas opacas mallas quedan presos los incautos pececillos.»",
               "autor": "Isla",
               "referencia_obra": ", Fr. Ger. 2. 8 (Cl. C. 149. 152)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Expresiones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "No quedar por corta ni mal echada: resultar acertada una cosa (metáfora del juego de bola). X",
+              "definicion": "No quedar por corta ni mal echada: resultar acertada una cosa (metáfora del juego de bola).",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Por vida de los que aquí estamos, que no os quede por corta ni por mal echada la verdad que se os pregunta.»",
                   "autor": "J. de Pineda",
-                  "referencia_obra": ", Agr. crist. 24. 35 (R. 169. 1921). X"
+                  "referencia_obra": ", Agr. crist. 24. 35 (R. 169. 1921)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Conforme al libro del duelo del género femenino, palabras de muger a muger no caigan, deue de ser que pessan menos y, son hechas de ayre colado --- lo que yo sé de uso esque entre nosotras aquella queda cargada a quien le quedare por corta o mal echada.»",
                   "autor": "",
                   "referencia_obra": "Píc. Just. 2. 2. 4. 4 (2. 117)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Quedar bien: hacer alguien un papel lucido en cualquier cosa o acción. X",
+              "definicion": "Quedar bien: hacer alguien un papel lucido en cualquier cosa o acción.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y para que el remedio quedara bien hecho, puse una rodilla en la tierra, eché la cara para atrás, cerré los ojos, apreté los dientes y torcí el garrote.»",
                   "autor": "Díaz Castro",
-                  "referencia_obra": ", Manuela, 16 (p. 200). X"
+                  "referencia_obra": ", Manuela, 16 (p. 200)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tienes que quedar bien con nuestras amistades.»",
                   "autor": "Fuentes",
                   "referencia_obra": ", Obr. compl. p. 818."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Quedar bueno.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¡Bueno habéis quedado, Tello, | Sin amo y sin un real!»",
                   "autor": "Alarcón",
                   "referencia_obra": ", Todo es ventura, 1. 2 (R. 20. 1192)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Quedar contento y pagado: satisfecho. X",
+              "definicion": "Quedar contento y pagado: satisfecho.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Señor caballero —replicó el mercader— suplico a vuestra merced --- que vuestra merced sea servido de mostrarnos algún retrato de esa señora aunque sea tamaño como un grano de trigo; que por el hilo se saca el ovillo, y que daremos con esto satisfechos y seguros, y vuestra merced quedará contento y pagado.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 4 (Cl. C. 4. 128)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Quedar corto: — que no alcanza a explicarse en los términos requeridos. X",
-              "ejemplos_citas": [
+              "definicion": "Quedar corto:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Luego ¿todo aquello que los poetas enamorados dicen es verdad? —En cuanto poetas, no la dicen —respondió Lotario—; más en cuanto enamorados, siempre quedan tan cortos como verdaderos.»",
-                  "autor": "",
-                  "referencia_obra": "Cerv. Quij. 1. 34 (Cl. C. 8. 225). X"
+                  "id_limpio": "—",
+                  "definicion": "que no alcanza a explicarse en los términos requeridos.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Luego ¿todo aquello que los poetas enamorados dicen es verdad? —En cuanto poetas, no la dicen —respondió Lotario—; más en cuanto enamorados, siempre quedan tan cortos como verdaderos.»",
+                      "autor": "",
+                      "referencia_obra": "Cerv. Quij. 1. 34 (Cl. C. 8. 225)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Parece que me alargo, y mucho más podría decir, y a quien Dios hubiere hecho esta merced verá que quedo corta.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Mor. 5. 2 (R. 53. 4552)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«No querría pareciese encarecimiento, porque verdaderamente voy viendo que queda corta, porque no se puede decir.»",
+                      "autor": "",
+                      "referencia_obra": "Ead. ib. (R. 53. 4792)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Parece que me alargo, y mucho más podría decir, y a quien Dios hubiere hecho esta merced verá que quedo corta.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Mor. 5. 2 (R. 53. 4552). X"
-                },
-                {
-                  "texto_cita": "«No querría pareciese encarecimiento, porque verdaderamente voy viendo que queda corta, porque no se puede decir.»",
-                  "autor": "",
-                  "referencia_obra": "Ead. ib. (R. 53. 4792). — Que no alcanza a hacer o no hace lo que el caso requiere. X"
-                },
-                {
-                  "texto_cita": "«De lo que antes hacía, razón tenía, que era extremo; mas de lo que era obligada al hábito y profesión que hacía, quedaba corta.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Vida, 24 (R. 53. 752). X"
-                },
-                {
-                  "texto_cita": "«Por mucho que nos parezca que nos humillamos, quedamos bien cortas para ser hijas de tal Madre y esposas de tal Espoco.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Cam. perf. 13 (1. 453; R. 53. 3341). X"
-                },
-                {
-                  "texto_cita": "«En medio está el valle hermoso | Coronado de tres cuestas, | Que quedara corto Apeles | Cuando pintarlas quisiera.»",
-                  "autor": "",
-                  "referencia_obra": "Tirso, El burlador de Sevilla, 1. 14 (R. 5. 5762)."
+                  "id_limpio": "—",
+                  "definicion": "Que no alcanza a hacer o no hace lo que el caso requiere.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«De lo que antes hacía, razón tenía, que era extremo; mas de lo que era obligada al hábito y profesión que hacía, quedaba corta.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Vida, 24 (R. 53. 752)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Por mucho que nos parezca que nos humillamos, quedamos bien cortas para ser hijas de tal Madre y esposas de tal Espoco.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Cam. perf. 13 (1. 453; R. 53. 3341)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En medio está el valle hermoso | Coronado de tres cuestas, | Que quedara corto Apeles | Cuando pintarlas quisiera.»",
+                      "autor": "",
+                      "referencia_obra": "Tirso, El burlador de Sevilla, 1. 14 (R. 5. 5762)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Quedar en cuenta de: estar en reemplazo de. X",
+              "definicion": "Quedar en cuenta de: estar en reemplazo de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Griselda, la Marquesa, que en cuenta del ama quedaba, se puso, levantándose de la cama. en aquel traje y postura cual el ama solía traer, y secretamente las más noches dormía con el Marqués.»",
                   "autor": "Timoneda",
-                  "referencia_obra": ", El Patrañuelo, 2 (Cl. C. 101. 31). X"
+                  "referencia_obra": ", El Patrañuelo, 2 (Cl. C. 101. 31)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pues como quedase Corineo en cuenta de Roselio en casa de Feliciano, para mejor guardar la lealtad a su amigo, al punto que se acostaba con Leonarda, desenvainaba de su espada, y la ponía entre los dos en medio de la cama.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 13 (CI. C. 101. 160)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Quedarse en ayunas: sin entender. X",
+              "definicion": "Quedarse en ayunas: sin entender.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Quedóse en ayunas el bueno de fray Blas, porque este era mucho latín para un predicado romancista.»",
                   "autor": "Isla",
-                  "referencia_obra": ", Fr. Ger. 3. 4 (Cl. C. 149. 267). X"
+                  "referencia_obra": ", Fr. Ger. 3. 4 (Cl. C. 149. 267)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Quedóse en ayunas de muchas cosas que oyó.»",
                   "autor": "",
-                  "referencia_obra": "Galdós, Fortunata y Jacinta, p. 224. X"
+                  "referencia_obra": "Galdós, Fortunata y Jacinta, p. 224."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Fortunata se quedó en ayunas de toda esta cantinela.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. p. 432."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— θ θ )",
               "id_limpio": "— θ θ )",
               "definicion": "Quedarse en camisa: ligero de ropa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Dí al sacristán capa, ropilla y espada, quedándome en un jubón viejo y sucio.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 2. 5 (R. 18. 4301)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ι ι )",
               "id_limpio": "— ι ι )",
               "definicion": "Quedrase sin nada.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Alguno de robar no se contenta | La casa que le da cierta ventura,... | Haciendo codiciosa y necia cuenta | Busca la incierta y deja la segura, | Y llegando el sol puesto a la posada | Se queda, por buscar mucho, sin nada.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 7 (R. 17. 301)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— κ κ )",
               "id_limpio": "— κ κ )",
               "definicion": "Quedarse a deber.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En mi firmeza verás | Que aunque me quisieras más, | Me quedas más a deber.»",
                   "autor": "Alarcón",
                   "referencia_obra": ", La Manganilla de Melilla, 2 (R. 20. 3111)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dais gloria tan sin medida, | Que aunque os pague con la vida, | Os queda mucho a deber.»",
                   "autor": "Alarcón",
                   "referencia_obra": ", Las paredes oyen, 3. 1 (R. 20. 562)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pero podéis persuadíros | Que nada os quedo a deber.»",
                   "autor": "Alarcón",
                   "referencia_obra": ", Los favores del mundo, 3. 6 (R. 20. 161)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— λ λ )",
               "id_limpio": "— λ λ )",
-              "definicion": "Quedarse in albis: no lograr lo apetecido. X",
+              "definicion": "Quedarse in albis: no lograr lo apetecido.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Podría darle por el misticimso y no querer salir, y quedarme yo in albis.»",
                   "autor": "",
-                  "referencia_obra": "Galdós, Fortunata y Jacinta, p. 230. —"
+                  "referencia_obra": "Galdós, Fortunata y Jacinta, p. 230."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "-μ μ )",
               "id_limpio": "-μ μ )",
-              "definicion": "Quedar superior: vencer. +",
+              "definicion": "Quedar superior: vencer.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«A la mañana volvieron a toparse [alanos y catalanes], y quedaron los catalanes superiores, habiendo muerto más de trescientos alanos.»",
                   "autor": "Moncada",
-                  "referencia_obra": ", Exped. 13 (R. 21. 131). +"
+                  "referencia_obra": ", Exped. 13 (R. 21. 131)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Con los enemigos no ubiera [el rey] venido ocho veces a las manos y quedado superior.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Granada, 3 (p. 66)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ν ν )",
               "id_limpio": "— ν ν )",
-              "definicion": "Quedar tiempo: disponer de él para ejecutar alguna cosa. X",
+              "definicion": "Quedar tiempo: disponer de él para ejecutar alguna cosa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y no se le ha de entender con esto que han de dejar [los caballeros andantes] de encomendarse a Dios; que tiempo y lugar les queda para hacerlo en el discurso de la obra.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 13 (Cl. C. 4. 293)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ξ ξ )",
               "id_limpio": "— ξ ξ )",
-              "definicion": "Quedarse a oscuras: sin comprender. X",
+              "definicion": "Quedarse a oscuras: sin comprender.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se sonrió afectando entender la cita; pero se había quedado a oscuras.»",
                   "autor": "",
-                  "referencia_obra": "Galdós, Fortunata y Jacinta, p. 217. X"
+                  "referencia_obra": "Galdós, Fortunata y Jacinta, p. 217."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A veces quedábase a oscuras de lo que hablaban.»",
                   "autor": "",
                   "referencia_obra": "Galdós, Fortunata y Jacinta, p. 389."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ο ο )",
               "id_limpio": "— ο ο )",
-              "definicion": "Quedarse tamañito: alude a ciertas acciones que quedan fuera de lo ordinario. X",
+              "definicion": "Quedarse tamañito: alude a ciertas acciones que quedan fuera de lo ordinario.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Jacinta se había de quedar tamañita. ya vería ella que marido tenía.»",
                   "autor": "",
                   "referencia_obra": "Galdós, Fortunata y Jacinta, p. 314."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -2012,81 +2737,99 @@
     {
       "id": "b)",
       "definicion": "Dicho de objetos físicos o entidades históricas (intrans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«¿Qué tal quedaría una galera si le quitásedes los remos?»",
           "autor": "Gran.",
-          "referencia_obra": "Doctr. crist. 4. 1. 3 (5. 52). X"
+          "referencia_obra": "Doctr. crist. 4. 1. 3 (5. 52)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Aquel día cuando entre fiero estrago Humilladas quedaron las armas de Cartago Que asolaban cual teas las campiñas romanas.»",
           "autor": "Arciniegas",
           "referencia_obra": ", Odas de Horacio (ICC. 5. 182)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Dicho de obras o producciones del intelecto, o de la actividad del individuo (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con por.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Todo podéis hacer, y así no quedará el ayudarme por flaqueza.»",
               "autor": "Nieremb.",
               "referencia_obra": "Hermosura de Dios, 2. 6 (p. 378)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. Con en. +",
+          "definicion": "Prnl. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Tú hablas mucho contra la vida falsa de las ciudades, y luego todo se queda en conversación.»",
               "autor": "Ganiv.",
               "referencia_obra": "Pío Cid, 6 (Obr. 2. 305)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
       "id": "d)",
-      "definicion": "Emanar, deducirse de (intrans.). Con de. +",
+      "definicion": "Emanar, deducirse de (intrans.). Con de.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "+",
           "texto_cita": "«Claro, pues, queda de aquí, que pues el hombre no es de una sola calidad, que no se ha de mantener de una cosa sola, sino de muchas y diversas.»",
           "autor": "P. Mexía",
           "referencia_obra": ", Coloq. 2. 2 (p. 115)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "4",
-      "definicion": "Se usa en las cartas en fórmulas de cortesía antes de la firma. X",
+      "definicion": "Se usa en las cartas en fórmulas de cortesía antes de la firma.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Queda muy de uestedes y les besa su mano, como generalmente se dice, y no se siente, su afectísimo: Fígaro, o por otro nombre, Mariano José de Larra.»",
           "autor": "Larra",
           "referencia_obra": ", Artíc. polít. y soc. (Cl. C. 77. 246)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: + «Todavía el dicho rey porfiaba de querer quedar.» Crón. Álv. de Luna, 12 (p. 47). + «No se ofresçía ninguno a quedar, porque tenían trabajada su gente de la guerra.» Ib. 25 (p. 97). + «Cada uno dellos dezia que si su merçed le mandaba quedar sin tener cargo de otra gente, que quedarían.» Ib. 65 (p. 193). + «Muchos estrangeros --- venían a la conquista, e muchos dellos quedaban en la tierra.» Pz. de Guzmán, Gener. 10 (R. 68. 7041). X «E van sonando, e quedarse [h]an santigua[n]do | Con la mano en la maxilla.» Santill. Canc. y decires (Cl. C. 18. 95).\n\n— Siglo XIV: + «Y que pues él veniera por tomar aquella villa, que estidiese quedado en su real.» Crón. Alf. XI, 126 (p. 244). X «Aquel ome tan largo, | Que lo trajedes muerto, perdido e amargo. Sy anda o sy queda, en vos está pensando Los ojos para tierra non queda sospirando.» Arc. de Hita 833 (Cl. C. 14. 281). + «Los pies duechos de andar, non pueden quedar.» Zifar, 225 (p. 501). + «Ay amigo! dixo el cauallero, queden ya tus palabras --- ca non te puedo responder ya a quantas preguntas me fazes.» Ib. 55 (p. 119). + «Quando los perdiere [los ojos], | dixo el cauallero, quedara la codiçia del coraçón; ca lo que vee el ojo desea el corajón.» Ib. 54 (p. 115).\n\n— Siglo XIII: X «E los otros yvan allá porque los hombres no dixiessen que eran malos cristianos, si quedassen.» Conq. de Ultr. (ICC. 51. 47). + «Como entro Caleph en aquella onrra, quedo e sin otro roydo, assí salió della.» Alf. X, General estoria, 2. 1 (Jueces, 1. 128). X «Quando vyeron que era la noche aquedada, | movyeron se andar por medio la caljada.» Fer. Gonz. 652 (Cl. C. 128. 195).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. tardío quietare 'aquietar, hacer callar; sosegar, descansar'. Port. quedar, it. chetare, cat. quedar\n\n\u0000",
+  "etimologia": "Etim. Del lat. tardío <i>quietare </i>'aquietar, hacer callar; sosegar, descansar'. Port. <i>quedar, </i>it. <i>chetare, </i>cat. <i>quedar</i>\n\n<i></i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

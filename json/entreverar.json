@@ -1,74 +1,91 @@
 {
   "lema": "ENTREVERAR. *",
   "categoria_gramatical": "v.",
-  "introduccion": "v. Introducir una cosa en otra, mezclarlas (trans.).",
+  "introduccion": "Introducir una cosa en otra, mezclarlas (trans.).",
   "acepciones": [
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Una plaza húmeda y circular donde los árboles entreveraban sus ramas.»",
               "autor": "Onetti",
               "referencia_obra": ", El astillero, p. 151."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, para indicar el objeto con el que se produce la mezcla. RAE",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Sabemos hay cierto género de letrados que --- admiten todo litigante ---, entreverando y añadiendo las letras de los escudos que ellos reciben, a las leyes.»",
                   "autor": "Quev.",
                   "referencia_obra": "Obras (ed. Astrana Marín, p. 992)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para indicar lo mismo que en el caso anterior. X",
+              "definicion": "Con la prep. con, para indicar lo mismo que en el caso anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Terminaban las piedras y empezaba el fango que las olas extraían a la superficie y entreveraban con los nidos de algas y malaguas, tiñendo el mar.»",
                   "autor": "Vargas Llosa",
                   "referencia_obra": ", Día domingo, p. 138."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Acaso donde más se pueden mezclar o entreverar, por lo menos, el español y el francés, es en el extremo occidental de la frontera, en el país vasco.»",
               "autor": "Unamuno",
               "referencia_obra": ", Andanzas y visiones esp. p. 142."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para indicar el objeto u objetos con los que se produce la mezcla. X",
+              "definicion": "Con en, para indicar el objeto u objetos con los que se produce la mezcla.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se recitó con vehemencia episodios indudables y que conservaban una inmortal frescura porque ni siquiera ahora le era posible comprenderlos del todo, ni siquiera ahora podía descubrir el móvil que le obligó a entreverarse en ellos.»",
                   "autor": "Onetti",
                   "referencia_obra": ", El astillero, p. 128."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -76,37 +93,46 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part. Que tiene intercaladas cosas diferentes. RAE",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Al cielo | Gracias, ni mala, ni buena | Sino assí, assí, entreverada, | Como lonja de la pierna.»",
               "autor": "Cald.",
               "referencia_obra": "Com. (ed. Vera Tassis, p. 402)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La [águila] llamada yanachuvipaca es toda negra. Otra, entreverada de negro y pardo, se dice chegepaca.»",
                   "autor": "Cobo",
                   "referencia_obra": ", Hist. Nuevo Mundo, 1. 8. 1 (R. 91. 3132)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Abajo, la extensión gris, negruzca, de los tejados, se aleja, entreverada con las manchas blancas de las fachadas, hasta tocar en el mar bermejo de la llanura.»",
                   "autor": "Azorín",
                   "referencia_obra": ", Ruta de D. Quijote, 11 (p. 377)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -115,7 +141,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. (Nótese el significado de 'enverar, comenzar a tomar color de madura una fruta'). Siglo XV: RAE «Maguer en mi huerto andove buscando | Brevas que vy entreveradas, | Fallélas e fallo mucho annubladas, | Marchitas e floxas, según que yo ando.» Canc. Baena (ed. 1851, p. 155).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Según la Academia (cfr. Dicc. sb. voc.), del lat. inter y variare 'variar', y éste del adj. varius 'variado, de colores varios' (véase DCEC sb. voc. Vario). Así pues, el significado primitivo de este verbo debió de ser 'intercalar o mezclar diversos colores', de donde se pasó por extensión a 'mezclar cualesquiera otras cosas'. No obstante, a nuestro juicio, no habría dificultad en derivar esta palabra de entre y vera 'orilla, borde', de suerte que entreverar significaría literalmente 'colocar algo entre los bordes de una cosa', esto es, 'introducir, intercalar' (comp. tocino entreverado 'el que tiene hebras de magro introducidas'), de donde se pasaría fácilmente a 'mezclar'. En ese caso, el significado de 'tomar color de madura una fruta', que aparece en el Canc. de Baena se debería a una confusión con enverar, el cual derivaría de variare. Pero esto no es más que una hipótesis que necesitaría una comprobación. En favor de aquélla parece hablar la forma gallega entrebeirar ' mezclar escrita con b (no hay que olvidar que vera debiera escribirse con b, como el gall. beira; cfr. DCEC sb. voc. Vera), junto a embeirar 'estar un terreno a la orilla de un camino público', que nada tendría que ver con el cast. enverar (véase E. Rodríguez González, Dicc. gallego-castellano). Cat. entreverar, entrevirar. La forma entreverar que se encuentra en el port. del S. del Brasil es un claro castellanismo.\n\n\u0000",
+  "etimologia": "Etim. Según la Academia (cfr. <i>Dicc. sb. voc.</i>), del lat. <i>inter </i>y<i> variare </i>'variar', y éste del adj. <i>varius </i>'variado, de colores varios' (véase DCEC <i>sb. voc. Vario</i>)<i>. </i>Así pues, el significado primitivo de este verbo debió de ser 'intercalar o mezclar diversos colores', de donde se pasó por extensión a 'mezclar cualesquiera otras cosas'. No obstante, a nuestro juicio, no habría dificultad en derivar esta palabra de <i>entre </i>y<i> vera </i>'orilla, borde', de suerte que <i>entreverar </i>significaría literalmente 'colocar algo entre los bordes de una cosa', esto es, 'introducir, intercalar' (comp. <i>tocino entreverado </i>'el que tiene hebras de magro introducidas'), de donde se pasaría fácilmente a 'mezclar'. En ese caso, el significado de 'tomar color de madura una fruta', que aparece en el <i>Canc. de Baena </i>se debería a una confusión con <i>enverar, </i>el cual derivaría de <i>variare. </i>Pero esto no es más que una hipótesis que necesitaría una comprobación. En favor de aquélla parece hablar la forma gallega <i>entrebeirar </i>' mezclar escrita con <i>b</i> (no hay que olvidar que<i> vera </i>debiera escribirse con <i>b, como </i>el gall. <i>beira; </i>cfr. DCEC <i>sb. voc. Vera</i>)<i>, </i>junto a <i>embeirar </i>'estar un terreno a la orilla de un camino público', que nada tendría que ver con el cast. <i>enverar </i>(véase E. Rodríguez González, Dicc. <i>gallego-castellano</i>)<i>. </i>Cat. <i>entreverar, entrevirar</i>. La forma <i>entreverar </i>que se encuentra en el port. del S. del Brasil es un claro castellanismo.",
   "nota": "",
   "forma": "",
   "ortografia": "",

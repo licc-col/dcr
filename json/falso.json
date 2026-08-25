@@ -1,97 +1,120 @@
 {
   "lema": "FALSO.",
   "categoria_gramatical": "adj.",
-  "introduccion": "adj.\n\nLas acepciones se distribuyen así:\n\n— 1, I, engañador, mendaz, a) dicho de las personas, b) hipócrita, simulador (disimulado, solapado: δ), c) califica a palabras denotadoras de sentimientos e intenciones para presentarlos como propios del engañador, d) mendaz, traidor, e) sin intención de dañar (mentiroso y simulador: α ; Simulado: β);\n\n— 2, califica a objetos y a acciones al servicio del engaño, a) se aplica a las cosas que sirven para engañar, b) forjado a propósito para engañar, c) califica virtudes erróneamente concebidas, d) aplicado a personas, que aparenta ser lo que no es en verdad, disfrazado (se aplica igualmente a objetos que sirven para disfrazarse: β; Pseudónimo, nombre atribuído: γ ), e) en especial, forma, con términos jurídicos y comerciales, expresiones que denotan acciones o documentos engañosos;\n\n— 3, no auténtico, a) que imita una obra de arte, pretendiendo pasar por tal obra (Inauténtico, con referencia a virtudes y cualidades superficiales, sin raíces ni fundamento: β ), b) que imitan a otros generalmente más valiosos, pero que se fabrican y venden legalmente, c) que participando de algunos caracteres esenciales de otro objeto a cuya clase se asigna, carece de otros propios de aquél;\n\n— 4, acepciones anticuadas, a) pusilánime, flojo, b) aplícase a la caballería que tiene resabios y cocea aun sin hostigarla;\n\n— 5, contrario a la verdad, a) por no corresponder a la realidad efectiva de las cosas o a la sana lógica de los razonamientos (Equivocado y desorientado: β ), b) aplícase a toda clase de afirmaciones, creencias, opiniones o noticias carentes de verdad, pero sin intención de mentir, c) por presentar una apariencia engañosa, desorientadora, que se valora en más de lo que merece en realidad, aparente, c) aplicado a las afirmaciones carentes de verdad y hechas con malicia o intención mayor o menor de daño;\n\n— 6, inventado o ficticio, a) por error en la percepción o en el juicio;\n\n— 7, infundado;\n\n— 8, a) inseguro, b) peligroso;\n\n— 10, II, adv. a) falsamente, en falso;\n\n—11, III, sust. falsario.",
+  "introduccion": "Las acepciones se distribuyen así:\n\n— 1, I, engañador, mendaz, a) dicho de las personas, b) hipócrita, simulador (disimulado, solapado: δ), c) califica a palabras denotadoras de sentimientos e intenciones para presentarlos como propios del engañador, d) mendaz, traidor, e) sin intención de dañar (mentiroso y simulador: α; Simulado: β);\n\n— 2, califica a objetos y a acciones al servicio del engaño, a) se aplica a las cosas que sirven para engañar, b) forjado a propósito para engañar, c) califica virtudes erróneamente concebidas, d) aplicado a personas, que aparenta ser lo que no es en verdad, disfrazado (se aplica igualmente a objetos que sirven para disfrazarse: β; Pseudónimo, nombre atribuído: γ ), e) en especial, forma, con términos jurídicos y comerciales, expresiones que denotan acciones o documentos engañosos;\n\n— 3, no auténtico, a) que imita una obra de arte, pretendiendo pasar por tal obra (Inauténtico, con referencia a virtudes y cualidades superficiales, sin raíces ni fundamento: β ), b) que imitan a otros generalmente más valiosos, pero que se fabrican y venden legalmente, c) que participando de algunos caracteres esenciales de otro objeto a cuya clase se asigna, carece de otros propios de aquél;\n\n— 4, acepciones anticuadas, a) pusilánime, flojo, b) aplícase a la caballería que tiene resabios y cocea aun sin hostigarla;\n\n— 5, contrario a la verdad, a) por no corresponder a la realidad efectiva de las cosas o a la sana lógica de los razonamientos (Equivocado y desorientado: β ), b) aplícase a toda clase de afirmaciones, creencias, opiniones o noticias carentes de verdad, pero sin intención de mentir, c) por presentar una apariencia engañosa, desorientadora, que se valora en más de lo que merece en realidad, aparente, c) aplicado a las afirmaciones carentes de verdad y hechas con malicia o intención mayor o menor de daño;\n\n— 6, inventado o ficticio, a) por error en la percepción o en el juicio;\n\n— 7, infundado;\n\n— 8, a) inseguro, b) peligroso;\n\n— 10, II, adv. a) falsamente, en falso;\n\n—11, III, sust. falsario.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "(I)",
       "definicion": "Engañador, mendaz.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Dicho de las personas.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ay, ay, viejo pecador, | Y era, en cabo de mis días, | ¿Y tú de venir auías | A me dar tal deshonor? | ¡O falso, malo, traydor!»",
               "autor": "Fernández",
-              "referencia_obra": ", Farsas y Egl. (Cl. Castal. 72. 92) X"
+              "referencia_obra": ", Farsas y Egl. (Cl. Castal. 72. 92)"
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Oh Dios! ¿Por qué siquiera, | Pues ves desde tu altura | Esta faIsa perjura | Causar la muerte de un estrecho amigo, | No recibe del cielo algún castigo?»",
               "autor": "Garcil.",
-              "referencia_obra": "Obr. égl. 1 (Cl. C. 3. 7). X"
+              "referencia_obra": "Obr. égl. 1 (Cl. C. 3. 7)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Llegué al lugar donde era enviado; di las cartas al hermano de don Fernando; fui bien recebido, pero no bien despachado, porque me mandó aguardar, bien a mi disgusto, ocho días, --- y todo fue invención del falso don Fernando, pues no le faltaban a su hermano dineros para despacharme luego.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 27 (Cl. C. 8. 26). X"
+              "referencia_obra": "Quij. 1. 27 (Cl. C. 8. 26)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Todo aqueso, derribó por los fundamentos la astucia, a lo que yo creo, de un mozo holgazán y vicioso, y la malicia de una falsa dueña, con la inadvertencia de una muchacha rogada y persuadida!»",
               "autor": "",
-              "referencia_obra": "Id. Nov. (Cl. C. 36. 158). X"
+              "referencia_obra": "Id. Nov. (Cl. C. 36. 158)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tienes las prendas todas de un tirano: | Venganza, envidia, vanidad, doblez. | Eres falso y crüel, porque eres vano.»",
               "autor": "J. E. Caro",
-              "referencia_obra": ", Poes. complet. p. 214. X"
+              "referencia_obra": ", Poes. complet. p. 214."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tú dejarás que te mate, | Que siga viviendo ella, | Embustera, falsa tú, | Pero tan igual a ti | Que nadie se acordará | Sino yo de lo que eras.»",
               "autor": "Salinas",
               "referencia_obra": ", La voz (Cl.Castal. 2. 103)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo absol. X",
+              "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En un Puerto se miran | Naves, y remos, | Y será la tormenta | El mismo Puerto; | Que la codicia | Es Piloto mui falso, | Que descamina.»",
                   "autor": "Torres Villarroel",
                   "referencia_obra": ", Pronósticos, 1 (p. 24)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En superlativo relativo. X",
+              "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Dime, pastor, y el más falso que se puede imaginar en la vida: ¿es verdad que me querías para cansarte tan presto de quererme?»",
                   "autor": "Montem.",
                   "referencia_obra": "Diana, p. 72."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "En grado comparativo. X",
+              "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«O más falsa pastorcilla | Que las trampas de los lobos, --- piensas que por Penélope | Te tienen agora todos.»",
                   "autor": "",
                   "referencia_obra": "rom. Cabezbaxo y pensativo. (Flor. de varios rom. nueuos, fol. 41 rº)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -99,41 +122,50 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con a, para indicar aquello a lo cual se opone la falsedad.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Más apacible y mansa que el constante | Cielo sereno, y más que la tranquila | Agua de Tetis, falsa a mi firmeza.»",
               "autor": "F. de la Torre",
-              "referencia_obra": ", 3, égl. 7 (p. 145). X"
+              "referencia_obra": ", 3, égl. 7 (p. 145)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Este es don Ramiro; él fue | Falso a mi fiel esperanza; | Yo llego y me vengaré; | Mas de mí pido venganza | Que el secreto le fié.»",
               "autor": "Tirso",
               "referencia_obra": ", Averígüelo Vargas, 3. 2 (Cl. C. 131. 230)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Sustantivado. X",
+          "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
-              "texto_cita": "«Yo he de ser de su traición | Testigo estando aquí dentro, | Y aquí he de ver si a mis ojos | Se atreve el falso a ofendellos Mto. El lindo D. Diego (Cl. C. 32. 138). X",
+              "marca": "X",
+              "texto_cita": "«Yo he de ser de su traición | Testigo estando aquí dentro, | Y aquí he de ver si a mis ojos | Se atreve el falso a ofendellos Mto. El lindo D. Diego (Cl. C. 32. 138).",
               "autor": "",
               "referencia_obra": ""
             },
             {
+              "marca": "X",
               "texto_cita": "«Una ingrata dama --- prometió de darte | La obediencia siempre, | Y aora la falsa | Negártela quiere.»",
               "autor": "Ledesma",
-              "referencia_obra": ", Al Santíssimo Sacramento (Conceptos, 1. 213). X"
+              "referencia_obra": ", Al Santíssimo Sacramento (Conceptos, 1. 213)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Con el falso no tomes amistad porque te hará maldad.»",
               "autor": "Acad.",
               "referencia_obra": "Dicc.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -141,118 +173,145 @@
     {
       "id": "b)",
       "definicion": "Hipócrita, simulador.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y por eso dice el texto: | —Cortesía, Juan de Mena.— | \"Sois locura en que pecamos, | Amasada con falsía; | Por donde al que tras vos guía | Falso cortés le llamamos, | Cual él es.»",
               "autor": "Castillejo",
-              "referencia_obra": ", Obr. (Cl. C. 91. 40). X"
+              "referencia_obra": ", Obr. (Cl. C. 91. 40)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Rabiando quedo. ¡Qué es aquesto, cielos, | Que de éstos en amor tal paz se cante | Cuando rabiando estoy de envidia y celos? | ¡Oh Natalio cruel! ¡oh falso amante!»",
               "autor": "Lope",
-              "referencia_obra": ", Púsoseme el sol, salióme la luna, 1. 1 (Obr. dramát. 9. 21). X"
+              "referencia_obra": ", Púsoseme el sol, salióme la luna, 1. 1 (Obr. dramát. 9. 21)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Qué te valdrá ¡Catalina! | La hermosura peregrina | De ese rostro virginal, | Cuando falsos amadores | Se rían de tus amores | Y se rían de tu mal?»",
               "autor": "Zorrilla",
-              "referencia_obra": ", Poes. (Cl. C. 63. 11). X"
+              "referencia_obra": ", Poes. (Cl. C. 63. 11)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo quiero amor, quiero gloria, | Quiero un deleite divino, --- Y es la luz de aquel lucero | Que engañó mi fantasía, | Fuego fatuo, falso guía | Que errante y ciego me tray.»",
               "autor": "Espronc.",
-              "referencia_obra": "Poes. (Cl. C. 47. 177). X"
+              "referencia_obra": "Poes. (Cl. C. 47. 177)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De rudos malsines, | Falsos paladines, | Y espíritus finos y blandos y ruines, | Del hampa que sacia | Su canallocracia | Con burlar la gloria, la vida, el honor, | De puñal con gracia, | Líbranos, señor!»",
               "autor": "Darío",
               "referencia_obra": ", Poes. p. 304."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Falso amigo: Ha sido durante siglos la designación del amigo aparente y verdadero enemigo. X",
+          "definicion": "Falso amigo: Ha sido durante siglos la designación del amigo aparente y verdadero enemigo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Hay diablo como un adulador, como un envidioso, como un amigo falso y como una mala compañía?»",
               "autor": "Quev.",
-              "referencia_obra": "Sueños, 1 (Cl. C. 31. 84). X"
+              "referencia_obra": "Sueños, 1 (Cl. C. 31. 84)."
             },
             {
+              "marca": "X",
               "texto_cita": "«—No fiéis del falso amigo | Que el traidor puñal aguza, | Ni de la mujer querida | Que miente el amor que os jura.»",
               "autor": "Querol",
-              "referencia_obra": ", Poes. (Cl. C. 160. 36). X"
+              "referencia_obra": ", Poes. (Cl. C. 160. 36)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El sudor por el pan de cada día, | La envidia cuyo diente nos asecha, | De los falsos amigos la perfidia, | Del triunfante enemigo la insolencia.»",
               "autor": "J. E. Caro",
               "referencia_obra": ", Poes. complet. p. 46."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "En ciertos pasajes vale, sencillamente, Disimulado, solapado. X",
+          "definicion": "En ciertos pasajes vale, sencillamente, Disimulado, solapado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La tal Inés, en la ocasión que digo, | Finezas y ansias junta, | Y entre falsa y celosa me pregunta: | \"Dime, Brito, ¿es bizarra | Doña Blanca la Infanta de Navarra, | De Pedro nueva empresa, | Que viene a ser de Portugal princesa\"?»",
               "autor": "Guev.",
               "referencia_obra": "Reinar después de morir, 1 (Rossi, p. 13)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En grado superlativo. X",
+              "definicion": "En grado superlativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Fue menester echalles un toro para ponellos en paz ---, encaramándose a un tablado don Cleofás y su camarada, muy falsos, a ver la fiesta, haciéndose aire con los sombreros, como si tal no hubiera pasado por ellos.»",
                   "autor": "Guev.",
-                  "referencia_obra": "El diablo coj. 6 (Cl. C. 38. 113). X"
+                  "referencia_obra": "El diablo coj. 6 (Cl. C. 38. 113)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Uno sale muy falso, si la ganancia ha sido en oro, y dice: —Aquí hay plata de cuatro escudos— y echa la plata en el bufete.»",
                   "autor": "Zabaleta",
                   "referencia_obra": ", Día de fiesta, 2. 3 (Cl. Castal. 130. 344)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Reviste interés el sintagma estar falso: reír y burlarse con disimulo. X",
+          "definicion": "Reviste interés el sintagma estar falso: reír y burlarse con disimulo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y que él se rija siempre con tan buen juicio, que no haga necedades ni locuras, sino que burle, ría, sepa estar falso, dance y se muestre en todo de tan buen arte que, parezca avisado y discreto, y en nada le falte buena gracia.»",
               "autor": "Boscán",
               "referencia_obra": ". tr. El cortesano de B. Castiglione, 1. 4 (p. 55, nota)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En grado superlativo. X",
+              "definicion": "En grado superlativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los estranjeros, habiendo visto callar al Español, estaban muy falsos, cuando el Cojuelo, sentándose mejor y tomando la mano, y en traje castellano, que ya había dejado a la guardarropa del viento el turquesco, les dijo ---.»",
                   "autor": "Guev.",
                   "referencia_obra": "El diablo coj. 5 (Cl. C. 38. 96, nota)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -260,238 +319,291 @@
     },
     {
       "id": "c)",
-      "definicion": "Califica a palabras denotadoras de sentimientos e intenciones para presentarlos como propios del engañador. X",
+      "definicion": "Califica a palabras denotadoras de sentimientos e intenciones para presentarlos como propios del engañador.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Sí, por cierto. | ¿Tu querer falso, encubierto, | Sin haber de mí memoria, | O el querer d’aquel qu’es muerto? | Ponga Dios su alma en gloria.»",
           "autor": "T. Naharro",
           "referencia_obra": ", Com. (Cl. Castal. 51. 112)."
         },
         {
+          "marca": "",
           "texto_cita": "«¡Ay, cuánto me engañaba! | ¡Ay, cuán diferente era, | Y cuán de otra manera, | Lo que en tu falso pecho se escondía!»",
           "autor": "Garcil.",
-          "referencia_obra": "Obr. égl. 1 (R. 32. 4). X"
+          "referencia_obra": "Obr. égl. 1 (R. 32. 4)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Digo, pues, que pareciéndole a don Fernando que mi presencia le era inconveniente para poner en ejecución su falso y mal pensamiento, determinó de enviarme a su hermano mayor, --- y solo para este efeto de que me ausentase (para poder mejor salir con su dañado intento).»",
           "autor": "Cerv.",
-          "referencia_obra": "Quij. 1. 27 (Cl. C. 8. 23). X"
+          "referencia_obra": "Quij. 1. 27 (Cl. C. 8. 23)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Habladme claro: mirad | Que he de tener, ¡vive Dios!, | Si esto no alcanzo de vos, | Por falsa vuestra amistad.»",
           "autor": "Alarcón",
-          "referencia_obra": ", El examen de maridos (Cl. C. 146. 199). X"
+          "referencia_obra": ", El examen de maridos (Cl. C. 146. 199)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Sí, señores --- sé que andan todavía en derredor de vosotros ciertos espíritus malignos, que censuran y persiguen vuestros esfuerzos --- y aparentando falsa amistad y compasión hacia vosotros.»",
           "autor": "Jovell.",
           "referencia_obra": "Discursos (Cl. C. 129. 93)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
-      "definicion": "Mendaz, traidor, que simula o miente con mala intención. X",
+      "definicion": "Mendaz, traidor, que simula o miente con mala intención.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«A los testigos y acusadores falsos harás siempre castigar por la pena del talión.»",
           "autor": "Valdés",
-          "referencia_obra": ", Diál. de Merc. y Carón (Cl. C. 96. 209). X"
+          "referencia_obra": ", Diál. de Merc. y Carón (Cl. C. 96. 209)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Pena del talión es la pena del tanto que deven dar al falso acusador lo que merecía el acusado, si verdaderamente fuera culpado.»",
           "autor": "Venegas",
-          "referencia_obra": ", Agonía. Breve declar. (NBAE. 16. 3091). X"
+          "referencia_obra": ", Agonía. Breve declar. (NBAE. 16. 3091)."
         },
         {
+          "marca": "X",
           "texto_cita": "«¿Vos jurador? ¿Esto pasa? | No hay que hablar, salid de casa; | Salid, falso jurador, | O besad luego la tierra | Por tan grande desvarío.»",
           "autor": "Tirso",
-          "referencia_obra": ", Marta la piadosa (Cl. Ebro, 44. 98). X"
+          "referencia_obra": ", Marta la piadosa (Cl. Ebro, 44. 98)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Son los poetas satíricos unos testigos falsos que, donde no hay delito lo ponen, y donde hay delito, ponen más delito.»",
           "autor": "Zabaleta",
-          "referencia_obra": ", Errores celebr. (Cl. C. 169. 42). X"
+          "referencia_obra": ", Errores celebr. (Cl. C. 169. 42)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Otra vez no le consultaría nada cuando lo citaran para algo y menos creería en promesas. ¿Qué era economizar un sol por cabeza de ganado al año? Ahora, tal vez sería enjuiciado como testigo falso.»",
           "autor": "Alegría",
           "referencia_obra": ", El mundo es ancho y ajeno, 7 (p. 267)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "e)",
       "definicion": "Sin intención de dañar.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Mentiroso y simulador. X",
+          "definicion": "Mentiroso y simulador.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Como diciendo, esto pasa como digo; y si decís que no, ¿quién de vosotros me probará lo contrario, o me convencerá de falso delante de Dios?»",
               "autor": "León",
-              "referencia_obra": ", Expos. de Job, 24 (BAC. 3b. 408). X"
+              "referencia_obra": ", Expos. de Job, 24 (BAC. 3b. 408)."
             },
             {
+              "marca": "X",
               "texto_cita": "«—Batricio, yo lo agradezco; | Falso y lisonjero estás; | Mas si tus rayos me das, | Por ti ser luna merezco.»",
               "autor": "Tirso",
               "referencia_obra": ", El burlador de Sevilla (Cl. C. 2. 243)."
             },
             {
+              "marca": "",
               "texto_cita": "«careciendo de aquellas | Virtudes que no supiste | Darla, aparentó tenerlas. | La hiciste hipócrita y falsa; | Así que adquirió destreza | Para engañar a su padre, | Le engañó de tal manera, | Que sólo cuando más vicios | Tuvo, la creyó perfecta.»",
               "autor": "Mor.",
-              "referencia_obra": "La mojig. 1. 1 (Obr. dramát. y lír. 2. 17). X"
+              "referencia_obra": "La mojig. 1. 1 (Obr. dramát. y lír. 2. 17)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El Ministro de Su Majestad Católica, falso y declamatorio, estrechó las manos del ilustre gachupín.»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Tirano Banderas, 6. 2. 4 (p. 158)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mas vergüença mi enemiga, | Y el miedo couarde y falso, | Para que no salga libre, | Quieren que muera callando.»",
                   "autor": "Ledesma",
                   "referencia_obra": ", Al Santísimo Sacramento, 1 (Conceptos, 1. 159)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Diminutivo. met. X",
+              "definicion": "Diminutivo. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Pues a quien no hará reír | Verle mondar --- | Y muy falsito [el tiempo] ponerse, | Como que juega a las damas, | Unas sopla, y otras come, | Negras unas y otras blancas?»",
                   "autor": "Quev.",
-                  "referencia_obra": "Musa 6, rom. 80 (R. 69. 2152). X"
+                  "referencia_obra": "Musa 6, rom. 80 (R. 69. 2152)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Siempre me persigue el agua! | ¡Qué falsita que se ríe | Entre arena y guijas blancas, | Brindis haciendo a los ojos, | Y luego en unas tercianas | Huirá de un hombre mil leguas | Por no ayudarle!»",
                   "autor": "Lope",
                   "referencia_obra": ", El truhán del cielo (R. 187. 3852)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Simulado, calificando actitudes y acciones en que se pretende engañar, pero no necesariamente causar daño al prójimo. X",
+          "definicion": "Simulado, calificando actitudes y acciones en que se pretende engañar, pero no necesariamente causar daño al prójimo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Espera Tirsis, y ellos [los ojos] con piadosos | Pero falsos descuydos dexan verse.»",
               "autor": "F. de la Torre",
-              "referencia_obra": ", Poes. (Cl. C. 124. 56). X"
+              "referencia_obra": ", Poes. (Cl. C. 124. 56)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Desde aquel momento todo fue ruido y movimiento allí. La doncella que entraba y salía ---; la entrada de Manolo; sus cien preguntas impertinentes; sus cánticos inaguantables a la sordina; la lluvia de cumplidos falsos de él y de su madre conmigo.»",
               "autor": "Pereda",
-              "referencia_obra": ", Pedro Sánchez (Cl. C. 145. 147). X"
+              "referencia_obra": ", Pedro Sánchez (Cl. C. 145. 147)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Al Magistral no le podía tragar, pero temía su influencia en las casas nobles y le trataba con fingida franqueza y amabilidad falsa.»",
               "autor": "Clarín",
-              "referencia_obra": ", La Regenta, 12 (Cl. Castal. 110. 428). X"
+              "referencia_obra": ", La Regenta, 12 (Cl. Castal. 110. 428)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cruda claridad mostrábale ahora las sinuosidades hipócritas de su propia conducta, el olvido total del deber, las falsas confesiones a los pies del ministro de Dios.»",
               "autor": "Larreta",
-              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 100). X"
+              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 100)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Seguros por día | —Hoy, nada más que hoy— | De que los \"no\" eran falsos, | Apariencias, retrasos, | Cortezas inocentes. | Y que estaba detrás, | Despacio, madurándose, --- la gran delicia: el sí.»",
               "autor": "Salinas",
               "referencia_obra": ", La voz (Cl. Castal. 2. 67)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Falsa risa: es la que se hace fingiendo agrado o como manifestación de socarronería.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Allí acude el temor contino, la desesperación ordinaria, las agudas sospechas, los pensamientos varios, la solicitud sin provecho, la falsa risa y el verdadero llanto.»",
               "autor": "Cerv.",
-              "referencia_obra": "Gal. 4 (Cl. C. 155. 50). X"
+              "referencia_obra": "Gal. 4 (Cl. C. 155. 50)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Por qué con falsa risa | Me preguntáis, amigos, | El número de lustros que cumplí?»",
               "autor": "Mor.",
-              "referencia_obra": "oda 5 (R. 2. 5891). X"
+              "referencia_obra": "oda 5 (R. 2. 5891)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Trabajando un Gusano su capullo, | La Araña, que tejía a toda prisa, | De esta suerte le habló con falsa risa, | Muy propia de su orgullo: | \"¿Qué dice de mi tela el seor gusano?»",
               "autor": "",
-              "referencia_obra": "T. Iriarte, Poes. (Cl. C. 136. 8). X"
+              "referencia_obra": "T. Iriarte, Poes. (Cl. C. 136. 8)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Glosester, sacando fuerzas de flaqueza se levantó, tendió la mano a doña Rufina, y salió diciendo chistes y prodigando risas falsas.»",
               "autor": "Clarín",
               "referencia_obra": ", La Regenta, 13 (Cl. Castal. 110. 483)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Con de, para indicar con qué se simula. X",
+          "definicion": "Con de, para indicar con qué se simula.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Falso de sonrisa y con secreta alarma, acudió el palaciego.»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Viva mi dueño, 5. 26 (p. 203)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Califica afirmaciones reñidas con la verdad, conscientemente engañosas, pero no destinadas a dañar al prójimo. X",
+          "definicion": "Califica afirmaciones reñidas con la verdad, conscientemente engañosas, pero no destinadas a dañar al prójimo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y dice delante de Dios con particular advertencia, que es tribunal de verdad, porque en el suyo de estos amigos y en el juicio que hacían, esta su razón de Job condenada estaba por falsa, y él lo entendía.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 24 (BAC. 3b. 408)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mirad, señor mono, que este caballero quiere saber si ciertas cosas que le pasaron en una cueva llamada de Montesinos, si fueron falsas o verdaderas ---. El mono dice que parte de las cosas que vuesa merced vio o pasó en la dicha cueva, son falsas, y parte verisímiles.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 25 (R. 1. 4591). X"
+              "referencia_obra": "Quij. 2. 25 (R. 1. 4591)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La cosa más alabada del mundo es la pobreza, y la más aborrecida. --- O la alabanza es falsa, o el aborrecimiento es injusto.»",
               "autor": "Zabaleta",
               "referencia_obra": ", Día de fiesta, 2. 12 (Cl. Castal. 130. 469)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Porque como lo malo no puede ser amado por sí, ansí ni creído lo falso, si trae el rostro descubierto; por donde a ambos les es necesario el cubrirlo, a lo malo, con colores de bien, y a lo falso con apariencias de verdad.»",
                   "autor": "León",
                   "referencia_obra": ", Expos. de Job, (BAC. 3b. 373)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -500,219 +612,315 @@
     {
       "id": "2",
       "definicion": "Califica a objetos y a acciones al servicio del engaño.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Se aplica a las cosas que sirven para engañar.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Que no del vano afeite con la infamia | Y la falsa blancura contrahecha | Enamoró Hipodamia | A su frigio marido sin sospecha.»",
               "autor": "Lope",
-              "referencia_obra": ", Arcadia, 2 (R. 38. 741). X"
+              "referencia_obra": ", Arcadia, 2 (R. 38. 741)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Porque a la sombra de la manquedad fingida y de la llaga falsa andan los brazos ladrones y la salud borracha.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 51 (Cl. C. 19. 289)."
             },
             {
+              "marca": "",
               "texto_cita": "«En este monte, enseñando | A las aves y a los peces | Naturales desengaños; | Donde líquidos espejos | Están la cara mostrando | A la verdad sin lisonja, | Segura de afeites falsos.»",
               "autor": "Tirso",
-              "referencia_obra": ", La prudencia en la mujer, 3. 6 (NBAE. 5. 3021). X"
+              "referencia_obra": ", La prudencia en la mujer, 3. 6 (NBAE. 5. 3021)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Qué libelos infamatorios, qué manifiestos falsos, qué fingidos Parnasos, qué pasquines maliciosos no se han esparcido contra la monarquía de España?»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 10. 12 (Cl. C. 76. 120)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Llave falsa, la que se fabrica maliciosamente para realizar un hurto u otro delito. X",
+              "definicion": "Llave falsa, la que se fabrica maliciosamente para realizar un hurto u otro delito.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El uno vea el popular tumulto | Romper con furia las herradas puertas, | O al sobornado siervo el hierro oculto; | El otro, sus riquezas descubiertas | Con llave falsa o con violento insulto: | Y déjale al Amor sus glorias ciertas.»",
                   "autor": "L. Argens.",
-                  "referencia_obra": "Rimas (Cl. C. 173. 51). X"
+                  "referencia_obra": "Rimas (Cl. C. 173. 51)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Con tal determinación tendió sus redes en demanda de buscar dinero. Púdole haber a las manos a costa de ganzúas y llaves falsas.»",
                   "autor": "",
-                  "referencia_obra": "Luque Faxardo, Desengaño juegos, 1. 1 (Cl. Esp. 17. 46). X"
+                  "referencia_obra": "Luque Faxardo, Desengaño juegos, 1. 1 (Cl. Esp. 17. 46)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Embustero, | Cesa, y pues por un paraje | Don Hipólito entra en casa, | Yo he de ir por otro; la llave | Falsa me da.»",
                   "autor": "Cañizares",
-                  "referencia_obra": ", Abogar por su ofensor, 2 (R. 49. 5612). — met. X"
-                },
+                  "referencia_obra": ", Abogar por su ofensor, 2 (R. 49. 5612)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Dirá que no quise | Candados que cierren, | Sino falsas llaves, | --- Mudanza y desdenes.»",
-                  "autor": "",
-                  "referencia_obra": "Liñán de Riaza, rom. La niña morena (Poes. de la Edad de Oro, 2; Cl. Castal. 136. 28). X"
-                },
-                {
-                  "texto_cita": "«Y si queréis otros renombres que más descubren sus efetos dañosos, advertid que este oficio es sanguijuela de la salud, polilla de buena ropa, llave falsa de los escritorios.»",
-                  "autor": "",
-                  "referencia_obra": "Luque Faxardo, Desengaño juegos, 2. 1 (Cl. Esp. 17. 189)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Dirá que no quise | Candados que cierren, | Sino falsas llaves, | --- Mudanza y desdenes.»",
+                      "autor": "",
+                      "referencia_obra": "Liñán de Riaza, rom. La niña morena (Poes. de la Edad de Oro, 2; Cl. Castal. 136. 28)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y si queréis otros renombres que más descubren sus efetos dañosos, advertid que este oficio es sanguijuela de la salud, polilla de buena ropa, llave falsa de los escritorios.»",
+                      "autor": "",
+                      "referencia_obra": "Luque Faxardo, Desengaño juegos, 2. 1 (Cl. Esp. 17. 189)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Moneda falsa, cuarto falso y otras expresiones similares: designan la moneda que maliciosamente se hace imitando la legítima. X",
+              "definicion": "Moneda falsa, cuarto falso y otras expresiones similares: designan la moneda que maliciosamente se hace imitando la legítima.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«—A escribir de otra suerte —dijo don Quijote—, no fuera escribir verdades, sino mentiras; y los historiadores que de mentiras se valen habían de ser quemados, como los que hacen moneda falsa.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 3 (Cl. C. 13. 78). X"
+                  "referencia_obra": "Quij. 2. 3 (Cl. C. 13. 78)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Poco valieran | Si con vos lo mismo hicieran [haceros cuartos]; | Que no pasan cuartos falsos.»",
                   "autor": "Tirso",
-                  "referencia_obra": ", La prudencia en la mujer, 3. 10 (NBAE. 5. 3043). X"
+                  "referencia_obra": ", La prudencia en la mujer, 3. 10 (NBAE. 5. 3043)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Es un gusto oírles hablar de matemáticas, física moderna, historia natural, derecho de gentes, antigüedades y letras humanas, a veces con más recato que si hiciesen moneda falsa.»",
                   "autor": "Cadalso",
-                  "referencia_obra": ", Cartas marr. (Cl. C. 112. 75). X"
+                  "referencia_obra": ", Cartas marr. (Cl. C. 112. 75)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Se trataba de un duro falso.»",
                   "autor": "Clarín",
-                  "referencia_obra": ", La Regenta, 6 (Cl. Castal. 110. 252). — met. X"
+                  "referencia_obra": ", La Regenta, 6 (Cl. Castal. 110. 252)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡Era la más ridícula falsificación que pueda imaginarse de todo lo culto, elevado y noble, y mi pobre Diego, que no conocía sino de oídas las verdaderas grandezas sociales, había tomado por de buena ley aquella moneda falsa, y estaba orgullosísimo de su adquisición!»",
+                      "autor": "Alarcón",
+                      "referencia_obra": ", El escándalo (Cl. C. 178. 92)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La gloria se parece al amor; los aplausos suenan a besos. ¿No es verdad? Pero son su moneda falsa.»",
+                      "autor": "Benavente",
+                      "referencia_obra": ", El marido de la Téllez, 19 (Obr. complet. 193)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¡Era la más ridícula falsificación que pueda imaginarse de todo lo culto, elevado y noble, y mi pobre Diego, que no conocía sino de oídas las verdaderas grandezas sociales, había tomado por de buena ley aquella moneda falsa, y estaba orgullosísimo de su adquisición!»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", El escándalo (Cl. C. 178. 92). X"
-                },
-                {
-                  "texto_cita": "«La gloria se parece al amor; los aplausos suenan a besos. ¿No es verdad? Pero son su moneda falsa.»",
-                  "autor": "Benavente",
-                  "referencia_obra": ", El marido de la Téllez, 19 (Obr. complet. 193). — En el siguiente ejemplo se designa la actividad del monedero falso. X"
-                },
-                {
-                  "texto_cita": "«De donde, como hubiese pasado a Sevilla, después de hacerse espadero, murió quemado por moneda falsa, acabando su mala vida con infamia.»",
-                  "autor": "",
-                  "referencia_obra": "Luque Faxardo, Desengaño juegos, 1. 7 (Cl. Esp. 17. 99)."
+                  "id_limpio": "—",
+                  "definicion": "En el siguiente ejemplo se designa la actividad del monedero falso.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«De donde, como hubiese pasado a Sevilla, después de hacerse espadero, murió quemado por moneda falsa, acabando su mala vida con infamia.»",
+                      "autor": "",
+                      "referencia_obra": "Luque Faxardo, Desengaño juegos, 1. 7 (Cl. Esp. 17. 99)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Monedero falso: el que fabrica moneda falsa o le da curso subrepticiamente a la moneda falsa. X",
+              "definicion": "Monedero falso: el que fabrica moneda falsa o le da curso subrepticiamente a la moneda falsa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Su oficio [el de Sócrates] había sido cantero, su opinión primera de monedero falso, su conciencia no tan sosegada que no le obligase a dejar su tierra y su discreción muy desembarazada.»",
                   "autor": "Zabaleta",
-                  "referencia_obra": ", Errores celebr. (Cl. C. 169. 211). X"
+                  "referencia_obra": ", Errores celebr. (Cl. C. 169. 211)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Usted debió poner cuadros en las paredes. Sólo los asesinos o los monederos falsos son los que no tienen cuadros en las paredes.»",
                   "autor": "Mihura",
-                  "referencia_obra": ", Tres sombreros de copa (Cl. Castal. 80. 113). X"
+                  "referencia_obra": ", Tres sombreros de copa (Cl. Castal. 80. 113)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Aquel que oye durante la noche los martillos de los monederos falsos, que son solamente astrónomos activos.»",
                   "autor": "Huidobro",
-                  "referencia_obra": ", Poes. Altazor, pref. p. 20. — met. X"
-                },
+                  "referencia_obra": ", Poes. Altazor, pref. p. 20."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y al instante se volvieron las togas pellejos de culebras, y arremetiendo los unos con los otros, se trataban de monederos falsos de la verdad.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Hora de todos (Cl. Castal. 67. 77)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y al instante se volvieron las togas pellejos de culebras, y arremetiendo los unos con los otros, se trataban de monederos falsos de la verdad.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Hora de todos (Cl. Castal. 67. 77)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Peso falso o balanza del falso peso: es la balanza falseada. X",
+              "definicion": "Peso falso o balanza del falso peso: es la balanza falseada.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cayan e incurran en las penas que las leyes y los derechos y fueros disponen contra los que usan de medidas y pesos falsos.»",
                   "autor": "",
-                  "referencia_obra": "Nueva Recop. 5. 13. 1. 1 (Dicc. Autor.). X"
+                  "referencia_obra": "Nueva Recop. 5. 13. 1. 1 (Dicc. Autor.)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En cierto lugar pequeño de aquel Reyno vivía un hombre llano, cuyo caudal no passava de setenta ducados; éste tuvo modo para hazerlos moneda, y con ella se entabló en un tratillo donde, bautizando los vinos y revendiendo baratijas menudas, con falsos pesos y medidas, ganó tres mil y más.»",
                   "autor": "Césp. y Men.",
-                  "referencia_obra": "Sold. Pínd. 1. 21 (Cl. C. 202. 199). —met. X"
-                },
+                  "referencia_obra": "Sold. Pínd. 1. 21 (Cl. C. 202. 199)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Condición ordinaria es —dijo Laureano— de los pecadores, andar haciendo pesos falsos, con que aligerar el grave de sus culpas.»",
-                  "autor": "",
-                  "referencia_obra": "Luque Faxardo, Desengaño juegos, 1. 11 (Cl. Esp. 17. 123)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Condición ordinaria es —dijo Laureano— de los pecadores, andar haciendo pesos falsos, con que aligerar el grave de sus culpas.»",
+                      "autor": "",
+                      "referencia_obra": "Luque Faxardo, Desengaño juegos, 1. 11 (Cl. Esp. 17. 123)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Como extensión metafórica de la esfera semántica de moneda falsa, peso falso, el adj. que estudiamos puede tomar el sentido de No cabal, contrario a las normas o a la conveniencia. X",
+              "definicion": "Como extensión metafórica de la esfera semántica de moneda falsa, peso falso, el adj. que estudiamos puede tomar el sentido de No cabal, contrario a las normas o a la conveniencia.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si salíamos por las calles, donde quiera que ponía la mira, todo lo veía de menos quilates, falto de ley, falso, nada cabal en peso ni medida, traslado a los carniceros y a la gente de las plazas y tiendas.»",
                   "autor": "Alemán",
-                  "referencia_obra": ", Guzmán, 1. 2. 4 (Cl. C. 83. 52). X"
+                  "referencia_obra": ", Guzmán, 1. 2. 4 (Cl. C. 83. 52)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Por más que se ajuste, ha de pecar de falso y falto. Si no es bienquisto, todo se le nota; si habla, aunque bien, le llaman hablador; si poco, que es corto; si de cosas altas y delicadas, temerario.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 1. 3. 5 (Cl. C. 83. 223)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Dado falso: el que está dispuesto con tal arte, que queda con más peso por un lado que por el otro, y así cae repetidas veces del mismo modo, con lo cual ganan los fulleros a los inadvertidos. Acad. Dicc. —Echar dado falso: frase fig. y fam. engañar. X",
-              "ejemplos_citas": [
+              "definicion": "Dado falso: el que está dispuesto con tal arte, que queda con más peso por un lado que por el otro, y así cae repetidas veces del mismo modo, con lo cual ganan los fulleros a los inadvertidos. Acad. Dicc.",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Vuestra merced mire cómo habla, señor Barbero; que no es todo hacer barbas, y algo va de Pedro a Pedro. Dígalo porque todos nos conocemos, y a mí no se me ha de echar dado falso.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 47 (Cl. C. 10. 227). X"
-                },
-                {
-                  "texto_cita": "«Para mi santiguada que no me han de echar dado falso: soy perro viejo, y entiendo todo tus, tus.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 2. 33 (Cl. C. 16. 296). X"
-                },
-                {
-                  "texto_cita": "«Ni aun en los mismos padres hay que confiar, que algunos han echado dado falso a los hijos.»",
-                  "autor": "Gracián",
-                  "referencia_obra": ", Criticón, 2. 1 (Cl. C. 166. 26)."
+                  "id_limpio": "—",
+                  "definicion": "Echar dado falso: frase fig. y fam. engañar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Vuestra merced mire cómo habla, señor Barbero; que no es todo hacer barbas, y algo va de Pedro a Pedro. Dígalo porque todos nos conocemos, y a mí no se me ha de echar dado falso.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 47 (Cl. C. 10. 227)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Para mi santiguada que no me han de echar dado falso: soy perro viejo, y entiendo todo tus, tus.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 2. 33 (Cl. C. 16. 296)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ni aun en los mismos padres hay que confiar, que algunos han echado dado falso a los hijos.»",
+                      "autor": "Gracián",
+                      "referencia_obra": ", Criticón, 2. 1 (Cl. C. 166. 26)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Naipe falso: el arreglado para la trampa. X",
+              "definicion": "Naipe falso: el arreglado para la trampa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Después de haber acabado el español de cercenar naipes falsos, y el italiano de amolar huesos de muertos, para dar sepulcro con ellos a los talegos de los vivos, nos fuimos a reposar lo poco que quedaba de la noche.»",
                   "autor": "",
-                  "referencia_obra": "Esteb. Gonz. 1 (Cl. Castal. 1. 160). X"
+                  "referencia_obra": "Esteb. Gonz. 1 (Cl. Castal. 1. 160)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y el otro, que está en su aposento retirado a solas, haciendo naipe falso para ganar con ventajas, o inventando la flor nueva, --- ¡cómo si es hombre humano, le combatirán pensamientos, dándole cruda guerra!»",
                   "autor": "",
                   "referencia_obra": "Luque Faxardo, Desengaño juegos, 3. 18 (Cl. Esp. 17. 222)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -721,87 +929,107 @@
     {
       "id": "b)",
       "definicion": "Forjado a propósito para engañar.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Usan el falso oficio de hechiceros, | Ciencia a que naturalmente se inclinan, | En señales mirando y en agüeros.»",
               "autor": "Erc.",
-              "referencia_obra": "Arauc. 1 (Cl. Castal. 91. 139). X"
+              "referencia_obra": "Arauc. 1 (Cl. Castal. 91. 139)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Verás mis años perdidos, | No por deudas, por fianza, | De tus promesas discretas, | Discretas, sí, pero falsas.»",
               "autor": "Lope",
-              "referencia_obra": ", Poes. lír. (Cl. C. 68. 21). X"
+              "referencia_obra": ", Poes. lír. (Cl. C. 68. 21)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y cómo su deseo | Le estaba haciendo entonces mil engaños | Con falso devaneo | Anticipando los futuros daños, | Y con llanto fingido | Solicitando el cuidadoso oído.»",
               "autor": "L. Argens.",
-              "referencia_obra": "Rimas (Cl. C. 173. 162). X"
+              "referencia_obra": "Rimas (Cl. C. 173. 162)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y si acaso allí te saliese ocasión de casarte, —hacienda tienes con que poder hacerlo, y vivir descansada; y discreción para olvidar, con las caricias verdaderas de tu legítimo esposo, las falsas y tibias de tu amante.»",
               "autor": "Zayas",
-              "referencia_obra": ", Nov. 1 (Cl. Esp. 8. 77). X"
+              "referencia_obra": ", Nov. 1 (Cl. Esp. 8. 77)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Que no descansa de su madre en brazos | Más descuidado el candoroso infante, | Que ella en los falsos lisonjeros lazos | Que teje astuto el seductor amante.»",
               "autor": "Espronc.",
               "referencia_obra": "Estud. de Salam. (Cl. C. 47. 269)."
             },
             {
+              "marca": "",
               "texto_cita": "«El, otra vez, de la enemiga gente | El falso voto y los ardides llora, | La cólera de Aquiles vengadora, | Héctor sin vida, y Hécuba doliente.»",
               "autor": "Mor.",
               "referencia_obra": "son. Insta Dido otra vez (Obr. dramát. y lír. 3. 437)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero fue tu gloria | Para el tiempo ingrato | Doble y falso trato | Contra la memoria.»",
                   "autor": "F. de la Torre",
                   "referencia_obra": ", Poes. (Cl. C. 124. 92)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Arma falsa o rebato falso: acometimiento o ataque fingido para probar la gente o para deslumbrar al enemigo. X",
+          "definicion": "Arma falsa o rebato falso: acometimiento o ataque fingido para probar la gente o para deslumbrar al enemigo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Volviendo, pues la pluma a nuestro cuento, | Que en larga digresión me he divertido, | Digo que allí estuvimos dos semanas | Con falsas armas y esperanzas vanas.»",
               "autor": "Erc.",
-              "referencia_obra": "Arauc. 24 (Cl. Castal. 92. 185). X"
+              "referencia_obra": "Arauc. 24 (Cl. Castal. 92. 185)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Llegados a Lanjarón, por mandado del general se dio un rebato falso, porque la gente no estuviese descuidada.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granada, (Cl. Castal. 22. 393)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No había dado cuatro pasos, cuando me tocó el corazón una arma falsa.»",
                   "autor": "Alemán",
                   "referencia_obra": ", Guzmán, 1. 2. 5 (Cl. C. 83. 63)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -809,41 +1037,50 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con referencia a manifestaciones externas, simulado con dañina intenc!ón.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y lágrimas en los ojos | Asestadas, | Falsamente derramadas, | Con fingidas aficiones | O falsas indignaciones | Indignamente tomadas | Por partido.»",
               "autor": "Castillejo",
-              "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 201). X"
+              "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 201)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y aun sobre esto, | La vieja de falso gesto | Que vino con el mensaje | Pedía su corretaje | Para beberlo de puesto | Tras la lumbre.»",
               "autor": "",
-              "referencia_obra": "Id. ib. (Cl. C. 72. 217). X"
+              "referencia_obra": "Id. ib. (Cl. C. 72. 217)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El llamó a otro pastor, que debía de tener por enemigo, aunque él se lo encubría debajo de su falsa acostumbrada disimulación.»",
               "autor": "Cerv.",
-              "referencia_obra": "Gal. 1 (Cl. C. 154. 47). X"
+              "referencia_obra": "Gal. 1 (Cl. C. 154. 47)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Confesaba cosas de su alcoba, se desnudaba ante la celosía entre llantos de falso arrepentimiento.»",
               "autor": "Clarín",
               "referencia_obra": ", La Regenta, 11 (Cl. Castal. 110. 411)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Sustantivado. X",
+          "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mal fuego en su cortesía, | Que saben los hombres bien, | Para desmentir lo falso | Valerse de lo cortés.»",
               "autor": "Zayas",
               "referencia_obra": ", Nov. 3 (Cl. Esp. 7. 165)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -851,52 +1088,64 @@
     {
       "id": "c)",
       "definicion": "Califica virtudes erróneamente concebidas.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En vez de caridad, el falso celo | Armado impera, y el rencor sagrado | Forjó un infierno y el orgullo un cielo.»",
               "autor": "Olmedo",
-              "referencia_obra": ", Poes. epíst. 3 (p. 113). X"
+              "referencia_obra": ", Poes. epíst. 3 (p. 113)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La falsa ciencia, huérfana del cielo; | Trémula y suspicaz la tiranía; | La venganza, sin goce y sin consuelo; --- eso miré en su fondo, y lo contemplo | Hoy como ayer, cual ponzoñosa yerba, | Cual negra mancha y cual dañino ejemplo.»",
               "autor": "Querol",
-              "referencia_obra": ", Poes. (Cl. C. 160. 150). X"
+              "referencia_obra": ", Poes. (Cl. C. 160. 150)."
             },
             {
+              "marca": "X",
               "texto_cita": "«—Señores, ésta es la virtud antigua; no esa falsa y gárrula filantropía moderna.»",
               "autor": "Clarín",
               "referencia_obra": ", La Regenta, 5 (Cl. Castal. 110. 215)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Califica virtudes fingidas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«—Señores, vosotros estáis dudosos de que si la ciencia que yo tengo de adevinar es falsa o verdadera.»",
               "autor": "Cerv.",
-              "referencia_obra": "Pers. 3. 16 (Cl. Castal. 12. 382). X"
+              "referencia_obra": "Pers. 3. 16 (Cl. Castal. 12. 382)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡El pobre! Al pobre menosprecia el mundo. | El pobre vive mendigando el pan; | Falsa piedad o ceño furibundo, | Cual un favor le dan.»",
               "autor": "J. E. Caro",
-              "referencia_obra": ", Poes. complet. p. 51. X"
+              "referencia_obra": ", Poes. complet. p. 51."
             },
             {
+              "marca": "X",
               "texto_cita": "«Había golpes en la espalda, carcajadas de malicia, gritos de mentida indignación, de falso pudor, no por hipocresía, sino como si se tratara de un paso de comedia.»",
               "autor": "Clarín",
               "referencia_obra": ", La Regenta, 9 (Cl. Castal. 110. 350)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -904,70 +1153,86 @@
     {
       "id": "d)",
       "definicion": "Aplicado a personas, Que aparenta ser lo que no es en verdad. A veces, Disfrazado.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«—Y aun pienso que podrá Fabia | Servirte en forma de dueña, | Siendo la santa mujer | Que con su falsa apariencia | Venga a enseñarla.»",
               "autor": "Lope",
-              "referencia_obra": ", Caballero (Cl. Castal. 19. 92). X"
+              "referencia_obra": ", Caballero (Cl. Castal. 19. 92)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esto es hecho; | Adiós, fray tonto. | —Fray falso | Cojo, adiós.»",
               "autor": "",
-              "referencia_obra": "Id. El truhán del cielo (R. 187. 375 ). X"
+              "referencia_obra": "Id. El truhán del cielo (R. 187. 375 )."
             },
             {
+              "marca": "X",
               "texto_cita": "«Oh pícaros de cocina, sucios, gordos y lucios, pobres fingidos, tullidos falsos --- con toda la caterva inumerable que se encierra debajo deste nombre pícaro.»",
               "autor": "Cerv.",
               "referencia_obra": "La ilustre fregona (Cl. C. 27. 225)."
             },
             {
+              "marca": "",
               "texto_cita": "«Bien sea venido, digo, el valeroso don Quijote de la Mancha: no el falso, no el ficticio, no el apócrifo que en falsas historias estos días nos han mostrado, sino el verdadero, el legal y el fiel que nos describió Cide Hamete Benengeli, flor de los historiadores.»",
               "autor": "",
-              "referencia_obra": "Id. Quij. 2. 61 (Cl. C. 22. 130). X"
+              "referencia_obra": "Id. Quij. 2. 61 (Cl. C. 22. 130)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y porque con nuestra malicia y descuido no pretendamos adulterar la palabra de Nuestro Señor, que no puede faltar eternamente, es bien se procure y ataje que en lugar de pobres falsos anden verdaderos.»",
               "autor": "Herr.",
-              "referencia_obra": "Amparo de pobres (Cl. C. 199. 47). X"
+              "referencia_obra": "Amparo de pobres (Cl. C. 199. 47)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pasó Garduña sin verlo, y el falso Corregidor dejó su escondite y penetró en la población...»",
               "autor": "Alarcón",
               "referencia_obra": ", El sombrero de tres picos, 25 (Cl. C. 200. 125)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Se aplica igualmente a objetos que sirven para disfrazarse.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tomé Cecial acomodó sobre sus naturales narices las falsas y de máscara ya dichas, porque no fuese conocido de su compadre.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 15 (R. 1. 4341)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pseudónimo, nombre atribuido. X",
+          "definicion": "Pseudónimo, nombre atribuido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ni necesitaron los escolásticos que moros y judíos viniesen a revelarles las dulzuras de la contemplación y de la unión extáticas, puesto que, aparte de las muchas luces que podían sacar de los tratados de San Agustín, eran lectura familiar de ellos los libros De mystica Theologia y De divinis nominibus del falso Areopagita, seudónimo de algún platónico cristiano de Alejandría.»",
               "autor": "Menéndez y Pelayo",
               "referencia_obra": ", Discursos (Cl. C. 140. 25)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -975,109 +1240,134 @@
     {
       "id": "e)",
       "definicion": "En especial, forma, con términos jurídicos y comerciales, expresiones que denotan acciones o documentos engañosos: falso testimonio, falso juramento, escritura falsa, firma falsa, etc.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Hermano mío, los indicios no son capaces de castigo por sí solos. Así te pienso concluir que todas han sido consejas de horneras, mentiras y falsos testimonios levantados.»",
               "autor": "Alemán",
-              "referencia_obra": ", Guzmán, 1. 1. 1 (Cl. C. 73. 60). X"
+              "referencia_obra": ", Guzmán, 1. 1. 1 (Cl. C. 73. 60)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Por el mismo camino los nobles y caballeros se encendieron contra él en una nueva envidia; procuraban abatir al que más aína debieran imitar, armábanse para esto de calumnias y cargos falsos que le hacían.»",
               "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 9. 11 (R. 30. 2602). X"
+              "referencia_obra": ", Hist. Esp. 9. 11 (R. 30. 2602)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Está bien —respondió Sancho—; pero la libranza forzosamente se ha de firmar y esa si se traslada, dirán que la firma es falsa, y quedareme sin pollinos.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 25 (Cl. C. 6. 304). X"
+              "referencia_obra": "Quij. 1. 25 (Cl. C. 6. 304)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pedro de la Marca, en su respuesta, después de aprobar el propósito, le previno que no usase en aquella historia de testimonios falsos, como suelen hacer los españoles.»",
               "autor": "Feijóo",
-              "referencia_obra": ", Teatro crít. (Cl. C. 53. 144). X"
+              "referencia_obra": ", Teatro crít. (Cl. C. 53. 144)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El único defecto que se notaba en él era que no levantaba falsos testimonios a las naciones por donde había discurrido.»",
               "autor": "Forner",
               "referencia_obra": ", Los gramáticos (Cl. C. 168. 69)."
             },
             {
-              "texto_cita": "«éste a un escribano a hacer una escritura falsa con el fin de apropiarse ciertos bienes Clem. Elog. de Is. la Cat. ilustr. 8 (Mem. Acad. Hist. 6. 203). X",
+              "marca": "",
+              "texto_cita": "«éste a un escribano a hacer una escritura falsa con el fin de apropiarse ciertos bienes Clem. Elog. de Is. la Cat. ilustr. 8 (Mem. Acad. Hist. 6. 203).",
               "autor": "",
               "referencia_obra": ""
             },
             {
+              "marca": "X",
               "texto_cita": "«No enumeró, sino que ofreció en síntesis —y con la modestia del profano que más presiente que sabe— los peligros agazapados en el título falso, marcado por los dobleces de la meditación y el miedo, que Gálvez le había mostrado en una absurda embriaguez de desafío.»",
               "autor": "Onetti",
               "referencia_obra": ", El astillero, p. 93."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En el siguiente ejemplo, el falso equivale a falso testimonio, de acuerdo con el uso elíptico de Méjico. X",
+              "definicion": "En el siguiente ejemplo, el falso equivale a falso testimonio, de acuerdo con el uso elíptico de Méjico.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«A los Medina les levantaban el falso de haber sido espiones del general Martínez y del General Sánchez Rivera, que derrotaron a la gente de Donato Guerra y de Márquez en el punto de Tabasco, el cuatro de marzo.»",
                   "autor": "",
                   "referencia_obra": "Yáñez, Al filo del agua, p. 296."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En comparativo con valor ponderativo. X",
+              "definicion": "En comparativo con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Unos decían: El Señor le socorra y valga; otros: Bien se le emplea, pues levantaba tan falso testimonio.»",
                   "autor": "Mend.",
                   "referencia_obra": "Lazarill. 5 (R. 3. 891)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "met. X",
+          "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Que essotro es cuento de cuentos, | Dados en falsa libraza | Que lo aceta la esperança | Sobre vanos pensamientos.»",
               "autor": "Góng.",
-              "referencia_obra": "déc. Dulce musa picaril (Vicuña, fol. 158 rº ). X"
+              "referencia_obra": "déc. Dulce musa picaril (Vicuña, fol. 158 rº )."
             },
             {
+              "marca": "X",
               "texto_cita": "«Luego vino el toro, y como vio lo que pasaba, dijo, en habiendo olido: Por cierto, Señor, que os levantan falso testimonio; que no hay ámbar ni almizcle de tanta fragancia como vuestro aliento.»",
               "autor": "F. Terrones",
-              "referencia_obra": ", Instrucción (Cl. C. 126. 42). X"
+              "referencia_obra": ", Instrucción (Cl. C. 126. 42)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y aun plegue a Dios, que con verlo, | No imaginéis, al oírlo, | Que este es juramento falso, | Siendo juramento fino.»",
               "autor": "Solís",
-              "referencia_obra": ", Poes. (Cl. Hisp. 16. 185). X"
+              "referencia_obra": ", Poes. (Cl. Hisp. 16. 185)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Declaro que en aquella ocasión me infló un poco la vanidad la oferta del álbum de Luz a título de poeta, aunque me constaba que me había levantado ese falso testimonio el novio de su hermana.»",
               "autor": "Pereda",
               "referencia_obra": ", Pedro Sánchez, 15 (Cl. C. 144. 159). Id 2. b)"
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "δ )",
           "id_limpio": "δ )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1085,71 +1375,88 @@
     {
       "id": "3",
       "definicion": "No auténtico.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Que pretende ser arte verdadero, sin lograrlo.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Assí que destas dos figuras sobredichas que son redondo y quadrado hizieron los maestros antiguos estatuto: --- todo lo que fuera destas figuras sea tenido por falso y no natural.»",
               "autor": "",
-              "referencia_obra": "D. de Sagredo, Medidas del romano, p. 15. X"
+              "referencia_obra": "D. de Sagredo, Medidas del romano, p. 15."
             },
             {
+              "marca": "X",
               "texto_cita": "«Poco se adelanta con decir que es inverosímil el paisaje; que son falsos los afectos atribuídos a la gente rústica, y falsa de todo punto la pintura de sus costumbres.»",
               "autor": "Menéndez y Pelayo",
-              "referencia_obra": ", Estudios, p. 93. X"
+              "referencia_obra": ", Estudios, p. 93."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hay aún otra forma de falso estilo motivada en la misma desviación inicial de la literatura moderna entre los primeros escritores caldenses.»",
               "autor": "",
               "referencia_obra": "Mejía Duque, Ensayos, p. 23."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ahora bien, ¿qué es lo falso para los románticos? Falso es todo lo que procede de la habilidad poética: lo metafórico, lo alambicado.»",
                   "autor": "Díaz-Plaja",
-                  "referencia_obra": ", Concepto de la lit. esp. p. 136. X"
+                  "referencia_obra": ", Concepto de la lit. esp. p. 136."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sólo entonces advertí que tanto el escenario como los actores pecaban de una teatralidad excesiva y de una exageración en lo falso que me parecieron intencionales.»",
                   "autor": "Marechal",
                   "referencia_obra": ", Adán Buenosayres, 7. 6 (p. 529)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Inauténtico, con referencia a virtudes y cualidades superficiales, sin raíces ni fundamento. X",
+          "definicion": "Inauténtico, con referencia a virtudes y cualidades superficiales, sin raíces ni fundamento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En cuanto a la sobrinita, era indudable que había que cortarle aquellos arranques de falsa piedad novelesca.»",
               "autor": "Clarín",
-              "referencia_obra": ", La Regenta, 5 (Cl. Castal. 110. 233). X"
+              "referencia_obra": ", La Regenta, 5 (Cl. Castal. 110. 233)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero no por eso deja de existir potencialmente en ellas el real, el verdadero yo, capaz de revelarse y prevalecer en definitiva sobre el otro, --- si cambia el medio en que transcurre la vida, y se sale de aquel a cuyo influjo prospera la falsa personalidad a modo de una planta parásita.»",
               "autor": "Rodó",
               "referencia_obra": ", Motivos de Proteo, p. 42."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1157,88 +1464,108 @@
     {
       "id": "b)",
       "definicion": "Se aplica especialmente a objetos y materias que imitan a otros generalmente más valiosos, pero que se fabrican y venden legalmente, aunque alguna vez son medio de engaño. En general, se trata de objetos artificiales que semejan los naturales.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Porque así como hay oro verdadero y oro falso, y piedras preciosas y no lo son; así también hay bienes verdaderos y falsos; felicidad verdadera; y falsa que parece felicidad y no lo es.»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 29. 6 (R. 6. 1151)."
             },
             {
+              "marca": "",
               "texto_cita": "«De los dientes finos, | Cinco acerté a contarle; de los falsos, | Doce simulaba en la covacha [la boca].»",
               "autor": "Cerv.",
               "referencia_obra": "El rufián, Entrem. (Cl. C. 125. 37)."
             },
             {
+              "marca": "",
               "texto_cita": "«Venga mi cadena verdadera, y tómese vuestra merced su falsa, que no ha de haber conmigo transformaciones de Ovidio en tan pequeño espacio.»",
               "autor": "",
               "referencia_obra": "Id. El vizcaíno fingido, Entrem. (Cl. C. 125. 148)."
             },
             {
+              "marca": "",
               "texto_cita": "«Por eso os aviso, hermano pintor, que deis un toque a la cadena, y hagáis esperiencia de la fineza de las piedras, antes que deis vuestra hacienda, que podría ser que la cadena y las joyas fuesen falsas.»",
               "autor": "",
-              "referencia_obra": "Id. Pers. 4. 6 (Cl. Castal. 12. 439). X"
+              "referencia_obra": "Id. Pers. 4. 6 (Cl. Castal. 12. 439)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si en Madrid hay más Abates | Que galones de oro falso, ---. ¿Quién queréis que os apetezca?»",
               "autor": "R. de la Cruz",
-              "referencia_obra": ", Los hombres con juicio (Sainetes escogidos, 3. 16). X"
+              "referencia_obra": ", Los hombres con juicio (Sainetes escogidos, 3. 16)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La cama, sin embargo, pese a su estilo conventual y penitenciario era comodísima, con sus almohadas de falsa estameña.»",
               "autor": "Carpentier",
               "referencia_obra": ", El recurso, 1 (p. 11)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Piedra falsa: la natural o artificial que imita las preciosas. X",
+              "definicion": "Piedra falsa: la natural o artificial que imita las preciosas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si es falsa [la piedra], diré que fui | Engañado de un platero | En Barcelona, y que espero | Volverle a buscar allí; | Si es fina, es grande, y sospecho | Que bien valdría mil ducados.»",
                   "autor": "Lope",
-                  "referencia_obra": ", El caballero de lllescas, 2 (Obr. dramát. 4. 1231). X"
+                  "referencia_obra": ", El caballero de lllescas, 2 (Obr. dramát. 4. 1231)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mas ¿qué queréis engañarme con algunas piedras falsas?»",
                   "autor": "",
-                  "referencia_obra": "Id. El mayor imposible, 1. 10 (R. 34. 4702). X"
+                  "referencia_obra": "Id. El mayor imposible, 1. 10 (R. 34. 4702)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Qué rubíes [compiten] con esos labios; | Sin duda, zagala, que eran | Con los finos de tu boca | Falsos los de tu cabeza?»",
                   "autor": "Zayas",
-                  "referencia_obra": ", Nov. 4 (Cl. Esp. 8. 194). X"
+                  "referencia_obra": ", Nov. 4 (Cl. Esp. 8. 194)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Atiende, es muy curioso: tiene Ramona un collar de perlas falsas, que Montes como fino, y un collar de brillantes buenos, que el marido pagó como falso.»",
                   "autor": "Benavente",
                   "referencia_obra": ", Gente conocida, 3. 5 (Obr. complet. 1. 124)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pues quiero que entiendan los habladores y cizañeros de palacio, que ya que con argentería falsa pueden traer enlabiado al señor --- que al fin son descendientes de sangres alimentadas con virtud y valor de ánimo.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Vida, 18 (Cl. C. 43. 132). X"
+                  "referencia_obra": ", Vida, 18 (Cl. C. 43. 132)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Atiende mucho a este diamante [de la amistad], no falso, si al tope cuando conviene y aún haciendo punta, otras veces cuadrado y en al mohada del consejo, con muchos fondos y quilates.»",
                   "autor": "Gracián",
                   "referencia_obra": ", Criticón, 2. 2 (Cl. C. 166. 74)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1247,108 +1574,133 @@
     {
       "id": "c)",
       "definicion": "Que participando de algunos caracteres esenciales de otro objeto a cuya clase se asigna, carece de otros propios de aquél. Locuciones.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Puerta falsa: puerta secundaria que no está en la fachada principal y no pocas veces sirve para salir y entrar discretamente. X",
+          "definicion": "Puerta falsa: puerta secundaria que no está en la fachada principal y no pocas veces sirve para salir y entrar discretamente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Después que Belisa huvo dicho estas palabras y después de haver visto otras muchas sepulturas, muy riquíssimamente labradas, salieron por una puerta falsa, que en el jardín estava, al verde prado.»",
               "autor": "Montem.",
-              "referencia_obra": "Diana, p. 220. X"
+              "referencia_obra": "Diana, p. 220."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y así, sin dar parte a persona alguna de su intención y sin que nadie le viese, una mañana, antes del día, que era uno de los calurosos del mes de julio, se armó de todas sus armas, subió sobre Rocinante --- y por la puerta falsa de un corral, salió al campo.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 2 (R. 1. 2582). X"
+              "referencia_obra": "Quij. 1. 2 (R. 1. 2582)."
             },
             {
+              "marca": "X",
               "texto_cita": "«—Abierta está la puerta, y el estrado enfrente. —Esta es la falsa; que la principal cae en la otra calle que corresponde a ésta.»",
               "autor": "Lope",
-              "referencia_obra": ", La Dorotea, 2. 3 (R. 34. 161). X"
+              "referencia_obra": ", La Dorotea, 2. 3 (R. 34. 161)."
             },
             {
+              "marca": "X",
               "texto_cita": "«—Que tú, por la puerta falsa, | Abres de noche a tu amiga, | Que, mal amor, es tu amante.»",
               "autor": "Alberti",
               "referencia_obra": ", El alba (Cl. Castal. 48. 210)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Muy necio estuvo, en verdad; | Mas ¿qué discreto se lee | Que sin puerta falsa esté | De muy fina necedad?»",
                   "autor": "Lope",
                   "referencia_obra": ", El castigo del discreto, 1 (Obr. dramát. 4. 1882)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "En los siguientes ejemplos puerta falsa vale por Ano.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No acabéis de despertar mi cólera, que, si la acabo de despertar, os mataré, y os comeré, y os arrojaré por la puerta falsa dos leguas más allá del infierno.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "La guarda cuidadosa, Entrem. (Cl. C. 125. 111). X"
+                  "referencia_obra": "La guarda cuidadosa, Entrem. (Cl. C. 125. 111)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Que me agarraron, en yéndose v. m. entre seys o siete de aquellos escribas y fariseos, y me llevaron en casa del boticario y me echaron una melecina de plomo derretido, tal, que me haze venir despidiendo perdigones calientes por la puerta falsa, sin que pueda reposar un punto.»",
                   "autor": "Avell.",
                   "referencia_obra": "Quij. (Cl. C. 174. 156)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y a veces tocando con los pies en la arena, llegamos a la orilla, donde el caballo nos rució por la puerta falsa, que debía de venir acebado.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 3. 3 (Cl. C. 51. 142)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Escalera falsa: la escalera secundaria y, muchas veces, escondida. X",
+          "definicion": "Escalera falsa: la escalera secundaria y, muchas veces, escondida.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«—Baja, que Fidelfo espera; | Pues tienes en ansia igual | Escalera principal, | Deja, la falsa escalera. | —Antes lo más propio es | La falsa, pues voy a hacer | Falsedades de mujer.»",
               "autor": "Lope",
               "referencia_obra": ", Púsoseme el sol, saliome la luna, 1 (Obr. dramát. 9. 112)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Corral falso: corral provisional, alejado de las construcciones centrales de la hacienda. X",
+          "definicion": "Corral falso: corral provisional, alejado de las construcciones centrales de la hacienda.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Más le estaba gustando [el padrote] ya a Balbino para la suya, sin conocerlo todavía. E inmediatamente se encaminó al corral falso a armarle el lazo.»",
               "autor": "Gallegos",
               "referencia_obra": ", Doña Bárbara, p. 287."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Postigo falso: es una pequeña puerta falsa. X",
+          "definicion": "Postigo falso: es una pequeña puerta falsa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si la casa es grande, usan [los coimeros] postigos falsos a otra calle; si es pequeña sobornan los vecinos para saltar las paredes y tejados.»",
               "autor": "",
               "referencia_obra": "Luque Faxardo, Desengaño juegos, 3. 17 (Cl. Esp. 17. 214)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1356,59 +1708,74 @@
     {
       "id": "4",
       "definicion": "Acepciones anticuadas.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
-      "definicion": "Pusilánime, flojo. Esta acepción ha desaparecido de la lengua literaria y sólo sobrevive dialectalmente en Aragón, Navarra, Soria y Chile según Acad. Dicc. X",
+      "definicion": "Pusilánime, flojo. Esta acepción ha desaparecido de la lengua literaria y sólo sobrevive dialectalmente en Aragón, Navarra, Soria y Chile según Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Mira, falso, que no huyes | De alguna serpiente fiera, | Sino de una corderilla | Que está muy lejos de oveja.»",
           "autor": "Cerv.",
-          "referencia_obra": "Quij. 2. 57 (Cl. C. 22. 39). X"
+          "referencia_obra": "Quij. 2. 57 (Cl. C. 22. 39)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Pero en los hombres, capaces | De la divina razón, | Verás variedad, de suerte --- | Que uno es cobarde, otro fiero, | Uno limpio, otro grosero, | Uno falso y otro fuerte, | Uno altivo y otro sujeto...»",
           "autor": "Lope",
           "referencia_obra": ", El villano en su rincón, 3. 5 (Cl. C. 157. 88)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Aplícase a la caballería que tiene resabios y cocea aun sin hostigarla.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y aconséjole que no compre bestia de gitanos, porque aunque parezcan sanas y buenas, todas son falsas y llenas de dolamas.»",
               "autor": "Cerv.",
               "referencia_obra": "La ilustre fregona (Cl. C. 27. 288)."
             },
             {
+              "marca": "",
               "texto_cita": "«Las mulitas de alquiler | De ti aprendieron a falsas.»",
               "autor": "Quev.",
               "referencia_obra": "Musa 6, rom. 69 (R, 69. 2051)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sí harán, túnica alquilada; | ¡Fuera gente fregonil, | Que estoy convertido en Marte; | Mulas falsas a una parte | Con vuestro engaño sutil!»",
                   "autor": "Lope",
                   "referencia_obra": ", Los mártires de Madrid, 1 (R. 186. 2241)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1417,101 +1784,125 @@
     {
       "id": "5",
       "definicion": "Contrario a la verdad.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Por no corresponder a la realidad efectiva de las cosas o a la sana lógica de los razonamientos.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pero como las premisas son falsas, no sale la conclusión; antes al llegar al término se encuentra todo lo contrario de lo que se esperaba.»",
               "autor": "Feijóo",
-              "referencia_obra": ", Teatro crít. (Cl. C. 53. 57). X"
+              "referencia_obra": ", Teatro crít. (Cl. C. 53. 57)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los escolásticos, señor don Geta, no porque disputen mal se valen de principios falsos, lo que hacen es torcerlos, abusar de ellos, estropearlos, emplearlos en lo que no debieran.»",
               "autor": "Forner",
-              "referencia_obra": ", Los gramáticos (Cl. C. 168. 150). X"
+              "referencia_obra": ", Los gramáticos (Cl. C. 168. 150)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Podemos estar ciertos de una cosa falsa; mas no lo estaríamos si no la creyésemos verdadera.»",
               "autor": "Balmes",
-              "referencia_obra": ", Filosof. Fund. (BAC, 37. 10). X"
+              "referencia_obra": ", Filosof. Fund. (BAC, 37. 10)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Aquí lo cierto es falso, allí es dudoso, | Por lo cual sólo sé que no sé nada; | y, al fin, si el mundo real me hastía tanto, | Este mundo interior me causa espanto.»",
               "autor": "Campoamor",
-              "referencia_obra": ", Poes. (Cl. C. 40. 148). X"
+              "referencia_obra": ", Poes. (Cl. C. 40. 148)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mas lo chocante y estupendo del caso fue que M. Becquerel realizó tamaño descubrimiento (que le valió el premio Nobel) guiado por falsa hipótesis (relación etiológica entre la emisión de rayos X y la fluorescencia).»",
               "autor": "Ramón y Cajal",
-              "referencia_obra": ", Tónicos de la voluntad, 4 (p. 95). X"
+              "referencia_obra": ", Tónicos de la voluntad, 4 (p. 95)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y las consecuencias funestas de una doctrina probarán, a lo sumo, que esta doctrina es funesta, pero no que es falsa, porque falta probar que lo verdadero sea lo que más conviene.»",
               "autor": "Unamuno",
               "referencia_obra": ", Del sen. trág. de la vida, 5 (p. 80)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En grado superlativo. +",
+              "definicion": "En grado superlativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Se prueba ser falsísimo que un alma entre en algún hombre vivo.»",
                   "autor": "J. de Pineda",
-                  "referencia_obra": ", Agr. crist. 10. 24 (R. 162. 3112). +"
+                  "referencia_obra": ", Agr. crist. 10. 24 (R. 162. 3112)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«El principio fundamental del señor Batteux en su aplaudida obra que tiene por título Las bellas artes reducidas a un principio, no sólo es insuficiente, sino falsísimo.»",
                   "autor": "Arteaga",
                   "referencia_obra": ", Belleza ideal, 3 (Cl. C. 122. 47)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En grado comparativo. X",
+              "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los filósofos se hacen la ilusión de que comienzan por la duda; nada más falso; por lo mismo que piensan, afirman, cuando no otra cosa, su propia duda.»",
                   "autor": "Balmes",
-                  "referencia_obra": ", Filosof. Fund. (BAC. 37. 12). X"
+                  "referencia_obra": ", Filosof. Fund. (BAC. 37. 12)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y nada hay más falso científicamente, ni más dañino desde el punto de vista de las artes o de la política, que la suposición de que pertenecemos, por la raza, a la familia teutónica.»",
                   "autor": "",
                   "referencia_obra": "Reyes, Grata compañía, 1. 5 (p. 63)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pues este curioso es el filósofo que, para distinguir lo verdadero de lo falso en nuestros conocimientos, empieza por negar toda la verdad, toda certeza, toda razón.»",
                   "autor": "Balmes",
-                  "referencia_obra": ", Filosof. Fund. (BAC. 37. 187) X"
+                  "referencia_obra": ", Filosof. Fund. (BAC. 37. 187)"
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero ambas, verdad y falsedad, descubren una dimensión unitaria, que antes no estaba dada, y que constituye el sentido primario de la verdad como ámbito donde se dan, en alternativa, lo verdadero y lo falso.»",
                   "autor": "",
                   "referencia_obra": "J. Marías, Introd. a la filos. p. 100."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1519,72 +1910,88 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Equivocado y desorientado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Qué falsas imaginaciones o qué desdichados accidentes han sido parte para poneros donde agora estáis...?»",
               "autor": "Cerv.",
               "referencia_obra": "Gal. 5 (Cl. C. 155. 111)."
             },
             {
+              "marca": "",
               "texto_cita": "«He leído, llevado de un ocioso y falso gusto, casi el principio de todos los más que hay impresos.»",
               "autor": "",
-              "referencia_obra": "Id. Quij. 1. 47 (R. 1. 3891). X"
+              "referencia_obra": "Id. Quij. 1. 47 (R. 1. 3891)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En el [libro] primero se trata la salida que hizo Guzmán de Alfarache de casa de su madre y poca consideración de los mozos en las obras que intentan, y cómo, teniendo claros ojos, no quieren ver, precipitados de sus falsos gustos.»",
               "autor": "Alemán",
-              "referencia_obra": ", Guzmán, dedic. (Cl. C. 73. 36). X"
+              "referencia_obra": ", Guzmán, dedic. (Cl. C. 73. 36)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No será inútil prevenir que estos pensamientos de Lucano aparecen aun más falsos en la traducción de Jáuregui, el cual añadió algunos despropósitos que no hay en el original.»",
               "autor": "",
-              "referencia_obra": "Hermosilla, Arte de hablar, 1. 1 (p. 57). X"
+              "referencia_obra": "Hermosilla, Arte de hablar, 1. 1 (p. 57)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La mendiga le ve el puño cerrado y comenzó a ir por el falso camino, hacia las vastas tierras.»",
               "autor": "Uslar-Pietri",
               "referencia_obra": ", Lanzas coloradas, 11 (p. 152)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Sustantivado y con de, que indica dónde reside la equivocación. X",
+              "definicion": "Sustantivado y con de, que indica dónde reside la equivocación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Lastarria, Bello, Sanfuentes, han tenido esta vez que presentarse al público como hombres más moderados, menos utopistas, más prácticos y más cachacientos que don Manuel Montt; cosa que revela lo falso de la posición, y puede ser que un día les pese haber tomado este papel que tan mal sienta a sus juveniles años, y su ultraliberalismo.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Recuerdos de Prov. p. 150."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Paso falso: acción imprudente o equivocada. X",
+          "definicion": "Paso falso: acción imprudente o equivocada.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Sus facultades resaltaron por la diplomacia, por el acierto con que trocaba enemigos enardecidos en sinceros amigos, por la prudencia con que sin dar un paso falso mantenía ileso el buen nombre de la república, avanzando en el único camino que nos podía convenir.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 1 (p. 207)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Paso en falso: acción contraproducente. X",
+          "definicion": "Paso en falso: acción contraproducente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Al ídolo tampoco le perdona [el público] nada, ni un paso en falso ni un pase de relleno.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 267."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1592,111 +1999,136 @@
     {
       "id": "b)",
       "definicion": "Aplícase a toda clase de afirmaciones, creencias, opiniones o noticias carentes de verdad, pero sin intención de mentir.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No niego yo eso —respondió Lenio—, cuando yo entendiese que mi parecer no es justo, pero en tanto que la esperiencia y la razón no me mostraren el contrario de lo que hasta aquí me han mostrado, yo creo que mi opinión es tan verdadera cuanto la tuya falsa.»",
               "autor": "Cerv.",
-              "referencia_obra": "Gal. (Cl. C. 154. 85). X"
+              "referencia_obra": "Gal. (Cl. C. 154. 85)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De esta opinión del padre Joan Luis, a mi parecer falsa, procedió otro error, que fue el juicio que hizo de Homero y Ariosto.»",
               "autor": "Cascales",
-              "referencia_obra": ", Cartas filológ. 2 (Cl. C. 117. 35). X"
+              "referencia_obra": ", Cartas filológ. 2 (Cl. C. 117. 35)."
             },
             {
+              "marca": "X",
               "texto_cita": "«—Pues ¿esto puede ser falso | Cuando tu padre lo ha dicho: | O, siendo tú su hija, puedes Ignorarle este disinio?»",
               "autor": "Mto.",
-              "referencia_obra": "El lindo D. Diego (Cl. C. 32. 36). X"
+              "referencia_obra": "El lindo D. Diego (Cl. C. 32. 36)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En efecto,.| La tal noticia no es falsa. | —¿Qué noticia? | —La de estar | Persuadida y confiada | En que el barón ha de ser | Tu yerno...»",
               "autor": "Mor.",
-              "referencia_obra": "El barón (Obr. 1. 344). X"
+              "referencia_obra": "El barón (Obr. 1. 344)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Así el buen mozo y la bella, | Fingiendo vivo lo muerto | Y haciendo falso lo cierto, | Que eran los muertos creían, | Creyendo lo que querían.»",
               "autor": "Campoamor",
-              "referencia_obra": ", Poes. (Cl. C. 40. 108). X"
+              "referencia_obra": ", Poes. (Cl. C. 40. 108)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Como casi siempre acontece, el defecto mayor del pacifismo inglés —y, en general, de los que se presentan como titulares de pacifismo— ha sido subestimar al enemigo. Esta subestima les inspiró un diagnóstico falso.»",
               "autor": "Ortega y Gasset",
-              "referencia_obra": ", Rebel. de las masas, epíl. (p. 273. X"
+              "referencia_obra": ", Rebel. de las masas, epíl. (p. 273."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se habla a esto —aquí por lo menos— de las dificultades de locomoción, de malos alojamientos, de molestias; pero todo esto, sobre ser, cuando no falso, exagerado, no pasa de pretextos.»",
               "autor": "Unamuno",
               "referencia_obra": ", Por tierras de Port. y Esp. p. 127."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para indicar aquello en que no hay verdad. X",
+              "definicion": "Con en, para indicar aquello en que no hay verdad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«A las tradiciones falsas en materia de religión, que hemos impugnado en el Teatro, añadiremos aquí otras tres.»",
                   "autor": "Feijóo",
                   "referencia_obra": ", Teatro crít. (Cl. C. 67. 23)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Ser falso: con una prop. infinitiva que sirve de sujeto de la oración. X",
+          "definicion": "Ser falso: con una prop. infinitiva que sirve de sujeto de la oración.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Porque decir que hay bebedizos o bocados para amar, es falso.»",
               "autor": "Alemán",
-              "referencia_obra": ", Guzmán (Cl. C. 73. 86). X"
+              "referencia_obra": ", Guzmán (Cl. C. 73. 86)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Es, pues, falso decir que en la vida \"deciden las circunstancias\". Al contrario: las circunstancias son el dilema, siempre nuevo, ante el cual tenemos que decidirnos. Pero el que decide es nuestro carácter.»",
               "autor": "Ortega y Gasset",
               "referencia_obra": ", Rebel. de las masas, 5 (p. 102)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con una prop. sustantiva encabezada por que, cuanto, etc. X",
+              "definicion": "Con una prop. sustantiva encabezada por que, cuanto, etc.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Oh, cuánto nos alegra lo que dices! | En fin, ¿ha sido falso, según eso, | que se precipitó? | —Verdad ha sido.»",
                   "autor": "Jáur.",
-                  "referencia_obra": "Aminta (Cl. C. 183. 176). X"
+                  "referencia_obra": "Aminta (Cl. C. 183. 176)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«—No amigo; | Cuanto de él se diga es falso.»",
                   "autor": "A. Saav.",
                   "referencia_obra": "Don Álvaro (Cl. C. 206. 100)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Sustantivado. X",
+          "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Porque España siempre ha tenido la virtud de confundir misteriosamente, en una especie de transubstanciación, lo real y lo fingido, lo verdadero y lo falso, lo vivido y lo soñado.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 8."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1704,72 +2136,88 @@
     {
       "id": "c)",
       "definicion": "Por presentar una apariencia engañosa, desorientadora, que se valora en más de lo que merece en realidad, Aparente.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y desta manera, como los hombres carnales no hayan visto ni gustado los bienes espirituales, ni experimentado la suavidad, la dignidad, la nobleza y hermosura de ellos, precian mucho estos falsos y caudos bienes, porque no han conoscido los otros.»",
               "autor": "Gran.",
-              "referencia_obra": "Guía (Cl. C. 97. 88). X"
+              "referencia_obra": "Guía (Cl. C. 97. 88)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero el Cura, mudando el propósito primero, que era de no tocarle en cosa de caballeríia, quiso hacer de todo en todo experiencia si la sanidad de don Quijote era falsa o verdadera.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 1(Cl. C. 13. 28). X"
+              "referencia_obra": "Quij. 2. 1(Cl. C. 13. 28)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Allí mira el tulipán, que no parece flor sino ramillete. Allí la clavellina con pintas de sangre, falsas y hermosas señas de viviente.»",
               "autor": "Zabaleta",
-              "referencia_obra": ", Día de fiesta, 2. 5 (Cl. Castal. 130. 372). X"
+              "referencia_obra": ", Día de fiesta, 2. 5 (Cl. Castal. 130. 372)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Casi sin excepción, las falsas apariencias de transformación de la humanidad, se basan en dos categorías de hechos.»",
               "autor": "Marañón",
-              "referencia_obra": ", Tiempo viejo, p. 44. X"
+              "referencia_obra": ", Tiempo viejo, p. 44."
             },
             {
+              "marca": "X",
               "texto_cita": "«Todo tan quieto, con tan falsas apariencias de calma y, sin embargo, se sentía que de un momento a otro podía entrar la muerte.»",
               "autor": "Uslar-Pietri",
               "referencia_obra": ", Lanzas coloradas, 10 (p. 130)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Desorientador, despistador.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Las señas repite falsas | Del engaño a que le indujo | Su fortuna, contra quien | Ni lanza vale ni escudo.»",
               "autor": "Góng.",
-              "referencia_obra": "rom. La ciudad de Babilonia (Millé, p. 212). X"
+              "referencia_obra": "rom. La ciudad de Babilonia (Millé, p. 212)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No pueden ser tantas señas | Falsas; y más que en turbarse | Los dos, su culpa confiesan.»",
               "autor": "Rojas",
               "referencia_obra": ", Morir pensando matar (Cl. C. 153. 100)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los que se aplican a cosas sin sustancia, entran en la estimación por escalones podridos, dan algunos pasos pero caen presto. Tuvieron algún lustre, aunque falso, pero aunque falso, amable.»",
               "autor": "Zabaleta",
-              "referencia_obra": ", Errores celebr. 18 (Cl. C. 169. 89). X"
+              "referencia_obra": ", Errores celebr. 18 (Cl. C. 169. 89)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No puedo menos de lastimarme de la debilidad del juicio humano, que dejándose fácilmente deslumbrar de un falso resplandor, apenas en materia alguna acierta a mirar con ojos fijos la verdad.»",
               "autor": "Feijóo",
-              "referencia_obra": ", Teatro crít. (Cl. C. 53. 118). X"
+              "referencia_obra": ", Teatro crít. (Cl. C. 53. 118)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Naufragio de esperanzas, ruinas del bien ausente | Y sombras y terrores, el hombre, como tú, | Encubre: él, bajo el velo de su serena frente; | Tú, bajo el falso velo de tu sereno azul.»",
               "autor": "Querol",
               "referencia_obra": ", Poes. (Cl. C. 160. 156)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1777,82 +2225,101 @@
     {
       "id": "d)",
       "definicion": "Aplicado a las afirmaciones carentes de verdad y hechas con malicia o intención mayor o menor de daño.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ya que libre dejó el súbito espanto | Al embaucado Prau, que estaba fuera, | Visto el destrozo cierto, y falso cuanto | El traidor de Andresillo le dijera, | La pena y sentimiento pudo tanto | Que --- | A morir se arrojó desesperado.»",
               "autor": "Erc.",
-              "referencia_obra": "Arauc. 32. 15 (Cl. Castal. 92. 306). X"
+              "referencia_obra": "Arauc. 32. 15 (Cl. Castal. 92. 306)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No; traidoras intenciones | Como un bizarro instrumento | De ébano y marhazes | Por negar obligaciones.»",
               "autor": "Alarcón",
-              "referencia_obra": ", Las paredes oyen, 3 (Cl. C. 37. 207). X"
+              "referencia_obra": ", Las paredes oyen, 3 (Cl. C. 37. 207)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si es verdad lo que se nota en el príncipe, deshágalo con la enmienda; si es falso, por sí mismo se deshará.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 14 (Cl. C. 76. 138). X"
+              "referencia_obra": "Emp. 14 (Cl. C. 76. 138)."
             },
             {
+              "marca": "X",
               "texto_cita": "«—Tienen razón —dijo el Sabio— que todas son hablillas y todas falsas.»",
               "autor": "Gracián",
-              "referencia_obra": ", Criticón, 2. 5 (Cl. C. 166. 131). X"
+              "referencia_obra": ", Criticón, 2. 5 (Cl. C. 166. 131)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esta es mi culpa, y es lo que me abona | Si todo falso juicio se destierra; | Porque jamás fue blanco una persona | De tan injusta y tan malvada guerra.»",
               "autor": "Bello",
-              "referencia_obra": ", Poes. p. 579. X"
+              "referencia_obra": ", Poes. p. 579."
             },
             {
+              "marca": "X",
               "texto_cita": "«Circulaba ya la falsa especie de que yo ejercía fiscalización por cuenta del amo, leyenda que me puso en grandes peligros porque me granjeó muchas odiosidades.»",
               "autor": "Rivera",
               "referencia_obra": ", La vorágine, 2 (p. 153)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Sustantivado. X",
+          "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y Ansí dice graciosa y verdaderamente a sus compañeros, que son oficiales y maestros de componer mentiras y engaños con destreza y artificio; y dícelo porque juntan lo verdadero con lo falso.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 13. 4 (BAC. 3b. 240)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Falso: como respuesta, se emplea con valor casi interjectivo, para desmentir alguna afirmación malévola; X",
+          "definicion": "Falso: como respuesta, se emplea con valor casi interjectivo, para desmentir alguna afirmación malévola;",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Es cosa corriente en el lugar, que andas en la casona empeñado en una gran obra de misericordia... — ¡falso! —Bramó Marcones, lívido de ira y mirando al cura con unos ojos que parecían puñales.»",
               "autor": "Pereda",
               "referencia_obra": ", La puchera, 14 (Cl. Castal. 93. 268)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Falso de toda falsedad: completamente falso. X",
+              "definicion": "Falso de toda falsedad: completamente falso.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No es muy popular del todo + adj. (cuyo equivalente francés, puramente formal, es \"tout à fait\" --- sólo lo dicen los cultos y otro tanto ocurre con imposible de toda imposibilidad, falso de toda falsedad.»",
                   "autor": "",
                   "referencia_obra": "Beinhauer, El español coloquial, p. 268."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1861,152 +2328,187 @@
     {
       "id": "6",
       "definicion": "Inventado o ficticio.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
-      "definicion": "Por error en la percepción o en el juicio. X",
+      "definicion": "Por error en la percepción o en el juicio.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«No solamente pecan los primeros levantadores de las falsas apariciones, mas aun todos aquellos que lo publican de oídas y lo llevan de boca en boca.»",
           "autor": "Venegas",
-          "referencia_obra": ", Agonía, 4. 9 (NBAE. 16. 2051). X"
+          "referencia_obra": ", Agonía, 4. 9 (NBAE. 16. 2051)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Y si esta aventura parece apócrifa, yo no tengo la culpa; y así, sin afirmarla por falsa o verdadera, la escribo.»",
           "autor": "Cerv.",
-          "referencia_obra": "Quij. 2. 24 (Cl. C. 16. 116). X"
+          "referencia_obra": "Quij. 2. 24 (Cl. C. 16. 116)."
         },
         {
+          "marca": "X",
           "texto_cita": "«He comunicado a Nuño tu reparo sobre el punto de su historia que menos nos puede gustar, si es verdadera, y más nos haga reír si es falsa; y aun he añadido algunas reflexiones de mi propia imaginación.»",
           "autor": "Cadalso",
-          "referencia_obra": ", Cartas marr. 87 (Cl. C. 112. 280). X"
+          "referencia_obra": ", Cartas marr. 87 (Cl. C. 112. 280)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Él despreció la liviana | Inclinación de la infiel... | —¡Oh! ¿Sí? | — Y airada con él, | Vino y se vengó villana | Contando su falso fin.»",
           "autor": "Hartz.",
-          "referencia_obra": "Los amantes de Teruel, 4. 4 (Cl. C. 113. 115). X"
+          "referencia_obra": "Los amantes de Teruel, 4. 4 (Cl. C. 113. 115)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Y sobre hechos falsos, sobre detalles inventados, sobre conjeturas irracionales, se formaban, sin embargo, en muchos, una fe positiva, una esperanza robusta.»",
           "autor": "Mármol",
-          "referencia_obra": ", Amalia, 5 (p. 554). X"
+          "referencia_obra": ", Amalia, 5 (p. 554)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Su ley unió con fraternales lazos | La humanidad: rasgó la ley judía | E hizo los falsos ídolos pedazos.»",
           "autor": "Zorrilla",
           "referencia_obra": ", Poes. (Cl. C. 63. 176)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "7",
-      "definicion": "Infundado. X",
+      "definicion": "Infundado.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Del segundo género de insultos con que tienta el diablo, que son unas veces por temor y otras por falsa seguridad y confianza que el enfermo tenga de sí.»",
           "autor": "Venegas",
-          "referencia_obra": ", Agonía, 3. 9 (NBAE. 16. 1472). X"
+          "referencia_obra": ", Agonía, 3. 9 (NBAE. 16. 1472)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Mira, hermosa pastora, cuán entregado estava a sospechas falsas y dudosas imaginaciones que jamás mis palabras pudieron satisfazelle.»",
           "autor": "Montem.",
-          "referencia_obra": "Diana, p. 271. X"
+          "referencia_obra": "Diana, p. 271."
         },
         {
+          "marca": "X",
           "texto_cita": "«Pero temo que amor haga imposible | Mi muerte, y que una falsa confianza | Dé vida a mi pesar, a la memoria.»",
           "autor": "Cerv.",
-          "referencia_obra": "Gal. 3 (Cl. C. 154. 180). X"
+          "referencia_obra": "Gal. 3 (Cl. C. 154. 180)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Más que el peligro, que por ahora no es inminente, son de temer las falsas alarmas, no ya del pueblo solo, mas aun del Gobierno, que, por avisos poco seguros de reuniones y movimientos del enemigo, toma precauciones que asustan tanto por su aparato como por su precipitación.»",
           "autor": "Jovell.",
-          "referencia_obra": "Cartas (Cl. C. 129. 305). X"
+          "referencia_obra": "Cartas (Cl. C. 129. 305)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Sé poco, mas vi mucho | Y en mis tan largos días | He visto mil infamias, mil viles felonías | A muchas glorias falsas | Sirviendo de blasón.»",
           "autor": "Zorrilla",
-          "referencia_obra": ", Poes. (Cl. C. 63. 251). X"
+          "referencia_obra": ", Poes. (Cl. C. 63. 251)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Y ¿por qué todas estas cosas? por un falso y repentino entusiamo, como el que anima al comediante cuando representa un papel que le han escrito, debajo de unos hábitos que no son los suyos, y delante de unas gentes a quienes no conoce.»",
           "autor": "Pereda",
-          "referencia_obra": ", Pedro Sánchez (Cl. C. 145. 72). X"
+          "referencia_obra": ", Pedro Sánchez (Cl. C. 145. 72)."
         },
         {
+          "marca": "X",
           "texto_cita": "«¿Qué hay, Pedro? Una compañía, sí... Se ha desviado... No venía nadie detrás... Una falsa alarma... Hasta luego...»",
           "autor": "Sastre",
-          "referencia_obra": ", Escuadra hacia la muerte (Cl. Castal. 61. 112). X"
+          "referencia_obra": ", Escuadra hacia la muerte (Cl. Castal. 61. 112)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Eran dos niños; ella tenía quince años; él no llegaba a los veinte —. Se vieron y quedaron interesados sus corazones, sintiendo esa pasajera y falsa felicidad, que tantas desgracias produce en este mundo.»",
           "autor": "",
           "referencia_obra": "Yáñez, Al filo del agua, p. 85."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "8",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Inseguro.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Sin este cimiento fuerte todo el edificio va falso.»",
               "autor": "Sta. Ter.",
-              "referencia_obra": "Cam. perf. 5 (R. 53. 3261). X"
+              "referencia_obra": "Cam. perf. 5 (R. 53. 3261)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De saeta de aljófar ofendido, | Que le alcanzó con paso medio humano, | Apela el forastero inadvertido | A rayos, que divierte con la mano. | En blandos nudos de cristal prendido, | Falsos refugios solicita en vano; | Que en corte de zafiros y esmeraldas | Aun no tiene seguras las espaldas.»",
               "autor": "Espinosa",
-              "referencia_obra": ", Poes. p. 124. X"
+              "referencia_obra": ", Poes. p. 124."
             },
             {
+              "marca": "X",
               "texto_cita": "«I este mundo que le dieron para alojamiento es falso i inconstante, un campo de batalla, un teatro de nuestras tragedias.»",
               "autor": "Saav.",
-              "referencia_obra": "Rep. (Cl. C. 46.103). X"
+              "referencia_obra": "Rep. (Cl. C. 46.103)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Edificio falso, el que se fabricó sin buenos cimientos.»",
               "autor": "Covarr.",
-              "referencia_obra": "Tesoro. X"
+              "referencia_obra": "Tesoro."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿No sabes tú que casi todos los arrimos del mundo son falsos, chimeneas tras tapiz, que hasta los parientes falsean y se halla peligro en los mismos hermanos?»",
               "autor": "Gracián",
-              "referencia_obra": ", Criticón, 2. 1 (Cl. C. 166. 26). X"
+              "referencia_obra": ", Criticón, 2. 1 (Cl. C. 166. 26)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Para qué? ¿Para que al primer choque con la realidad fracasen? ¿Para que los lazos que los unan con Dios sean lazos de temor y no de amor? ¡Precaria y falsa piedad la que se asienta en terreno cenagoso!»",
               "autor": "",
               "referencia_obra": "Yáñez, Al filo del agua, p. 255."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En comparativo con valor ponderativo. X",
+              "definicion": "En comparativo con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Creen seguros los tronos, cuando están rodeados de un numeroso ejército; y no advierten que una vez colocados en posición tan falsa, es preciso que se sometan a sus resultas.»",
                   "autor": "M. de la Rosa",
                   "referencia_obra": ", Espír. del siglo, 1. 13 (5. 49)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -2014,54 +2516,75 @@
     },
     {
       "id": "b)",
-      "definicion": "Algunas veces, más que Inseguro equivale francamente a Peligroso. X",
+      "definicion": "Algunas veces, más que Inseguro equivale francamente a Peligroso.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«De pantanos procuran guarnecerse | Por el daño y temor de los caballos, | Donde suelen a veces acogerse | Si viene a suceder desbaratallos; | Allí pueden seguros rehacerse, | Ofenden sin que puedan enojallos, | Que el falso sitio y gran inconveniente | Impide la llegada a nuestra gente.»",
           "autor": "Erc.",
           "referencia_obra": "Arauc, 1 (Cl. Castal. 91. 134)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "9",
       "definicion": "Locuciones varias.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "En terminología musical.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Cuerda falsa: la que es disonante y no se puede ajustar ni templar con las demás del instrumento. X",
+          "definicion": "Cuerda falsa: la que es disonante y no se puede ajustar ni templar con las demás del instrumento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Sabéis, señor, cómo sois? | Como un bizarro instrumento | De ébano y marfil, labrado | De mano de un gran maestro, | Y todo con cuerdas falsas.»",
               "autor": "Lope",
               "referencia_obra": ", Santiago el Verde, 1. 12 (R. 34. 1963)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los instrumentos mejores | Con alguna falsa cuerda | Hacen que el acento pierda | Aquella dulce armonía.»",
               "autor": "",
               "referencia_obra": "Id. El mayor imposible, 1. 7 (R. 34. 4692)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Nota falsa: nota afinada en sí misma, pero emitida cuando no le corresponde. Cfr. Gran Encicl. Larousse. — met. X",
-          "ejemplos_citas": [
+          "definicion": "Nota falsa: nota afinada en sí misma, pero emitida cuando no le corresponde. Cfr. Gran Encicl. Larousse.",
+          "marca": "",
+          "ejemplos_citas": [],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Pero el pajarillo, que debe digerir aprisa, | Tapa la palabra con una nota falsa.»",
-              "autor": "J. R. Jiménez",
-              "referencia_obra": ", Platero y yo, 9 (p. 23)."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Pero el pajarillo, que debe digerir aprisa, | Tapa la palabra con una nota falsa.»",
+                  "autor": "J. R. Jiménez",
+                  "referencia_obra": ", Platero y yo, 9 (p. 23)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -2071,27 +2594,35 @@
     {
       "id": "b)",
       "definicion": "Con nombres de algunas plantas o minerales, forma designaciones que se aplican a otras especies, a veces de familias diferentes, pero que con ellos presentan alguna similitud, siquiera superficial.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Abeto falso: Abeto del Norte o rojo, picea. Cfr. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Acacia falsa o blanca: la espinosa con hojuelas aovadas, que procede de la América Septentrional y se planta en los paseos de Europa. Cfr. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Falsa crisolita: variedad del cuarzo hialino. Cfr. Encicl. univ. ilustr.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2099,66 +2630,83 @@
     {
       "id": "c)",
       "definicion": "En otros campos.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Armas falsas: las que violan las leyes heráldicas. La más notable de estas leyes consiste en que no puede ponerse metal sobre metal ni color sobre color. Se llaman falsas, de enquerre, extrañas o a inquirir o averiguar, porque casi siempre existe un motivo histórico que justifica dicha irregularidad. Ejemplo típico de armas falsas por este concepto son las de Jerusalén: oro sobre argén. Otro precepto heráldico es que toda figura animada y todo yelmo han de ponerse de frente o mirando hacia el lado diestro; cuando miran a siniestra pueden significar bastardía. Cfr. Gran Encicl. Larousse.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Carta falsa: en algunos juegos de naipes, la que no es triunfo, o es de poco o ningún valor.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ministros son que solamente obran con la imaginación, y fulleros de los aplausos y premios ganados con cartas falsas.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 30 (Cl. C. 81. 55)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "—γ )",
           "id_limpio": "—γ )",
-          "definicion": "Costilla falsa: la que no está apoyada en el esternón. X",
+          "definicion": "Costilla falsa: la que no está apoyada en el esternón.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las 8as, 9as y 10as costillas se denominan falsas, pues no enlazan directamente con el esternón; sus respectivos cartílagos se unen entre sí y con el de la 7a. costilla.»",
               "autor": "",
               "referencia_obra": "Encicl. de Anatomía, p. 181."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Escuadra falsa: instrumento que se compone de dos reglas movibles alrededor de un eje y con el cual se trazan ángulos de diferentes aberturas. Cfr. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Falsa maestría: toda ventaja o recurso aplicados a las armas para hacerlas más peligrosas o a las armaduras para hacerlas más seguras. X",
+          "definicion": "Falsa maestría: toda ventaja o recurso aplicados a las armas para hacerlas más peligrosas o a las armaduras para hacerlas más seguras.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los arneses an de ser sin falsa maestría, sino tales como se acostumbran traer en guerra guerreada.»",
               "autor": "",
               "referencia_obra": "Tirante el Blanco, 1. 62 (Cl. C. 188. 218)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2166,84 +2714,104 @@
     {
       "id": "10. (II)",
       "definicion": "adv.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Falsamente, en falso. Un adjetivo toma fácilmente el papel de adverbio. Esto es lo que sucede también con falso en los siguientes ejemplos.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Mirad que no hay respeto que os obligue | A que en daño del alma juréis falso.»",
           "autor": "Lope",
           "referencia_obra": ", El dómine Lucas, 3. 14 (R. 24. 6321)."
         },
         {
+          "marca": "",
           "texto_cita": "«Mis enemigos me venzan | En pleitos más peligrosos | Y mi amigo más querido | Me levante testimonio, | Jure falso contra mí.»",
           "autor": "",
-          "referencia_obra": "Id. Poes. lír. (Cl. Ebro, 2. 31). X"
+          "referencia_obra": "Id. Poes. lír. (Cl. Ebro, 2. 31)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Allí supe adobar la cebada con agua caliente, que creciese un tercio, y medir falso, raer con la mano, hincar el pulpejo.»",
           "autor": "Alemán",
-          "referencia_obra": ", Guzmán, 1. 2. 1 (Cl. C. 83. 18). X"
+          "referencia_obra": ", Guzmán, 1. 2. 1 (Cl. C. 83. 18)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Quiérenlo ver los que por gallardía o por piedad necia juran falso en favor de alguno en sus pruebas.»",
           "autor": "Zabaleta",
           "referencia_obra": ", Día de fiesta, 1. 19 (Cl. Castal. 130. 278)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Locuciones adverbiales.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "A lo falso: socarronamente. X",
+          "definicion": "A lo falso: socarronamente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Comprar quiero unos antojos | Para mirar a lo sabio, | Torciendo a lo falso el labio | Y encapotando los ojos.»",
               "autor": "Lope",
-              "referencia_obra": ", El animal de Hungría, 1 (Obr. dramát. 3. 425 ). X"
+              "referencia_obra": ", El animal de Hungría, 1 (Obr. dramát. 3. 425 )."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cantó | Sobre ellos, entre unas ramas | (No es casi nada), un cuquillo |\"¡Miren qué hermoso canario!\", | Díjole el viudo al otro, | Sonriéndose a lo falso.»",
               "autor": "",
-              "referencia_obra": "Id. Tanto hagas cuanto pagues, 3 (Obr. dramát. 9. 6811) X"
+              "referencia_obra": "Id. Tanto hagas cuanto pagues, 3 (Obr. dramát. 9. 6811)"
             },
             {
+              "marca": "X",
               "texto_cita": "«—Dióme aquesta flor de azahar. | — ¿Azahar para comenzar? | —Eso dije entonces yo; | Pero ella, abriendo la rosa | O las hojas del clavel, | Mostró a lo falso por él | Una risa vergonzosa, | Y durmiéronsele al son | Los ojos.»",
               "autor": "",
-              "referencia_obra": "Id. El bobo del colegio, 1 (Obr. dramát. 11. 5112). X"
+              "referencia_obra": "Id. El bobo del colegio, 1 (Obr. dramát. 11. 5112)."
             },
             {
+              "marca": "X",
               "texto_cita": "«—Gran cuervo fue la mujer, | Que hasta el ojo le sacó. | —Si con él la enamoró, | Con él la vino a perder. | Pero ella le consolaba | Y a lo falso le decía | Que pues que lo mismo vía | Ni perdía ni ganaba.»",
               "autor": "",
-              "referencia_obra": "Id. La malcasada, 1 (Obr. dramát. 12. 5181). X"
+              "referencia_obra": "Id. La malcasada, 1 (Obr. dramát. 12. 5181)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De industria la hermosa Lisis quiso --- mudar el estilo en sus versos, porque no causase el tratar de amor ni desamor más disgusto en los dos competidores. Los cuales se miraron a lo falso.»",
               "autor": "Zayas",
               "referencia_obra": ", Nov. 4 (Cl. Esp. 8. 220)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Engañosamente. X",
+              "definicion": "Engañosamente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo estoy con mucha tristeza | De que no tratas verdad, | Porque el estilo, o me engaño, | A lo falso es aprendido | De la corte, y el vestido | Me sirue por desengaño.»",
                   "autor": "Lope",
                   "referencia_obra": ", La fortuna merecida, 11 (fol. 253)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -2251,28 +2819,43 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Armar sobre falso: armar o apuntalar en falso como hacen los malos albañiles y carpinteros. Cfr. Franciosini, Vocab.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "De falso: con intención contraria a lo que se quiere dar a entender. X",
+          "definicion": "De falso: con intención contraria a lo que se quiere dar a entender.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Porque como saben cuán poco estable es la fortuna y dinero del tahur, ofrécensele para el tiempo de la necesidad, y tocan allí luego el precio de su ofrecimiento, muchas veces hecho de falso.»",
               "autor": "",
-              "referencia_obra": "Luque Faxardo, Desengaño juegos, 1. 17 (Cl. Esp. 17. 172). X"
+              "referencia_obra": "Luque Faxardo, Desengaño juegos, 1. 17 (Cl. Esp. 17. 172)."
             },
             {
+              "marca": "X",
               "texto_cita": "«—¿A quién una empresa encargan | Que no procure cumplirla? | —Parece que habláis de falso.»",
               "autor": "Cañizares",
-              "referencia_obra": ", Picarillo en España (Dramát. post. a Lope, 2. 540). — met. La locución envite de falso: acción de envidar con poco juego, es propia del juego de naipes."
-            },
+              "referencia_obra": ", Picarillo en España (Dramát. post. a Lope, 2. 540)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Empeñéme con la promesa deste libro, hame sido forzoso seguir el envite que hice de falso.»",
-              "autor": "Alemán",
-              "referencia_obra": ", Guzmán, 1, al lector (R. 3. 186)."
+              "id_limpio": "—",
+              "definicion": "met. La locución envite de falso: acción de envidar con poco juego, es propia del juego de naipes.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Empeñéme con la promesa deste libro, hame sido forzoso seguir el envite que hice de falso.»",
+                  "autor": "Alemán",
+                  "referencia_obra": ", Guzmán, 1, al lector (R. 3. 186)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -2280,27 +2863,41 @@
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Envidar de (en) falso: envidar con poco juego, con la esperanza de que no admitirá el contrario. X",
+          "definicion": "Envidar de (en) falso: envidar con poco juego, con la esperanza de que no admitirá el contrario.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Embidar de falso, quando con pocos puntos, para amedrentar al contrario y hazerle que se eche en baraja, y pensando burlar, se suele quedar burlado queriéndole el embite.»",
               "autor": "Covarr.",
               "referencia_obra": "Tesoro."
             },
             {
+              "marca": "",
               "texto_cita": "«Dices muy bien lo que pasa; | Todas juegan a ese juego | En la calle y en su casa, | Y sólo no envida luego | Lo que de falso se pasa. | Dará cartas muchos días, | Pero serán las de Urías, | Y si os restáis a un abrazo, | Dándoos ella con el mazo | Os dejará hecho Macías.»",
               "autor": "Góng.",
-              "referencia_obra": "El doctor Carlino, 1 (Millé, p. 823). — met. Convidar a uno con una cosa, esperando que no acepte. X"
-            },
+              "referencia_obra": "El doctor Carlino, 1 (Millé, p. 823)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Sepa que a tontos como él no se pueden ofrecer los cinquenta y cinco justos; lo vno, porque ---; lo otro, porque es número de mazo, moriráse por él, como gavilán por ráuanos, y assí, no se le podrán embidar de falso; y dirá que no me descarto de mazos y descártome de él.»",
-              "autor": "Píc. Just.",
-              "referencia_obra": "2. 2. 3 (Puyol. 2. 81). X"
-            },
-            {
-              "texto_cita": "«Envidar de falso. Tomado del juego: dar muestra fingida de querer lo que otro, para engañarle y hacer su hecho y querer acometer.»",
-              "autor": "Correas",
-              "referencia_obra": ", Vocab."
+              "id_limpio": "—",
+              "definicion": "met. Convidar a uno con una cosa, esperando que no acepte.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Sepa que a tontos como él no se pueden ofrecer los cinquenta y cinco justos; lo vno, porque ---; lo otro, porque es número de mazo, moriráse por él, como gavilán por ráuanos, y assí, no se le podrán embidar de falso; y dirá que no me descarto de mazos y descártome de él.»",
+                  "autor": "Píc. Just.",
+                  "referencia_obra": "2. 2. 3 (Puyol. 2. 81)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Envidar de falso. Tomado del juego: dar muestra fingida de querer lo que otro, para engañarle y hacer su hecho y querer acometer.»",
+                  "autor": "Correas",
+                  "referencia_obra": ", Vocab."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -2309,65 +2906,88 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "En falso: con intención contraria a lo que se quiere dar a entender.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Aceté en falso el empeño --- | Dilatando su deseo | Del modo que ya se infiere | De no lograrse el efecto.»",
               "autor": "Mto.",
-              "referencia_obra": "Industrias contra finezas, 2. 6 (R. 39. 2763). X"
+              "referencia_obra": "Industrias contra finezas, 2. 6 (R. 39. 2763)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Me fuí reculando en falso | Y el poncho adelante eché | Y cuando le puso el pie | Uno medio chapetón, | De pronto le di el tirón | Y de espaldas lo largué.»",
               "autor": "J. Hernández",
-              "referencia_obra": ", Martín Fierro, 1. 9 (p. 228). X"
+              "referencia_obra": ", Martín Fierro, 1. 9 (p. 228)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Luego volvió a los mismos ataques en falso, intentando sorprender al adversario con sus fintas, amagando al vientre y tratando de herirle en la cara.»",
               "autor": "Baroja",
               "referencia_obra": ", La busca, 2. 8 (p. 111)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con referencia a acciones mentales y materiales, sin la debida seguridad, inadecuadamente, erróneamente. X",
+              "definicion": "Con referencia a acciones mentales y materiales, sin la debida seguridad, inadecuadamente, erróneamente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«De suerte que en falso agora | La tal alacena está, | Y apartándose podrá | Cualquiera pasar, señora.»",
                   "autor": "Cald.",
                   "referencia_obra": "La dama duende, 1 (Cl. C. 137. 23)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Abierto el aposento se dejaron, | Porque en falso la llave en él echaron.»",
                   "autor": "Tirso",
-                  "referencia_obra": ", La villana de Vallecas, 2. 14 (R. 5. 583). X"
+                  "referencia_obra": ", La villana de Vallecas, 2. 14 (R. 5. 583)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y si mostrarnos el error que hayas mezclado a la verdad, si hacer sonar en falso una palabra tuya, si ver donde no viste, hemos de entender que sea vencerte, Maestro, ¡[será nuestra libación] por quien te venza con honor, en nosotros!»",
                   "autor": "Rodó",
-                  "referencia_obra": ", Motivos de Proteo, p. 240. X"
+                  "referencia_obra": ", Motivos de Proteo, p. 240."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Daniel no dio su golpe en falso. El entusiasmo producido por este discurso sobrepasó a lo que él mismo había osado esperar.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 1 (p. 140)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Esta locución se emplea especialmente para referirse a las heridas que cierran sin que hayan curado efectivamente. X",
+              "definicion": "Esta locución se emplea especialmente para referirse a las heridas que cierran sin que hayan curado efectivamente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La expresión y cauterización de una herida que había cerrado en falso es comparable a las dolencias de Marta en la crisis de su tristeza.»",
                   "autor": "",
-                  "referencia_obra": "Yáñez, Al filo del agua, p. 368. — met. X"
-                },
+                  "referencia_obra": "Yáñez, Al filo del agua, p. 368."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Pero eso hubiera sido curarte en falso, sin extirpar las raíces del mal, cuando es indispensable que tú te cures solo; que andes sin compaña la gloriosa calle de la Amargura.»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", El escándalo (Cl. C. 178. 52)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pero eso hubiera sido curarte en falso, sin extirpar las raíces del mal, cuando es indispensable que tú te cures solo; que andes sin compaña la gloriosa calle de la Amargura.»",
+                      "autor": "Alarcón",
+                      "referencia_obra": ", El escándalo (Cl. C. 178. 52)."
+                    }
+                  ]
                 }
               ]
             }
@@ -2377,45 +2997,56 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Cerrar en falso: echar la la llave, cerrojo o falleba de modo que, no cebando en el cerradero o armella, se abra sin dificultad alguna. Cfr. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "Entrar en falso: taurom. dícese cuando se acomete la ejecución de una suerte y se abandona el designio sin consumarla. Cfr. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
-          "definicion": "Jurar en falso: asegurar con juramento lo que uno sabe que no es cierto. X",
+          "definicion": "Jurar en falso: asegurar con juramento lo que uno sabe que no es cierto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Causábame espanto el ver la frescura con que engañabas a los padres y a los maridos que te admitían en su hogar --- tu aptitud para mentir, para jurar en falso y para faltar a tus juramentos.»",
               "autor": "Alarcón",
               "referencia_obra": ", El escándalo, 6. 2 (Cl. C. 178. 130)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ι )",
           "id_limpio": "— ι )",
-          "definicion": "Sobre falso: lo mismo que en falso, dícese de las heridas que cierran sin verdadera cicatrización. X",
+          "definicion": "Sobre falso: lo mismo que en falso, dícese de las heridas que cierran sin verdadera cicatrización.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Ay, Iulio, que son heridas que se curan sobre falso!»",
               "autor": "Lope",
-              "referencia_obra": ", Dorotea, 3. 1 (R. 34. 203). X"
+              "referencia_obra": ", Dorotea, 3. 1 (R. 34. 203)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Laura te amaba contenta, | Que hay dignas partes en ti; | Mas heridas sobre falso | Curan y matan al fin.»",
               "autor": "",
               "referencia_obra": "Id. Obras son amores, 3 (Obr. dramát. 8. 195)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2423,100 +3054,125 @@
     {
       "id": "11",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "(III)",
       "definicion": "sust. Falsario.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y por la tercera vez le sea dado pena de falso.»",
               "autor": "",
               "referencia_obra": "Nov. recop. 5. 13. 1. 2. (Dicc. Autor.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En los dos siguientes ejemplos de Góngora, falso ha de interpretarse como Engaño, según Alemany y Selfa, Robert Jammes, con mucho acierto, observa que se trata de una metáfora tomada del juego de naipes. De acuerdo con esto, falso es la acción de envidar en falso, una treta para engañar al otro jugador y hacer que desista, perdiendo lo apostado. El ejemplo de Liñán de Riaza confirma la interpretación de Jammes. X",
+          "definicion": "En los dos siguientes ejemplos de Góngora, falso ha de interpretarse como Engaño, según Alemany y Selfa, Robert Jammes, con mucho acierto, observa que se trata de una metáfora tomada del juego de naipes. De acuerdo con esto, falso es la acción de envidar en falso, una treta para engañar al otro jugador y hacer que desista, perdiendo lo apostado. El ejemplo de Liñán de Riaza confirma la interpretación de Jammes.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En su nombre desde ahora [tu sortija] | Mi dedo la ha de guardar | Gran falso, Amor, hecho has. | Bueno está. Baste por hoy.»",
               "autor": "Góng.",
-              "referencia_obra": "Las firmezas de Isabela, 2 (Cl. Castal. 137. 155). X"
+              "referencia_obra": "Las firmezas de Isabela, 2 (Cl. Castal. 137. 155)."
             },
             {
+              "marca": "X",
               "texto_cita": "«—¿ A quién pensabais coger | Con el falso? —A una mujer. | —",
               "autor": "",
               "referencia_obra": ""
             },
             {
+              "marca": "",
               "texto_cita": "«Falsos a la falsedad?»",
               "autor": "",
-              "referencia_obra": "Id. El doctor Carlino, 2 (Millé, p. 871). X"
+              "referencia_obra": "Id. El doctor Carlino, 2 (Millé, p. 871)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y por uer si le guardan la fee dada | El padre y la marquiza, el jaque ordena | Hazerle zierto falso a su morena | Con cartas dobles i yntensión taimada.»",
               "autor": "",
               "referencia_obra": "Liñán de Riaza, son. Dejó Abarca el temido encomendada (Hill, Poes. germanesca, p. 46)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Germ. Verdugo que ajusticia a los reos. Cfr. Oudin. X",
+          "definicion": "Germ. Verdugo que ajusticia a los reos. Cfr. Oudin.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Dice a los azotes, fajas, | Y al verdugo llama falso.»",
               "autor": "",
               "referencia_obra": "rom. En Toledo en la altana (R. 16. 5952)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Pieza de la misma tela, que se pone interiormente en la parte del vestido donde la costura hace más fuerza, para que no se rompa o falsee. Cfr. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Ruedo de un vestido. Cfr. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Entre colmeneros, dícese del peón o colmena cuyo trabajo se empezó por el centro o medio de lo largo de la caja. Cfr. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
-          "definicion": "Falsa: finta, amago de golpe para tocar con otro; hácese para engañar al contrario, que acude a parar el primer golpe. X",
+          "definicion": "Falsa: finta, amago de golpe para tocar con otro; hácese para engañar al contrario, que acude a parar el primer golpe.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«San Vicente, a pesar de su destreza, sentíase vacilar ante aquella máscara cruel, toda confianza, toda vigor, toda coraje; y, por fin, temiendo que el corazón le flaqueara, hizo una falsa y envióle a Ramiro una punta derecha y veloz como un dardo.»",
               "autor": "Larreta",
               "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 230)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2524,7 +3180,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «Tu santa circuncisión | Y el ofrecer de los Reyes, | Tu muerte y resurrección, | Tu miraglosa acensión | Destruyó las falsas leyes.» Encina, Poes. lír. (Cl. Castal. 62. 80). X «Al fin, veyéndose en los días de la vejés, porque ouo verdadero conoscimiento de los gozos falsos y miserias verdaderas que este mundo da a los que en él están enbueltos, apartose dél.» Pulgar, Clar. var. (Cl. C. 49. 33). X «Mas, como somos de lodo | Y de tan falso metal, | No hallo por ningún modo | Contento en el mundo todo | A ningún hombre mortal.» D. de S. Pedro, Despr. de fortuna (Cl. C. 133. 246). X «Es muy falsa y desigual, | Y es blanda para ser dura, | Y es qual es el animal | Que tiene secreto el mal | Y pública la blandura.» Id. ib. (Cl. C. 133. 239). + «¡Oh, Señor, qué falso pregón aquel, e tan manifiestamente falso!» Crón. Álv. de Luna, 128 (p. 432). X «La causa de que él fue [acusado] es que trataua con el rey de Granada en deseruicio del rey, lo cual, sin duda, fue malicia e falsedad, segunt se mostró claro, porque aquel su secretario que, por consejo de algunos, fizo las cartas falsas, cuando fue muerto por justiçia confesó ser falsedat.» P. de Guzmán, Gener. (Cl. C. 61. 34). X «Entre muchas abusiones, | Diuersos yerros y varios, | A la fe asaz contrarios | Por falsas opiniones, | Que turban los coraçones, | Es vna la que diré: | Quien a los suenyos da fe | Como a las reuelaciones.» Id. Coplas (NBAE. 19. 5851 ). X «Senblantes temores la lengua nos lleva | A la mendaçia del adulaçión, | Assi que qualquiera fará conclusión | Que diga lo falso mas non lo que deva.» Mena, Lab. (Cl. C. 119. 54). X «Este es el resplandeciente Rayo del Sol de Justicia, por quien en ti prinçipalmente, España, la lumbre de la verdad amanesció, y la que antes estabas engañada con muchos errores de Arrianos, Acephalistas, Mahometanos y de otros falsos Prophetas, mediante la doctrina de sanct Isidoro fuiste hecha guía de Justiçia.» Arc. de Talav. Vida de S. Isid. (Cl. C. 134. 67). «Cierto es que la moneda puede ser falsa en una de dos maneras: conviene á saber, ó que la materia de que es el dinero sea de metal no puro, ó que la marca ó sello sea falsificado.» Vis. delect. 1. 2 (R. 36. 3442).\n\n— Siglo XIV: «Sería él de muy buena ventura si muriese por le vengar [a Jesu-Cristo] et por le sacar de aquella deshonra que aquella falsa gente le facía.» J. Man. C. Luc. (R. 51. 4001 ). «Ved el falso del emperador lo que me fue decir.» Id. ib. (R. 51. 3971 ). «Crió falsos falagos: él escapó peor. | Tornóse a la fiesta baylando el cantador.» Arc. de Hita (Cl. C. 17. 9). X «\"Bien así engañan munchos a otras munchas Endrinas: | El ome es engañoso e engaña sus vesinas; | Non cuydedes que so loca por oyr vuestras parlinas; | Buscat a quien engañedes con vuestras falsas espinas\".» Id. (Cl. C. 14. 236). X «Las partes cada una su abogado ascucha, | Presentaron al alcalle quál, salmón e quál, trucha, | Quál, copa, e quál, taça en poridad aducha; | Armanse çancadiella en esta falsa lucha.» Id. (Cl. C. 14. 128). X «Señor, tú que libreste a la santa Susaña, | Del falso testimonio de la falsa conpaña: | Líbrame tú, mi Dios, desta coyta tan maña, | Dame tu misericordia, tira de mí tu saña.» Id. (Cl. C. 14. 3). + «Deue ome obedesçer al seso commo a verdadero amigo, e contrastar a su voluntad commo a falso enemigo.» Zifar, 140 (p. 297). + «Otros dezían de cómmo aquellos falsos de la naue leuaron su muger [del Caballero Zifar] con grant trayción e con grant enemiga.» ib. 42 (p. 92).\n\n— Siglo Xlll: X «E quando este golpe ovo fecho el Cavallero del Cisne, començó a lamar a grandes bozes: \"Alemaña, Alemaña, de parte del Emperador\"; e rogó a los suyos que los firiessen muy de rezio, ca todos eran muertos, e vencidos los traydores falsos desleales.» Conq. de Ultr. (ICC. 51. 190). «El ome que face falsa moneda.» Fuero juzgo, 7. 6. 2 (p. 132). «E si depués de tod esto pudiere seer provado en.alguna manera que negó la verdad, sea tenudo por falso, e difamado por malo.» ib. 2. 4. 3 (p. 34). «Cobdicia te fará errar que fagas moneda falsa e que tomes el menester que non es tuyo.» Cast. e docum. 23 (R. 51. 1392). X «Este es el fuego e el pro de la tierra que ellos siempre quisieron, como malos e falsos naturales; e agora lo podedes entender en esto, ca todas las cosas porque me yo movía a facer lo que ellos querían, tíranIas ende.» Alf. X, Antol. p. 225. «Falsa prueba nin falso testigo nin falsa carta non adurá, nin usará della en juicio en aquel pleyto.» Part. 3. 11. 23 (2. 488). X «Disso el falso Iacob: \"Esti es el iudicio: | Que te cortes los miembros que facen el fornicio, | Dessent que te degüelles, farás a Dios servicio, | Que tu carne misma li farás sacrificio\".» Berc. Mil. (Cl. C. 44. 50). «Si alguno faze carta en nonbre del rey, non gelo mandando él, o alguno de los otros que dixiemos que lo pueden mandar, o lo seellen con seello falso, que semeie al del rey.» Espéc. 4. 12. 48 (O. L. 1. 274). X «Quando el arçipreste ovo aquesto oydo, | Ovo grrand alegría e tovos’ por guarydo, | Verguença non avya el falso descreydo; | Confonder cuydó a otrro, mas él fue confondydo.» Fern. Gonz. 26 (Cl. C. 8. 193). X «Enbio la Reyna a Nauarra el mandado, | Vna carta ditada con vn falso ditado.» ib. 22 (Cl. C. 128. 172). X «Mucho fue la muerte bien aurada | Por que fue restaurada, | E ssi El non muriesse, | Non es homne que Parayso houiesse; | Mas por la muerte fue él tan forçudo | Por quel diablo es vençudo: | El muerto vençió al matador | Fincó el falso por traydor.» S. M. Egipc. (RAE. 125).\n\n— Siglo Xll: «Non dizes verdad amigo ni a sennor, | Ffalsso a todos e mas al Criador.» Cid, 3387 (R. 57. 351 ). X «Ya, señor glorioso, padre que en cielo estase, | Fexist çielo e tierra --- | Salvest a santa Sussana del | Falso criminal.» ib. 342 (Cl. C. 24. 125).",
   "testimonios_latino_hispanicos": "Test. latin. hisp. «Et qui al baron dixierit --- cornudo aut falso --- pectet medio mº al renquroso.» Fuero de Madrid, año 1202 (Mem. Acad. Hist. 8. 34).",
-  "etimologia": "Etim. It. y port. falso, cat. y prov. fals, fr. faux. Del lat. falsus, part. de fallére ‘engañar’.\n\n\u0000",
+  "etimologia": "Etim. It. y port.<i> falso,</i> cat. y prov.<i> fals,</i> fr.<i> faux.</i> Del lat.<i> falsus,</i> part. de<i> fallére</i> ‘engañar’.",
   "nota": "",
   "forma": "",
   "ortografia": "",

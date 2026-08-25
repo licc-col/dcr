@@ -1,63 +1,77 @@
 {
   "lema": "FATIGAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se dividen de la siguiente manera:\n\na) cansar, agotar, perder las fuerzas a consecuencia de un exceso de trabajo (Quitar a la tierra sustancia y fertilidad: ε; Asfixiar, alterar la respiración: ζ ),\n\nb) esforzar, apremiar (Espolear, aguijar a un animal: ζ ),\n\nc) acosar, perseguir con empeño, recorrer, surcar (Repasar: β β; Referido a acciones militares, Hostigar: δ; No dar reposo, abrumar: ε ),\n\nd, fastidiar, irritar (Aplicado a los deudores, vejar: ε )\n\ne) aquejar, causar dolor o molestia física (Aplicado a las plantas, marchitar, doblegar: δ ),\n\nf) preocupar, causar aflicción o congoja,\n\ng) en metalurgia, producir fractura al metal.",
+  "introduccion": "Las acepciones se dividen de la siguiente manera:\n\na) cansar, agotar, perder las fuerzas a consecuencia de un exceso de trabajo (Quitar a la tierra sustancia y fertilidad: ε; Asfixiar, alterar la respiración: ζ ),\n\nb) esforzar, apremiar (Espolear, aguijar a un animal: ζ ),\n\nc) acosar, perseguir con empeño, recorrer, surcar (Repasar: β β; Referido a acciones militares, Hostigar: δ; No dar reposo, abrumar: ε ),\n\nd, fastidiar, irritar (Aplicado a los deudores, vejar: ε )\n\ne) aquejar, causar dolor o molestia física (Aplicado a las plantas, marchitar, doblegar: δ ),\n\nf) preocupar, causar aflicción o congoja,\n\ng) en metalurgia, producir fractura al metal.",
   "acepciones": [
     {
       "id": "a)",
       "definicion": "Cansar, agotar, perder las fuerzas a consecuencia de un exceso de trabajo (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Anduvieron sin reposar toda la noche, hasta que venido el día, por no fatigar tanto los cavallos, descansaron y comieron de algunas viandas que llevaban.»",
               "autor": "Ortúñez de Calahorra",
               "referencia_obra": ", Espejo (Cl. C. 193. 41)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Quién es aquel caballero | Que en las márgenes del Esla | El potro ardiente fatiga, | La dura lanza maneja?»",
               "autor": "Gallego",
-              "referencia_obra": ", rom. El conde de Saldaña (R. 67. 4222). X"
+              "referencia_obra": ", rom. El conde de Saldaña (R. 67. 4222)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ama sólo a Kin-Kan, hijo segundo, | Feble como las hojas desprendidas, | Que a llorar cual mujer vino a este mundo, | No a fatigar trotón ni regir bridas.»",
               "autor": "Arolas",
-              "referencia_obra": ", Poes. (Cl. C. 95. 278). X"
+              "referencia_obra": ", Poes. (Cl. C. 95. 278)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Lo que hay de cierto es que muchos se movían, y gritaban mucho, siendo su punto de reunión general, después de fatigar sus caballos y sus pulmones, la casa del héroe vivo y de la heroína muerta.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 5 (p. 518)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con un gerundio para señalar el modo. Obsérvese la exageración. X",
+              "definicion": "Con un gerundio para señalar el modo. Obsérvese la exageración.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los sabios eran Atletas. Un hombre que conocía ocho o diez idiomas podía fatigar a un cuadrúpedo caminando al paso con él.»",
                   "autor": "Sanín Cano",
                   "referencia_obra": ", El humanismo, p. 10."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con por, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Fatigole por el campo, | I después que le cansó | Manso se dejó coger.»",
                   "autor": "Garcil.",
                   "referencia_obra": "Obr. 1 (p. 267)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -65,435 +79,613 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Siendo el sujeto la actividad.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si los trabajos y miserias le fatigan y cansan, y le hacen desmayar, aquí halla esfuerzo, sufrimiento y aliento.»",
               "autor": "Rivad.",
-              "referencia_obra": "Flos. SS. Smo. Sacr. (Vida de Cristo, 366). X"
+              "referencia_obra": "Flos. SS. Smo. Sacr. (Vida de Cristo, 366)."
             },
             {
+              "marca": "X",
               "texto_cita": "«—¡Y Juan? —Reposa —¡A esta hora? | —Le fatigó la jornada.»",
               "autor": "García Gutiérrez",
-              "referencia_obra": ", Juan Lorenzo, 3. 3 (Cl. C. 65. 235). X"
+              "referencia_obra": ", Juan Lorenzo, 3. 3 (Cl. C. 65. 235)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y todas las actividades | No lleguen nunca a fatigarme; | ¡Las magnas prodigalidades | Salgan de mí sin agotarme!»",
               "autor": "Mistral",
               "referencia_obra": ", Antol. p. 129."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refl. Sentir el cansancio, perderse las fuerzas. X",
+          "definicion": "Refl. Sentir el cansancio, perderse las fuerzas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cuando vino el mal de Francia, y ésta fue la causa que yo quedase burlada. Y si estoy aquí lavando y fatigándome, es para me casar, que no tengo otro deseo, sino verme casada y honrada.»",
               "autor": "Delicado",
               "referencia_obra": ", La Lozana (Cl. Castal. 13. 66)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mudábanse estos correos de lugar en lugar, como los caballos de nuestras postas, y hacían mayor diligencia, porque se iban sucediendo unos a otros antes de fatigarse con que duraba sin cesar el primer ímpetu de la carrera.»",
               "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 2. 2 (R. 28. 2332). X"
+              "referencia_obra": ", Conq. de Méj. 2. 2 (R. 28. 2332)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El exceso puede considerarse, no sólo en la cantidad, mas también en las circunstancias. En la cantidad excede el que estudia hasta fatigarse mucho.»",
               "autor": "Feijóo",
-              "referencia_obra": ", Teatro crít. (Cl. C. 48. 175). X"
+              "referencia_obra": ", Teatro crít. (Cl. C. 48. 175)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Mucho trabajo de éste!... Y como hoy aprieta el calor, me fatigo, y me rindo, y no puedo más.»",
               "autor": "Mor.",
-              "referencia_obra": "El médico a palos, 1. 1 (R. 2. 4611). X"
+              "referencia_obra": "El médico a palos, 1. 1 (R. 2. 4611)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Haga usted que toda esa gente se acueste; la cosa puede ser larga, y no es bueno que se fatiguen tanto.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 4 (p. 461). X"
+              "referencia_obra": ", Amalia, 4 (p. 461)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Obedeciendo a su indolencia, que le hacía penoso el diario viaje de ida y vuelta entre la casa y la tienda, a horas intempestivas y peligrosas, porque aunque la distancia era corta se fatigaba mucho y además la noche era tenebrosa y poblada de fantasmas.»",
               "autor": "Osorio Lizarazo",
-              "referencia_obra": ", El camino en la sombra, p. 80. X"
+              "referencia_obra": ", El camino en la sombra, p. 80."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tenía necesidad de fatigarse, de descargar la fuerza. El tema del amo tornaba a molestarlo. Todo el vigor que ardía dentro de su carne estaba contenido y mandado por el cobardón de don Fernando. Se sentía ebrio de fuerza.»",
               "autor": "Uslar-Pietri",
-              "referencia_obra": ", Lanzas coloradas, 7 (p. 76). — Se aplica a una parte de la persona."
-            },
+              "referencia_obra": ", Lanzas coloradas, 7 (p. 76)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«¡Oh Redentor mío, que no puede mi corazón llegar aquí sin fatigarse mucho!»",
-              "autor": "Sta. Ter.",
-              "referencia_obra": "Cam. perf. 1 (R. 53. 3182)."
-            },
-            {
-              "texto_cita": "«Cuando el poeta por apresurarse a instruir cuanto antes a los lectores, los abruma de una vez con un cúmulo de datos y noticias, cánsase la memoria, la atención se fatiga.»",
-              "autor": "M. de la Rosa",
-              "referencia_obra": ", Arte poétic. de Hor. nota 15 (1. 300). X"
-            },
-            {
-              "texto_cita": "«He ahí las diversas expresiones de todo aquel blasonado granito que sus ojos contemplaban sin fatigarse.»",
-              "autor": "Larreta",
-              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 115)."
+              "id_limpio": "—",
+              "definicion": "Se aplica a una parte de la persona.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«¡Oh Redentor mío, que no puede mi corazón llegar aquí sin fatigarse mucho!»",
+                  "autor": "Sta. Ter.",
+                  "referencia_obra": "Cam. perf. 1 (R. 53. 3182)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Cuando el poeta por apresurarse a instruir cuanto antes a los lectores, los abruma de una vez con un cúmulo de datos y noticias, cánsase la memoria, la atención se fatiga.»",
+                  "autor": "M. de la Rosa",
+                  "referencia_obra": ", Arte poétic. de Hor. nota 15 (1. 300)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«He ahí las diversas expresiones de todo aquel blasonado granito que sus ojos contemplaban sin fatigarse.»",
+                  "autor": "Larreta",
+                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 115)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y Tonet, animado por las palabras de su padre, entregábase al trabajo con verdadera rabia. La pobre Borda se fatigaba a su lado más aún que yendo con el tío Toni.»",
                   "autor": "",
                   "referencia_obra": "Blasco Ibáñez, Cañas y barro, 7 (p. 149)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con ante. X",
+              "definicion": "Con ante.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La imaginación se fatiga ante el futuro de este prodigio nacional, que deja atrás todas las realidades pasadas en materia de grandeza física, económica, política y social.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 4 (p. 201)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con bajo. X",
+              "definicion": "Con bajo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Entonces lanzáronse los caballos sobre el desbande, por encima de jarales y comejeras, con vertiginosa celeridad, y los fugitivos se fatigaron bajo el zumbido de las lazadas, que abiertas cruzaban el viento para caerles en los \"cachos\".»",
                   "autor": "Rivera",
                   "referencia_obra": ", La vorágine, 1 (p. 88)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con de, para señalar la causa. X",
+              "definicion": "Con de, para señalar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los perros comenzaron a fatigarse de su extenso concierto lúgubre y fueron enmudeciendo uno a uno.»",
                   "autor": "",
-                  "referencia_obra": "Osorio Lizarazo, El camino en la sombra, p. 14. X"
+                  "referencia_obra": "Osorio Lizarazo, El camino en la sombra, p. 14."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El alto comando de las guerrillas comenzó a fatigarse de la penosa campaña.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 220. — Siendo el término una prop. infinitiva. X"
-                },
+                  "referencia_obra": "Id. ib. p. 220."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Pero pongo atención en mirar, en no dejar de mirar, en pensar que miro, que al cabo de un momento mis ojos se fatigan de ver pasar constantemente el mismo tronco.»",
-                  "autor": "Carpentier",
-                  "referencia_obra": ", Los pasos perdidos, p. 286. met. X"
-                },
-                {
-                  "texto_cita": "«Y más debes quejarte | Del que empobrece tu corriente clara, | Que no del yelo, que, piadoso, viendo | Que te fatigas de ir siempre corriendo, | Porque descanses, te congela y para.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 133)."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pero pongo atención en mirar, en no dejar de mirar, en pensar que miro, que al cabo de un momento mis ojos se fatigan de ver pasar constantemente el mismo tronco.»",
+                      "autor": "Carpentier",
+                      "referencia_obra": ", Los pasos perdidos, p. 286. met."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y más debes quejarte | Del que empobrece tu corriente clara, | Que no del yelo, que, piadoso, viendo | Que te fatigas de ir siempre corriendo, | Porque descanses, te congela y para.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 133)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con en, para indicar el modo. X",
+              "definicion": "Con en, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los mismos fabricantes viajaban desde sus lejanos pueblos para vender por mayor y el comerciante no necesitaba fatigarse en exceso, ni entregarse a un duro laborar.»",
                   "autor": "Osorio Lizarazo",
                   "referencia_obra": ", El camino en la sombra, p. 51."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "ζ ζ )",
               "id_limpio": "ζ ζ )",
               "definicion": "Con por, para señalar la causa y en, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por una corona de pino, que se deshace, se fatigaban en los juegos istmios hechos en gloria de Neptuno.»",
                   "autor": "Figueroa",
                   "referencia_obra": ", Amarilis, 1 (p. 52)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«De todos escogía el duque uno, | Y entrambos de consuno cabalgaban; | Los caballos mudaban fatigados.»",
               "autor": "Garcil.",
               "referencia_obra": "Obr. 2 (Cl. C. 3. 102)."
             },
             {
+              "marca": "",
               "texto_cita": "«Fue necesario dejar reposar la gente que venía fatigada.»",
               "autor": "Coloma",
-              "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 831). X"
+              "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 831)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los hombres nada saben, y yo solamente sé que por ser mi cuerpo viejo, por estar ya fatigado, no puedo seguir en su carrera a mi alma joven aún y llena de vigor y de energía.»",
               "autor": "Ferrán",
-              "referencia_obra": ", Obr. complet. (Cl. C. 164. 137). X"
+              "referencia_obra": ", Obr. complet. (Cl. C. 164. 137)."
             },
             {
+              "marca": "X",
               "texto_cita": "«A orillas de la senda de la vida, | Ya fatigado se sentó el mancebo, | Y murmuró con voz adolorida: | \"Cansada el alma llevo\".»",
               "autor": "Silva",
-              "referencia_obra": ", El libro de versos, p. 119. X"
+              "referencia_obra": ", El libro de versos, p. 119."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los interrumpió el dueño de la posada, que entraba solemnemente con un candil de carreta suspendido en la mano a preguntarles si querían acostarse en el cuarto que les había preparado. Como estaban fatigados, aceptaron.»",
               "autor": "Uslar-Pietri",
-              "referencia_obra": ", Lanzas coloradas, 8 (p. 100). X"
+              "referencia_obra": ", Lanzas coloradas, 8 (p. 100)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mi compañera, nuevamente fatigada, descansó la cabeza sobre el hombro de la que —lo sabíamos ahora— llamábase Rosario, y escuchaba sus quejas por los quebrantos de tan incómodo viaje con una solicitud maternal.»",
               "autor": "Carpentier",
-              "referencia_obra": ", Los pasos perdidos, p. 106. — Se aplica a parte de la persona. X"
+              "referencia_obra": ", Los pasos perdidos, p. 106."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Se aplica a parte de la persona.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Cual los confusos ecos | De una lejana fuente, | En mi oído fatigado | Sus voces recibí.»",
+                  "autor": "Núñez",
+                  "referencia_obra": ", Poes. p. 124."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Por fortuna, en semejante desavío nos socorre el óptico —la Providencia del viejo— ajustando a nuestros ojos fatigados unas lentes biconvexas, que debemos cambiar con frecuencia, porque el daño se acentúa con la edad.»",
+                  "autor": "Ramón y Cajal",
+                  "referencia_obra": ", El mundo, 1. 1 (p. 27)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«La sombra de las víctimas se irguió delante de sus ojos fatigados, y la revolución fracasada del 23 de julio, que no había podido quitarle de las manos el bastón de mando.»",
+                  "autor": "Rueda Vargas",
+                  "referencia_obra": ", Lentus in umbra, p. 56."
+                }
+              ]
             },
             {
-              "texto_cita": "«Cual los confusos ecos | De una lejana fuente, | En mi oído fatigado | Sus voces recibí.»",
-              "autor": "Núñez",
-              "referencia_obra": ", Poes. p. 124. X"
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Entra en Portugal [El Tajo] a morir rindiendo sus fatigadas aguas al Atlántico!»",
+                  "autor": "Unamuno",
+                  "referencia_obra": ", Por tierras de Port. y Esp. p. 186."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Planeaban nuevos descubrimientos mientras al pie de la Torre del Oro cabeceaban, fatigadas, las naves que habían surcado el Atlántico.»",
+                  "autor": "Caballero Calderón",
+                  "referencia_obra": ", Ancha es Castilla, p. 296."
+                }
+              ]
             },
             {
-              "texto_cita": "«Por fortuna, en semejante desavío nos socorre el óptico —la Providencia del viejo— ajustando a nuestros ojos fatigados unas lentes biconvexas, que debemos cambiar con frecuencia, porque el daño se acentúa con la edad.»",
-              "autor": "Ramón y Cajal",
-              "referencia_obra": ", El mundo, 1. 1 (p. 27). X"
+              "id_limpio": "—",
+              "definicion": "En grado superlativo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Queriendo el Salvador, por sentirse muy fatigado, reposar un momento en su oficina, él, dándole un golpe, le repelió.»",
+                  "autor": "Feijóo",
+                  "referencia_obra": ", Cartas eruditas (Cl. C. 85. 84)."
+                }
+              ]
             },
             {
-              "texto_cita": "«La sombra de las víctimas se irguió delante de sus ojos fatigados, y la revolución fracasada del 23 de julio, que no había podido quitarle de las manos el bastón de mando.»",
-              "autor": "Rueda Vargas",
-              "referencia_obra": ", Lentus in umbra, p. 56. — met. X"
-            },
-            {
-              "texto_cita": "«Entra en Portugal [El Tajo] a morir rindiendo sus fatigadas aguas al Atlántico!»",
-              "autor": "Unamuno",
-              "referencia_obra": ", Por tierras de Port. y Esp. p. 186. X"
-            },
-            {
-              "texto_cita": "«Planeaban nuevos descubrimientos mientras al pie de la Torre del Oro cabeceaban, fatigadas, las naves que habían surcado el Atlántico.»",
-              "autor": "Caballero Calderón",
-              "referencia_obra": ", Ancha es Castilla, p. 296. — En grado superlativo. X"
-            },
-            {
-              "texto_cita": "«Queriendo el Salvador, por sentirse muy fatigado, reposar un momento en su oficina, él, dándole un golpe, le repelió.»",
-              "autor": "Feijóo",
-              "referencia_obra": ", Cartas eruditas (Cl. C. 85. 84). — En grado comparativo. X"
-            },
-            {
-              "texto_cita": "«Se le apareció nuestro Señor con la cruz a cuestas, tan cansado y fatigado que le dio bien a entender que no era nada el que él tenía en aquella comparación.»",
-              "autor": "Sta. Ter.",
-              "referencia_obra": "Fund. (Cl. C. 115. 144). X"
-            },
-            {
-              "texto_cita": "«El barquero me hacía mucha más lástima verle tan fatigado, que no el peligro: Nosotros a rezar, todos voces grandes.»",
-              "autor": "",
-              "referencia_obra": "Ead. ib. 24 (R. 53. 2231). X"
-            },
-            {
-              "texto_cita": "«Venía enferma y descolorida, y tan fatigada que mandó que luego luego le hiciesen la cama, y en esta misma sala se la hicieron sus criados.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Nov. (Cl. C. 27. 301)."
+              "id_limpio": "—",
+              "definicion": "En grado comparativo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Se le apareció nuestro Señor con la cruz a cuestas, tan cansado y fatigado que le dio bien a entender que no era nada el que él tenía en aquella comparación.»",
+                  "autor": "Sta. Ter.",
+                  "referencia_obra": "Fund. (Cl. C. 115. 144)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«El barquero me hacía mucha más lástima verle tan fatigado, que no el peligro: Nosotros a rezar, todos voces grandes.»",
+                  "autor": "",
+                  "referencia_obra": "Ead. ib. 24 (R. 53. 2231)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Venía enferma y descolorida, y tan fatigada que mandó que luego luego le hiciesen la cama, y en esta misma sala se la hicieron sus criados.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Nov. (Cl. C. 27. 301)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Ah, de la noche trágica me acuerdo todavía! | El ataúd heráldico en el salón yacía, | Mi oído fatigado por vigilias y excesos, | ¡Sintió como a distancia los monótonos rezos!»",
                   "autor": "Silva",
-                  "referencia_obra": ", El libro de versos, p. 59. X"
+                  "referencia_obra": ", El libro de versos, p. 59."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Quisiéramos, ya casi en el ocaso de la vida, ya fatigados por el trabajo, un descanso en uno de estos viejos pueblos.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", Riofrío, 1 (p. 13). X"
+                  "referencia_obra": ", Riofrío, 1 (p. 13)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Desconfiando de mi retentiva, harto fatigada por cincuenta años de labor ahincada, escribo rodeado de una muralla de libros, entre los cuales abundan los Diccionarios.»",
                   "autor": "Ramón y Cajal",
-                  "referencia_obra": ", El mundo, 4. 17 (p. 180). X"
+                  "referencia_obra": ", El mundo, 4. 17 (p. 180)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A las nueve no quedaba en casa sino la familia, fatigada por el trajín inesperado.»",
                   "autor": "Osorio Lizarazo",
-                  "referencia_obra": ", El camino en la sombra, p. 106. X"
+                  "referencia_obra": ", El camino en la sombra, p. 106."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Recuerdo ahora cuán agradable resulta y cuánto distrae y reposa el ánimo, fatigado por el exceso de movimiento, por la uniformidad de la civilización, topar de repente en pleno boulevar de la Magdalena con un titiritero infeliz.»",
                   "autor": "Rueda Vargas",
                   "referencia_obra": ", Lentus in umbra, p. 251."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, para señalar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Si un rey fuese por un camino, a pie y descalzo, fatigado y sudando con la aspereza del camino ---.»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Audi. 76 (2. 22). +"
+                  "referencia_obra": ", Audi. 76 (2. 22)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«La gente de Balboa, consumida y fatigada con el viaje, no estaba a propósito para el trance de una batalla.»",
                   "autor": "Quint.",
                   "referencia_obra": "Balboa (R. 19. 2931)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de, con el mismo sentido anterior. X",
+              "definicion": "Con de, con el mismo sentido anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Embarcóse así que la recibió, y fatigados de una procelosa borrasca, llegamos a Mónaco, y de allí zarpamos a la ciudad de Génova.»",
                   "autor": "",
                   "referencia_obra": "Esteb. Gonz. (Cl. C. 108. 218)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Hízose la seña de recoger, y aunque volvió fatigada la gente del largo combate, fue sin otra pérdida que la de algunos heridos.»",
                   "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 4. 17 (R. 28. 3321). X"
+                  "referencia_obra": ", Conq. de Méj. 4. 17 (R. 28. 3321)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A Burgos la de las torres, | La de yunques y martillos, | Cuyas fraguas encendidas | Son resuellos del abismo, | Fatigado de la caza | Dirige el corcel altivo | Don Enrique de Castilla.»",
                   "autor": "Arolas",
-                  "referencia_obra": ", Poes. (Cl. C. 95. 136). X"
+                  "referencia_obra": ", Poes. (Cl. C. 95. 136)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«—Supongo —intervino Inés— que usted estará fatigado del viaje; de modo que inmediatamente después de la comida se acabará la velada y podrá usted dormir.»",
                   "autor": "Uslar-Pietri",
-                  "referencia_obra": ", Lanzas coloradas, 1 (p. 19). — met. X"
+                  "referencia_obra": ", Lanzas coloradas, 1 (p. 19)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El mundo, como fatigado de tanta lucha y de tan horribles convulsiones, reposa del uno al otro confín, cumpliéndose de esta suerte en el reinado pacífico, la santa profecía del anciano Jacob al extender sus manos trémulas sobre la cabeza de Judáh.»",
+                      "autor": "Catalina",
+                      "referencia_obra": ", Roma, p. 67."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El mundo, como fatigado de tanta lucha y de tan horribles convulsiones, reposa del uno al otro confín, cumpliéndose de esta suerte en el reinado pacífico, la santa profecía del anciano Jacob al extender sus manos trémulas sobre la cabeza de Judáh.»",
-                  "autor": "Catalina",
-                  "referencia_obra": ", Roma, p. 67. — En grado superlativo. X"
+                  "id_limpio": "—",
+                  "definicion": "En grado superlativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Si alguna gracia alcanzar de ti pretendo ha de ser ésta: que me aposentes secretamente por algunos días en tu casa, a causa que vengo muy fatigado de la mar.»",
+                      "autor": "Timoneda",
+                      "referencia_obra": ", El Patrañuelo, 11 (Cl. C. 101. 111)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El Arçobispo Don Bernardo, por hallarse muy fatigado de sus muchos años, trató de renunciar la Prelacía.»",
+                      "autor": "Berg.",
+                      "referencia_obra": "Antigüed. 2. 6. 2 (p. 57)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Si alguna gracia alcanzar de ti pretendo ha de ser ésta: que me aposentes secretamente por algunos días en tu casa, a causa que vengo muy fatigado de la mar.»",
-                  "autor": "Timoneda",
-                  "referencia_obra": ", El Patrañuelo, 11 (Cl. C. 101. 111). X"
-                },
-                {
-                  "texto_cita": "«El Arçobispo Don Bernardo, por hallarse muy fatigado de sus muchos años, trató de renunciar la Prelacía.»",
-                  "autor": "Berg.",
-                  "referencia_obra": "Antigüed. 2. 6. 2 (p. 57). — Siendo el término una prop. infinitiva. X"
-                },
-                {
-                  "texto_cita": "«Ni inquieras, ni preguntes, ni festines | Los ecos de tu voz; déjame y parte | Dormiré fatigado de aguardarte, | Al abrigo del soto de jazmines.»",
-                  "autor": "Nervo",
-                  "referencia_obra": ", Poes. (Obr. complet. 2. 1344). X"
-                },
-                {
-                  "texto_cita": "«Llovían sobre él los golpes y los soportaba impasiblemente, sin reaccionar, hasta que el agresor, fatigado de dar puñetazos a aquella especie de masa inerte, se detuvo.»",
-                  "autor": "Uslar-Pietri",
-                  "referencia_obra": ", Lanzas coloradas, 3 (p. 37). X"
-                },
-                {
-                  "texto_cita": "«En la policía militar revisaron mi foja de servicio. Entonces me dieron un pasaje y me entregaron al comisario del tren. Y aquí estoy... —se calló como fatigado de haber hablado tanto de una sola vez.»",
-                  "autor": "Roa",
-                  "referencia_obra": "Bastos, Hijo de hombre, p. 383."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ni inquieras, ni preguntes, ni festines | Los ecos de tu voz; déjame y parte | Dormiré fatigado de aguardarte, | Al abrigo del soto de jazmines.»",
+                      "autor": "Nervo",
+                      "referencia_obra": ", Poes. (Obr. complet. 2. 1344)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Llovían sobre él los golpes y los soportaba impasiblemente, sin reaccionar, hasta que el agresor, fatigado de dar puñetazos a aquella especie de masa inerte, se detuvo.»",
+                      "autor": "Uslar-Pietri",
+                      "referencia_obra": ", Lanzas coloradas, 3 (p. 37)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En la policía militar revisaron mi foja de servicio. Entonces me dieron un pasaje y me entregaron al comisario del tren. Y aquí estoy... —se calló como fatigado de haber hablado tanto de una sola vez.»",
+                      "autor": "Roa",
+                      "referencia_obra": "Bastos, Hijo de hombre, p. 383."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Part. adj. X",
+              "definicion": "Part. adj.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Afuera, soledad, y los tormentos | Sentidos a su causa, y dexen d´esto | Mis fatigados miembros muy essentos.»",
                   "autor": "Montem.",
                   "referencia_obra": "Diana, 5 (Cl. C. 127. 251)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ofrézcote aquel cansancio doloroso de tu sacratísimo cuerpo, aquellos tan cansados pasos, y aquella tan pesada carga de la cruz que en tus delicados y fatigados hombros llevabas.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Mem. vida crist. 5. 6, orac. 10 (R. 8. 3202). X"
+                  "referencia_obra": "Mem. vida crist. 5. 6, orac. 10 (R. 8. 3202)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mas, entre el sentimiento doloroso, | Vino a ocupar, al fin, sus fatigados | Miembros el sueño, a su dolor piadoso,»",
                   "autor": "Jáur.",
-                  "referencia_obra": "Rimas (Cl. C. 182. 46). X"
+                  "referencia_obra": "Rimas (Cl. C. 182. 46)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Dio la naturaleza al hombre el sueño | Para descanso al cuerpo fatigado.»",
                   "autor": "Lope",
                   "referencia_obra": ", Poes. lír. (Cl. C. 75. 103)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Nunca es acierto gastar en la diligencia el aliento del soldado, y entrar en la ocasión con gente fatigada.»",
                   "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 2. 17 (R. 28. 2551). X"
+                  "referencia_obra": ", Conq. de Méj. 2. 17 (R. 28. 2551)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Llegaron ya a la gran fuente de la gran sed, tan nombrada como deseada de todos los fatigados viandantes.»",
                   "autor": "Gracián",
-                  "referencia_obra": ", El criticón, 1. 7 (Cl. C. 165. 98). X"
+                  "referencia_obra": ", El criticón, 1. 7 (Cl. C. 165. 98)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando por mí se eleva a Dios tu ruego, | Soy como el fatigado peregrino, | Que su carga a la orilla del camino | Deposita y se sienta a respirar.»",
                   "autor": "Bello",
-                  "referencia_obra": ", Poes. p. 291. X"
+                  "referencia_obra": ", Poes. p. 291."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Menudas sementeras | Cual sayos cenicientos, casetas y majadas | Entre desnuda roca, arroyos y hontanares | Donde a la tarde beben las yuntas fatigadas, | Dispersos huertecillos, humildes abejares!...»",
                   "autor": "Machado",
-                  "referencia_obra": ", Poes. complet. p. 134. — met. X"
-                },
+                  "referencia_obra": ", Poes. complet. p. 134."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y el paria lo ha cumplido, pues ha opinado y votado como conservador; y como magistrado, levanten el dedo los adversarios y señalen las sangres u otros escándalos que las elecciones hubieran causado en los días fatigados de la administración paria.»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 3 (p. 166)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y el paria lo ha cumplido, pues ha opinado y votado como conservador; y como magistrado, levanten el dedo los adversarios y señalen las sangres u otros escándalos que las elecciones hubieran causado en los días fatigados de la administración paria.»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños, 3 (p. 166)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No, nada alcanza a dar pavor en toda | La alma naturaleza; el mal más grave | Que hace, es un bien: servirnos una tumba, | Un lecho al fatigado.»",
                   "autor": "Pombo",
-                  "referencia_obra": ", Antol. poética, p. 198. X"
+                  "referencia_obra": ", Antol. poética, p. 198."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Los hombres con ligaduras son viajeros sin cese, continuos fatigados que persiguen su propia fatiga.»",
                   "autor": "Mallea",
-                  "referencia_obra": ", El vínculo, p. 69. — Con de o por, para señalar la causa. X"
-                },
+                  "referencia_obra": ", El vínculo, p. 69."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Que los baños eran de provecho, así a los fatigados de trabajo para reparar las fuerzas, como a los sanos los ejercicios, porque sin ellos no pueden ser buenos los baños.»",
-                  "autor": "Cascales",
-                  "referencia_obra": ", Cartas filológ. (Cl. C. 118. 92). X"
-                },
-                {
-                  "texto_cita": "«Son tres tipos genéricos de alma humana: el emotivo que siente, el crítico que analiza y el piadoso que reverencia. ¿No habrá más? ¿Por qué no? Hay también los apáticos y los fatigados por debilidad propia o de su raza, que no reaccionan ante el misterio y la belleza del mundo.»",
-                  "autor": "Lz. de Mesa",
-                  "referencia_obra": ", El libro de los apólogos, p. 143."
+                  "id_limpio": "—",
+                  "definicion": "Con de o por, para señalar la causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Que los baños eran de provecho, así a los fatigados de trabajo para reparar las fuerzas, como a los sanos los ejercicios, porque sin ellos no pueden ser buenos los baños.»",
+                      "autor": "Cascales",
+                      "referencia_obra": ", Cartas filológ. (Cl. C. 118. 92)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Son tres tipos genéricos de alma humana: el emotivo que siente, el crítico que analiza y el piadoso que reverencia. ¿No habrá más? ¿Por qué no? Hay también los apáticos y los fatigados por debilidad propia o de su raza, que no reaccionan ante el misterio y la belleza del mundo.»",
+                      "autor": "Lz. de Mesa",
+                      "referencia_obra": ", El libro de los apólogos, p. 143."
+                    }
+                  ]
                 }
               ]
             }
@@ -502,49 +694,60 @@
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "En los siguientes textos, Quitar a la tierra sustancia y fertilidad por las repetidas y continuas cosechas. Part. adj. X",
+          "definicion": "En los siguientes textos, Quitar a la tierra sustancia y fertilidad por las repetidas y continuas cosechas. Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ya avanza la sombra, la pesada sombra, amiga del Fiero y de Nasha, del buey Mosco y el toro Choloque, de los campos fatigados y de los que buscan sus secretos...»",
               "autor": "Alegría",
-              "referencia_obra": ", El mundo es ancho y ajeno, 8 (p. 305). X"
+              "referencia_obra": ", El mundo es ancho y ajeno, 8 (p. 305)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vuelven las tardes de color cambiante | A iluminar la tierra fatigada, | Y yo, de la colina acostumbrada, | Vuelvo a mirar la luz agonizante.»",
               "autor": "Maya",
               "referencia_obra": ", Obra poétic. 5 (p. 281)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "En los siguientes textos, Asfixiar, perder la respiración. Trans. X",
+          "definicion": "En los siguientes textos, Asfixiar, perder la respiración. Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Trató de contener el aliento para economizar aire, pero esto no hizo sino fatigarle más ---. La idea de morir asfixiado cruzó por su cerebro.»",
               "autor": "Valdés",
-              "referencia_obra": ", Riverita, 17 (p. 160). X"
+              "referencia_obra": ", Riverita, 17 (p. 160)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Estuve todo el día vistiéndome y desnudándome a una velocidad vertiginosa, y a un ritmo que me fatigó y me hizo toser.»",
               "autor": "Cela",
               "referencia_obra": ", Mrs. Caldwell, p. 183."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Refl. X",
+              "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Estuvieron un rato con Melecio y conmigo, porque la madre se fatiga si intenta hablar.»",
                   "autor": "Delibes",
                   "referencia_obra": ", Diario de un cazador, p. 209."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -553,106 +756,148 @@
     {
       "id": "b)",
       "definicion": "Esforzar, apremiar, obligar a dar el máximo de rendimiento (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Bolvamos a nuestro Gonçalo. Hallaremos que tanto apretó a Gilillo y tanto le fatigó, que se le fue, no como hijo pródigo, antes como hijo podrido.»",
               "autor": "Cortés de Tolosa",
-              "referencia_obra": ", Nov. (Cl. C. 187. 210). — Aplicado a parte de una persona. X"
-            },
+              "referencia_obra": ", Nov. (Cl. C. 187. 210)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Pero si queda mi señor conforme, | La lista le daré de nuestros sabios | Sin fatigar la mano ni los labios, | Dos o tres nombres forman mi obra.»",
-              "autor": "Pombo",
-              "referencia_obra": ", Las mejores fáb. p. 18."
+              "id_limpio": "—",
+              "definicion": "Aplicado a parte de una persona.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Pero si queda mi señor conforme, | La lista le daré de nuestros sabios | Sin fatigar la mano ni los labios, | Dos o tres nombres forman mi obra.»",
+                  "autor": "Pombo",
+                  "referencia_obra": ", Las mejores fáb. p. 18."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar el medio. X",
+              "definicion": "Con la prep. con, para señalar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Carón. —Si el dinero que en eso gastaste ganaras con el trabajo de tus manos, pudiérate aprovechar, mas tú hurtavas el puerco y davas los pies por Dios, fatigavas con exaciones indevidas tus súbditos y después pensavas aplacar a Dios con edificar templos.»",
                   "autor": "Valdés",
                   "referencia_obra": ", Diál. de Merc. y Carón, 1 (Cl. C. 96. 111)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la expresión de balde, para señalar el modo. +",
+              "definicion": "Con la expresión de balde, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Juntamente nos hemos de apartar de los vicios y aun nos hemos de dar a las virtudes, porque de otra manera fatigaríamos de balde al estómago.»",
                   "autor": "Guev.",
                   "referencia_obra": "Oratorio, 26 (p. 603)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Nunca fatigamos más nuestro juicio en la elección.»",
                   "autor": "",
                   "referencia_obra": "Navarrete, Ben. de Séneca, 4. 11 (p. 961)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Les dijo: —No os canséis, señoras, ni fatiguéis vuestros entendimientos en la declaración desta enigma.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Gal. 6 (R. 1. 942). — Siendo el término una prop. infinitiva. X"
-                },
+                  "referencia_obra": "Gal. 6 (R. 1. 942)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El predicador fatiga el espíritu en estudiar, discurrir, ordenar y decorar el sermón, y luego, al predicarlo, queda el cuerpo sudado y molido como alheña.»",
-                  "autor": "Terrones",
-                  "referencia_obra": ", Instrucción (Cl. C. 126. 39)."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El predicador fatiga el espíritu en estudiar, discurrir, ordenar y decorar el sermón, y luego, al predicarlo, queda el cuerpo sudado y molido como alheña.»",
+                      "autor": "Terrones",
+                      "referencia_obra": ", Instrucción (Cl. C. 126. 39)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con la expresión en vano. X",
+              "definicion": "Con la expresión en vano.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«He dicho que la ciudad estaba fundada sobre una meseta de piedra. Esta meseta comparable a un acantilado no era menos ardua que los muros. En vano fatigué mis pasos: El negro basamento no descubría la menor irregularidad, los muros invariables no parecían consentir una sola puerta.»",
                   "autor": "Borges",
                   "referencia_obra": ", El inmortal, 2 (El Aleph, p. 13)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No cabe en razón natural que las cosas que están imposibilitadas de alcanzarse, puedan por largo tiempo apremiar la voluntad a quererlas, ni fatigar al deseo por alcanzarlas.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Gal. 3 (R. 1. 442)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y en medio el reposo fatigo y afano.»",
                   "autor": "",
                   "referencia_obra": "T. Naharro, Propal. 1 (1. 33)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -660,147 +905,188 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con sujeto de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pues el temor que a todos nos fatiga, nos apremia y constriñe a que entreguemos la libertad y cosas al tirano.»",
               "autor": "Erc.",
-              "referencia_obra": "Arauc. 34 (R. 17. 1282). X"
+              "referencia_obra": "Arauc. 34 (R. 17. 1282)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y aquella misma noche solicitado Silerio de su amigo Erastro, y por el deseo que le fatigaba de volver a su ermita, dio fin al suceso de su historia, como se verá en el siguiente libro.»",
               "autor": "Cerv.",
               "referencia_obra": "Gal. (Cl. C. 154. 155)."
             },
             {
+              "marca": "",
               "texto_cita": "«Como le fatigasen los deseos de volver a sus estudios y a Salamanca --- pide a sus amos licencia para volverse.»",
               "autor": "",
               "referencia_obra": "Id. Nov. 5 (R. 1. 1582)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Brindemos, pues, nuestro aplauso y gratitud a quienes dejaron estela de verdades luminosas, y olvidemos a quienes se fatigaron estérilmente, convertidos en girándulas de sonoras palabras.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ". Tónicos de la voluntad, 5 (p. 102)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, y una prop. infinitiva. X",
+              "definicion": "Con en, y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En vano te fatigas y desvelas | En hacer de las almas sacrificio, | Si no la rindes con mejor intento | Al dulce de Himineo ayuntamiento.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Gal. 1 (Cl. C. 154. 202)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y viendo Orompo que las pastoras se fatigaban en pensar lo que significaba, les dijo: —No os canséis, señoras.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 6 (R. 1. 942)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Por más que te fatigues en entender los secretos del cielo, no has de saber más de lo que tú inventares y soñares.»",
                   "autor": "Quev.",
-                  "referencia_obra": "Cuna y sepult. 4 (R. 48. 901). X"
+                  "referencia_obra": "Cuna y sepult. 4 (R. 48. 901)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«De aquí se infiere, que no ay que fatigarnos en averiguar el punto fixo, o acción memorable del César, sobre que tanto se ha discurrido, para regular el primer año de la Era.»",
                   "autor": "Berg.",
-                  "referencia_obra": "Antigüed. 2. 77 (p. 215). X"
+                  "referencia_obra": "Antigüed. 2. 77 (p. 215)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Todos debieran ser doctos lo más que pudiesen y poco o nada vanos, a imitación de aquéllos; porque, en realidad, de verdad, andarse todo un hombre fatigando perennemente en averiguar si Pacubio se ha de escribir con v o con b, ---.»",
                   "autor": "Forner",
                   "referencia_obra": ", Los gramáticos (Cl. C. 168. 29)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la expresión en vano. X",
+              "definicion": "Con la expresión en vano.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tú ves, canción, que me fatigo en vano, | Las guerras procurando enamoradas | Reducir de Teresa en versos breves, | Siendo a su ejemplo frívolas y leves.»",
                   "autor": "Jáur.",
-                  "referencia_obra": "Rimas (Cl. C. 182. 187). X"
+                  "referencia_obra": "Rimas (Cl. C. 182. 187)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Dime, ¿qué significa | El arco de esta suerte? | —Lo examina el de Atenas, | Piensa, cavila, vuelve, | Y se fatiga en vano | Pues que no le comprende.»",
                   "autor": "Saman.",
                   "referencia_obra": "Fáb. (Cl. Castal. 7. 178)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con para, y una prop. infinitiva que señala la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Notablemente se fatigan los extranjeros para desacreditar los aciertos de Cortés en esta empresa.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 4. 15 (R. 28. 3292)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con por, para señalar la finalidad del esfuerzo. X",
+              "definicion": "Con por, para señalar la finalidad del esfuerzo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Fatíganse por las riquezas, que son caja de espinas, y buscan las honras vanas, que es aire corrupto.»",
                   "autor": "Nieremb.",
-                  "referencia_obra": "Epíst. (Cl. C. 30. 246). — Siendo el término una prop. infinitiva. X"
-                },
+                  "referencia_obra": "Epíst. (Cl. C. 30. 246)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Se desvelan [los otros] por las riquezas y se trabajan y fatigan por subir a mayor grado y mayor dignidad, adelantándose a todos.»",
-                  "autor": "León",
-                  "referencia_obra": ", Nomb. 8, Príncipe (Cl. C. 33. 169)."
-                },
-                {
-                  "texto_cita": "«¡Cómo los crían ambos con trabajos, cómo se desvelan por sustentarlos, cómo se fatigan por remediarlos!»",
-                  "autor": "Capm.",
-                  "referencia_obra": "Teatro, 2. 100). +"
-                },
-                {
-                  "texto_cita": "«Un bobo o un nescio ni se fatiga por tener honra ni siente qué cosa es afrenta.»",
-                  "autor": "Guev.",
-                  "referencia_obra": "Oratorio, 53 (p. 744). X"
-                },
-                {
-                  "texto_cita": "«Como sentía lo poco que le faltaba para poner las plantas en la tierra, fatigábase y estirábase cuanto podía por alcanzar al suelo.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 43 (R. 1. 3792)."
-                },
-                {
-                  "texto_cita": "«Yo señor barbero, no soy Neptuno, el dios de las aguas, ni procuro que nadie me tenga por discreto no lo siendo; sólo me fatigo por dar a entender al mundo en el error en que está en no renovar en mí el felicísimo tiempo donde campeaba la orden de la andante caballería.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 2. 1 (R. 1. 4071)."
-                },
-                {
-                  "texto_cita": "«Por ver en vano se fatiga | Por dónde fue lo que en el sueño vino.»",
-                  "autor": "Valb.",
-                  "referencia_obra": "Bern. 4 (R. 17. 1802)."
-                },
-                {
-                  "texto_cita": "«Contento con merecer las ajenas alabanzas, jamás se fatigó por obtenerlas.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "Elog. de M. de los Llan. (R. 46. 2831)."
-                },
-                {
-                  "texto_cita": "«Nuestros literatos se han fatigado vanamente hasta ahora por averiguar la ocasión y objeto de estas antiguallas.»",
-                  "autor": "Clem.",
-                  "referencia_obra": "Coment. 4 (p. 237)."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Se desvelan [los otros] por las riquezas y se trabajan y fatigan por subir a mayor grado y mayor dignidad, adelantándose a todos.»",
+                      "autor": "León",
+                      "referencia_obra": ", Nomb. 8, Príncipe (Cl. C. 33. 169)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«¡Cómo los crían ambos con trabajos, cómo se desvelan por sustentarlos, cómo se fatigan por remediarlos!»",
+                      "autor": "Capm.",
+                      "referencia_obra": "Teatro, 2. 100)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Un bobo o un nescio ni se fatiga por tener honra ni siente qué cosa es afrenta.»",
+                      "autor": "Guev.",
+                      "referencia_obra": "Oratorio, 53 (p. 744)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Como sentía lo poco que le faltaba para poner las plantas en la tierra, fatigábase y estirábase cuanto podía por alcanzar al suelo.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 43 (R. 1. 3792)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Yo señor barbero, no soy Neptuno, el dios de las aguas, ni procuro que nadie me tenga por discreto no lo siendo; sólo me fatigo por dar a entender al mundo en el error en que está en no renovar en mí el felicísimo tiempo donde campeaba la orden de la andante caballería.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 2. 1 (R. 1. 4071)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Por ver en vano se fatiga | Por dónde fue lo que en el sueño vino.»",
+                      "autor": "Valb.",
+                      "referencia_obra": "Bern. 4 (R. 17. 1802)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Contento con merecer las ajenas alabanzas, jamás se fatigó por obtenerlas.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "Elog. de M. de los Llan. (R. 46. 2831)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Nuestros literatos se han fatigado vanamente hasta ahora por averiguar la ocasión y objeto de estas antiguallas.»",
+                      "autor": "Clem.",
+                      "referencia_obra": "Coment. 4 (p. 237)."
+                    }
+                  ]
                 }
               ]
             }
@@ -809,63 +1095,77 @@
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "En los siguientes textos, Espolear, aguijar a un animal. Vilanova en Las fuentes del Polifemo, señala el origen de este cultismo en un verso de Virgilio: X",
+          "definicion": "En los siguientes textos, Espolear, aguijar a un animal. Vilanova en Las fuentes del Polifemo, señala el origen de este cultismo en un verso de Virgilio:",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Omne aeuom ferro terituruer sague iuvencum | Terga fatigamus hasta...»",
               "autor": "",
-              "referencia_obra": "Eneida, 9 (v. 609-610). X"
+              "referencia_obra": "Eneida, 9 (v. 609-610)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Todo en la edad de hierro usamos | Y arando los novillos fatigamos.»",
               "autor": "",
-              "referencia_obra": "Hdz. de Velasco. tr. Eneida, 9 (1. 85). X"
+              "referencia_obra": "Hdz. de Velasco. tr. Eneida, 9 (1. 85)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y en toda edad con hierros exorcitados | Fatigamos los bueyes por la sierra | Haciéndoles tirar duros arados.»",
               "autor": "",
-              "referencia_obra": "Mesa, tr. Eneida, 9 (f. 247). X"
+              "referencia_obra": "Mesa, tr. Eneida, 9 (f. 247)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De jinete andaluz, cuyo soltero | Padre sin duda fue cierto ligero, | Armado de loriga | El curso alienta y el ijar fatiga, | Que de ejercicios tales | Son dueños muy de atrás los Sandovales.»",
               "autor": "Villegas",
-              "referencia_obra": ", Eróticas, 2 (Cl. C. 21. 10). X"
+              "referencia_obra": ", Eróticas, 2 (Cl. C. 21. 10)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y como la borrica sentía la punta del aguijón, que le fatigaba más de lo ordinario, comenzó a dar corcovos, de manera que dio con la señora Dulcinea en tierra.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 10 (Cl. C. 13. 193)."
             },
             {
+              "marca": "",
               "texto_cita": "«Escucha, mal caballero, | Detén un poco las riendas, | No fatigues las ijadas | De tu mal regida bestia.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 47 (R. 1. 5232)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar el medio o instrumento. X",
+              "definicion": "Con la prep. con, para señalar el medio o instrumento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cantan por sus heridas ensangrentadas bocas | De trompeta que mueven el alma de las rocas | Y de los mares. Hugo con su talón fatiga | Los olímpicos potros de su imperial cuadriga.»",
                   "autor": "Lugones",
                   "referencia_obra": ", Obr. poética complet. p. 55."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Pas. Con la prep. con. X",
+              "definicion": "Pas. Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Quien vio toro feroz solemne día | Cercado de canalla yerta y ruda, | Ser fatigado con tenaz porfía, | Con palos, cantos y con punta aguda.»",
                   "autor": "",
                   "referencia_obra": "Rufo, Austríada 23 (p. 129)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -874,102 +1174,143 @@
     {
       "id": "c)",
       "definicion": "Acosar, perseguir con empeño (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Referido a la caza mayor, el acus. está representado por el animal. X",
+          "definicion": "Referido a la caza mayor, el acus. está representado por el animal.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Quien el ciervo herido rastreando | De la llanura el monte atravesaba: | Quien el cerdoso puerco fatigando | Los osados lebreles ayudaba.»",
               "autor": "Erc.",
-              "referencia_obra": "Arauc. 17 (R. 17. 682). X"
+              "referencia_obra": "Arauc. 17 (R. 17. 682)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Quando aunque a pie por la áspera montaña | Las fieras va siguiendo y fatigando.»",
               "autor": "",
               "referencia_obra": "Barahona de Soto, Angélica, 1. 6 (fol. 116 vº)."
             },
             {
+              "marca": "",
               "texto_cita": "«Yo no concurriré por mi exquisita | Austeridad, aunque benigno indulto | Ver fatigar las fieras me permita.»",
               "autor": "",
-              "referencia_obra": "B. Argens, epíst. Para ver acosar (R. 42. 3031). X"
+              "referencia_obra": "B. Argens, epíst. Para ver acosar (R. 42. 3031)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sino la Garça sigues temerosa, | Sino la Corça cándida fatigas.»",
               "autor": "Rojas",
               "referencia_obra": ", Rimas, 17 (p. 129)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ahora la halléis | Entre la maleza | Del fragoso monte | Siguiendo las fieras, | Ahora en el llano | Con planta ligera | Fatigando el corzo, | Que herido vuela.»",
                   "autor": "Góng.",
                   "referencia_obra": "rom. 23, Frescos airecillos (R. 32. 5123)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Aquí Diana | De sus ninfas seguida, | Al ciervo en raudo curso fatigaba, | Y el dardo volador tras él lanzaba.»",
                   "autor": "Quint.",
                   "referencia_obra": "Poes. La danza (R. 19. 141)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con por, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ya en otro tiempo el ejercicio mío | Fue por los montes fatigar las fieras.»",
                   "autor": "Valb.",
-                  "referencia_obra": "Bern. 2 (R. 17. 1631). — Además con un complemento predicativo referido al sujeto."
-                },
+                  "referencia_obra": "Bern. 2 (R. 17. 1631)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«D´aljava y arco tú, Diana, armada, | Que por el monte umbroso i estendido | Fatigas a las fieras presurosa.»",
-                  "autor": "Herr.",
-                  "referencia_obra": "2, égl. 2 (R. 32. 3401)."
+                  "id_limpio": "—",
+                  "definicion": "Además con un complemento predicativo referido al sujeto.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«D´aljava y arco tú, Diana, armada, | Que por el monte umbroso i estendido | Fatigas a las fieras presurosa.»",
+                      "autor": "Herr.",
+                      "referencia_obra": "2, égl. 2 (R. 32. 3401)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con un gerundio para señalar el modo, y con por. X",
+              "definicion": "Con un gerundio para señalar el modo, y con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Dónde marchas, Oscar? Sobre las rocas | Donde braman los vientos, | Me mirarán llorar mis compañeras; | No más fatigaré vibrando el arco por el monte las fieras.»",
                   "autor": "Espronc.",
                   "referencia_obra": "Poes. (Cl. Castal. 20. 173)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Part. X",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Llévame a las colinas salvadoras del día. | El águila de las horas oscuras hace su presa en mi corazón | Y el gamo fatigado de mi angustia nocturna | Jadea en busca de una dorada laguna de sol.»",
                   "autor": "Ibarbourou",
-                  "referencia_obra": ", Antol. poética, p. 248. — Con en. X"
-                },
+                  "referencia_obra": ", Antol. poética, p. 248."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Huyendo de enemigos cazadores | Una cieva ligera, | Siente ya fatigada en la carrera | Más cercanos los perros y ojeadores.»",
-                  "autor": "Saman.",
-                  "referencia_obra": "Fáb. (Cl. Castal. 7. 117)."
+                  "id_limpio": "—",
+                  "definicion": "Con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Huyendo de enemigos cazadores | Una cieva ligera, | Siente ya fatigada en la carrera | Más cercanos los perros y ojeadores.»",
+                      "autor": "Saman.",
+                      "referencia_obra": "Fáb. (Cl. Castal. 7. 117)."
+                    }
+                  ]
                 }
               ]
             }
@@ -978,97 +1319,119 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "met. Del texto Fatigar las fieras por la selva, se pasó a fatigar la selva, atrevida metáfora según opinión de Cascales. X",
+          "definicion": "met. Del texto Fatigar las fieras por la selva, se pasó a fatigar la selva, atrevida metáfora según opinión de Cascales.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las perpetuas metáforas son también la principal causa de esta confusión y oscuridad; como: Peinar el viento y fatigar la selva.»",
               "autor": "",
-              "referencia_obra": "Cartas filológ. 1. 8 (Cl. C. 103. 194). Pero ya Salcedo Coronel, en el Polifemo comentado, señala la fuente de este cultismo en un verso de Virgilio: X"
+              "referencia_obra": "Cartas filológ. 1. 8 (Cl. C. 103. 194). Pero ya Salcedo Coronel, en el Polifemo comentado, señala la fuente de este cultismo en un verso de Virgilio:"
             },
             {
+              "marca": "X",
               "texto_cita": "«Venatu invigilant, pueri silvasque fatigant.»",
               "autor": "",
-              "referencia_obra": "Eneida, 9, 605. X"
+              "referencia_obra": "Eneida, 9, 605."
             },
             {
+              "marca": "X",
               "texto_cita": "«Agora que de luz tu Niebla doras, | Escucha al son de la zampoña mía, | Si ya los muros no te ven de Huelva | Peinar el viento o fatigar la selva.»",
               "autor": "Góng.",
               "referencia_obra": "Polifemo, 1 (R. 32. 4591)."
             },
             {
+              "marca": "",
               "texto_cita": "«Libre vn tiempo i descuidado, | Amor, de tus garatusas, --- | Con mi perro y mi hurón | I mis calças de gamuça --- | Fatigaua el verde suelo.»",
               "autor": "",
-              "referencia_obra": "Id. Obr. 1 (p. 33). X"
+              "referencia_obra": "Id. Obr. 1 (p. 33)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No a cuarto de hora que desta suerte fatigaron la selva, sus anchas redes, se sembraron de más de cien maneras de aves, desde el simple ruiseñor hasta la astuta corneja.»",
               "autor": "Montalvo",
-              "referencia_obra": ", Pastor de Fidia, 6 (p. 471). X"
+              "referencia_obra": ", Pastor de Fidia, 6 (p. 471)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Saliendo, don Juan, al monte | Porque la caza pusiera | Entredicho a mis pasiones | Y suspensión a mis penas, | Ya fatigando los montes | Y ya acosando las selvas | Seguí un corzo tan galante | En el brío y ligereza.»",
               "autor": "Monroy",
-              "referencia_obra": ", Fuente Ovejuna (Cl. C. 10. 210). X"
+              "referencia_obra": ", Fuente Ovejuna (Cl. C. 10. 210)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En diferentes cazas | Fatiga las campañas y las selvas.»",
               "autor": "",
-              "referencia_obra": "Rebolledo, Selvas Dánicas (2. 480). X"
+              "referencia_obra": "Rebolledo, Selvas Dánicas (2. 480)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Para fatigar las selvas, | Tantas iras de luz arma, | Que mueren de mariposas | Las que de fieras campaban.»",
               "autor": "",
               "referencia_obra": "Id. Ocios, p. 274 (Dicc. Autor.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar el modo. X",
+              "definicion": "Con la prep. con, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Qué selva con furor no ha fatigado | Suspendiendo el cansancio en el deseo?»",
                   "autor": "M. de Amescua",
                   "referencia_obra": ", Fáb. de Acteón (p. 425a)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para indicar el medio. X",
+              "definicion": "Con en, para indicar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Agora de cuidados enojosos | Y de negocios libre, por ventura | Andes a caza, el monte fatigando | En ardiente jinete, que apresura | El curso tras los ciervos temerosos.»",
                   "autor": "Garcil.",
                   "referencia_obra": "Obr. égl. 1 (Cl. C. 3. 2)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Pas. Con de. X",
+              "definicion": "Pas. Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Qué bosque o selva umbrosa | No fue de nuestra caza fatigada.»",
                   "autor": "Garcil.",
                   "referencia_obra": "Obr. égl. 2 (Cl. C. 3. 37)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Part. X",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya pues, el Conde, tras haber cazado | La fiera que por única estimaba, | Y las demás del monte fatigado | Sin dejar parte en su aspereza brava ---.»",
                   "autor": "Virués",
                   "referencia_obra": ", Monserrate, 17 (p. 560a)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1076,120 +1439,156 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "El sentido metafórico sobrepasa el contexto de caza, para adquirir el sentido de, Recorrer, surcar incesantemente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por estas cosas trastorna [el hombre] el mundo, bebe los vientos y fatiga la mar.»",
               "autor": "",
-              "referencia_obra": "Gran Orac. y consid. 3, 2, preámb. (R. 8. 1791). X"
+              "referencia_obra": "Gran Orac. y consid. 3, 2, preámb. (R. 8. 1791)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Aplauso no vulgar le dio diadema, | La vez que fatigó la arena, atleta; | Y a su tendido salto, sola la ala | Con pesadumbre, aun que con dicha, iguala.»",
               "autor": "Domínguez Camargo",
-              "referencia_obra": ", Obr. (ICC. 15. 72). X"
+              "referencia_obra": ", Obr. (ICC. 15. 72)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El a Italia honrará con tales dones | Cual ya Saturno; y llevará su imperio | Del Indo y Garamanta a las naciones, | Su valor fatigando al hemisferio.»",
               "autor": "Caro",
-              "referencia_obra": ", Obr. de Virgilio (2. 267). X"
+              "referencia_obra": ", Obr. de Virgilio (2. 267)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Como una tribu | De bestias azotadas. | Vieron de lejos las azules torres | Y su galope fatigó el desierto.»",
               "autor": "Maya",
               "referencia_obra": ", Obra poétic. 1 (p. 58)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya fatigo los montes | Con voces lastimosas, | Pidiéndoles a Mirta, | Y tan solo ecos tristes me retornan.»",
                   "autor": "D. Gonz.",
-                  "referencia_obra": "Poes. (R. 61. 1981). X"
+                  "referencia_obra": "Poes. (R. 61. 1981)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A cuanto noble y grande halló: ¡nada más bello de que poder amar a aquel a quien se tiene algo que agradecer...! Y fuese cargado de laureles, fati- | Continua guerra al corazón del fuerte, | Ni noble México.»",
                   "autor": "Martí",
                   "referencia_obra": ", Sus mejores páginas, p. 31."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En el siguiente texto, Repasar. X",
+              "definicion": "En el siguiente texto, Repasar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Vanamente había fatigado las páginas de Alejandro de Afrodisia, vanamente había compulsado las versiones del nestoriano Hunáin ibneshaq y de Abu-Bashar Mata.»",
                   "autor": "Borges",
                   "referencia_obra": ", La busca (El Aleph, p. 95)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Referido a acciones militares, Hostigar. X",
+          "definicion": "Referido a acciones militares, Hostigar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Por evitar molestias de cosarios, que fatigaban la tierra, edificó un palacio fuerte.»",
               "autor": "Fuenmayor",
-              "referencia_obra": ", S. Pío V, fol. 54 (Dicc. Autor.). X"
+              "referencia_obra": ", S. Pío V, fol. 54 (Dicc. Autor.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Tregua? ¡Jamás! O vencimiento o muerte; | Que nunca fatigó, ni impuso miedo | Continua guerra al corazón del fuerte, | Ni abatió de su espíritu el denuedo.»",
               "autor": "Espronc.",
               "referencia_obra": "Poes. (Cl. Castal. 20. 98)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, para señalar el medio o instrumento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Apretó [el enemigo] el sitio de Galípoli, y los nuestros con su valor acostumbrado, con salidas y escaramuzas ordinarias le fatigaban y detenían.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 29 (R. 21. 281)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El emperador, aunque fatigó su retaguardia [del turco] con algunos cuerpos ligeros que le hicieron daño considerable, no juzgó tampoco prudente empeñar una acción decisiva con tan formidable enemigo.»",
                   "autor": "Quint.",
                   "referencia_obra": "Obr. inéd. p. 127."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con para, y una prop. infinitiva. X",
+              "definicion": "Con para, y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tomadas estas diposiciones, se salió de la plaza y se fue a apostar en Gerona con un cuerpo de tropas escogidas, para atender desde allí y acudir a donde fuese menester hostigar y fatigar al enemigo para romper y burlar sus intentos.»",
                   "autor": "Quint.",
                   "referencia_obra": "Obr. inéd. p. 139."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Part. Con la prep. con, para señalar el medio. +",
+              "definicion": "Part. Con la prep. con, para señalar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Con esta facción llevó la hambre y la miseria dentro de la plaza, que acosada y fatigada con los continuos asaltos tuvo que capitular.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Gran Capitán (R. 19. 2561). — En superlativo. X"
-                },
+                  "referencia_obra": "Gran Capitán (R. 19. 2561)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El emperador Theodosio, nuestro Español, tuvo a los godos fatigadísimos.»",
-                  "autor": "",
-                  "referencia_obra": "Illescas, Hist. pontif. 2. 17 (Dicc. Autor.)."
+                  "id_limpio": "—",
+                  "definicion": "En superlativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El emperador Theodosio, nuestro Español, tuvo a los godos fatigadísimos.»",
+                      "autor": "",
+                      "referencia_obra": "Illescas, Hist. pontif. 2. 17 (Dicc. Autor.)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1199,30 +1598,37 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "En los siguientes textos, No dar reposo, abrumar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Coronen su frente | Laureles de gloria, | Fatigue a la historia | Mil años y mil.»",
               "autor": "Mor.",
-              "referencia_obra": "oda 11 (R. 2. 5922). X"
+              "referencia_obra": "oda 11 (R. 2. 5922)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y tú, Augusto monarca, el pecho inflama | Y el lauro ciñe de inmortal victoria; | Goza, heredada al contemplar la llama | Que hará a tu hijo fatigar la historia.»",
               "autor": "Espronc.",
               "referencia_obra": "Poes. (Cl. C. 47. 75)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, para señalar el medio o instrumento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y aquella fuerza indómita --- | Llevó tras sí la agitación, la guerra, | Y fatigó con crímenes la tierra.»",
                   "autor": "Quint.",
                   "referencia_obra": "Poes. A Padilla (R. 19. 41)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1231,178 +1637,232 @@
     {
       "id": "d)",
       "definicion": "Fastidiar, irritar, importunar a alguien (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La primera vez me fatigó mucho un moro encantado que en él [en el castillo] hay, y a Sancho no le fue muy bien con otros sus secuaces.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 45 (R. 1. 3822). X"
+              "referencia_obra": "Quij. 1. 45 (R. 1. 3822)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dos cosas pretende en corte, --- | La verde insignia de Anis | Y un seraphín castellano, --- | Fatiga tanto al Consejo | Y al amor fatiga tanto, | Que no irá, cruzado el pecho | Sin ir el rostro cruzado.»",
               "autor": "Góng.",
-              "referencia_obra": "rom. burl. 3 (Dicc. Autor.). X"
+              "referencia_obra": "rom. burl. 3 (Dicc. Autor.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Aun durmiendo me fatiga | La memoria de don Juan, | Que esta siesta le he soñado | Zeloso de otro galán.»",
               "autor": "Alarcón",
-              "referencia_obra": ", La verdad sospechosa, 2 (Cl. C. 37. 53). X"
+              "referencia_obra": ", La verdad sospechosa, 2 (Cl. C. 37. 53)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tu alivio no es bien que estorbes, | Queriéndomelo ocultar, | Pues sabré destachonar | La clavazón de los orbes, | Por solo el menor deseo | Que te ofenda y te fatigue.»",
               "autor": "Cald.",
-              "referencia_obra": "El mágico prodigioso (Cl. Ebro, 81. 77). X"
+              "referencia_obra": "El mágico prodigioso (Cl. Ebro, 81. 77)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El cuerpo se entorpece, | Los ayes nos fatigan, | Nos huyen los placeres, | Y deja la alegría.»",
               "autor": "Mel.",
-              "referencia_obra": "Poes. (Cl. C. 64. 83). X"
+              "referencia_obra": "Poes. (Cl. C. 64. 83)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En numerar los rizos, moñas, lazos, trapos, adobos, bermellones, aguas y demás extraños cuerpos que concurrían a la grande obra de su monumental restauración, fatigaría la más diestra fantasía.»",
               "autor": "P. Galdós",
-              "referencia_obra": ", Trafalgar, 8 (p. 76). X"
+              "referencia_obra": ", Trafalgar, 8 (p. 76)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El gabinete de historia natural, que contiene el museo de antigüedades; y otras piezas, cuya sola enumeración fatigaría a mis indulgentes lectores.»",
               "autor": "Carrasquilla",
-              "referencia_obra": ", Obr. p. 423. X"
+              "referencia_obra": ", Obr. p. 423."
             },
             {
+              "marca": "X",
               "texto_cita": "«Después de haber saludado también a don Rafael, a don Luis, a don Leandro, a don Crisanto, y a don Mateo, de los cuales no hablaremos para no fatigar al lector ---.»",
               "autor": "Azorín",
-              "referencia_obra": ", Trasuntos de Esp. p. 53. X"
+              "referencia_obra": ", Trasuntos de Esp. p. 53."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y a veces, el zumbido de la colmena interior nos fatiga y nos aturde tanto, que ansiamos apagarlo con el rumor de la colmena social.»",
               "autor": "Ramón y Cajal",
-              "referencia_obra": ", Charlas de café, 7 (p. 137). X"
+              "referencia_obra": ", Charlas de café, 7 (p. 137)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El español quiere ser él, y nada podría fatigarle más que el pensamiento de ser como los otros.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 277."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar el medio. X",
+              "definicion": "Con la prep. con, para señalar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero nunca dexaba el enamorado viejo de fatigarme con sus importunaciones que le quisiese tomar por marido.»",
                   "autor": "Gil Polo",
                   "referencia_obra": ", Diana (Cl. C. 135. 92)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El cielo fatigaste | Con gemido importuno.»",
                   "autor": "León",
                   "referencia_obra": ", Poes. 1, Elisa, ya el preciado (4. 333)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Fatigaron [los opositores] a su alteza con tantas contradicciones y quejas, que cansada con estas cosas vino a decir: Plegue a Dios que mientras yo gobernare, todos los prelados deste reino sean inmortales.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Vida de B. de los Márt. 2 (R. 11. 4331). +"
+                  "referencia_obra": "Vida de B. de los Márt. 2 (R. 11. 4331)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Ahora es el Rey el que nos fatiga con su constante contradicción.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Cartas a L. Holland, 3 (R. 19. 5501). X"
+                  "referencia_obra": "Cartas a L. Holland, 3 (R. 19. 5501)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿De qué sirve fatigarnos con necias disputas, si ya esto consiste, no en prueba de razones, sino con el hecho? Y vamos ahora donde con el toque veremos si este metal es oro, y de cuántos quilates.»",
                   "autor": "Salas Barbadillo",
-                  "referencia_obra": ", El sagaz Estacio, 1 (Cl. C. 57. 143). X"
+                  "referencia_obra": ", El sagaz Estacio, 1 (Cl. C. 57. 143)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Miguel Angel, con la enormidad de sus conceptos y la sabiduría monstruosa de su ejecución, fatiga y aturde a los que no lo entienden, y desespera a los que lo llegan a entender.»",
                   "autor": "Catalina",
-                  "referencia_obra": ", Roma, p. 218. X"
+                  "referencia_obra": ", Roma, p. 218."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Perdonad, señores, si os he fatigado con tan cansada exposición, falta de las condiciones de amenidad académica de que yo, si pudiese, hubiera querido revestirla.»",
                   "autor": "Caro",
-                  "referencia_obra": ", Del uso, p. 102. X"
+                  "referencia_obra": ", Del uso, p. 102."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Abrí los ojos de pronto, y la niña me dijo: —Ahora se fue la Madre Superiora. Me ha reñido, porque dice que le fatigo a usted con mi charla, de manera que va usted a estarse muy callado.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de invierno, p. 145."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la expresión después de. X",
+              "definicion": "Con la expresión después de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Su popularidad, empero, lejos de servirle, parecía fatigarlo después de un tiempo.»",
                   "autor": "Güiraldes",
                   "referencia_obra": ", Don Segundo Sombra, 10 (p. 63)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "El acus. es una parte de la persona. X",
+              "definicion": "El acus. es una parte de la persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«—Zagala, ¿por qué razón | No me miras, di, enemiga? | —Porque los ojos fatiga | Lo que ofende al coraçón.»",
                   "autor": "Gil Polo",
                   "referencia_obra": ", Diana (Cl. C. 135. 68)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Los períodos en demasía largos --- fatigan al oído del oyente, distraen su atención, y se confunde o se desvanece su memoria.»",
                   "autor": "Capm.",
-                  "referencia_obra": "Filosof. eloc. 1. 1 (p. 76). X"
+                  "referencia_obra": "Filosof. eloc. 1. 1 (p. 76)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿De qué le servirá, pues, ese estudio sino para atormentar su inteligencia y fatigar su memoria?»",
                   "autor": "Martínez Silva",
-                  "referencia_obra": ", Ensayos, p. 108. X"
+                  "referencia_obra": ", Ensayos, p. 108."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Decir lo que decir hemos sin hojarasca de palabras inútiles; que nuestra frase, mejor que abundante y opima, sea nítida, lisa, bruñida; que exprese lo que se propone sin todos esos empavesados multicolores que fatigan la vista y ultrajan el ideal de elegante simplicidad que todos nos afanamos por alcanzar.»",
                   "autor": "Nervo",
-                  "referencia_obra": ", Obr. p. 54. — Con la prep. con. X"
+                  "referencia_obra": ", Obr. p. 54."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con la prep. con.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Aquí eres dueño del que allá te obligas | A fatigar con ruegos los oídos, | Tan bien votados cuanto mal cumplidos.»",
+                      "autor": "Espinosa",
+                      "referencia_obra": ", Poes. p. 122."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Qué virgen con gemido | Fatigará de Vesta el sordo oído?»",
+                      "autor": "Villegas",
+                      "referencia_obra": ", Eróticas (Cl. C. 21. 118)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En resolución, Señor Exmo., (por no fatigar la atención de V. E. con millares de exemplos que constan a V. E.).»",
+                      "autor": "Forner",
+                      "referencia_obra": ", Los gramáticos (Cl. C. 168. 199)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Las industrias manuales poseídas por mi madre son tantas y tan variadas que su enumeración fatigaría la memoria con nombres que hoy no tienen ya significado.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Recuerdos de Prov. p. 99."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Aquí eres dueño del que allá te obligas | A fatigar con ruegos los oídos, | Tan bien votados cuanto mal cumplidos.»",
-                  "autor": "Espinosa",
-                  "referencia_obra": ", Poes. p. 122. X"
-                },
-                {
-                  "texto_cita": "«¿Qué virgen con gemido | Fatigará de Vesta el sordo oído?»",
-                  "autor": "Villegas",
-                  "referencia_obra": ", Eróticas (Cl. C. 21. 118). X"
-                },
-                {
-                  "texto_cita": "«En resolución, Señor Exmo., (por no fatigar la atención de V. E. con millares de exemplos que constan a V. E.).»",
-                  "autor": "Forner",
-                  "referencia_obra": ", Los gramáticos (Cl. C. 168. 199). X"
-                },
-                {
-                  "texto_cita": "«Las industrias manuales poseídas por mi madre son tantas y tan variadas que su enumeración fatigaría la memoria con nombres que hoy no tienen ya significado.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Prov. p. 99. — La persona pasa a dativo."
-                },
-                {
-                  "texto_cita": "«Y del no soltarle les protestaba que no podía dejar de fatigarles el olfato, si de allí no se desviaban.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 49 (R. 1. 3922). X"
-                },
-                {
-                  "texto_cita": "«Sin versos juveniles de mi maestro, anteriores no a la invención, acaso, pero sí al uso y abuso del fonógrafo, de ese magnífico loro mecánico que empieza hoy a fatigarnos el tímpano.»",
-                  "autor": "Machado",
-                  "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 76)."
+                  "id_limpio": "—",
+                  "definicion": "La persona pasa a dativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y del no soltarle les protestaba que no podía dejar de fatigarles el olfato, si de allí no se desviaban.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 49 (R. 1. 3922)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Sin versos juveniles de mi maestro, anteriores no a la invención, acaso, pero sí al uso y abuso del fonógrafo, de ese magnífico loro mecánico que empieza hoy a fatigarnos el tímpano.»",
+                      "autor": "Machado",
+                      "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 76)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1411,113 +1871,147 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. Con la prep. con. X",
+          "definicion": "Absol. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Lope merece a cada momento la calificación de gran poeta. No deslumbra, no fatiga con la afectación de lo colosal y desmesurado, con el alarde intempestivo de los tesoros de la memoria y de las formas de la argumentación.»",
               "autor": "",
               "referencia_obra": "Menéndez y Pelayo, Estudios, p. 127."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los versos del teatro español fatigan por el énfasis y la lógica. Una poesía de porqués aburre como una dialéctica; sin embargo, interesa el tono espiritual de ciertas obras.»",
                   "autor": "Vasconcelos",
                   "referencia_obra": ", Ulises criollo, p. 49."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Fatigábame a mí, fatigava mi pueblo; yo estava dessabrido con ellos y ellos comigo: No dormía de noche ni comía con gana de día; Hallávame tan perplexo, hallávame tan turbado, que muchas vezes me era enojo el vivir.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. de Merc. y Carón, (Cl. C. 96. 186)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Me fatigo de leer infamias constantes en todos los manuscritos que consulto.»",
                   "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Facundo, 2. 2 (p. 106). X"
+                  "referencia_obra": ", Facundo, 2. 2 (p. 106)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Quién se fatiga de tener padres gloriosos! ¡ni de oír hablar del modo de hacer casa a sus hijos!»",
                   "autor": "Martí",
-                  "referencia_obra": ", Sus mejores páginas, p. 44. X"
+                  "referencia_obra": ", Sus mejores páginas, p. 44."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Entonces volvió a tomarlo entre sus brazos, con alardes de ternura. Por fin el niño pareció fatigarse de tanta melosería y consintió en quedarse acostado.»",
                   "autor": "Osorio Lizarazo",
-                  "referencia_obra": ", El camino en la sombra, p. 92. X"
+                  "referencia_obra": ", El camino en la sombra, p. 92."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero se aburre de pronto con la sangre, como Goya se fatiga de sus Caprichos y Esperpentos, y vuelve entonces a casa, como el pintor a la suya y a la divina y obsesionante anatomía de la Duquesa Cayetana.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 129."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, y una prop. infinitiva. X",
+              "definicion": "Con en, y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si se nos presentasen trozos de escritores de tiempos diferentes, no acertaríamos a clasificarlos cual conviene; nos fatigaríamos en recordar las cualidades de unos y otros.»",
                   "autor": "Balmes",
                   "referencia_obra": ", El criterio, p. 208."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. Con la prep. con. X",
+          "definicion": "Part. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y siendo de edad de diez años y [como] ella se hallase descontenta, por ser su marido anciano de días, se enamoró de Machabelo su entenado, de tal manera, que fatigada con la poca paciencia del amor libidinoso, rompió el silencio de lo que callaba mucho tiempo había.»",
               "autor": "Timoneda",
               "referencia_obra": ", El patrañuelo (Cl. C. 101. 209)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Los fundadores de familias y de industrias cubanas, fatigados ya del fraude de España y de su gobierno --- se revuelvan contra la tierra que de tristes rústicos los ha hecho esposos felices?»",
                   "autor": "Martí",
-                  "referencia_obra": ", Sus mejores páginas, p. 236. X"
+                  "referencia_obra": ", Sus mejores páginas, p. 236."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La belleza y la verdad parecen fatigadas de sí mismas y se disfrazan de fealdad y extravagancia, alejándose cada vez más de las fuentes puras del clasicismo romano.»",
                   "autor": "Ramón y Cajal",
-                  "referencia_obra": ", Charlas de café, 9 (p. 189). — Siendo el término una prop. infinitiva. X"
-                },
+                  "referencia_obra": ", Charlas de café, 9 (p. 189)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¡Gloria a los patricios, | Bordeadores de precipicios | Y escaladores de montañas, | Como el abuelo secular | Que, fatigado de triunfar | Y cansado de padecer, | Se fue a morir de cara al mar.»",
-                  "autor": "Darío",
-                  "referencia_obra": ", Poes. p. 400."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡Gloria a los patricios, | Bordeadores de precipicios | Y escaladores de montañas, | Como el abuelo secular | Que, fatigado de triunfar | Y cansado de padecer, | Se fue a morir de cara al mar.»",
+                      "autor": "Darío",
+                      "referencia_obra": ", Poes. p. 400."
+                    }
+                  ]
                 }
               ]
             }
@@ -1526,31 +2020,38 @@
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Aplicado a los deudores, Vejarlos. X",
+          "definicion": "Aplicado a los deudores, Vejarlos.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ha prestado dineros a muchos soltándoles a muchos las deudas, por no los fatigar.»",
               "autor": "",
-              "referencia_obra": "Does. Hist. Col. (Boyd-Bowman, Léxico). X"
+              "referencia_obra": "Does. Hist. Col. (Boyd-Bowman, Léxico)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Señor amigo: Ni me culpe de corto ni de picante, que estoi para echarme en vn poço, según me fatigan acreedores.»",
               "autor": "Góng.",
               "referencia_obra": "Obr. 2 (p. 232)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Pas. X",
+              "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Que no sean molestados ni fatigados los deudores.»",
                   "autor": "",
                   "referencia_obra": "Docs. Hist. Col. (Boyd-Bowman, Léxico)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1559,273 +2060,81 @@
     {
       "id": "e)",
       "definicion": "Aquejar, causar dolor o molestia física (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Dale poco cuidado el calor del estío, no le fatiga mucho el frío del hibierno.»",
               "autor": "Figueroa",
               "referencia_obra": ", Amarilis, 3 (p. 221)."
             },
             {
+              "marca": "",
               "texto_cita": "«El invierno con sus vientos y sus fríos, que te pudieran fatigar, ya se fue: el verano es ya venido.»",
               "autor": "León",
               "referencia_obra": ", Cantares, 2. 13 (4. 41)."
             },
             {
+              "marca": "",
               "texto_cita": "«Antes de la muerte piensa en la enfermedad grave que ha de preceder a la muerte, con todos los accidentes, hastíos, tristezas, medicinas, molestias y noches largas que allí te han de fatigar.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. del crist. 25 (R. 11. 2002)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los cuales ya no padecerán más hambre ni sed, ni los fatigará el sol ni el ardor del estío.»",
               "autor": "",
-              "referencia_obra": "Id. Símb. 5. 2. 21 (R. 6. 6501). X"
+              "referencia_obra": "Id. Símb. 5. 2. 21 (R. 6. 6501)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Lluevan sobre mí dolores, fatíguenme enfermedades, aflíjanme tribulaciones, persígame uno, inquiéteme otro, conjuren contra mí todas las criaturas.»",
               "autor": "",
               "referencia_obra": "Id. Guía (Cl. C. 97. 45)."
             },
             {
+              "marca": "",
               "texto_cita": "«No fatigaba tanto aquella sed corporal al Señor, cuanto otro interior y el deseo de nuestra salud y de nuestro remedio.»",
               "autor": "Rivad.",
-              "referencia_obra": "Vida de Cristo, p. 94. X"
+              "referencia_obra": "Vida de Cristo, p. 94."
             },
             {
+              "marca": "X",
               "texto_cita": "«Acetaron ellas el convite, y sentándose luego, desecharon la hambre, que por ser ya subido el día comenzaba a fatigarles.»",
               "autor": "Cerv.",
-              "referencia_obra": "Gal. (Cl. C. 154. 80). X"
+              "referencia_obra": "Gal. (Cl. C. 154. 80)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El espacio era tan grande que apenas podía encerrarse dentro de las ávidas miradas de un espectador. Deslumbraban las luces. El calor fatigaba los párpados.»",
               "autor": "Sanín Cano",
               "referencia_obra": ", Ensayos, p. 136."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a y una prop. infinitiva que señala la causa. X",
+              "definicion": "Con a y una prop. infinitiva que señala la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿No sería mejor, se dijo un día en que el calor lo fatigaba mucho al subir a aquella cuesta tan empinada, que labrase yo mi ermita aquí arriba?»",
                   "autor": "Fern.",
                   "referencia_obra": "Caball. Lágrimas, p. 25."
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "— β )",
-          "id_limpio": "— β )",
-          "definicion": "Absol. X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Con temor del mal que está por venir sin que vea ni halle remedio ---, pues tanto más fatigan los dolores, cuanto más se temen.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Gal. (Cl. C. 155. 135)."
-            },
-            {
-              "texto_cita": "«Se caminó por tierra estéril y seca, donde llegó a fatigar la sed, fomentada con el ejercicio y con el calor del sol.»",
-              "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 5. 18 (R. 28. 3721)."
-            }
-          ],
-          "subsubacepciones": []
-        },
-        {
-          "id_marcador_html": "— γ )",
-          "id_limpio": "— γ )",
-          "definicion": "Part. X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Como el mísero doliente, | En el lecho fatigado, | A cualquier parte inclinado | Los mismos dolores siente.»",
-              "autor": "Alarcón",
-              "referencia_obra": ", Las paredes oyen (Cl. C. 37. 132). X"
-            },
-            {
-              "texto_cita": "«Lo cierto es que había pasado la noche fatigada, y con buen dolor de cabeza.»",
-              "autor": "Quiroga",
-              "referencia_obra": ", Cuentos de amor, p. 157."
-            }
-          ],
-          "subsubacepciones": [
-            {
-              "id_marcador_html": "— α α )",
-              "id_limpio": "— α α )",
-              "definicion": "Con de, para señalar la causa. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Assí, pues, encendida en amor de Dios dessea el cumplimiento y perfección del amor, para tener allí cumplido refrigerio, como el cieruo, fatigado del estío, desea el refrigerio de la sombra.»",
-                  "autor": "",
-                  "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 73). X"
-                },
-                {
-                  "texto_cita": "«Porque assí como el ayre haze fresco y refrigerio al que está fatigado del calor, assí este ayre de amor refrigera y recrea al que arde con fuego de amor.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. (Cl. C. 55. 105). X"
-                },
-                {
-                  "texto_cita": "«Los que mandaban las tropas reales, fatigados de la misma falta o de la misma ambición, ni enmendaban los soldados, ni daban satisfacción a los paisanos.»",
-                  "autor": "Melo",
-                  "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4652). — En superlativo. X"
-                },
-                {
-                  "texto_cita": "«De un defunto leemos que aparesció a un amigo suyo muy fatigado y aquejado de dolores, repitiendo con grandes voces y gemidos estas palabras: \"nadie cree, nadie cree, nadie cree\".»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Guía (Cl. C. 97. 25). +"
-                },
-                {
-                  "texto_cita": "«Estando una persona muy fatigada de una larga y penosa enfermedad, suplicó a Dios que la librase della.»",
-                  "autor": "Rivad.",
-                  "referencia_obra": "Trib. 1. 7 (R. 60. 3711)."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "— δ )",
-          "id_limpio": "— δ )",
-          "definicion": "met. Aplicado a las plantas, Marchitar, doblegar. X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Jesús vagaba un día, lentamente | Con Pedro el pescador por un camino | De Galilea. El sol de mediodía | Fatigaba los cedros y los lirios.»",
-              "autor": "",
-              "referencia_obra": "Castillo, Versiones (El árbol, p. 103)."
-            }
-          ],
-          "subsubacepciones": []
-        }
-      ]
-    },
-    {
-      "id": "f)",
-      "definicion": "Preocupar, causar aflicción o congoja (trans.).",
-      "ejemplos_citas": [],
-      "subacepciones": [
-        {
-          "id_marcador_html": "— α )",
-          "id_limpio": "— α )",
-          "definicion": "",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Jamás al hombre sabio le fatiga la pobreza.»",
-              "autor": "F. de Mena",
-              "referencia_obra": ", Teágenes y Caricl. 5 (p. 189)."
-            },
-            {
-              "texto_cita": "«Con toda esta fatiga que me tenía bien apretada, no daba a entender ninguna cosa a las compañeras, porque no las quería fatigar más de lo que estaban.»",
-              "autor": "Sta. Ter.",
-              "referencia_obra": "Fund. 3 (R. 53. 1851)."
-            },
-            {
-              "texto_cita": "«Fatigó mucho a la bien abenturada madre esta carta [del padre Álvarez].»",
-              "autor": "Yepes",
-              "referencia_obra": ", Vida de Sta. Ter. 2. 3 (Míst. 1. 115). X"
-            },
-            {
-              "texto_cita": "«Tirsi, paréceme que estás turbado. | ¿Qué causa te molesta y te fatiga? | ¿De qué son estas ansias y sudores?»",
-              "autor": "Jáur.",
-              "referencia_obra": "Aminta (Cl. C. 183. 141)."
-            },
-            {
-              "texto_cita": "«Con tanto ahinco me comenzó a fatigar el ausencia de Grisaldo y los celos de Leopercia que la ausencia dél me acababa y los celos de ella me consumían.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Gal. 4 (R. 1. 511)."
-            },
-            {
-              "texto_cita": "«Le rogó con grandes veras que a lo menos le dijese --- si le fatiga ingratitud, o si le atormentaban celos.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 5 (R. 1. 661). X"
-            },
-            {
-              "texto_cita": "«No nos fatiga el temor de perder la honra, ni nos desvela la ambición de acrecentarla, ni sustentamos bandos, ni madrugamos a dar memoriales, ni a acompañar magnates, ni a solicitar favores.»",
-              "autor": "",
-              "referencia_obra": "Id. Nov. 1 (Cl. C. 27. 64). X"
-            },
-            {
-              "texto_cita": "«—Como no me veas loco, Preciosa —respondió Andrés—, cualquiera otra demostración será poco o ninguna para dar a entender adónde llega y cuánto fatiga la amarga y dura presunción de los celos.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 1 (Cl. C. 27. 86)."
-            },
-            {
-              "texto_cita": "«Y como al enamorado ausente no hay cosa que no le fatigue ni temor que no le dé alcance, así le fatigaban a Grisóstomo los celos imaginados y las sospechas temidas como si fueran verdaderas.»",
-              "autor": "",
-              "referencia_obra": "Id. Quij. 1. 14 (R. 1. 2812)."
-            },
-            {
-              "texto_cita": "«Te hago saber, amigo Lotario que el deseo que me fatiga, es pensar si Camila mi esposa es tan buena y tan perfecta como yo pienso.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 1. 33 (R. 1. 3412)."
-            },
-            {
-              "texto_cita": "«Si muchos pensamientos fatigaban a D. Quijote antes de ser derribado, muchos más le fatigaron después de caído.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 2. 67 (R. 1. 5452). X"
-            },
-            {
-              "texto_cita": "«¿Qué tristeza es aquesta que en ti miro, | Mi doña Tilde? —Préstame un suspiro | Y dos pares de lágrimas, amiga, | Y sabrás el dolor que me fatiga.»",
-              "autor": "Quiñ. de Benav.",
-              "referencia_obra": "Entrem. (Cl. Ebro, 60. 120). +"
-            },
-            {
-              "texto_cita": "«Fatigábale [al rey Saúl] el espíritu malo y una profunda tristeza y melancolía.»",
-              "autor": "Rivad.",
-              "referencia_obra": "Trib. 1. 11 (R. 60. 3781). X"
-            },
-            {
-              "texto_cita": "«¡Oh! ¡cuánto me fatigan los recuerdos | Del pasado placer! ¡Cuánto es horrible | El desierto de un alma desolada, | Sin flores de esperanza ni frescura!»",
-              "autor": "Heredia",
-              "referencia_obra": ", Antol. p. 24."
-            }
-          ],
-          "subsubacepciones": [
-            {
-              "id_marcador_html": "— α α )",
-              "id_limpio": "— α α )",
-              "definicion": "Siendo el sujeto una prop. indicativa o infinitiva.",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Mas lo que más le fatigaba era el no verse armado caballero.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 2 (R. 1. 2601)."
-                },
-                {
-                  "texto_cita": "«Y lo que le fatigaba mucho, era no hallar por allí otro ermitaño que le confesase.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 1. 26 (R. 1. 3172)."
-                },
-                {
-                  "texto_cita": "«Pero lo que a mí más me fatigaba, era el ver ir a pie a Zoraida por aquellas asperezas.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 1. 41 (R. 1. 3732)."
-                },
-                {
-                  "texto_cita": "«Lo que más me fatigaba es que mis padres me han de seguir y hallar por las señas del vestido y del cuartago que traigo.»",
-                  "autor": "",
-                  "referencia_obra": "Id. Nov. 9 (R. 1. 2011)."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— β β )",
-              "id_limpio": "— β β )",
-              "definicion": "Se aplica a una parte de la persona.",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«No hay cosa que más fatigue el corazón de los pobres, que la hambre y la carestía.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 51 (R. 1. 5121)."
-                }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1833,94 +2142,89 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
-              "texto_cita": "«Ningún mal puede fatigar tanto, ni llegar tan al extremo de serlo, mientras no acaba la vida, que rehuya de no escuchar siquiera el consejo que con buena intención se le da al que lo padece.»",
+              "marca": "X",
+              "texto_cita": "«Con temor del mal que está por venir sin que vea ni halle remedio ---, pues tanto más fatigan los dolores, cuanto más se temen.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 28 (R. 1. 3251). X"
+              "referencia_obra": "Gal. (Cl. C. 155. 135)."
             },
             {
-              "texto_cita": "«El amor entona cantos fugitivos, mas no produce, —por sentimiento culminante y vehemente, cuya tensión fatiga y abruma, —obras de reposado aliento y laboreo penoso.»",
-              "autor": "Martí",
-              "referencia_obra": ", Sus mejores páginas, p. 187."
+              "marca": "",
+              "texto_cita": "«Se caminó por tierra estéril y seca, donde llegó a fatigar la sed, fomentada con el ejercicio y con el calor del sol.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 5. 18 (R. 28. 3721)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refl.",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
-              "texto_cita": "«Yo sé bien de qué manera | Te fatigas, si algún día | Falta el sustento.»",
+              "marca": "X",
+              "texto_cita": "«Como el mísero doliente, | En el lecho fatigado, | A cualquier parte inclinado | Los mismos dolores siente.»",
               "autor": "Alarcón",
-              "referencia_obra": ", Todo es ventura, 1. 1 (R. 20. 1191)."
+              "referencia_obra": ", Las paredes oyen (Cl. C. 37. 132)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Lo cierto es que había pasado la noche fatigada, y con buen dolor de cabeza.»",
+              "autor": "Quiroga",
+              "referencia_obra": ", Cuentos de amor, p. 157."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar la causa. X",
+              "definicion": "Con de, para señalar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
-                  "texto_cita": "«Porque eran personas que me arrimarían dos testigos falsos, por cuyo medio les sería fácil hazer de mí lo que quisiessen. Yo me fatigué de modo con esto que, demás de no comer, no dormía, pensando cómo me eximiría dellos.»",
-                  "autor": "Cortés de Tolosa",
-                  "referencia_obra": ", Lazarill. de Manzanares (Cl. C. 186. 137)."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— β β )",
-              "id_limpio": "— β β )",
-              "definicion": "Con de, para señalar la causa. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«No quisiera pensar demasiado para no fatigarme ni entristecerme, de si tú hubieras podido resistir el fiero embate de la fatalidad, el fiero embate de la mar.»",
-                  "autor": "Cela",
-                  "referencia_obra": ", Mrs. Caldwell, p. 104."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— γ γ )",
-              "id_limpio": "— γ γ )",
-              "definicion": "Con en, y una prop. infinitiva para indicar la causa. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«—Señora, no se fatigue V. en darme a mí explicaciones... ¡Yo no se las pido a V., ni mucho menos! —Alli viene quien puede pedírselas a justo título... ¡Entiéndase V. con él!»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", El sombrero de tres picos (Cl. C. 200. 147)."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— δ δ )",
-              "id_limpio": "— δ δ )",
-              "definicion": "Con la expresión en vano. Además con para. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«En vano, pues, nos fatigaríamos para adivinar si su primer desembarco fue en las Costas de Cantabria, o de Andalucía.»",
-                  "autor": "Rdgz. Mohedano",
-                  "referencia_obra": ", Hist. lit. esp. 1. 1(p. 58)."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— ε ε )",
-              "id_limpio": "— ε ε )",
-              "definicion": "Con por, y una prop. infinitiva.",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Disimulando lo mejor que pude, le dije: Señor, mozo soy, que no me fatigo mucho por comer, bendito Dios.»",
-                  "autor": "Lazar.",
-                  "referencia_obra": "3 (R. 3. 842). — Además con de."
+                  "marca": "X",
+                  "texto_cita": "«Assí, pues, encendida en amor de Dios dessea el cumplimiento y perfección del amor, para tener allí cumplido refrigerio, como el cieruo, fatigado del estío, desea el refrigerio de la sombra.»",
+                  "autor": "",
+                  "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 73)."
                 },
                 {
-                  "texto_cita": "«Yo me fatigo poco de estas cosas, | Por ser disputas propias de pedantes.»",
-                  "autor": "L. Argens.",
-                  "referencia_obra": "sát. (R. 42. 273)."
+                  "marca": "X",
+                  "texto_cita": "«Porque assí como el ayre haze fresco y refrigerio al que está fatigado del calor, assí este ayre de amor refrigera y recrea al que arde con fuego de amor.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. (Cl. C. 55. 105)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Los que mandaban las tropas reales, fatigados de la misma falta o de la misma ambición, ni enmendaban los soldados, ni daban satisfacción a los paisanos.»",
+                  "autor": "Melo",
+                  "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4652)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "En superlativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«De un defunto leemos que aparesció a un amigo suyo muy fatigado y aquejado de dolores, repitiendo con grandes voces y gemidos estas palabras: \"nadie cree, nadie cree, nadie cree\".»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Guía (Cl. C. 97. 25)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Estando una persona muy fatigada de una larga y penosa enfermedad, suplicó a Dios que la librase della.»",
+                      "autor": "Rivad.",
+                      "referencia_obra": "Trib. 1. 7 (R. 60. 3711)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1929,55 +2233,364 @@
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. adj. X",
+          "definicion": "met. Aplicado a las plantas, Marchitar, doblegar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
+              "texto_cita": "«Jesús vagaba un día, lentamente | Con Pedro el pescador por un camino | De Galilea. El sol de mediodía | Fatigaba los cedros y los lirios.»",
+              "autor": "",
+              "referencia_obra": "Castillo, Versiones (El árbol, p. 103)."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": []
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "Preocupar, causar aflicción o congoja (trans.).",
+      "marca": "",
+      "ejemplos_citas": [],
+      "subsubsubacepciones": [],
+      "subacepciones": [
+        {
+          "id_marcador_html": "— α )",
+          "id_limpio": "— α )",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "+",
+              "texto_cita": "«Jamás al hombre sabio le fatiga la pobreza.»",
+              "autor": "F. de Mena",
+              "referencia_obra": ", Teágenes y Caricl. 5 (p. 189)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Con toda esta fatiga que me tenía bien apretada, no daba a entender ninguna cosa a las compañeras, porque no las quería fatigar más de lo que estaban.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund. 3 (R. 53. 1851)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Fatigó mucho a la bien abenturada madre esta carta [del padre Álvarez].»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 2. 3 (Míst. 1. 115)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Tirsi, paréceme que estás turbado. | ¿Qué causa te molesta y te fatiga? | ¿De qué son estas ansias y sudores?»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta (Cl. C. 183. 141)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Con tanto ahinco me comenzó a fatigar el ausencia de Grisaldo y los celos de Leopercia que la ausencia dél me acababa y los celos de ella me consumían.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 4 (R. 1. 511)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Le rogó con grandes veras que a lo menos le dijese --- si le fatiga ingratitud, o si le atormentaban celos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5 (R. 1. 661)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«No nos fatiga el temor de perder la honra, ni nos desvela la ambición de acrecentarla, ni sustentamos bandos, ni madrugamos a dar memoriales, ni a acompañar magnates, ni a solicitar favores.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 1 (Cl. C. 27. 64)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«—Como no me veas loco, Preciosa —respondió Andrés—, cualquiera otra demostración será poco o ninguna para dar a entender adónde llega y cuánto fatiga la amarga y dura presunción de los celos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1 (Cl. C. 27. 86)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Y como al enamorado ausente no hay cosa que no le fatigue ni temor que no le dé alcance, así le fatigaban a Grisóstomo los celos imaginados y las sospechas temidas como si fueran verdaderas.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 14 (R. 1. 2812)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Te hago saber, amigo Lotario que el deseo que me fatiga, es pensar si Camila mi esposa es tan buena y tan perfecta como yo pienso.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 33 (R. 1. 3412)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Si muchos pensamientos fatigaban a D. Quijote antes de ser derribado, muchos más le fatigaron después de caído.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 67 (R. 1. 5452)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«¿Qué tristeza es aquesta que en ti miro, | Mi doña Tilde? —Préstame un suspiro | Y dos pares de lágrimas, amiga, | Y sabrás el dolor que me fatiga.»",
+              "autor": "Quiñ. de Benav.",
+              "referencia_obra": "Entrem. (Cl. Ebro, 60. 120)."
+            },
+            {
+              "marca": "+",
+              "texto_cita": "«Fatigábale [al rey Saúl] el espíritu malo y una profunda tristeza y melancolía.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 1. 11 (R. 60. 3781)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«¡Oh! ¡cuánto me fatigan los recuerdos | Del pasado placer! ¡Cuánto es horrible | El desierto de un alma desolada, | Sin flores de esperanza ni frescura!»",
+              "autor": "Heredia",
+              "referencia_obra": ", Antol. p. 24."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": [
+            {
+              "id_marcador_html": "— α α )",
+              "id_limpio": "— α α )",
+              "definicion": "Siendo el sujeto una prop. indicativa o infinitiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Mas lo que más le fatigaba era el no verse armado caballero.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 1. 2 (R. 1. 2601)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Y lo que le fatigaba mucho, era no hallar por allí otro ermitaño que le confesase.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 1. 26 (R. 1. 3172)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Pero lo que a mí más me fatigaba, era el ver ir a pie a Zoraida por aquellas asperezas.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 1. 41 (R. 1. 3732)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Lo que más me fatigaba es que mis padres me han de seguir y hallar por las señas del vestido y del cuartago que traigo.»",
+                  "autor": "",
+                  "referencia_obra": "Id. Nov. 9 (R. 1. 2011)."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— β β )",
+              "id_limpio": "— β β )",
+              "definicion": "Se aplica a una parte de la persona.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«No hay cosa que más fatigue el corazón de los pobres, que la hambre y la carestía.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 2. 51 (R. 1. 5121)."
+                }
+              ],
+              "subsubsubacepciones": []
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "— β )",
+          "id_limpio": "— β )",
+          "definicion": "Absol.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Ningún mal puede fatigar tanto, ni llegar tan al extremo de serlo, mientras no acaba la vida, que rehuya de no escuchar siquiera el consejo que con buena intención se le da al que lo padece.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 28 (R. 1. 3251)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«El amor entona cantos fugitivos, mas no produce, —por sentimiento culminante y vehemente, cuya tensión fatiga y abruma, —obras de reposado aliento y laboreo penoso.»",
+              "autor": "Martí",
+              "referencia_obra": ", Sus mejores páginas, p. 187."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": []
+        },
+        {
+          "id_marcador_html": "— γ )",
+          "id_limpio": "— γ )",
+          "definicion": "Refl.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Yo sé bien de qué manera | Te fatigas, si algún día | Falta el sustento.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Todo es ventura, 1. 1 (R. 20. 1191)."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": [
+            {
+              "id_marcador_html": "— α α )",
+              "id_limpio": "— α α )",
+              "definicion": "Con la prep. con, para señalar la causa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Porque eran personas que me arrimarían dos testigos falsos, por cuyo medio les sería fácil hazer de mí lo que quisiessen. Yo me fatigué de modo con esto que, demás de no comer, no dormía, pensando cómo me eximiría dellos.»",
+                  "autor": "Cortés de Tolosa",
+                  "referencia_obra": ", Lazarill. de Manzanares (Cl. C. 186. 137)."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— β β )",
+              "id_limpio": "— β β )",
+              "definicion": "Con de, para señalar la causa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«No quisiera pensar demasiado para no fatigarme ni entristecerme, de si tú hubieras podido resistir el fiero embate de la fatalidad, el fiero embate de la mar.»",
+                  "autor": "Cela",
+                  "referencia_obra": ", Mrs. Caldwell, p. 104."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— γ γ )",
+              "id_limpio": "— γ γ )",
+              "definicion": "Con en, y una prop. infinitiva para indicar la causa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«—Señora, no se fatigue V. en darme a mí explicaciones... ¡Yo no se las pido a V., ni mucho menos! —Alli viene quien puede pedírselas a justo título... ¡Entiéndase V. con él!»",
+                  "autor": "Alarcón",
+                  "referencia_obra": ", El sombrero de tres picos (Cl. C. 200. 147)."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— δ δ )",
+              "id_limpio": "— δ δ )",
+              "definicion": "Con la expresión en vano. Además con para.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«En vano, pues, nos fatigaríamos para adivinar si su primer desembarco fue en las Costas de Cantabria, o de Andalucía.»",
+                  "autor": "Rdgz. Mohedano",
+                  "referencia_obra": ", Hist. lit. esp. 1. 1(p. 58)."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— ε ε )",
+              "id_limpio": "— ε ε )",
+              "definicion": "Con por, y una prop. infinitiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Disimulando lo mejor que pude, le dije: Señor, mozo soy, que no me fatigo mucho por comer, bendito Dios.»",
+                  "autor": "Lazar.",
+                  "referencia_obra": "3 (R. 3. 842)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Yo me fatigo poco de estas cosas, | Por ser disputas propias de pedantes.»",
+                      "autor": "L. Argens.",
+                      "referencia_obra": "sát. (R. 42. 273)."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "— δ )",
+          "id_limpio": "— δ )",
+          "definicion": "Part. adj.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
               "texto_cita": "«Ni con el tiempo que ligero vuela, | No con los medios que el ausencia ofrece, | Mi alma fatigada se consuela.»",
               "autor": "",
               "referencia_obra": "Cerv. Gal. (Cl. C. 154. 107)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En grado superlativo. X",
+              "definicion": "En grado superlativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Su mujer, de que lo supo, aflij[i]óse mucho; porque, como he dicho, tenía aborrecido aquel lugar. Con asigurarle él que no le darían más huésped, se aplacó algo, aunque todavía estaba muy fatigada, por estar más a su gusto en Salamanca.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Fund. (Cl. C. 115. 291)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En grado comparativo. X",
+              "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Traspásame un dolor el congojado | Espíritu, y un ansia me consume, | Un recelo me trae tan fatigado, | Que de acabarme su crueldad presume.»",
                   "autor": "Cueva",
                   "referencia_obra": ", Los siete Infantes de Lara (Cl. C. 60. 103)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de, para señalar la causa. X",
+              "definicion": "Con de, para señalar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Qué hará el desventurado que se vee enemigo de plazer, amigo, amigo de soledad, lleno de passiones, cercado de temores, turbado de espíritu, martirizado del seso, sustentado de esperança, fatigado de pensamientos, afligido de molestias, traspassado de celos, lleno perpetuamente de sospiros, enojos, agravios, que jamás le faltan?»",
                   "autor": "Montem.",
-                  "referencia_obra": "Diana, p. 224. X"
+                  "referencia_obra": "Diana, p. 224."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y así, fatigado deste pensamiento [armarse de caballero], abrevió su venteril y limitada cena.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 3 (Cl. C. 4. 89)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1986,50 +2599,62 @@
     {
       "id": "g)",
       "definicion": "Metal. Disminuir la resistencia, producir fractura al metal sometido a esfuerzos alternativos (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Nuevo aliento articule heróica fama, | Con que, o fatigue, o rompa el cuerno de oro, | Que en cuanto espacio el sol su luz derrama, | Eco a su voz responderá canoro.»",
               "autor": "Domínguez Camargo",
               "referencia_obra": ", Obr. (ICC. 15. 45)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. met. X",
+          "definicion": "Refl. met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Defienden los mecánicos una familia férrea y numerosa. Donde el hierro se cansa están presentes. Donde se fatigan los tornillos dejan caer la mano sabia con el golpe restaurador, con la presión que restituye el vuelo, con el aliento que devuelve a las máquinas su salud y su brillo.»",
               "autor": "Castro Saavedra",
               "referencia_obra": ", Elogio, p. 92."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las fibras más fatigadas en caso de flexión son las más alejadas del eje neutro.»",
               "autor": "",
-              "referencia_obra": "Encicl. univ. ilustr. sb. voc. fatiga. X"
+              "referencia_obra": "Encicl. univ. ilustr. sb. voc. fatiga."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los ensayos de rotura efectuados por Howard de piezas fatigadas no dieron diferencias notables respecto al material no fatigado.»",
               "autor": "",
               "referencia_obra": "ib. sb. voc. fatiga."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2037,12 +2662,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «—No sé qué te diga. | Tu amor me fatiga.» Encina, Poes. lír. (Cl. Castal. 62. 172). X «Comigo estava la Muerte | Por tenerme compañía. | Lo que más me fatigava | No era porque muría, | Mas era porque dexava | De servir a quien servía.» Id. ib. (Cl. Castal. 62. 96). X «Fatigar: Fatigo, as; delasso, as; uexo, as.» Nebr. Vocab. X «Influctuare, rebozar, fatigarse.» Pal. Univ. Vocab. X «Defetiscor --- defessus, que es cansado, fatigado, lasso.» Id. ib. X Effectus --- fatigado, desmayado, quebrantado, sin tener effetto a querer.» Id. ib. «En caso que los enemigos no le guerreasen [nuestro reyno], vos era forzoso con tributos continuos y servidumbres premiosas, para la guerra necesarias, los fatigásedes.» Pulgar, Letr. 7 (p. 192). «También dice que fatigan mucho el reyno [el rey y la reina] con hermandades, e no ve que la fatiga que da él a ellos causa la que dan ellos al reyno.» Id. ib. 6 (p. 176). «Oyendo cada hora --- tantas palabras afectadas, e muchas dellas engañosas, que turban e fatigan las simplicísimas orejas de los príncipes.» Id. ib. 5 (p. 171). X «No sé por qué me fatigo, | Pues con razón me vencí, | No siendo nadie comigo | Y vos y yo contra mí.» J. Manr. Canc. (Cl. C. 94. 59). X «De fenescer he desseo | Por el mucho dessear | Que me fatiga.» Id. ib. (Cl. C. 94. 41). X «Vn deseo que al ausente | Trabaja, pena y fatiga.» Id. ib. (Cl. C. 94. 18). «Por proseguir su justicia o por otras cobsas indeuidas son presos e fatygados por do se da cabsa que otros non osan venir a vuestra corte.» Cortes de Toledo, año 1462 (C. de L. y C. 3. 710). «Sigo | Un querer con que fatigo | Mi persona.» Canc. de Stúñ p. 132. X «No nos fatigues con vezes alternas, | Alegres agora, agora enojosas.» Mena, Lab. 9 (p. 52). «Estábase el loable maestre acostado en su cama con fatigado espíritu.» Crón. Álv. de Luna, 120 (p. 327). X «Paresce como las flores | En el tiempo del estío, | A quien falleçe el rrocío | E fatigan las calores.» Santill. Canc. y decires (Cl. C. 18. 156). X «Syntiendo de alcançar | El vero significado | Del sueño, que fatigado | Me pusiera en tal pensar.» Id. ib. (Cl. C. 18. 71).\n\n— Siglo Xlll: X «E cuando esto le ovieron otorgado, fue él luego al alguazil de los moros e díxole que aquel fecho él lo fiziera, e que no havían por qué fatigar los otros cristianos.» Conq. de Ultr. (ICC. 51. 18).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. fatigare, ‘agotar, extenuar, torturar’ y éste de fatim agere. Fr. fatiguer, cat. y prov. fatigar, port. fadigar, it. faticare.",
+  "etimologia": "Etim. Del lat.<i> fatigare,</i> ‘agotar, extenuar, torturar’ y éste de<i> fatim agere.</i> Fr.<i> fatiguer,</i> cat. y prov.<i> fatigar,</i> port.<i> fadigar,</i> it.<i> faticare.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Absol.: d, β - ε, β - φ, β.\n\n— Pασ.: β, δ, β β - c, β, γ γ - d, ε, α α.\n\n— Refl.: a, γ - α, ζ, α α - b, γ - δ, γ - φ, γ - γ, β.\n\n— Pαρτ. en general.\n\n— Con dat.: d, α, γ γ.\n\n— Con a: a, γ, α α - e, α, α α.\n\n— Con ante: a, γ, β β.\n\n— Con bajo: a, γ, γ γ.\n\n— Con la prep. Con: a, γ, β β - b, α, α α - b, δ, α α - c, α, α α - c, β, α α - c, γ, α α - c, δ, α α - c, δ, γ γ - c, ε, α α - d, α, α α - d, α, γ γ - d, δ - φ, α, α α.\n\n— Con de: a, γ, δ δ - a, δ, γ γ - c, β, γ γ - d, γ, α α - d, δ, α α - e, γ, α α - f, γ, β β - f, γ, ε ε - f, δ, γ γ.\n\n— Con después de: d, α, β β.\n\n— Con en: a, γ, ε ε - b, α, γ γ - b, γ, α α - c, α, β β - c, α, ε ε - c, β, β β - d, γ, β β.\n\n— Con para: b, γ, γ γ - c, δ, β β.\n\n— Con por: a, α, β β - a, δ, α α - a, δ, ε ε - b, α, ε ε - b, γ, δ δ - c, α, γ γ - c, α, δ δ - d, β, α α - f, γ, ε ε.\n\n— Con un gerundio: a, α, α α - c, α, δ δ - c, β, α α.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Absol.: d, β - ε, β - φ, β.\n\n— Pασ.: β, δ, β β - c, β, γ γ - d, ε, α α.\n\n— Refl.: a, γ - α, ζ, α α - b, γ - δ, γ - φ, γ - γ, β.\n\n— Pαρτ. en general.\n\n— Con dat.: d, α, γ γ.\n\n— Con a: a, γ, α α - e, α, α α.\n\n— Con ante: a, γ, β β.\n\n— Con bajo: a, γ, γ γ.\n\n— Con la prep. Con: a, γ, β β - b, α, α α - b, δ, α α - c, α, α α - c, β, α α - c, γ, α α - c, δ, α α - c, δ, γ γ - c, ε, α α - d, α, α α - d, α, γ γ - d, δ - φ, α, α α.\n\n— Con de: a, γ, δ δ - a, δ, γ γ - c, β, γ γ - d, γ, α α - d, δ, α α - e, γ, α α - f, γ, β β - f, γ, ε ε - f, δ, γ γ.\n\n— Con después de: d, α, β β.\n\n— Con en: a, γ, ε ε - b, α, γ γ - b, γ, α α - c, α, β β - c, α, ε ε - c, β, β β - d, γ, β β.\n\n— Con para: b, γ, γ γ - c, δ, β β.\n\n— Con por: a, α, β β - a, δ, α α - a, δ, ε ε - b, α, ε ε - b, γ, δ δ - c, α, γ γ - c, α, δ δ - d, β, α α - f, γ, ε ε.\n\n— Con un gerundio: a, α, α α - c, α, δ δ - c, β, α α.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

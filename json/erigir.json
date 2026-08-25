@@ -6,84 +6,112 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Levantar o hacer levantar un monumento (estatua, templo, tumba, etc.) dedicándolo a una deidad o persona.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "La persona, nombre, memoria, etc. a quien se dedica el monumento va en dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Le erigió [a Frontonio] una estatua, y no paró hasta que hizo cónsul a Próculo.»",
                   "autor": "Sig.",
-                  "referencia_obra": "Vida de S. Jer. 5. 1 (395). X"
+                  "referencia_obra": "Vida de S. Jer. 5. 1 (395)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y Jacob, piadoso santo | En erigir un altar | A nuestro Dios soberano, | Está invocando su nombre | Con oloroso holocausto.»",
                   "autor": "Lope",
                   "referencia_obra": ", El robo de Diana (R. 159. 181)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Depón tus rayos, Júpiter, no roles, | Que al mayor mártir de los españoles | Erigió el mayor rey de los fieles.»",
                   "autor": "Góng.",
-                  "referencia_obra": "son. 31 (R. 32. 4302). X"
+                  "referencia_obra": "son. 31 (R. 32. 4302)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Con mucho menor motivo han conseguido otros de sus patrias estatuas de bronce y mármol, y, de rni dictamen, de plata debía erigírsela España a D. Lorenzo, porque sirva en la posteridad para su gloria la misma materia que dió asunto a su mérito.»",
                   "autor": "Feijóo",
-                  "referencia_obra": ", Cartas eruditas (Cl. C. 85. 80). X"
+                  "referencia_obra": ", Cartas eruditas (Cl. C. 85. 80)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El que hizo un anagrama del apellido Osma y dijo Asno, y le sobra una pierna, ¿no merecía por este solo dicho que le erigiesen una estatua en el Capitolio de Minerva?»",
                   "autor": "Isla",
-                  "referencia_obra": ", Fr. Ger. 1 (Cl. C. 148. 171). X"
+                  "referencia_obra": ", Fr. Ger. 1 (Cl. C. 148. 171)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando la tierra fría | Dé hospedaje a mi cuerpo, | ¿Qué servirá que deje | Acá renombre eterno, | Que me erija un amigo | Sepulcral monumento...?»",
                   "autor": "T. Iriarte",
                   "referencia_obra": ", Poesías (Cl. C. 136. 109)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Por qué no admiraremos esta fábrica insigne como el santuario de las artes, el primer templo de la cristiandad, y el más digno que hasta ahora ha erigido a un Dios omnipotente la pequeñez humana?»",
                   "autor": "Mor.",
                   "referencia_obra": "Obr. póst. 1, p. 423."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si en mejores días | Erigí a tu deidad hermoso templo --- | Otórgame este don.»",
                   "autor": "",
-                  "referencia_obra": "Hermosilla, Iliada. 1 (1. 3). X"
+                  "referencia_obra": "Hermosilla, Iliada. 1 (1. 3)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Un día iré a buscar con recogimiento religioso, entre otras tumbas de patriotas, el lugar que ocupa la que un decreto mandó erigir a su memoria.»",
                   "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de provincia, p. 90. — met."
-                },
+                  "referencia_obra": ", Recuerdos de provincia, p. 90."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Hoy, Menandro, a tu nombre estatua erige | La fama.»",
-                  "autor": "Figueroa",
-                  "referencia_obra": ", Amarilis, 3 (227)."
-                },
-                {
-                  "texto_cita": "«Esta deidad labradora [Menguilla] | Desde donde nace arroyo | Hasta donde muere río | Tajo la venera undoso. | Gil desde sus tiernos años | Aras le erigió devoto.»",
-                  "autor": "Góng.",
-                  "referencia_obra": "rom. 100 (R. 32. 5412)."
-                },
-                {
-                  "texto_cita": "«De la verdad [Fileno] afirma el poderío, | Y erige a la clemencia excelso trono.»",
-                  "autor": "Lista",
-                  "referencia_obra": ", Poes. lír. -prof. 12 (R. 67. 2912)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Hoy, Menandro, a tu nombre estatua erige | La fama.»",
+                      "autor": "Figueroa",
+                      "referencia_obra": ", Amarilis, 3 (227)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Esta deidad labradora [Menguilla] | Desde donde nace arroyo | Hasta donde muere río | Tajo la venera undoso. | Gil desde sus tiernos años | Aras le erigió devoto.»",
+                      "autor": "Góng.",
+                      "referencia_obra": "rom. 100 (R. 32. 5412)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«De la verdad [Fileno] afirma el poderío, | Y erige a la clemencia excelso trono.»",
+                      "autor": "Lista",
+                      "referencia_obra": ", Poes. lír. -prof. 12 (R. 67. 2912)."
+                    }
+                  ]
                 }
               ]
             },
@@ -91,48 +119,67 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en y determinados sustantivos como honor, premio, memoria, oprobio, etc., para indicar la intención con que se dedica el monumento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ya los viste cargados de victorias | De Africa y de Asia: en otros rudos mares | Aventurarse a no tentadas glorias; | Y para establecer las militares, | Erigir otras últimas colunas | En oprobio de idólatras altares.»",
                   "autor": "B. Argens.",
-                  "referencia_obra": "eleg. Con feliz parto (R. 42. 3431). X"
+                  "referencia_obra": "eleg. Con feliz parto (R. 42. 3431)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Pretenden [los señores literatos], por ventura, | Que en premio de sus útiles conatos | Les erijan estatuas a docenas, | Como lo acostumbró la antigua Atenas?»",
                   "autor": "T. Iriarte",
                   "referencia_obra": ", Poesías (Cl. C. 136. 154)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. Con dat. X",
+          "definicion": "Pas. refl. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Al mismo tiempo me place que hayan llegado tiempos bastante calmados, en que se haya podido erigir esta memoria a mis esfuerzos, tan largos como combatidos.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños de L. Pulgar, 4 (p. 320). --"
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "- γ )",
           "id_limpio": "- γ )",
           "definicion": "Part. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mira esa tumba. | Alta fué; mas ya cayó, | Pues a un guerrero erigida, | De alma aleve y fementida, | Del libro se le borró | De la fama y de la vida.»",
               "autor": "Hartz.",
-              "referencia_obra": "La jura en Santa Gadea, 3. 5 (Cl. C. 113. 217). — Con en."
-            },
+              "referencia_obra": "La jura en Santa Gadea, 3. 5 (Cl. C. 113. 217)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Delante de la puerta de San Gallo hay un arco de triunfo erigido en honor del emperador Francisco I.»",
-              "autor": "Mor.",
-              "referencia_obra": "Obr. póst. 1, p. 331."
+              "id_limpio": "—",
+              "definicion": "Con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Delante de la puerta de San Gallo hay un arco de triunfo erigido en honor del emperador Francisco I.»",
+                  "autor": "Mor.",
+                  "referencia_obra": "Obr. póst. 1, p. 331."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -142,81 +189,107 @@
     {
       "id": "b)",
       "definicion": "Construír o hacer construír una ciudad, edificio, monumento o cosa semejante (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Oyendo dolorosamente la ruina de los templos, que con tanto trabajo y solicitud habían erigido.»",
               "autor": "Lope",
               "referencia_obra": ", Triunfo de la fe en los reinos de Japón (R. 30. 1641)."
             },
             {
+              "marca": "",
               "texto_cita": "«Felipe, conociendo que no puede hacerle feliz [al pueblo] si no le instruye, funda academias, erige seminarios, establece bibliotecas, protege las letras y los literatos, y en un reinado de casi medio siglo le enseña a conocer lo que vale la ilustración.»",
               "autor": "",
-              "referencia_obra": "Jovell. Discursos (Cl. C. 129. 72). +"
+              "referencia_obra": "Jovell. Discursos (Cl. C. 129. 72)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Costeaba y dirigía por turno la procesión cada uno de los sediles o distritos de la ciudad, erigiendo en su plaza un altar, donde se depositaba al paso la imagen.»",
               "autor": "A. Saav.",
-              "referencia_obra": "Masan. 1. 2 (R. 102. 1291). X"
+              "referencia_obra": "Masan. 1. 2 (R. 102. 1291)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Timur o Tamerlán manda asesinar cien mil prisioneros indios, por haberse sonreído algunos a vista de su campamento; se le antoja al mismo, o era a otro príncipe, erigir una gran torre de cráneos humanos.»",
               "autor": "Montalvo",
-              "referencia_obra": ", Prosas, p. 4. X"
+              "referencia_obra": ", Prosas, p. 4."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y en el lugar de la aparición milagrosa de San Miguel erigió más tarde D. Teodosio una ermita, dentro de la cual quedó la caverna del dragón.»",
               "autor": "Unamuno",
-              "referencia_obra": ", Por tierras de Port. y Esp. p. 145. X"
+              "referencia_obra": ", Por tierras de Port. y Esp. p. 145."
             },
             {
+              "marca": "X",
               "texto_cita": "«Nuestro rector, el señor Allaby, hombre de curiosa lectura, exhumó la historia de un rey a quien la Divinidad castigó por haber erigido un laberinto y la divulgó desde el púlpito.»",
               "autor": "Borges",
-              "referencia_obra": ", Abenjacán (El Aleph, p. 128). X"
+              "referencia_obra": ", Abenjacán (El Aleph, p. 128)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Incapaz [Diego de Mendoza] de asentar gobierno, dejó la conquista para que, con el correr de los tiempos, otros abrieran la pampa cerrada, erigieran de nuevo ciudad en Buenos Alres.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Estud. mesa redonda, 6 (p. 99). X"
+              "referencia_obra": ", Estud. mesa redonda, 6 (p. 99)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Gran previsión fue, o gran suerte, haber erigido las ciudades capitales en el interior de las montañas, lugares inaccesibles para el pirata.»",
               "autor": "",
-              "referencia_obra": "Id. Biogr. del Caribe, 2. 12 (p. 233). X"
+              "referencia_obra": "Id. Biogr. del Caribe, 2. 12 (p. 233)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los moros acumularon en aquella ínsula [Toledo] sus palacios y mezquitas. Erigieron un cinturón de murallas para guarecerla.»",
               "autor": "Caballero Calderón",
-              "referencia_obra": ", Ancha es Castilla, p. 44. — met. X"
-            },
+              "referencia_obra": ", Ancha es Castilla, p. 44."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Esta perpetua inquietud y diversidad, --- son obra viva en la empresa de erigir lo que él [Goethe] llamaba, con majestuosa imagen, la pirámide de su existencia.»",
-              "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo (p. 156). X"
-            },
-            {
-              "texto_cita": "«Erigió vastos y casi inextricables períodos, estorbados de incisos, donde la negligencia y el solecismo parecían formas del desdén.»",
-              "autor": "Borges",
-              "referencia_obra": ", Los teólogos (El Aleph, p. 39)."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Esta perpetua inquietud y diversidad, --- son obra viva en la empresa de erigir lo que él [Goethe] llamaba, con majestuosa imagen, la pirámide de su existencia.»",
+                  "autor": "Rodó",
+                  "referencia_obra": ", Motivos de Proteo (p. 156)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Erigió vastos y casi inextricables períodos, estorbados de incisos, donde la negligencia y el solecismo parecían formas del desdén.»",
+                  "autor": "Borges",
+                  "referencia_obra": ", Los teólogos (El Aleph, p. 39)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con con para indicar la materia con que se construye. X",
+              "definicion": "Con con para indicar la materia con que se construye.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con las reliquias de su ruina erigieron, en e! mismo lugar, la desatinada ciudad que yo recorrí.»",
                   "autor": "Borges",
                   "referencia_obra": ", El inmortal, 4 (El Aleph, p. 20)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -224,46 +297,56 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por este tiempo se erigieron en España aquellos célebres monumentos, templos, anfiteatros, circos, naumaquias, puentes, acueductos y vías militares ---»",
               "autor": "Jovell.",
-              "referencia_obra": "Elog. de las bellas artes (R. 46. 3511). X"
+              "referencia_obra": "Elog. de las bellas artes (R. 46. 3511)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Que se erijan nuevas fábricas en que se puedan emplear y ganar su subsistencia; que se aumente por este medio el tráfico interior, la marina mercantil, el comercio activo.»",
               "autor": "",
-              "referencia_obra": "Id. Cartas (Cl. C. 129. 222). X"
+              "referencia_obra": "Id. Cartas (Cl. C. 129. 222)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La Bolsa. \"Aquí yace el crédito español\". Semejante a las pirámides de Egipto —me pregunté— ¿es posible que se haya erigido este edificio sólo para encerrar en él una cosa tan pequeña?»",
               "autor": "Larra",
-              "referencia_obra": ", Art. polít. y soc. (Cl. C. 77. 263). X"
+              "referencia_obra": ", Art. polít. y soc. (Cl. C. 77. 263)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Durante los cuarenta años que reinará Carlos, el continente quedará todo explorado y visto: --- se fundarán virreinatos y gobernaciones; se erigirán todas las capitales de América, excepto Santo Domingo y La Habana.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 5 (p. 82)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La pirámide aquella es la tumba de la revolución, muerta en la infancia, ruina ya a los treinta años de erigaida.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": "Recuerdos de provincia, p.27. X"
+              "referencia_obra": "Recuerdos de provincia, p.27."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pusiéronse en marcha, hasta llegar, --- al arco del óvalo. Era el más alto y el más pintoresco de los erigidos en el camino que debía recorrer el ejército restaurador.»",
               "autor": "Blest Gana",
               "referencia_obra": ", El loco estero, p. 110."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -271,36 +354,45 @@
     {
       "id": "c)",
       "definicion": "Refl. Alzarse, ofrecer a la vista su propia elevación.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Espacioso edificio | En la ancha calle de Alcalá se elige, | En cuyo frontispicio | Una portada dórica se erige.»",
           "autor": "T. Iriarte",
-          "referencia_obra": ", epíst. 5 (R. 63. 292). X"
+          "referencia_obra": ", epíst. 5 (R. 63. 292)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Rayó el sol los linderos del levante; | Y abriendo inmensamente el infinito | Su triple haz de oro se erigió, gigante, | En una excelsa prorrupción de grito.»",
           "autor": "Lugones",
           "referencia_obra": ", El libro de los paisajes, p. 178."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "",
           "id_limpio": "",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, para señalar el punto donde se origina la elevación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y el erigirse de la tierra, pintar con resplandor su imagen, labrarle altares y fabricarle templos, era canonización que admitía la Iglesia.»",
                   "autor": "Lope",
                   "referencia_obra": ", Relación de las fiestas... (R. 38. 1501)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -309,51 +401,63 @@
     {
       "id": "2",
       "definicion": "Establecer o crear un cargo, dignidad, institución, etc. (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Convenía erigir un tribunal severo, ejecutivo, cuya vigilancia se extendiese y derramase hasta los últimos ángulos de las provincias.»",
               "autor": "Clem.",
-              "referencia_obra": "Elog. de Is. la Cat. (Mem. Acad. Hist. 6. 10). X"
+              "referencia_obra": "Elog. de Is. la Cat. (Mem. Acad. Hist. 6. 10)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Haciendo valer todo lo que había hecho el señor Mon por la instrucción popular, las cárceles, las mejoras materiales y su intento de erigir allí [en Medellín] una diócesis.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 122). X"
+              "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 122)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y el artículo 7º erige el derecho de no admitir y el de expulsar del territorio, con arreglo a las leyes, a los individuos que por su mala vida o conducta fueren considerados perniciosos.»",
               "autor": "",
-              "referencia_obra": "Id. ib 3 (p. 259). X"
+              "referencia_obra": "Id. ib 3 (p. 259)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se ampliaron los estudios, --- para erigir una república de profesionales, no destinados a indagar problemas sociales más complejos.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Estud. rnesa. redonda, 13 (p. 192). X"
+              "referencia_obra": ", Estud. rnesa. redonda, 13 (p. 192)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tanto iban [a la iglesia] que una vieja ordenanza colonial, nunca observada porque a nadie interesaba, erigía un cargo de perrero para que arrojara a los perros del templo.»",
               "autor": "Carpentier",
               "referencia_obra": ", Los pasos perdidos (p. 130)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Las ordenaçiones e constituciones --- estaban eregidas e estableçidas para la conseruaçion e buen estilo del mismo Consejo Real.»",
                   "autor": "Oviedo",
                   "referencia_obra": ", Quinquag. 1. 33 (1. 379)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -362,92 +466,115 @@
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Refl. Constituirse en autoridad, dignidad u otro estado semejante. Con un pred. que expresa dicho estado.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "",
           "id_limpio": "",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Sin prep. X",
+              "definicion": "Sin prep.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Chu-su y su hermano --- en un instante se erigieron jueces inexorables de los artistas y supremos árbitros del mérito de sus obras.»",
                   "autor": "Forner",
                   "referencia_obra": ", Los gramáticos (Cl. C. 168. 121)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El que deleita a un pueblo merece ser leído por los demás, porque se erige representante del gusto nacional literario.»",
                   "autor": "Hartz.",
                   "referencia_obra": "Pról. a las obr. de Bretón (1. VI)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Los editores --- desfiguraban de tal modo las comedias de que se erigían dueños, que el que las había producido, aunque las conociese por el título, las extrañaba por el contexto.»",
                   "autor": "Hartz.",
-                  "referencia_obra": "(R. 5. VI). +"
+                  "referencia_obra": "(R. 5. VI)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«¿Qué respeto he de esperar | De un pueblo, que va a empezar | Por erigirse mi juez?»",
                   "autor": "",
                   "referencia_obra": "Id. La jura en Santa Gadea, 2. 5 (Cl. C. 113. 183)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con a (raro).",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Bien se conoce que no escribió aquella historia para erigirse a reformador.»",
                   "autor": "Capm.",
                   "referencia_obra": "Teatro, 4 p. 369."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tal vez estos vasallos se erigían en señores, repartiendo a otros sus tierras, con el cargo de asistirlos en la guerra.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Disc. sobre la legisl. y la hist. (R. 46. 2931)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Creo, por tanto, de mi deber explicarlos con franqueza, sin que sea mi ánimo erigirme en apologista del error.»",
                   "autor": "",
                   "referencia_obra": "Id. Def. de la Junta Central, 2. 2 (R. 46. 5561)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Estoy muy lejos de erigirme en censor de mis contemporáneos.»",
                   "autor": "",
                   "referencia_obra": "Id. Trat. de enseñ. Etica (R. 46. 2532)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Part. Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«He leído las primeras de una sola vez, con indignación al considerar a la ignorancia erigida en juez contra la ciencia y la discreción.»",
                   "autor": "Mor.",
                   "referencia_obra": "Obr. póst. 3, p. 105."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -456,55 +583,68 @@
     {
       "id": "b)",
       "definicion": "Elevar a mayor categoría una jurisdicción civil o religiosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con un pred. que expresa el nuevo rango.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Erigió aquel pueblo [de Alcalá] en catedral.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 4. 21. (R. 30. 1152)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Lo cual se guardó por largos años hasta que poco ha la erigieron [a la iglesia de Burgos] en arzobispal.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 10. 2 (R. 30. 2791)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Bonifacio Nono --- erigió la ciudad de Lisboa en metropolitana arzobispal.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 18 13 (R. 31. 231). +"
+                  "referencia_obra": "Id. ib. 18 13 (R. 31. 231)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«El Rey --- erigió en principado el estado de Viana.»",
                   "autor": "Viana",
                   "referencia_obra": "(R. 19. 2351)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿De quién habían heredado los septentrionales las provincias que segregaron del imperio romano?, ¿Con qué derecho se las repartieron y las erigieron en monarquías independientes?»",
                   "autor": "",
-                  "referencia_obra": "Hermosilla, Jacob, 1, p. 115. X"
+                  "referencia_obra": "Hermosilla, Jacob, 1, p. 115."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Carlos III --- cree de oportunidad y de conveniencia poner su sello real en la cédula que erigía en virreinato las provincias del Río de la Plata.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 4 (p. 406). X"
+                  "referencia_obra": ", Amalia, 4 (p. 406)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La república erige en obispado al Salvador para recortar la jurisdicción del arzobispo, y consagra obispo al padre Delgado.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 4. 21 (p. 357)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -512,13 +652,16 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Entonces fue erigida [la cofradía] en maestanza por el rey don Fernando VII.»",
               "autor": "Clem.",
               "referencia_obra": "Coment. 6, p. 217."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -526,47 +669,59 @@
     {
       "id": "c)",
       "definicion": "Tratándose de opiniones, ideas, doctrinas y otros entes abstractos, Darles una nueva condición (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con un pred. para expresar la nueva condición.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Estos son generalmente los que, temerosos de perder el bien, que conocen no merecer, preconizan la constancia, la erigen en virtud y hacen con ella el tormento de una vida.»",
                   "autor": "Larra",
                   "referencia_obra": ", Artículos de costumbres (Cl. C. 45. 144)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En cada siglo se había visto nacer alguna secta que se oponía a la autoridad de la Iglesia y erigía en dogmas las opiniones de sus fundadores.»",
                   "autor": "Balmes",
-                  "referencia_obra": ", Protest. 2 (1. 22). X"
+                  "referencia_obra": ", Protest. 2 (1. 22)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«También es necesaria, --- la tolerancia civil, que impide erigir en delito y reprimir con la fuerza las opiniones ajenas.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños de L. Pulgar, 4 (p. 19)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Duda de la virtud; erige por dogma el materialismo.»",
                   "autor": "A. Galiano",
                   "referencia_obra": ", Hist. lit. p. 92."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -574,23 +729,28 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por la cual [poética] no sólo quedan disculpados los extravíos de su idolatrado autor, sino que todos ellos se erigen en preceptos.»",
               "autor": "Mor.",
               "referencia_obra": "Hamlet. advert. (R. 2. 474)."
             },
             {
+              "marca": "",
               "texto_cita": "«A nombre de la igualdad y de las virtudes republicanas, va a erigirse en sistema la persecución más horrorosa, el despojo, el asesinato.»",
               "autor": "M. de la Rosa",
-              "referencia_obra": ", Esp. del siglo, 5. 5 (5. 310). +"
+              "referencia_obra": ", Esp. del siglo, 5. 5 (5. 310)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Así en literatura como en materias más graves se profieren [principios generales] magistralmente, repítense luégo de eco en eco, y acaban por erigirse en regla.»",
               "autor": "",
               "referencia_obra": "Id. Anot. a la poétic. 5. 11 (1. 231)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -598,10 +758,10 @@
   ],
   "periodo_anteclasico": "",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. erigere (véase lo dicho a propósito de erguir). Cat. y port. erigir, fr, ériger, it. erigere, rum. erijá.",
+  "etimologia": "Etim. Del lat. <i>erigere </i>(véase lo dicho a propósito de <i>erguir</i>)<i>. </i>Cat. y port. <i>erigir, </i>fr, <i>ériger, </i>it. <i>erigere, </i>rum. <i>erij</i>á.",
   "nota": "",
   "forma": "",
-  "ortografia": "Ortogr. Antes de a, o se escribe j: erijo, erija, etc. E. C. E.\n\n\u0000",
+  "ortografia": "Ortogr. Antes de a, o se escribe j: erijo, erija, etc. E. C. E.",
   "conjugacion": "",
   "construccion_sintactica": "",
   "prosodia": "",

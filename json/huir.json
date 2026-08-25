@@ -1,117 +1,200 @@
 {
   "lema": "HUIR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, a) apartarse rápidamente para escapar de alguien o de algo (Retirarse, dispersarse, desbandarse: ε ), b) salir furtiva o indebidamente (Tratándose del hogar o la familia, Abandonarlos: δ ), c) irse, apartarse, alejarse (Apartar, separar: α, ζ ζ ), d) met. extinguir, desaparecer, esfumarse (Morirse: δ ), e) con voces que expresen idea de tiempo, transcurrir o pasar velozmente;\n\n— 2, a) esquivar, evitar, rehuir, b) evitar el trato o comunicación con otra persona, rehusar.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, a) apartarse rápidamente para escapar de alguien o de algo (Retirarse, dispersarse, desbandarse: ε ), b) salir furtiva o indebidamente (Tratándose del hogar o la familia, Abandonarlos: δ ), c) irse, apartarse, alejarse (Apartar, separar: α, ζ ζ ), d) met. extinguir, desaparecer, esfumarse (Morirse: δ ), e) con voces que expresen idea de tiempo, transcurrir o pasar velozmente;\n\n— 2, a) esquivar, evitar, rehuir, b) evitar el trato o comunicación con otra persona, rehusar.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Apartarse rápidamente para escapar de alguien o de algo (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Sin esperar a más, y sin aparejarse para otra defensa, dieron [los salteadores] a huir.»",
               "autor": "F. de Mena",
               "referencia_obra": ", Teágenes y Cariclea, 1 (p. 18)."
             },
             {
+              "marca": "",
               "texto_cita": "«No huyáis, que sin falta veréis venir sobre vos el socorro del cielo.»",
               "autor": "Ávila",
-              "referencia_obra": ", Epist. 2. 25 (6. 357). X"
+              "referencia_obra": ", Epist. 2. 25 (6. 357)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿A dónde te escondiste, | Amado, y me dexaste con gemido? | Como el cieruo huyiste | Auiéndome herido.»",
               "autor": "",
               "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 9)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cuando le despojaron los ladrones galeotes, se había venido a aquella venta huyendo.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 32 (R. 1. 3382). +"
+              "referencia_obra": "Quij. 1. 32 (R. 1. 3382)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Se dice que el Rey --- salió para Fraga, huyendo a pie, de noche y sin cenar.»",
               "autor": "Quint.",
               "referencia_obra": "Prínc. de Viana (R. 19. 2451)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para señalar: — el destino.",
-              "ejemplos_citas": [
+              "definicion": "Con a, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Huíd, dice, huid que conviene: | Huíd a lo más alto, huid ligero; | Que el confuso escuadrón del vulgo triste | Al sacro monte sin piedad embiste.»",
-                  "autor": "Valb.",
-                  "referencia_obra": "Bern. 17 (R. 17. 3181)."
+                  "id_limpio": "—",
+                  "definicion": "el destino.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Huíd, dice, huid que conviene: | Huíd a lo más alto, huid ligero; | Que el confuso escuadrón del vulgo triste | Al sacro monte sin piedad embiste.»",
+                      "autor": "Valb.",
+                      "referencia_obra": "Bern. 17 (R. 17. 3181)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«No hubo resistencia: los eruditos huyeron al patio, no hallando salida por otra parte.»",
+                      "autor": "Mor.",
+                      "referencia_obra": "Derr. de los pedantes (R. 2. 5712)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«No hubo resistencia: los eruditos huyeron al patio, no hallando salida por otra parte.»",
-                  "autor": "Mor.",
-                  "referencia_obra": "Derr. de los pedantes (R. 2. 5712). — De lo que se huye."
+                  "id_limpio": "—",
+                  "definicion": "De lo que se huye.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Propuso de nunca huir a los moros por muchos más que fuesen que los suyos.»",
+                      "autor": "Comend. Griego",
+                      "referencia_obra": ", Lab. 196 (p. 692)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Propuso de nunca huir a los moros por muchos más que fuesen que los suyos.»",
-                  "autor": "Comend. Griego",
-                  "referencia_obra": ", Lab. 196 (p. 692). — La causa X"
+                  "id_limpio": "—",
+                  "definicion": "La causa",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Buscaba [el águila de los Alpes] una presa, pero a la vista de un hombre echó a huir con un grito siniestro, desapareció.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Andanzas y visiones esp. p. 23."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Buscaba [el águila de los Alpes] una presa, pero a la vista de un hombre echó a huir con un grito siniestro, desapareció.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Andanzas y visiones esp. p. 23. — La finalidad. El término es una prop. en infinitivo. +"
-                },
-                {
-                  "texto_cita": "«Pizarro, atemorizado, huyó a guarecerse en Cartagena.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Balboa (R. 19. 2821)."
+                  "id_limpio": "—",
+                  "definicion": "La finalidad. El término es una prop. en infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Pizarro, atemorizado, huyó a guarecerse en Cartagena.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Balboa (R. 19. 2821)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Cómo se escapó? | —Notable industria: | Huyó con Peransules, ayudado | De la famosa Çayda.»",
                   "autor": "G. de Castro",
-                  "referencia_obra": ", Las mocedades del Cid (Cl. C. 15. 260). — Además con a, para señalar el destino."
+                  "referencia_obra": ", Las mocedades del Cid (Cl. C. 15. 260)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con a, para señalar el destino.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Huye pues entonces con aquella santa mujer del Apocalipsi al desierto, que es la soledad y apartamiento de los hombres, mayormente de aquellos que te puedan dañar.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Mem. vida crist. 6. 5, §7 (R. 8. 3431)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Lo sacó [su mujer al Dr. Alsina] del pontón en que estaba preso y huyó con él a Montevideo.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Recuerdos de Prov. p. 77."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Huye pues entonces con aquella santa mujer del Apocalipsi al desierto, que es la soledad y apartamiento de los hombres, mayormente de aquellos que te puedan dañar.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Mem. vida crist. 6. 5, §7 (R. 8. 3431). X"
+                  "id_limpio": "—",
+                  "definicion": "Además con por, para señalar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El rey vencido y el visir y el esclavo huyen por el desierto con un tesoro.»",
+                      "autor": "Borges",
+                      "referencia_obra": ", Abenjacán (El Aleph, p. 135.)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Lo sacó [su mujer al Dr. Alsina] del pontón en que estaba preso y huyó con él a Montevideo.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Prov. p. 77. — Además con por, para señalar el lugar. X"
+                  "id_limpio": "—",
+                  "definicion": "También con la prep. con se señala el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La segunda estación era huyr con tal prissa, que parecía lleuauan cohetes en los posteriores.»",
+                      "autor": "Píc. Just.",
+                      "referencia_obra": "(1. 198)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El rey vencido y el visir y el esclavo huyen por el desierto con un tesoro.»",
-                  "autor": "Borges",
-                  "referencia_obra": ", Abenjacán (El Aleph, p. 135.). — También con la prep. con se señala el modo. X"
-                },
-                {
-                  "texto_cita": "«La segunda estación era huyr con tal prissa, que parecía lleuauan cohetes en los posteriores.»",
-                  "autor": "Píc. Just.",
-                  "referencia_obra": "(1. 198). — Además con de. X"
-                },
-                {
-                  "texto_cita": "«Vencidos, los ratones, | Huían con presteza | De una atroz enemiga | Tropa de Comadrejas.»",
-                  "autor": "Saman.",
-                  "referencia_obra": "Fáb. (Cl. Castal. 7. 127)."
+                  "id_limpio": "—",
+                  "definicion": "Además con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Vencidos, los ratones, | Huían con presteza | De una atroz enemiga | Tropa de Comadrejas.»",
+                      "autor": "Saman.",
+                      "referencia_obra": "Fáb. (Cl. Castal. 7. 127)."
+                    }
+                  ]
                 }
               ]
             },
@@ -119,102 +202,126 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de, para indicar de lo que se huye.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mira, falso, que no huyes | De alguna serpiente fiera, | Sino de una corderilla | Que está muy lejos de oveja.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 57 (R. 1. 5232)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Llenáronse las redes de pajarillos diferentes, que engañados de la color de las redes, caían en el peligro de que iban huyendo.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 2. 58 (R. 1. 5271). X"
+                  "referencia_obra": "Id. ib. 2. 58 (R. 1. 5271)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En tanto, el recuerdo del mutilado me acompañaba; y con angustia jamás padecida quise huir del llano bravío.»",
                   "autor": "Rivera",
                   "referencia_obra": ", La vorágine, 1 (p. 91)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Después de que la mayoría huyó en fuga zigzagueante y unos pocos se aplastaron en dejadez de plomo derretido sobre la mesa, Romero y Flores se guardó una media botella de coñac.»",
                   "autor": "Icaza",
                   "referencia_obra": ", El chulla Romero y Flores, 3 (p. 88)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con hacia. X",
+              "definicion": "Con hacia.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ella suspiró angustiada como si el aire le faltase, y apartándose el cabello de la frente con ambas manos, huyó hacia la ventana.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de primav. p. 73."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con para y una prop. en infinitivo, que indica la finalidad. X",
+              "definicion": "Con para y una prop. en infinitivo, que indica la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Vedlos huir para esconder su oro, | Vedlos cobardes lágrimas verter...»",
                   "autor": "Espronc.",
-                  "referencia_obra": "Poes. (Cl. C. 47. 134). X"
+                  "referencia_obra": "Poes. (Cl. C. 47. 134)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«México no se resuelve a ahogar su lucha por la independencia en este sueño de los conservadores, y Santa Ana tiene que huir para salvar el pellejo.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 4. 22 (p. 366)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. X",
+          "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ni se huyó ni se defendió la descuidada barca, ante como suele el tímido pajarillo esperar con encogidas alas al esmerejón soberbio, reconociendo en las velas latinas el enemigo poderoso, paró los remos.»",
               "autor": "Lope",
               "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 80)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, para indicar el destino y con, la compañía.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Muchos de los moradores dejaron la patria, y con mujeres e hijos se huían a la montaña.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal. 2 (R. 21. 4762)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con por, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«De miedo muchos pueblos de aquella comarca quedaron yermos, por huirse sus moradores por diversas partes.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 12. 15 (R. 30. 3631)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -222,107 +329,155 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A tu lado el huir, el ocultarme | Acción no me parece ignominiosa.»",
               "autor": "Hartz.",
               "referencia_obra": "Alfonso el Casto, 1. 9 (p. 58)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El destierro y el huyr a tierra ajena fuera de su natural, es trabajo.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 7, Brazo (Cl. C. 33. 94)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se fueron los dos, lentos y tristes, por el arroyo seco que baja del pueblo, volviendo la cabeza al brillante huir de nuestro tropel.»",
                   "autor": "J. R. Jiménez",
                   "referencia_obra": ", Platero y yo, 19 (p. 38)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Aplicado a los animales. Con a y una prop. en infinitivo, para indicar: — la finalidad. X",
-          "ejemplos_citas": [
+          "definicion": "Aplicado a los animales. Con a y una prop. en infinitivo, para indicar:",
+          "marca": "",
+          "ejemplos_citas": [],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Las plumas erizando, | Dando graznidos, el fulgor apagan | De sus redondos ojos las lechuzas, | Que huyen a guarecerse en las barrancas.»",
-              "autor": "Zorrilla",
-              "referencia_obra": "de S. Martín, Tabaré, 2. 1 (p. 60). — La causa. X"
+              "id_limpio": "—",
+              "definicion": "la finalidad.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Las plumas erizando, | Dando graznidos, el fulgor apagan | De sus redondos ojos las lechuzas, | Que huyen a guarecerse en las barrancas.»",
+                  "autor": "Zorrilla",
+                  "referencia_obra": "de S. Martín, Tabaré, 2. 1 (p. 60)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Empezaba a declinar la tarde, y sobre la piedra de armas que coronaba la puerta del jardín, se arrullaban dos palomas que huyeron al acercarme.»",
-              "autor": "",
-              "referencia_obra": "Valle- Inclán, Sonata de primav. p. 63."
+              "id_limpio": "—",
+              "definicion": "La causa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Empezaba a declinar la tarde, y sobre la piedra de armas que coronaba la puerta del jardín, se arrullaban dos palomas que huyeron al acercarme.»",
+                  "autor": "",
+                  "referencia_obra": "Valle- Inclán, Sonata de primav. p. 63."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El baquiano anuncia también la proximidad del enemigo; --- por medio del movimiento de los avestruces, de los gamos y guanacos que huyen en cierta dirección.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Facundo, 1. 2 (p. 51)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con hacia, que indica el lugar adonde se dirige. X",
+              "definicion": "Con hacia, que indica el lugar adonde se dirige.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Silenciosos flamencos rosados subieron también en el aire y huyeron hacia otras lagunas.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Zogoibi, p. 111."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con hasta y una prop. en infinitivo, para indicar el término del movimiento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Huye este pobre perro hasta entrarse en una casa y pónese detrás de la puerta.»",
                   "autor": "Cortés de Tolosa",
                   "referencia_obra": ", Nov. (Cl. C. 187. 72)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Prnl. Con de. X",
+              "definicion": "Prnl. Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ando por aquestos valles | Recogiendo con amor | Una ovejuela perdida | Que del rebaño se huyó.»",
                   "autor": "Tirso",
-                  "referencia_obra": ", El condenado por desconfiado (Cl. Ebro, 1. 74). — Con por, para señalar el lugar."
-                },
+                  "referencia_obra": ", El condenado por desconfiado (Cl. Ebro, 1. 74)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Alborotose el senado de los oyentes, huyose el mono por los tejados de la venta.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 26 (R. 1. 4602)."
+                  "id_limpio": "—",
+                  "definicion": "Con por, para señalar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Alborotose el senado de los oyentes, huyose el mono por los tejados de la venta.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 2. 26 (R. 1. 4602)."
+                    }
+                  ]
                 }
               ]
             }
@@ -331,55 +486,68 @@
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Retirarse, dispersarse, desbandarse. +",
+          "definicion": "Retirarse, dispersarse, desbandarse.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Los griegos, con el pavor del nombre de catalanes, huían la tierra adentro.»",
               "autor": "Moncada",
-              "referencia_obra": ", Exped. 51 (R. 21. 492). X"
+              "referencia_obra": ", Exped. 51 (R. 21. 492)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Bien lejos de huir los mejicanos como ovejas, se arrojaban como leones.»",
               "autor": "Feijóo",
               "referencia_obra": ", Teatro crít. (Cl. C. 53. 159)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, para señalar el destino.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Huyendo a todas partes, se atropellaban y herían unos a otros.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 2. 17 (R. 28. 2561)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los chicuelos huían en todas direcciones.»",
                   "autor": "Alegría",
                   "referencia_obra": ", El mundo es ancho y ajeno, 1 (p. 39)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Aplicado a los animales. Con la expresión en desbandada, para indicar el modo. X",
+              "definicion": "Aplicado a los animales. Con la expresión en desbandada, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tras uno de los grandes pajares, asustando a las gallinas, que huían en desbandada, una mano le hacía señas [a Tonet] para que se aproximase.»",
                   "autor": "",
                   "referencia_obra": "Blasco Ibáñez, Cañas y barro, 5 (p. 112)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -388,189 +556,257 @@
     {
       "id": "b)",
       "definicion": "Salir furtiva o indebidamente (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Huye, que solo aquel que huye escapa.»",
               "autor": "León",
-              "referencia_obra": ", Poes. 1, No te engañe el dorado (4. 318). X"
+              "referencia_obra": ", Poes. 1, No te engañe el dorado (4. 318)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entristeciose mucho Sancho deste suceso, porque se le representó que los que iban huyendo habían de dar noticias del caso a la Santa Hermandad.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 22 (Cl. C. 6. 223)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. refl. X",
+              "definicion": "Con dat. refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Da tiempo al tiempo, que pues no se nos puede huir esta traidora, no te precipites.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 3. 5 (Cl. Castal. 12. 306)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con a y una prop. en infinitivo, para indicar coincidencia de tiempo. X",
+              "definicion": "Con a y una prop. en infinitivo, para indicar coincidencia de tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Superada esa dificultad, no era posible que el prisionero pudiese huir al encontrarse en el zaguán, sin abrirle la puerta de la calle.»",
                   "autor": "Blest Gana",
                   "referencia_obra": ", El loco Estero, p. 74."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, para indicar la compañía. X",
+              "definicion": "Con la prep. con, para indicar la compañía.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«De nada ha de servirle. Que su hija huyó con mi señor... y lo sabrá todo el mundo... y a él más que a nadie importa que nadie sepa cómo su hija se perdió por un hombre sin condición, perseguido por la Justicia.»",
                   "autor": "Benavente",
-                  "referencia_obra": ", Intereses creados, 2. 3. 8 (p. 127). — Además con de, para indicar el lugar. X"
+                  "referencia_obra": ", Intereses creados, 2. 3. 8 (p. 127)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con de, para indicar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Suponed que vuestra hija le amara con locura, hasta el punto de haber huído con él de vuestra casa.»",
+                      "autor": "Benavente",
+                      "referencia_obra": ", Intereses creados, 2. 3. 8 (p. 128)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Suponed que vuestra hija le amara con locura, hasta el punto de haber huído con él de vuestra casa.»",
-                  "autor": "Benavente",
-                  "referencia_obra": ", Intereses creados, 2. 3. 8 (p. 128). — Además con para y una prop. en infinitivo, que indica la finalidad. X"
-                },
-                {
-                  "texto_cita": "«Este dolor la purifica y la sublima hasta el punto de pensar en huir con un paje para ser tenida por una artificiosa adúltera y dejar así que Inés y Pedro, libres de remordimientos, puedan amarse a las claras.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Por tierras de Port. y Esp. p. 11."
+                  "id_limpio": "—",
+                  "definicion": "Además con para y una prop. en infinitivo, que indica la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Este dolor la purifica y la sublima hasta el punto de pensar en huir con un paje para ser tenida por una artificiosa adúltera y dejar así que Inés y Pedro, libres de remordimientos, puedan amarse a las claras.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Por tierras de Port. y Esp. p. 11."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con de, para señalar el lugar de donde. X",
+              "definicion": "Con de, para señalar el lugar de donde.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si me creéis, Lucrecio, | Buscaldo por otra vía | Cual quisierdes, | Que siendo los años verdes, | Podéis hallarlo d´espacio; | Y huid mientras pudierdes | De la prisión de palacio.»",
                   "autor": "Castillejo",
-                  "referencia_obra": ", Obr. morales, 8 (Cl. C. 88. 256). X"
+                  "referencia_obra": ", Obr. morales, 8 (Cl. C. 88. 256)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Huyamos de esta ciudad antes de que nadie pueda descubrirme y vengan a saber lo que somos.»",
                   "autor": "Benavente",
                   "referencia_obra": ", Intereses creados, 1. 2. 9 (p. 89)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con hacia, para indicar a donde. X",
+              "definicion": "Con hacia, para indicar a donde.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuenta la hazaña del campo | El agua clara corriendo, | Mientras los dos asesinos | Huyen hacia los hayedos.»",
                   "autor": "Machado",
                   "referencia_obra": ", Poes. compl. p. 114."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con por, para indicar el lugar. X",
+              "definicion": "Con por, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Condujéronle después por el camino por donde había huido el homicida, hasta la casa donde se había refugiado.»",
                   "autor": "Feijóo",
-                  "referencia_obra": ", Teatro crít. (Cl. C. 53. 33). X"
+                  "referencia_obra": ", Teatro crít. (Cl. C. 53. 33)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Los dos espías de los conspiradores habían huído por la puerta de salida al callejón.»",
                   "autor": "",
                   "referencia_obra": "Blest. Gana, El loco Estero, p. 43."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Con un predicado referido al sujeto. +",
+              "definicion": "Con un predicado referido al sujeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«En cuanto halló oportunidad [el duque de Maddalone] --- huyó disfrazado.»",
                   "autor": "A. Saav.",
                   "referencia_obra": "Masan. 1. 9 (R. 102. 1512)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. +",
+          "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Si entrasen dos compañeros juntos en un mesón y comiesen en él a su placer, y después el uno se huyese secretamente, el mesonero apretaría al compañero que quedó para que pagase el escote por ambos.»",
               "autor": "Rivad.",
               "referencia_obra": "Trib. 1. 7 (R. 60. 3702)."
             },
             {
+              "marca": "",
               "texto_cita": "«Garilo se huye y esconde en la tienda de un alquimista.»",
               "autor": "Valb.",
               "referencia_obra": "Bern. 15 (R. 17. 2951)."
             },
             {
+              "marca": "",
               "texto_cita": "«Llegaron los soldados al cuartel en que había estado poco antes el de Holach, y creyendo que se huía, diéronse prisa a caminar.»",
               "autor": "Coloma",
-              "referencia_obra": ", Guerras de los Est. Bajos, 5 (R. 28. 672). X"
+              "referencia_obra": ", Guerras de los Est. Bajos, 5 (R. 28. 672)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hasta el mismo Ciriaco se fue a la bola y por poco lo fusilan en Querétaro; pero alcanzó a huirse y andando de noche pudo volver al pueblo.»",
               "autor": "",
               "referencia_obra": "Yáñez, Al filo del agua, p. 374."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para indicar el lugar a donde. X",
+              "definicion": "Con a, para indicar el lugar a donde.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Por no pagar sus trampas [los deudores] se huyen, fingiendo una melancolia, a una aldea, y desde allí hacen el coco a los acreedores.»",
                   "autor": "Torres Villarroel",
                   "referencia_obra": ", Visiones y visitas (Cl. C. 161. 55)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, para indicar la compañía, y en, el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se huyó en traje de arnaute con un griego espía, y no sé si vino en libertad.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 39 (R. 1. 3642). X"
+                  "referencia_obra": "Quij. 1. 39 (R. 1. 3642)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Un buen día se desayunó la gente con el escándalo de que la cirquera se había huido con el hijo mayor de la familia que la recogió.»",
                   "autor": "",
-                  "referencia_obra": "Yáñez, Al filo del agua, p. 147. — Además con de, para señalar el lugar. +"
-                },
+                  "referencia_obra": "Yáñez, Al filo del agua, p. 147."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Refirió --- de qué manera Tisbe se había huido de Atenas con un su enamorado.»",
-                  "autor": "F. de Mena",
-                  "referencia_obra": ", Teágenes y Cariclea, 6 (p. 223)."
+                  "id_limpio": "—",
+                  "definicion": "Además con de, para señalar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Refirió --- de qué manera Tisbe se había huido de Atenas con un su enamorado.»",
+                      "autor": "F. de Mena",
+                      "referencia_obra": ", Teágenes y Cariclea, 6 (p. 223)."
+                    }
+                  ]
                 }
               ]
             }
@@ -580,139 +816,171 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Habiendo mal príncipe y tirano, los otros andarán huidos, y a sombra, como dicen, de tejados.»",
               "autor": "Almazán",
               "referencia_obra": ", Momo, 2. 7 (p. 261)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mirad en lo que ha parado este hombre, sus sermones, milagros, y la gente que le creía: él condenado a muerte, sus discípulos huidos, y todo acabado y perdido.»",
               "autor": "Ávila",
-              "referencia_obra": ", Eucar. 2 (3. 49). +"
+              "referencia_obra": ", Eucar. 2 (3. 49)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Aquí [en Ohanes] se recojían moros que andavan huidos en la montaña.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granad. 3 (p. 67)."
             },
             {
+              "marca": "",
               "texto_cita": "«De allí se volvió a Portugal, do anduvo huído y desterrado.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 16. 17 (R. 30. 4861)."
             },
             {
+              "marca": "",
               "texto_cita": "«Tuvo al peligro temor, | Buscó cartas de favor, | Y a la corte viene huido.»",
               "autor": "Tirso",
               "referencia_obra": ", La villana de Vallecas, 1. 10 (R. 5. 493)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, para indicar compañía.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Envió a llamar al hermano mayor del rey, llamado Cachil Tabarija, que andaba huido con algunos mal satisfechos.»",
                   "autor": "B. Argens.",
                   "referencia_obra": "(Capm. Teatro, 4. 397)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de, para señalar aquello de lo que se escapa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por las montañas andan huidos de las justicias, condenados y haciendo delitos.»",
                   "autor": "Melo",
-                  "referencia_obra": ", Guerra de Catal. 3 (R. 21. 971). X"
+                  "referencia_obra": ", Guerra de Catal. 3 (R. 21. 971)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tuvo fugaces encuentros con paisanos rebeldes de uno y otro bando, huidos de los rancheríos, dispuestos a vivir a monte, a campo abierto.»",
                   "autor": "Amorim",
                   "referencia_obra": ", El ladero, p. 24."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Trasladémonos al tiempo en que el joven Alfonso regía el palacio del rey Silo y a los años siguientes en que tuvo que andar huido por Alava.»",
                   "autor": "Mndz. Pidal",
                   "referencia_obra": ", Miscelánea hist.-lit. p. 52."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No sólo proveyó Dios de nido a aquestos huydos, mas para cada un estado de los demás fieles hizo sus proprias guaridas.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 10, Esposo (Cl. C. 28. 248)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Cómo es, que desde la raya, | Según informa un huido, | Han preso y han impedido | Que avise cada atalaya?»",
                   "autor": "Hartz.",
-                  "referencia_obra": "La jura en Santa Gadea, 1. 10 (p. 169). X"
+                  "referencia_obra": "La jura en Santa Gadea, 1. 10 (p. 169)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Manuela se había escapado en los brazos de un amante. Los tíos de Pilar encontraron al pie de la cerca, y medio oculta entre la maleza y el lodo, la linterna sorda que había servido a la joven para alumbrarse y que arrojó allí al huir.»",
                   "autor": "Altamirano",
                   "referencia_obra": ", El zarco, 12 (p. 103)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Tratándose del hogar o la familia, Abandonarlos. Con de. X",
+          "definicion": "Tratándose del hogar o la familia, Abandonarlos. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Se me aparece en tus habitaciones interiores y recónditas este joven misterioso que huye de su hogar y anda de casa en casa.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 5 (p. 513). X"
+              "referencia_obra": ", Amalia, 5 (p. 513)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Nuestra hija huye de casa, huye de nosotros.»",
               "autor": "Unamuno",
               "referencia_obra": ", Abel Sánchez, 26 (p. 109)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Además con para y una prop. en infinitivo, que indica finalidad. X",
+              "definicion": "Además con para y una prop. en infinitivo, que indica finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Miraba como cosa muy acaecedera que mi casa viniese a ser un infierno, y que llegara día en que, lejos de poderme acoger a ella como a amado y apacible refugio --- tuviese que huir del hogar para disipar el tedio y para ahogar negros sinsabores en el tráfago y los tumultos de la calle.»",
                   "autor": "Marroquín",
                   "referencia_obra": ", Blas Gil, 15 (p. 152)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Part. dep. X",
+              "definicion": "Part. dep.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Rosas fue conocido desde que tuvo 15 años. A esa edad fue hijo insolente; a los diez y seis, fue hijo huido.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 4 (p. 411)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -721,244 +989,402 @@
     {
       "id": "c)",
       "definicion": "Irse, apartarse, alejarse (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con sujeto de persona. X",
+          "definicion": "Con sujeto de persona.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Non fuyan las vuestras mercedes, ni teman desaguisado alguno.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 2 (Cl. C. 4. 79). X"
+              "referencia_obra": "Quij. 1. 2 (Cl. C. 4. 79)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En tanto que el entierro os apercibo, | Porque no huyas cerraré esta puerta.»",
               "autor": "Cald.",
-              "referencia_obra": "La devoción de la cruz (Cl. Ebro, 66. 62). X"
+              "referencia_obra": "La devoción de la cruz (Cl. Ebro, 66. 62)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Oh pobre niño, | ¡Huye! ¿estás ciego? | ¿No ves el fuego? ¡Lejos de mí!»",
               "autor": "J. E. Caro",
-              "referencia_obra": ", Poes. complet. p. 56. X"
+              "referencia_obra": ", Poes. complet. p. 56."
             },
             {
+              "marca": "X",
               "texto_cita": "«El hombre que iba a tener que huir percibía en Alicia el sabor de las tierras en que iba a perderse en que quizá tendría que morir por fin.»",
               "autor": "Gómez de la Serna",
               "referencia_obra": ", Cab. del hongo gris, p. 52."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Hiriéndome más de amor con tu flecha y aumentando la passión y apetito de tu uista, huyes con ligereza de cieruo y no te dexas comprehender algún tanto.»",
-                  "autor": "",
-                  "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 31). — La compañía. X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hiriéndome más de amor con tu flecha y aumentando la passión y apetito de tu uista, huyes con ligereza de cieruo y no te dexas comprehender algún tanto.»",
+                      "autor": "",
+                      "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 31)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«La vida se hizo imposible con este nuevo infortunio y la señora Rosario decidió huir con los suyos en busca de mayor seguridad.»",
-                  "autor": "Osorio Lizarazo",
-                  "referencia_obra": ", El camino en la sombra, p. 22."
+                  "id_limpio": "—",
+                  "definicion": "La compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La vida se hizo imposible con este nuevo infortunio y la señora Rosario decidió huir con los suyos en busca de mayor seguridad.»",
+                      "autor": "Osorio Lizarazo",
+                      "referencia_obra": ", El camino en la sombra, p. 22."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de, para señalar: — aquello de lo que se aleja.",
-              "ejemplos_citas": [
+              "definicion": "Con de, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¿Qué lazos, qué redes tienen, | Silena, tus ojos bellos, | Que cuanto más huyo dellos, | Más me enlazan y detienen?»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Gal. 5 (R. 1. 662)."
-                },
-                {
-                  "texto_cita": "«Desean huir cien mil cuentos de leguas del lugar donde tanto mal les puede venir.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Festiv. 11 (5. 346)."
-                },
-                {
-                  "texto_cita": "«No le hagáis vos traición; no huigáis vos de su campo.»",
-                  "autor": "",
-                  "referencia_obra": "Id. Epist. 2. 25 (6. 357). X"
-                },
-                {
-                  "texto_cita": "«Es la ciudad odiable y odiosa del trajín social, de los cafés, de los casinos y los clubes, de los teatros, de los parlamentos, la odiosa ciudad de las vanidades y las envidias. Huyo de esta ciudad, en cuanto puedo. El campo es una liberación.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Andanzas y visiones esp. p. 25."
+                  "id_limpio": "—",
+                  "definicion": "aquello de lo que se aleja.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«¿Qué lazos, qué redes tienen, | Silena, tus ojos bellos, | Que cuanto más huyo dellos, | Más me enlazan y detienen?»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Gal. 5 (R. 1. 662)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Desean huir cien mil cuentos de leguas del lugar donde tanto mal les puede venir.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Festiv. 11 (5. 346)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«No le hagáis vos traición; no huigáis vos de su campo.»",
+                      "autor": "",
+                      "referencia_obra": "Id. Epist. 2. 25 (6. 357)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Es la ciudad odiable y odiosa del trajín social, de los cafés, de los casinos y los clubes, de los teatros, de los parlamentos, la odiosa ciudad de las vanidades y las envidias. Huyo de esta ciudad, en cuanto puedo. El campo es una liberación.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Andanzas y visiones esp. p. 25."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por, para señalar: — el modo.",
-              "ejemplos_citas": [
+              "definicion": "Con por, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¿No os dije, perro insensato, | Que si huíades por tierra, | Que os haría aqueste trato?»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Los baños de Argel, 1 (Com. 1. 138). — El medio. X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«¿No os dije, perro insensato, | Que si huíades por tierra, | Que os haría aqueste trato?»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Los baños de Argel, 1 (Com. 1. 138)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Cuando volví a ver con mis ojos mortales la faz amarilla y desencajada de Concha, --- el terror que sentí fue tanto, que comencé a rezar, y de nuevo me acudió la tentación de huir por aquella ventana abierta.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de otoño, p. 83."
+                  "id_limpio": "—",
+                  "definicion": "El medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cuando volví a ver con mis ojos mortales la faz amarilla y desencajada de Concha, --- el terror que sentí fue tanto, que comencé a rezar, y de nuevo me acudió la tentación de huir por aquella ventana abierta.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de otoño, p. 83."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con un predicado. X",
+              "definicion": "Con un predicado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No tímidos huyáis si en mi aposento | Veis el mango asomar de hosca pistola.»",
                   "autor": "Pombo",
-                  "referencia_obra": ", Antol. poética, p. 190. X"
+                  "referencia_obra": ", Antol. poética, p. 190."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Los indios huyen tan atemorizados como los blancos.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 215). — Además con la prep. con, para indicar la compañía. X"
-                },
+                  "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 215)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Don Sancho, con una hija | De dos años, huyó oculto.»",
-                  "autor": "Rojas",
-                  "referencia_obra": ", Del rey abajo ninguno (Cl. Ebro, 55. 105)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para indicar la compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Don Sancho, con una hija | De dos años, huyó oculto.»",
+                      "autor": "Rojas",
+                      "referencia_obra": ", Del rey abajo ninguno (Cl. Ebro, 55. 105)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con un gerundio, para indicar el modo. X",
+              "definicion": "Con un gerundio, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El caminante huyó brincando por una rambla.»",
                   "autor": "Miró",
-                  "referencia_obra": ", Años y leguas, p. 115. X"
+                  "referencia_obra": ", Años y leguas, p. 115."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Lo que él quería era huir --- saltando por árboles y balcones, asomándose a los ventanillos y a los montantes de las casas preocupadas.»",
                   "autor": "Gómez de la Serna",
                   "referencia_obra": ", Cab. del hongo gris, p. 151."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Trans. Apartar, separar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Muestra, muestra [tus manos], | No las huyas, que es simpleza.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Los baños de Argel, 2 (Com. 1. 148). X"
+                  "referencia_obra": "Los baños de Argel, 2 (Com. 1. 148)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo cogí de nuevo sus manos y las conservé entre las mías, sin intentar besarlas, temeroso de que volviese a huirlas.»",
                   "autor": "",
-                  "referencia_obra": "Valle- Inclán, Sonata de invierno, p. 117. — Con a, para señalar aquello de lo que se aparta."
+                  "referencia_obra": "Valle- Inclán, Sonata de invierno, p. 117."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con a, para señalar aquello de lo que se aparta.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«No a su yugo, que es de flores, | Huyas indócil el cuello.»",
+                      "autor": "Mel.",
+                      "referencia_obra": "rom. 21 (R. 63. 1423)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«No a su yugo, que es de flores, | Huyas indócil el cuello.»",
-                  "autor": "Mel.",
-                  "referencia_obra": "rom. 21 (R. 63. 1423). — Con de."
-                },
-                {
-                  "texto_cita": "«Fortuna quiere --- | Que no pueda huir el cuello | Del cuchillo que me hiere.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Gal. 5 (R. 1. 662)."
+                  "id_limpio": "—",
+                  "definicion": "Con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Fortuna quiere --- | Que no pueda huir el cuello | Del cuchillo que me hiere.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Gal. 5 (R. 1. 662)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Prnl. X",
+              "definicion": "Prnl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No hagas de otro caso, | Pues se huye la vida paso a paso.»",
                   "autor": "Quev.",
-                  "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 64). — Con de. X"
+                  "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 64)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Amor a un mismo tiempo | De Cesenia y de Laida, | Ambas a dos rameras, | Y asaz hermosas ambas, | Como al fin ceguezuelo | Me tiene entre dos aguas: | Ni sé de cuál me huya | Ni acierto a cuál me vaya.»",
+                      "autor": "Villegas",
+                      "referencia_obra": ", Eróticas, Mon. 56 (Cl. C. 21. 311)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Amor a un mismo tiempo | De Cesenia y de Laida, | Ambas a dos rameras, | Y asaz hermosas ambas, | Como al fin ceguezuelo | Me tiene entre dos aguas: | Ni sé de cuál me huya | Ni acierto a cuál me vaya.»",
-                  "autor": "Villegas",
-                  "referencia_obra": ", Eróticas, Mon. 56 (Cl. C. 21. 311). — Con la combinación de... a, para indicar el punto de partida y el de llegada."
+                  "id_limpio": "—",
+                  "definicion": "Con la combinación de... a, para indicar el punto de partida y el de llegada.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Se huyó de la alquería | A la ciudad por sus hechizos vanos.»",
+                      "autor": "Mel.",
+                      "referencia_obra": "égl. 1 (R. 63. 1762)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Se huyó de la alquería | A la ciudad por sus hechizos vanos.»",
-                  "autor": "Mel.",
-                  "referencia_obra": "égl. 1 (R. 63. 1762). — Impers. X"
+                  "id_limpio": "—",
+                  "definicion": "Impers.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡Oh bella ingrata, a quien el alma adora! | —Entonces dije, y me arrojé tras ella—, | Detente, aguarda agora: | Del enemigo es justo que se huya.»",
+                      "autor": "Jáur.",
+                      "referencia_obra": "Rimas (Cl. C. 182. 111)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¡Oh bella ingrata, a quien el alma adora! | —Entonces dije, y me arrojé tras ella—, | Detente, aguarda agora: | Del enemigo es justo que se huya.»",
-                  "autor": "Jáur.",
-                  "referencia_obra": "Rimas (Cl. C. 182. 111). — Con de. +"
-                },
-                {
-                  "texto_cita": "«Dize el testo que se huyga presto o en continente de personas lisonjeras.»",
-                  "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 2. (1. 23). X"
-                },
-                {
-                  "texto_cita": "«Se huye del sordo como de un apestado o de un criminal.»",
-                  "autor": "Ramón y Cajal",
-                  "referencia_obra": ", El mundo, 1. 2 (p. 33)."
+                  "id_limpio": "—",
+                  "definicion": "Con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Dize el testo que se huyga presto o en continente de personas lisonjeras.»",
+                      "autor": "Oviedo",
+                      "referencia_obra": ", Quinquag. 1. 2. (1. 23)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Se huye del sordo como de un apestado o de un criminal.»",
+                      "autor": "Ramón y Cajal",
+                      "referencia_obra": ", El mundo, 1. 2 (p. 33)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— θ θ )",
               "id_limpio": "— θ θ )",
-              "definicion": "Sustantivado. Con de. X",
+              "definicion": "Sustantivado. Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Ah! no vayas (que el verlo me da espanto), | No vayas por tan áspero sendero, | Que si el huir de mí te obliga a tanto, | Dar otro paso en pos de ti no quiero.»",
                   "autor": "Bello",
                   "referencia_obra": ", Poes. p. 407."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Aplicado a los animales. Con de, para indicar el lugar. X",
+          "definicion": "Aplicado a los animales. Con de, para indicar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las últimas golondrinas, | Que no emprendieron la marcha, | Morirán, y las cigüeñas | De sus nidos de retamas, | En torres y campanarios, | Huyeron.»",
               "autor": "Machado",
-              "referencia_obra": ", Poes. compl. p. 126. — Además con la prep. con, para indicar el modo. X"
-            },
+              "referencia_obra": ", Poes. compl. p. 126."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Vencidos, | Unos se acojen al palacio regio | Do está la Inquisición, otros cobardes | De este recinto con presura huyeron.»",
-              "autor": "A. Saav.",
-              "referencia_obra": "Lanuza, 1 (Cl. C. 206. 146)."
+              "id_limpio": "—",
+              "definicion": "Además con la prep. con, para indicar el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Vencidos, | Unos se acojen al palacio regio | Do está la Inquisición, otros cobardes | De este recinto con presura huyeron.»",
+                  "autor": "A. Saav.",
+                  "referencia_obra": "Lanuza, 1 (Cl. C. 206. 146)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, para señalar: — el lugar. X",
-              "ejemplos_citas": [
+              "definicion": "Con por, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Después que buen rato passaron en este juego, el ciervo dio a huir por aquellos corredores.»",
-                  "autor": "Gil Polo",
-                  "referencia_obra": ", Diana (Cl. C. 135. 224). X"
-                },
-                {
-                  "texto_cita": "«Huya eI tropel equino por la montaña vasta; | Tu rostro de ultratumba bañe la luna casta | De compasiva y blanca luz.»",
-                  "autor": "Darío",
-                  "referencia_obra": ", Poes. p. 223."
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Después que buen rato passaron en este juego, el ciervo dio a huir por aquellos corredores.»",
+                      "autor": "Gil Polo",
+                      "referencia_obra": ", Diana (Cl. C. 135. 224)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Huya eI tropel equino por la montaña vasta; | Tu rostro de ultratumba bañe la luna casta | De compasiva y blanca luz.»",
+                      "autor": "Darío",
+                      "referencia_obra": ", Poes. p. 223."
+                    }
+                  ]
                 }
               ]
             }
@@ -968,108 +1394,133 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con sujeto de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Muchas veces acaece con los remedios que ellos ponen para alcanzarla [la humildad] huir ella más, y aun del mismo humillarse suele nacer su contrario, que es la soberbia.»",
               "autor": "Ávila",
               "referencia_obra": ", Audi. 64 (Míst. 3. 252)."
             },
             {
+              "marca": "",
               "texto_cita": "«Huyen las nubes, resplandece el cielo.»",
               "autor": "F. de la Torre",
-              "referencia_obra": ", 3, égl. 5 (p. 121). X"
+              "referencia_obra": ", 3, égl. 5 (p. 121)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Reclinado en la alta popa | Del bajel que huye veloz, | Nuestros montes irse miro | Alumbrados por el sol.»",
               "autor": "Caro",
-              "referencia_obra": ", Poes. complet. p. 104. X"
+              "referencia_obra": ", Poes. complet. p. 104."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sus sentimientos familiares habían huido muy lejos.»",
               "autor": "Larreta",
               "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 168)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Cuándo será que pueda | Libre de esta prisión volar al cielo, | Felipe, y en la rueda | Que huye más del suelo, | Contemplar la verdad pura sin velo?»",
                   "autor": "León",
                   "referencia_obra": ", Poes. 1, oda que principia así (4. 306)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pues ya la luz alegre | Del claro sol nos mira, | Y de sus rayos huye | La oscura sombra y fria ---.»",
                   "autor": "Jáur.",
                   "referencia_obra": "trad. Pues ya la luz (R. 42. 1211)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Verdad es que suele ser milagrosa en sus obras la naturuleza, y que parece que huyendo de la curiosidad del ingenio humano, obra algunas veces fuera del orden de la razón y de las causas.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 81 (R. 25. 2171)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Sabio le llama el mundo porque en una | Ciencia alcanzó lo que anhelaron muchos; | No porque en ella al término llegase; | Que inaccesible de los hombres huye.»",
                   "autor": "Mor.",
                   "referencia_obra": "epíst. 5 (R. 2. 5831)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Siempre huye [la perfección] del anhelo con que los hombres la solicitan: nada hay perfecto.»",
                   "autor": "",
                   "referencia_obra": "Id. com. disc. prel. (R. 2. 324)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tras de batir la hostilidad del viento | Cuando el paso del águila se avisa | Huye el alma en las alas de tu prisa, | Camino de su gloria y cumplimiento.»",
                   "autor": "Ridruejo",
                   "referencia_obra": ", Poes. en armas (Cl. Castal. 73. 176)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por, para indicar el medio. X",
+              "definicion": "Con por, para indicar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La niebla huía por el cielo como un alocado rebaño.»",
                   "autor": "Alegría",
                   "referencia_obra": ", El mundo es ancho y ajeno, 9 (p. 366)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Prnl. Con de. +",
+              "definicion": "Prnl. Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Aquel bergantín de turcos se huye de nosotros.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 2. 13 (Cl. C. 51. 113)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Part. adj. En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Vil te sea | Más que las ovas viles; más huído | Que del lobo es la oveja yo me vea.»",
                   "autor": "León",
                   "referencia_obra": ", Poes. 2, égl. 7 (4. 423)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1078,157 +1529,194 @@
     {
       "id": "d)",
       "definicion": "met. Extinguir, desaparecer, esfumarse (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α)",
           "id_limpio": "— α)",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Yo sé bien cuánto duele una esperanza | Que huye, y sin temor que crece en pena.»",
               "autor": "Herr.",
               "referencia_obra": "2, son. 50 (R. 32. 3132)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Oh Roma! en tu grandeza, en tu hermosura, | Huyó lo que era firme, y solamente | Lo fugitivo permanece y dura.»",
               "autor": "Quev.",
               "referencia_obra": "Musa 1, son. 3 (R. 69. 41)."
             },
             {
+              "marca": "",
               "texto_cita": "«Huyó la delicada | Tez, y el color purísimo de rosa.»",
               "autor": "Mor.",
               "referencia_obra": "oda 7 (R. 2. 5892)."
             },
             {
+              "marca": "",
               "texto_cita": "«Al paso que caían los árboles y huían las sombras del bosque, le iban abandonando poco a poco sus inocentes y antiguos moradores.»",
               "autor": "Jovell.",
               "referencia_obra": "Descr. del castillo de Bellver (R. 46. 4011)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. Además con a, para indicar el modo. X",
+              "definicion": "Con dat. Además con a, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El gran Julio, buscó el mártir decoro para su caer, y con un gesto altivo de inmortal gentileza probó parar la vida que le huía a torrentes de las enormes grietas que abrieron en su sien las abominables manos aleves.»",
                   "autor": "Valencia",
                   "referencia_obra": ", Discursos, 2 (p. 55)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con bajo, que equivale a debajo de. X",
+              "definicion": "Con bajo, que equivale a debajo de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Despedazados [los exterminadores] en el tormento | Sin su tierra tibia de flores | Que huía bajo sus plantas.»",
                   "autor": "Neruda",
                   "referencia_obra": ", Poes. p. 118."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La amenidad huyó de aquel recinto.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "epíst. a sus amigos de Salam. (R. 46. 372). X"
+                  "referencia_obra": "epíst. a sus amigos de Salam. (R. 46. 372)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La sencillez, la majestad, el arte, | El decoro, la gracia, la nobleza, | De nuestro Teatro huyeron.»",
                   "autor": "Olmedo",
                   "referencia_obra": ", Poes. Loa (p. 34)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, para indicar el modo. Además con ante, para señalar la causa. X",
+              "definicion": "Con en, para indicar el modo. Además con ante, para señalar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Era necesario que las tinieblas de la noche huyeran en tropel ante la luz resplandeciente del nuevo día.»",
                   "autor": "Valencia",
                   "referencia_obra": ", Discursos, 2 (p. 105)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con entre, que equivale a en medio de. X",
+              "definicion": "Con entre, que equivale a en medio de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Qué fue de aquel mi corazón sonoro? | ¿Será cierto que os vais, sombras gentiles, | Huyendo entre los árboles de oro?»",
                   "autor": "Machado",
-                  "referencia_obra": ", Poes. complet. p. 81. X"
+                  "referencia_obra": ", Poes. complet. p. 81."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Él [el joven] no se movió del puesto sobre la solera; el mundo entero huyó entre sus ojos y sus dedos.»",
                   "autor": "Fuentes",
                   "referencia_obra": ", Obr. complet. p. 722."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. Con de, para señalar la causa. X",
+          "definicion": "Prnl. Con de, para señalar la causa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Son tales los nombres de sus recetas y tales sus medicinas, que las más veces, de asco de sus porquerías y hediondeces con que persiguen a los enfermos, se huyen las enfermedades.»",
               "autor": "Quev.",
               "referencia_obra": "Sueños (Cl. C. 31. 205)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Si a un pobre caminante | Le sucediese por extraña vía | Huírsele delante | Al fenecer el día | El albergue esperado ---.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Gal. 3 (R. 1. 432)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Acida es ya la miel, cansado el ritmo | De este incierto vagar sobre la tierra. | Seco está el llanto, huida la sonrisa | Y borradas las mágicas presencias.»",
               "autor": "Ibarbourou",
               "referencia_obra": ", Antol. poética, p. 293."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "En el siguiente ejemplo, Morirse. Con de. X",
+          "definicion": "En el siguiente ejemplo, Morirse. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Ay! yo huérfano soy: mi noble padre | Huyó por siempre de la faz del mundo; | Que, de la mano asido con la muerte, | Bajar lo vi las gradas del sepulcro.»",
               "autor": "J. E. Caro",
               "referencia_obra": ", Poes. complet. p. 124."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1236,41 +1724,51 @@
     {
       "id": "e)",
       "definicion": "Con voces que expresen idea de tiempo, Transcurrir o pasar velozmente (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Huyen las horas, y cuasi no las habemos sentido pasar.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 2, Brazo (3. 164)."
             },
             {
+              "marca": "",
               "texto_cita": "«Murieron nuestros males, | Sucedió tiempo alegre y huyó el triste.»",
               "autor": "Valb.",
               "referencia_obra": "Grand. mej. dedic. (p. 6)."
             },
             {
+              "marca": "",
               "texto_cita": "«Arde, que huyen las veloces horas.»",
               "autor": "Rioja",
               "referencia_obra": ", Son. amor. 21 (R. 32. 3772)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El tiempo se nos va de entre las manos, | Y huye de nosotros como un río.»",
                   "autor": "Valb.",
                   "referencia_obra": "Siglo de oro, 2 (p. 56)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1279,150 +1777,185 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Esquivar, evitar, rehuir (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¡Oh temeraria gente insana, | Huid, huid la ya vecina muerte.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 21 (R. 17. 801)."
             },
             {
+              "marca": "",
               "texto_cita": "«Amoroso pensamiento --- | No huyas el alegría | Ni menos cierres la puerta | Al llanto que amor envía.»",
               "autor": "Cerv.",
               "referencia_obra": "Gal. 1 (R. 1. 32)."
             },
             {
+              "marca": "",
               "texto_cita": "«Siente que los enemigos están minando hacia la parte donde él está, y no puede apartarse de allí por ningún caso, ni huir el peligro que de tan cerca le amenaza.»",
               "autor": "",
               "referencia_obra": "Id. Quij. 1. 38 (R. 1. 3612)."
             },
             {
+              "marca": "",
               "texto_cita": "«En este trajo he vivido | Huyendo el fiero rigor | Del príncipe mi señor.»",
               "autor": "Lope",
               "referencia_obra": ", El molino, 3. 19 (R. 24. 411)."
             },
             {
+              "marca": "",
               "texto_cita": "«La naturaleza huye el trabajo.»",
               "autor": "Valencia",
               "referencia_obra": ", dedic. (R. 24. 113)."
             },
             {
+              "marca": "",
               "texto_cita": "«Huye medios torcidos y violentos.»",
               "autor": "B. Argens.",
               "referencia_obra": "sát. ¿Esos consejos das? (R. 42. 3011)."
             },
             {
+              "marca": "",
               "texto_cita": "«Huyó Josef de Herodes la cruel mano.»",
               "autor": "",
               "referencia_obra": "Id. terc. De David en el trono (R. 42. 2791)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cerrando con todos, | Siguiéndoles he venido | Hasta aquí, porque me huyeron | Luego; que es usado estilo | Ser cobarde el maldiciente.»",
               "autor": "Cald.",
               "referencia_obra": "A secreto agravio secreta venganza, 3. 7 (R. 7. 6063)."
             },
             {
+              "marca": "",
               "texto_cita": "«Tú, conde, con la pluma y el arado, | Ya enriqueces la patria, ya la instruyes, | Y haciendo venturosos has ganado | El bien que buscas y el laurel que huyes.»",
               "autor": "Saman.",
               "referencia_obra": "Fáb. 2, dedic. (R. 61. 3621)."
             },
             {
+              "marca": "",
               "texto_cita": "«En soledad austera, | Huyendo los placeres, | Vive Damón en rústico recreo.»",
               "autor": "Arriaza",
-              "referencia_obra": ", canc. 2 (R. 67. 801). X"
+              "referencia_obra": ", canc. 2 (R. 67. 801)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hoy tengo por experiencia averiguado que únicamente los grandes santos y los grandes pecadores, poseen la virtud necesaria para huir las tentaciones del amor.»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Sonata de estío, p. 104."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "El acus. es una prop. en subjuntivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mas huyo que lo entienda, | (Justo recato) si ha de ser preciso | Le dé mi lengua aviso, | Y mi atrevida voz al fin la ofenda.»",
                   "autor": "Jáur.",
                   "referencia_obra": "canc. Deja tu albergue (R. 42. 1172)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "El acus. es una prop. en infinitivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Voy pasando por esto a toda priesa, | Huyendo cuanto puedo el ser prolijo.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 36 (R. 17. 1331)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Qué has de ser en efecto para menos | Que las plantas, huyendo ser amante?»",
                   "autor": "Jáur.",
                   "referencia_obra": "Aminta, 1 (R. 42. 1341)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Temeroso de que le hallasen con la oficina supersticiosa de sus maleficios, arrojándolos al mar, huía a Roma los castigos a que justamente destinaban las leyes a los mágicos perjudiciales.»",
                   "autor": "Tirso",
-                  "referencia_obra": ", Deleitar aprovechando, p. 1351. +"
+                  "referencia_obra": ", Deleitar aprovechando, p. 1351."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«A veces coger los zahinos al tigre en parte que no se les puede huir, adonde es para ver la batalla ---.»",
                   "autor": "Cobo",
                   "referencia_obra": ", Hist. Nuevo Mundo, 1. 9. 55 (R. 91. 3641)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, para señalar el lugar. X",
+              "definicion": "Con en, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si algunos había vivos, eran los que en algunas balsas de maderos se habían entrado al mar por huir en el agua el fuego de la tierra.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 1. 6 (Cl. Castal. 12. 81)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con por o porque, para indicar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Huye también los presentillos, visitaciones y cartas de mujeres, porque todo esto es liga para prender los corazones.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Guía, 2. 6, §1 (R. 6. 1311). +"
+                  "referencia_obra": "Guía, 2. 6, §1 (R. 6. 1311)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Es precepto que si son [las mujeres] malas las huyan por malas.»",
                   "autor": "J. de Pineda",
                   "referencia_obra": ", Agr. crist. 6. 19 (R. 162. 402)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1430,110 +1963,163 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Intrans. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Como queremos huir del trabajo, todo nos cansa.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cartas, 1. 31 (R. 55. 1191)."
             },
             {
+              "marca": "",
               "texto_cita": "«Podré yo discurrir como testigo | Que fui presente a toda la jornada, | Sin cegarme pasión, de la cual huyo, | Ni quitar a ninguno lo que es suyo.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 12 (R. 17. 502)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Quién os ha enseñado a huir de la ira que os amenaza?»",
               "autor": "Puente",
               "referencia_obra": ", Medit. 3. 1 (2. 24)."
             },
             {
+              "marca": "",
               "texto_cita": "«Por huir del calor del sol, partieron antes del amanecer.»",
               "autor": "Moncada",
               "referencia_obra": ". Exped. 52 (R. 21. 501)."
             },
             {
+              "marca": "",
               "texto_cita": "«El orador, no menos que el poeta, deben huir de los términos que pertenecen exclusivamente al lenguaje didáctico.»",
               "autor": "Capm.",
-              "referencia_obra": "Filosof. eloc. 2 (p. 204). X"
+              "referencia_obra": "Filosof. eloc. 2 (p. 204)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No huyas de las mujeres durante la juventud, si no quieres correr ridículamente tras de ellas en la vejez.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Charlas de café, 2 (p. 56)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Además con la prep. con, para indicar el modo. X",
+              "definicion": "Además con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Así concluía amonestando a todos que teman y huyan con gran cuidado del vicio de juzgar al prójimo, pues vendrán a caer en lo mismo que juzgaren.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Por tierras de Port. y Esp. p. 155."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Además con por o porque, para indicar la causa. +",
+              "definicion": "Además con por o porque, para indicar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Aborrecen y huyen del castigo [los muchachos], porque no saben la virtud que tienen aquellos azotes.»",
                   "autor": "Rivad.",
-                  "referencia_obra": "Trib. 1. 6 (R. 60. 3682). — El término es una prop. en infinitivo."
+                  "referencia_obra": "Trib. 1. 6 (R. 60. 3682)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. en infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Mas yo callo aunque importuno, | Y huigo de dar excusa.»",
+                      "autor": "Mend.",
+                      "referencia_obra": "carta Gloria y descanso (R. 32. 941)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Huigo de acordarme della, ni aun de oirla mentar.»",
+                      "autor": "",
+                      "referencia_obra": "L. Rueda, Los engaños, 2. 6 (R. 2. 2721)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Que quien escucha ofendido | No huye de perdonar.»",
+                      "autor": "Alarcón",
+                      "referencia_obra": ", Las paredes oyen, 3. 14 (R. 20. 603)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ustedes no se rocen con él, no le hablen palabra; huyan, si pueden, de encontrarle.»",
+                      "autor": "Mor.",
+                      "referencia_obra": "Obr. póst. (2. 238)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Mas yo callo aunque importuno, | Y huigo de dar excusa.»",
-                  "autor": "Mend.",
-                  "referencia_obra": "carta Gloria y descanso (R. 32. 941)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para indicar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Huigamos con todas nuestras fuerzas de dar escándalo a la flaqueza del prójimo.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Eucar. 13 (3. 375)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Huigo de acordarme della, ni aun de oirla mentar.»",
-                  "autor": "",
-                  "referencia_obra": "L. Rueda, Los engaños, 2. 6 (R. 2. 2721)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para indicar la situación.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Razón es que no huigamos en el destierro de estar con él donde él estuvo.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Epist. 4. 27 (7. 424)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Que quien escucha ofendido | No huye de perdonar.»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", Las paredes oyen, 3. 14 (R. 20. 603)."
-                },
-                {
-                  "texto_cita": "«Ustedes no se rocen con él, no le hablen palabra; huyan, si pueden, de encontrarle.»",
-                  "autor": "Mor.",
-                  "referencia_obra": "Obr. póst. (2. 238). — Además con la prep. con, para indicar el modo."
-                },
-                {
-                  "texto_cita": "«Huigamos con todas nuestras fuerzas de dar escándalo a la flaqueza del prójimo.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Eucar. 13 (3. 375). — Además con en, para indicar la situación."
-                },
-                {
-                  "texto_cita": "«Razón es que no huigamos en el destierro de estar con él donde él estuvo.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Epist. 4. 27 (7. 424). — El término es una prop. en subjuntivo."
-                },
-                {
-                  "texto_cita": "«Enseñadnos aquí cómo hacéis cuando queréis huir de que vengan en lo que escribís muchas vocales juntas.»",
-                  "autor": "Valdés",
-                  "referencia_obra": ", Diál. (Mayáns, 44)."
-                },
-                {
-                  "texto_cita": "«Yo, Señor, huigo de que se me pegue deshonra de pecados ajenos.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Eucar. 10 (3. 272)."
-                },
-                {
-                  "texto_cita": "«Y así anduvo huyendo de que sus ojos se encontrasen con los de Leonisa.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Amante liberal (R. 1. 1261)."
-                },
-                {
-                  "texto_cita": "«Condición de los celos esconderse, | Quererse declarar, y no atreverse, | Que como son desprecio del paciente | Huye de que se entienda lo que siente.»",
-                  "autor": "Lope",
-                  "referencia_obra": ", Gatom. (Obr. suelt. 19. 214)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. en subjuntivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Enseñadnos aquí cómo hacéis cuando queréis huir de que vengan en lo que escribís muchas vocales juntas.»",
+                      "autor": "Valdés",
+                      "referencia_obra": ", Diál. (Mayáns, 44)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Yo, Señor, huigo de que se me pegue deshonra de pecados ajenos.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Eucar. 10 (3. 272)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y así anduvo huyendo de que sus ojos se encontrasen con los de Leonisa.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Amante liberal (R. 1. 1261)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Condición de los celos esconderse, | Quererse declarar, y no atreverse, | Que como son desprecio del paciente | Huye de que se entienda lo que siente.»",
+                      "autor": "Lope",
+                      "referencia_obra": ", Gatom. (Obr. suelt. 19. 214)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1542,56 +2128,77 @@
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Recebir al Señor y no sentir provecho de venida de huésped tan bueno y que ordena esta venida --- es cosa muy peligrosa y que mucho se deve huir.»",
               "autor": "Ávila",
-              "referencia_obra": ", Epist. (Cl. C. 11. 43). X"
+              "referencia_obra": ", Epist. (Cl. C. 11. 43)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Las competencias hanse de huir; si forzoso las ha de haber, sea con iguales.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán 1. 1. (Cl. C. 73. 118)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Vicios que se deben huir con igual cuidado, porque destruyen los demás aciertos del escritor.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 1. 1 (R. 28. 2082)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pero siempre convendrá variar esta cesura, pues de este modo se huye la monotonía.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Human. castell. (R. 46. 1401). X"
+                  "referencia_obra": "Human. castell. (R. 46. 1401)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Adoptado el método de la Academia que da esta enseñanza por la noche, y que ha tomado sus principios de la figura humana, --- se ha huido de la sencillez que conviene a toda primera enseñanza.»",
                   "autor": "",
-                  "referencia_obra": "Id. Mem. sobre educ. pública (Cl. C. 111. 66). X"
+                  "referencia_obra": "Id. Mem. sobre educ. pública (Cl. C. 111. 66)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El exordio debe ser sencillo, esto es, debe huirse en él de toda pompa y afectación.»",
                   "autor": "",
-                  "referencia_obra": "Hermosilla, Arte de hablar, 2. 1 (p. 296). — El término es una prop. en infinitivo."
-                },
+                  "referencia_obra": "Hermosilla, Arte de hablar, 2. 1 (p. 296)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Debe huirse también de acumular en una sentencia cosas que tienen tan poca conexión que pudieran dividirse en dos o más.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "Human. castell. Retór. (R. 46. 1162)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. en infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Debe huirse también de acumular en una sentencia cosas que tienen tan poca conexión que pudieran dividirse en dos o más.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "Human. castell. Retór. (R. 46. 1162)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1600,81 +2207,100 @@
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Recípr. Con para, y una prop. en infinitivo, que indica finalidad. X",
+          "definicion": "Recípr. Con para, y una prop. en infinitivo, que indica finalidad.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Esto nace de la antigua y arraigada libertad de huirse los unos a los otros para poder vivir a sus anchas y sin recelo de ser notados en sus infames y viles procedimientos.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Estud. mesa redonda, 11 (p. 165)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Part. dep. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A este propósito hace lo que acaeció al profeta Elías, estando en una cueva en el monte Horeb, huido de la reina Jezabel, que lo buscaba para matarlo.»",
               "autor": "Gran.",
               "referencia_obra": "Serm. contra escánd. (R. 11. 422)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Sustantivado. Con de. X",
+          "definicion": "Sustantivado. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El huir | De ocasiones amorosas | Es la mayor valentía | Y el vencerse gran vitoria.»",
               "autor": "",
               "referencia_obra": "M. de Amescua, La mesonera (Cl. C. 171. 14)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Huir el bulto (el cuerpo): eludir o esquivar un trabajo, riesgo o compromiso. X",
+              "definicion": "Huir el bulto (el cuerpo): eludir o esquivar un trabajo, riesgo o compromiso.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El tercero lugar de Cicerón es la interpretación de las palabras. Una gran cantera se descubre aquí; pero yo le huiré el cuerpo cautamente, remitiendo esto a quien trata principalmente de ello.»",
                   "autor": "Cascales",
-                  "referencia_obra": ", Cartas filológ. (Cl. C. 118. 51). +"
+                  "referencia_obra": ", Cartas filológ. (Cl. C. 118. 51)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Con ese alarde | De atroz salvajismo inculto, | Quiere usted huir el bulto | A mi venganza, ¡cobarde!»",
                   "autor": "Bretón",
-                  "referencia_obra": ", El pelo de la dehesa, 4. 10 (Cl. C. 92. 221). X"
+                  "referencia_obra": ", El pelo de la dehesa, 4. 10 (Cl. C. 92. 221)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Benavídez no tenía ministro entonces, todos los federales le huían el bulto y él sólo con sus tropas llevaba adelante su insano designio.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Recuerdos de Prov. p. 141."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Huir por la tangente: valerse de un subterfugio o evasiva para salir hábilmente de un apuro. X",
+              "definicion": "Huir por la tangente: valerse de un subterfugio o evasiva para salir hábilmente de un apuro.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y el candidato huyó por la tangente.»",
                   "autor": "Pombo",
                   "referencia_obra": ", Las mejores fáb. p. 22."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1683,70 +2309,87 @@
     {
       "id": "b)",
       "definicion": "Evitar el trato o comunicación con otra persona, rehusar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A los que le huyen busca, y a los que le aborrecen abraza.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 2, Cordero (3. 399)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cuando segunda vez el gallo cante | Ya tú me habrás negado, Pedro amigo; | Y todos hoy con ánimo inconstante | Me dejaréis, huyendo a mi enemigo.»",
               "autor": "Hojeda",
               "referencia_obra": ", Crist. 1 (R. 17. 4061)."
             },
             {
+              "marca": "",
               "texto_cita": "«Según lo concertado, don Carlos, huyendo a su gente, volvió a la hora advertida.»",
               "autor": "Césp. y Men.",
-              "referencia_obra": "Sold. Pínd. 2. 27 (R. 18. 3722). X"
+              "referencia_obra": "Sold. Pínd. 2. 27 (R. 18. 3722)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Propinaba a sus hombres tremendos castigos por cualquier futileza, huía el trato de las gentes y se encerraba días enteros sin que nadie le viese el rostro.»",
               "autor": "Uslar-Pietri",
               "referencia_obra": ", Lanzas coloradas, 2 (p. 23)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. refl. X",
+              "definicion": "Con dat. refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Quise a todas besarlas | Y todas se me huyeron.»",
                   "autor": "Villegas",
                   "referencia_obra": ", Eróticas, mon. 9 (Cl. C. 21. 261)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para indicar la ocasión. X",
+              "definicion": "Con en, para indicar la ocasión.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En los Carnavales, las chicas le huían.»",
                   "autor": "Vargas Llosa",
                   "referencia_obra": ", Los cacharros, 3 (p. 66)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con por y una prop. en infinitivo, para indicar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En fin, se resolvió en lo que le estuvo peor, que fue en el quedarse, con determinación de no huir la presencia de Lotario por no dar que decir a sus criados.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 34 (R. 1. 3462)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1754,69 +2397,84 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Intrans. Con de, para señalar la persona que se evita.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Cómo huirá de mí cuando le buscare, el que así me buscó cuando yo le huía?»",
               "autor": "Gran.",
               "referencia_obra": "Mem. del crist. 9 (R. 11. 1872)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y como la naturaleza aborrece los monstruos, ansí Dios huye de estos y los abomina.»",
               "autor": "León",
               "referencia_obra": ", Perf. cas. introd. (4. 425)."
             },
             {
+              "marca": "",
               "texto_cita": "«Huistes del conde, en fin, | A Moncada, y ampareos.»",
               "autor": "Tirso",
               "referencia_obra": ", El amor y la amistad, 2. 11 (R. 5. 3363)."
             },
             {
+              "marca": "",
               "texto_cita": "«Habló el troyano y arrogante dijo: | No más huiré de ti como hasta ahora, | Oh valeroso Aquiles.»",
               "autor": "",
-              "referencia_obra": "Hermosilla, Iliada. 22 (2. 327). X"
+              "referencia_obra": "Hermosilla, Iliada. 22 (2. 327)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Aterra pensar en el dolor infinito de convivir eternamente con los miles de necios o malvados de quienes hemos huido durante nuestra efímera existencia terrenal.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Charlas de café, 4 (p. 85)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Recípr. X",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Una solterona de treinta y un años, escribe una novela cuyos personajes aman, sufren, se persiguen, se huyen, se humillan, se odian.»",
               "autor": "Zalamea",
               "referencia_obra": ", Minerva en la rueca, p. 58."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Loc. Huir el rostro, la cara: esconderse, evitar, concurrir con alguno.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Al rey, si le habéis enojado, podéisle huir la cara y hurtarle el cuerpo a las veces, y no venir ante su tribunal, y huir de su cárcel; mas con Dios no es ansí.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 34 (2. 195)."
             },
             {
+              "marca": "",
               "texto_cita": "«Huísteme la cara, pero ahora | Hay campo raso y sol que el cielo dora.»",
               "autor": "Lope",
               "referencia_obra": ", Angél. 20 (Obr. póst. 2. 357)."
             },
             {
+              "marca": "",
               "texto_cita": "«Que tú sola no has de ser | Tan soberbia que tu rostro | Huyas al señor que tienes.»",
               "autor": "",
               "referencia_obra": "Id. Fuente Ovejuna, 1. 11 (R. 41. 6381)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1824,37 +2482,46 @@
     {
       "id": "3",
       "definicion": "Dirigirse, encaminarse, pasarse (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con a, para indicar el destino. +",
+          "definicion": "Con a, para indicar el destino.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«¡Oh Cristo, puerto de seguridad para los que, acosados de las ondas tempestuosas de su corazón, huyen a ti!»",
               "autor": "Ávila",
               "referencia_obra": ", Epist. 1. 20. 1 (1. 384)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Cuándo moriré a todas las cosas y a mí mesmo, para huir a vos?»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 7. 2, consid. 3 (R. 8. 4102)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. Con a. +",
+          "definicion": "Prnl. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Era necesario ocupar mucha gente para guardallos [a los moros], y si quedaran sin guarda se huyeran a los enemigos.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granad. 2 (p. 50)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1862,7 +2529,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. (Nótense las formas foyr, foir, fuxir, fugir). Siglo XV: «Pues aquí vemos cuán mal fenecieron | Aquestos amantes, huigamos su danza.» Celest. 21 (R. 3. 751). «Quanto más fuía de la honra mundana, tanto mas le seguía.» Pulgar, Clar. var. 19 (p. 114). «En especial le consejad que huyga quanto podiere de ser causa de divisiones en los reinos.» Id. Letras, 6 (p. 180). «Fuese huyendo por encima de las paredes a la posada del maestre de Santiago, don Lorenzo Suárez, el qual estaba flaco en la cama.» Crón. Juan II, 2. 14 (R. 68. 3092). «En tienpo de los calores | Fúyante sombras et ríos.» Canc. de Stúñ. p. 143. «El ome debe discerner entre el bien e el mal, teniendo el bien e fuyendo el mal.» Crón. P. Niño, p. 3. «Fuý de la caridat | E caridat me fuyó.» Santill. p. 229. «E assý non tiene franco poderío | De foyr el mal, nin obrar bondat.» Canc. de Baena, p. 561.\n\n— Siglo XIV: «Et otros algunos fuxieron del reino por miedo.» Crón. Alf. XI, 72 (R. 66. 2181). + «Quando sopieron que el Infante Don Pedro era muerto, tomaron tan grand desmayamiento, que fugieron todos.» Ib. 17 (p. 40). «E perdió allí muchos de los suyos e fuxó él del campo con muy pocos de su compaña.» Crón. gen. 2. 29 (p. 1631). «Los cobardes fuyendo mueren desiendo: foíd.» Arc. de Hita, 1424 (R. 57. 2721). «Esto non pudo seer sin descender Dios tanto como ha del cielo a la tierra, et estar encerrado en el vientre de Santa María --- et andar foído por miedo como home, et después seer bateado et predicar.» J. Man. Libro de los est. 2. 37 (R. 51. 3591). X «Non puede ome fuyr el dolor natural, asý commo el que viene por muerte de parientes o de amigos, mas el dolor, açidental puede fuyr sy bien se guardare.» Zifar, 54 (p. 114).\n\n— Siglo XIII: «Mío fijo, como quier que yo so tu padre carnalmente, a mí puedes tú foír cada que quisieres e te non pagares de estar comigo; mas al tu padre e a tu Criador non puedes tú foír cada que quisieres.» Cast. e docum. 1 (R. 51. 891). «Mas si hobiese mala fe sabiendo que era siervo et andodiese foído, entonce non se podríe amparar por este tiempo.» Part. 2. 29. 23 (2. 745). «Et el ladrón cuando lo vio comenzó a foír, e por foír cayósele la sábana en que levaba el trigo.» Cal. e Dymna (R. 51. 131). «Si ella non fuyre, nosotros nunca fuyamos.» Fern. Gonz. 656 (R. 57. 4091). «Otrosí mandamos que si alguno fuxiese a alguna de las casas del rey qualquier que sea la casa del rey, que sea y seguro.» Espéc. 2. 14. 4 (O. L. 1. 57). «Son rebelles e fuyen a los enemigos.» Fuero Juzgo, 2. 1. 6 (p. 11). «Fuxó el vezín malo a todo su pesar.» Berc. S. Dom. 332 (R. 57. 502). «Mandamos que nengunt ome rreciba, nen contenga a los obispos sus abades, nen las abadesas de so obispado, nen los monges a los abades, nen las monjas a las abadesas, magar fuyan, mas estian siempre so poder de so obispado.» Conc. de León, año 1020 (Muñoz, F. 75).\n\n— Siglo XII: «Vist un moro, fustel ensayar: antes fuxiste que al te alegasses.» Cid. 3318 (R. 57. 342).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. tardío fugire. It. fugire, fr. fuir, port. prov. y cat. fugir.",
+  "etimologia": "Etim. Del lat. tardío<i> fugire.</i> It.<i> fugire,</i> fr.<i> fuir,</i> port. prov. y cat.<i> fugir.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

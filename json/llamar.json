@@ -1,82 +1,117 @@
 {
   "lema": "LLAMAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, a) dar voces a tino o hacer ademanes para que venga o para advertirle una cosa (Despertar: δ ), b) hacer sonar una aldaba, campanilla, timbre, etc. para que alguien abra la puerta de tina casa;\n\n— 2, a) convocar, citar (Asignar un compromiso o tarea: ε; Indicado: ε, α α ), b) invocar, pedir auxilio oral o mentalmente, c) hacer un llamamiento sucesorio;\n\n— 3, a) designar con una palabra; aplicar una denominación, título o calificativo (Aplicar a alguien un sobrenombre, apodo: ζ ), b) nombrar, apellidar,\n\n— 4, a) atraer; b) incitar.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, a) dar voces a tino o hacer ademanes para que venga o para advertirle una cosa (Despertar: δ ), b) hacer sonar una aldaba, campanilla, timbre, etc. para que alguien abra la puerta de tina casa;\n\n— 2, a) convocar, citar (Asignar un compromiso o tarea: ε; Indicado: ε, α α ), b) invocar, pedir auxilio oral o mentalmente, c) hacer un llamamiento sucesorio;\n\n— 3, a) designar con una palabra; aplicar una denominación, título o calificativo (Aplicar a alguien un sobrenombre, apodo: ζ ), b) nombrar, apellidar,\n\n— 4, a) atraer; b) incitar.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Dar voces a uno o hacer ademanes para que venga o para advertirle una cosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con sujeto de persona. +",
+          "definicion": "Con sujeto de persona.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Cuando los del acompañamiento volvieron del entierro y lo hallaron tendido en el suelo, lo llamaron.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 1. 1. 3 (R. 3. 1961)."
             },
             {
+              "marca": "",
               "texto_cita": "«Angélica presume que la engaña | Del cocodrilo aquel llorar fingido, | Como la hiena al pie de la montaña | El nombre llama del pastor dormido.»",
               "autor": "Lope",
               "referencia_obra": ", Angél. 20 (Obr. suelt. 2. 366)."
             },
             {
+              "marca": "",
               "texto_cita": "«Esa serpiente, que imita la voz de los pastores, para que llamando sus nombres, los devore vivos: ---, hoy me ha reñido.»",
               "autor": "",
               "referencia_obra": "Id. Dorotea, 1. 5 (Obr. suelt. 7. 32)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Del seno oscuro de la tierra helada | Llamarme con terribles voces de aliento.»",
                   "autor": "Iglesias",
-                  "referencia_obra": ", Idil. 8 (R. 61. 4472). X"
+                  "referencia_obra": ", Idil. 8 (R. 61. 4472)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Con tan amarga arrebatada ausencia. | No lo conoces deslumbrada: en vano | Tranquila ya, despavorida y sola | Me llamarás con doloridos ayes.»",
                   "autor": "Mel.",
-                  "referencia_obra": "Poes. (Cl. C. 64. 252). X"
+                  "referencia_obra": "Poes. (Cl. C. 64. 252)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tomó uno de los candelabros del tocador, y salió presurosa, arrastrando la luenga cola de su ropón monacal. Desde la puerta volvió la cabeza llamándome con los ojos, y toda blanca como un fantasma, desapareció en la oscuridad del corredor.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de otoño, p. 24. — Además con a. X"
-                },
+                  "referencia_obra": ", Sonata de otoño, p. 24."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Hacía cerca de dos años que no me escribía, y ahora me llamaba a su lado con súplicas dolorosas y ardientes.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de otoño, p. 7."
+                  "id_limpio": "—",
+                  "definicion": "Además con a.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hacía cerca de dos años que no me escribía, y ahora me llamaba a su lado con súplicas dolorosas y ardientes.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de otoño, p. 7."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con desde. Además con en. X",
+              "definicion": "Con desde. Además con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«A menudo cuenta cómo una criadita le llamó desde una ventana en ausencia de los señores... y le enseñó a amar.»",
                   "autor": "Buero Vallejo",
-                  "referencia_obra": ", Concierto (Cl. Castal. 35. 159). — Además con la prep. con, para expresar el modo. X"
-                },
+                  "referencia_obra": ", Concierto (Cl. Castal. 35. 159)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Concha me llamaba desde el jardín, con alegres voces. Salí a la solana, tibia y dorada al sol mañanero.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de otoño, p. 31."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para expresar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Concha me llamaba desde el jardín, con alegres voces. Salí a la solana, tibia y dorada al sol mañanero.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de otoño, p. 31."
+                    }
+                  ]
                 }
               ]
             },
@@ -84,156 +119,201 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El ronco tono y brazo levantado | Discurre todo el campo y lo rodea | Acá y allá por una y otra mano | Llamando el enemigo nombre en vano.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 25 (R. 17. 971)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con un gerundio, que expresa el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«De mi fin y camino me olvidara, | Según suspenso estuve una gran pieza, | Si el anciano Fitón no me llamara | Haciéndome señal con la cabeza.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 26 (R. 17. 1012)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Llamar yo? | No llamé cuando perdía, | Porque una sota salió, | Todo el dinero en la suerte, | Y ¿llamaré agora?»",
               "autor": "Mto.",
               "referencia_obra": "Trampa adelante, 2. 13 (R. 39. 1563)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Conocí, ser aquella soberbia máquina basilisco de hermoso color ---, una hiena que llama con voz humana.»",
                   "autor": "Figueroa",
                   "referencia_obra": ", Amarilis, 3 (p. 213)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Con sujeto de cosa. X",
+          "definicion": "Con sujeto de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Cuántas sombras que pasan y suspiran | Y el tibio ambiente del hogar reclaman, | Cuántos ojos sin lumbre que me miran, | Cuántas voces, sin eco, que me llaman!»",
               "autor": "",
-              "referencia_obra": "D. Uribe, Obr. poética, escog. p. 53. X"
+              "referencia_obra": "D. Uribe, Obr. poética, escog. p. 53."
             },
             {
+              "marca": "X",
               "texto_cita": "«Siempre busqué los que jamás me hallaron, | Mi voz llamó los que jamás me oyeron, | Y los que resignados me esperaron | Nunca en mi copa de placer bebieron.»",
               "autor": "Victoria",
               "referencia_obra": ", Cráter sellado, p. 55."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. +",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«El rumor de la gente baldía que acompañaba a los muchachos y los descompuestos gritos de éstos llamaron al balcón al virrey.»",
                   "autor": "A. Saav.",
-                  "referencia_obra": "Masan. 1. 4 (R. 102. 1361). — Además con por. X"
-                },
+                  "referencia_obra": "Masan. 1. 4 (R. 102. 1361)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y oí como una voz delgada y triste | Que por mi nombre me llamó a lo lejos, | Y sentí olor de cirios apagados | De humedad y de incienso!»",
-                  "autor": "Bécquer",
-                  "referencia_obra": ", Rimas, p. 109."
+                  "id_limpio": "—",
+                  "definicion": "Además con por.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y oí como una voz delgada y triste | Que por mi nombre me llamó a lo lejos, | Y sentí olor de cirios apagados | De humedad y de incienso!»",
+                      "autor": "Bécquer",
+                      "referencia_obra": ", Rimas, p. 109."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con desde. X",
+              "definicion": "Con desde.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«De pronto me pareció que las niñas se alejaban: Pasaron corriendo ante las tres puertas: Una voz las llamaba desde el jardín.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de otoño, p. 69."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Absol. Con desde. X",
+              "definicion": "Absol. Con desde.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sentíase en el ambiente el hálito de los infolios antiguos encuadernados en pergamino, los libros de humanidades y de teología donde estudiaba el Obispo. De pronto sentí una voz poderosa que llamaba desde el fondo del corredor.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de otoño, p. 48."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "En el siguiente ejemplo, Despertar. Con hasta. X",
+          "definicion": "En el siguiente ejemplo, Despertar. Con hasta.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los dos comisionistas comenzaban su trabajo de nueve y media a diez; se acostaban muy tarde, y encargaban a la patrona que les despertase a las ocho y media; ella cuidaba de no llamarles hasta las diez.»",
               "autor": "Baroja",
               "referencia_obra": ", La busca, 1. 2 (p. 31)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Llamar de parada: en la caza se dice cuando el perro topa con el jabalí, venado o gamo, y la pieza se está queda. X",
+              "definicion": "Llamar de parada: en la caza se dice cuando el perro topa con el jabalí, venado o gamo, y la pieza se está queda.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Quando el ballestero le hiriere de noche, suéltele el perro, y si llamare con él de parada, estese quedo, y no entre a tirarle, sino de quando en quando aulle como lobo, para que el perro sepa que está allí su amo.»",
                   "autor": "",
                   "referencia_obra": "Math. Orig. 22 (Dicc. Autor.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Llamar por teléfono. X",
+              "definicion": "Llamar por teléfono.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Muy temprano por la mañana, después de aquella noche de insomnio, llamó por teléfono a dos amigos invitándoles a almorzar en un sitio ruidoso.»",
                   "autor": "Mallea",
                   "referencia_obra": ", El vínculo, p. 82."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -242,112 +322,161 @@
     {
       "id": "b)",
       "definicion": "Hacer sonar una aldaba, campanilla, timbre, etc. para que alguien abra la puerta de un casa (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Llama recio, si no te duele la mano.»",
               "autor": "Lope",
-              "referencia_obra": ", Dorotea, 1. 5 (Obr. suelt. 7. 28). X"
+              "referencia_obra": ", Dorotea, 1. 5 (Obr. suelt. 7. 28)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Daniel volvió a llamar más fuerte aún, y al poco rato se vio venir, paso a paso, a un individuo hacia la puerta. Se acercó, miró con mucha flema y luego preguntó en inglés: — ¿Qué hay?»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 5 (p. 579). X"
+              "referencia_obra": ", Amalia, 5 (p. 579)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Como la puerta estaba siempre entornada, los huéspedes podían entrar y salir sin necesidad de llamar.»",
               "autor": "Baroja",
-              "referencia_obra": ", La busca, 1. 2 (p. 30). X"
+              "referencia_obra": ", La busca, 1. 2 (p. 30)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se adelantó para llamar y nos abrió la hermana portera.»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Sonata de invierno, p. 139."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Abriose el asa, y dejome | Con ella, al tiempo que sienten | Ruido en el cuarto, y a él llaman | A abrir fin, por que me diesen | Favor, cuando a un tiempo mesmo | El que huye y el que viene, | Aquel se va y éste entra | Por dos puertas diferentes.»",
                   "autor": "Cald.",
                   "referencia_obra": "No hay cosa como callar, 2 (Cl. C. 137. 155)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y la muerte nos saltea sin llamar primero a la aldaba.»",
                   "autor": "Capm.",
                   "referencia_obra": "Teatro (2. 81)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se presentó [Maraguey] en la portería del convento y llamando a la campanilla salió el lego a recibirle.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Las Casas (3. 164). X"
+                  "referencia_obra": "Las Casas (3. 164)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En aquel momento llamaron a la puerta, y el sacristán acudió a descorrer el cerrojo.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de invierno, p. 92. — Además con la prep. con, para expresar el modo. X"
+                  "referencia_obra": ", Sonata de invierno, p. 92."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para expresar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Estaba adormecido y llamaron a la puerta con grandes aldabadas, que en el silencio de las altas horas parecieron sepulcrales y medrosas.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de otoño, p. 8."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Estaba adormecido y llamaron a la puerta con grandes aldabadas, que en el silencio de las altas horas parecieron sepulcrales y medrosas.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de otoño, p. 8. — Además con en, que señala el tiempo."
-                },
-                {
-                  "texto_cita": "«En esto llamó a una puerta grande de la tapia de un huerto contiguo.»",
-                  "autor": "Cadalso",
-                  "referencia_obra": ", Cartas marr. 69 (2. 283)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, que señala el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«En esto llamó a una puerta grande de la tapia de un huerto contiguo.»",
+                      "autor": "Cadalso",
+                      "referencia_obra": ", Cartas marr. 69 (2. 283)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para expresar el modo. X",
+              "definicion": "Con la prep. con, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nos detuvimos ante un caserón con rejas: Era el caserón de mi bella bailarina elevada a Duquesa de Uclés. Llamamos con recato, y la puerta se abrió.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de invierno, p. 128."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Como no tenía un céntimo, se aburrió pronto de pasear; llamó en la tahona, preguntó por Karl el hornero, le abrieron y se tendió en una de las camas.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, 3. 1 (p. 129). — Además con la prep. con, para expresar el medio. X"
-                },
+                  "referencia_obra": ", La busca, 3. 1 (p. 129)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«María Isabel y María Fernanda anunciáronse primero llamando en la puerta con sus manos infantiles.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de otoño, p. 86."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para expresar el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«María Isabel y María Fernanda anunciáronse primero llamando en la puerta con sus manos infantiles.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de otoño, p. 86."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con sin, para expresar el modo. X",
+              "definicion": "Con sin, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El hombre de a caballo estaba llamando sin mucho ruido, y que en seguida, y después de cambiadas algunas palabras que no oí, la ventana se abrió y el hombre entró en el cuarto.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 1 (p. 120)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -355,18 +484,22 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Loc. Llamar a las puertas: metafóricamente vale acordar o excitar una especie, o implorar el favor y auxilio de alguno.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¡Abrimos luego a quien llama a nuestra puerta, y veces hay que por nuestro mal!»",
               "autor": "Ávila",
               "referencia_obra": ", Epist. 2 (6. 446)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué remedio le queda sino llamar a las puertas de Dios como un pobre mendigo?»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 21. 1 (1. 1411)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -374,77 +507,118 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Convocar, citar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«El Saluador no vino a llamar los justos, sino a los pecadores a la penitençia.»",
               "autor": "Oviedo",
-              "referencia_obra": ", Quinquag. 1. 23 (1. 285). +"
+              "referencia_obra": ", Quinquag. 1. 23 (1. 285)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Se tarda Dios de embiar a llamar al vno de los dos [casados].»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 30 (1. 359)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los que caminan en él, se reducen a tres. A principiantes que llaman en la virtud; a aprovechados en ella; a los que nombran perfectos.»",
               "autor": "León",
-              "referencia_obra": ", Nomb. 1 (3. 56). X"
+              "referencia_obra": ", Nomb. 1 (3. 56)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Arnaldo y Periandro llamaron a Auristela, a Mauricio, Transila, Ladislao, a los bárbaros padre y hijo, a Ricla, a Constanza y a Rutilio, y, agradeciendo a Policarpa su aviso, se hicieron todos un montón, y puestos delante los varones, siguieron el consejo de Policarpa.»",
               "autor": "Cerv.",
               "referencia_obra": "Pers. 2. 16 (Cl. Castal. 12. 250)."
             },
             {
+              "marca": "",
               "texto_cita": "«Este peligro de llamar armas auxiliares se debe tener más cuando el príncipe que las envía es de diversa religión o tiene algún derecho a aquel estado.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 92 (R. 25. 2412)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Llámenme aquí al escribano, | Proveeré un auto al momento.»",
                   "autor": "Mto.",
-                  "referencia_obra": "La misma conciencia acusa, 2. 4 (R. 39. 1101). — Además con a, que señala el lugar. X"
-                },
+                  "referencia_obra": "La misma conciencia acusa, 2. 4 (R. 39. 1101)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Llamáronle un día a Joaquín a casa de Abel, como a médico, y se enteró de que Helena llevaba ya en sus entrañas fruto de su marido.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 9 (p. 47)."
+                  "id_limpio": "—",
+                  "definicion": "Además con a, que señala el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Llamáronle un día a Joaquín a casa de Abel, como a médico, y se enteró de que Helena llevaba ya en sus entrañas fruto de su marido.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Abel Sánchez, 9 (p. 47)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con a, para señalar: — el lugar. +",
-              "ejemplos_citas": [
+              "definicion": "Con a, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Asistían a este tiempo en Barcelona, esperando la nueva campaña, muchos capitanes y oficiales del ejército, y otros ministros del Rey Católico, que la guerra de Francia había llamado a Cataluña.»",
-                  "autor": "Melo",
-                  "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4701). — El objetivo. Además con para, que expresa la finalidad."
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Asistían a este tiempo en Barcelona, esperando la nueva campaña, muchos capitanes y oficiales del ejército, y otros ministros del Rey Católico, que la guerra de Francia había llamado a Cataluña.»",
+                      "autor": "Melo",
+                      "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4701)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Os llama [el Monarca] al estudio de la naturaleza, para que conozcáis los bienes que os rodean.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "Orac. (2. 193)."
+                  "id_limpio": "—",
+                  "definicion": "El objetivo. Además con para, que expresa la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Os llama [el Monarca] al estudio de la naturaleza, para que conozcáis los bienes que os rodean.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "Orac. (2. 193)."
+                    }
+                  ]
                 }
               ]
             },
@@ -452,45 +626,64 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con la prep. con, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se ha de ponderar como el Señor mandó luego llamar al criado con el último llamamiento a juicio.»",
                   "autor": "Puente",
                   "referencia_obra": ", Medit. 3. 51 (2. 306)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Llamó en secreto un mozo pobre y fuerte, | Y, como puede tanto la codicia, | Prometiole, si al conde daba muerte, | Enriquecerle; y, para asegurarle, | Dijo que tú, señor, hacías matarle.»",
                   "autor": "Tirso",
                   "referencia_obra": ", El vergonzoso en palacio, 1 (Cl. C. 2. 15)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con para y una prop. subjuntiva, que señala la finalidad. X",
+              "definicion": "Con para y una prop. subjuntiva, que señala la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Quieres llamar a Candelaria para que me guíe por esos corredores?»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de otoño, p. 24. X"
+                  "referencia_obra": ", Sonata de otoño, p. 24."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Las señoras ponen el grito en el cielo porque la esposa de Ulloa, una noble peruana, no llama a una nodriza del lugar para que amamante a su hijo.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 3. 17 (p. 303). —El término es una prop. infinitiva. X"
-                },
+                  "referencia_obra": ", Biogr. del Caribe, 3. 17 (p. 303)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Huarte refiere que en el Concilio Tridentino se distinguió tanto en la disputa un teólogo español que el Papa Pío IV le llamó para conocerle.»",
-                  "autor": "Marañón",
-                  "referencia_obra": ", Tiempo viejo, p. 135."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Huarte refiere que en el Concilio Tridentino se distinguió tanto en la disputa un teólogo español que el Papa Pío IV le llamó para conocerle.»",
+                      "autor": "Marañón",
+                      "referencia_obra": ", Tiempo viejo, p. 135."
+                    }
+                  ]
                 }
               ]
             }
@@ -499,30 +692,45 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. Con a, para señalar el objetivo. X",
+          "definicion": "Absol. Con a, para señalar el objetivo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Don Pánfilo hace lo único que puede hacerse en estos casos: llamar a consejo.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 6 (p. 104)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. Con por, para señalar el agente. Además con a, para señalar el objetivo. X",
+          "definicion": "Pas. Con por, para señalar el agente. Además con a, para señalar el objetivo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Don Salvador María fue llamado al ministerio de Hacienda por Rivadavia, y mostró en aquel destino poderes a la altura de su situación.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Prov. p. 44. — Además con para y una prop. infinitiva, que expresa la finalidad. X"
-            },
+              "referencia_obra": ", Recuerdos de Prov. p. 44."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Un año más tarde era llamado por el gobierno para ser enviado al colegio de Ciencias Morales.»",
-              "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Prov. p. 121."
+              "id_limpio": "—",
+              "definicion": "Además con para y una prop. infinitiva, que expresa la finalidad.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Un año más tarde era llamado por el gobierno para ser enviado al colegio de Ciencias Morales.»",
+                  "autor": "D. F. Sarmiento",
+                  "referencia_obra": ", Recuerdos de Prov. p. 121."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -530,38 +738,47 @@
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. Con por, para señalar el agente. Además con en, para expresar el tiempo. X",
+          "definicion": "Part. Con por, para señalar el agente. Además con en, para expresar el tiempo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Llamado por el presidente Ospina en 1860, inicia la penosísima cuanto infructuosa campaña de Santa Marta.»",
               "autor": "Valencia",
               "referencia_obra": ", Discursos, 1 (p. 266)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "—α α )",
               "id_limpio": "—α α )",
               "definicion": "Con de, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«D. Jaime Rey de Aragón en Roma, donde era ido llamado del Papa, fue declarado por Rey de Cerdeña y Córcega.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 15. 1 (1. 7331)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En el perenne certamen que determina cuáles serán los escogidos en el número de los llamados, ya que no hay espacio para todos, prevalece la mayor adecuación o mayor fuerza: triunfa y se impone la superioridad.»",
                   "autor": "Rodó",
                   "referencia_obra": ", Motivos de Proteo, p. 142."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -569,25 +786,31 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Asignar un compromiso o tarea.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«San Pablo dice (ad Ephes, 4), que cada uno permanezca en el llamamiento que Dios le llamó.»",
               "autor": "Ávila",
               "referencia_obra": ", Epist. 1 (6. 94)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En el siguiente texto, Indicado. Part. Con a y una prop. infinitiva. X",
+              "definicion": "En el siguiente texto, Indicado. Part. Con a y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Firmado el concierto, a él no le tocaba ratificarlo, sino al virrey, quien era el llamado a estudiarlo y a resolver en definitiva.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 2 (p. 121)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -595,19 +818,25 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Milit. Llamar a filas: citar a quienes han de alistarse. Cfr. Gran encicI. Larousse.",
-              "ejemplos_citas": []
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Llamar a uno al orden: advertirle con autoridad que se atenga al asunto que ha de tratar, o que guarde en sus palabras o en su conducta el decoro debido. Cfr. Acad. Dicc.",
-              "ejemplos_citas": []
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -616,36 +845,45 @@
     {
       "id": "b)",
       "definicion": "Invocar, pedir auxilio oral o mentalmente (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con en, para expresar el modo. X",
+          "definicion": "Con en, para expresar el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Cuánto te adoro, sí, cuánto te amo! | Amar aún más mi corazón no puede; | Pero ¡ay! en vano a tu clemencia llamo, | Porque mi angustia tu desdén no cede!»",
               "autor": "Núñez",
-              "referencia_obra": ", Poes. p. 295. X"
+              "referencia_obra": ", Poes. p. 295."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Yo te llamaba en mis solitarios sueños! ¡El imán de tu mirada penetra en mi! ¡Bésame, mujer!»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Tirano Banderas, 3. 2. 5 (p. 70)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por. +",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Lleno de aflicción [el mancebo] alzaba los ojos al cielo como llamándole por testimonio de su inocencia.»",
                   "autor": "Arteaga",
                   "referencia_obra": ", Belleza Ideal, 6 (Cl. C. 122. 77)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -654,45 +892,56 @@
     {
       "id": "c)",
       "definicion": "Hacer un llamamiento sucesorio (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tuvo [Doña Teresa] a don Jaime Señor de Exerica y a Don Pedro Señor de Ayerve, que a la muerte declaró por hijos legítimos, y llamó a la sucesión del rey no caso.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 14. 2 (1. 6861)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por. +",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Si eran muertos los padres, llamaba [Pio V] a los hijos por herederos de su amor.»",
                   "autor": "Fuenmayor",
                   "referencia_obra": ", Vida de S. Pío V, 2 (p. 59)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. +",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Irene, mujer del emperador Andrónico, juzgaba por cosa indigna de su grandeza y sangre que sus tres hijos Juan, Teodoro y Demetrio no tuviesen parte en el imperio de su padre, por tener hijos de otra madre, llamados primero a la sucesión.»",
               "autor": "Moncada",
               "referencia_obra": ", Exped. 37 (R. 21. 361)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -700,123 +949,152 @@
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Designar con una palabra; aplicar una denominación, título o calificativo (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con un predicado referido al acus.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y si bien se mira, más es oración propia de estos tales, que siendo hijos por gracia, llaman padre a Dios, que no de los que están en pecado mortal.»",
               "autor": "Ávila",
               "referencia_obra": ", Eucar. 17 (4. 146)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Si al padre de familia llamaron BeIzebub cuanto más (dice él) lo llamarán a sus criados?»",
               "autor": "Gran.",
               "referencia_obra": "Medit. (3. 478)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ansí ella [la mujer] de las labores suyas, y de sus criadas, aplique su parte para vestir a Dios en los desnudos, ---: y llámanle como a la parte de sus ganancias.»",
               "autor": "León",
               "referencia_obra": ", Perf. cas. 10 (4. 465)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los ayunos llaman hipocresía, los cilicios disparates, el silencio bestialidad.»",
               "autor": "Sig.",
               "referencia_obra": "Vida de S. Jer. 4. 6 (p. 301)."
             },
             {
+              "marca": "",
               "texto_cita": "«Es uno de los pecados ---, que llaman contra el Espíritu Santo.»",
               "autor": "Puente",
               "referencia_obra": ", Medit. 1. 23 (1. 176)."
             },
             {
+              "marca": "",
               "texto_cita": "«Parienta --- | —En el alma siento | Que me lo llaméis, señor.»",
               "autor": "Alarcón",
-              "referencia_obra": ", Mudarse por mejorarse, 2. 3 (R. 20. 1081). X"
+              "referencia_obra": ", Mudarse por mejorarse, 2. 3 (R. 20. 1081)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Llamo medios naturales a las señales de que la naturaleza se sirve para expresar externamente las sensaciones, fantasías o afectos interiores del ánimo.»",
               "autor": "Arteaga",
-              "referencia_obra": ", Belleza ideal, 2 (Cl. C. 122. 21). X"
+              "referencia_obra": ", Belleza ideal, 2 (Cl. C. 122. 21)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y he aquí por qué cuando me pongo a soñar en una experiencia mística a contratiempo, o mejor a arredrotiempo, le llamo al morir desnacer, y la muerte es otro parto.»",
               "autor": "Unamuno",
               "referencia_obra": ", Cómo se hace una nov. p. 174,"
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para expresar el modo. X",
+              "definicion": "Con la prep. con, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Leyendo aquí y allí, en la historia mencionada y en estos otros libros, los nombres y la obra de don Juan José y de don Fausto, a quien Humboldt llama con admiración el sabio Elhúyar.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 2 (p. 217)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de, que introduce el predicado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El ejercitado en cosas pequeñas a llamar a su entendimiento de necio, y a fiar poco de él, hallarse ha facilitado para sujetarse.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Audi, 55 (Míst. 2. 235)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿No oistes cómo os llamó aquel gentil hombre de embustero?»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 1. 1 (R. 18. 3792)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Esta es doctrina frailesca, lector cándido, y perdona que te llame de tú.»",
                   "autor": "Mor.",
                   "referencia_obra": "Auto de Fe, nota 18 (R. 2. 6201)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dando voces el ventero que le dejasen, D. Quijote las daba mayores, llamándolos de alevosos y traidores.»",
                   "autor": "Clem.",
                   "referencia_obra": "Coment. pról. (4. v)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Lo que ahora llamamos centinela, amigos de vocablos extranjeros, llamaban nuestros españoles, en la noche escucha, en el día atalaya.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Gran. 2 (R. 21. 962)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por la cual causa le llama [a Dios] Aristóteles acto puro.»",
                   "autor": "Gran.",
                   "referencia_obra": "Guía, 1. 1. 1 (1. 212)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -824,47 +1102,58 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. Con un predicado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Con pobres caballeros los villanos, | Revueltos los criados con señores, | todos fueron llamados venecianos.»",
               "autor": "Mend.",
-              "referencia_obra": "carta, 6 (R. 32. 611). X"
+              "referencia_obra": "carta, 6 (R. 32. 611)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se hizo el mejor jinete de los contornos: llegó a ser llamado el Centauro de las Sabanas; el mismo nombre que más tarde se le dio a Bolívar.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 3. 18 (p. 319)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para señalar el agente. +",
+              "definicion": "Con de, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Solamente añadiré lo que dice Salviano --- que floreció más ha de mil y cien años, y es llamado de Genario maestro de los obispos.»",
                   "autor": "Rivad.",
-                  "referencia_obra": "Trib. 1. 11 (R. 60. 3792). +"
+                  "referencia_obra": "Trib. 1. 11 (R. 60. 3792)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«La manía es llamada de Avicena demonio lupino o lobuno.»",
                   "autor": "J. de Pineda",
                   "referencia_obra": ", Agr. crist. 10. 23 (R. 162. 3092)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con por y una prop. infinitiva, para señalar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y por ser tan cortesana, | Soy llamada cortesía.»",
                   "autor": "Castillejo",
                   "referencia_obra": ", Poes. 3 (Fern. 13. 202)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -872,118 +1161,145 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Pas. refl. Con un predicado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por la grande unión que hay entre Cristo y sus miembros, él se llama el nombre de ellos.»",
               "autor": "Ávila",
               "referencia_obra": ", Eucar. 27 (4. 416)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mas no dice por qué se llaman cardenales, sino la sola excelencia del llamárselo.»",
               "autor": "Sig.",
               "referencia_obra": "Vida de S. Jer. 3. 6 (p. 187)."
             },
             {
+              "marca": "",
               "texto_cita": "«Porque la humildad quiso que se mostrase, en que ninguna llamase don.»",
               "autor": "Yepes",
               "referencia_obra": ", Vida de Sta. Ter. 2. 37 (Míst. 1. 274)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y de eso se preciaba más que de fundadora, porque con serlo de tantos monasterios no gustaba que se lo llamasen.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 2. 37 (Míst. 1. 262). +"
+              "referencia_obra": "Id. ib. 2. 37 (Míst. 1. 262)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Llamose [don Fardique] rey, y como a tal le admitieron y coronaron.»",
               "autor": "Moncada",
               "referencia_obra": ", Exped. 1 (R. 21. 41)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡A la rebusca del tiempo perdido! Siempre se pierde el tiempo. Lo que se llama ganar tiempo es perderlo. El tiempo: he aquí la tragedia.»",
               "autor": "Unamuno",
               "referencia_obra": ", Cómo se hace una novela, p. 159."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, que introduce el predicado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Bien haya quien te juntó | Con tan añejo marido, | Donde la mugre y la caspa | Se pueden llamar de primas.»",
                   "autor": "Quev.",
                   "referencia_obra": "Thalía, musa 6, rom. 70 (8. 371)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Eso es; las auras que dije son llamadas gallinazos en nuestra tierra, aunque no puedo contradecirte ni apoyarte respecto de todas las otras denominaciones que citas.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 2 (p. 200)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y hay cochinos cristianos que se atreven a llamarse a sí mismos honrados.»",
               "autor": "Unamuno",
               "referencia_obra": ", Abel Sánchez, 22 (p. 94)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los comentadores de Oviedo han desvariado sobre el origen del nombre antioqueño de la fruta llamada cura en Cundinamarca y palta en algunas naciones del sur.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 2 (p. 114)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Es argumento muy claro la puerta de Granada, llamada de Elvira.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 1.5(1. 92). X"
+                  "referencia_obra": ", Hist. Esp. 1.5(1. 92)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y así, mientras en Londres unas veces se atiende al embajador español y otras no, y hay épocas llamadas de guerra y otras de paz, más allá de la línea, como dijo Drake, no hay paz.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 213)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«De los Andes se desprenden ramificaciones que cortan la parte occidental en líneas paralelas, en cuyos valles están Los Pueblos y Chilecito, así llamado por los mineros chilenos que acudieron a la fama de las ricas minas de Famatina.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Facundo, 2. 2 (p. 93)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -991,38 +1307,55 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Aplicar a alguien un sobrenombre, apodo. Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El otro de suave y apacible rostro, --- es Jenofonte, a quien Diógenes Laercio llamó musa ática, y otros con más propiedad, abeja ática.»",
               "autor": "Saav.",
               "referencia_obra": "Rep. (R. 25. 3981)."
             },
             {
+              "marca": "",
               "texto_cita": "«A Platón llamaron el Divino, y Aristóteles reprobó toda su doctrina, y la de Aristóteles Platón.»",
               "autor": "Quev.",
-              "referencia_obra": "Cuna y sepult. (3. 418). X"
+              "referencia_obra": "Cuna y sepult. (3. 418)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Furibundo, frenético, andaba de pueblo en pueblo, encendiendo las pasiones populares contra Rivadavia y la reforma, y ensanchando el camino a los bandidos, como Quiroga y otros, a quienes llamaba los Macabeos.»",
               "autor": "D. F. Sarmiento",
               "referencia_obra": ", Recuerdos de Prov. p. 123."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Part. X",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El otro, llamado el indio Sayavedra, de talla gigantesca, de alma torva, fue bandido de profesión en Mendoza y San Juan.»",
                   "autor": "",
-                  "referencia_obra": "D. F. Sarmiento, Recuerdos de Prov. p. 31. — Con por. X"
-                },
+                  "referencia_obra": "D. F. Sarmiento, Recuerdos de Prov. p. 31."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Había introducido por Rey de Camboxa a Prauncar, llamado por mal nombre Boca tuerta el traidor.»",
-                  "autor": "L. Argens.",
-                  "referencia_obra": "Maluc. 6. pl. 216 (Dicc. Autor.)."
+                  "id_limpio": "—",
+                  "definicion": "Con por.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Había introducido por Rey de Camboxa a Prauncar, llamado por mal nombre Boca tuerta el traidor.»",
+                      "autor": "L. Argens.",
+                      "referencia_obra": "Maluc. 6. pl. 216 (Dicc. Autor.)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1033,118 +1366,144 @@
     {
       "id": "b)",
       "definicion": "Nombrar, apellidar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con un predicado referido al acus.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A su lado tenía el pastor la hermosa pastorcilla que decía que era su hermano, a la cual llamó Rosaura.»",
               "autor": "Cerv.",
               "referencia_obra": "Gal. 2 (Cl. C. 155. 82)."
             },
             {
+              "marca": "",
               "texto_cita": "«Siempre colegí dellas [sus razones] se había ausentado por alguna afición que tenía a no sé qué religiosa, a quien él llamaba doña Luisa.»",
               "autor": "Avell.",
               "referencia_obra": "Quij. 6. 20 (R. 18. 622)."
             },
             {
+              "marca": "",
               "texto_cita": "«De cuando en cuando [el censor] soltaba la risa, viendo algunos libros en latín y aun en vulgar con el título en griego, con que sus autores querían dar autoridad a sus obras, como los padres que llaman a sus hijos Carlos o Pompeyos.»",
               "autor": "Saav.",
-              "referencia_obra": "Rep. (R. 25. 3951). X"
+              "referencia_obra": "Rep. (R. 25. 3951)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los españoles le llaman Juan Florentín unas veces, otras El Francés.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 7 (p. 117)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Todo lo cual sintió y dijo en llamarse nombre de esclava.»",
               "autor": "Ávila",
               "referencia_obra": ", Audi, 92 (2. 118)."
             },
             {
+              "marca": "",
               "texto_cita": "«De todos aquestos nombres resulta Jesús, de manera que no lo fuera, ni se lo llamara, si alguno de ellos faltara por caso.»",
               "autor": "León",
-              "referencia_obra": ", Nomb. 3 (3. 365). X"
+              "referencia_obra": ", Nomb. 3 (3. 365)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Pues no se piense; que por los huesos de mi padre y por el siglo de mi madre, si no me lo han de pagar un cuarto sobre otro, o no me llamaría yo como me llamo, ni sería hija de quien soy!»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 35 (CL. C. 8. 267). +"
+              "referencia_obra": "Quij. 1. 35 (CL. C. 8. 267)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Tuvo [Guzmán] --- una hija natural, a quien se llamó Teresa Alfonso de Guzmán.»",
               "autor": "Quint.",
-              "referencia_obra": "Guzmán el Bueno (R. 19. 2151). X"
+              "referencia_obra": "Guzmán el Bueno (R. 19. 2151)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Sabe usted que el titiritero aquél del fonógrafo —dijo Manuel— vino con una mujer que se llamaba Rosa? Yo fui a buscarle a usted para ver si era la que usted decía.»",
               "autor": "Baroja",
-              "referencia_obra": ", La busca, 3. 2 (p. 143). X"
+              "referencia_obra": ", La busca, 3. 2 (p. 143)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Este reverendo se llama en el mundo el Marqués de Bradomín!»",
               "autor": "Valle-Inclán",
-              "referencia_obra": ", Sonata de invierno, p. 93. X"
+              "referencia_obra": ", Sonata de invierno, p. 93."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Y qué más da que se llame Abel si él, el otro, su otro abuelo?»",
               "autor": "Unamuno",
-              "referencia_obra": ", Abel Sánchez, 34 (p. 138). X"
+              "referencia_obra": ", Abel Sánchez, 34 (p. 138)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ese fragmento —así es todo en esta vida— viene a ser el único que América consagre a la memoria del Almirante; se llamará Colombia.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Biogr. del Caribe, 1. 4 (p. 65). X"
+              "referencia_obra": ", Biogr. del Caribe, 1. 4 (p. 65)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tampoco me petaba que me hiciera más preguntas el cabo y le pregunté, para distraerle, si conocía a un brigada que se llama Aquilino.»",
               "autor": "Delibes",
               "referencia_obra": ", Diario de un cazador, p. 23."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En Bogotá su obispado fue copioso manantial de ejemplos, de beneficios y de grandes obras republicanas y eclesiásticas. Amaba a los indios hasta llamarse Hernando Indio en sus cartas al papa y al rey.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 2 (p. 70)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tal era Aben Humeya, y puesto que entre nosotros fuese tenido por inocente y llamado don Hernandillo de Válor, el oficio descubrió cuál es el hombre.»",
               "autor": "Mend.",
-              "referencia_obra": "Guerra de Granad. 3 (R. 21. 1022). X"
+              "referencia_obra": "Guerra de Granad. 3 (R. 21. 1022)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La madre de Vidal, llamada Leandra, sucia, despeinada, astrosa, con trazas de malhumor, parecía mucho más vieja que la Salomé, aunque no la llevaba más que tres o cuatro años.»",
               "autor": "Baroja",
               "referencia_obra": ", La busca, 2. 1 (p. 62)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1152,60 +1511,83 @@
     {
       "id": "4",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Atraer (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Contagiosa me pareció la compañía de tales filósofos, y aun no quise detenerme en la plaza donde estaban, si bien me llamaba la variedad de cosas que descubría en ella.»",
               "autor": "Saav.",
               "referencia_obra": "Rep. (R. 25. 4042)."
             },
             {
+              "marca": "",
               "texto_cita": "«No hay cosa que tanto llame las guerras externas como tener mucho oro y plata y pocas armas.»",
               "autor": "",
               "referencia_obra": "Navarrete, Conserv. de mon. 6 (R. 25. 4652)."
             },
             {
+              "marca": "",
               "texto_cita": "«Señor, no llama el daño cometido | La desesperación, sino la enmienda.»",
               "autor": "Mto.",
               "referencia_obra": "El poder de la amistad, 3. 1 (R. 39. 341)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pero antes de referir los sucesos de aquella corte, nos llama su descripción la grandeza de sus edificios.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 3.12 (R. 28. 2841)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cuanto más alto se encumbra, | Más peligros la amenazan; | Como el cedro que descuella, | Los rayos del cielo llama.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Poes. El árbol de la esperanza (1. 361)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pues yo aquí había venido, | Porque estas noches no duermo, | Y la frescura del sitio | Me suelen llamar el sueño.»",
                   "autor": "Mto.",
-                  "referencia_obra": "No puede ser, 2. 11 (R. 39. 1992). — Además con la prep. con, para señalar el medio."
-                },
+                  "referencia_obra": "No puede ser, 2. 11 (R. 39. 1992)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Como malos enfermos ayudamos el mal, y nos llamamos la muerte con los excesos que hacemos.»",
-                  "autor": "León",
-                  "referencia_obra": ", Nomb. 3 (3. 363)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para señalar el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Como malos enfermos ayudamos el mal, y nos llamamos la muerte con los excesos que hacemos.»",
+                      "autor": "León",
+                      "referencia_obra": ", Nomb. 3 (3. 363)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1213,28 +1595,49 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con a, que señala la dirección.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Sobrevino dentro de pocos días otro accidente que descompuso estas disposiciones, llamando la prudencia y el valor a nuevo cuidado.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 4. 4 (R. 28. 3072)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, para señalar: — el medio. +",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Agripina --- vntaua o mojaua las plumas con que llamaua el vómito en el mesmo veneno.»",
-                  "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 41 (1. 459). — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Agripina --- vntaua o mojaua las plumas con que llamaua el vómito en el mesmo veneno.»",
+                      "autor": "Oviedo",
+                      "referencia_obra": ", Quinquag. 1. 41 (1. 459)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Volvió el rostro. La ciudad le llamaba con una voz de tedio y perfidia, y la fiera muralla, toda roja en el amanecer, hízole pensar en el encarnado capucho del verdugo.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 236)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Volvió el rostro. La ciudad le llamaba con una voz de tedio y perfidia, y la fiera muralla, toda roja en el amanecer, hízole pensar en el encarnado capucho del verdugo.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 236)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1244,41 +1647,50 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol. Con a. Además con la prep. con, que expresa el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ni podía ignorar que aquellos tenían sus fugas artificiosas con que solían llamar a sus celadas.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 5. 15 (R. 28. 3671)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Loc. Llamar la atención: provocarla o atraerla. X",
+          "definicion": "Loc. Llamar la atención: provocarla o atraerla.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Nadie negará que la exhortación de Fénix, con la novedad del pensamiento y con la belleza de la alegoría, llamaría más la atención de Aquiles que aquellos mismos expuestos en el tono dogmático y doctrinal con que los expondría Publio Siro Mimo.»",
               "autor": "Arteaga",
               "referencia_obra": ", Belleza ideal, 10 (Cl. C. 122. 134)."
             },
             {
+              "marca": "",
               "texto_cita": "«Lo que más llamó su atención y la de los padres, fueron las joyas y collares de oro.»",
               "autor": "Quint.",
-              "referencia_obra": "Las casas (3. 190). X"
+              "referencia_obra": "Las casas (3. 190)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Aquellos palmeros habían llamado desde temprano mi atención.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Prov. p. 18. X"
+              "referencia_obra": ", Recuerdos de Prov. p. 18."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Qué hay? —preguntaron a Vidal. —Un condenado perro que se ha puesto a ladrar y va a llamar la atención de alguno.»",
               "autor": "Baroja",
               "referencia_obra": ", La busca, 3. 4 (p. 158)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1286,32 +1698,55 @@
     {
       "id": "b)",
       "definicion": "Incitar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con a, que expresa la finalidad.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No solamente la Cruz, mas la misma figura que en ella tienes nos llama dulcemente a amor.»",
               "autor": "Ávila",
               "referencia_obra": ", Amor de Dios, 1 (3. 22)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los apóstoles, en lo que toca a la vida, los llamaban a una suma aspereza.»",
               "autor": "León",
-              "referencia_obra": ", Nomb. 2 (3. 159). — El término es una prop. infinitiva."
+              "referencia_obra": ", Nomb. 2 (3. 159)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "El término es una prop. infinitiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Así procuraba tener [a los clérigos] propicios, porque favoreciesen su negocio y llamasen sus feligreses a tomar la bulla.»",
+                  "autor": "",
+                  "referencia_obra": "Lazar. 5 (R. 3. 882)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Así procuraba tener [a los clérigos] propicios, porque favoreciesen su negocio y llamasen sus feligreses a tomar la bulla.»",
-              "autor": "",
-              "referencia_obra": "Lazar. 5 (R. 3. 882). —El término es una prop. subjuntiva."
-            },
-            {
-              "texto_cita": "«Porque llamándola el Esposo a que salga, significa el Espíritu Santo no sólo que el Esposo la saca de allí, mas también la manera como la hace salir.»",
-              "autor": "León",
-              "referencia_obra": ", Nomb. 2 (3. 265)."
+              "id_limpio": "—",
+              "definicion": "El término es una prop. subjuntiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Porque llamándola el Esposo a que salga, significa el Espíritu Santo no sólo que el Esposo la saca de allí, mas también la manera como la hace salir.»",
+                  "autor": "León",
+                  "referencia_obra": ", Nomb. 2 (3. 265)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -1319,13 +1754,16 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Determinó hacérsela desear [la paz] antes de proponérsela y salir a la ciudad con la mayor parte de su ejército para llamarlos con el rigor a la quietud.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 4. 12 (R. 28. 3242)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1333,13 +1771,16 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Esta nuestra porción, alta y divina, | A mayores acciones es llamada, | Y en más nobles objetos se termina.»",
               "autor": "Rioja",
               "referencia_obra": ", Epís. moral (Fern. 18. 73)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1347,12 +1788,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «A la puerta llaman, corre.» Celest. 1 (R. 3. 102). X «Acábase este tratado llamado Sant Pedro, a las damas de la Reyna nuestra señora, fue empreso en la muy noble e muy leal cibdad de Burgos, por Fadrique Alemán, en el año del nacimiento de Nuestro Saluador Ihu. Christo de mill y CCCC y nouenta e vn anos, a XXV días de nobiembre.» D. de S. Pedro, Tract. de amor (Cl. C. 133. 98). X «Pues si de piedad e amor queréys, señoras, enxemplo, fallaréys que en Babilonia biuían dos caualleros, y el vno dellos tenía fijo llamado Píramo, y el otro vna hija que llamauan Tisbe; y como se viessen muchas vezes encendió la conuersación sus desseos.» Id. Sermón, 3 (Cl. C. 133. 109). X «Dirés vos, señor, que éste no es consejo, sino consuelo, y aun no de los mejores, y podríades me llamar consolador de espera.» Pulgar, Letras, 2 (Cl. C. 99. 13). X «¡Qué inicio tan bien dado, | Qué justicia y qué dolor, | Condenar all apartado, | Nunca oído ni llamado | El ni su procurador!» J. Manr. Canc. (Cl. C. 94. 5). + «Avía nonbre el uno Alfonso del Adrada, e el otro llamaban Morales.» Crón. Álv. de Luna, 123 (p. 407). + «Por que el conde de Castro estaba en la villa de Peñafiel alçado, e llamado por llamamientos e pregones no venía --- el Rey partió de Cuéllar.» ib. 22 (p. 84). X «E eligieron a uno que lamavan Sergio, que fasta entonçes sienpre pareçía omne de buena vida, comoquier que non lo supo levar adelante.» Arc. de Talav. Vida de S. Ildef. (Cl. C. 134. 62). X «¡O reyna desconsolada! | Sé que me puedo llamar | La más triste apassionada | De quantas saben amar.» Santill. (Cl. C. 18. 121).\n\n—Siglo XIV: + «Dexó todas las otras cosas, et llamó todas las más gentes que pudo aver en el su señorío.» Crón. Alf. XI, 126 (p. 243). + «Muchos judíos e moros andan en la mi corte e en los míos rregnos que se llaman nonbres de christianos, e visten panos de viado.» Cortes de Valladolid, año 1351 (C. de L. y C. 2. 19). + «Llamar me he enperador | E aquel rey de Castilla | A mí lamará sseñor.» Alf. XI, 912 (p. 255). X «Los de la Trenidat con los frayres del Carmen, | E los de Santolalla, porque non se desamen, | Todos mandan que digan, que canten e que llamen: ¡Benedictus qui venit!; responden todos: ¡Amen!» Arc. de Hita, 1239 (Cl. C. 17. 148). X «Roboan andaua en aquel fecho a guisa de muy buen cauallero --- llamado Menton por su señor el rey.» Zifar, 104 (p. 213).\n\n— Siglo XIII: X «Llamó el corazón dellos al Señor sobre los muros de la fija de Sion. Adu como arroyo de torriente Lágrimas de día et de noche. Non te des folgura, nin calle la niñiella del to ojo.» Alf. X, Antol. p. 132. X «Quando vio que non avil acorro ni ayuda de ninguna parte llamose a las gruas, teniendo en su voluntat al sennor que fizo las gruas, e fizo a el que es demandador de todos los tuertos e de todos los malos fechos e da derecho quando a él se llaman.» Buenos proverbios (Knust, Mitth, p. 3). X «Lo que El dixo tú lo otorgueste | I por su ançilla te llameste; | Por esso eres del çiello Reyna; | Tu seyas oy de mj melezina.» S. M. Egipc. p. 123.\n\n— Siglo XII: X «Los moros llaman Mafómat e los cristianos santi Yague.| Cadien por el campo en un poco de logar | Moros muertos mil e trezientos ya.» Cid, 730 (Cl. C. 24. 146). X «Llamavan a la puerta, i sopieron el mandado; | Dios, qué alegre fo el abbat don Sancho! | Con lumbres e con candelas al corral dieron salto, | Con tan grant gozo reciben al que en buen ora nasco.» Ib. 242 (Cl. C. 24. 119).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. clamare ‘gritar, clamar, quejarse’. Port. chamar, it. chiamare.",
+  "etimologia": "Etim. Del lat. <i>clamare</i> ‘gritar, clamar, quejarse’. Port. <i>chamar</i>, it. <i>chiamare</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 2, α, α - 2, β, α - 2, χ, α - 3, α, α - 3, α, ζ - 3, β, α - 4, α, α - 4, β, α.\n\n— Aβσολ.: 1, α, β - 1, α, γ, γ γ - 2, a, β - 4, α, β.\n\n— Pασ.: 2, α, γ - 3, α, β - 4, β, β.\n\n— Pασ. ρεφλ.: 3, α, γ - 3, β, β.\n\n— Rεφλ.: 3, α, δ - 3, β, γ.\n\n— Iντρανσ.: 1, β, α.\n\n— Pαρτ.: 2, α, δ - 2, α, ε, α α - 2, c, β - 3, α, ε - 3, α, ζ, α α - 3, b, δ.\n\n—Cον δατ.: 2, α, α, α α - 4, a, α, α α.\n\n— Con a: en general.\n\n— Con la prep. con: en general.\n\n— Con de: 2, a, δ, α α - 3, a, α, β β - 3, a, β, α α - 3, a, γ, α α - 3, a, ε, α α.\n\n— Con desde: 1, a, α, β β -1, a, γ, β β - 1, a, γ, γ γ.\n\n— Con en: 1, a, α, β β - 1, a, α, γ γ - 1, b, α, α α - 1, b, α, γ γ - 2, a, α, δ δ - 2, a, δ - 2, β, α - 3, α, α, γ γ - 3, a, γ, β β.\n\n— Con hasta: 1, a, δ.\n\n— Cον παρα: 2, α, α, β β - 2, a, α, ε ε - 2, a, γ.\n\n— Cον πορ: 1, α, γ, α α - 2, a, γ - 2, α, δ - 2, β, α, α α - 2, c, α, α α - 3, a, α, δ δ - 3, a, β, β β - 3, a, ζ, α α.\n\n— Con sin: 1, b, α, δ δ.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 2, α, α - 2, β, α - 2, χ, α - 3, α, α - 3, α, ζ - 3, β, α - 4, α, α - 4, β, α.\n\n— Aβσολ.: 1, α, β - 1, α, γ, γ γ - 2, a, β - 4, α, β.\n\n— Pασ.: 2, α, γ - 3, α, β - 4, β, β.\n\n— Pασ. ρεφλ.: 3, α, γ - 3, β, β.\n\n— Rεφλ.: 3, α, δ - 3, β, γ.\n\n— Iντρανσ.: 1, β, α.\n\n— Pαρτ.: 2, α, δ - 2, α, ε, α α - 2, c, β - 3, α, ε - 3, α, ζ, α α - 3, b, δ.\n\n—Cον δατ.: 2, α, α, α α - 4, a, α, α α.\n\n— Con a: en general.\n\n— Con la prep. con: en general.\n\n— Con de: 2, a, δ, α α - 3, a, α, β β - 3, a, β, α α - 3, a, γ, α α - 3, a, ε, α α.\n\n— Con desde: 1, a, α, β β -1, a, γ, β β - 1, a, γ, γ γ.\n\n— Con en: 1, a, α, β β - 1, a, α, γ γ - 1, b, α, α α - 1, b, α, γ γ - 2, a, α, δ δ - 2, a, δ - 2, β, α - 3, α, α, γ γ - 3, a, γ, β β.\n\n— Con hasta: 1, a, δ.\n\n— Cον παρα: 2, α, α, β β - 2, a, α, ε ε - 2, a, γ.\n\n— Cον πορ: 1, α, γ, α α - 2, a, γ - 2, α, δ - 2, β, α, α α - 2, c, α, α α - 3, a, α, δ δ - 3, a, β, β β - 3, a, ζ, α α.\n\n— Con sin: 1, b, α, δ δ.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

@@ -6,212 +6,283 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Tener alguna calidad que merezca aprecio y estimación (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Dicho de personas. X",
+          "definicion": "Dicho de personas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Trabajan allí mucho, es verdad, pero vocean más que trabajan; valen, sí, pero sería un negocio redondo comprarles por lo que valen y venderles por lo que creen valer.»",
               "autor": "Unamuno",
               "referencia_obra": ", Por tierras de Port. y Esp. p. 98."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Porque la amistad verdadera es muy estrecha. Y ansí nosotros no valemos sino para con pocos.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 3. 2 (3. 338)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con una voz neutra o adverbio de cantidad que denota el precio o valor. X",
+              "definicion": "Con una voz neutra o adverbio de cantidad que denota el precio o valor.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo estoy bueno de salud y estaríalo de todas las otras cosas, si tuviesse enemigos que valiessen más o que valiessen menos, mas el no valer mucho les haze que me dañen no como cavalleros, y el no ser en todo poco haze que le suceda parte de lo que procuran.»",
                   "autor": "Garcil.",
                   "referencia_obra": "Obr. 3 (Cl. C. 3. 262)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Conocerá muy bien lo que vale Pablo y está muy determinado de seguirle en todo, que me ha dado gran contento.»",
                   "autor": "Sta. Ter.",
-                  "referencia_obra": "Cartas, 294 (R. 55. 2201). X"
+                  "referencia_obra": "Cartas, 294 (R. 55. 2201)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Dile al sargento que te deje ver al coronel. Y cuéntale lo viejo que estoy. Lo poco que valgo. ¿Qué ganancia sacará con matarme?»",
                   "autor": "Rulfo",
-                  "referencia_obra": ", El llano en llamas, p. 84. — Además con en. +"
+                  "referencia_obra": ", El llano en llamas, p. 84."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Es [fulano] caballero de grandes partes, y que vale mucho en Argel.»",
+                      "autor": "Espinel",
+                      "referencia_obra": ", Escud. 2. 10 (Cl. C. 51. 75)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Es [fulano] caballero de grandes partes, y que vale mucho en Argel.»",
-                  "autor": "Espinel",
-                  "referencia_obra": ", Escud. 2. 10 (Cl. C. 51. 75). — Además con hasta y una prop. en indicativo. X"
+                  "id_limpio": "—",
+                  "definicion": "Además con hasta y una prop. en indicativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cada uno es como es y no hay por qué darle vueltas. Una madre, como la salud, no se sabe lo que vale, hasta que se pierde.»",
+                      "autor": "Delibes",
+                      "referencia_obra": ", Diario de un cazador, p. 211."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Cada uno es como es y no hay por qué darle vueltas. Una madre, como la salud, no se sabe lo que vale, hasta que se pierde.»",
-                  "autor": "Delibes",
-                  "referencia_obra": ", Diario de un cazador, p. 211. — Además con por, que señala la causa"
-                },
-                {
-                  "texto_cita": "«No es cosa nueva irse monjas de estas casas; que es muy ordinario, y nenguna cosa pierden en decir, que no tuvo salud para este rigor; ni he visto ninguna, que valga menos por esto.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Cartas, 102 (R. 55. 902). X"
-                },
-                {
-                  "texto_cita": "«¿Qué os parece que valdría | El hombre sin la mujer? —Lo que deja de valer | Por su mala compañía.»",
-                  "autor": "Castillejo",
-                  "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 120)."
+                  "id_limpio": "—",
+                  "definicion": "Además con por, que señala la causa",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«No es cosa nueva irse monjas de estas casas; que es muy ordinario, y nenguna cosa pierden en decir, que no tuvo salud para este rigor; ni he visto ninguna, que valga menos por esto.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Cartas, 102 (R. 55. 902)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Qué os parece que valdría | El hombre sin la mujer? —Lo que deja de valer | Por su mala compañía.»",
+                      "autor": "Castillejo",
+                      "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 120)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con un complemento comparativo más que, tan como, tanto cuanto. X",
+              "definicion": "Con un complemento comparativo más que, tan como, tanto cuanto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Más valéis vos, Antona, | Que la corte toda.»",
                   "autor": "Lope",
-                  "referencia_obra": ", Poes. lír. (Cl. C. 68. 72). X"
+                  "referencia_obra": ", Poes. lír. (Cl. C. 68. 72)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Oh qué lindo! —dijo el mercader, dando una gran risada—, pues, señor mío, ésa es la preciosa mercadería, ésa es la que prestamos y ésa es el remedio único para cuantos males hay; y quien no la tuviere, desde el rey hasta el roque, váyase del mundo: tanto valí cuanto sufrí.»",
                   "autor": "Gracián",
-                  "referencia_obra": ", El criticón, 1. 13 (Cl. C. 165. 222). X"
+                  "referencia_obra": ", El criticón, 1. 13 (Cl. C. 165. 222)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Más que un buen aragonés | No ha de valer un Tenorio. | Todos esos lenguaraces, | Espadachines de oficio, | No son más que frontispicio | Y de poca alma capaces.»",
                   "autor": "Zorrilla",
-                  "referencia_obra": ", Don Juan Tenorio, 1. 2 (Cl. C. 201. 47). X"
+                  "referencia_obra": ", Don Juan Tenorio, 1. 2 (Cl. C. 201. 47)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Quién más? —Si, señor, eso pregunto; pero yo lo diré, ya que usted tiene miedo de nombrar a mis enemigos: además de aquéllos me amenaza Rivera —¡Bah! No vale tan poco como usted piensa, pues hoy tiene un ejército sobre el Uruguay.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 1 (p. 82)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Dicho de cosas. Con un adv. o voz neutra, que expresa el valor. X",
+          "definicion": "Dicho de cosas. Con un adv. o voz neutra, que expresa el valor.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No hizo menos el desgraciado Acha en las acequias de Angaco, poniendo con la barriga al sol a tanto imbécil que no sabía apreciar lo que vale una acequia puesta de por medio.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Prov. p. 121. X"
+              "referencia_obra": ", Recuerdos de Prov. p. 121."
             },
             {
+              "marca": "X",
               "texto_cita": "«A todo esto observarán algunos de nuestros literatos y publicistas que la obra de Latorre no vale nada ni merece un bledo porque este oscurantista escribía la frase gloria a Dios y a la Santísima Virgen y a sus santos abogados.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 2 (p. 128)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Todo lo que le quitaren [al justo] por una parte, confía que Dios se lo volverá por otra en cosa que más le valga.»",
                   "autor": "Gran.",
                   "referencia_obra": "Adic. al Mem. 2. 14 (3. 3092)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con un elemento comparativo. X",
+              "definicion": "Con un elemento comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Me volví a dirigirles una nueva ojeada, [a los cuadros] y el Señor Polonio continuó: Reparad que tan sólo digo atribuidos. En mi humilde parecer valen más que si fuesen de Rafael... ¡Yo los creo del Divino!»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de primavera, p. 20."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Aplicado a lo inmaterial. +",
+          "definicion": "Aplicado a lo inmaterial.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Digo que me acaece a veces ---, que veo deshacerse mi alma, por verse junta adonde está la mayor parte, y ser imposible, sino que le da tal guerra la memoria e imaginación, que no la dejan valer.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Vida, 17 (R. 53. 582)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con un adverbio o voz neutra, que denota el precio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No valen nada los dones naturales.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Imit. 3. 60 (6. 5521). X"
+                  "referencia_obra": "Imit. 3. 60 (6. 5521)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero yo quisiera pedir al tribunal un favor..., yo no tengo mujer ni hijos..., pueden hacer de mí lo que quieran..., ¡así como así esta vida vale tan poco!...»",
                   "autor": "M. de la Rosa",
-                  "referencia_obra": ", La conjuración de Venecia, 5 (Cl. C. 107. 383). X"
+                  "referencia_obra": ", La conjuración de Venecia, 5 (Cl. C. 107. 383)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡No me quieres dar un beso, | Y me das el corazón | Como si valiera menos!»",
                   "autor": "Ferrán",
-                  "referencia_obra": ", Obr. compl. (Cl. C. 164. 88). X"
+                  "referencia_obra": ", Obr. compl. (Cl. C. 164. 88)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sois descendientes de un pueblo que tan bien ha sabido apreciar lo que vale la dignidad del alma humana.»",
                   "autor": "Martínez Silva",
                   "referencia_obra": ", Ensayos, p. 95."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con un complemento comparativo. X",
+              "definicion": "Con un complemento comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«A lo menos satisfazednos con las razones que os mueven a escribir algunas cosas de otra manera que los otros, porque puede ser que éstas sean tales que valgan tanto quanto pudiera valer el autoridad de los libros.»",
                   "autor": "Valdés",
-                  "referencia_obra": ", Diál. (Cl. C. 86. 14). X"
+                  "referencia_obra": ", Diál. (Cl. C. 86. 14)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Oh feliz, oh dulce calma, | Paraíso de la tierra! | ¿Vale más que tú la palma | Del saber o de la guerra?»",
                   "autor": "Bello",
-                  "referencia_obra": ", Poes. p. 298. X"
+                  "referencia_obra": ", Poes. p. 298."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Creí que mi estirpe de Príncipe valía más que la ciencia y que la virtud de otros varones.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de primavera, p. 17."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -219,135 +290,193 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Expresiones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "No valer un comino (un pitache, un maravedí, etc.): frase que se usa para despreciar o ponderar el poco valor o inutilidad de algo o alguien.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«A dos pasos he menester sentarme, con tantico ejercicio no valgo un maravedí.»",
                   "autor": "M. de Chaide",
-                  "referencia_obra": ", Magd. 3. 31 (R. 27. 3452). X"
+                  "referencia_obra": ", Magd. 3. 31 (R. 27. 3452)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Come más tarde, lo peor y más caro. Su real no vale medio, su sentencia es necedad, su discreción locura, su voto escarnio.»",
                   "autor": "Alemán",
-                  "referencia_obra": ", Guzmán, 1. 3. 1 (Cl. C. 83. 165). X"
+                  "referencia_obra": ", Guzmán, 1. 3. 1 (Cl. C. 83. 165)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Rosita admiraba el talento del Condesito: le reía todos los chistes, hallaba que nadie era más discreto que él; ni su poeta ni su marido valían un pitoche al lado del Conde, y por él hubiera hecho Rosita cualquier sacrificio.»",
                   "autor": "Valera",
-                  "referencia_obra": ", Pasarse de listo, 10 (5. 128). X"
+                  "referencia_obra": ", Pasarse de listo, 10 (5. 128)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Lo noté reacio a referirme el altercado con Millán. Esa discusión no vale un comino. Además, en esta sabana caben muchísimas sepulturas; el cuidado está en conseguir que otros hagan de muertos y nosotros de enterradores.»",
                   "autor": "Rivera",
                   "referencia_obra": ", La vorágine, 1 (p. 87)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Más vale: ser preferible. X",
+              "definicion": "Más vale: ser preferible.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y de verdad, | Más vale con libertad | Pan y agua con cebolla | Que cabecera de olla | Por ajena voluntad | Y privanza.»",
                   "autor": "Castillejo",
-                  "referencia_obra": ", Sermón de amores (Cl. C. 72. 104). X"
+                  "referencia_obra": ", Sermón de amores (Cl. C. 72. 104)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y sabe muy bien que más vale descansar al fin de la jornada y no pararse a la caída de la tarde, cuando las sombras oscurecen ya el camino, áspero y penoso al acercarse a su término.»",
                   "autor": "Ferrán",
-                  "referencia_obra": ", Obr. complet. (Cl. C. 164. 151). X"
+                  "referencia_obra": ", Obr. complet. (Cl. C. 164. 151)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«He pensado alguna vez romperla para librarme de ella. Pero ¿me libraría? ¡No! Vale más darse un espectáculo que consumirse. Y al fin y al cabo no es más que espectáculo la vida.»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 12 (p. 58). X"
+                  "referencia_obra": ", Abel Sánchez, 12 (p. 58)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Los insurrectos de Sopetrán escribieron al Gobierno en estos términos, que son dignos de un discurso de los de París en 1789: ¡Ya vale más morir que aguantar a los recaudadores.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Estud. mesa redonda, 11 (p. 163). — Esta misma expresión se usa como encabezamiento de muchos refranes y proverbios. — Mas vale maña que fuerza: denota que se saca mejor partido con la suavidad y destreza que con la violencia y el rigor. +"
+                  "referencia_obra": ", Estud. mesa redonda, 11 (p. 163)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Esta misma expresión se usa como encabezamiento de muchos refranes y proverbios.",
+                  "marca": "",
+                  "ejemplos_citas": []
                 },
                 {
-                  "texto_cita": "«Pídole --- que no lleve este negocio a fuerza de brazos, pues vale más maña que fuerza.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Epist. 2. 50 (1. 514). — Más vale obedecer que sacrificar: enseña la obligación que ante todas las cosas se tiene de obedecer el precepto legítimo del superior. X"
+                  "id_limpio": "—",
+                  "definicion": "Mas vale maña que fuerza: denota que se saca mejor partido con la suavidad y destreza que con la violencia y el rigor.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Pídole --- que no lleve este negocio a fuerza de brazos, pues vale más maña que fuerza.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Epist. 2. 50 (1. 514)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Porque dicen que obediencia | Vale más que sacrificio. | Pienso que fue la intención | De vuesa merced, señora, | Tentar de saber agora | Do llega mi devoción.»",
-                  "autor": "Castillejo",
-                  "referencia_obra": ", Obr. (Cl. C. 91. 159). X"
+                  "id_limpio": "—",
+                  "definicion": "Más vale obedecer que sacrificar: enseña la obligación que ante todas las cosas se tiene de obedecer el precepto legítimo del superior.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Porque dicen que obediencia | Vale más que sacrificio. | Pienso que fue la intención | De vuesa merced, señora, | Tentar de saber agora | Do llega mi devoción.»",
+                      "autor": "Castillejo",
+                      "referencia_obra": ", Obr. (Cl. C. 91. 159)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Suspende el acero, | Que más vale, Abraham, | El obedecer que el sacrificar.»",
+                      "autor": "Calderón",
+                      "referencia_obra": "(Pagés, Dicc.)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Suspende el acero, | Que más vale, Abraham, | El obedecer que el sacrificar.»",
-                  "autor": "Calderón",
-                  "referencia_obra": "(Pagés, Dicc.). — Más vale tarde que nunca: significa que aunque se haga con retraso una cosa, resulta más útil y estimable que el no hacerla. X"
-                },
-                {
-                  "texto_cita": "«Hacía esto, porque veía ya mi daño, y ojalá antes fuera; pero más vale tarde que nunca.»",
-                  "autor": "Pagés",
-                  "referencia_obra": ", Dicc.). X"
-                },
-                {
-                  "texto_cita": "«Si se trata de hacer bien, | Más vale tarde que nunca.»",
-                  "autor": "Pagés",
-                  "referencia_obra": ", Dicc.)."
+                  "id_limpio": "—",
+                  "definicion": "Más vale tarde que nunca: significa que aunque se haga con retraso una cosa, resulta más útil y estimable que el no hacerla.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hacía esto, porque veía ya mi daño, y ojalá antes fuera; pero más vale tarde que nunca.»",
+                      "autor": "Pagés",
+                      "referencia_obra": ", Dicc.)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Si se trata de hacer bien, | Más vale tarde que nunca.»",
+                      "autor": "Pagés",
+                      "referencia_obra": ", Dicc.)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Más valiera: expresa la extrañeza o disonancia que hace lo que se propone, como opuesto a lo que se intentaba. X",
+              "definicion": "Más valiera: expresa la extrañeza o disonancia que hace lo que se propone, como opuesto a lo que se intentaba.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los ojos, que dan enojos | Al ver, y mirar con ellos, | Más valiera no tenellos; | Pero bueno es tener ojos.»",
                   "autor": "Calderón",
-                  "referencia_obra": "(Pagés, Dicc.). X"
+                  "referencia_obra": "(Pagés, Dicc.)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El honor de vuestro odio: ya son muertos! | ¡Valiera más ¡oh bárbaros! que al punto | De arrebatarlos al hogar, hundiera | En lo más hondo de su pecho honrado | Vuestro esbirro más cruel su hoja más dura!»",
                   "autor": "Martí",
-                  "referencia_obra": ", Páginas escogidas, p. 39. X"
+                  "referencia_obra": ", Páginas escogidas, p. 39."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«No ignoro tus más velados pensamientos, Eliacim, aunque, con frecuencia, cuando premeditas estar frío conmigo, más me valiera no tener la facultad de conocértelos como si los llevaras escritos con tinta sobre la frente.»",
                   "autor": "Cela",
                   "referencia_obra": ", Mrs. Caldwell, p. 150."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Valer la pena una cosa: denota que se puede dar por bien empleado el trabajo que cuesta. X",
+              "definicion": "Valer la pena una cosa: denota que se puede dar por bien empleado el trabajo que cuesta.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cierto: es una friolera: | No ha habido nada: no importa | Nada: no vale la pena. | ¿Es verdad? Lo que yo he visto | No ha sido nada, ¡eh! Parlera | De Satanas!»",
                   "autor": "Mor.",
-                  "referencia_obra": "El viejo y la niña, 3 (p. 151). X"
+                  "referencia_obra": "El viejo y la niña, 3 (p. 151)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Doña Emilia respondióle que no valía la pena de intentarse; que era tan poco lo que a ella le pagaban, que le daba vergüenza confesarlo.»",
                   "autor": "Nervo",
-                  "referencia_obra": ", Obr. p. 141. X"
+                  "referencia_obra": ", Obr. p. 141."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tallados de cicatrices contaban historias maravillosas. Valía la pena llegar al Nuevo Mundo aunque se actuara en escenarios de la muerte.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Estud. mesa redonda, 3 (p. 59). X"
+                  "referencia_obra": ", Estud. mesa redonda, 3 (p. 59)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y ese momento coincidió con los meses posteriores a la desaparición de su amigo. ¿Vale la pena decir a qué se refería la preocupación?»",
                   "autor": "Mallea",
                   "referencia_obra": ", El vínculo, p. 73."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -356,90 +485,125 @@
     {
       "id": "b)",
       "definicion": "Hacer uso de algo con un propósito definido, aprovecharse. (prnl.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con de. X",
+          "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Para no ser conocido no me quise valer del apellido de mi padre.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 1. 1. 2 (Cl. C. 73. 101)."
             },
             {
+              "marca": "",
               "texto_cita": "«Dispone [la naturaleza] como quiere las cosas, valiéndose de las manos, formadas con tal sabiduría.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 84 (R. 25. 2251)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los caballos se rindieron; | De la espesura del valle | Nos valgamos. Encubiertos | Pasaremos aquí el día.»",
               "autor": "Mto.",
               "referencia_obra": "El valiente justiciero, 1. 6 (R. 39. 3333)."
             },
             {
+              "marca": "",
               "texto_cita": "«Este a todos vendaba | Los ojos, como que es | El que mejor se sabe | De las manos valer.»",
               "autor": "T. Iriarte",
-              "referencia_obra": ", Fáb. 59 (1. 94). +"
+              "referencia_obra": ", Fáb. 59 (1. 94)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Para hacer ver más distintamente en qué consiste esta belleza ideal de la dicción, me valdré de tres ejemplos sacados de las tes lengua más conocidas, que son la española, la latina y la francesa.»",
               "autor": "Arteaga",
               "referencia_obra": ", Belleza Ideal, 5 (Cl. C. 122. 64)."
             },
             {
+              "marca": "",
               "texto_cita": "«No hallo otra expresión de que valerme.»",
               "autor": "M. de la Rosa",
-              "referencia_obra": ", Com. esp. (1. 1951). +"
+              "referencia_obra": ", Com. esp. (1. 1951)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Y si tenéis el derecho, | ¿Por qué os valéis de la fuerza?»",
               "autor": "Hartz.",
-              "referencia_obra": "La jura en Santa Gadea, 1. 10 (Cl. C. 113. 167). — Además con en. X"
+              "referencia_obra": "La jura en Santa Gadea, 1. 10 (Cl. C. 113. 167)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Los manejos de que se valieron en la elección les quitaron no sólo el poder sino también la fuerza moral con que contaban.»",
+                  "autor": "Martínez Silva",
+                  "referencia_obra": ", Ensayos, p. 49."
+                }
+              ]
             },
             {
-              "texto_cita": "«Los manejos de que se valieron en la elección les quitaron no sólo el poder sino también la fuerza moral con que contaban.»",
-              "autor": "Martínez Silva",
-              "referencia_obra": ", Ensayos, p. 49. — Además con para y una prop. infinitiva. X"
-            },
-            {
-              "texto_cita": "«Pues apenas pueden llamarse hombres los que no cultivan su razón, y sólo se valen de una especie de instinto que les queda para hacer daño a todo cuanto se les presente, amigo o enemigo, débil o fuerte, inocente o culpado.»",
-              "autor": "Cadalso",
-              "referencia_obra": ", Cartas marr. 58 (Cl. C. 112. 203). X"
-            },
-            {
-              "texto_cita": "«Pero tiene la certeza de haber llegado al corazón del pueblo, y quemado las tramoyas de que se valió la farsa monarquista para saquear el tesoro vital de la raza.»",
-              "autor": "Arciniegas",
-              "referencia_obra": ", Estud. mesa redonda, 5 (p. 78)."
+              "id_limpio": "—",
+              "definicion": "Además con para y una prop. infinitiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Pues apenas pueden llamarse hombres los que no cultivan su razón, y sólo se valen de una especie de instinto que les queda para hacer daño a todo cuanto se les presente, amigo o enemigo, débil o fuerte, inocente o culpado.»",
+                  "autor": "Cadalso",
+                  "referencia_obra": ", Cartas marr. 58 (Cl. C. 112. 203)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Pero tiene la certeza de haber llegado al corazón del pueblo, y quemado las tramoyas de que se valió la farsa monarquista para saquear el tesoro vital de la raza.»",
+                  "autor": "Arciniegas",
+                  "referencia_obra": ", Estud. mesa redonda, 5 (p. 78)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por y una prop. en inf. X",
+              "definicion": "Con por y una prop. en inf.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Irresoluto Carlos no sabía | Qué responder a la gentil doncella, | Y de pretextos varios se valía | Por platicar a su sabor con ella.»",
                   "autor": "Bello",
                   "referencia_obra": ", Poes. p. 371."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. dep. Con de. X",
+          "definicion": "Part. dep. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los ingleses, validos de la obscuridad de la noche, dispusieron que el navío Soberbio, el más ligero de los que traían, apagara sus luces y se colocara entre nuestros dos hermosos barcos.»",
               "autor": "P. Galdós",
               "referencia_obra": ", Trafalgar, 4 (p. 38)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -447,41 +611,51 @@
     {
       "id": "c)",
       "definicion": "Tener una persona o cosa poder, autoridad o fuerza con alguien o en alguna actividad (intrans).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Como dijo Eliphaz que maltrataba Job a los pobres, ansí también dice que respetaba y beneficiaba a los ricos y poderosos, y que no valía con él la necesidad y razón, sino la persona y interés.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 2. 22 (2. 5)."
             },
             {
+              "marca": "",
               "texto_cita": "«ldos, por Dios, señor, idos; | Idos, si valgo con vos.»",
               "autor": "Alarcón",
-              "referencia_obra": ", Los pechos privilegiados, 1. 8 (R. 20. 4201). X"
+              "referencia_obra": ", Los pechos privilegiados, 1. 8 (R. 20. 4201)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pues algo he yo de valer | Con vuestra Alteza, señor, | Concédame este favor.»",
               "autor": "Tirso",
               "referencia_obra": "(NBAE. 4. 640)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En diversos tiempos [ellos] valieron en aquel ejercicio.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Gran. 2 (R. 21. 821)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -490,76 +664,102 @@
     {
       "id": "d)",
       "definicion": "Prevalecer una cosa en oposición de otra (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Valga la verdad por quien quiera que se dijere.»",
               "autor": "J. de Pineda",
-              "referencia_obra": ", Agr. crist. 8. 21 (R. 162. 1912). X"
+              "referencia_obra": ", Agr. crist. 8. 21 (R. 162. 1912)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Valió el parecer y autoridad del duque de Sajonia y los electores dieron el voto a D. Carlos, rey de España.»",
               "autor": "Pagés",
               "referencia_obra": ", Dicc.)."
             },
             {
+              "marca": "",
               "texto_cita": "«El remedio consiste en el conocimiento propio, entrando el príncipe dentro de sí mismo, --- si pudiera valer la razón, había de mandar el más perfecto.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 41 (R. 25. 1051). X"
+              "referencia_obra": "Emp. 41 (R. 25. 1051)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero valga la verdad; ¿sería tan preciosa esta ventaja como el tiempo y el ímprobo trabajo que os costaría alcanzarla?»",
               "autor": "Jovell.",
-              "referencia_obra": "Discursos (Cl. C. 129. 99). X"
+              "referencia_obra": "Discursos (Cl. C. 129. 99)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Valga la verdad, el mismo matrimonio tenía ardientes deseos de ver un fenómeno. Entraron, pues, no sin dejar a la puerta cuarenta y cinco céntimos.»",
               "autor": "Clarín",
               "referencia_obra": ", Avecilla (Cl. Castal. 69. 140)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«A veces la importancia era del ribete corolario, otras la gloria correspondía al tamaño, otras no se sabía qué valía más en la especie, si el color, si la morbidez... Berta se quedaba pensando.»",
                   "autor": "Mallea",
                   "referencia_obra": ", La rosa, p. 150."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Se usa frecuentemente con el verbo hacer. X",
+              "definicion": "Se usa frecuentemente con el verbo hacer.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ardua tarea es, sin duda, hablar de sí mismo y hacer valer sus buenos lados, sin suscitar sentimientos de desdén, sin atraerse sobre sí la crítica, y a veces con harto fundamento.»",
                   "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Prov. p. 16. X"
+                  "referencia_obra": ", Recuerdos de Prov. p. 16."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero, ¿quién puede perseguirla? —Uno que se ha enamorado de ella, y a quien ella desprecia. —Y.. —Perdón... y hacen valer la federación y el respetable nombre del Restaurador de las Leyes como instrumento de una venganza innoble e interesada.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 4 (p. 424). X"
+                  "referencia_obra": ", Amalia, 4 (p. 424)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Don Salvador de Villa, que era el todo de la influencia en Medellín, como cura vicario, representó en la forma más encarecida la necesidad de aplazar aquel retiro, haciendo valer todo lo que había hecho el señor Mon por la instrucción popular.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 2 (p. 122). — Con de y por, que señalan el modo. X"
-                },
+                  "referencia_obra": ", Sueños, 2 (p. 122)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Contra la facultades extraordinarias, hacía valer de palabra y por escrito el derecho de petición a los representantes para hacerlos cumplir con su deber.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Prov. p. 144."
+                  "id_limpio": "—",
+                  "definicion": "Con de y por, que señalan el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Contra la facultades extraordinarias, hacía valer de palabra y por escrito el derecho de petición a los representantes para hacerlos cumplir con su deber.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Recuerdos de Prov. p. 144."
+                    }
+                  ]
                 }
               ]
             }
@@ -568,17 +768,29 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En los siguientes textos, Importar. Con dat. X",
+          "definicion": "En los siguientes textos, Importar. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Además, esgrimió contra los monótonos el texto de Plutarco y denunció lo escandaloso de que a un idólatra le valiera más el lumen naturae que a ellos la palabra de Dios.»",
               "autor": "Borges",
-              "referencia_obra": ", Los teólogos (El Aleph, p. 40). — Además con para y una prop. infinitiva. X"
-            },
+              "referencia_obra": ", Los teólogos (El Aleph, p. 40)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Tal fue el pensar que guio al presidente paria en sus actos oficiales, estando convencido, como lo repitió con franqueza, de su poca adaptación, lo que no le valió para hurtar el cuerpo a la carga.»",
-              "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 2 (p. 82)."
+              "id_limpio": "—",
+              "definicion": "Además con para y una prop. infinitiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Tal fue el pensar que guio al presidente paria en sus actos oficiales, estando convencido, como lo repitió con franqueza, de su poca adaptación, lo que no le valió para hurtar el cuerpo a la carga.»",
+                  "autor": "M. F. Suárez",
+                  "referencia_obra": ", Sueños, 2 (p. 82)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -588,100 +800,124 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Proteger, amparar a alguien (trans.)",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿A quién os acogeréis, que os vala y os ampare?»",
               "autor": "M. de Chaide",
               "referencia_obra": ", Magd. 3. 44 (R. 27. 3782)."
             },
             {
+              "marca": "",
               "texto_cita": "«Con las armas se hizo camino para huir, y se fue a valer a suegro el conde del Anguilara.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 14. 10 (1. 7132)."
             },
             {
+              "marca": "",
               "texto_cita": "«Todo es menester, Rodrigo; | Matar allá al enemigo, | Y valer aquí al hermano.»",
               "autor": "G. de Castro",
               "referencia_obra": ", Las mocedades del Cid, 1. 3 (R. 43. 2541)."
             },
             {
+              "marca": "",
               "texto_cita": "«Que tengo por hombre infame | Quien ve a su enemigo en riesgo, | Y a su enemigo no vale.»",
               "autor": "Cald.",
-              "referencia_obra": "Los empeños de un acaso, 2. 16 (R. 9. 2072). X"
+              "referencia_obra": "Los empeños de un acaso, 2. 16 (R. 9. 2072)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿No callarás? ¿Qué secreto ha de haber contigo? ¡Pues voto a..., que si alguien me descubre por tu hablar sin medida!... —i Valedme, que me matará! —¡Teneos, señor!»",
               "autor": "Benavente",
               "referencia_obra": ", Intereses creados, 1. 1. 2 (p. 47)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Casilda, esto es lo seguro; | Don Juan del riesgo nos valga.»",
                   "autor": "Mto.",
                   "referencia_obra": "Trampa adelante, 3. 18 (R. 39. 1633)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En los siguients textos, Ayudar, asistir. +",
+          "definicion": "En los siguients textos, Ayudar, asistir.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«¡Se habrá muerto! [Gonzalo] —¡Muerto! | —¡Cielos, | Valedle! | —A su lado corro.»",
               "autor": "Hartz.",
-              "referencia_obra": "La jura en Santa Gadea, 3. 8 (Cl. C. 113. 226). X"
+              "referencia_obra": "La jura en Santa Gadea, 3. 8 (Cl. C. 113. 226)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dirigiéndose allí, y viendo tendido entre las zarzas a un pastor que se desangraba, herido acaso por los lobos, se aproximaron a valerle.»",
               "autor": "Rodó",
               "referencia_obra": ", Motivos de Proteo, p. 186."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ninguna otra cosa más a menudo repiten los Psalmos..., sino los favores, regalos y beneficios que continuamente el Señor hizo a los suyos y como los ayudó y valió en todas sus angustias.»",
                   "autor": "Gran.",
                   "referencia_obra": "Orac. y medit. 1. 1 (2. 41)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Recípr. +",
+              "definicion": "Recípr.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Los ciudadanos eran muchos y armados, los alanos también ---; finalmente, recibiendo fe y juramento de valerse unos a otros, pasaron a cuchillo parte de los catalanes que estaban dentro.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 18 (R. 21. 181)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -689,56 +925,69 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Válgame Dios: expresión usada como interjección para manifestar con cierta moderación el disgusto, sorpresa o susto que nos causa una cosa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Valate Dios el charco, el que provocas | Con verte a helar el alma de las venas.»",
                   "autor": "Lope",
                   "referencia_obra": ", Son. (Fern. 11. 67)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Murió sin decir Dios valme.»",
                   "autor": "Yepes",
                   "referencia_obra": ", Vida de Sta. Ter. 2. 20 (Míst. 1. 194)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¡Válgate Dios por cuerda, decía yo, que tales tropelías haces!»",
                   "autor": "Quev.",
                   "referencia_obra": "Mundo por dentro (1. 127)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¡Válgate Dios por franceses, y que extraño partido se quiere sacar de sus lecturas!»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Cartas (6. 8). X"
+                  "referencia_obra": "Cartas (6. 8)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Válgame Dios, señora, siempre pensando cosas tristes!»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 5 (p. 563). X"
+                  "referencia_obra": ", Amalia, 5 (p. 563)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y en casa le esperaba su abuela, que abrazándole exclamaba: ¿Qué es de tus ojos, de tus brazos? ¡Válgame Dios, cómo viene!, y otras mil dulzuras.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Por tierras de Port. y Esp. p. 96."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Válgate: con algunos nombres o verbos, se usa como interjección de admiración, extrañeza, enfado, etc. X",
+              "definicion": "Válgate: con algunos nombres o verbos, se usa como interjección de admiración, extrañeza, enfado, etc.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Pues Cloris, cómo que no | En esse artículo peca? | Válgate vn pollo por clueca. | ¿Clueca? | Sí, que empieza en Clo.»",
                   "autor": "Cueto",
                   "referencia_obra": "y Mena, Obr. (ICC. 9. 147)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -747,71 +996,103 @@
     {
       "id": "b)",
       "definicion": "Recurrir o acudir a alguien en busca de ayuda (prnl.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con de, que indica la persona a quien se acude. X",
+          "definicion": "Con de, que indica la persona a quien se acude.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y también le contó un soldado muy honrado a Andrés de Prada, secretario de V. m. que en un lugar se valió dél una mujer pobre, y le pidió que estorbase que su marido no le lisiase y estropease un niño recién nacido.»",
               "autor": "Herr.",
               "referencia_obra": "Amparo de pobres (Cl. C. 199. 28)."
             },
             {
+              "marca": "",
               "texto_cita": "«D. Diego de Haro, desamparado de todos y desconfiado de sus fuerzas, se fue a Valencia a valerse de los Moros.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 11. 22 (1. 5682)."
             },
             {
+              "marca": "",
               "texto_cita": "«Suelen los príncipes valerse de los que tienen cerca, y servirse de uno o de pocos en todos los negocios.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 52 (R. 25. 1402). X"
+              "referencia_obra": "Emp. 52 (R. 25. 1402)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si así fuere, valgámonos de la Academia Colombiana, y roguémosle que dirija un memorial a su venerada madre, con el fin de que siquiera ponga orden o sistema en este negocio.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 2 (p. 182)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Adónde iré, si a vos no voy con ella? | ¿De quién podré yo agora | Valerme en mi tristura, | Si en vos no halla abrigo mi querella?»",
                   "autor": "Garcil.",
                   "referencia_obra": "Obr. 2 (Cl. C. 3. 178)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con para.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Y en tan poco me estimáis, | O me estimo yo, que crea | Que para una cosa fea | Valeros de mí queráis?»",
                   "autor": "Alarcón",
-                  "referencia_obra": ", Los pechos privilegiados, 1. 3 (R. 20. 4161). — Siendo el término de la prep. una prop. en inf. X"
+                  "referencia_obra": ", Los pechos privilegiados, 1. 3 (R. 20. 4161)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término de la prep. una prop. en inf.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Los intérpretes que os han servido para entender el poeta, esos fueron los verdaderos humanistas, no vos que os valéis dellos para entenderle.»",
+                      "autor": "Forner",
+                      "referencia_obra": ", Los gramáticos (Cl. C. 168. 81)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Sólo a la ninfa, de que te has valido | Para rendirme con su vista hermosa, | Haz que me alivie en la prisión dichosa, | Haz que me regale el corazón herido, | Mirándome graciosa.»",
+                      "autor": "Mel.",
+                      "referencia_obra": "Poes. (Cl. C. 64. 266)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Los intérpretes que os han servido para entender el poeta, esos fueron los verdaderos humanistas, no vos que os valéis dellos para entenderle.»",
-                  "autor": "Forner",
-                  "referencia_obra": ", Los gramáticos (Cl. C. 168. 81). X"
-                },
-                {
-                  "texto_cita": "«Sólo a la ninfa, de que te has valido | Para rendirme con su vista hermosa, | Haz que me alivie en la prisión dichosa, | Haz que me regale el corazón herido, | Mirándome graciosa.»",
-                  "autor": "Mel.",
-                  "referencia_obra": "Poes. (Cl. C. 64. 266). — Además con en. X"
-                },
-                {
-                  "texto_cita": "«Pues nos obliga la falta déstos valernos para artilleros, en ocasiones de mucha importancia, de holandeses e ingleses.»",
-                  "autor": "Herr.",
-                  "referencia_obra": "Amparo de pobres (Cl. C. 199. 108)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pues nos obliga la falta déstos valernos para artilleros, en ocasiones de mucha importancia, de holandeses e ingleses.»",
+                      "autor": "Herr.",
+                      "referencia_obra": "Amparo de pobres (Cl. C. 199. 108)."
+                    }
+                  ]
                 }
               ]
             }
@@ -822,124 +1103,175 @@
     {
       "id": "c)",
       "definicion": "Defenderse ante un peligro (prnl.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con la prep. con, que toma el sentido de contra.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Luego se quiere [el ánima] vengar: si se le pierde la hacienda, no hay quien se valga con ella.»",
               "autor": "Ávila",
               "referencia_obra": ", Eucar. 15 (4. 91)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Que solía ser muy airado, no había quien se pudiese valer con él, ahora es un San Gerónimo.»",
               "autor": "",
-              "referencia_obra": "Id. Ven. Espír. Santo, 5 (2. 375). +"
+              "referencia_obra": "Id. Ven. Espír. Santo, 5 (2. 375)."
             },
             {
+              "marca": "+",
               "texto_cita": "«¿Qué haré --- que no me puedo valer con el mundo que me halaga, y con la carne que me tienta ---?»",
               "autor": "Guev.",
               "referencia_obra": "Oratorio, 1 (p. 458)."
             },
             {
+              "marca": "",
               "texto_cita": "«Que con esto le detendrían y se enfrenaría su arrogancia porque no se podía valer con él.»",
               "autor": "Sig.",
               "referencia_obra": "Vida de S. Jer. 5. 11 (p. 517)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con contra.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Lautaro le responde: Es escusado | Quien viniere contigo a la contienda | Que se pueda valer contra tu diestra.»",
                   "autor": "Erc.",
-                  "referencia_obra": "Arauc. 8 (R. 17. 332). X"
+                  "referencia_obra": "Arauc. 8 (R. 17. 332)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tú pagaste a los espadachines, todo fue invención tuya. ¡Mal hubiera podido valerme contra todos si ellos no vinieran de burla!»",
                   "autor": "Benavente",
                   "referencia_obra": ", Intereses creados, 2. 3. 4 (p. 107)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Cómo queréis que cure ajenas enfermedades quien valerse en las suyas no puede?»",
                   "autor": "Valb.",
                   "referencia_obra": "Siglo de oro, 1 (p. 12)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por. +",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Al fin me valí por Navarra y Aragón de manera que adquirí muchos amigos»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 1. 22 (Cl. C. 43. 265)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con sin. X",
+              "definicion": "Con sin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Su antecesor de usted, el abad de Ulloa, no se valía sin él; y usted, que también ha venido en concepto de administrador, séame franco: ¿ha podido usted amañarse solo?»",
                   "autor": "Pardo Bazán",
                   "referencia_obra": ", Pazos Ulloa, 7 (p. 72)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con para.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Hijo, ya se que no te veré más; procura de ser bueno, y Dios te guie; criado te he, y con buen amo te he puesto, válete para tí.»",
                   "autor": "Lazar.",
                   "referencia_obra": "1 (R. 3. 782)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con por, que señala: — el medio. X",
-              "ejemplos_citas": [
+              "definicion": "Con por, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Do conviene | Al que de suyo no tiene | Arrimarse al que es más rico, | Y valerse por su pico | Porque de hambre no pene, | Y hacer, | Por el fin de más valer, | Cerimonias y regalos | A los buenos y a los malos | Cuando los han menester.»",
-                  "autor": "Castillejo",
-                  "referencia_obra": ", Obr. (Cl. C. 91. 64). X"
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Do conviene | Al que de suyo no tiene | Arrimarse al que es más rico, | Y valerse por su pico | Porque de hambre no pene, | Y hacer, | Por el fin de más valer, | Cerimonias y regalos | A los buenos y a los malos | Cuando los han menester.»",
+                      "autor": "Castillejo",
+                      "referencia_obra": ", Obr. (Cl. C. 91. 64)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Consideraba yo que iba a la corte, donde nadie me conocía que era la cosa que más me consolaba, y que había de valerme por mi habilidad allá.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Buscón, 12 (Cl. C. 5. 151)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Consideraba yo que iba a la corte, donde nadie me conocía que era la cosa que más me consolaba, y que había de valerme por mi habilidad allá.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Buscón, 12 (Cl. C. 5. 151). — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ahora, ¡menos mal!, ya eres empleado del Estado, ya eres funcionario público, y ya puedes valerte por ti mismo.»",
+                      "autor": "Cela",
+                      "referencia_obra": ", Mrs. Caldwell, p. 38."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Ahora, ¡menos mal!, ya eres empleado del Estado, ya eres funcionario público, y ya puedes valerte por ti mismo.»",
-                  "autor": "Cela",
-                  "referencia_obra": ", Mrs. Caldwell, p. 38. — Además con en. X"
-                },
-                {
-                  "texto_cita": "«Por tus hijos no pases cuidado le había dicho Gertrudis, que yo he de vivir hasta dejarlos colocados y que se puedan valer por sí en el mundo, y si no les dejaré sus hermanos. Cuidaré sobre todo de esta última, ¡pobrecilla!, la que te cuesta la vida. Yo seré su madre y su padre.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", La tía Tula, 16 (p. 95)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Por tus hijos no pases cuidado le había dicho Gertrudis, que yo he de vivir hasta dejarlos colocados y que se puedan valer por sí en el mundo, y si no les dejaré sus hermanos. Cuidaré sobre todo de esta última, ¡pobrecilla!, la que te cuesta la vida. Yo seré su madre y su padre.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", La tía Tula, 16 (p. 95)."
+                    }
+                  ]
                 }
               ]
             }
@@ -949,25 +1281,31 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Tratándose de una enfermedad, Estar imposibilitado o inutilizado para hacer sus propias cosas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Acaecíame algunas veces (y aun ahora me acaece, aunque no tantas) estar con tan grandísimos trabajos de alma ---, que no me podía valer.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Vida, 30 (1. 248)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. +",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Estando yo mala en aquellos primeros días, antes que supiese valerme a mí, me daba grandísimo deseo de aprovechar a los otros.»",
                   "autor": "",
                   "referencia_obra": "Sta. Ter. Vida, 7 (R. 53. 352)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -976,124 +1314,153 @@
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Tener las cosas un precio determinado para la compra o venta, costar (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Fernando, como su vida | La ciudad de Ceuta cueste, | Que reduzcas su valor | Hoy a cuantos intereses | El más avaro codicie, | El más liberal desprecie; | Y que dará en plata y oro | Tanto precio como pueden valer dos ciudades.»",
               "autor": "Calderón",
-              "referencia_obra": ", Príncipe constante, 3 (Cl. C. 204. 93). X"
+              "referencia_obra": ", Príncipe constante, 3 (Cl. C. 204. 93)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tomóle Critilo, leyó el título, que decía: El Galateo Cortesano. ¿Qué vale? Preguntó. Señor —respondió el librero—, no tiene precio: mucho le vale al que le lleva.»",
               "autor": "Gracián",
               "referencia_obra": ", El criticón, 1. 11 (Cl. C. 165. 182)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con un sustantivo que denota el precio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«De las minas de solo un cerro que llaman de Potosí en el Perú, hasta el año de ochenta y cinco desde el cuarenta y cinco, que son cuarenta años escasos, ha valido su quinto ciento y once millones de pesos a trece reales cada uno.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 2. 28 (2. 82)."
             },
             {
+              "marca": "",
               "texto_cita": "«Valía un escudo un azumbre de agua, y cuatro reales un pan muy pequeño.»",
               "autor": "Coloma",
-              "referencia_obra": ", Guerras de los Est. Bajos, 5 (R. 28. 591). X"
+              "referencia_obra": ", Guerras de los Est. Bajos, 5 (R. 28. 591)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El comercio no había avanzado sus facturas hasta lo interior de las tierras de América, ni la fabricación europea había abaratado tanto la producción como hoy. Valía entonces la vara de lienzos crudos hechizos ocho reales los de primera calidad, cinco los ordinarios, cuatro reales la vara de anascote dando el hilo.»",
               "autor": "D. F. Sarmiento",
               "referencia_obra": ", Recuerdos de Prov. p. 99."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En el cuello della [halló] una perla más gruesa que una nuez, con un collar que le valió cuatro mil escudos.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. pról. (R. 18. 378)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con a. Se usa cuando el precio corresponde a cada unidad. X",
+              "definicion": "Con a. Se usa cuando el precio corresponde a cada unidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y al son de los tambores se hizo junta de gente de más de quinientos hombres, dando pagas de a trescientos y a cuatrocientos pesos, mercando muchos caballos y valiendo a quinientos y a seiscientos y más cada uno.»",
                   "autor": "León",
                   "referencia_obra": "(NBAE. 15. 38)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Con un adj. cuantitativo. X",
+          "definicion": "Con un adj. cuantitativo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El dicho es éste, que stando en un vanquete alabavan todos ciertos capones que allí se comían, y diziendo uno que valían caros, porque costava un ducado uno, respondió la dama: ¿a esso llamáis caro? pues yo compré uno por quinientos ducados, y no gozé dél.»",
               "autor": "Valdés",
-              "referencia_obra": ", Diál. (Cl. C. 86. 136). X"
+              "referencia_obra": ", Diál. (Cl. C. 86. 136)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No hallan los labradores quien los ayude a cultivar las tierras, ni otros oficiales de la república a quien enseñen sus oficios que por esta razón es cierto que valen tan caras las hechuras de las cosas, y todo lo que se vende de mercadería y mantenimientos.»",
               "autor": "Herr.",
               "referencia_obra": "Amparo de pobres (Cl. C. 199. 110)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ande el ajo, y brame el cierzo, | Poca sal échale más. | Vale cara, hermano Bras, | Muestra la bota y bebamos.»",
               "autor": "Lope",
-              "referencia_obra": ", Egl. (Fern. 11. 214). +"
+              "referencia_obra": ", Egl. (Fern. 11. 214)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Estímase [el pajece blanco] mucho en México, por ser muy poco el que cría la dicha laguna, y valen muy caro.»",
               "autor": "Cobo",
               "referencia_obra": ", Hist. Nuevo Mundo, 1. 7. 25 (R. 91. 3002)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "En los siguientes ejemplos no se especifica el precio pero se entiende que los objetos tienen un valor elevado. X",
+          "definicion": "En los siguientes ejemplos no se especifica el precio pero se entiende que los objetos tienen un valor elevado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El revisor estuvo curioseando el zorro por arriba y por abajo como si le fuera a cobrar billete. Luego dijo que valía la piel.»",
               "autor": "Delibes",
-              "referencia_obra": ", Diario de un cazador, p. 42. X"
+              "referencia_obra": ", Diario de un cazador, p. 42."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ni más ni menos como el labriego que no ha podido deshacerse de sus trigos, si le hacen propuestas de compra, les sube el precio, sospechando que el trigo vale, puesto que lo buscan.»",
               "autor": "",
               "referencia_obra": "D. F. Sarmiento, Recuerdos de Prov. p. 109."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1101,65 +1468,80 @@
     {
       "id": "b)",
       "definicion": "Equivaler, tener una cosa el mismo valor en cierto aspecto que otra determinada, por la que puede ser substituida (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Al principio dixistes que la lengua castellana, demás del abc latino, tiene una j larga que vale lo que al toscano gi, y una cerilla que puesta debaxo de la c la haze sonar como z, y una tilde, que puesta sobre la n, vale lo que al latino y toscano g.»",
               "autor": "Valdés",
-              "referencia_obra": ", Diál. (Cl. C. 86. 94). X"
+              "referencia_obra": ", Diál. (Cl. C. 86. 94)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La locución vía férrea significa ferrocarril en nuestro lenguaje legal y técnico, y es evidente que un cable no puede llamarse ferrocarril. Esta palabra tiene en castellano un significado fijo, que vale tanto como carril de hierro.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 2 (p. 177)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, que indica el objeto con que se iguala. +",
+              "definicion": "Con por, que indica el objeto con que se iguala.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«La fría intención de los ricos hizo que sus ducados no valiesen delante de Dios sino por cornados.»",
                   "autor": "Guev.",
-                  "referencia_obra": "Oratorio, prol. p. 451. X"
+                  "referencia_obra": "Oratorio, prol. p. 451."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y el nombre que se oía animando los estandartes y espantando los enemigos, y que valió por ejército apellidado, andaba por las plazas y calles pidiendo sin saber a quien.»",
                   "autor": "Quev.",
-                  "referencia_obra": "Obr. sat. festiv. (Cl. C. 56. 217). X"
+                  "referencia_obra": "Obr. sat. festiv. (Cl. C. 56. 217)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A cambio, Eliacim, me dan unos papelitos bien doblados, unos papelitos doblados con todo esmero, donde puede decir: vale por una máquina de coser eléctrica, pero donde suele decir: con tu donativo ayudas a que florezca la ilusión en los hogares pobres.»",
                   "autor": "Cela",
                   "referencia_obra": ", Mrs. Caldwell, p. 95."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con expresiones como: la palabra, la comparación, decir, o semejantes, se usa como frase expletiva. X",
+          "definicion": "Con expresiones como: la palabra, la comparación, decir, o semejantes, se usa como frase expletiva.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El dolor se le espiritualizaba, vale decir, que se le intelectualizaba, y sólo cobraba carne, aunque fuera vaporosa, cuando entraba Gertrudis.»",
               "autor": "Unamuno",
-              "referencia_obra": ", La tía Tula, 7 (p. 57). X"
+              "referencia_obra": ", La tía Tula, 7 (p. 57)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Es como un relámpago, valga la comparación.»",
               "autor": "Moliner",
               "referencia_obra": ", Dicc."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1167,46 +1549,57 @@
     {
       "id": "c)",
       "definicion": "Causar u ocasionar la ejecución o consecución de una cosa algo, bien sea positivo o negativo (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Siendo sujeto un sust. y representándose lo que se mira como precio con otro sust. común o una voz neutra. X",
+          "definicion": "Siendo sujeto un sust. y representándose lo que se mira como precio con otro sust. común o una voz neutra.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pues lo que ha visto la abruma, | Y la aterra lo que sabe, | Que hay vistas que son peligros | Y aciertos que muerte valen.»",
               "autor": "A. Saav.",
               "referencia_obra": "Rom. (Cl. C. 9. 154)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Entonces conocen cuánto más les valió aquel rigor que les valiera el regalo que deseaban.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Trib. 1. 6 (p. 39)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Respondió que si libremente entregasen la villa a las armas de su rey, les valdría las vidas esta diligencia, y que si se resistían, prometía de pasarlos a todos al filo de la espada.»",
                   "autor": "Melo",
-                  "referencia_obra": ", Guerra de Catal. 4 (R. 21. 5092). X"
+                  "referencia_obra": ", Guerra de Catal. 4 (R. 21. 5092)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Si no, decid, ¿qué le valió a la Irlanda | Su preciada virtud ni su hermosura?.»",
                   "autor": "",
-                  "referencia_obra": "J. J. Ortíz, p. 124. X"
+                  "referencia_obra": "J. J. Ortíz, p. 124."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Hízome dudar de su sinceridad el espectáculo de una de esas raras farsas que le habían valido su celebridad.»",
                   "autor": "",
                   "referencia_obra": "D. F. Sarmiento, Recuerdos de Prov. p. 123."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1215,48 +1608,60 @@
     {
       "id": "d)",
       "definicion": "Tener efectividad o validez un documento, actitud, norma, etc. estar permitido algo (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Que cualquier auto que se ofrezca hacer, o recusación, o apelación, o otro que sea en defensa de preso pobre, o presentarse en agravio en mayor tribunal, lo puedan hacer los dichos cofrades sin poder especial de la parte, y valga y sean admitidos; porque muchas veces son atropellados los pobres presos.»",
               "autor": "Herr.",
-              "referencia_obra": "Amparo de pobres (Cl. C. 199. 81). X"
+              "referencia_obra": "Amparo de pobres (Cl. C. 199. 81)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Que sí, hombre... —Pues entonces no lo quiero yo... —Ni yo tampoco... —Eso no vale —gritó ya Joaquín—. ¡O con él o conmigo! Y todos se fueron con Abel, dejándole a Joaquín solo.»",
               "autor": "Unamuno",
               "referencia_obra": ", Abel Sánchez, 1 (p. 14)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Así lo dejó asentado | El párroco en su registro. | Que me valga el testimonio | De aquel sagrado ministro.»",
                   "autor": "Lugones",
                   "referencia_obra": ", Obr. poética complet. p. 942."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Siendo el sujeto una prop. infinitiva. X",
+              "definicion": "Siendo el sujeto una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Podrásme bien creer que, si valiera elegir de adonde nos pareciera, que de la masa de Adán procurara escoger la mejor parte, aunque anduviéramos al puñete por ello.»",
                   "autor": "Alemán",
                   "referencia_obra": ", Guzmán, 1. 1. 1 (Cl. C. 73. 53)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1264,65 +1669,77 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Que te obliga a reparar, | Después que a la corte has ido? | —Estar allá muy valido. | Todo medio de agradar.»",
               "autor": "Alarcón",
               "referencia_obra": ", La cueva de Salamanca, 2 (R. 20. 903)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "En el siguiente ejemplo, Aceptar, aprobar. Trans. X",
+          "definicion": "En el siguiente ejemplo, Aceptar, aprobar. Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Dióla a entender las causas, y aunque la santa señora alegó en su defensa estar dispensado aquel impedimiento, sin valerla su razón se efectuó el divorcio, en tanto que se ventilaba la causa.»",
               "autor": "Lozano",
               "referencia_obra": ", David perseguido, 23 (Cl. C. 120. 233)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
       "id": "4",
-      "definicion": "s. m. Valor, valía, estimación. +",
+      "definicion": "s. m. Valor, valía, estimación.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "+",
           "texto_cita": "«Entre muchas maneras, con que mostramos tener a Dios en poco, es una no tener por menos valer ser muy amigos y parientes de muy grandes pecadores.»",
           "autor": "J. de Pineda",
           "referencia_obra": ", Agr. crist. 6. 24 (R. 162. 491)."
         },
         {
+          "marca": "",
           "texto_cita": "«Y como mi oficio es de pluma, tendrá por caso de menos valer tratar con gente de trabacuentas.»",
           "autor": "Tirso",
-          "referencia_obra": ", Los tres maridos burlados (R. 18. 4832). X"
+          "referencia_obra": ", Los tres maridos burlados (R. 18. 4832)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Hízose conceder facultades extraordinarias, reclutó gente y puso a su cabeza hombres oscurísimos, sin que un solo federal de algún valer en la provincia entrase a componer el personal del ejército.»",
           "autor": "D. F. Sarmiento",
           "referencia_obra": ", Recuerdos de Prov. p. 140."
         },
         {
+          "marca": "",
           "texto_cita": "«Las primeras [comedias] que ese autor compuso aunque de escaso valer, parecieron muy bellas.»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", Com. esp. (1. 2091)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. (Nótese las formas val, vala correspondientes a vale, valga y valera, en vez de valdrá). Siglo XV: X «Todas las cosas de que te podía valer te fallecieron.» D. de S. Pedro, Cárcel de amor (Cl. C. 133. 211). X «Y si no quiere valerme, Pues yo no sé remediarme | En tal modo, | Para nunca socorrerme, | Muy mejor será matarme | Ya del todo.» J. Manr. Canc. (Cl. C. 94. 51). + «Fueron por tal manera casi salteados --- a que no fueron poderosos de se valer, nin se acojer a la villa.» Crón. Álv. de Luna, 99 (p. 293). X «E juntose con esto el rencor y enimistades que algunos grandes auían con los otros e por valer mas que ellos e aun dañarlos fazían estos insultos.» Pz. de Guzmán, Gener. (Cl. C. 61. 142). + «Por la hedat en breve envegeçiendo --- non valen tan aspera como los omnes sostener vida.» Villena, Doze trabajos, 12 (p. 135).\n\n— Siglo XIV: + «Ordenó que --- la dobla que non valiese mas de veinte et cinco maravedís.» Crón. Alf. XI, 98 (p. 174). + «Acaesçe que se pierden algunas vezes algunas delas cossas ssobredichas ssin culpa delos terçeros, e que gelo demandan después quando vale a mayor quantía.» Cortes de Valladolid, 1351 (2. 32). + «Vuestra merçed me vala, | Rey muy noble, acabdo.» Alf. XI, 577 (p. 161). X «Su dicho non val´un figo.» Arc. de Hita, (Cl. C. 14. 133). X «Non gelo preçio don Ximio quanto vale una nuez.» Id. (Cl. C. 14. 135). + «La cosa por que mas vale el rey, es que sea justiçiero e merçendero.» Zifar, 151 (p. 317).\n\n— Siglo XIII: + «Todos los bienes que el omne faga, estando en pecado mortal, para ganar el amor de Dios non valen nada, mas han enteramente la su sanna.» Alf. X, Seten. 102 (p. 225). X «Las ondas vinien cerca, las gentes alongadas, | Avie con el desarro las piernas enbargadas, | Las campannas non eran de valerli osadas.» Berc. Mil. (Cl. C. 44. 438). X «Non vale tres arvejas todo tu poderío.» Fern. Gonz. (Cl. C. 128. 268).\n\n— Siglo XII: X «Ayudól el Criador, el Señor que es en çielo. | Él con todo esto priso a Murviedro; | Ya vidie mio Çid que Dios le iva valiendo. | Dentro en Valençia non es poco el miedo.» Cid (Cl. C. 24. 168).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. valere, 'ser fuerte, vigoroso, potente', 'estar sano, tener tal o cual valor'. Cat. Valdrer, fr. valoir, it. valere, port. valer.",
+  "etimologia": "Etim. Del lat. <i>valere</i>, 'ser fuerte, vigoroso, potente', 'estar sano, tener tal o cual valor'. Cat. <i>Valdrer</i>, fr. <i>valoir</i>, it. <i>valere</i>, port. <i>valer</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",
-  "conjugacion": "Conjug. Presenta las siguientes formas irregulares: valgo, a, as, amos, áis, an; valdré, ás, á, emos, éis, án, valdría, as, a, amos, ais, an.\n\n\u0000",
+  "conjugacion": "Conjug. Presenta las siguientes formas irregulares: valgo, a, as, amos, áis, an; valdré, ás, á, emos, éis, án, valdría, as, a, amos, ais, an.",
   "construccion_sintactica": "",
   "prosodia": "",
   "colocacion_concordancia": ""

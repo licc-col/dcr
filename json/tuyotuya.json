@@ -6,87 +6,127 @@
     {
       "id": "a)",
       "definicion": "adj. Denota lo que es propio o pertenece a la segunda persona del singular.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Se usa en esta forma íntegra y por tanto tónica: — cuando aparece después del nombre. X",
-          "ejemplos_citas": [
+          "definicion": "Se usa en esta forma íntegra y por tanto tónica:",
+          "marca": "",
+          "ejemplos_citas": [],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«¡Tal está el rostro tuyo en el arena, | Fresca rosa, azucena blanca y pura!»",
-              "autor": "Garcil.",
-              "referencia_obra": "Obr. (Cl. C. 3. 92). X"
+              "id_limpio": "—",
+              "definicion": "cuando aparece después del nombre.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«¡Tal está el rostro tuyo en el arena, | Fresca rosa, azucena blanca y pura!»",
+                  "autor": "Garcil.",
+                  "referencia_obra": "Obr. (Cl. C. 3. 92)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Claro entiendo por las evidencias que he tenido tuyas, que me tienes, o por mejor decir, que me has tenido engañado.»",
+                  "autor": "Alemán",
+                  "referencia_obra": ", Guzmán, 1. 1. 8 (Cl. C. 73. 219)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Pero, considerando que la bondad y honestidad incomparable tuya te ha de mover a que correspondas antes al querer de tu padre.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Gal. 2 (Cl. C. 155. 137)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Esperad, escuchad (¡triste suceso!): | ¿Cuánto es mejor que a Sena vaya preso? | Date a prisión, Eusebio; que prometo, | Y como noble juro, de ampararte, | Siendo abogado tuyo, aunque soy parte.»",
+                  "autor": "Cald.",
+                  "referencia_obra": "La devoción de la cruz (Cl. Ebro, 66. 116)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Esconde, por vida tuya, | Lo canicular, lo fresco, | Lo florido, lo nevado, | Lo apacible, lo severo | Lo buscado, lo temido, | Lo juguetón, lo compuesto, | Lo alegre, lo mesurado, | Lo lindo, lo más que bello | De esa cara.»",
+                  "autor": "Guev.",
+                  "referencia_obra": "Reinar después de morir (Cl. C. 132. 53)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Yo te amo a ti, libre y a la vez esclava de ti misma, porque ninguna he visto, y he visto a muchas, que te supere en humildad, en temor, en silencio que, a pesar tuyo, interrumpes con tus cantares enamorados.»",
+                  "autor": "Ferrán",
+                  "referencia_obra": ", Obr. complet. (Cl. C. 164. 145)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Dos cartas he recibido tuyas, querido Silva.»",
+                  "autor": "Larra",
+                  "referencia_obra": ", Artíc. polít. y soc. (Cl. C. 77. 135)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«No se ve nada, no | Se oye nada. Me sobran | Los ojos y los labios, | En este mundo tuyo, | Para sentirte a ti | No sirven | Los sentidos siempre.»",
+                  "autor": "Salinas",
+                  "referencia_obra": ", La voz (Cl. C. 2. 81)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Claro entiendo por las evidencias que he tenido tuyas, que me tienes, o por mejor decir, que me has tenido engañado.»",
-              "autor": "Alemán",
-              "referencia_obra": ", Guzmán, 1. 1. 8 (Cl. C. 73. 219). X"
+              "id_limpio": "—",
+              "definicion": "Cuando se une al nombre a través del verbo ser.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Ya que el mundo a ser tuyo es destinado.»",
+                  "autor": "Aldana",
+                  "referencia_obra": ", Obr. complet. (BALH. 23. 18)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Esto es tuyo y para ti, señora mía.»",
+                  "autor": "Alemán",
+                  "referencia_obra": ", Guzmán, 1. 1. 2 (Cl. C. 73. 91)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Tuyo soy, pero aunque llores | He de hacer mi voluntad.»",
+                  "autor": "Cald.",
+                  "referencia_obra": "Autos 2 (Cl. C. 74. 41)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Por mi, tuya es mi obediencia.»",
+                  "autor": "Cañizares",
+                  "referencia_obra": ", Abogar por su ofensor, 1 (R. 49. 5533)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Dijo otra verdad: | Busca el tú que nunca es tuyo | Ni puede serlo jamás.»",
+                  "autor": "Machado",
+                  "referencia_obra": ", Poes. complet. p. 219."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Y las miro lejanas mis palabras | Más que mías son tuyas. | Van trepando en mi viejo dolor como las yedras.»",
+                  "autor": "Neruda",
+                  "referencia_obra": ", 20 poemas, p. 28."
+                }
+              ]
             },
             {
-              "texto_cita": "«Pero, considerando que la bondad y honestidad incomparable tuya te ha de mover a que correspondas antes al querer de tu padre.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Gal. 2 (Cl. C. 155. 137). X"
-            },
-            {
-              "texto_cita": "«Esperad, escuchad (¡triste suceso!): | ¿Cuánto es mejor que a Sena vaya preso? | Date a prisión, Eusebio; que prometo, | Y como noble juro, de ampararte, | Siendo abogado tuyo, aunque soy parte.»",
-              "autor": "Cald.",
-              "referencia_obra": "La devoción de la cruz (Cl. Ebro, 66. 116). X"
-            },
-            {
-              "texto_cita": "«Esconde, por vida tuya, | Lo canicular, lo fresco, | Lo florido, lo nevado, | Lo apacible, lo severo | Lo buscado, lo temido, | Lo juguetón, lo compuesto, | Lo alegre, lo mesurado, | Lo lindo, lo más que bello | De esa cara.»",
-              "autor": "Guev.",
-              "referencia_obra": "Reinar después de morir (Cl. C. 132. 53). X"
-            },
-            {
-              "texto_cita": "«Yo te amo a ti, libre y a la vez esclava de ti misma, porque ninguna he visto, y he visto a muchas, que te supere en humildad, en temor, en silencio que, a pesar tuyo, interrumpes con tus cantares enamorados.»",
-              "autor": "Ferrán",
-              "referencia_obra": ", Obr. complet. (Cl. C. 164. 145). X"
-            },
-            {
-              "texto_cita": "«Dos cartas he recibido tuyas, querido Silva.»",
-              "autor": "Larra",
-              "referencia_obra": ", Artíc. polít. y soc. (Cl. C. 77. 135). X"
-            },
-            {
-              "texto_cita": "«No se ve nada, no | Se oye nada. Me sobran | Los ojos y los labios, | En este mundo tuyo, | Para sentirte a ti | No sirven | Los sentidos siempre.»",
-              "autor": "Salinas",
-              "referencia_obra": ", La voz (Cl. C. 2. 81). — Cuando se une al nombre a través del verbo ser. X"
-            },
-            {
-              "texto_cita": "«Ya que el mundo a ser tuyo es destinado.»",
-              "autor": "Aldana",
-              "referencia_obra": ", Obr. complet. (BALH. 23. 18). X"
-            },
-            {
-              "texto_cita": "«Esto es tuyo y para ti, señora mía.»",
-              "autor": "Alemán",
-              "referencia_obra": ", Guzmán, 1. 1. 2 (Cl. C. 73. 91). X"
-            },
-            {
-              "texto_cita": "«Tuyo soy, pero aunque llores | He de hacer mi voluntad.»",
-              "autor": "Cald.",
-              "referencia_obra": "Autos 2 (Cl. C. 74. 41). X"
-            },
-            {
-              "texto_cita": "«Por mi, tuya es mi obediencia.»",
-              "autor": "Cañizares",
-              "referencia_obra": ", Abogar por su ofensor, 1 (R. 49. 5533). X"
-            },
-            {
-              "texto_cita": "«Dijo otra verdad: | Busca el tú que nunca es tuyo | Ni puede serlo jamás.»",
-              "autor": "Machado",
-              "referencia_obra": ", Poes. complet. p. 219. X"
-            },
-            {
-              "texto_cita": "«Y las miro lejanas mis palabras | Más que mías son tuyas. | Van trepando en mi viejo dolor como las yedras.»",
-              "autor": "Neruda",
-              "referencia_obra": ", 20 poemas, p. 28. — Cuando se une al nombre mediante otro verbo con función atributiva. X"
-            },
-            {
-              "texto_cita": "«Yo soy aquella labradora humilde a quien tú, por bondad o por gusto, quisiste levantar a la alteza de poder llamarse tuya.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 1 (CL. C. 8. 288)."
+              "id_limpio": "—",
+              "definicion": "Cuando se une al nombre mediante otro verbo con función atributiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Yo soy aquella labradora humilde a quien tú, por bondad o por gusto, quisiste levantar a la alteza de poder llamarse tuya.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 1 (CL. C. 8. 288)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -95,69 +135,84 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Se apocopa antes del nombre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Apenas unos ojos | Miraron tu soberbia, | Cuando llamaste rayos | La más pequeña flecha; | Apenas de su boca | Una palabra tierna | Toca tu blando oído, | Cuando dices que truena.»",
               "autor": "Lope",
-              "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 253). +"
+              "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 253)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Si tú quieres algún panal de nuestras colmenas, o algunas aceitunas de nuestras olivas ---, podrémoste con algo de esto servir y a tus oficiales lo entregar.»",
               "autor": "Guev.",
-              "referencia_obra": "Oratorio, 27 (p. 607). X"
+              "referencia_obra": "Oratorio, 27 (p. 607)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No quiero | Más de que sepas que sé | Tus liviandades, porque | Menos ingrato y severo | Tu honor esté con mi amor; | Que es tu desdén más injusto | Porque tienes otro gusto | Que porque tienes honor.»",
               "autor": "Cald.",
-              "referencia_obra": "El mágico prodigioso (Cl. Ebro. 87. 69). X"
+              "referencia_obra": "El mágico prodigioso (Cl. Ebro. 87. 69)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Ay, hombre ensoberbecido, | Triste de ti si tropiezas! | Que cualquiera china basta | Para humillar tu grandeza.»",
               "autor": "Rojas",
-              "referencia_obra": "Villandrando, Viaje entretenido, p. 424. X"
+              "referencia_obra": "Villandrando, Viaje entretenido, p. 424."
             },
             {
+              "marca": "X",
               "texto_cita": "«Lo que suena en tu lira lejos resuena, | Como cuando habla el bóreas, o cuando truena.»",
               "autor": "Darío",
-              "referencia_obra": ", Poes. p. 181. X"
+              "referencia_obra": ", Poes. p. 181."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ellas me fijan con sus miradas rojas, ellas brincan como bestias amaestradas cuando tú haces tronar tu propio látigo.»",
               "autor": "Fuentes",
               "referencia_obra": ", Obr. complet. p. 1033."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Fue muy común en lo antiguo anteponer el artículo al posesivo. X",
+          "definicion": "Fue muy común en lo antiguo anteponer el artículo al posesivo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Uso que subsiste con las expresiones el tu nombre, el tu reino de la oración dominical; en el mi consejo, la mi cámara de las provisiones reales.»",
               "autor": "Bello",
-              "referencia_obra": ", Gram. §878. X"
+              "referencia_obra": ", Gram. §878."
             },
             {
+              "marca": "X",
               "texto_cita": "«Por do queda conocido | Que ponerme es lo mejor | En las tus manos, amor, | Como se pone el vencido | En las manos de su vencedor.»",
               "autor": "Castillejo",
               "referencia_obra": ", Poes. 1 (Fern. 12. 2)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Se usa como despedida protocolaria en el género epistolar. X",
+          "definicion": "Se usa como despedida protocolaria en el género epistolar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Amigo de mis amigos, y por demás agradecido al público que sufre más habladurías. he aquí mi profesión de fe. —Tuyo siempre: —Figaro.»",
               "autor": "Larra",
               "referencia_obra": ", Artíc. polit. y soc. (Cl. C. 77. 183)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -165,105 +220,152 @@
     {
       "id": "b)",
       "definicion": "pron. posesivo.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Avría en el mundo, si no fuese el tuyo, a quien mis lágrimas no huv[i]esse ablandado?»",
               "autor": "Montem.",
-              "referencia_obra": "Diana, p. 35. X"
+              "referencia_obra": "Diana, p. 35."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tu nombre, tu valor puesto en olvido, | I la tierra possea | Calor tan escogido, | Qu' ante el tuyo quede oscurecido.»",
               "autor": "Herr.",
-              "referencia_obra": "Poes. canc. 4 (Cl. C. 26. 146). X"
+              "referencia_obra": "Poes. canc. 4 (Cl. C. 26. 146)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo tengo atada mi alma con mis buenos deseos, que son tan diferentes de los tuyos como lo verás.»",
               "autor": "",
-              "referencia_obra": "Cerv. Quij. 1 (Cl. C. 8. 61). X"
+              "referencia_obra": "Cerv. Quij. 1 (Cl. C. 8. 61)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Son los potros del Betis generosos, | Debajo de sus pies los campos truenan: | Con agudos relinchos sonorosos | Los establos de Córdoba resuenan: | Igual es de Aranjuez la casta mesma. | Los tuyos beben del nevado Eresma.»",
               "autor": "Mor.",
-              "referencia_obra": "Poes. (R. 2. 551). X"
+              "referencia_obra": "Poes. (R. 2. 551)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La afición a unos mismos estudios y la profesión de unos mismos principios hacían este honor a mi nombre, bien que ni por la variedad y excelencia de mis talentos, ni por la belleza y perfección de mis escritos, deba jamás ir a la par con el tuyo.»",
               "autor": "Quint.",
-              "referencia_obra": "Poes. (Cl. C. 78. 61). X"
+              "referencia_obra": "Poes. (Cl. C. 78. 61)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Y que tú, mi Señora | Mi gloria y mi regalo, me has oido | Y mi amor desde ahora | En lazo firme unido | Al tuyo triunfará del negro olvido!»",
               "autor": "Mel.",
-              "referencia_obra": "Poes. inéd. p. 226. X"
+              "referencia_obra": "Poes. inéd. p. 226."
             },
             {
+              "marca": "X",
               "texto_cita": "«Todo es labios, los míos o los tuyos, | Hoy separados. Lo llamamos hojas, | Brisa, tarde de abril, papel, palabras.»",
               "autor": "Salinas",
-              "referencia_obra": ", Razón (Cl. Castal. 2. 161). X"
+              "referencia_obra": ", Razón (Cl. Castal. 2. 161)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Creí que lo tuyo era un capricho no más... Un capricho de mujer loca...»",
               "autor": "Roa",
               "referencia_obra": "Bastos, Hijo de hombre, p. 324."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Expresiones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "De las tuyas: expresión reprobatoria o no que hace alusión a las acciones o rasgos habituales de una persona. X",
+              "definicion": "De las tuyas: expresión reprobatoria o no que hace alusión a las acciones o rasgos habituales de una persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Siempre tienes que hacer de las tuyas.»",
                   "autor": "Moliner",
                   "referencia_obra": ", Dicc."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "La tuya: — Expresa la ocasión oportuna para la persona a quien se habla. X",
-              "ejemplos_citas": [
+              "definicion": "La tuya:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Ahora es la tuya para que te preste el dinero que necesitas.»",
-                  "autor": "Dicc. Planeta",
-                  "referencia_obra": ". — Se usa para aludir enfáticamente a algo que se dice de alguien. X"
+                  "id_limpio": "—",
+                  "definicion": "Expresa la ocasión oportuna para la persona a quien se habla.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ahora es la tuya para que te preste el dinero que necesitas.»",
+                      "autor": "Dicc. Planeta",
+                      "referencia_obra": "."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Siempre tienes que soltar la tuya.»",
-                  "autor": "Dicc. Planeta",
-                  "referencia_obra": "."
+                  "id_limpio": "—",
+                  "definicion": "Se usa para aludir enfáticamente a algo que se dice de alguien.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Siempre tienes que soltar la tuya.»",
+                      "autor": "Dicc. Planeta",
+                      "referencia_obra": "."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Lo tuyo: Expresa propiedad, posesión, bienes propios. X",
+              "definicion": "Lo tuyo: Expresa propiedad, posesión, bienes propios.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tú debes cuidar de lo tuyo.»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", La tía Tula, 15 (p. 90.). — Indica lo que hace bien o es adecuado para la persona a quien se hable. X"
-                },
+                  "referencia_obra": ", La tía Tula, 15 (p. 90.)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Lo tuyo es el dibujo.»",
-                  "autor": "Dicc. Planeta",
-                  "referencia_obra": "."
+                  "id_limpio": "—",
+                  "definicion": "Indica lo que hace bien o es adecuado para la persona a quien se hable.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Lo tuyo es el dibujo.»",
+                      "autor": "Dicc. Planeta",
+                      "referencia_obra": "."
+                    }
+                  ]
                 }
               ]
             }
@@ -273,30 +375,35 @@
     },
     {
       "id": "c)",
-      "definicion": "sust. pl. Las personas de la familia, amigos o copartidarios. X",
+      "definicion": "sust. pl. Las personas de la familia, amigos o copartidarios.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Yo hiciera que de ti, o de otro tal como tú, no se oyera ninguna palabra, porque a todos fuesse manifiesto la gran maldad que los tuyos han hecho.»",
           "autor": "",
-          "referencia_obra": "Tirante el Blanco, 2 (Cl. C. 189. 254). X"
+          "referencia_obra": "Tirante el Blanco, 2 (Cl. C. 189. 254)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Mas para fiestas bien pueden | Hacerlas al pensamiento, | Que me da tu casamiento, | Si los tuyos me conceden | Que pueda yo disponer | De tu esquiva condición.»",
           "autor": "Lope",
-          "referencia_obra": ", El villano en su rincón, 3 (Cl. C. 157. 94). X"
+          "referencia_obra": ", El villano en su rincón, 3 (Cl. C. 157. 94)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Miras el sangriento estrago | Que hoy padecemos los tuyos.»",
           "autor": "Cueva",
           "referencia_obra": "(Pagés, Dicc.)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «¡O lunbre de mi vista, o ceguedad della misma, que te veo morir y no veo la razón de tu muerte, tú en edad para beuir, tú temeroso de Dios.» D. de S. Pedro, Cárcel de amor (Cl. C. 133. 209). X «Sacando con rabia esquiba | Sus cabellos a manojos, | Diziendo: Madre catiba, | Anda acá sy quieres ver viua | A la lumbre de tus ojos.» Id. Tract. de amores (Cl. C. 133. 80). X «¡O quánto de ti me duelo, | De los reyes rey más digno, | Que seyendo tuyo el cielo | No tienes un pañezuelo | Para tu rostro sanguino!» I. de Mendoza, Canc. (Cl. C. 163. 199). X «Allí tu divinidad | Fue temida y adorada, | Fue tu real magestad | Con tu sancta humanidad | Conosçida y confesada.» Id. ib. (Cl. C. 163. 79). X «Y pues sabes cómo espero | Tu buelta para guarirme | O condenarme, | Que no tardes te requiero | En traer el mando firme | De gozarme.» J. Manr. Canc. (Cl. C. 94. 52). X «Por desastre de la syniestra fortuna, han venido a mí, tu carçelero.» J. Rodríguez, Siervo libre de amor (Cl. Castal. 66. 94).\n\n— Siglo XIV: X «Con aquesto podrás a tu amiga sobrar, | La que era enemiga, mucho te querrá amar.» Arc. de Hita, 624 (Cl. C. 14. 223). X «Sseñor tu nos deffiende; señor, tu ya non paga; Danos la tu ayuda.» Id. (Cl. C. 14. 80).\n\n— Siglo XIII: X «Conosce a Dios, e teme-lo, e puna en saber el bien, e en lo mostrar, más de lo que punas en aver el tu govierno cada día.» Boc. de oro, p. 79. X «E non requieras las tachas de los omes, e nos requerirán los omes las tuyas.» Ib. (Bonn, p. 65). X «Non tardes, ve tu vya; sy non, tuerto me fazes, | Por que tanto me tardas en grran[d] culpa me yazes, | Nol' des ninguna tregua nin fagas con el pazes.» Fern. Gonz. 17 (Cl. C. 28. 124). X «Sennor... el tu nombre tenemos por tuyos nos llamamos.» Ib. 113 (Cl. C. 128. 34).\n\n— Siglo XII: X «Las tues mañas yo te las contar: ---.» Cid, 3315 (Cl. C. 24.278).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. tuus, -a, -um. It. tuo, fr. tien, cat. teu.\n\n\u0000",
+  "etimologia": "Etim. Del lat. <i>tuus, -a, -um</i>. It. <i>tuo</i>, fr. <i>tien</i>, cat. <i>teu</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",

@@ -1,106 +1,137 @@
 {
   "lema": "INVERNAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v. Pasar el invierno en cierto sitio (intrans.).",
+  "introduccion": "Pasar el invierno en cierto sitio (intrans.).",
   "acepciones": [
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y aueranara sobre ella y toda quatropea de la tierra sobre ella ynuernara.»",
               "autor": "",
               "referencia_obra": "Bibl. Ferr. 18 (p. 1892)."
             },
             {
+              "marca": "",
               "texto_cita": "«Acordaron de enviar los soldados a invernar.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 2. 15 (R. 30. 461)."
             },
             {
+              "marca": "",
               "texto_cita": "«Yéndonos a Sevilla mientras los galeones invernaban, nos comenzamos a dar a la buena vida.»",
               "autor": "Césp. y Men.",
               "referencia_obra": "Sold. Pínd. 1. 22 (R. 18. 3191)."
             },
             {
+              "marca": "",
               "texto_cita": "«Persuadidos a que el puerto no era seguro para invernar, determinaron hacer viaje.»",
               "autor": "Quev.",
               "referencia_obra": "Vida de S. Pablo (R. 48. 442)."
             },
             {
+              "marca": "",
               "texto_cita": "«Don Dámaso invernará aquí, y verá entretanto lo que va sucediendo por allá abajo.»",
               "autor": "Mor.",
               "referencia_obra": "Obr. póst. 2 (p. 483)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para indicar el lugar. X",
+              "definicion": "Con a, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Por la prudencia de Diego Flores de Valdés, general de la flota, volviendo las espaldas a la tormenta, tornamos a invernar a Cádiz.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 3 (Cl. C. 51. 263)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mendoza, si a invernar vuelvo a Bruselas, | Juntos podremos ir.»",
                   "autor": "Lope",
-                  "referencia_obra": ", Pobreza no es vileza, 3. 4 (R. 28. 2483). X"
+                  "referencia_obra": ", Pobreza no es vileza, 3. 4 (R. 28. 2483)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«César, concluidas en un verano dos guerras muy considerables, llevó el exército a invernar al Franco Condado algo más temprano de lo que pedía la estación.»",
                   "autor": "Valb.",
                   "referencia_obra": "tr. Los coment. de Julio César, p. 62."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en, con sentido análogo al anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La tortolica, ave peregrina que no invierna en nuestra tierra, es venida a ella, y la hemos oído cantar.»",
                   "autor": "León",
                   "referencia_obra": ", Cantares, 2. 13 (4. 41)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Los soldados que invernaban en Galípoli, comenzaron a alborotarse con color que no les pagaban.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 15. 14 (R. 30. 4491)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se resolvió de invernar en Cízico, lugar acomodado por la fortaleza del sitio y abundancia de las vituallas.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 12 (R. 21. 121)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mientras los cosarios y galeotes inviernan en el puerto, sale nuestro patrón a sus labranzas.»",
                   "autor": "Césp. y Men.",
-                  "referencia_obra": "Esp. Ger. 2. 2 (R. 18. 2402). X"
+                  "referencia_obra": "Esp. Ger. 2. 2 (R. 18. 2402)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Inverna nuestra armada en Mozambique.»",
                   "autor": "",
-                  "referencia_obra": "Id. Hist. (Cl. Castal. 23. 290). — Además con la prep. con. X"
-                },
+                  "referencia_obra": "Id. Hist. (Cl. Castal. 23. 290)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Aníbal fue vencedor en la batalla de Cannas; y después que ovo invernado en Capua, con los manjares delicados se deleytó en dormir, reposando en baños aplazibles.»",
-                  "autor": "",
-                  "referencia_obra": "Tirante el Blanco, 2 (Cl. C. 189. 203)."
-                },
-                {
-                  "texto_cita": "«Entrado ya el invierno, en quien todos los corsarios y arraeces o se recogen fuera de Argel, o invernan con los bajeles desarmados en su muelle y puerto.»",
-                  "autor": "Césp. y Men.",
-                  "referencia_obra": "Esp. Ger. 2. 2 (R. 18. 2402)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Aníbal fue vencedor en la batalla de Cannas; y después que ovo invernado en Capua, con los manjares delicados se deleytó en dormir, reposando en baños aplazibles.»",
+                      "autor": "",
+                      "referencia_obra": "Tirante el Blanco, 2 (Cl. C. 189. 203)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Entrado ya el invierno, en quien todos los corsarios y arraeces o se recogen fuera de Argel, o invernan con los bajeles desarmados en su muelle y puerto.»",
+                      "autor": "Césp. y Men.",
+                      "referencia_obra": "Esp. Ger. 2. 2 (R. 18. 2402)."
+                    }
+                  ]
                 }
               ]
             },
@@ -108,46 +139,57 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con entre, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Invernaba el ejército católico, como se ha dicho, entre Suasón y Rens.»",
                   "autor": "Coloma",
                   "referencia_obra": ", Guerras de los Est. Bajos, 4 (R. 28. 412)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con la expresión fuera de, que indica separación. X",
+              "definicion": "Con la expresión fuera de, que indica separación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y que así el negoçio se hefectuó, y con façilidad, por no estar allí don Yugo de Moncada y musiur de Venrrey, que heran ydos a Nápoles, honbres de ynçierto y malbado consejo, ni el prínçipe de Orange, qu’estaua ynvernando fuera de Rroma.»",
                   "autor": "",
                   "referencia_obra": "Jmz. de Quesada, El antijovio (ICC. 10. 105)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las reses eran escasas, pues se elegían toros jóvenes que, después de ser largados en un potrero pastoso y capados, se invernarían.»",
               "autor": "Güiraldes",
               "referencia_obra": ", Don Segundo Sombra, 17 (p. 109)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Pasar el invierno en estado de vida latente. Cfr. Encicl. univ. ilustr.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -155,11 +197,11 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «Acordaron que subiesen con las galeras el río arriba de Saena, e fuesen a envernar en Roan.» Crón. P. Niño, p. 114. «Nuestro consejo es que dexedes a Inglaterra, e vades a invernar a algund puerto de Francia.» Ib. p. 110.\n\n— Siglo XIII: «Los ganados que non ssalían de sus términos para yr a estreno, e ynuernauan y en la tierra.» Fuero de Madrid, docum. de 1293 (Mem. Acad. Hist. 8. 65). «Nos pedieron que les non tomassen seruiçio de los ganados que non ssaliessen de sus términos para yr a estremo e inuernauan y en la tierra.» Cortes de Valladolid, año 1293 (C. de L. y C. 1. 122).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. hibernare, forma verbal de hibernus. Cat. ivernar, fr. hiverner, it. invernare.",
+  "etimologia": "Etim. Del lat.<i> hibernare</i>, forma verbal de<i> hibernus</i>. Cat.<i> ivernar</i>,<i> </i>fr.<i> hiverner</i>, it.<i> invernare.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
-  "conjugacion": "Conjug. Presenta las siguientes formas irregulares: invierno, -as, -a, -an; invierne, -es, -e, -en,-a; invierna (tú).\n\n\u0000",
+  "conjugacion": "Conjug. Presenta las siguientes formas irregulares: invierno, -as, -a, -an; invierne, -es, -e, -en,-a; invierna (tú).",
   "construccion_sintactica": "",
   "prosodia": "",
   "colocacion_concordancia": ""

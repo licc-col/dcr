@@ -6,37 +6,47 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Retener, guardar dentro de algo (trans.) (raro).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Mandó el buen Emperador que, para guardar las obras deste Tito Livio, se hiziesse una arca de oro y, para entretener sus huesos, le hiziessen un sepulcro de pórfido.»",
               "autor": "Guev.",
               "referencia_obra": "Menospr. pról. (Cl. C. 29. 44)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Pas. Con en, para indicar el objeto o lugar donde se guarda o retiene. +",
+              "definicion": "Pas. Con en, para indicar el objeto o lugar donde se guarda o retiene.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Es entretenida [la sangre] en él [en el hígado], y él con su calor la caldea hasta la tornar de su color.»",
                   "autor": "J. de Pineda",
                   "referencia_obra": ", Agr. crist. 9. 8 (R. 162. 217 2)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -45,42 +55,60 @@
     {
       "id": "b)",
       "definicion": "Conservar, mantener, sostener, hacer que una cosa no se extinga o estropee (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Yo digo estas cosas más para entretener la conversación que para erudición de lo que toca a la vida cristiana.»",
               "autor": "",
               "referencia_obra": "J. de Pineda, Agr. crist. 6. 35 (R. 162. 711)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si algún agrado os ha dado mi hermosura, entretenelda con entretener el preso, porque en el fin de su vida está el de la mía.»",
               "autor": "Cerv.",
-              "referencia_obra": "Nov. 1 (R. 1. 1162). +"
+              "referencia_obra": "Nov. 1 (R. 1. 1162)."
             },
             {
+              "marca": "+",
               "texto_cita": "«También Arsace se lo estaba mandando [a los verdugos amontonar la leña de la hoguera] con señales y con amenazas, y allegando muchas espadañas y carrizos del río, y procurando por todas las vías de encender entretener la llama.»",
               "autor": "F. de Mena",
-              "referencia_obra": ", Teágenes y Cariclea, 8 (p. 314). —"
-            },
+              "referencia_obra": ", Teágenes y Cariclea, 8 (p. 314)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Haciendo un dique desde el fuerte hasta el otro de Groninguen excusaban entretener una legua de dique.»",
-              "autor": "Coloma",
-              "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 381). X"
-            },
-            {
-              "texto_cita": "«Sentáronse juntas las cuatro jóvenes y, mientras Manuela entretenía la conversación con Florencia, Agustina se ocupaba en hacer pregunta sobre pregunta a Amalia, sobre el vestido, sobre las cintas, los encajes, etc.»",
-              "autor": "Mármol",
-              "referencia_obra": ", Amalia, 2 (p. 222). X"
-            },
-            {
-              "texto_cita": "«El de las murallas que se derrumban en cascotes del lado del Palacio de Doña Cava y las puertas y puentes llenos de pordioseros, y los palacios sin nobles señores que los guarden, y los talleres de artesanía sin clientes ricos que los entretengan.»",
-              "autor": "Caballero Calderón",
-              "referencia_obra": ", Ancha es Castilla, p. 55."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Haciendo un dique desde el fuerte hasta el otro de Groninguen excusaban entretener una legua de dique.»",
+                  "autor": "Coloma",
+                  "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 381)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Sentáronse juntas las cuatro jóvenes y, mientras Manuela entretenía la conversación con Florencia, Agustina se ocupaba en hacer pregunta sobre pregunta a Amalia, sobre el vestido, sobre las cintas, los encajes, etc.»",
+                  "autor": "Mármol",
+                  "referencia_obra": ", Amalia, 2 (p. 222)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«El de las murallas que se derrumban en cascotes del lado del Palacio de Doña Cava y las puertas y puentes llenos de pordioseros, y los palacios sin nobles señores que los guarden, y los talleres de artesanía sin clientes ricos que los entretengan.»",
+                  "autor": "Caballero Calderón",
+                  "referencia_obra": ", Ancha es Castilla, p. 55."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -88,28 +116,43 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ni se atendía a más que entretener con aquella esperanza los ánimos de aragoneses y valencianos.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal. 3 (R. 21. 4981)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Pas. refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No había quedado en la venta más que un conejo y un perdigón que estaban en aquel asador entreteniéndose a la lumbre.»",
                   "autor": "Guev.",
-                  "referencia_obra": "Diablo Coj. 3 (R. 33 302). — Nótese que en el siguiente ej. la constr. refl. puede no tener sentido pasivo."
-                },
+                  "referencia_obra": "Diablo Coj. 3 (R. 33 302)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Ya se va dando orden cómo se entretengan y remedien los soldados viejos y estropeados.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 24 (R. 1. 4561)."
+                  "id_limpio": "—",
+                  "definicion": "Nótese que en el siguiente ej. la constr. refl. puede no tener sentido pasivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ya se va dando orden cómo se entretengan y remedien los soldados viejos y estropeados.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 2. 24 (R. 1. 4561)."
+                    }
+                  ]
                 }
               ]
             }
@@ -119,25 +162,31 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A lo último vino esto a faltar y fue forzoso tratar de buscar otras provincias donde entretenerse y poder vivir.»",
               "autor": "Moncada",
               "referencia_obra": ", Exped. de cat. y arag. 51 (R. 21. 491)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, para indicar el medio o instrumento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Estaba en necesidad de mantenimiento, pero entretúvose con fruta seca, pescado y aceite.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Granad. 4 (R. 21. 1132)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -146,154 +195,197 @@
     {
       "id": "2",
       "definicion": "Con el sentido de dilación.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Detener, hacer esperar o pasar el tiempo (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Súpose de un moro, a quien cautibaron tres soldados, que solos siguieron el campo de Abenabó, cómo su intento avía sido entretener al duque.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granad. 7 (p. 168)."
             },
             {
+              "marca": "",
               "texto_cita": "«Váyalo entreteniendo, diciendo que [no se admiten] por la edad: no los desconsuele.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cartas, 1. 61 (R. 55. 2221)."
             },
             {
+              "marca": "",
               "texto_cita": "«En el mismo instante que estaba el alcalde de corte para llevarle preso, Antonio Pérez le entretuvo tanto, que pudo enviar un criado confidente al cardenal de Toledo a pedirle su consejo, si se metería en la iglesia.»",
               "autor": "A. Pérez",
               "referencia_obra": ", Relac. p. 51."
             },
             {
+              "marca": "",
               "texto_cita": "«Se arrojó de cabeza en el mar, donde sin ninguna duda se ahogara, si el vestido largo y embarazoso que traía no le entretuviera un poco sobre el agua.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 41 (R. 1. 3721)."
             },
             {
+              "marca": "",
               "texto_cita": "«No respondió otra cosa sino que se sosegase por entonces y entretuviese a sus criados, que por aquel día no le volviesen, porque se tuviese tiempo para considerar lo que mejor a todos estuviese.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 44 (R. 1. 3812)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ordenaron con sus criados que entretuviesen a Sancho de modo que no le dejasen salir de casa.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 2. 62 (R. 1. 5352). +"
+              "referencia_obra": "Id. ib. 2. 62 (R. 1. 5352)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Disfrazar y entretener las canas no sé de qué sirva.»",
               "autor": "Espinel",
-              "referencia_obra": ", Escud. 1. 5 (Cl. C. 43. 91). +"
+              "referencia_obra": ", Escud. 1. 5 (Cl. C. 43. 91)."
             },
             {
+              "marca": "+",
               "texto_cita": "«¿Pues no ha de tener el Príncipe criados que por la reputación del señor sepan cumplir de palabra con los mercaderes y entretener los acreedores a quien deben?»",
               "autor": "",
-              "referencia_obra": "Id. ib. 1. 8 (Cl. C. 43. 132). +"
+              "referencia_obra": "Id. ib. 1. 8 (Cl. C. 43. 132)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Sentéme bien rellanado y, musitando entre dientes, comencé a entretener el sueño lo mejor que podía.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 22 (Cl. C. 43. 267)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pastor --- | Yo entretengo hasta mañana | A tu músico zagal.»",
               "autor": "",
               "referencia_obra": "Góng. décim. burl. que empieza así (R. 32. 4862)."
             },
             {
+              "marca": "",
               "texto_cita": "«Quien entretiene las fuerzas de muchos enemigos confederados, los vence con el tiempo.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 88 (R. 25. 2341)."
             },
             {
+              "marca": "",
               "texto_cita": "«Estos disparates digo | Para entretenerte aquí.»",
               "autor": "Cald.",
               "referencia_obra": "La gran Cenobia, 1. 7 (R. 7. 1912)."
             },
             {
+              "marca": "",
               "texto_cita": "«Dispuso que se adelantasen veinte caballos con algunas compañías de tlascaltecas a entretener la marcha sin entrar en mayor empeño.»",
               "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 5. 10 (R. 28. 3582). +"
+              "referencia_obra": ", Conq. de Méj. 5. 10 (R. 28. 3582)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Entretúvolos el Rey [a los sicilianos] algún tiempo mientras se terminaba el tratado.»",
               "autor": "Quint.",
-              "referencia_obra": "R. de Lauria (R. 19. 2271). +"
+              "referencia_obra": "R. de Lauria (R. 19. 2271)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Le incitaban a que --- entrase por Guipúzcoa y entretuviese así las fuerzas del rey de Castilla.»",
               "autor": "Quint.",
-              "referencia_obra": "Príncipe de Viana (R. 19. 2401). X"
+              "referencia_obra": "Príncipe de Viana (R. 19. 2401)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Pero qué malicioso! Estos amigos me esperaban. Los otros eran de verdad; me han entretenido, llegué tarde y claro...»",
               "autor": "Arniches",
               "referencia_obra": ", Es mi hombre, 3 (p. 175)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el medio o instrumento. +",
+              "definicion": "Con la prep. con, para indicar el medio o instrumento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Rescibió el rey de Argel a Abdalla como a hermano de rey ---, enbióle a Constantinopla, más por entretener al hermano con esperanças que por dalle socorro.»",
                   "autor": "Mend.",
-                  "referencia_obra": "Guerra de Granada, 2 (p. 40). +"
+                  "referencia_obra": "Guerra de Granada, 2 (p. 40)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Paresció [a Macox] que devían [los moros] ser castigados ---; ansí por exemplo de otros, como por entretener con algún cebo justificado la gente.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 4 (p. 91)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Cuál hombre noble hubiera entretenido | Una mujer de prendas con engaños, | Habiendo de ordenarse?»",
                   "autor": "Lope",
                   "referencia_obra": ", La esclava de su galan, 1. 1 (R. 34. 4872)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en, en sentido locativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Todo me asombra y espanta, | Y pienso en estado igual, | Que solo para mi mal | El búho nocturno canta, | El viento, que le entretiene, | Ya en el sauce, ya en el pino, | Que es mensajero imagino, | Que con malas nuevas viene.»",
                   "autor": "Tirso",
                   "referencia_obra": ", Los amantes de Teruel, 3 (R. 5. 7032)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Absol. +",
+              "definicion": "Absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«A las vitorias de don Juan se humillaban los Moros; todo era entretener, esperando navíos de África en que pasarse.»",
                   "autor": "Fuenmayor",
-                  "referencia_obra": ", Vida de S. Pío V, 4 (p. 169). — Con la prep. con. +"
-                },
+                  "referencia_obra": ", Vida de S. Pío V, 4 (p. 169)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Los herejes --- movían a misericordia fácilmente a su sangre y entretenían con tratos de paz, mientras se rehacían.»",
-                  "autor": "Fuenmayor",
-                  "referencia_obra": ", Vida de S. Pío V, 3 (p. 116)."
-                },
-                {
-                  "texto_cita": "«No alabo lo que hacía Filipo, rey de Macedonia, que entretenía con promesas de socorros, y jamás los enviaba.»",
-                  "autor": "Saav.",
-                  "referencia_obra": "Conserv. de mon. 23 (R. 25. 4971)."
+                  "id_limpio": "—",
+                  "definicion": "Con la prep. con.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Los herejes --- movían a misericordia fácilmente a su sangre y entretenían con tratos de paz, mientras se rehacían.»",
+                      "autor": "Fuenmayor",
+                      "referencia_obra": ", Vida de S. Pío V, 3 (p. 116)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«No alabo lo que hacía Filipo, rey de Macedonia, que entretenía con promesas de socorros, y jamás los enviaba.»",
+                      "autor": "Saav.",
+                      "referencia_obra": "Conserv. de mon. 23 (R. 25. 4971)."
+                    }
+                  ]
                 }
               ]
             },
@@ -301,110 +393,144 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Pas. Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Casi todos los pretendientes quieren más ser entretenidos con el engaño, que despachados con el desengaño.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 39 (R. 25. 1012)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Vivirá entretenido con esperanzas y promesas vanas y morirá desesperado con desdenes.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 23 (R. 25. 651)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. Detenerse, pararse, esperar, permanecer. +",
+          "definicion": "Refl. Detenerse, pararse, esperar, permanecer.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Vase [el Señor] para humillarnos; viene para consolarnos, y entretiénese para probarnos, y purgarnos y ejercitarnos y darnos conoscimiento de lo que somos.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. del crist. 40 (R. 11. 2112)."
             },
             {
+              "marca": "",
               "texto_cita": "«Díjele [a Luscinda] todo lo que pasaba, y lo mismo dije a su padre, suplicándole se entretuviese algunos días y dilatase el darla estado hasta que yo viese lo que Ricardo me quería.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 24 (R. 1. 3102)."
             },
             {
+              "marca": "",
               "texto_cita": "«Alojóse el conde Carlos su campo entre Bolduque y Grabe, adonde se entretuvo algunos días.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 2 (R. 28. 201)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a seguida de una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Qué concepto merecería un poeta que, componiendo meramente una oda en alabanza de un triunfo, se entretuviera a enumerar todas las tropas y caudillos que ganaron la batalla?»",
                   "autor": "M. de la Rosa",
                   "referencia_obra": ", Anot. a la Poét. 1. 12 (1. 124)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, para indicar la persona con la que se detiene o para.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Estad cierto que mi autoridad no acortará la vuestra, pues quiero que os entretengáis conmigo y que seáis obedecido de toda mi gente.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Gran. 3 (R. 21. 1111)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ni quiero ni aborrezco a nadie: no engaño a éste, ni solicito a aquél, ni burlo con uno, ni me entretengo con el otro.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 14 (R. 1. 2822)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Habiéndose estado oyendo a un charlatán, y paseándose y entreteniéndose con otros pajes, sin haber hecho diligencia alguna para buscar a Platón, le encontró.»",
                   "autor": "",
                   "referencia_obra": "Navarrete, Ben. de Sén. 6. 11 (1651)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de seguida de una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No es bien que más tiempo aguarde, | Ni de esperar me entretenga.»",
                   "autor": "Cald.",
                   "referencia_obra": "Amor, honor y poder, 2. 1 (R. 7. 3733)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Me he entretenido en este recuerdo de Feijóo porque le creo antecedente directo de Menéndez Pelayo.»",
                   "autor": "Marañón",
-                  "referencia_obra": ", Tiempo viejo, p. 76. — Siendo el término de la prep. una oración infinitiva. X"
-                },
+                  "referencia_obra": ", Tiempo viejo, p. 76."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Yo me entretuve en regatear un poco el precio, porque al escolar entristecido había que empezar por calzarlo y vestirlo de arriba abajo, y una señora se me anticipó y se lo llevó de la mano.»",
-                  "autor": "Cela",
-                  "referencia_obra": ", Mrs. Caldwell (p. 130)."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término de la prep. una oración infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Yo me entretuve en regatear un poco el precio, porque al escolar entristecido había que empezar por calzarlo y vestirlo de arriba abajo, y una señora se me anticipó y se lo llevó de la mano.»",
+                      "autor": "Cela",
+                      "referencia_obra": ", Mrs. Caldwell (p. 130)."
+                    }
+                  ]
                 }
               ]
             }
@@ -414,152 +540,195 @@
     },
     {
       "id": "b)",
-      "definicion": "Retardar, dar largas a algo (trans.). +",
+      "definicion": "Retardar, dar largas a algo (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "+",
           "texto_cita": "«Mandó a los que con él estaban entretener un poco la batalla, sin desamparar la plaza.»",
           "autor": "F. de Mena",
           "referencia_obra": ", Teágenes y Cariclea, 1 (p. 55)."
         },
         {
+          "marca": "",
           "texto_cita": "«Las cartas le he de coger | Que a Salamanca escribiere, | Y las respuestas fingiendo | Yo mismo iré entreteniendo | La ficción cuanto pudiere.»",
           "autor": "Alarcón",
-          "referencia_obra": ", La verdad sospechosa, 2. 14 (R. 20. 3322). X"
+          "referencia_obra": ", La verdad sospechosa, 2. 14 (R. 20. 3322)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Leonardo les dejaba hablar a todos, porque sabía que, entreteniendo un proyecto, es como se ganan días de la vida de proyectista, ya que el optimismo de la esperanza le hace encontrar recursos que no encontraría desengañado.»",
           "autor": "",
           "referencia_obra": "R. Gómez de la Serna, Caball. del hongo gris, p. 60."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
       "definicion": "Con la idea de diversión.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Distraer, ocupar la atención de alguien, por lo general para hacerle pasar agradablemente el tiempo (trans.). El compl. directo puede ser la persona cuya atención se ocupa, o una parte de ella.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La conversación honesta de las zagalas destas aldeas y el cuidado de mis cabras me entretiene.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 14 (R. 1. 2822)."
             },
             {
+              "marca": "",
               "texto_cita": "«Díjole D. Quijote que contase algún cuento para entretenerle, como se lo había prometido.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 20 (R. 1. 2962)."
             },
             {
+              "marca": "",
               "texto_cita": "«No me tengáis por tan ignorante, que no escuche con tanto gusto la materia de las letras como la de los amores, que las mujeres, cuando no esperamos interés, cualquiera cosa nos entretiene.»",
               "autor": "Lope",
               "referencia_obra": ", Dorotea, 4. 1 (Obr. suelt. 7. 268)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mientras la tía entretengo, | Podrás con Fulgencia hablar.»",
               "autor": "",
               "referencia_obra": "Id. El bobo del colegio, 1. 3 (R. 24. 1813)."
             },
             {
+              "marca": "",
               "texto_cita": "«Quise, Inés, entreteneros, | Porque Celia me contó | Que andáis con ciertas tristezas.»",
               "autor": "",
               "referencia_obra": "Id. Las flores de D. Juan, 2. 8 (R. 24. 4201)."
             },
             {
+              "marca": "",
               "texto_cita": "«Enseñábale a luchar, jugaba con él al toro y entreteníale siempre.»",
               "autor": "Quev.",
               "referencia_obra": "Buscón, 2 (R. 23. 4872)."
             },
             {
+              "marca": "",
               "texto_cita": "«Oro y joyas, Carlos, vienen | En esos cofres, que bastan | Por agora a entretenerte.»",
               "autor": "Cald.",
-              "referencia_obra": "Porfiando vence amor, 1. 19 (R. 7. 2431). +"
+              "referencia_obra": "Porfiando vence amor, 1. 19 (R. 7. 2431)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Era el que más gusto le daba [al Rey] cuando niño, el que mejor le entretenía cuando muchacho, y el que mejores y más sanos consejos le daba cuando joven.»",
               "autor": "Quint.",
-              "referencia_obra": "Álvaro de Luna (R. 19. 3722). X"
+              "referencia_obra": "Álvaro de Luna (R. 19. 3722)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Agusto ignoraba que la lectura fuera para entretener espíritus enfermos y que el tabaco fuera el amigo de los tristes.»",
               "autor": "Carrasquilla",
-              "referencia_obra": ", Frutos, 26. 3 (p. 290). X"
+              "referencia_obra": ", Frutos, 26. 3 (p. 290)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Un solo pensamiento entretiene la mente de sus súbditos: ¿Con quién se casará? Año tras año, el parlamento se lo suplica.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 8 (p. 132)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el medio o instrumento, o el objeto de la atención. +",
+              "definicion": "Con la prep. con, para indicar el medio o instrumento, o el objeto de la atención.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«El [mozuelo] no sabía fiestas que hacerles [a los ballesteros], diciéndoles cuentos, entreteniéndolos con historias.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 14 (Cl. C. 43. 198). X"
+                  "referencia_obra": ", Escud. 1. 14 (Cl. C. 43. 198)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Además, es especie de irrespeto entretener a la sociedad con temas personales, lo cual está reservado a aquellos a quienes eso se permite en razón de sus grandes méritos y circunstancias.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 207). X"
+                  "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 207)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«No lo sé. Le haces esos dibujos, esos malditos dibujos, le entretienes [al niño] con las artes perversas de tu maldito arte...»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 37 (p. 145). X"
+                  "referencia_obra": ", Abel Sánchez, 37 (p. 145)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tus fotografías en color, hijo mío, tus ingenuas fotografías en color, con las que tanto entretenías a las bobaliconas chicas de la vecindad, Eliacim, las guardo bajo siete llaves para no tener que sentirme obligada a sonreír, al verlas.»",
                   "autor": "Cela",
                   "referencia_obra": ", Mrs. Caldwell, p. 157."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para indicar el objeto de la atención. +",
+              "definicion": "Con en, para indicar el objeto de la atención.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Gran prudencia es saber el hombre divertir y entretener el corazón en cosa que le den alivio y esfuerzo.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Trib. 1. 13 (R. 60. 3842)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, para indicar el lugar o el tiempo. X",
+              "definicion": "Con en, para indicar el lugar o el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Oh! salgamos de estas calles, | Do el dolor del desterrado | Nadie entienden ni comparte. | ¡Ay! tú me entretenías | En mi niñez: | Ven, sígueme en los días | De mi vejez.»",
                   "autor": "Caro",
-                  "referencia_obra": ", Poes. complet. p. 111. — En los siguientes ejemplos lleva además un compl. con la prep. con para indicar el medio o instrumento. X"
-                },
+                  "referencia_obra": ", Poes. complet. p. 111."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Él le enseñaba las danzas de su tierra natal, los amorosos y sentidos cantares del país de Bambuk, le refería las maravillosas leyendas con que su madre le había entretenido en la niñez.»",
-                  "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 170. X"
-                },
-                {
-                  "texto_cita": "«Y ya que se trata de Méjico, ¿no fuera bueno que don Luciano Pulgar nos entretuviera en esta madrugada con algunos provincialismos concernientes a la gran tierra de Anáhuac, tan rica en oro y petróleo como en lenguas indígenas y en artes y vocabularios de ellas?»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 192)."
+                  "id_limpio": "—",
+                  "definicion": "En los siguientes ejemplos lleva además un compl. con la prep. con para indicar el medio o instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Él le enseñaba las danzas de su tierra natal, los amorosos y sentidos cantares del país de Bambuk, le refería las maravillosas leyendas con que su madre le había entretenido en la niñez.»",
+                      "autor": "Isaacs",
+                      "referencia_obra": ", María, p. 170."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y ya que se trata de Méjico, ¿no fuera bueno que don Luciano Pulgar nos entretuviera en esta madrugada con algunos provincialismos concernientes a la gran tierra de Anáhuac, tan rica en oro y petróleo como en lenguas indígenas y en artes y vocabularios de ellas?»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 192)."
+                    }
+                  ]
                 }
               ]
             },
@@ -567,38 +736,55 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con un gerundio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Quiso Sancho entretenelle y divertirle diciéndole alguna cosa.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 18 (R. 1. 2931). X"
+                  "referencia_obra": "Quij. 1. 18 (R. 1. 2931)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El mayor, el Aristón, le entretenía y le aterrorizaba contándole cosas lúgubres de cementerios y aparecidos.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, 2. 9 (p. 114). X"
+                  "referencia_obra": ", La busca, 2. 9 (p. 114)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Vidal entretuvo al chico jugando a las chapas, mientras el Bizco agarraba la cabra y la subía por la rampa de los pinos al paseo de las Yeserías y la llevaba después a las Injurias.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 3. 1 (p. 131)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Absol. +",
+              "definicion": "Absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Contábales cuentos que no tenía estudiados para entretener.»",
                   "autor": "Quev.",
-                  "referencia_obra": "Buscón, 18 (Cl. C. 5. 210). — Con en."
-                },
+                  "referencia_obra": "Buscón, 18 (Cl. C. 5. 210)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Tiene [Teresica] una condicioncita como un ángel, y sabe entretener bien en las recreaciones, contando de los indios y de la mar, mejor que yo lo contara.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Cartas, 3. 8 (R. 55. 532)."
+                  "id_limpio": "—",
+                  "definicion": "Con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Tiene [Teresica] una condicioncita como un ángel, y sabe entretener bien en las recreaciones, contando de los indios y de la mar, mejor que yo lo contara.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Cartas, 3. 8 (R. 55. 532)."
+                    }
+                  ]
                 }
               ]
             }
@@ -607,173 +793,225 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. Divertirse, dedicarse sin seriedad a algo. +",
+          "definicion": "Refl. Divertirse, dedicarse sin seriedad a algo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Ya podéis oír cómo las mujeres, por entretenerse, dejadas ya las mesas, se han puesto a danzar.»",
               "autor": "F. de Mena",
-              "referencia_obra": ", Teágenes y Cariclea, 5 (p. 194). X"
+              "referencia_obra": ", Teágenes y Cariclea, 5 (p. 194)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Lo que era para mí cada día más fácil era imaginar travesuras y modos de entretenerme a la solapa, en las clases y a las horas de estudio.»",
               "autor": "Marroquín",
-              "referencia_obra": ", Blas Gil, 2 (p. 12). X"
+              "referencia_obra": ", Blas Gil, 2 (p. 12)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En el Lazarillo desbrocé, para mi particular andadura, un nuevo camino en mi predio y, por lo menos, me entretuve.»",
               "autor": "Cela",
               "referencia_obra": ", Mrs. Caldwell, p. 27."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el objeto de la atención o dedicación. +",
+              "definicion": "Con la prep. con, para indicar el objeto de la atención o dedicación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Los ojos se entretienen con la vista del mar y tierra.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 17 (Cl. C. 43. 221). X"
+                  "referencia_obra": ", Escud. 1. 17 (Cl. C. 43. 221)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Si se tratase de defenderla de un hombre, de dos hombres, de más que fuesen, con la espada en la mano, yo te dejaría muy tranquilo el placer de entretenerte con ellos.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 3 (p. 333). X"
+                  "referencia_obra": ", Amalia, 3 (p. 333)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y llegó en el colegio a tal grado de zafiedad burlona y truhanesca, que dábamos vaya a los colegas que, en horas de recreación, se entretenían con ejercicios de aquellos en que se podía hacer prueba de agilidad, de fuerza o de destreza»",
                   "autor": "Marroquín",
-                  "referencia_obra": ", Blas Gil, 2 (p. 17). X"
+                  "referencia_obra": ", Blas Gil, 2 (p. 17)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Bah! Me entretendré con las ilustraciones extranjeras.»",
                   "autor": "Arniches",
                   "referencia_obra": ", La Srta. de Trevélez, 1 (p. 24)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, para indicar el medio, y en con sentido locativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Qué escudero hay tan pobre en el mundo a quien le falte un rocín y un par de galgos y una caña de pescar con que entretenerse en su aldea?»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 13 (R. 1. 4291)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en, para indicar el objeto de atención o dedicación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«De faldas, que no quiero decir de mangas, todos [los letrados] tienen en que entretenerse.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 38 (R. 1. 3611)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Harto mejor sería que los que profesamos esta maldita servidumbre nos retirásemos a nuestras casas, y allí nos entretuviésemos en ejercicios más suaves, como si dijésemos cazando o pescando.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 2. 13 (R. 1. 4291). +"
+                  "referencia_obra": "Id. ib. 2. 13 (R. 1. 4291)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Preguntáronme tras esto que en qué me entretenía en la Corte; yo les dije que en huir de un padre y madre que me querían casar contra mi voluntad.»",
                   "autor": "Quev.",
-                  "referencia_obra": "Buscón, 19 (Cl. C. 5. 223). X"
+                  "referencia_obra": "Buscón, 19 (Cl. C. 5. 223)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tomó de sobre una mesa algunas traducciones del inglés, en que solía entretenerse el joven, y, convencida de que no había un solo objeto que pudiese revelar en ese aposento lo que probablemente venía a buscar la policía, volvió a la sala.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 3 (p. 334). X"
+                  "referencia_obra": ", Amalia, 3 (p. 334)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y todos los días lo mismo. ¡Se entretiene en unas cosas! Ayer fue una risa; metió a uno en este cuarto, y a los cinco minutos salía el pobre hombre con todas las muelas en un papelito.»",
                   "autor": "Arniches",
-                  "referencia_obra": ", Es mi hombre, 3 (p. 190). X"
+                  "referencia_obra": ", Es mi hombre, 3 (p. 190)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y si los unos me acusaren de servir a una obra de reacción católica, acaso los otros, los católicos oficiales... Pero éstos en España apenas se fijan en cosa alguna ni se entretienen sino en sus propias disensiones y querellas.»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Del sent. trág. de la vida, concl. (p. 252). X"
+                  "referencia_obra": ", Del sent. trág. de la vida, concl. (p. 252)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Señor Azorín —me dice el buen doctor alargándome un ancho cartapacio—, senor Azorín, mire usted en lo que yo me entretengo.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", Ruta de D. Quijote, 8 (p. 364). X"
+                  "referencia_obra": ", Ruta de D. Quijote, 8 (p. 364)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Aquí, en el pueblo, será difícil encontrar algo en que entretenerse...»",
                   "autor": "",
-                  "referencia_obra": "Id. Trasuntos de Esp. p. 67. — Siendo un infinitivo el término de la prep. +"
+                  "referencia_obra": "Id. Trasuntos de Esp. p. 67."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Siendo un infinitivo el término de la prep.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Salíme de casa, entretúveme en ver mi tierra toda la tarde.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Buscón, 11 (Cl. C. 5. 147)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El otro, con gorra y un capote de barragán azul, tenía por delante un gran vaso de ponche, y se entretenía en exprimir las rebanadas de limón con la pequeña cuchara de platino.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 3 (p. 266)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Veíanse allí tres oficiales de secretaría, pálidos, ojerosos, en un profundísimo silencio y sin hacer nada, y el general Corvalán, con un grueso paquete de pliegos cerrados en la mano, entreteniéndose en leer los sobres.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 5 (p. 478)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Entreteníamonos, además, en abominar de todo lo que había y se hacía en el colegio, y en murmurar de los superiores y de los alumnos cumplidores de sus obligaciones, a quienes tachábamos de hipócritas o de aduladores.»",
+                      "autor": "Marroquín",
+                      "referencia_obra": ", Blas Gil, 1 (p. 6)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Este pidió más vino, y se entretuvo en reír alto cuando alguno perdía y en apostar contra el Valencia.»",
+                      "autor": "Baroja",
+                      "referencia_obra": ", La busca, 2. 8 (p. 109)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En la primavera este hombre se ponía un gorro blanco de cocinero y pregonaba unos pastelillos con una palabra que apenas pronunciaba y que se entretenía en cambiar constantemente.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 3. 4 (p. 155)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Bueno, y cualquiera que me vea a mí con este periódico en la mano cree que yo sé alemán; pues no, señor.. Es que me entretengo en contar las \"pes\", las \"cus\" y las \"kas\" que hay en cada columna.»",
+                      "autor": "Arniches",
+                      "referencia_obra": ", La Srta. de Trevélez, 1 (p. 25)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«O más bien que era una pintura, pero más al fresco que al óleo, y de todos modos sin barnizado, en que se ve la tela y su trama, el tejido sobre que se había pintado el cuadro, acaso la túnica misma del Señor, que se entretuvo en adornarla con aquellos paisajes.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Andanzas y visiones esp. p. 162."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Los niños, descalzos, entreteníanse, después del baño, en desviar con los pies el curso de un pequeño arroyuelo vagabundo e indeciso, que por la arena desaguaba en el mar.»",
+                      "autor": "",
+                      "referencia_obra": "Id. La tía Tula, 11 (p. 73)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Quisiéramos vivir en una vieja casa de la ciudad incomparable; una casa con un sobrado lleno de trastos viejos —que nos entretendríamos en revolver—, con estancias pavimentadas de azulejos brillantes.»",
+                      "autor": "Azorín",
+                      "referencia_obra": ", El paisaje de España, 9 (p. 450)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En una gran biblioteca europea me he entretenido el pasado invierno en leer 200 periódicos diarios, los de un día cualquiera, el mismo, de enero de este año, día no señalado por ningún accidente capital.»",
+                      "autor": "Marañón",
+                      "referencia_obra": ", Tiempo viejo, p. 51."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Fue cuando aquel escritor, después de pensarlo mucho, dijo \"dos negros nubarrones se entretienen en jugar al tenis con los rayos\".»",
+                      "autor": "Cela",
+                      "referencia_obra": ", Mrs. Caldwell, p. 32."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Salíme de casa, entretúveme en ver mi tierra toda la tarde.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Buscón, 11 (Cl. C. 5. 147). X"
-                },
-                {
-                  "texto_cita": "«El otro, con gorra y un capote de barragán azul, tenía por delante un gran vaso de ponche, y se entretenía en exprimir las rebanadas de limón con la pequeña cuchara de platino.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 3 (p. 266). X"
-                },
-                {
-                  "texto_cita": "«Veíanse allí tres oficiales de secretaría, pálidos, ojerosos, en un profundísimo silencio y sin hacer nada, y el general Corvalán, con un grueso paquete de pliegos cerrados en la mano, entreteniéndose en leer los sobres.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 5 (p. 478). X"
-                },
-                {
-                  "texto_cita": "«Entreteníamonos, además, en abominar de todo lo que había y se hacía en el colegio, y en murmurar de los superiores y de los alumnos cumplidores de sus obligaciones, a quienes tachábamos de hipócritas o de aduladores.»",
-                  "autor": "Marroquín",
-                  "referencia_obra": ", Blas Gil, 1 (p. 6). X"
-                },
-                {
-                  "texto_cita": "«Este pidió más vino, y se entretuvo en reír alto cuando alguno perdía y en apostar contra el Valencia.»",
-                  "autor": "Baroja",
-                  "referencia_obra": ", La busca, 2. 8 (p. 109). X"
-                },
-                {
-                  "texto_cita": "«En la primavera este hombre se ponía un gorro blanco de cocinero y pregonaba unos pastelillos con una palabra que apenas pronunciaba y que se entretenía en cambiar constantemente.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 3. 4 (p. 155). X"
-                },
-                {
-                  "texto_cita": "«Bueno, y cualquiera que me vea a mí con este periódico en la mano cree que yo sé alemán; pues no, señor.. Es que me entretengo en contar las \"pes\", las \"cus\" y las \"kas\" que hay en cada columna.»",
-                  "autor": "Arniches",
-                  "referencia_obra": ", La Srta. de Trevélez, 1 (p. 25). X"
-                },
-                {
-                  "texto_cita": "«O más bien que era una pintura, pero más al fresco que al óleo, y de todos modos sin barnizado, en que se ve la tela y su trama, el tejido sobre que se había pintado el cuadro, acaso la túnica misma del Señor, que se entretuvo en adornarla con aquellos paisajes.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Andanzas y visiones esp. p. 162. X"
-                },
-                {
-                  "texto_cita": "«Los niños, descalzos, entreteníanse, después del baño, en desviar con los pies el curso de un pequeño arroyuelo vagabundo e indeciso, que por la arena desaguaba en el mar.»",
-                  "autor": "",
-                  "referencia_obra": "Id. La tía Tula, 11 (p. 73). X"
-                },
-                {
-                  "texto_cita": "«Quisiéramos vivir en una vieja casa de la ciudad incomparable; una casa con un sobrado lleno de trastos viejos —que nos entretendríamos en revolver—, con estancias pavimentadas de azulejos brillantes.»",
-                  "autor": "Azorín",
-                  "referencia_obra": ", El paisaje de España, 9 (p. 450). X"
-                },
-                {
-                  "texto_cita": "«En una gran biblioteca europea me he entretenido el pasado invierno en leer 200 periódicos diarios, los de un día cualquiera, el mismo, de enero de este año, día no señalado por ningún accidente capital.»",
-                  "autor": "Marañón",
-                  "referencia_obra": ", Tiempo viejo, p. 51. X"
-                },
-                {
-                  "texto_cita": "«Fue cuando aquel escritor, después de pensarlo mucho, dijo \"dos negros nubarrones se entretienen en jugar al tenis con los rayos\".»",
-                  "autor": "Cela",
-                  "referencia_obra": ", Mrs. Caldwell, p. 32. — Con en y gerundio, construcción que hoy disuena."
-                },
-                {
-                  "texto_cita": "«En lo que yo pienso entretenerme es en jugando al triunfo envidado las pascuas, y a los bolos los domingos y fiestas.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 34 (R. 1. 4781)."
+                  "id_limpio": "—",
+                  "definicion": "Con en y gerundio, construcción que hoy disuena.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«En lo que yo pienso entretenerme es en jugando al triunfo envidado las pascuas, y a los bolos los domingos y fiestas.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 2. 34 (R. 1. 4781)."
+                    }
+                  ]
                 }
               ]
             },
@@ -781,53 +1019,64 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con un gerundio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Unos paseándose y otros jugando a diversos juegos se entretenían.»",
                   "autor": "",
                   "referencia_obra": "Id. Nov. 1 (R. 1. 1022)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y así se entretenía paseándose por el pradecillo, escribiendo y grabando por las cortezas de los árboles y por la menuda arena muchos versos.»",
                   "autor": "",
                   "referencia_obra": "Id. Quij. 1. 26 (R. 1. 3172)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Cual en su nave haciendo se entretuvo | Al rostro afeites y al cabello lazos.»",
                   "autor": "Lope",
-                  "referencia_obra": ", Angél. 3 (2. 40). +"
+                  "referencia_obra": ", Angél. 3 (2. 40)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«En un rincón del cuadro [de las bodas de Alejandro Magno con Roxana] otros amorcitos se entretenían jugando con las armas del guerrero.»",
                   "autor": "Arteaga",
-                  "referencia_obra": ", Belleza ideal, 6 (Cl. C. 122. 79). +"
+                  "referencia_obra": ", Belleza ideal, 6 (Cl. C. 122. 79)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«No pasaba día sin que aquellas seis mujeres --- no se entretuvieran ideando una nueva distribución de la casa.»",
                   "autor": "Ganiv.",
-                  "referencia_obra": "Pío Cid, 2 (1. 136). X"
+                  "referencia_obra": "Pío Cid, 2 (1. 136)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La Petra, en la cocina, hacía lo mismo, con la cabeza apoyada en el marco de la ventana, y el señor viejo madrugador se entretenía tosiendo en la cama.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, 1. 1 (p. 26). X"
+                  "referencia_obra": ", La busca, 1. 1 (p. 26)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo también opino de ese modo, y por eso suelo entretenerme escribiendo por ahí, en una pizarra o en un sobre-carta usado, los cincuenta o sesenta nombres del panteón colombiano de Colón, de doña Isabel y del señor Groot.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños de L. Pulgar, 1 (p. 156) X"
+                  "referencia_obra": ", Sueños de L. Pulgar, 1 (p. 156)"
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Más de una vez me he entretenido imaginando qué habría acontecido si, en lugar de hombres de Castilla, hubiesen sido encargados, mil años hace, los \"unitarios\" de ahora, catalanes y vascos, de forjar esta enorme cosa que llamamos España.»",
                   "autor": "Ortega y Gasset",
-                  "referencia_obra": ", Esp. invertebr. p. 36. X"
+                  "referencia_obra": ", Esp. invertebr. p. 36."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Presentación Campos no respondió inmediatamente. Hizo como si se entretuviere apaciguando el caballo, que briosamente se debatía, y, al fin, habló.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 6 (p. 64)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -835,85 +1084,112 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Es mi intención limpiar esta ínsula de todo género de inmundicia y de gente vagamunda, holgazana y mal entretenida.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 49 (R. 1. 5061)."
             },
             {
+              "marca": "",
               "texto_cita": "«Al pueblo agrada ver entretenidos los pensamientos del príncipe, y que no estén siempre fijos en agravar su servidumbre.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 6 (R. 25. 212). X"
+              "referencia_obra": "Emp. 6 (R. 25. 212)."
             },
             {
+              "marca": "X",
               "texto_cita": "«A las cuatro repitieron la misma dosis, mientras yo velaba escribiendo una zoncera que me tenía entretenido.»",
               "autor": "D. F. Sarmiento",
               "referencia_obra": ", Recuerdos de Provincia, p. 141."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, para indicar el objeto de la atención.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Los caballeros pasaban sin dormir muchas noches en las florestas y despoblados, entretenidos con las memorias de sus señoras.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 8 (R. 1. 2701)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para indicar lo mismo que en el caso anterior. +",
+              "definicion": "Con en, para indicar lo mismo que en el caso anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Todo lo pasó y todo lo sabe | Tu alma, en solo Dios entretenida.»",
                   "autor": "Hojeda",
-                  "referencia_obra": ", Crist. 6 (R. 17. 4451). +"
+                  "referencia_obra": ", Crist. 6 (R. 17. 4451)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«La vista [del Señor] que de gloria eterna baña | El cielo, en ella misma entretenido, | En tierra puesta, y los cabellos rojos | De sangre llenos y de horror los ojos.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 9 (R. 17. 4732)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Veisla allí, | Ajena de vuestro intento, | Los ojos entretenidos | En un libro.»",
                   "autor": "Alarcón",
-                  "referencia_obra": ", Los pechos privilegiados, 1. 17 (R. 20. 4193). X"
+                  "referencia_obra": ", Los pechos privilegiados, 1. 17 (R. 20. 4193)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sociedad para facilitar a los obreros y a los mercaderes al menudeo los medios de cerrar temprano sus talleres o sus bodegones, y pasar la prima noche entretenidos en lecturas sanas, y entretenimientos domésticos útiles a sus costumbres y a su salud.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 5 (p. 553). X"
+                  "referencia_obra": ", Amalia, 5 (p. 553)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Manuel sentía mucho frío y comenzó a pasearse de un lado a otro, golpeándose con las manos en los hombros y en las piernas. Entretenido en esta operación, no vio a un hombre de boina, con una linterna en la mano.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, 3. 2 (p. 140). X"
+                  "referencia_obra": ", La busca, 3. 2 (p. 140)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Líbrenos Dios de sabios ociosos, entretenidos en especulaciones sutiles, o entregados a la conquista de lo menudo.»",
                   "autor": "Ramón y Cajal",
-                  "referencia_obra": ", Tónicos de la voluntad, 2 (p. 40). — Siendo el término de la prep. un infinitivo. X"
-                },
+                  "referencia_obra": ", Tónicos de la voluntad, 2 (p. 40)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y por parte del Estado Oriental, el general Rivera, entretenido en bailar y dar convites en su cuartel general en San José del Uruguay, divertido con versos del comandante Pacheco, contribuía con brindis a la cruzada argentina.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 4 (p. 358). X"
-                },
-                {
-                  "texto_cita": "«Concha estaba al pie de la escalinata, entretenida en hacer un gran ramo con las rosas.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de otoño, p. 31. X"
-                },
-                {
-                  "texto_cita": "«Hallé a Concha en el tocador rodeada de sus hijas y entretenida en peinar los largos cabellos de la más pequeña.»",
-                  "autor": "",
-                  "referencia_obra": "Id. Ib. p. 59."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término de la prep. un infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y por parte del Estado Oriental, el general Rivera, entretenido en bailar y dar convites en su cuartel general en San José del Uruguay, divertido con versos del comandante Pacheco, contribuía con brindis a la cruzada argentina.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 4 (p. 358)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Concha estaba al pie de la escalinata, entretenida en hacer un gran ramo con las rosas.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de otoño, p. 31."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hallé a Concha en el tocador rodeada de sus hijas y entretenida en peinar los largos cabellos de la más pequeña.»",
+                      "autor": "",
+                      "referencia_obra": "Id. Ib. p. 59."
+                    }
+                  ]
                 }
               ]
             }
@@ -924,58 +1200,72 @@
     {
       "id": "b)",
       "definicion": "Hacer más llevadera o soportable una cosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Hoy diera por no te ver | Aunque no tengo otra vida, | Esta alma de ti vencida | Solo por entretener | El dolor de la partida.»",
               "autor": "Montem.",
-              "referencia_obra": "Diana, 2 (R. 27. 80). +"
+              "referencia_obra": "Diana, 2 (R. 27. 80)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Ruégote --- que tú y la hermosa Selvagia cantéis alguna canción por entretener la siesta.»",
               "autor": "",
               "referencia_obra": "Id. ib. 6 (R. 27. 267)."
             },
             {
+              "marca": "",
               "texto_cita": "«De mi casamiento o cansamiento saqué tantos [dolores] en el cuerpo y en el alma, que los del cuerpo, para entretenerlos, me cuestan cuarenta sudores.»",
               "autor": "Cerv.",
               "referencia_obra": "Nov. 11 (R. 1. 2222)."
             },
             {
+              "marca": "",
               "texto_cita": "«No habéis de hallar remedio para remediarlas [mis desdichas] ni consuelo para entretenerlas.»",
               "autor": "",
               "referencia_obra": "Id. Quij. 1. 28 (R. 1. 3252)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, para indicar el medio o instrumento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Cuando en lo que fabricaba pensaba y ponía por obra no correspondía el suceso a la intención, luego sin abandonarme fingía y buscaba otra esperanza que me sustentase, aunque fuese débil y flaca. Con esto entretenía la vida encerrado en una prisión o casa que los turcos llaman baño.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 40 (R. 1. 3652)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en seguida de infinitivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En repetir las palabras de los mozos y en remedar y contrahacer el modo y los ademanes con que las decían, entretuvieron el camino hasta Toledo.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 8 (R. 1. 1852)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -983,82 +1273,101 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. refl. Con la prep. con, para indicar el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Entretiénese la hambre | Con saber qué ha de comer? | --- Pues sábete que ha de ser... | —Presto. —Tocino fiambre.»",
               "autor": "Lope",
               "referencia_obra": ", La dama boba, 1. 1 (R. 24. 2972)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Se aplica especialmente al tiempo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Se quería ir a cumplir con su oficio, buscando las aventuras, de quien tenía noticia que aquella tierra abundaba, donde esperaba entretener el tiempo hasta que llegase el día de las justas de Zaragoza.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 18 (R. 1. 4421). X"
+              "referencia_obra": "Quij. 2. 18 (R. 1. 4421)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero he aquí su historia, que, referida por Feliciana con rústico y patético lenguaje, entretuvo algunas veladas de mi familia.»",
               "autor": "Isaacs",
-              "referencia_obra": ", María, p. 169. X"
+              "referencia_obra": ", María, p. 169."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dice a este respecto en su relación que los portugueses entretenían el tiempo y se daban largas.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 124). X"
+              "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 124)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El secreto de un Banco —insistía Leonardo entreteniendo aquellas largas treguas— es que no tiene dinero, sino papeles blancos, libros, hojas de papel de copias...»",
               "autor": "Gómez de la Serna",
               "referencia_obra": ", Caball. del hongo gris, p. 133."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Esperemos a que la tarde vaya cayendo. Departamos, para entretener las horas con unos labriegos que han llegado hasta el santuario en cumplimiento de una promesa.»",
                   "autor": "Azorín",
                   "referencia_obra": ", El paísaje de España, 6 (p. 436)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Los ratos que del día me quedaban --- los entretenía en ejercicios que son a las doncellas tan lícítos como necesarlos.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 28 (R. 1. 3261)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dichosa tortolilla, | Que en inocentes juegos | Las horas entretiene | De mi adorado dueño.»",
                   "autor": "Gallego",
                   "referencia_obra": ", A una tórtola (R. 67. 4192)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con gerundio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Los compusieron [sus autores] para el efecto que vos decís de entretener el tiempo, como lo entretienen leyéndolos vuestros segadores.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 32 (R. 1. 3401)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1067,104 +1376,126 @@
     {
       "id": "4",
       "definicion": "Part. adj.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Lento, pesado (raro).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Luego, conociendo que era el día de la ira y que la hermosura las estaba acusando de secreto, comenzaron a caminar al valle con pasos más entretenidos.»",
           "autor": "Quev.",
           "referencia_obra": "Sueño (R. 23. 2991)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Agradable, divertido.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Alabástesla vos de entretenida | --- | Décima musa, octava maravilla.»",
           "autor": "Lope",
-          "referencia_obra": ", La niña de plata, 1. 5 (R. 24. 2752). X"
+          "referencia_obra": ", La niña de plata, 1. 5 (R. 24. 2752)."
         },
         {
+          "marca": "X",
           "texto_cita": "«¿Te acuerdas hijo mío, qué entretenido y emocionante resultaba el viaje alrededor de la cama?»",
           "autor": "Cela",
-          "referencia_obra": ", Mrs. Caldwell, p. 55. X"
+          "referencia_obra": ", Mrs. Caldwell, p. 55."
         },
         {
+          "marca": "X",
           "texto_cita": "«Resulta entretenido pensar en las monarquías.»",
           "autor": "",
-          "referencia_obra": "Id. ib. p. 58. X"
+          "referencia_obra": "Id. ib. p. 58."
         },
         {
+          "marca": "X",
           "texto_cita": "«Aquella conversación que sobre este entretenido tema tuvimos, Ellacim, ¿te acuerdas?, y que interrumpimos porque vinieron unos amigos a buscarte para ir a las carreras de caballos, pudiéramos continuarla, si a ti te parece, un día que tengas un par de horas desocupadas.»",
           "autor": "",
           "referencia_obra": "Id. ib. p. 166."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Se decía antiguamente del aspirante a un cargo u oficio.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«No dio mucho gusto a D. Quijote verle [a Sancho] tan mal adeliñado con la jaspeada toalla, y tan rodeado de tantos entretenidos de cocina.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 2. 33 (R. 1. 4742)."
         },
         {
+          "marca": "",
           "texto_cita": "«El conde, su guión y entretenidos, | Tercios, coronelías y escuadrones | A convoyar salieron los rendidos.»",
           "autor": "Lope",
           "referencia_obra": ", Pobreza no es vileza, 3. 2 (R. 52. 2472)."
         },
         {
+          "marca": "",
           "texto_cita": "«Vinieron voluntariamente muchos soldados aventajados y entretenidos italianos.»",
           "autor": "Coloma",
           "referencia_obra": ", Guerras de los Est. Baios, 6 (R. 28. 801)."
         },
         {
+          "marca": "",
           "texto_cita": "«Murieron algunos capitanes de todas naciones, y entre ellos el capitán Jaime Ballebrera, entretenido en el tercio de don Augustín.»",
           "autor": "",
           "referencia_obra": "Id. ib. 7 (R. 28. 912)."
         },
         {
+          "marca": "",
           "texto_cita": "«En diez años que he sido | En Flandes, ya entretenido, | Ya alférez determinado, | Ya señor de una jineta ---.»",
           "autor": "Tirso",
           "referencia_obra": ", La villana de Vallecas, 2. 1 (R. 5. 511)."
         },
         {
+          "marca": "",
           "texto_cita": "«Resolvieron --- que se sacasen todos los tercios, compañías y capitanes de los presidios de España, particularmente de Portugal, Galicia y Aragón, con todos los oficiales entretenidos y personas de puesto.»",
           "autor": "Melo",
           "referencia_obra": ", Guerra de Catal. 2 (R. 21. 4841)."
         },
         {
+          "marca": "",
           "texto_cita": "«Que no haya tanta multitud de escuderos, gentileshombres, pajes y entretenidos, con otra infinidad de criados.»",
           "autor": "",
           "referencia_obra": "Navarrete, Conserv. de mon. consulta (R. 25. 4551)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "En heráldica, se dice de dos cosas que tienen una a otra, como dos llaves enlazadas por sus anillos (cfr. Dicc. Acad.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: RAE «Segund Diáscoro, la mandrágora es vna yerva que haze dormir e ha sus hojas esparzidas sobre tierra, e ha dos o tres raýzes que se entretienen e son negras por defuera e blancas por dedentro e han gruessa corteza.» Burgos, Propiedades cosas, fol. ccvijJ. + «Y como todo lo que pasó con Lucenda supiese, vi que más por entretenerme que por remediar poderme de mis males pesar mostrando, non pudo la hermana mía tanto dezirme que pudiese alegrarme, porque quando falta[n] las obras, las palabras deben por dubdosas tenerse.» D. de S. Pedro, Tract. de amores (Cl. C. 133. 50). + «Yva sienpre en los postreros haziendo algunas bueltas quando el tienpo las pedía, por entretener los contrarios para leuar su batalla más sin congoxa.» Id. Cárcel de amor (Cl. C. 133. 179). + «Con apparentes querellas | Entretienen el verdugo, | Por fuýr | El doloroso rnorir.» Santill. p. 204.",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. intertenere (cfr. Du Cange), y éste de inter 'entre' y tenere 'tener cogido'. Fr. y cat. entretenir, gall. y port. entreter.",
+  "etimologia": "Etim. Del lat. <i>intertenere </i>(cfr. Du Cange), y éste de <i>inter </i>'entre' y <i>tenere </i>'tener cogido'. Fr. y cat. <i>entretenir, </i>gall. y port. <i>entreter.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
-  "conjugacion": "Conjug. Se conjuga como tener, por lo que ofrece las siguientes formas irregulares: entretengo, entretienes, entretiene, entretienen; entretenga, as, a, amos, ais, an; entretuve, entretuviste, entretuvo, entretuvimos., entretuvísteis, entretuvieron; entretuviera, as, a, amos, ais, an; entretuviese, es, e, emos, eis, en; entretendré, ás, á, emos, éis, án; entretendría, as, a, amos, ais, an; entretén (tú); entreteniendo.\n\n\u0000",
+  "conjugacion": "Conjug. Se conjuga como tener, por lo que ofrece las siguientes formas irregulares: entretengo, entretienes, entretiene, entretienen; entretenga, as, a, amos, ais, an; entretuve, entretuviste, entretuvo, entretuvimos., entretuvísteis, entretuvieron; entretuviera, as, a, amos, ais, an; entretuviese, es, e, emos, eis, en; entretendré, ás, á, emos, éis, án; entretendría, as, a, amos, ais, an; entretén (tú); entreteniendo.",
   "construccion_sintactica": "",
   "prosodia": "",
   "colocacion_concordancia": ""

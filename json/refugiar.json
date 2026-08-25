@@ -1,235 +1,374 @@
 {
   "lema": "REFUGIAR.",
   "categoria_gramatical": "v",
-  "introduccion": "v. Acoger o amparar a uno, sirviéndole de resguardo y asilo (trans.).",
+  "introduccion": "Acoger o amparar a uno, sirviéndole de resguardo y asilo (trans.).",
   "acepciones": [
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Hoy espero el milagro: | Lo persigo, lo quiero, | La sombra que refugia | La aurora de sus senos, | El sueño de su frente, | La vaguedad del gesto, | La angustia del vocablo.»",
               "autor": "Valencia",
               "referencia_obra": ", Obra. poétic. p. 22."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en, que señala el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Cruzan despavoridos: quien buscando | Cercanas breñas y vecinos bosques, | En donde refugiar familia y bienes.»",
                   "autor": "A. Saav.",
                   "referencia_obra": "Moro expós. 7 (2. 234)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con entre, que señala el lugar. met. X",
+              "definicion": "Con entre, que señala el lugar. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El hombre refugiaba su desvelo | Entre densas paredes de miseria | Que el odio penetraba con sus ojos.»",
                   "autor": "Ridruejo",
                   "referencia_obra": ", Poes. En armas (Cl. Castal. 73. 170)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Hallándonos cierto día en una taberna se presentaron algunos soldados de marina que hacían la leva, y nos desbandamos, refugiándose cada cual donde pudo.»",
               "autor": "P. Galdós",
-              "referencia_obra": ", Trafalgar, 1 (p. 20). X"
+              "referencia_obra": ", Trafalgar, 1 (p. 20)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero ¿te acuerdas —interrumpió Rodolfo —cuando Guanajuato comenzó a llenarse de familias de otros Estados? Todas venían a refugiarse.»",
               "autor": "Fuentes",
-              "referencia_obra": ", Obr compl. p. 685. — met. X"
-            },
+              "referencia_obra": ", Obr compl. p. 685."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«La ferocidad de la desaparecida sonrisa de Gálvez parecía haberse refugiado en sus ojos, en la dureza de las mejillas.»",
-              "autor": "Onetti",
-              "referencia_obra": ", El astillero, p. 120."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«La ferocidad de la desaparecida sonrisa de Gálvez parecía haberse refugiado en sus ojos, en la dureza de las mejillas.»",
+                  "autor": "Onetti",
+                  "referencia_obra": ", El astillero, p. 120."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, que señala: — el lugar de resguardo y asilo. +",
-              "ejemplos_citas": [
+              "definicion": "Con a, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Con esto los dos aliados se apercibieron para ir contra Ponca, el cual, no osando esperarlos, se refugió a los montes.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Balboa (R. 19. 2862). +"
+                  "id_limpio": "—",
+                  "definicion": "el lugar de resguardo y asilo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Con esto los dos aliados se apercibieron para ir contra Ponca, el cual, no osando esperarlos, se refugió a los montes.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Balboa (R. 19. 2862)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Alfonso huyendo se refugia a la iglesia de Carrión, donde cae en manos del vencedor.»",
+                      "autor": "Cid",
+                      "referencia_obra": "(R. 19. 2041)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Se refugió [Carlos] a Zaragoza donde reinaba el Rey Moro Galafron.»",
+                      "autor": "Clem.",
+                      "referencia_obra": "Coment. 2. 55 (6. 124)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Los tres --- se refugiaron más que de paso a su guarida.»",
+                      "autor": "A. Saav.",
+                      "referencia_obra": "Masan. 1. 7 (R. 102. 1472)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Alfonso huyendo se refugia a la iglesia de Carrión, donde cae en manos del vencedor.»",
-                  "autor": "Cid",
-                  "referencia_obra": "(R. 19. 2041)."
+                  "id_limpio": "—",
+                  "definicion": "Además con hasta.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Los horribles estragos que esta violenta tempestad hacía en Egypto, y en la Tebaida, pusieron en precisión a muchos fieles de refugiarse a los desiertos, hasta que se pasase la tormenta.»",
+                      "autor": "Isla",
+                      "referencia_obra": ", Año Christ. 15 (p. 225)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Se refugió [Carlos] a Zaragoza donde reinaba el Rey Moro Galafron.»",
-                  "autor": "Clem.",
-                  "referencia_obra": "Coment. 2. 55 (6. 124). +"
-                },
-                {
-                  "texto_cita": "«Los tres --- se refugiaron más que de paso a su guarida.»",
-                  "autor": "A. Saav.",
-                  "referencia_obra": "Masan. 1. 7 (R. 102. 1472). — Además con hasta. X"
-                },
-                {
-                  "texto_cita": "«Los horribles estragos que esta violenta tempestad hacía en Egypto, y en la Tebaida, pusieron en precisión a muchos fieles de refugiarse a los desiertos, hasta que se pasase la tormenta.»",
-                  "autor": "Isla",
-                  "referencia_obra": ", Año Christ. 15 (p. 225). — La finalidad. El término es una prop. infinitiva. X"
-                },
-                {
-                  "texto_cita": "«Allí el pobre Rubén se refugió, maltrecho y ya definitivamente vencido por el diablo amarillo, a emprender la última lucha, la desesperada.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Andanzas y visiones esp. p. 123. X"
-                },
-                {
-                  "texto_cita": "«Raro es el castaño que conserva entero su tronco; casi todos están huecos, más que huecos, raídos, excavados, tostados y hechos carbón, ya por la codicia del leñador, ya por el capricho del pastorcillo, que allí se refugia a asar su magosto de castaña, y la ancha copa, cargada de fruto, se sostiene únicamente en un pedazo de corteza.»",
-                  "autor": "Azorín",
-                  "referencia_obra": ", El paisaje de España, 2 (p. 415)."
+                  "id_limpio": "—",
+                  "definicion": "La finalidad. El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Allí el pobre Rubén se refugió, maltrecho y ya definitivamente vencido por el diablo amarillo, a emprender la última lucha, la desesperada.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Andanzas y visiones esp. p. 123."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Raro es el castaño que conserva entero su tronco; casi todos están huecos, más que huecos, raídos, excavados, tostados y hechos carbón, ya por la codicia del leñador, ya por el capricho del pastorcillo, que allí se refugia a asar su magosto de castaña, y la ancha copa, cargada de fruto, se sostiene únicamente en un pedazo de corteza.»",
+                      "autor": "Azorín",
+                      "referencia_obra": ", El paisaje de España, 2 (p. 415)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la expresión dentro de, que señala el lugar. Además con un gerundio. X",
+              "definicion": "Con la expresión dentro de, que señala el lugar. Además con un gerundio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No pudiendo Sydon mantener los inumerables Ciudadanos que se havían refugiado dentro de sus muros, huyendo la guerra de los Israelitas, se vio en la precisión de enviar colonias por todas partes.»",
                   "autor": "Rdgz. Mohedano",
                   "referencia_obra": ", Hist. lit. esp. 1. 2 (p. 120)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Consiguieron al fin liberarse [los delincuentes], refugiarse en país extraño y poder volver en ocasión de hacer otra vez armas contra su patria.»",
                   "autor": "Quint.",
                   "referencia_obra": "Cartas a L. Holland, 3. 7 (R. 19. 5681)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y algunas se alejan por tierra de la ciudad, para esconderse en los bosques o para refugiarse en las alquerías.»",
                   "autor": "A. Saav.",
-                  "referencia_obra": "Masan. 1. 6 (5. 63). X"
+                  "referencia_obra": "Masan. 1. 6 (5. 63)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Decíase de nuestro andaluz que era moro converso y descendiente de una de las familias que, después de la toma de Granada por los Reyes Católicos, se refugiaron en las crestas de las Alpujarras.»",
                   "autor": "Palma",
-                  "referencia_obra": ", Trad. peruanas, p. 426. X"
+                  "referencia_obra": ", Trad. peruanas, p. 426."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Jane se refugia en su alcoba, saca las escondidas cuartillas y con el mazo de papel sobre las rodillas garabatea apresurada, febrilmente, las páginas magistrales de sus novelas.»",
                   "autor": "Zalamea",
-                  "referencia_obra": ", Minerva en la rueca, p. 39. — Además con la prep. con, que señala la compañía. X"
+                  "referencia_obra": ", Minerva en la rueca, p. 39."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, que señala la compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cuando el Gobierno mandó refuerzos desde Bogotá, el liberalismo resultó vencido en el combate de la Cruz Colorada, en una derrota de la cual no pudo reponerse y el jefe se refugió, con algunos sobrevivientes, en Santander.»",
+                      "autor": "Osorio Lizarazo",
+                      "referencia_obra": ", El camino en la sombra, p. 120."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Cuando el Gobierno mandó refuerzos desde Bogotá, el liberalismo resultó vencido en el combate de la Cruz Colorada, en una derrota de la cual no pudo reponerse y el jefe se refugió, con algunos sobrevivientes, en Santander.»",
-                  "autor": "Osorio Lizarazo",
-                  "referencia_obra": ", El camino en la sombra, p. 120. — Además con hasta, que señala el límite de la acción. X"
+                  "id_limpio": "—",
+                  "definicion": "Además con hasta, que señala el límite de la acción.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Francisco Játiva se refugió en un zaguán hasta que calmaron los tiros —tres, cinco minutos.»",
+                      "autor": "Icaza",
+                      "referencia_obra": ", En las calles, 9 (p. 230)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Francisco Játiva se refugió en un zaguán hasta que calmaron los tiros —tres, cinco minutos.»",
-                  "autor": "Icaza",
-                  "referencia_obra": ", En las calles, 9 (p. 230). — Además con para y una prop. infinitiva, que expresa la finalidad. X"
+                  "id_limpio": "—",
+                  "definicion": "Además con para y una prop. infinitiva, que expresa la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y con el saco lleno a la espalda y latiendo | El corazón con ritmo hondísimo y tremendo, | A refugiarse corre en su íntimo escondrijo | Para gozar a solas del increíble alijo.»",
+                      "autor": "",
+                      "referencia_obra": "G. Diego, Versos escog. p. 200."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Y con el saco lleno a la espalda y latiendo | El corazón con ritmo hondísimo y tremendo, | A refugiarse corre en su íntimo escondrijo | Para gozar a solas del increíble alijo.»",
-                  "autor": "",
-                  "referencia_obra": "G. Diego, Versos escog. p. 200. — El tiempo. met. X"
+                  "id_limpio": "—",
+                  "definicion": "El tiempo. met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La inspiración que vamos buscando se refugió en los primeros siglos de la Edad Media en el alma de los judíos.»",
+                      "autor": "Menéndez y Pelayo",
+                      "referencia_obra": ", Discursos (Cl. C. 140. 17)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«La inspiración que vamos buscando se refugió en los primeros siglos de la Edad Media en el alma de los judíos.»",
-                  "autor": "Menéndez y Pelayo",
-                  "referencia_obra": ", Discursos (Cl. C. 140. 17). — Aquello en lo que se ampara o acoge. X"
+                  "id_limpio": "—",
+                  "definicion": "Aquello en lo que se ampara o acoge.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Qué ha de ser del espíritu tierno y rebosante que, falto de empleo fructífero, se refugia en sí mismo, y sale íntegro y no empleado de la tierra?»",
+                      "autor": "Martí",
+                      "referencia_obra": ", Páginas escogidas, p. 217."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Qué ha de ser del espíritu tierno y rebosante que, falto de empleo fructífero, se refugia en sí mismo, y sale íntegro y no empleado de la tierra?»",
-                  "autor": "Martí",
-                  "referencia_obra": ", Páginas escogidas, p. 217. — Además con para y una prop. infinitiva que señala la finalidad. met. X"
+                  "id_limpio": "—",
+                  "definicion": "Además con para y una prop. infinitiva que señala la finalidad. met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El capitán se levantó de golpe y salió del bolicho, sospechando sin duda que el catalán se refugiaba en una simulada borrachera para burlarse de él.»",
+                      "autor": "Roa",
+                      "referencia_obra": "Bastos, Hijo de hombre, p. 202."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El capitán se levantó de golpe y salió del bolicho, sospechando sin duda que el catalán se refugiaba en una simulada borrachera para burlarse de él.»",
-                  "autor": "Roa",
-                  "referencia_obra": "Bastos, Hijo de hombre, p. 202. — met. X"
-                },
-                {
-                  "texto_cita": "«Henos aquí refugiándonos en las costumbres: no todo ha de ser siempre política; no todo facciosos.»",
-                  "autor": "Larra",
-                  "referencia_obra": ", Artíc. de cost. (Cl. C. 45. 168). X"
-                },
-                {
-                  "texto_cita": "«Para dar unidad a la ciencia apelan algunos a la identidad universal; pero esto no es encontrar la unidad, sino refugiarse en el caos.»",
-                  "autor": "Balmes",
-                  "referencia_obra": ", Filosof. fund. (BAC. 37. 48). X"
-                },
-                {
-                  "texto_cita": "«Pinas siguió yendo al club, discutiendo, refugiándose en su afición por la música.»",
-                  "autor": "Mallea",
-                  "referencia_obra": ", El vínculo, p. 74. X"
-                },
-                {
-                  "texto_cita": "«La disciplina ha desaparecido de grandes industrias y gobiernos para refugiarse en unas pocas, si bien poderosas y agresivas, organizaciones obreras.»",
-                  "autor": "Sanín Cano",
-                  "referencia_obra": ", De mi vida y otras vidas, p. 48. X"
-                },
-                {
-                  "texto_cita": "«Unas veces se esconde en los misterios de la religión, otras se refugia en la filosofía ---, y otras, en fin, ese poder se exalta en la poesía a categoría suprema del espíritu.»",
-                  "autor": "Caballero Calderón",
-                  "referencia_obra": ", Brev. Quij. 11 (p. 161)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Henos aquí refugiándonos en las costumbres: no todo ha de ser siempre política; no todo facciosos.»",
+                      "autor": "Larra",
+                      "referencia_obra": ", Artíc. de cost. (Cl. C. 45. 168)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Para dar unidad a la ciencia apelan algunos a la identidad universal; pero esto no es encontrar la unidad, sino refugiarse en el caos.»",
+                      "autor": "Balmes",
+                      "referencia_obra": ", Filosof. fund. (BAC. 37. 48)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pinas siguió yendo al club, discutiendo, refugiándose en su afición por la música.»",
+                      "autor": "Mallea",
+                      "referencia_obra": ", El vínculo, p. 74."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La disciplina ha desaparecido de grandes industrias y gobiernos para refugiarse en unas pocas, si bien poderosas y agresivas, organizaciones obreras.»",
+                      "autor": "Sanín Cano",
+                      "referencia_obra": ", De mi vida y otras vidas, p. 48."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Unas veces se esconde en los misterios de la religión, otras se refugia en la filosofía ---, y otras, en fin, ese poder se exalta en la poesía a categoría suprema del espíritu.»",
+                      "autor": "Caballero Calderón",
+                      "referencia_obra": ", Brev. Quij. 11 (p. 161)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con entre, que especifica el lugar. X",
+              "definicion": "Con entre, que especifica el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Abrí las sábanas y refugióse entre ellas. Entonces comenzó a sollozar, y me senté a la cabecera consolándola. Aparentó dormirse, y me acosté.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de otoño, p. 25."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con tras, en sentido análogo al anterior. X",
+              "definicion": "Con tras, en sentido análogo al anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Marta regresó por ver en qué iban mis cosas. Y cuando el de bigotes entró de nuevo con otro, ella se refugió tras el mostrador.»",
                   "autor": "Mejía Vallejo",
-                  "referencia_obra": ", El día, 2. 15 (p. 129). — Además con un gerundio. X"
-                },
+                  "referencia_obra": ", El día, 2. 15 (p. 129)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Los dos mayores, abandonando a Pascualet, que se refugiaba llorando tras un árbol, agarraban piedras y entablábase una batalla en medio del camino.»",
-                  "autor": "",
-                  "referencia_obra": "Blasco Ibáñez, La barraca, 6 (p. 177)."
+                  "id_limpio": "—",
+                  "definicion": "Además con un gerundio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Los dos mayores, abandonando a Pascualet, que se refugiaba llorando tras un árbol, agarraban piedras y entablábase una batalla en medio del camino.»",
+                      "autor": "",
+                      "referencia_obra": "Blasco Ibáñez, La barraca, 6 (p. 177)."
+                    }
+                  ]
                 }
               ]
             }
@@ -238,44 +377,62 @@
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A un Papa perseguido y refugiado, cuasi mendigo, un peregrino viejo, mendigo del todo, venía a ofrecerle nada menos que la conquista del Oriente.»",
               "autor": "Catalina",
               "referencia_obra": ", Roma, p. 365."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en, que expresa el lugar de resguardo y asilo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Trátase de entregar al rey de Castilla tres súbditos suyos, refugiados en Portugal.»",
                   "autor": "",
-                  "referencia_obra": "M. de la Rosa, Trag. esp. (1. 582). X"
+                  "referencia_obra": "M. de la Rosa, Trag. esp. (1. 582)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«No hay nadie: doy a usted mi palabra de honor, de que no hay nadie refugiado en mi casa.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 5 (p. 575). X"
+                  "referencia_obra": ", Amalia, 5 (p. 575)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y hay que recordar también lo que los labriegos de las cercanías de París, refugiados en la gran ciudad durante el sitio de 1871, hicieron en las casas.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", Riofrío, 6 (p. 69). — met. X"
-                },
+                  "referencia_obra": ", Riofrío, 6 (p. 69)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¿Qué hace ese hombre que se queda solo, | Escondido en la sombra, | Refugiado en la piedra de una lágrima?»",
-                  "autor": "G. Diego",
-                  "referencia_obra": ", Soria sucedida, p. 155. X"
-                },
-                {
-                  "texto_cita": "«En la época de los castillos, desaparecido el Imperio Romano y refugiada en los conventos la ciencia jurídica que habría más tarde de cimentar el derecho en las naciones de occidente, reapareció en Europa el concepto de propiedad como un botín, como presa, como derecho del más fuerte.»",
-                  "autor": "Caballero Calderón",
-                  "referencia_obra": ", Ancha es Castilla, p. 28."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Qué hace ese hombre que se queda solo, | Escondido en la sombra, | Refugiado en la piedra de una lágrima?»",
+                      "autor": "G. Diego",
+                      "referencia_obra": ", Soria sucedida, p. 155."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En la época de los castillos, desaparecido el Imperio Romano y refugiada en los conventos la ciencia jurídica que habría más tarde de cimentar el derecho en las naciones de occidente, reapareció en Europa el concepto de propiedad como un botín, como presa, como derecho del más fuerte.»",
+                      "autor": "Caballero Calderón",
+                      "referencia_obra": ", Ancha es Castilla, p. 28."
+                    }
+                  ]
                 }
               ]
             }
@@ -286,7 +443,7 @@
   ],
   "periodo_anteclasico": "",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Derivado de refugio. Cat. refogiar, fr. réfugier.\n\n\u0000",
+  "etimologia": "Etim. Derivado de <i>refugio. </i>Cat. <i>refogiar, fr. réfugier.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

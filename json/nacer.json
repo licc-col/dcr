@@ -1,229 +1,318 @@
 {
   "lema": "NACER.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, salir a la luz un nuevo ser vivo o parte de éste, a) salir del vientre materno, aplicado a personas y demás animales vivíparos (Propio, apto: ζ ), b) salir del huevo un animal de especie ovípara, c) empezar a salir un vegetal de su semilla o de la tierra, germinar, d) aparecer las flores, frutos o brotes de la planta, e) aparecer en el cuerpo una acrecencia normal o anormal, f) provenir de cierta familia, linaje, clase;\n\n— 2, aparecer, surgir, manifestarse, a) aparecer, brotar una fuente, un río, b) salir, aparecer un astro en el horizonte, c) surgir, manifestarse el viento, d) originar, comenzar algo en un sitio determinado, e) aparecer fenómenos sociales o históricos, f) manifestarse actividades de la mente, sentimientos, emociones;\n\n— 3, derivarse.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, salir a la luz un nuevo ser vivo o parte de éste, a) salir del vientre materno, aplicado a personas y demás animales vivíparos (Propio, apto: ζ ), b) salir del huevo un animal de especie ovípara, c) empezar a salir un vegetal de su semilla o de la tierra, germinar, d) aparecer las flores, frutos o brotes de la planta, e) aparecer en el cuerpo una acrecencia normal o anormal, f) provenir de cierta familia, linaje, clase;\n\n— 2, aparecer, surgir, manifestarse, a) aparecer, brotar una fuente, un río, b) salir, aparecer un astro en el horizonte, c) surgir, manifestarse el viento, d) originar, comenzar algo en un sitio determinado, e) aparecer fenómenos sociales o históricos, f) manifestarse actividades de la mente, sentimientos, emociones;\n\n— 3, derivarse.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "Salir a la luz un nuevo ser vivo o parte de éste.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Salir del vientre materno. Aplicado a personas y demás animales vivíparos (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Bien holgara de poder ilustrar la dignidad de esta ciudad --- y cerca de la cual nací y aprendí las primeras letras.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 9. 18 (1. 4601)."
             },
             {
+              "marca": "",
               "texto_cita": "«No es culpa nacer del ruin, sino imitarle.»",
               "autor": "Quev.",
               "referencia_obra": "M. Bruto (2. 110)."
             },
             {
+              "marca": "",
               "texto_cita": "«Luego en naciendo se han de señalar los maestros y ayos a los hijos, con la atención que suelen los jardineros poner encañados a las plantas.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 1 (R. 25. 101). X"
+              "referencia_obra": "Emp. 1 (R. 25. 101)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Brindo, señores — dijo Salomón —, porque nuestro ilustre Restaurador de las leyes viva toda la vida, para que no muera nunca la Federación, ni la América, y para que... y para que... en fin, señores, viva el ilustre Restaurador de las leyes; su ilustre hija que hoy ha nacido; y mueran los salvajes unitarios y todos los gringos y carcamanes del mundo.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 2 (p. 228). X"
+              "referencia_obra": ", Amalia, 2 (p. 228)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Todos en ti, disputarán haberme visto nacer, mecido en sus brazos, enseñado las primeras palabras, descubierto señales de ingenio.»",
               "autor": "",
               "referencia_obra": "Yáñez, Al filo del agua, p. 133."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La madre dijo que todos los días le pide al Señor que a la Veva le nazca un crío.»",
                   "autor": "Delibes",
-                  "referencia_obra": ", Diario de un cazador, p. 57. — Además con en."
-                },
+                  "referencia_obra": ", Diario de un cazador, p. 57."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Con dos hijos que nacieron al Patriarca José en la tierra de Egipto ya no hacía caso de todos sus trabajos pasados.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Orac. y medit. 1. 2 (2. 622)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Con dos hijos que nacieron al Patriarca José en la tierra de Egipto ya no hacía caso de todos sus trabajos pasados.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Orac. y medit. 1. 2 (2. 622)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con bajo. X",
+              "definicion": "Con bajo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La naturaleza lo educa. Nace [el gaucho] bajo los espectáculos más salvajes de ésta, y crece luchando con ella y aprendiendo de ella.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 4 (p. 404). X"
+                  "referencia_obra": ", Amalia, 4 (p. 404)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Puede decirse que todos los jóvenes de las promociones aquellas nacieron y vivieron bajo el signo de esa inquietud.»",
                   "autor": "Marañón",
                   "referencia_obra": ", Tiempo viejo, p. 80."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y pues que los dos se unieron, | Con sucesos tan prolijos, | Como los padres, los hijos | Con una estrella nacieron.»",
                   "autor": "Rojas",
-                  "referencia_obra": ", Del rey abajo ninguno (Cl. Castal. 38. 110). X"
+                  "referencia_obra": ", Del rey abajo ninguno (Cl. Castal. 38. 110)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mona parecía tener la edad de Holanda, su juventud tenía algo del gris definitivo y mortal de las cosas eternas, y parecía ella llegar desde el fondo del tiempo, haber nacido con el origen de esta agua, de este aire, de este olor fino y salobre en que se envolvía el atardecer.»",
                   "autor": "Mallea",
-                  "referencia_obra": ", Los Rembrandts, p. 127. X"
+                  "referencia_obra": ", Los Rembrandts, p. 127."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Me hizo gracia el disparate y le dije que se fijara en mi director. Preguntó quién era mi director y se lo dije. ¡Si parece que ha nacido con la toga puesta!»",
                   "autor": "Delibes",
                   "referencia_obra": ", Diario de un cazador, p. 45."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«De una madre nacimos | Los que esta común aura respiramos.»",
                   "autor": "Quev.",
                   "referencia_obra": "Musa 2, Elogio al Duque de Lerma (7. 48)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«De ti nací, por culpa tuya vivo.»",
                   "autor": "Alarcón",
-                  "referencia_obra": ", El Anticristo, 1 (R. 20. 3602). X"
+                  "referencia_obra": ", El Anticristo, 1 (R. 20. 3602)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Nací de padres pobres; fui criado | En una honesta medianía, sujeto | A la disposición del veloz Hado.»",
                   "autor": "Cueva",
-                  "referencia_obra": ", Los Siete Infantes de Lara (Cl. C. 60. 83). X"
+                  "referencia_obra": ", Los Siete Infantes de Lara (Cl. C. 60. 83)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Hace una ponchada de años, dicen que una mujer, conocida en los pagos por su mala vida y sus brujerías, entró en tratos con el diablo, y de estos tratos nació un hijo.»",
                   "autor": "Güiraldes",
                   "referencia_obra": ", Don Segundo Sombra, 12 (p. 75)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con en, que señala: — el lugar. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«La dama es su sobrina, la señora Isabel Castrucho, que nació en España, donde deja enterrado a su padre, por cuya muerte su tío la lleva a casar a Capua, y a lo que yo creo, no muy contenta.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Pers. 3. 19 (Cl. Castal. 12. 399). X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La dama es su sobrina, la señora Isabel Castrucho, que nació en España, donde deja enterrado a su padre, por cuya muerte su tío la lleva a casar a Capua, y a lo que yo creo, no muy contenta.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Pers. 3. 19 (Cl. Castal. 12. 399)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Nací | En Castilla, crieme aquí, | Y después por un deseo | De mi padre, me volvió | A los aires castellanos.»",
+                      "autor": "Tirso",
+                      "referencia_obra": ", Averígüelo Vargas, 2 (Cl. C. 131. 203)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Doña Isabel nació en Madrigal.»",
+                      "autor": "Clem.",
+                      "referencia_obra": "Elog. de Is. la Cat. (Mem. Acad. Hist. 6. 1)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Miguel de Cervantes Saavedra nació en Alcalá de Henares.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Cerv. (R. 19. 871)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Has nacido en la estancia de mi padre y te has criado a mi lado con todas las comodidades posibles. Yo creo que nunca te he dado que sentir.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 1 (p. 44)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cristo nació en un rincón del Asia, un día como los demás.»",
+                      "autor": "Marañón",
+                      "referencia_obra": ", Tiempo viejo, p. 47."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Nací | En Castilla, crieme aquí, | Y después por un deseo | De mi padre, me volvió | A los aires castellanos.»",
-                  "autor": "Tirso",
-                  "referencia_obra": ", Averígüelo Vargas, 2 (Cl. C. 131. 203)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ninguno lo es más que tú. ¿Qué importa que nacieras tú en la mayor miseria y yo en cuna más delicada?»",
+                      "autor": "Cadalso",
+                      "referencia_obra": ", Noches lúgubres (Cl. C. 152. 64)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El hijo nace siempre en protesta contra el padre.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Del sen. trág. de la vida, 6 (p. 94)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Doña Isabel nació en Madrigal.»",
-                  "autor": "Clem.",
-                  "referencia_obra": "Elog. de Is. la Cat. (Mem. Acad. Hist. 6. 1)."
-                },
-                {
-                  "texto_cita": "«Miguel de Cervantes Saavedra nació en Alcalá de Henares.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Cerv. (R. 19. 871). X"
-                },
-                {
-                  "texto_cita": "«Has nacido en la estancia de mi padre y te has criado a mi lado con todas las comodidades posibles. Yo creo que nunca te he dado que sentir.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 1 (p. 44). X"
-                },
-                {
-                  "texto_cita": "«Cristo nació en un rincón del Asia, un día como los demás.»",
-                  "autor": "Marañón",
-                  "referencia_obra": ", Tiempo viejo, p. 47. — El modo. X"
-                },
-                {
-                  "texto_cita": "«Ninguno lo es más que tú. ¿Qué importa que nacieras tú en la mayor miseria y yo en cuna más delicada?»",
-                  "autor": "Cadalso",
-                  "referencia_obra": ", Noches lúgubres (Cl. C. 152. 64). X"
-                },
-                {
-                  "texto_cita": "«El hijo nace siempre en protesta contra el padre.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Del sen. trág. de la vida, 6 (p. 94). — El tiempo. X"
-                },
-                {
-                  "texto_cita": "«Por eso dijo el sumo pontífice Adriano VI que el hombre para ser dichoso debe nacer en buen tiempo.»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 1 (p. 257). X"
-                },
-                {
-                  "texto_cita": "«La denominación zea maíz en la botánica se presenta seguida de la letra L, que corresponde a las que incluyó Linneo en su sistema; Linneo murió en 1778; entonces tenía Zea ocho años, pues había nacido en 1770.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 2 (p. 110)."
+                  "id_limpio": "—",
+                  "definicion": "El tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Por eso dijo el sumo pontífice Adriano VI que el hombre para ser dichoso debe nacer en buen tiempo.»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños, 1 (p. 257)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La denominación zea maíz en la botánica se presenta seguida de la letra L, que corresponde a las que incluyó Linneo en su sistema; Linneo murió en 1778; entonces tenía Zea ocho años, pues había nacido en 1770.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 2 (p. 110)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con entre. X",
+              "definicion": "Con entre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y entre ese jardín de pájaros y flores, de luz y de perspectivas nació Amalia, la generosa viuda de Barracas.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 2 (p. 144)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Con un gerundio que expresa el modo. X",
+              "definicion": "Con un gerundio que expresa el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nací amándote, villano, | Pues me han dicho más de tres | Que antes que aprendiese a hablar | Aprendí a quererte bien.»",
                   "autor": "Tirso",
                   "referencia_obra": ", Averígüelo Vargas, 1 (Cl. C. 131. 163)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— θ θ )",
               "id_limpio": "— θ θ )",
               "definicion": "Con un predicado referido al sujeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Si tan malo nací, si tan nocivo | Genio asistió a mi concepción primera, | A ti te culpa, culpa al hado esquivo | Que me informó de condición tan fiera.»",
                   "autor": "Alarcón",
-                  "referencia_obra": ", El Anticristo, 1 (R. 20. 3602). — Además con de. X"
-                },
+                  "referencia_obra": ", El Anticristo, 1 (R. 20. 3602)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Virgen nací de mi madre, | Y entre las blancas ovejas | He vivido, prefiriendo | Los sitios donde la hierba | Crece más verde y robusta | Porque hay agua que la riega.»",
-                  "autor": "Maya",
-                  "referencia_obra": ", Obra poét. 3 (p. 168)."
+                  "id_limpio": "—",
+                  "definicion": "Además con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Virgen nací de mi madre, | Y entre las blancas ovejas | He vivido, prefiriendo | Los sitios donde la hierba | Crece más verde y robusta | Porque hay agua que la riega.»",
+                      "autor": "Maya",
+                      "referencia_obra": ", Obra poét. 3 (p. 168)."
+                    }
+                  ]
                 }
               ]
             }
@@ -233,146 +322,179 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. Con sentido deponente. Con en, para indicar tiempo o lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Fue pues nacida [Teresa de Jesús] en Ávila.»",
               "autor": "Yepes",
-              "referencia_obra": ", Vida de Sta. Ter. 1. 2 (Míst. 1. 6). X"
+              "referencia_obra": ", Vida de Sta. Ter. 1. 2 (Míst. 1. 6)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Señora supputante, la que fue nacida del año moquero, en el mes gatuno.»",
               "autor": "",
-              "referencia_obra": "Píc. Just. p. 57. X"
+              "referencia_obra": "Píc. Just. p. 57."
             },
             {
+              "marca": "X",
               "texto_cita": "«De Aquél que en un establo fue nacido, | De un artesano en el taller criado, | De los grandes del mundo perseguido, | Y al fin cual un ladrón crucificado.»",
               "autor": "J. E. Caro",
               "referencia_obra": ", Poes. complet. p. 213."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con bajo. X",
+          "definicion": "Part. Con bajo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Parecéis uno y otro nacidos bajo la mesma constelación.»",
               "autor": "Larreta",
               "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 155)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Vástago de una raza nacida | De las cenizas del mundo, y del cadáver | De todos los dioses sacrificados por el hombre.»",
                   "autor": "Maya",
-                  "referencia_obra": ", Obra poét. 2 (p. 151). X"
+                  "referencia_obra": ", Obra poét. 2 (p. 151)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«No soy hija de la alcoba impura, | Nacida de los gritos conyugales, | Sino raza del sol, una criatura | Hermana de los verdes vegetales.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 3 (p. 179)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y sépase usted, querido, que perdí la chaveta, y anduve en mula chúcara y con estribos largos por una muchacha nacida en la tierra donde al diablo le quitaron el poncho.»",
                   "autor": "Palma",
-                  "referencia_obra": ", Trad. peruanas, p. 416. X"
+                  "referencia_obra": ", Trad. peruanas, p. 416."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El orgullo de doña Beatriz, su decoro aristocrático, que le tenía, aunque nacida en pobres pañales, --- repugnaban todo recurso que pudiera mancillar.»",
                   "autor": "Valera",
-                  "referencia_obra": ", Pasarse de listo, 4. 5 (p. 53). X"
+                  "referencia_obra": ", Pasarse de listo, 4. 5 (p. 53)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Entre los tripulantes va un artillero, un experto en fundir metales, otro que dice saber acuñar monedas y un judío nacido en Curaçao que dice hablar español, portugués, italiano, francés, holandés, inglés y las lenguas de los indios de la costa del Darién.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 2. 13 (p. 253)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Sustantivado. X",
+          "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si del nacer al morir | Ay vn passo solamente, | Brebe como independiente, | Pues se passa sin sentir; | Si en comenzando a vivir | Tienes de mortal el nombre, | Hombre, bien es que me asombre, | De ver lo que en ti se ve, | Pues he conocido que | Brebe es la vida del ombre.»",
               "autor": "Solís",
-              "referencia_obra": "y Valenzuela, El desierto prodigioso, 1 (ICC. 45. 75). X"
+              "referencia_obra": "y Valenzuela, El desierto prodigioso, 1 (ICC. 45. 75)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El primer llanto del hombre al nacer es cuando, entrándole el aire en el pecho y limitándole, parece como que le dice: ¡tienes que respirarme para poder vivir!»",
               "autor": "Unamuno",
               "referencia_obra": ", Del sen. trág. de la vida, 9 (p. 169)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Dícese de todos los seres humanos que han existido. Part. X",
+          "definicion": "Dícese de todos los seres humanos que han existido. Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pues oírme hablar, no digo nada: que agora este duelo de la cara me afea, y por maravilla venían a ver mis dientes, que creo que mujer nacida tales los tuvo.»",
               "autor": "Delicado",
               "referencia_obra": ", La Lozana (Cl. Castal. 13. 53)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No entre las nacidos uno que le aventaje.»",
                   "autor": "Bretón",
-                  "referencia_obra": "(Pagés, Dicc.). X"
+                  "referencia_obra": "(Pagés, Dicc.)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Amigo de ir contra la corriente, y de sacar a la luz paradojas extrañas que asombraran a los nacidos.»",
                   "autor": "Menéndez y Pelayo",
-                  "referencia_obra": "(Pagés, Dicc.). X"
+                  "referencia_obra": "(Pagés, Dicc.)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Visto a la luz de la solidaridad específica, dijérase que el género humano ha librado desde sus comienzos una inacabable batalla de cuyo episodio postrero habrá de ser actor el último de los nacidos.»",
                   "autor": "Valencia",
                   "referencia_obra": ", Discursos, 1 (p. 113)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Forma la expresión recién nacido.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Llevábanse a los templos con solemnidad los niños recién nacidos.»",
                   "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 3. 17 (R. 28. 2932). X"
+                  "referencia_obra": ", Conq. de Méj. 3. 17 (R. 28. 2932)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Su hermanito recién nacido era en proporción tan fuerte como su padre, porque era hombre también.»",
                   "autor": "Delibes",
                   "referencia_obra": ", Diario de un cazador, p. 53."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -380,25 +502,31 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Propio, apto. Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Aquí sí que entraba como nacido aquello de los libros de los pastores.»",
               "autor": "Lope",
               "referencia_obra": ", Dorotea, 5. 9 (Obr. suelt. 7. 437)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Esto es de Tulio. Para el propósito ninguna cosa más propia ni más nacida.»",
                   "autor": "Sig.",
                   "referencia_obra": "Vida de Jer. 4. 9 (p. 339)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -407,31 +535,39 @@
     {
       "id": "b)",
       "definicion": "Salir del huevo un animal de especie ovípara (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y las aves y los peces por la mayor parte nacen de huevos.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 3, intr. (3. 278)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con un gerundio que expresa el modo. X",
+              "definicion": "Con un gerundio que expresa el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Le estuve contando que a veces los segadores encuentran un nido con huevos y al día siguiente no queda más que el cascarón. Me preguntó si es que nacían corriendo y le respondí que algo parecido a eso.»",
                   "autor": "Delibes",
                   "referencia_obra": ", Diario de un cazador, p. 67."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -440,67 +576,83 @@
     {
       "id": "c)",
       "definicion": "Salir un vegetal de su semilla o de la tierra, germinar (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con la prep. con. X",
+          "definicion": "Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Quisiera adivinar bajo qué cielo, | Bajo qué brisas fue creciendo lento, | El árbol que nació con el destino | De ser tan puro y diminuto lecho.»",
               "autor": "Ibarbourou",
               "referencia_obra": ", Antol. poét. p. 315."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Cómo de un grano de trigo nace yerba verde, y ni el grano es verde, ni la tierra, ni el agua?»",
                   "autor": "Ávila",
                   "referencia_obra": ", Eucar. 3 (3. 103)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Cuando de una simiente nace un árbol, la simiente deja de ser y el árbol recibe nuevo ser.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Orac. y medit. 3. 2 (2. 3351). X"
+                  "referencia_obra": "Orac. y medit. 3. 2 (2. 3351)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y tampoco la roqueta, la gran ermita ermitaña que es Mallorca, tiene sino huesos, huesos de roca, atezada piel y frondosa cabellera de árboles, olivos, almendros, higueras, algarrobos, pinos, encinas... nacen de la roca.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Andanzas y visiones esp. p. 131."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Del castizo caballo descuidado | El hambre y apetito satisface | La verde hierba que en el campo nace, | El freno duro del arzón colgado.»",
                   "autor": "Tirso",
                   "referencia_obra": ", Poes. (Cl. Castal. 17. 125)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. Con en. X",
+          "definicion": "Part. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Yo, Tallo de Hierba, | Nacido en esta soledad estéril | Y en medio de estas piedras | Donde tuesta la luz líquenes grises, | Levantando mi querella, | Entre este coro de discordia, a nombre | De la naturaleza.»",
               "autor": "Maya",
               "referencia_obra": ", Obra poét. 3 (p. 209)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -508,32 +660,48 @@
     {
       "id": "d)",
       "definicion": "Aparecer las flores, frutos o brotes de la planta (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Las secas flores, las que nacen nuevas, | Todo con luto triste, | Llora el verme quedar, y que te fuiste.»",
               "autor": "Valb.",
               "referencia_obra": "Siglo de oro, 10 (p. 210)."
             },
             {
+              "marca": "",
               "texto_cita": "«Como las hojas | De los árboles nacen y perecen, | Así pasan del hombre las edades.»",
               "autor": "",
-              "referencia_obra": "Hermosilla, Iliada. 6 (1. 178). X"
+              "referencia_obra": "Hermosilla, Iliada. 6 (1. 178)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Viejo ciprés en el solar aún medra | Dando asilo a los pájaros cantores. | Junto al alto brocal nacen las flores | Y hay una cruz que a la tormenta arredra.»",
               "autor": "Maya",
-              "referencia_obra": ", Obra poét. 1 (p. 23). — met. Con en. X"
-            },
+              "referencia_obra": ", Obra poét. 1 (p. 23)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«En la raíz del querer | Nació mi madre gitana, | Y yo, como soy su hijo, | Vengo de la misma rama.»",
-              "autor": "Ferrán",
-              "referencia_obra": ", Obr. complet. (Cl. C. 164. 36)."
+              "id_limpio": "—",
+              "definicion": "met. Con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«En la raíz del querer | Nació mi madre gitana, | Y yo, como soy su hijo, | Vengo de la misma rama.»",
+                  "autor": "Ferrán",
+                  "referencia_obra": ", Obr. complet. (Cl. C. 164. 36)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -541,86 +709,114 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, que indica el destino.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Del Turia y Betis el fecundo suelo, | Donde a nunca morir nacen las flores, | Ni pone grillos a la fuente el hielo, | Imagen del Edén, mansión de amores.»",
                   "autor": "Gallego",
                   "referencia_obra": ", Poes. var. (R. 67. 4241)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Es verdad, y no me asombra | Ser nuestra vida una flor | Que nace con el albor | Y fallece con la sombra.»",
                   "autor": "Cald.",
                   "referencia_obra": "Autos, 2 (Cl. C. 74. 51)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Del árbol nace la fruta.»",
                   "autor": "León",
-                  "referencia_obra": ", Expos. de Job, 2. 34 (2. 185). X"
+                  "referencia_obra": ", Expos. de Job, 2. 34 (2. 185)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Es también comparado el consejo que da vn necio a flor que nace de abrojos, al sol del inuierno, a la comida quitada de la boca del león.»",
                   "autor": "",
                   "referencia_obra": "Píc. Just. p. 73."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y en los montes no todas son encinas, | Que aquí brota un jazmín, allí una rosa: | Pero son influencias peregrinas, | Milagros y portentos de natura | Nacer de retamas clavellinas.»",
                   "autor": "Valb.",
                   "referencia_obra": "Siglo de oro, 4 (p. 47)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No pocas veces nacieron improvisas flores en las partes más estériles que pisaron las plantas de mi querida.»",
                   "autor": "Figueroa",
                   "referencia_obra": ", Amarilis, 1 (p. 32)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Rosa que nace en el jardín cercado, --- | Crece allí con lozano señorío | Del pie rústico libre y del arado.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Poes. p. 51. X"
+                  "referencia_obra": "Poes. p. 51."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Nací en las fauces | De horno metálico, | Soy la geométrica | Futura flor.»",
                   "autor": "Maya",
-                  "referencia_obra": ", Obra poét. 3 (p. 203). — met. X"
-                },
+                  "referencia_obra": ", Obra poét. 3 (p. 203)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¡Cuántos años | Has estado fingiendo, tú, la oculta, | Ser la aparente hija | Del mundo, de tus padres, de la tierra | En donde nació el tallo de tu voz!»",
-                  "autor": "Salinas",
-                  "referencia_obra": ", Razón (Cl. Castal. 2. 151)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡Cuántos años | Has estado fingiendo, tú, la oculta, | Ser la aparente hija | Del mundo, de tus padres, de la tierra | En donde nació el tallo de tu voz!»",
+                      "autor": "Salinas",
+                      "referencia_obra": ", Razón (Cl. Castal. 2. 151)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con entre. X",
+              "definicion": "Con entre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Entre las hierbas alguna humilde flor ha nacido, | Azul o blanca. ¡Belleza del campo apenas florido, | Y mística primavera!»",
                   "autor": "Machado",
                   "referencia_obra": ", Poes. complet. p. 26."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -629,32 +825,48 @@
     {
       "id": "e)",
       "definicion": "Aparecer en el cuerpo una acrecencia normal o anormal (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con dat. X",
+          "definicion": "Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En aquella visión de Ezequiel, de los cuatro animales alados, volaba el águila sobre ellos, aunque era uno de los cuatro; porque, habiéndole nacido las alas desde el principio, y a los demás después, a ellos y a sí misma se excedía.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 2 (Cl. C. 76. 20). X"
+              "referencia_obra": "Emp. 2 (Cl. C. 76. 20)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Me parece que cuando a mí me nazca otra pierna, entonces el rey de España les verá la punta del pelo a los cinco millones de pesos.»",
               "autor": "P. Galdós",
-              "referencia_obra": ", Trafalgar, 4 (p. 40). — Además con en."
-            },
+              "referencia_obra": ", Trafalgar, 4 (p. 40)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Le nació [el cáncer] en una pierna.»",
-              "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 11. 20 (1. 5611). X"
-            },
-            {
-              "texto_cita": "«Y murmura al verme la gente que pasa: | —¿No veis que está loca? Tornadla a su casa. | ¡Dice que en las manos le han nacido rosas | Y las va agitando como mariposas!»",
-              "autor": "Ibarbourou",
-              "referencia_obra": ", Antol. poét. p. 30."
+              "id_limpio": "—",
+              "definicion": "Además con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Le nació [el cáncer] en una pierna.»",
+                  "autor": "Mariana",
+                  "referencia_obra": ", Hist. Esp. 11. 20 (1. 5611)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Y murmura al verme la gente que pasa: | —¿No veis que está loca? Tornadla a su casa. | ¡Dice que en las manos le han nacido rosas | Y las va agitando como mariposas!»",
+                  "autor": "Ibarbourou",
+                  "referencia_obra": ", Antol. poét. p. 30."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -664,31 +876,39 @@
     {
       "id": "f)",
       "definicion": "Provenir de cierta familia, linaje, clase (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Nací de sangre noble y valerosa.»",
               "autor": "Rojas",
               "referencia_obra": ", Donde hay agravios no hay celos, 1 (R. 54. 1521)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con un predicado que indica el linaje o clase.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El que fue ayer gigante hoy es enano, | Y muere rey el que nació villano.»",
                   "autor": "Valb.",
                   "referencia_obra": "Bern. 15 (R. 17. 3031)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -696,41 +916,50 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Fue natural de Toledo, nacido de noble linaje.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 6. 10 (1. 2751)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Forma la expresión Bien nacido: de noble linaje. X",
+          "definicion": "Forma la expresión Bien nacido: de noble linaje.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Porque no es así como quiera el oficio de alcahuete, que es oficio de discretos, y necesarísimo en la república bien ordenada y que no le debía ejercer sino gente muy bien nacida.»",
               "autor": "Cerv.",
-              "referencia_obra": "(Pagés, Dicc.). X"
+              "referencia_obra": "(Pagés, Dicc.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si es rica, y no es bien nacida, | Le doy con el refrancillo: | \"Dineros son calidad\".»",
               "autor": "Rojas",
-              "referencia_obra": ", Lo que son mujeres, 1 (R. 54. 1922). X"
+              "referencia_obra": ", Lo que son mujeres, 1 (R. 54. 1922)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Algunos años después, a pesar de la falta de todo estudio hallábanse en disposición de poder pasar por persona bien nacida.»",
               "autor": "Pagés",
-              "referencia_obra": ", Dicc.). X"
+              "referencia_obra": ", Dicc.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Irá usted viendo, hijo mío, cuán cierto es aquello de que no puede existir moral sin Dios; y de que, en el hombre mejor nacido, más delicado y caballero, el mismo sentimiento de la honra puede trocarse a cada triquitraque en el juguete de la sensualidad.»",
               "autor": "Larreta",
               "referencia_obra": ", Zogoibi, p. 255."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -738,103 +967,127 @@
     {
       "id": "2",
       "definicion": "Aparecer, surgir, manifestarse.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Aparecer, brotar una fuente, un río (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La [fuente] que llaman de la Magdalena, que nace debajo una peña, cerca de la Parroquia de este nombre, suele a veces arrojar tanta agua como el cuerpo de un buey.»",
               "autor": "Ponz",
-              "referencia_obra": ", Viaje de Esp. 4. 16 (p. 201). X"
+              "referencia_obra": ", Viaje de Esp. 4. 16 (p. 201)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Don Francisco Restrepo Escobar, --- estudió la comarca donde nacen el riachuelo de San Francisco de un lado y el río Blanco del otro.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 2 (p. 204). X"
+              "referencia_obra": ", Sueños, 2 (p. 204)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La estrella de la mañana | En el alto azul ardía. | Se iba tiñendo de rosa | La espesa y blanca neblina | De los valles y barrancos, | Y algunas nubes plomizas | A Urbión, donde el Duero nace, | Como un turbante ponían.»",
               "autor": "Machado",
-              "referencia_obra": ", Poes. complet. p. 130. X"
+              "referencia_obra": ", Poes. complet. p. 130."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Cuál? No sé. ¿La serranía | De Burgos? ¿El Pirineo? | ¿Urbión donde el Duero nace?»",
               "autor": "",
               "referencia_obra": "Id. ib. p. 234."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Nace la fuente de la cuesta que tiene la casa a las espaldas.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 1. 1 (3. 8)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Nace este río de los montes en que está Santo Domingo de la Calzada.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 9. 4 (1. 4241)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mira cuál nacen de unas mismas fuentes | El Eufrates y Araxes sonoroso, | Que por despeñaderos diferentes | El mar buscan en curso impetüoso.»",
                   "autor": "Valb.",
-                  "referencia_obra": "Bern. 14 (R. 17. 2912). X"
+                  "referencia_obra": "Bern. 14 (R. 17. 2912)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«De la parte del Mediodía, por medio de las cumbres de esas prominencias, se precipitan dos torrentes o gargantas de agua, que nacen de manantiales perennes.»",
                   "autor": "Azorín",
                   "referencia_obra": ", Riofrío, 8 (p. 117)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Nace el río Jordán en el monte Líbano.»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Eucar. 22 (4. 334). X"
+                  "referencia_obra": ", Eucar. 22 (4. 334)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Los majuelos del Herrador, de Albillo y del Espino han sido descepados; la fuente nace en una hondonada; una delgada hebra de agua surte de un largo caño de hierro, clavado en una losa, y va a rebalsarse en dos hondos charcazos.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", Trasuntos de Esp. p. 40. X"
+                  "referencia_obra": ", Trasuntos de Esp. p. 40."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo soy el agua azul de la montaña, | Nací en un hueco del breñal salvaje | Y no llevo ni espumas de coraje | Ni al caminante mi cristal engaña.»",
                   "autor": "Maya",
                   "referencia_obra": ", Obra poét. 1 (p. 16)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. Con a. X",
+          "definicion": "Part. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Quiero abrir la pétrea cárcel de tus fuentes agotadas —fuentes nacidas al pie de las colinas lejanas—.»",
               "autor": "Maya",
               "referencia_obra": ", Obra poét. 1 (p. 67)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -842,39 +1095,57 @@
     {
       "id": "b)",
       "definicion": "Salir, aparecer un astro en el horizonte (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Alegre el sol le nace; | De noche el firmamento | Consigo le enajena | En pos de sus luceros.»",
               "autor": "Mel.",
               "referencia_obra": "Poes. oda, 60 (R. 63. 1093)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, que señala el lugar. X",
+              "definicion": "Con en, que señala el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Dos soles nascerán en mis riberas | Mostrando tanta luz como el del cielo; | Habrá en un año muchas primaveras, | Dando atavío hermoso al fértil suelo.»",
                   "autor": "Gil Polo",
-                  "referencia_obra": ", Diana (Cl. C. 135. 166). X"
+                  "referencia_obra": ", Diana (Cl. C. 135. 166)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La estrella nace en el azul sereno, | Y ya toda la tarde es un aprisco | Donde florece la humildad del heno.»",
                   "autor": "Maya",
-                  "referencia_obra": ", Obra poét. 1 (p. 42). — Además con para. X"
-                },
+                  "referencia_obra": ", Obra poét. 1 (p. 42)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Ya Comienza la santa | Vigilia de las cosas, | Ya se vuelve más honda | El agua azul de los estanques viejos, | ¡Ya se presiente la divina estrella | Que nace para todos en el cielo!»",
-                  "autor": "Maya",
-                  "referencia_obra": ", Obra poét. p.46."
+                  "id_limpio": "—",
+                  "definicion": "Además con para.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ya Comienza la santa | Vigilia de las cosas, | Ya se vuelve más honda | El agua azul de los estanques viejos, | ¡Ya se presiente la divina estrella | Que nace para todos en el cielo!»",
+                      "autor": "Maya",
+                      "referencia_obra": ", Obra poét. p.46."
+                    }
+                  ]
                 }
               ]
             }
@@ -883,27 +1154,33 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La fuerza que los había conducido no podía colidir porque venía animada del mismo espíritu creador, y ese choque devolvería al caos las constelaciones nacidas y las que estaban por aparecer.»",
               "autor": "Valencia",
               "referencia_obra": ", Discursos, 1 (p. 91)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Forma la expresión nacer el día: amanecer.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los nuestros al nacer del día, partiendo la presa, en que había ochocientos captivos y mucha ropa, las bestias y ellos cargados, tomaron el camino de Orgiba.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Gran. 2 (R. 21. 862)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -911,32 +1188,40 @@
     {
       "id": "c)",
       "definicion": "Surgir, manifestarse el viento (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con la expresión adv. debajo de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El ábrego que viene del mediodía, no siempre nace debajo de la zona tórrida.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 2. 37 (2. 247)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con un predicado referido al sujeto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Otros, al contrario, son como los vientos, que nacen furiosos y mueren blandamente.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 30 (R. 25. 801)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -944,44 +1229,63 @@
     {
       "id": "d)",
       "definicion": "Originar, comenzar algo en un sitio determinado (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con de. X",
+          "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Tendí los ojos, codicioso de ver algún camino por buscar compañía, y veo, cosa digna de admiración, dos sendas que nacían de un mismo lugar, y una se iba apartando de la otra, como que huyesen de acompañarse.»",
               "autor": "Quev.",
-              "referencia_obra": "Sueños, 1 (Cl. C. 31. 96). X"
+              "referencia_obra": "Sueños, 1 (Cl. C. 31. 96)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Suele discutirse si la Reforma nació como dije del Renacimiento o en protesta a éste, y cabe decir que las dos cosas.»",
               "autor": "Unamuno",
-              "referencia_obra": ", Del sen. trág. de la vida, 6 (p. 94). X"
+              "referencia_obra": ", Del sen. trág. de la vida, 6 (p. 94)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Toda esta crónica nace de una minúscula ciudad, donde hay sólo unos centenares de blancos, y más negros, y millones de vacas, puercos y gallinas.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 3. 14 (p. 269)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y toda la ciudad nacía en el pequeño golfo estrecho e irregular de Ij, en el Zuiderzee, punto desde donde se arrastraba, desde donde comenzaba a aprisionarse, la curva serpiente del Amstel.»",
                   "autor": "Mallea",
-                  "referencia_obra": ", Los Rembrandts, p. 96. — Además con la prep. con. X"
-                },
+                  "referencia_obra": ", Los Rembrandts, p. 96."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Bien creo aya también algunos otros vocablos tan propios castellanos que, sin tener origen de ninguna otra lengua, con el tiempo an nacido en la provincia.»",
-                  "autor": "Valdés",
-                  "referencia_obra": ", Diál. (Cl. C. 86. 37)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Bien creo aya también algunos otros vocablos tan propios castellanos que, sin tener origen de ninguna otra lengua, con el tiempo an nacido en la provincia.»",
+                      "autor": "Valdés",
+                      "referencia_obra": ", Diál. (Cl. C. 86. 37)."
+                    }
+                  ]
                 }
               ]
             }
@@ -990,14 +1294,17 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. Con en. X",
+          "definicion": "Part. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Nacida en el extranjero con Buckle, Tiknor, Draper, Macaulay, Hume, G. Le Bon, etc., sostenida entre nosotros por intelectuales de prestigio (Sanz del Río, Revilla, Pi y Margall, José del Perojo, etc.), esta hipótesis forma casi parte del ideario de nuestra democracia.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Tónicos de la voluntad, 10 (p. 196)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1005,61 +1312,76 @@
     {
       "id": "e)",
       "definicion": "Aparecer fenómenos sociales o históricos (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Las victorias de Scipión Africano nacieron de los consejos de Cayo Lelio.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 55 (R. 25. 1481). X"
+              "referencia_obra": "Emp. 55 (R. 25. 1481)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Todo debía contribuir a llenar el cuadro de la tiranía de Rosas, que no debió quedar incompleto, como no lo queda ninguna de las perspectivas históricas, que nacen sin esfuerzo de situaciones dadas y francas en la vida de las sociedades.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 5 (p. 544)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. Con bajo. X",
+          "definicion": "Part. Con bajo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«De una parte, el sistema de gobierno republicano que la revolución improvisaba, debía resentir los hábitos monárquicos de una sociedad nacida y educada bajo la monarquía absoluta.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 4 (p. 409)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pensando de esta suerte, claro es que me parece una frivolidad juzgar el catalanismo y el bizcaitarrismo como movimientos artificiosos nacidos del capricho privado de unos cuantos.»",
                   "autor": "Ortega y Gasset",
                   "referencia_obra": ", Esp. invertebr. p. 46."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El Señor Cura se rindió al clamor general nacido en la clausura de casas y conciencias; hubo de rendirse a la propia evidencia, y relevó a Gabriel.»",
                   "autor": "",
                   "referencia_obra": "Yáñez, Al filo del agua, p. 213."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1068,184 +1390,227 @@
     {
       "id": "f)",
       "definicion": "Manifestarse actividades de la mente, sentimientos, emociones (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Que nacen los celos cuando | Nacen las desconfianzas.»",
               "autor": "Alarcón",
               "referencia_obra": ", La culpa busca la pena, 1. 1 (R. 20. 1952)."
             },
             {
+              "marca": "",
               "texto_cita": "«Nació [la elocuencia] antes que la retórica.»",
               "autor": "Capm.",
-              "referencia_obra": "Filosof. eloc. introd. (p. 3). X"
+              "referencia_obra": "Filosof. eloc. introd. (p. 3)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuando fija en alguien la vista, es tan clara, franca y pura la dulce luz de su mirada, que en vez de hacer nacer ninguna mala idea, parece que crea pensamientos limpios.»",
               "autor": "Valera",
               "referencia_obra": ", Pepita Jiménez, p. 69."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la expresión en lugar de. X",
+              "definicion": "Con la expresión en lugar de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Vio a mi señora, y su vista despertó el agravio que a su parecer se le había hecho, y fue de suerte que en lugar del amor nació la ira, y de la ira el deseo de hacer pesar a mi señora.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 3. 16 (Cl. Castal. 12. 385)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nacen con nosotros los afectos, y la razón llega después de muchos años, cuando ya los halla apoderados de la voluntad, que los reconoce por señores, llevada de una falsa apariencia del bien.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 7 (Cl. C. 76. 68). X"
+                  "referencia_obra": "Emp. 7 (Cl. C. 76. 68)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Hay términos que convienen tanto a las cosas, y que son tan propios para el pensamiento, que nacen con él.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", Riofrío, 4 (p. 49). X"
+                  "referencia_obra": ", Riofrío, 4 (p. 49)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En el siglo XI la literatura puede dividirse en dos corrientes: la que se había conservado y transmitido en Occidente, derivada de la antigua, y la que nace con los trovadores.»",
                   "autor": "Valencia",
                   "referencia_obra": ", Discursos, 2 (p. 112)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Las victorias de Scipión Africano nacieron de los consejos de Cayo Lelio.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 55 (R. 25. 1481)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La elocuencia sublime debe nacer siempre de la pasión o emoción ardiente.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Plan de instr. públ. (4. 290)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero toda mi industria y toda mi solicitud fue y ha sido de ningún provecho, pues mi amo vino en conocimiento de que yo no era varón, y nació en él el mesmo mal pensamiento que en mi criado.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 28 (Cl. C. 8. 75)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Nació poco a poco en mi pecho --- un no conocido afecto.»",
                   "autor": "Figueroa",
-                  "referencia_obra": ", Amarilis, 2 (p. 143). X"
+                  "referencia_obra": ", Amarilis, 2 (p. 143)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Dice Apolo que el pedantismo nació en los que debieran desterrarle, esto es, entre los humanistas; y por lo mismo castiga severísimamente a los que caen en él.»",
                   "autor": "Forner",
-                  "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 92). X"
+                  "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 92)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Conviene que igualemos las cargas; porque si tú llevas cuatro y yo cinco, nacerá alguna sospecha en el amo.»",
                   "autor": "Palma",
-                  "referencia_obra": ", Trad. peruanas, p. 9. X"
+                  "referencia_obra": ", Trad. peruanas, p. 9."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Homero empujó sus pueblos a la inmortalidad. Era él todo un señor capitán. La poesía nace en sus rapsodias.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 1. 1 (p. 16)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con para. X",
+              "definicion": "Con para.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En esa oportunidad nacieron para mí una serie de terrores. Me fui levantando poco a poco del lecho de la angustia —dijo \"del lecho de la angustia\" exactamente, mirando la calle— mientras mi hermano pequeño mejoraba.»",
                   "autor": "Mallea",
                   "referencia_obra": ", Los Rembrandts, p. 132."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Hemos visto nacer el drama por diálogos pastoriles y composiciones devotas.»",
                   "autor": "M. de la Rosa",
                   "referencia_obra": ", Com. esp. (1. 1511)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Oh románticos devaneos, pobres hijos del ideal, nacidos durante algunas horas de viaje! ¿Quién llegó a viejo y no ha sentido estremecerse el corazón bajo la caricia de vuestra ala blanca?»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Sonata de estío, p. 90."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para expresar el modo. X",
+              "definicion": "Con la prep. con, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ninguno de los otros libros de la Universidad de Huesca y de las otras, muchos nacidos con aparatosa solemnidad, alcanzaron la misma suerte.»",
                   "autor": "Marañón",
                   "referencia_obra": ", Tiempo viejo, p. 109."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y la verdad, nacida | De aquella celestial y eterna fuente, | Y de allá descendida, | Para enderezar acá la humana gente.»",
                   "autor": "",
-                  "referencia_obra": "M. de Chaide, Magd. 1. 1 (Cl. C. 104. 93). X"
+                  "referencia_obra": "M. de Chaide, Magd. 1. 1 (Cl. C. 104. 93)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Bastan que a yerros | Nacidos de ciego amor, | El amor les da disculpa | Y la prudencia perdón.»",
                   "autor": "Alarcón",
-                  "referencia_obra": ", Los pechos privilegiados, 1 (Cl. C. 147. 36). X"
+                  "referencia_obra": ", Los pechos privilegiados, 1 (Cl. C. 147. 36)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Eduardo se sonrió de esa idea nacida de una cabeza cuya imaginación él conocía y admiraba tanto; e iba a hablar, cuando de repente Daniel le pone su mano sobre los labios.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 1 (p. 19)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1254,61 +1619,75 @@
     {
       "id": "3",
       "definicion": "Derivarse (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«De donde nace que un castigo, por un cabo tan terrible y por otro tan prolijo, --- se diga que es no solamente justo, sino también corto y escaso.»",
               "autor": "Gran.",
               "referencia_obra": "Consid. (3. 3701)."
             },
             {
+              "marca": "",
               "texto_cita": "«Querer saber secretos ajenos nace de pechos sin merecimientos.»",
               "autor": "Espinel",
               "referencia_obra": ", Escud. 1. 5 (R. 18. 3872)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pues algunas veces las vitorias y pérdidas nacen de causas ni previstas ni esperadas.»",
               "autor": "Moncada",
               "referencia_obra": ", Exped. 44 (R. 21. 411)."
             },
             {
+              "marca": "",
               "texto_cita": "«De aquí nace que algunas veces es bueno el gobierno de un príncipe malo, que no consiente que los demás lo sean.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 13. (R. 25. 402)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aunque de la prudencia nace la prosperidad, no nace de la prosperidad la prudencia.»",
               "autor": "",
               "referencia_obra": "Id. ib. 30 (R. 25. 792)."
             },
             {
+              "marca": "",
               "texto_cita": "«Venía resuelto a suplicarle que sin hacer ruido, y como que nacía de su propia elección, se fuese luego al alojamiento de los españoles.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 3. 19 (R. 28. 2962)."
             },
             {
+              "marca": "",
               "texto_cita": "«Por todas las ciudades que pasaba recibió los honores y aplausos que nacían de la estimación de sus virtudes y talentos.»",
               "autor": "Quint.",
               "referencia_obra": "Prínc. de Viana (1. 81)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La libertad en el culto y la licencia en los vicios perturbó la quietud pública, y se perdió el valor militar; de que nacieron graves trabajos al mismo Rey, a sus hijos y al reino.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 24 (R. 25. 671)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1316,33 +1695,40 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«También me pareció no escribir esta historia desnuda, sino acompañada con alguna doctrina, no traída de fuera, sino nacida de la misma historia.»",
               "autor": "Gran.",
               "referencia_obra": "Vida, pról. (6. 610)."
             },
             {
+              "marca": "",
               "texto_cita": "«Entre el mayor placer y gusto de la boda sucedió un alboroto y pendencia entre catalanes y genoveses, que casi fue batalla muy sangrienta, nacida, como muchas veces acontece, de pequeña causa.»",
               "autor": "Moncada",
               "referencia_obra": ", Exped. 8 (R. 21. 91)."
             },
             {
+              "marca": "",
               "texto_cita": "«En las grandes monarquías es ordinario el vicio de la tardanza en las ejecuciones, nacido de la confianza del poder, como sucedía al emperador Otón.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 64 (R. 25. 1762)."
             },
             {
+              "marca": "",
               "texto_cita": "«Nada pierden sin duda con estas observaciones imparciales, nacidas del amor a la verdad.»",
               "autor": "Quint.",
-              "referencia_obra": "Mel. (R. 19. 1152). X"
+              "referencia_obra": "Mel. (R. 19. 1152)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Eso provino de relaciones nada verídicas respecto del cambio de gobierno efectuado el 11 de noviembre de 1921, las cuales me obligan a repetir que mi separación fue espontánea, nacida de mi propio motivo, y libre de toda imposición y aun de toda sugestión.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 3 (p. 35)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1350,125 +1736,154 @@
     {
       "id": "4",
       "definicion": "Expresiones varias.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Nacer a: tener una persona o cosa propensión natural o estar destinado para un fin.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿A qué nació quien no pudo | Merecer entendimiento?»",
               "autor": "Alarcón",
-              "referencia_obra": ", Quien mal anda en mal acaba, 1. 5 (R. 20. 2152). X"
+              "referencia_obra": ", Quien mal anda en mal acaba, 1. 5 (R. 20. 2152)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Veinte años ha que partí | Desta ciudad, y otros tantos | Ha que entre tristeza y llantos | A mis desdichas nací.»",
               "autor": "Tirso",
               "referencia_obra": ", Habledme en entrando (NBAE. 9. 494)."
             },
             {
+              "marca": "",
               "texto_cita": "«Nacido [Marco Antonio] a la guerra, bien afortunado en las armas, y por esto singularmente favorecido de César, que fue la primera causa de excluirle del trato.»",
               "autor": "Quev.",
               "referencia_obra": "M. Bruto (2. 209)."
             },
             {
+              "marca": "",
               "texto_cita": "«Nosotros, que nacimos a las armas y ponemos nuestra mayor felicidad en el terror de nuestros enemigos, ¿concedemos la cerviz al yugo afrentoso de una gente advenediza?»",
               "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 4. 2 (R. 28. 3022). X"
+              "referencia_obra": ", Conq. de Méj. 4. 2 (R. 28. 3022)."
             },
             {
+              "marca": "X",
               "texto_cita": "«A imagen de Buonarrotti, nunca gustó de confiar a nadie las figuras que nacían al amor de sus pulgares armoniosos.»",
               "autor": "Valencia",
               "referencia_obra": ", Discursos, 1 (p. 90)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Nacer para: estar predestinado a cierto género de vida, merecerlo o tener especial disposicón para él.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mucho mejor es el día en que nacemos para la eternidad, que aquel en que nacemos para los peligros del mundo.»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 1. 5 (1. 472)."
             },
             {
+              "marca": "",
               "texto_cita": "«Es sin duda maravillosa obra, y muy digna de Dios, hacer del hombre Ángel, y del nacido para las ciudades amador de la soledad de los campos.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 2. 39 (2. 285)."
             },
             {
+              "marca": "",
               "texto_cita": "«Siendo en todas [las repúblicas] de igual peligro que se permita el discurrir a los que nacieron para obedecer.»",
               "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 1. 2 (R. 28. 2092). X"
+              "referencia_obra": ", Conq. de Méj. 1. 2 (R. 28. 2092)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo nací para orar: un solo día | Quise mostrarme rey, y de sus lares | A las arenas líbicas lanzados | Un millón de mis súbditos se vieron.»",
               "autor": "Quint.",
               "referencia_obra": "Poes. (Cl. C. 78. 237)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y el zueco y el coturno lo eligieron | Después para la escena, cual nacido | Para seguir veloz la acción del drama.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Trad. arte poét. (1. 272)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Refranes.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Quien antes nace, antes pace: advierte que los hijos primogénitos, especialmente los mayorazgos, se llevan lo que hay de hacienda, y quedan los segundos sin qué comer. X",
+              "definicion": "Quien antes nace, antes pace: advierte que los hijos primogénitos, especialmente los mayorazgos, se llevan lo que hay de hacienda, y quedan los segundos sin qué comer.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Terminamos la higiene en refranes apuntando los relativos a la preñez, a la lactancia, a la crianza y educación de los niños, y a los cuidados que demandan los viejos... Quien antes nace, antes pace; quien pronto endentece, pronto hermanece.»",
                   "autor": "Monlau",
                   "referencia_obra": "(Pagés, Dicc.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "No con quien naces, sino con quien paces: enseña que el trato y comunicación hacen más que la crianza y linaje en orden a las costumbres. X",
+              "definicion": "No con quien naces, sino con quien paces: enseña que el trato y comunicación hacen más que la crianza y linaje en orden a las costumbres.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nunca te he oído hablar, Sancho, dijo don Quijote, tan elegantemente como ahora, por donde vengo a conocer ser verdad el refrán que tú algunas veces sueles decir: no con quien naces, sino con quien paces.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "(Pagés, Dicc.). X"
+                  "referencia_obra": "(Pagés, Dicc.)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«De cualquier cosa destas que de vos dijesen, me pesaría por haberos conocido; porque no diga algún maldiciente: no con quien naces, sino con quien paces.»",
                   "autor": "Pagés",
                   "referencia_obra": ", Dicc.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Desnudo nací, desnudo me hallo: ni pierdo ni gano: se denota que el que no tiene ambición, se conforma fácilmente, aunque pierda o deje de adquirir algunos bienes. X",
+              "definicion": "Desnudo nací, desnudo me hallo: ni pierdo ni gano: se denota que el que no tiene ambición, se conforma fácilmente, aunque pierda o deje de adquirir algunos bienes.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En efecto, yo entré desnudo en el gobierno, y salgo desnudo dél, y así podré decir con segura conciencia, que no es poco: desnudo nací, desnudo me hallo, ni pierdo ni gano.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "(Pagés, Dicc.). X"
+                  "referencia_obra": "(Pagés, Dicc.)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Se desnuda de sus pasiones, o bien se desapropia de ellas; desnudo nací, desnudo me hallo; ni pierdo ni gano.»",
                   "autor": "Pagés",
                   "referencia_obra": ", Dicc.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1477,12 +1892,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. (Obsérvense las formas nado, naszudo) Siglo XV: X «Quadraginta annis passiones | Nacen de su seguimiento, | En su más contentamiento | Hay mil desesperaciones | Son sus ciertos galardones | Dolores de amor y fe: | Ay, circundederunt me.» Encina, Poes. lír. (Cl. Castal. 62. 211). X «Pues que tú, Virgen, pariste | El consuelo divinal, | Consuela mi vida triste, | Tú Señora que naciste | Para matar nuestro mal.» Id. ib. (Cl. Castal. 62. 97). X «Oriundus: se dize por el que trae nascimiento de alguna cibdad o gente o linaje. Assí que señalaron esta tal diferencia los estorradores entre orto y oriundo; ortus rome: el que nasció en roma; oriundus roma: el que nasció en otra parte.» Pal. Univ. vocab. 330d. X «Conium: es yerva ponçoñosa y mortal que nasce entrel trigo.» Id. ib. 91b. X «Del odio nacen malos pensamientos y peores obras.» Pulgar, Clar. var. 1 (Cl. C. 49. 13). X «Los panes todos comidos, | Y los vedados pacidos, | Y aun las huertas de la villa: | Tal estrago de Esperilla | Nunca vieron los nacidos.» Coplas de Mingo Rev. 18 (Cl. C. 99. 215). X «Doña Mari García, la beata, siendo nacida en Toledo del mayor linage de toda la cibdad, no quiso en su vida casar.» D. de S. Pedro, Cárcel de amor (Cl. C. 133. 206). X «Haun aquel fijo de Dios, | Para sobirnos al cielo, | Descendió | A nascer acá entre nos, | Y viuir en este suelo | Do murió.» J. Manr. Canc. (Cl. C. 94. 92). X «El qual dezía que después que Ihesu Christo nasció, santa María non quedara virgen e que oviera otros fijos de Iosep.» Arc. de Talav. Vida de S. Ildef. 11 (Cl. C. 134. 41). X «E aun después de muerte fue cabsa de la desonra del verdugo: que ¡ay! ay personas que en vida e en muerte siempre fazen mal o son causa de todo mal: que en tal sygno nascieron.» Id. Corbacho (Cl. Castal. 24. 94). X «Sola yo, reyna amaçona, | Nascí porque amar deviesse | Ector más que otra persona | ¡Cuytada, nunca lo viesse!» Santill. Canc. y decires (Cl. C. 18. 114).\n\n— Siglo XIV: «Señor, desque vos nasçistes, | SSienple fuestes mesurado.» Alf. XI, 565 (p. 159). X «Non plases a ninguno, a ty con muchos plase: | Con quien mata e muere, con quien fiere e malface; | Toda cosa bienfecha tu maço la desfase, | Non ha cosa que nasca, que tu rred non enlase.» Arc. de Hita, 1550 (Cl. C. 17. 238). X «¡A morir han los omes, que fueron e son nados! | ¡Dios perdone la su alma e los nuestros pecados!» Id. 1506 (Cl. C. 17. 225). X «Como es natural cosa el nasçer e el moryr, | Ovo por mal pecado la dueña a ffallyr: | Murió a pocos días, non lo puedodesir: | Dios perdone su alma e quiérala rresçebyr!» Id. 943 (Cl. C. 17. 26). X «De una nues muy chica nasce muy grand nogera, | Muchas espigas nascen d’ un grano de çevera.» Id. 907 (Cl. C. 17. 13). X «Por poco maldezir se pierde grand amor, | De pequeña pelea nasce un grand rrencor, | Por mala dicha pierde vassallo su señor; | La buena fabla sienpre faz’ de bueno mejor.» Id. 424 (Cl. C. 14. 161). «En Belén acaesçió | El segundo, quando nasció | Syn dolor aparesçió | De ti, Virgen, el Mixía.» Id. 25 (Cl. C. 14. 19). + «Bien me semeja que del día en que nasçi non vy un cauallero tan fermoso armado.» Zifar, 78 (p. 160).\n\n— Siglo XIII: «Plogo esto mucho a Olofernes cuando lo vio et con el grand placer que hobo dend bebió del vino tanto cuanto nuncua bebió en un día desque nasciera en toda su vida.» Alf. X, Antol. p. 143. X «Los caballos de grand entendimiento son, et conoscen parentesco et por eso se acompañan más de grado alos hermanos que son naszudos dell año dantes que ala madre.» Id. ib. p. 124. X «E por que aparece más a occident llamaron a aquella tierra Esperia; e después fuéronse alongando a un río grand que corre todavía contra orient desde o nace hasta o cae en el mar, e pusiéronle nombre Ebro.» Id. Crón. gen. (Cl. Ebro, 46. 48). + «Ffue [Santa María] ffermosa ssobre todas las que nasçieron e nasçerán.» Id. Seten. ley 60 (p. 100). X «Sennor, hasta agora tú me as cabtenido: | So ia por mis peccados en falliment caído, | El precio que avía todo lo e perdido, | Mucho más me valiera que non fuesse nacido.» Berc. Mil. 23 (Cl. C. 44. 148). X «Mostrolis el infant rezién nado del día, | Disso que lo mandara criar Sancta María: Quien esto dubdase, faría bavequía, | Ca era verdat pura, ca non vallitanía.» Id. ib. 21 (Cl. C. 44. 133). X «Por haber fija yo deseosa era | Vesitome e díxome en aquesta manera | Nasiera al mundo buena e clara lumbrera | Veo que la promesa salió vien verdadera.» Vida de S. Ildef. (ICC. 36. 192). X «Avya en estas tierras la gente ya oydo | Que otrro mejor d’armas nunca fuera nascido, | Tenía se por mejor quien le avya conosçido, | Avye sabor de ver le quien non le avya vydo.» Fern. Gonz. 24 (Cl. C. 128. 180). X «En el nombre del Padre que fizo toda cosa, | [D]el que quiso nacer de la Virgen preciosa, | [E] del Spíritu Santo que ygual dellos posa, | Del conde de Casti[e]lla quiero ser vna prosa.» Ib. 1 (Cl. C. 128. 1).\n\n— Siglo XII: «Con unos XV a tierras firió, |Commo lo comidia el que en buen ora nació.» Cid, 2020 (R. 57. 231). X «¡Dios, qué de buen grado! | Sobrél sedie el que en buen ora nasco!» Ib. 1052 (Cl. C. 24. 165). X «Dios, qué bien pagó a todos sus vassallos, | A los peones e a las encavalgados! | Bien lo aguisa el que en buen ora nasco. | Quantos él trae todos son pagados.» Ib. 806 (Cl. C. 24. 150). «El que en buen ora násco firme gelo vedaua.» Ib. 663 (R. 57. 92). X «Llamavan a la puerta, i sopieron el mandado; | Dios, qué alegre fo el abbat don Sancho! | Con lumbres e con candelas al corral dieron salto, | Con tan grant gozo reciben al que en buena ora nasco.» Ib. 245 (Cl. C. 24. 114).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. nascere. It. nascere, fr. naitre, cat. néixer, port. nacer, nascer.",
+  "etimologia": "Etim. Del lat.<i> nascere</i>. It.<i> nascere</i>, fr.<i> naitre</i>, cat.<i> néixer</i>, port.<i> nacer</i>,<i> nascer.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "Conjug. Presenta las siguientes irregularidades: nazco; nazca, -as, -a, -amos, -áis, -an.",
-  "construccion_sintactica": "Constr.\n\n— Intrans.: 1, a, α - 1, β, α - 1, χ, α - 1, ε, α - 1, φ, α - 2, α, α - 2, β, α - 2, χ, α - 2, δ, α - 2, ε, α - 2, φ, α - 3, α.\n\n— Pασ.: 1, α, β.\n\n— Tρανσ.: 1, δ, α.\n\n— Pαρτ.: 1, a, γ - 1, α, ε - 1, α, ζ - 1, χ, β - 1, φ, β - 2, α, β - 2, β, β - 2, δ, β - 2, ε, β - 2, φ, β - 3, β.\n\n— Cον δατ.: 1, α, α, α α - 1, e, α - 2, β, α - 3, α, α α.\n\n— Con a: 1, d, α, α α - 2, a, β.\n\n— Cον βαjο: 1, α, α, β β - 2, e, β.\n\n— Cον λα πρεπ. χον: 1, α, α, γ γ - 1, c, α - 1, δ, α, β β - 2, d, α, α α - 2, f, α, β β - 2, f, β, α α.\n\n— Con de: en general.\n\n— Con en: en general.\n\n— Con entre: 1, d, α, ε ε.\n\n— Con entre: 1, a, α, ζ ζ.\n\n— Con para: 2, b, α, α α - 2, f, α, ε ε.\n\n— Con por: 2, f, α, ζ ζ.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Intrans.: 1, a, α - 1, β, α - 1, χ, α - 1, ε, α - 1, φ, α - 2, α, α - 2, β, α - 2, χ, α - 2, δ, α - 2, ε, α - 2, φ, α - 3, α.\n\n— Pασ.: 1, α, β.\n\n— Tρανσ.: 1, δ, α.\n\n— Pαρτ.: 1, a, γ - 1, α, ε - 1, α, ζ - 1, χ, β - 1, φ, β - 2, α, β - 2, β, β - 2, δ, β - 2, ε, β - 2, φ, β - 3, β.\n\n— Cον δατ.: 1, α, α, α α - 1, e, α - 2, β, α - 3, α, α α.\n\n— Con a: 1, d, α, α α - 2, a, β.\n\n— Cον βαjο: 1, α, α, β β - 2, e, β.\n\n— Cον λα πρεπ. χον: 1, α, α, γ γ - 1, c, α - 1, δ, α, β β - 2, d, α, α α - 2, f, α, β β - 2, f, β, α α.\n\n— Con de: en general.\n\n— Con en: en general.\n\n— Con entre: 1, d, α, ε ε.\n\n— Con entre: 1, a, α, ζ ζ.\n\n— Con para: 2, b, α, α α - 2, f, α, ε ε.\n\n— Con por: 2, f, α, ζ ζ.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

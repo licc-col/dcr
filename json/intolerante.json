@@ -1,66 +1,89 @@
 {
   "lema": "INTOLERANTE.",
   "categoria_gramatical": "adj.",
-  "introduccion": "adj. Que no cede a los deseos u opiniones de otra persona.",
+  "introduccion": "Que no cede a los deseos u opiniones de otra persona.",
   "acepciones": [
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α)",
           "id_limpio": "— α)",
-          "definicion": "x",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Siempre fue un hombre intolerante, que desatendía las razones de los demás.»",
               "autor": "",
               "referencia_obra": "Dicc. Planeta."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— αα)",
               "id_limpio": "— αα)",
-              "definicion": "En superlativo relativo. x",
+              "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Es en el XIX catequista sin oyentes, y objeto de desprecio no menos para los incrédulos que para los más intolerantes católicos.»",
                   "autor": "Carrasquilla",
-                  "referencia_obra": ", Est. disc. p. 271. x"
+                  "referencia_obra": ", Est. disc. p. 271."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Nuestro profesor es uno de los más intolerantes del colegio.»",
                   "autor": "Dicc. Planeta",
                   "referencia_obra": "."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ββ)",
               "id_limpio": "— ββ)",
-              "definicion": "En grado comparativo. x",
+              "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nos volvía la espalda [el pobre muchacho] y se iba a su escondrijo, para tornar a los pocos días tan cariñoso e intolerante como si nada hubiera pasado entre nosotros.»",
                   "autor": "Alarcón",
                   "referencia_obra": ", El escándalo, 1 (Cl. C. 177. 83)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Todo gobierno que profesa una religión es más o menos intolerante con las otras.»",
                   "autor": "Balmes",
-                  "referencia_obra": ", Protest. 35 (2. 253). — Con valor ponderativo."
-                },
+                  "referencia_obra": ", Protest. 35 (2. 253)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Ustedes que tanto defienden la libertad de opiniones políticas, no debían ser tan intolerantes.»",
-                  "autor": "M. de la Rosa",
-                  "referencia_obra": ", ¡Lo que puede un empleo! 1. 6 (3. 7). x"
-                },
-                {
-                  "texto_cita": "«¡Válgame Dios, amigo Diego, y qué intolerante estás hoy, qué impaciente, qué anheloso de que nuestro Fabián sea título de Castilla!»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", El escándalo, 1 (Cl. C. 177. 99)."
+                  "id_limpio": "—",
+                  "definicion": "Con valor ponderativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ustedes que tanto defienden la libertad de opiniones políticas, no debían ser tan intolerantes.»",
+                      "autor": "M. de la Rosa",
+                      "referencia_obra": ", ¡Lo que puede un empleo! 1. 6 (3. 7)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡Válgame Dios, amigo Diego, y qué intolerante estás hoy, qué impaciente, qué anheloso de que nuestro Fabián sea título de Castilla!»",
+                      "autor": "Alarcón",
+                      "referencia_obra": ", El escándalo, 1 (Cl. C. 177. 99)."
+                    }
+                  ]
                 }
               ]
             }
@@ -69,14 +92,17 @@
         {
           "id_marcador_html": "— β)",
           "id_limpio": "— β)",
-          "definicion": "Con por. x",
+          "definicion": "Con por.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La verdad es una y no consiente en su seno elementos opuestos: es intolerante por necesidad, e incompatible con lo que la contradice: no permite ser forjada, como los rayos de los cíclopes de Virgilio, con tres partes de fuego, tres de granizo y tres de viento.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 4 (p. 19)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -84,7 +110,7 @@
   ],
   "periodo_anteclasico": "",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. intolerans, -antis. Del privativo in y tolerans, -antis ‘paciente, sufrido’. Cat. intolerat, fr. intolerant, it. intollerante.\n\n\u0000",
+  "etimologia": "Etim. Del lat.<i> intolerans</i>, -<i>antis.</i> Del privativo<i> in</i> y<i> tolerans, -antis</i> ‘paciente, sufrido’. Cat.<i> intolerat,</i> fr.<i> intolerant,</i> it.<i> intollerante</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",

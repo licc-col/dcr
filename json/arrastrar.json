@@ -1,57 +1,70 @@
 {
   "lema": "ARRASTRAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen así:\n\n— 1, a) Llevar algo por el suelo tirando de ello, b) llevar algo que toca ó barre el suelo, c) llevar ó mover rasando el suelo, d) refl. ir rozando con el cuerpo en el suelo, e) intrans. en sentido análogo;\n\n— 2, a) denotando la violencia de un poder irresistible, b) aplicado á las pasiones y afectos, c) á lo que lleva tras sí el ánimo, los afectos, d) tener por consecuencia inevitable;\n\n— 3, llevar adelante penosamente, a) la vida, b) el estilo, la versificación, c) traer como por los cabellos, d) mostrar mala gana;\n\n— 4, en juegos de naipes.",
+  "introduccion": "Las acepciones se distribuyen así:\n\n— 1, a) Llevar algo por el suelo tirando de ello, b) llevar algo que toca ó barre el suelo, c) llevar ó mover rasando el suelo, d) refl. ir rozando con el cuerpo en el suelo, e) intrans. en sentido análogo;\n\n— 2, a) denotando la violencia de un poder irresistible, b) aplicado á las pasiones y afectos, c) á lo que lleva tras sí el ánimo, los afectos, d) tener por consecuencia inevitable;\n\n— 3, llevar adelante penosamente, a) la vida, b) el estilo, la versificación, c) traer como por los cabellos, d) mostrar mala gana;\n\n— 4, en juegos de naipes.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Llevar á una persona ó cosa por el suelo tirando de ella (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Corrieron á la cárcel, y sacándolos los mataron cruelmente, arrastrándolos unas veces boca arriba, otras veces por las espaldas.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 2. 13, § 1 (R. 6. 3132)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡--- Que bastasen tantas maneras de vituperios y deshonras para que todas las gentes arrastrasen y quemasen los dioses que antes adoraban ---!»",
               "autor": "",
               "referencia_obra": "Id. ib. 3. 3, diál. 4, § 2 (11. 6. 4722)."
             },
             {
+              "marca": "",
               "texto_cita": "«A la garganta echándole una cuerda, | Le arrastra sin piedad.»",
               "autor": "A. Saav.",
               "referencia_obra": "Moro expós. 4 (2. 119)."
             },
             {
+              "marca": "",
               "texto_cita": "«Soldados, arrastradle, y que al instante | En medio de esas fúnebres moradas | Lejos de mí fenezca.»",
               "autor": "Quint.",
               "referencia_obra": "El duque de Viseo, 3. 7 (R. 19. 552)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Esa que veis llegar, máquina lenta, | De fatigados brutos arrastrada, | Que en vano, de rigor la diestra armada, | Vinoso auriga acelerar intenta ---»",
                   "autor": "Mor.",
                   "referencia_obra": "son. 9 (R. 2. 5972)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -59,16 +72,28 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con por ó de, para expresar la parte por donde se ase la persona.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Arrastraban las mujeres por los cabellos, si algo les hallaban en el regazo que quisiesen encubrir.»",
               "autor": "Gran.",
-              "referencia_obra": "Símb. 4. 16, § 2 (R. 6. 5171). —"
-            },
+              "referencia_obra": "Símb. 4. 16, § 2 (R. 6. 5171)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Con garfios me arrastraron de las quijadas por las calles, y la crueldad infanda no se detuvo en la sepultura.»",
-              "autor": "",
-              "referencia_obra": "Quev. El entremetido (R. 23. 3662)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Con garfios me arrastraron de las quijadas por las calles, y la crueldad infanda no se detuvo en la sepultura.»",
+                  "autor": "",
+                  "referencia_obra": "Quev. El entremetido (R. 23. 3662)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -77,33 +102,40 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Combinado el gerundio con verbos como llevar, traer, viene á formar una especie de conjugación compuesta, de suerte que basta un solo acusativo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Antes de espirar le llevé arrastrando adonde Leónida estaba.»",
               "autor": "Cerv.",
               "referencia_obra": "Gal. 1 (R. 1. 102)."
             },
             {
+              "marca": "",
               "texto_cita": "«Herido y peleando hasta que cayó, le sacó arrastrando por lo pies un esclavo á quien dio libertad.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granada, 2 (R. 21. 831)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hízole callar Domiciano, que traía arrastrando por una pierna al miserable Suetonio Tranquilo.»",
               "autor": "Quev.",
               "referencia_obra": "El entremetido (R. 23. 3741)."
             },
             {
+              "marca": "",
               "texto_cita": "«Tres veces | Llevó el cadáver de Héctor arrastrando | Al rededor de los troyanos muros.»",
               "autor": "T. Iriarte",
               "referencia_obra": ", Eneida, 1 (3. 54)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ella me respondió que si no la sacan arrastrando de los cabellos, que no se irá.»",
               "autor": "",
               "referencia_obra": "Mor. La escuela de los maridos, 3. 1 (R. 2. 4551)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -111,47 +143,58 @@
     {
       "id": "b)",
       "definicion": "Dícese de lo que se lleva en pos de sí tocando ó barriendo el suelo, como una ropa muy larga.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mujeres sin chapines por el lodo | A gran priesa las faldas arrastraban.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 7 (R. 17. 291)."
             },
             {
+              "marca": "",
               "texto_cita": "«Así muestra contento | Cautivo que de penas | Escapó, las cadenas | Que arrastró por su mal.»",
               "autor": "Mel.",
               "referencia_obra": "letr. 4 (R. 63. 1221)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "De aquí, con alusión á los vestidos rozagantes, arrastrar sedas, terciopelos, vale sencillamente usar ó traer vestidos de estas telas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No sólo son bárbaros los hombres que andan desnudos como salvajes debajo de la línea equinoccial, sino también muchos de los que arrastran sedas y terciopelos.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 1. 10 (R. 6. 2061)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y otros en carros con verdad triunfantes, | Rompiendo el aire con doradas ruedas, | Irán gallardos, correrán pujantes, | Oro esparciendo, y arrastrando sedas.»",
               "autor": "Hojeda",
               "referencia_obra": "Crist. 10 (2761. edic. prínc.)."
             },
             {
+              "marca": "",
               "texto_cita": "«Todos saben la vida alegre y picaresca que por lo general han llevado en España los alumnos de Minerva; y todo el que arrastraba bayeta se dejaba inficionar de este contagio.»",
               "autor": "Gil y Zárate",
               "referencia_obra": ", Resum. histór. p. 587."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -159,90 +202,111 @@
     {
       "id": "c)",
       "definicion": "Llevar ó mover rasando el suelo.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Arrastrando llegó su zanca coja.»",
           "autor": "Villav.",
           "referencia_obra": "Mosq. 8 (R. 17. 6001)."
         },
         {
+          "marca": "",
           "texto_cita": "«Pero no importa, no importa, | Pues que ya la sierpe vino | Arrastrando el medio cuerpo.»",
           "autor": "Cald.",
           "referencia_obra": "Los tres mayores prodigios, 1 (R. 7. 2731)."
         },
         {
+          "marca": "",
           "texto_cita": "«Todo fiero animal por ti vestido | Va diverso en color del vario velo ---| Los que cortan el mar, y el que tendido | Su cuerpo arrastra en el materno suelo.»",
           "autor": "",
           "referencia_obra": "Céspedes, Pintur. 1 (R. 32. 3622)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "Refl. Ir por el suelo, pegado y unido el cuerpo con la tierra. Dícese propiamente de los animales que, por no tener patas ó tenerlas muy cortas, caminan tocando en tierra con otras partes del cuerpo.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Vimos sus obras, que eran arrancarse las barbas, mesarse los cabellos y arrastrarse por el suelo.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 1. 41 (R. 1. 3722)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "e)",
       "definicion": "En igual sentido se usa como intrans.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Dios nuestro Señor hizo también al hombre, para que presidiese á los peces del mar, y á las aves del cielo, á las bestias y á toda la tierra, y á todo lo que arrastra por ella.»",
               "autor": "Puente",
               "referencia_obra": ", Medit. 6. 25 (3. 402)."
             },
             {
+              "marca": "",
               "texto_cita": "«El perro va tras la perra, | A las veces arrastrando | Por el lodo.»",
               "autor": "Castillejo",
               "referencia_obra": ", 1, Serm. de amores (R. 32. 1451)."
             },
             {
+              "marca": "",
               "texto_cita": "«Otros á gatas, otros derrengados | Arrastrando procuran acogerse | A algún reparo ó hueco de la senda.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 28 (R. 17. 1072)."
             },
             {
+              "marca": "",
               "texto_cita": "«La cigüeña, si no se abate, no traga ni aprisiona á la culebra que arrastra.»",
               "autor": "Quev.",
               "referencia_obra": "Prov. de Dios (R. 48. 1692)."
             },
             {
+              "marca": "",
               "texto_cita": "«Entorpece el paso, hace que arrastra y no anda.»",
               "autor": "",
               "referencia_obra": "Id. Vida de S. Pablo (R. 48. 301)."
             },
             {
+              "marca": "",
               "texto_cita": "«Clito, quien no pretende levantarse, | Puede arrastrar, mas no precipitarse.»",
               "autor": "",
               "referencia_obra": "Id. Musa 2, Sermón estoico (R. 69. 371)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part. dep. (raro).",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¡Que no la pueden sufrir [el agua] | Los montes en sus entrañas! | Que anda, como la culebra, | Toda su vida arrastrada!»",
                   "autor": "Alarcón",
                   "referencia_obra": ", El semejante á sí mismo, 1. 1 (R. 20. 633)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -250,86 +314,106 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Yo, que no puedo volar como los doctores sagrados, ni vencer las cumbres con la diligencia de los pasos, hago mi jornada arrastrando, y busco el camino por donde más leve y fácil pueda resbalar mi humildad.»",
               "autor": "Quev.",
               "referencia_obra": "Job (R. 48. 2221)."
             },
             {
+              "marca": "",
               "texto_cita": "«Soy pecador transparente, | Dijo, que truje arrastrando | Un año tras una tuerta | A un caballero don Pablos.»",
               "autor": "",
               "referencia_obra": "Id. Musa 6, rom. 8 (R. 69. 1581)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Dícese de aquellas cosas que se llevan en pos de sí rasando el suelo y como barriéndolo, vr. gra. las ropas, los cabellos muy largos; y en general, de lo que está colgado y llega al suelo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No soy renca ni soy coja, | Ni tengo nada de manca; | Los cabellos como lirios, | Que, en pie, por el suelo arrastran.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 44 (R. 1. 4962)."
             },
             {
+              "marca": "",
               "texto_cita": "«Vieron que venía á pasar por donde estaban uno con dos mulas, que por el ruido que hacía el arado que arrastraba por el suelo, juzgaron que debía de ser labrador.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 9(R. 1. 4212)."
             },
             {
+              "marca": "",
               "texto_cita": "«Del cuello flojo arrastra la cadena | A mi despecho, y voy al fin dispuesto | Para sufrir de grado el daño cierto.»",
               "autor": "Herr.",
               "referencia_obra": "2, eleg. 12 (R. 32. 2312)."
             },
             {
+              "marca": "",
               "texto_cita": "«El alquicel arrastra por la arena, | Que el potro al revolver desgarra y pisa.»",
               "autor": "Mor.",
               "referencia_obra": "Poes. Toma de Granada, (R. 2. 5761)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. de pers.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Hacia mí se venía un venerable anciano vestido con un capuz de bayeta morada, que por el suelo le arrastraba.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 23 (R. 1. 4521)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Vieron entrar por el jardín adelante dos hombres vestidos de luto, tan luengo y tendido, que les arrastraba por el suelo.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 2. 36 (R. 1. 4822)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y arrastrándole el manto suntuoso, | Se le vio ufano pasear las tablas.»",
                   "autor": "J. Burgos",
                   "referencia_obra": ", Trad. de Hor. Arte poétic. (4. 327)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β)",
               "id_limpio": "— β β)",
               "definicion": "Lo que arrastra, honra: aludiendo á las ropas rozagantes que traían los reyes y otros personajes graves, se usa irónicamente este refrán para notar el desaliño ó descuido de los que llevan la ropa arrastrando. Covarr. Acad. Dicc.",
-              "ejemplos_citas": []
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "En este sentido es muy raro como refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Engordará [el cochino] sin tino; | Tanto, que puede ser que yo consiga | Ver cómo se le arrastra la barriga.»",
                   "autor": "Saman.",
                   "referencia_obra": "Fáb. 2. 2 (R. 61. 3622)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -337,13 +421,16 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "No obstante, se usa sólo como refl. cuando se emplea para denotar la dificultad con que anda alguno, como si llevase parte de su cuerpo arrastrando.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Isabel lentamente | Se arrastra al locutorio, | Donde la está Gonzalo | Esperando anheloso.»",
               "autor": "Hartz.",
               "referencia_obra": "Isabel y Gonzalo, 3 (405)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -351,58 +438,72 @@
     {
       "id": "2",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Empléase para denotar la violencia con que obra un poder irresistible (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cuando los hados porfían,| Arrastran por los cabellos | Al que no quiere ir con ellos; | Pero, si quiere, le guían.»",
               "autor": "Mend.",
               "referencia_obra": "carta Quería contar mi vida (R. 32. 1002. Es el «Ducunt volentem fata, nolentem trahunt.» Séneca, epíst. 107.)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mi destino, | Más fiero y más cruel cada momento, | Tras sí me arrastra, y sin poder valerme, | A su imperiosa voluntad me entrego.»",
               "autor": "Quint.",
               "referencia_obra": "Pelayo, 1. 3 (R. 19. 601)."
             },
             {
+              "marca": "",
               "texto_cita": "«Tendió la muerte sus horrendas alas; | Como buitre voraz cayó en mi amigo, | Y en él sus garras con furor clavando, | A la honda huesa le arrastró consigo.»",
               "autor": "",
               "referencia_obra": "Id. En la muerte de un amigo (R. 19. 291)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con á, para expresar el punto adonde lleva una fuerza irresistible.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La ociosidad, la desnudez, el desamparo, y sobre todo la fuerza del mal ejemplo, auxiliada de los atractivos del lujo, les arrastrarían violentamente á la corrupción.»",
               "autor": "Jovell.",
               "referencia_obra": "Dísc. en la Soc. Econ. de Madrid (R. 50. 292)."
             },
             {
+              "marca": "",
               "texto_cita": "«Las tristes víctimas que arrastra | La desnudez ó el desamparo al vicio.»",
               "autor": "",
               "referencia_obra": "Id. sát. 1ª á Arnesto (R. 46 332)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué vale todo el tiempo que le gritan | La voz terrible del sangriento Audalla, | La ambición de mandar que le devora, | Su ley feroz que á la crueldad le arrastra?»",
               "autor": "Quint.",
               "referencia_obra": "Pelayo, 4. 1 (R. 19. 682)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -410,71 +511,87 @@
     {
       "id": "b)",
       "definicion": "Tratándose de las pasiones y afectos: Mover é impulsar irresistiblemente (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Prolijo estudio sería referir los más que se han dejado arrastrar de sus pasiones; imposible todos.»",
               "autor": "Quev.",
               "referencia_obra": "Polític. de Dios, 1. 2 (R. 23.121)."
             },
             {
+              "marca": "",
               "texto_cita": "«Lleva Mario el ejército, y á Mario | Arrastra ciego la ambición de imperio.»",
               "autor": "",
               "referencia_obra": "Id. Musa 2, son. 65 (R. 69. 261)."
             },
             {
+              "marca": "",
               "texto_cita": "«No pues mi ambición, Filipo, | No mi atrevida arrogancia, | No el ser parcial con Antonio, | No mi poder, no mis armas, | Me aflije, me desespera, | Me precipita y me arrastra, | Sino el ser de Mariene | Esposo.»",
               "autor": "Cald.",
               "referencia_obra": "El mayor monstruo los celos, 2. 10 (R. 7. 4911)."
             },
             {
+              "marca": "",
               "texto_cita": "«El amor propio, sin consideración á la norma impresa en nuestras almas para moderar sus aficiones, nos arrastra en pos de una felicidad puramente mentida ajena de la dignidad de nuestro sér.»",
               "autor": "Jovell.",
               "referencia_obra": "Trat. de enseñ. (R. 46. 2632)."
             },
             {
+              "marca": "",
               "texto_cita": "«Es de mi deber indicar las [razones] que tuvimos para no apreciar los inconvenientes que ofrecía nuestro dictamen, á fin de que no se crea que pudo arrastrarnos á él algún motivo de pasión ó parcialidad.»",
               "autor": "",
               "referencia_obra": "Id. Def. de la Junta Central, 2. 2 (R. 46. 5541)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Será la primera vez | Que un caballero se casa | Con una mujer humilde? | ¿Quién ignora lo que arrastra | Una pasión?»",
               "autor": "Mor.",
               "referencia_obra": "El barón, 2. 6 (R. 2. 3853)"
             },
             {
+              "marca": "",
               "texto_cita": "«Hizo más aún, que fue salvarle de las funestas resultas á que su genio áspero y altivo le arrastraba frecuentemente.»",
               "autor": "Quint.",
               "referencia_obra": "Pizarro (R. 19. 3551)."
             },
             {
+              "marca": "",
               "texto_cita": "«Vuelta al rey su marido, que acaso ya estaba pesaroso de haberse dejado arrastrar en aquel paso imprudente y temerario, le persuadió á que aprobase aquellas treguas condicionales.»",
               "autor": "",
               "referencia_obra": "Id. D. Álv. De Luna (R. 19. 3912)."
             },
             {
+              "marca": "",
               "texto_cita": "«El [entendimiento] de Alarcón era el menos á propósito para dejarse arrastrar á esta clase de manía.»",
               "autor": "",
               "referencia_obra": "Gil y Zárate, Resum. histór. p. 404."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con esta mira, y arrastrado también de su afición á este género de poesía, tenía ya bastante adelantadas tres tragedias.»",
                   "autor": "Quint.",
                   "referencia_obra": "pról. á sus trag. (R. 19. 42)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -483,41 +600,51 @@
     {
       "id": "c)",
       "definicion": "Dícese de las personas ó de las cosas que por sus prendas ó cualidades cautivan y llevan poderosamente tras sí el ánimo ó los afectos.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pues la que no pudo afable, | ¿Por qué os arrastra enemiga?»",
               "autor": "Mto.",
               "referencia_obra": "El desdén con el desdén, 1.1 (R. 39. 22)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cuando más enamoradas ---| Se compone nuestro gusto | De arrastrarlos afligirlos, | Y resulta nuestra gloria | De estar viendo su martirio.»",
               "autor": "",
               "referencia_obra": "Id. Lo que puede la aprehensión, 1. 1 (R. 39. 1681)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si esto miraran | Aquellos á quienes tanto | Las apariencias arrastran, | Distinguieran la virtud | Verdadera de la falsa.»",
               "autor": "Mor.",
               "referencia_obra": "La mojigata, 3. 17 (R. 2. 4173)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl. Cautivarse.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No la obliga una fineza | Y se arrastra de un desprecio.»",
                   "autor": "Mto.",
                   "referencia_obra": "El poder de la amistad, 3. 6 (R. 39. 361)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -525,31 +652,46 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Agrégase un complemento reflejo con tras ó con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Uno y otro arrastraban tras sí los ojos del vulgo, y aun los de muchos profesores, más por la pompa y aparente armonía que reinaba en sus obras, que por el mérito intrínseco de ellas.»",
               "autor": "Jovell.",
               "referencia_obra": "Elog. de las bellas artes (R. 46. 3582)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hasta los historiadores --- no pueden dejar de confesar aquel atractivo que la reunión de los talentos, de las virtudes, de la discreción y de la liberalidad ponía en su persona y arrastraba tras de sí la afición de los hombres y de los pueblos.»",
               "autor": "Quint.",
               "referencia_obra": "Prínc. de Viana (R. 19. 2482)."
             },
             {
+              "marca": "",
               "texto_cita": "«Unía [Riego] á la honradez é integridad de su carácter una llaneza y facilidad de trato que arrastraba tras de sí los ánimos, y conquistaba el corazón de sus parciales.»",
               "autor": "",
-              "referencia_obra": "Id. Cartas á L. Holland, 5 (R. 19. 5561). —"
-            },
+              "referencia_obra": "Id. Cartas á L. Holland, 5 (R. 19. 5561)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Riego, Quiroga, y los demás jefes del último levantamiento no pudieron á la verdad arrastrar consigo más que un pequeño número de soldados.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 2 (R. 19. 5401)."
-            },
-            {
-              "texto_cita": "«Los dos imitaron á Góngora, y arrastraron consigo á otros escritores de menos crédito.»",
-              "autor": "",
-              "referencia_obra": "Id. Introd. al Parn. esp. 5 (R. 19. 1412)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Riego, Quiroga, y los demás jefes del último levantamiento no pudieron á la verdad arrastrar consigo más que un pequeño número de soldados.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 2 (R. 19. 5401)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Los dos imitaron á Góngora, y arrastraron consigo á otros escritores de menos crédito.»",
+                  "autor": "",
+                  "referencia_obra": "Id. Introd. al Parn. esp. 5 (R. 19. 1412)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -559,101 +701,127 @@
     {
       "id": "d)",
       "definicion": "Tener por consecuencia inevitable (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«El alto precio de los comestibles y habitaciones, el aumento de las necesidades que arrastra consigo el lujo --- y otros inconvenientes propios de los grandes poblaciones, ofrecen otros tantos obstáculos al aumento y prosperidad de la industria.»",
           "autor": "Jovell.",
           "referencia_obra": "Inf. sobre el libre ejerc. de las artes (R. 50. 362)."
         },
         {
+          "marca": "",
           "texto_cita": "«¿Qué quieres hacer? — Que vea | Cuántas desdichas arrastra | Su delito.»",
           "autor": "Mor.",
           "referencia_obra": "La mojigata, 3. 17 (R. 2. 4162)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
       "definicion": "met. Empléase para significar el trabajo penoso con que se lleva adelante ó se ejecuta algo (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Tratándose de la vida, Llevarla trabajosa y miserablemente.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Semejante al cuerpo que está mucho tiempo sin acción, siente [el alma] disminuír sus fuerzas, y arrastra una vida perezosa y lánguida.»",
               "autor": "Balmes",
               "referencia_obra": ", Filosof. elem. Lógica, 3. 2 (105)."
             },
             {
+              "marca": "",
               "texto_cita": "«No olvides que un infelice | Te entrega toda su alma, | Y que hacerle amable debes | La acerba vida que arrastra.»",
               "autor": "Lista",
               "referencia_obra": ", rom. 24 (R. 67. 3521)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y falta de esperanzas y deseos, | Carga ya inútil arrastré la vida.»",
               "autor": "A. Saav.",
               "referencia_obra": "Moro expós. 6 (2. 208)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Fulano trae una vida arrastrada.»",
                   "autor": "Acad.",
                   "referencia_obra": "Dicc."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "En general, Desastrado, malaventurado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Quién pensara que esperanzas tan grandes como las que en el pecho de mi mujer Teresa Panza engendraron las nuevas de mi gobierno, habían de parar en volverme yo agora á las arrastradas aventuras de mi amo D. Quijote de la Mancha?»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 57 (R. 1. 5232)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Dícese también del que vive afligido de privaciones, molestias y trabajos. Acad. Dicc.",
-              "ejemplos_citas": []
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Pícaro, tunante, bribón (fam.). Acad. Dicc.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pinta --- | Arrastrado, engañoso al cortesano, | Abatido al plebeyo, al juez severo.»",
                   "autor": "Quint.",
                   "referencia_obra": "Reglas del drama, 1 (R. 19. 762)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -662,68 +830,84 @@
     {
       "id": "b)",
       "definicion": "Tratándose del estilo, la versificación, el argumento de una obra, No darle vigor, elevación ó interés, como si se le llevase por el suelo.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A este esmero añadió [Herrera] otro no menos esencial, que fue el cuidado de pintar al oído por medio de la armonía imitativa, haciendo que los sonidos tuviesen analogía con la imagen. El los rompe ó los suspende, los arrastra penosamente ó los precipita de golpe, ya los hace rozarse con aspereza, ya tocarse con blandura.»",
               "autor": "Quint.",
               "referencia_obra": "Introd. al Parn. 3 (R. 19. 1342)."
             },
             {
+              "marca": "",
               "texto_cita": "«El escritor [el autor de la Austríada] arrastra penosamente su cuento, sin artificio ni intención poética ninguna.»",
               "autor": "",
               "referencia_obra": "Id. Introd. a la Musa ép. (R. 19. 1592)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Su dicción [de J. de la Cueva], ya dura, ya violenta, ya pobre, se arrastra casi siempre con pena, desnuda de garbo y de fantasía.»",
                   "autor": "Quint.",
                   "referencia_obra": "Introd. á la Musa ép. (R. 19. 1651)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Un mérito que le distingue [á Rioja] particularmente es el acierto con que construye sus períodos, los cuales ni dan en secos por la brevedad, ni se arrastran penosamente por prolijos.»",
                   "autor": "",
                   "referencia_obra": "Id. Introd. al Parn. esp. 3 (R. 19. 1352)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El estilo [del Guzmán de Alfarache], aunque generalmente claro, se arrastra con lentitud, presenta pocos rasgos felices, apura de mil modos un mismo pensamiento, y carece de armonía.»",
                   "autor": "Gil y Zárate",
                   "referencia_obra": ", Resum. histór. p. 594."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Part. Falto enteramente de vigor y elevación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Difícilmente podrá creerse que el que escribió aquella dulce y elegante égloga que empieza: Ay! apacible y sosegada vida, etc., haya versificado en tan arrastrado y lánguido estilo como el que se echa de ver en la versión del Arte de Horacio.»",
                   "autor": "T. Iriarte",
                   "referencia_obra": ", Arte poétic. de Hor. disc. prel. (4. XXVII)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La marcha de estos autores [Berceo y Juan Lorenzo], aunque penosa, no es tan arrastrada y seca como la del poema precedente.»",
                   "autor": "Quint.",
                   "referencia_obra": "Introd. al Parn. esp. 1 (R. 19. 1262)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La repetición excesiva del relativo dentro de un mismo período, hace lánguido y arrastrado el lenguaje.»",
                   "autor": "Clem.",
                   "referencia_obra": "Coment. 1, p. 287."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -732,31 +916,39 @@
     {
       "id": "c)",
       "definicion": "Traer como por los cabellos (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Defensas en que los hechos se confunden, las épocas se alteran, se arrastran ó se fingen á placer las autoridades.»",
               "autor": "Mor.",
               "referencia_obra": "Derr. de los pedantes (R. 2. 5682)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part. Violentado, forzado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Es gran negocio no traer el alma arrastrada, como dicen, sino llevarla con suavidad, para su mayor aprovechamiento.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Vida, 11 (R. 53. 462)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -765,28 +957,42 @@
     {
       "id": "d)",
       "definicion": "Mostrar mala gana ó poca voluntad (intrans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Aunque arrastrando cumplimos con la obligación para no ser pecado, no llegamos con mucho á lo que ha de ser, para estar del todo unidas con la voluntad de Dios.»",
           "autor": "Sta. Ter.",
           "referencia_obra": "Mor. 5. 3 (R. 53. 4572)."
         },
         {
+          "marca": "",
           "texto_cita": "«Otros hay que no por inclinación natural, mas por merced de nuestra Señor, son tan castos que en su ánima sienten entrañable aborrecimiento á aquesta vileza, y en su parte sensitiva tanta obediencia, que no va arrastrando á lo que le manda la razón, mas obedece, con deleite y presteza.»",
           "autor": "",
           "referencia_obra": "Avila, Audi, 16 (Míst. 3. 156)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "4",
-      "definicion": "En varios juegos de naipes, salir jugando alguna carta del palo que es triunfo (intrans.). Con de: Arrastrar de espada. —",
-      "ejemplos_citas": [
+      "definicion": "En varios juegos de naipes, salir jugando alguna carta del palo que es triunfo (intrans.). Con de: Arrastrar de espada.",
+      "marca": "",
+      "ejemplos_citas": [],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Si el rey se hace hombre, la saca, | Que mi amo tiene mal juego; | Pero si el príncipe arrastra, | Ha de renunciar el viejo; | Con que la polla le gana.»",
-          "autor": "Mto.",
-          "referencia_obra": "Antíoco y Seleuco, 3. 6 (R. 39. 522)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Si el rey se hace hombre, la saca, | Que mi amo tiene mal juego; | Pero si el príncipe arrastra, | Ha de renunciar el viejo; | Con que la polla le gana.»",
+              "autor": "Mto.",
+              "referencia_obra": "Antíoco y Seleuco, 3. 6 (R. 39. 522)."
+            }
+          ]
         }
       ],
       "subacepciones": [
@@ -794,13 +1000,16 @@
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Part. Dícese del juego en que es obligatorio servir á la carta jugada.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tute arrastrado.»",
               "autor": "Acad.",
               "referencia_obra": "Dicc."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -808,12 +1017,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. (Decíase promiscuamente arrastrar y rastrar; éste tuvo algún uso en los siglos XVI y XVII, aun hoy se encuentra alguna vez en verso: «Y entre ellas [las bestias] unas hay que buscan su mantenimiento andando, otras rastrando por tierra, otras volando, otras nadando.» Gran. Símb. 1. 3, § 8 (R. 6. 1941). «Después que le comprehendió aquella maldición de la antigua serpiente, que es andar rastrando sobre su pecho, y comer tierra todos los días de su vida, luégo trocó el cielo por la tierra.» Id. Orac. y consid. 3. 1. 2 (R. 8. 1702). «Por el crespo cabello, áspero y duro, | Bramando le ase, y dél rastrando tira.» Valb. Bern. 1 (R. 17. 1512). «Ya Febo estas montañas abrasaba, | En iguales balanzas puesto el día, | Cuando yo sus collados trastornaba | Rastrando un ciervo que flechado había.» Id. ib. 2 (R. 17. 1631). «El tiempo gasto en las eras | Mirando rastrar los trillos, | Y hecho hormiga no salgo | De entre montones de trigo.» Quev. Musa 6, rom. 34 (R. 69. 1792). «Lánguidos, macilentos, | Rastrando van por las desiertas calles | Los exánimes cuerpos, sostenidos | En la robusta lanza.» M. de la Rosa, Zaragoza (1. 87).\n\n— Siglo XV: «Como el caballo huyó, llevóle rastrando por el campo.» Am. de Gaula, 1. 39 (R. 40. 912). «Rastrando sus carnes por IX collados.» Mena, copl. El fijo muy claro (Lab. 1042). «Traia una vestidura de un paño de seda colorado con labores de oro, ancha é luenga que arrastraba por el suelo.» Gonz. Clav. p. 172. «Troxieron aquellos cueros rastrando gente asaz que travaba dellos.» Id. p. 152. «Nin lo traygan á ereje | Arrastrando con cordeles.» Canc. de Baena, p. 133.\n\n— Siglo XIV: «E sobre los tus pechos rastrando andarás, | Por mantenimiento la tierra comerás.» Rim. de Pal. 1429 (R. 57. 4712). «Cayó el caballo con él et púsosele el pie tanto en la estribera que lo non pudo sacar; et levantóse el caballo, et levólo rastrando una grand partida.» Crón. Alf. XI, 173 (R. 66. 2841). «Et fue dado juicio contra ellos: et algunos arrastraron, et despues enforcáronlos.» Ib. 49 (R. 66. 2032). «Mandó levar á este --- fasta Sant Francisco --- é dende que le levasen arrastrando fasta el arrabal.» Crón. Alf. X, 74 (R. 66. 582). «Murieron por los furtos de muerte sopitanna, | Arrastrados et enforcados de manera estranna.» Arc. de Hita, 212 (R. 57. 2332).\n\n— Siglo XIII: «Et esto ficieron porque si fallasen que alguno de su compaña era ido á los enemigos, et sopiesen que les habie llevado sabidoria dellos, que luego que le cogiesen en mano, que lo matasen de cruel muerte por ello, rastrándolo et desmembrándolo.» Part. 2. 28. 2 (2. 316). «Et aun decimos que maguer le fuese probado, que non le deben dar aviltada muerte asi como rastrándolo, ó enforcándolo ó destorpándolo.» Part. 2. 21. 24 (2. 217). «Que non alcen los pies mucho de tierra quando andudieren, nin los trayan rastrando.» Part. 2. 7. 8 (2. 50). «Todo ome que matare a otro a traycion ó aleve, arrastrenlo por ello e enforquenlo.» Fuero real, 4. 17. 2 (O. L. 2. 147). «E tornóse el leon, su sangre corriendo et rastrando, fasta que llegó á su lugar et cayó como muerto.» Cal. é Dymna (R. 51. 292). «Si fuer el fecho en yermo, a la primera viella que llegare, deve echar las tocas e en tierra arrastrarse, e dar appellidos diciendo---» Fuero viejo, 2. 2. 3 (66). «Veyendol por oio toda su hermandat | Arrastrólo III ueces redor de le cidat.» Alex. 668 (R. 57. 1681). «lo mesquina estaba catando mio Fiiuelo, | Batiendo mies massiellas, rastrando por el suelo.» Berc. Duelo, 28 (R. 57. 1321). «En soga de diablos fue luego cativado, | Rastrabanlo por tienllas de coces bien sovado.» Id. Mil. 273 (R. 57. 1121). «Asur Gonçalez entraua por el palaçio: | Manto armino e vn brial rastrando.» Cid, 3374 (R. 57. 351).",
   "testimonios_latino_hispanicos": "Test. latin. hisp. «Scias quod poena proditoris in corpore est, quod rastretur, etc.» Observ. de Arag. en Ducange. sb. voc. Rastrum. Cp. el pasaje del Fuero real, citado arriba.",
-  "etimologia": "Etim. Port. arrastrar, arrastar. Comp. de á y rastrar, rastro; propiamente: formar rastro ó huella al llevar algo por tierra. Juan de la Encina trae la pronunciación vulgar allastrado (R. 2. 2283).\n\n— El Dicc. Autor. da la acepción forense Avocar; en el vulgar se ha omitido, pero otros modernos sí la registran, copiada sin duda de aquél.",
+  "etimologia": "Etim. Port.<i> arrastrar</i>,<i> arrastar</i>. Comp. de<i> á </i>y<i> rastrar</i>,<i> rastro; </i>propiamente: formar rastro ó huella al llevar algo por tierra. Juan de la Encina trae la pronunciación vulgar <i>allastrado</i> (R. 2. 2283).\n\n— El Dicc. Autor. da la acepción forense Avocar; en el vulgar se ha omitido, pero otros modernos sí la registran, copiada sin duda de aquél.",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Intrans.: 1, e - 3, d.\n\n— Refl.: 1, d - 1, e, γ, γ γ - 1, e, δ - 2, χ, α, α α - 3, b, α, α α.\n\n— Part.: 1, a, α, α α - 1, e, α, α α - 2, b, α, α α - 3, a, β, α α, β β, γ γ, δ δ - 3, b, α, β β - 3, c, α, α α.\n\n— Con á: 2, a, β.\n\n— Con: 2, c, β.\n\n— De: 1, a, β - 4.\n\n— Por: 1, a, β.\n\n— Tras: 2, c, β.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Intrans.: 1, e - 3, d.\n\n— Refl.: 1, d - 1, e, γ, γ γ - 1, e, δ - 2, χ, α, α α - 3, b, α, α α.\n\n— Part.: 1, a, α, α α - 1, e, α, α α - 2, b, α, α α - 3, a, β, α α, β β, γ γ, δ δ - 3, b, α, β β - 3, c, α, α α.\n\n— Con á: 2, a, β.\n\n— Con: 2, c, β.\n\n— De: 1, a, β - 4.\n\n— Por: 1, a, β.\n\n— Tras: 2, c, β.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

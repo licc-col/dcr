@@ -1,242 +1,311 @@
 {
   "lema": "MULTIPLICAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, a) aumentar los individuos de una especie, en número considerable, por generación u otra vía de reproducción, b) incrementar, acrecentar, aumentar una cosa en extensión, materia, número o grado, c) aplicado a la luz, al sonido, al tiempo, expandir, dilatar, esparcir, irradiar, propagar;\n\n— 2, afanarse, desvelarse, esforzarse alguien por atender muchas cosas al mismo tiempo;\n\n— 3, arit. hallar el producto de dos factores, tomando uno de ellos, que se llama multiplicando, tantas veces por sumando como unidades contiene el otro, llamado multiplicador (Calcular, término genérico para denominar toda clase de operaciones matemáticas: δ ).",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, a) aumentar los individuos de una especie, en número considerable, por generación u otra vía de reproducción, b) incrementar, acrecentar, aumentar una cosa en extensión, materia, número o grado, c) aplicado a la luz, al sonido, al tiempo, expandir, dilatar, esparcir, irradiar, propagar;\n\n— 2, afanarse, desvelarse, esforzarse alguien por atender muchas cosas al mismo tiempo;\n\n— 3, arit. hallar el producto de dos factores, tomando uno de ellos, que se llama multiplicando, tantas veces por sumando como unidades contiene el otro, llamado multiplicador (Calcular, término genérico para denominar toda clase de operaciones matemáticas: δ ).",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Aumentar los individuos de una especie, en número considerable, por generación u otra vía de reproducción (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Porque ¿quién sabe hasta dónde plugo al Omnipotente multiplicar la vida y extender los términos de la creación animada?»",
               "autor": "Jovell.",
-              "referencia_obra": "Discursos (Cl. C. 129. 131). X"
+              "referencia_obra": "Discursos (Cl. C. 129. 131)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Don Guillén, aficionado a toda clase de aves, mantenía y multiplicaba ahí las más interesantes variedades de la raza de las palomas.»",
               "autor": "Blest Gana",
               "referencia_obra": ", El loco Estero, p. 45."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con para, para denotar la finalidad. X",
+              "definicion": "Con para, para denotar la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La prole numerosa, que el cielo pareció multiplicar para la total aniquilación del nombre español.»",
                   "autor": "Cadalso",
                   "referencia_obra": ", Cartas marr. 28 (Cl. C. 112. 139)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. +",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Se anidan e multiplican tanto [las cucaraças], que es menester mucha diligençia con ellas.»",
               "autor": "Oviedo",
-              "referencia_obra": ", Quinquag. 1. 20 (1. 241). X"
+              "referencia_obra": ", Quinquag. 1. 20 (1. 241)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Las reses enriquezcan los pastores, | El lobo hambriento crudamente muera, | Y medre y multiplíquese el ganado.»",
               "autor": "Gil Polo",
-              "referencia_obra": ", Diana (Cl. C. 135. 193). X"
+              "referencia_obra": ", Diana (Cl. C. 135. 193)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y arrancar de raíz la mala semilla antes que crezca y se multiplique.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 27 (Cl. C. 81. 28). +"
+              "referencia_obra": "Emp. 27 (Cl. C. 81. 28)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Multiplícanse [las hormigas] a tiempos tantas, que destruyen las sementeras.»",
               "autor": "Cobo",
-              "referencia_obra": ", Hist. Nuevo Mundo, 1. 9. 11 (R. 91. 3402). X"
+              "referencia_obra": ", Hist. Nuevo Mundo, 1. 9. 11 (R. 91. 3402)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La variedad de los colores fue segunda causa impulsiva para la mayor dispersión y población de otras regiones que estaban aún desiertas, sin que para esto se requiera un número grande de progenitores negros, sino una grande cantidad de siglos para ir naturalmente creciendo y multiplicándose las familias.»",
               "autor": "Gumilla",
-              "referencia_obra": ", Orinoco, 1. 5 (p. 94). X"
+              "referencia_obra": ", Orinoco, 1. 5 (p. 94)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero es imposible concebir, dice Samuel Shuckfort, que pasados solos CXXX años después del diluvio, el género humano se huviesse ya multiplicado tanto como se necesita para poblar países tan distantes del lugar de la dispersión.»",
               "autor": "",
-              "referencia_obra": "Rdgz. Mohedano, Hist. lit. esp. 1. 1 (p. 45). X"
+              "referencia_obra": "Rdgz. Mohedano, Hist. lit. esp. 1. 1 (p. 45)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Una vez llegado el hombre a la edad de multiplicarse se una a la mujer que más le guste, dé nuevos individuos a la sociedad; y separado después de su pasajera consorte, uno y otra dejen los frutos de su amor en medio del arroyo.»",
               "autor": "Larra",
-              "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 234). X"
+              "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 234)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tres naranjos daban frutos en el otoño, sombra en todos tiempos; bajo un durazno corpulento, había un pequeño pozo de agua para el solaz de tres o cuatro patos, que, multiplicándose, daban su contribución al complicado y diminuto sistema de rentas sobre que reposaba la existencia de la familia.»",
               "autor": "",
-              "referencia_obra": "D. F. Sarmiento, Recuerdos de Prov. p. 103. X"
+              "referencia_obra": "D. F. Sarmiento, Recuerdos de Prov. p. 103."
             },
             {
+              "marca": "X",
               "texto_cita": "«Multiplíquense las generaciones como las ondas del mar; propáguese la humanidad por mil orbes: nunca se reproducirá en alma creada un amor como el mío, un odio como el mío.»",
               "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 266. X"
+              "referencia_obra": ", Motivos de Proteo, p. 266."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y este laurel no es sólo su tronco y su copa que tienden un paño húmedo y azulado de umbría, sino que es también su retoñar a borbollones que hiende la tierra y sale por la escombra y revienta por el tapial multiplicándose barrocamente la planta sin perder su unidad clásica.»",
               "autor": "Miró",
               "referencia_obra": ", Años y leguas, p. 111."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el modo. X",
+              "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Por algunas islas corren toros salvajes, hatos de puercos que se han multiplicado con la prodigalidad a que invita la tierra.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 2. 10 (p. 186)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para indicar el lugar. X",
+              "definicion": "Con en, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En aquellas naues yuan todas las simientes de yeruas, plantas y animales que nosotros más vsamos, para que en aquella tierra estraña se multiplicassen.»",
                   "autor": "",
                   "referencia_obra": "Pz. Oliva, Hist. inu. Ynd. (ICC. 20. 53)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por, que denota: — el lugar. X",
-              "ejemplos_citas": [
+              "definicion": "Con por, que denota:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Santillana del Mar es la cuna, la matriz, el huevo del hidalgo español, que andando los tiempos se multiplicó por las Asturias y pobló de condes y marqueses los cinco Reinos de España.»",
-                  "autor": "Caballero Calderón",
-                  "referencia_obra": ", Ancha es Castilla, p. 195. — La cantidad. X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Santillana del Mar es la cuna, la matriz, el huevo del hidalgo español, que andando los tiempos se multiplicó por las Asturias y pobló de condes y marqueses los cinco Reinos de España.»",
+                      "autor": "Caballero Calderón",
+                      "referencia_obra": ", Ancha es Castilla, p. 195."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Esos insectos que hasta ahora, gracias a Dios, no han logrado introducirse en las eras de nuestro jardín, son la impiedad y el vicio. Pero ¡ay! que ellos se multiplican por enjambres y aprovechan para su obra de destrucción precisamente las mismas horas que el jardinero consagra al necesario y cuotidiano descanso.»",
-                  "autor": "Martínez Silva",
-                  "referencia_obra": ", Ensayos, p. 101."
+                  "id_limpio": "—",
+                  "definicion": "La cantidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Esos insectos que hasta ahora, gracias a Dios, no han logrado introducirse en las eras de nuestro jardín, son la impiedad y el vicio. Pero ¡ay! que ellos se multiplican por enjambres y aprovechan para su obra de destrucción precisamente las mismas horas que el jardinero consagra al necesario y cuotidiano descanso.»",
+                      "autor": "Martínez Silva",
+                      "referencia_obra": ", Ensayos, p. 101."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con sin. X",
+              "definicion": "Con sin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si un grupo se agiganta y deja muy atrás a los otros ¿es porque está mejor constituido para servir el desenvolvimiento biológico y cultural de la especie o más bien porque sus individuos son tan irresponsables que se multiplican sin pensar en las consecuencias?»",
                   "autor": "A. Imbert",
                   "referencia_obra": ", La flecha, p. 233."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con sobre, para indicar el lugar. X",
+              "definicion": "Con sobre, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y el musgo se multiplica sobre la tierra nuevamente.»",
                   "autor": "Ibarbourou",
                   "referencia_obra": ", Antol. poét. p. 130."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con un gerundio, que indica el modo. X",
+              "definicion": "Con un gerundio, que indica el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los más humildes animalitos, los vivientes ínfimos se multiplican dividiéndose, partiéndose, dejando de ser el uno que antes eran.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Del sen. trág. de la vida, 7 (p. 111)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Siembra el placer sin ostentación y con cierto abandono: brotarán y crecerán nuevos placeres que, parecidos al primero, aunque no iguales, se irán multiplicando, y te darán una cosecha nunca enojosa y de continuo apetecida.»",
                   "autor": "Ferrán",
-                  "referencia_obra": ", Obr. complet. (Cl. C. 164. 147). X"
+                  "referencia_obra": ", Obr. complet. (Cl. C. 164. 147)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Así se multiplicaban los discípulos de San Francisco bajo el ojo enconado de los viejos.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Estud. mesa redonda, 1 (p. 27)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Intrans. X",
+          "definicion": "Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Andá, señora, crecé y multiplicá, que llevéis algo del mundo.»",
               "autor": "Delicado",
-              "referencia_obra": ", La Lozana (Cl. Castal. 13. 115). X"
+              "referencia_obra": ", La Lozana (Cl. Castal. 13. 115)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entre ellos no hay castidad, ni entran en religión ellos ni ellas: todos se casan, todos multiplican, porque el vivir sobriamente aumenta las causas de la generación.»",
               "autor": "Cerv.",
-              "referencia_obra": "Coloq. (Cl. C. 36. 318). X"
+              "referencia_obra": "Coloq. (Cl. C. 36. 318)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En los tiempos barberiles de Martín, un pericote era todavía casi una curiosidad, pues, relativamente, la familia ratonesca principiaba a multiplicar.»",
               "autor": "Palma",
               "referencia_obra": ", Trad. peruanas, p. 153."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cuando de Egipto, a su feliz jornada, | Salvos partieron ya los israelitas, | Y se libró del bárbaro dominio | La estirpe de Jacob multiplicada.»",
               "autor": "Jáur.",
-              "referencia_obra": "Rimas (Cl. C. 182. 142). X"
+              "referencia_obra": "Rimas (Cl. C. 182. 142)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero, multiplicada y enriquecida la familia, unos tiraron hacia las ciudades, otros se quedaron bajo los techos de palma del hato.»",
               "autor": "Gallegos",
               "referencia_obra": ", Doña Bárbara, p. 21."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -244,386 +313,539 @@
     {
       "id": "b)",
       "definicion": "Incrementar, acrecentar, aumentar una cosa en extensión, materia, número o grado (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con sujeto de persona.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mas como en esto hay grados, ansí en las hablas y luces de Dios hay más y menos, y no siempre de la primera vez hacen todo su efecto: mas repítelas Dios, y multiplícalas.»",
               "autor": "León",
-              "referencia_obra": ", Expos. de Job, 2. 40 (2. 299). X"
+              "referencia_obra": ", Expos. de Job, 2. 40 (2. 299)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿De modo que te disculpas | Multiplicando tus culpas | Y acrecentando mis penas?»",
               "autor": "Alarcón",
-              "referencia_obra": ", Las paredes oyen (Cl. C. 37. 147). X"
+              "referencia_obra": ", Las paredes oyen (Cl. C. 37. 147)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Alquimistas mentecatos, | Más codiciosos que ricos, | Que en multiplicar hacienda | Ponéis todos los sentidos.»",
               "autor": "Solórzano",
-              "referencia_obra": ", La Garduña de Sevilla, 2 (Cl. C. 42. 164). +"
+              "referencia_obra": ", La Garduña de Sevilla, 2 (Cl. C. 42. 164)."
             },
             {
+              "marca": "+",
               "texto_cita": "«La intensión de un efecto se acrecienta multiplicando la acción de las causas.»",
               "autor": "Arteaga",
-              "referencia_obra": ", Belleza ideal, 8 (Cl. C. 122. 113). X"
+              "referencia_obra": ", Belleza ideal, 8 (Cl. C. 122. 113)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mallorquines, si deseáis el bien de vuestra patria, abrid a todos sus hijos el derecho de instruirse, multiplicad las escuelas de primeras letras.»",
               "autor": "Jovell.",
-              "referencia_obra": "Mem. sobre educ. pública (Cl. C. 111. 61). X"
+              "referencia_obra": "Mem. sobre educ. pública (Cl. C. 111. 61)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Más adelante Tiburcio fue escaseando sus visitas, i multiplicando sus pedidos de dinero.»",
               "autor": "Fern.",
-              "referencia_obra": "Caball. Lágrimas, p. 21. X"
+              "referencia_obra": "Caball. Lágrimas, p. 21."
             },
             {
+              "marca": "X",
               "texto_cita": "«Al intento plausible de restaurar el latín, o de utilizar el esperanto como lengua científica universal, han respondido los sabios multiplicando todavía el número de idiomas en que aparecen redactados los trabajos científicos.»",
               "autor": "Ramón y Cajal",
-              "referencia_obra": ", Tónicos de la voluntad, 4 (p. 82). X"
+              "referencia_obra": ", Tónicos de la voluntad, 4 (p. 82)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ella se había enamorado, cuando impúber, de un primo suyo, paliducho y enclenque, con quien estaba en secreto comprometida; luego aparecí yo, y alarmado el vejete por el riesgo de que le birlara la prenda, multiplicó las cuantiosas dádivas y estrechó el asedio, ayudado por la parentela entusiástica.»",
               "autor": "Rivera",
-              "referencia_obra": ", La vorágine, 1 (p. 14). X"
+              "referencia_obra": ", La vorágine, 1 (p. 14)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En Roma, conversé con filósofos que sintieron que dilatar la vida de los hombres era dilatar su agonía y multiplicar el número de sus muertes.»",
               "autor": "Borges",
-              "referencia_obra": ", El inmortal, 1 (Aleph, p. 9). X"
+              "referencia_obra": ", El inmortal, 1 (Aleph, p. 9)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Así como la historia se había esparcido por todas partes, Custodio multiplicó sus energías aceptando buenas o malas razones, desplazándose en varias direcciones sin perder tiempo.»",
               "autor": "H. Sánchez",
               "referencia_obra": ", Desheredados, p. 43."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«A los que en los caminos defendidos | Por el gladiador deslumbrante | De nuestra propia orilla | Entraron disparando y negociando, | Llamaron Pacificadores | Y les multiplicaron charreteras.»",
                   "autor": "Neruda",
                   "referencia_obra": ", Poes. p. 177."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para indicar: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Entre dientes, con feroz complacencia, multiplicaba los epítetos de desprecio, las imprecaciones acerbas, revolcaba en ese fango su espíritu sediento de venganza.»",
-                  "autor": "Blest Gana",
-                  "referencia_obra": ", El loco Estero, p. 130. — El medio. X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Entre dientes, con feroz complacencia, multiplicaba los epítetos de desprecio, las imprecaciones acerbas, revolcaba en ese fango su espíritu sediento de venganza.»",
+                      "autor": "Blest Gana",
+                      "referencia_obra": ", El loco Estero, p. 130."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Mucho, mucho tiempo más tarde, intentará multiplicar su dinero con negrerías nada menos que la familia de los Hohenzollern.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Briogr. del Caribe 1. 7 (p. 126)."
+                  "id_limpio": "—",
+                  "definicion": "El medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Mucho, mucho tiempo más tarde, intentará multiplicar su dinero con negrerías nada menos que la familia de los Hohenzollern.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Briogr. del Caribe 1. 7 (p. 126)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tras el leve siseo de las botas de potro trabajando un escobilleo de preludio, los talones y las plantas traquetearon un ritmo, que multiplicó de impaciencia el amplio acento de las guitarras esmeradas en marcar el compás.»",
                   "autor": "Güiraldes",
                   "referencia_obra": ", Don Segundo Sombra, 11 (Archivos, 2. 75)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, para indicar: — el lugar. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Multiplicó en escuadras un soldado | Su honor precioso, su ánimo valiente, | De sola honesta obligación armado.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 118). X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Multiplicó en escuadras un soldado | Su honor precioso, su ánimo valiente, | De sola honesta obligación armado.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 118)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Sólo propondrá a vuestra alteza que multiplique los institutos de útil enseñanza en todas las ciudades y villas de alguna consideración.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "Ley agraria (Cl. C. 110. 208)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Sólo propondrá a vuestra alteza que multiplique los institutos de útil enseñanza en todas las ciudades y villas de alguna consideración.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "Ley agraria (Cl. C. 110. 208). — El número. X"
+                  "id_limpio": "—",
+                  "definicion": "El número.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Que de veinte que me entregaban, los multiplicaba en treinta, y con una santa caridad y amor a los prójimos cobraba contribución de los diez.»",
+                      "autor": "",
+                      "referencia_obra": "Esteb. Gonz. 13 (Cl. C. 108. 140)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Que de veinte que me entregaban, los multiplicaba en treinta, y con una santa caridad y amor a los prójimos cobraba contribución de los diez.»",
-                  "autor": "",
-                  "referencia_obra": "Esteb. Gonz. 13 (Cl. C. 108. 140). — El modo. +"
-                },
-                {
-                  "texto_cita": "«La afición natural a las descripciones y la facilidad con que suele lucir en ellas el ingenio, son causa de que muchos poetas den en el escollo de multiplicarlas en demasía.»",
-                  "autor": "M. de la Rosa",
-                  "referencia_obra": ", Anot. a la poét. 1. 12 (1. 124)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«La afición natural a las descripciones y la facilidad con que suele lucir en ellas el ingenio, son causa de que muchos poetas den en el escollo de multiplicarlas en demasía.»",
+                      "autor": "M. de la Rosa",
+                      "referencia_obra": ", Anot. a la poét. 1. 12 (1. 124)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con para y una prop. infinitiva, que señala la finalidad. X",
+              "definicion": "Con para y una prop. infinitiva, que señala la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Entre el redondo trote duro de los caballos, Platero alzaba su raudo trotecillo agudo, que necesitaba multiplicar insistentemente para no quedarse solo con el Tonto en el camino.»",
                   "autor": "J. R. Jiménez",
                   "referencia_obra": ", Platero y yo, 19 (p. 37)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con por, para indicar el modo. X",
+              "definicion": "Con por, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Que el tiempo y la experiencia, | Por puntos multiplican la prudencia.»",
                   "autor": "Villegas",
                   "referencia_obra": ", Eróticas, 1 (Cl. C. 21. 42)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Con un gerundio. X",
+              "definicion": "Con un gerundio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los romanos, que amaban la genuina antigüedad etrusca y la multiplicaban contrahaciéndola, procedieron de igual suerte respecto de la antigüedad egipcia.»",
                   "autor": "Catalina",
                   "referencia_obra": ", Roma, p. 288."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con sujeto de cosa, por lo general, inmaterial. X",
+          "definicion": "Con sujeto de cosa, por lo general, inmaterial.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Fingiéndome ilusiones mi deseo; | Que el dolor multiplica | Los pesares que el pecho pronostica.»",
               "autor": "Rojas",
-              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 73). X"
+              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 73)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Todo lujo es por lo común dañoso, porque multiplica las necesidades de la vida, emplea el entendimiento humano en cosas frívolas y, dorando los vicios, hace despreciable la virtud, siendo ésa la única que produce los verdaderos bienes y gustos.»",
               "autor": "Cadalso",
-              "referencia_obra": ", Cartas marr. 41 (Cl. C. 112. 170). X"
+              "referencia_obra": ", Cartas marr. 41 (Cl. C. 112. 170)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La danza añadió, con sus movimientos medidos y locuaces, nuevos estímulos a la ilusión y al gusto de los ojos. La pintura multiplicó los objetos de esta misma ilusión, dando formas significantes y graciosas a las máquinas y tramoyas inventadas por la mecánica.»",
               "autor": "Jovell.",
-              "referencia_obra": "Mem. sobre espect. (Cl. C. 110. 279). X"
+              "referencia_obra": "Mem. sobre espect. (Cl. C. 110. 279)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Rodea este palacio un jardín amenísimo, donde la naturaleza y el arte han multiplicado sus atractivos y sus maravillas: estatuas, fuentes, estanques, caprichosos surtidores y juegos hidráulicos.»",
               "autor": "Catalina",
-              "referencia_obra": ", Roma, p. 450. X"
+              "referencia_obra": ", Roma, p. 450."
             },
             {
+              "marca": "X",
               "texto_cita": "«La ciudad, libre de miedo, | Multiplicaba sus puertas. | Cuarenta guardias civiles | Entran a saco por ellas.»",
               "autor": "García Lorca",
-              "referencia_obra": ", Romancero gitano, p. 94. X"
+              "referencia_obra": ", Romancero gitano, p. 94."
             },
             {
+              "marca": "X",
               "texto_cita": "«La edad media había multiplicado los lazos del hombre con la divinidad, había profundizado el estudio de las cosas celestiales.»",
               "autor": "Sanín Cano",
-              "referencia_obra": ", Ensayos, p. 144. X"
+              "referencia_obra": ", Ensayos, p. 144."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ignoro el número total de las cámaras; mi desventura y mi ansiedad las multiplicaron.»",
               "autor": "Borges",
-              "referencia_obra": ", El inmortal, 2 (Aleph, p. 14). X"
+              "referencia_obra": ", El inmortal, 2 (Aleph, p. 14)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La religión más propia para unir a los hombres entre sí, y asegurar de este modo la sociedad, es la católica; porque, una en sus dogmas, una en su moral, una en su jerarquía, una en todo, no puede dejar de multiplicar los lazos de unión, y con ésta la unidad del orden social.»",
               "autor": "",
               "referencia_obra": "Mosquera, Serm. p. 77."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. Además con en. X",
+              "definicion": "Con dat. Además con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Te compadezco tanto como a mí mismo, Lorenzo, pues la suerte te ha dado tanta miseria, y te la multiplica en tus deplorables hijos.»",
                   "autor": "Cadalso",
                   "referencia_obra": ", Noches lúgubres (Cl. C. 152. 59)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la combinación desde... a, para señalar la totalidad de objetos que se toman en cuenta. X",
+              "definicion": "Con la combinación desde... a, para señalar la totalidad de objetos que se toman en cuenta.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En un día de primavera nos vemos encadenados entre el mágico círculo, mientras la naturaleza multiplica sus afinidades desde las plantas a los astros, en espirales infinitas.»",
                   "autor": "S. Villegas",
                   "referencia_obra": ", Canc. caminante, p. 16."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, para indicar: — el lugar. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Poco a poco, van resonando palabras ruidosas que multiplican sus ecos en el viejo anfiteatro: Génova, Pisa, Nápoles, Venecia.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 1. 1 (p. 19). — En quien recae la acción. X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Poco a poco, van resonando palabras ruidosas que multiplican sus ecos en el viejo anfiteatro: Génova, Pisa, Nápoles, Venecia.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Caribe, 1. 1 (p. 19)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Todas estas pasiones engendran los celos en los ánimos de los amantes celosos; al revés de las virtudes que el puro y sencillo amor multiplica en los verdaderos y comedidos amadores.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Gal. 1 (Cl. C. 154. 229)."
+                  "id_limpio": "—",
+                  "definicion": "En quien recae la acción.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Todas estas pasiones engendran los celos en los ánimos de los amantes celosos; al revés de las virtudes que el puro y sencillo amor multiplica en los verdaderos y comedidos amadores.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Gal. 1 (Cl. C. 154. 229)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con hasta, para indicar el límite del espacio. X",
+              "definicion": "Con hasta, para indicar el límite del espacio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sofía iba de una estancia a otra, como en casa nueva, mirándose en espejos desconocidos que puestos frente por frente multiplicaban sus imágenes hasta lejanías neblinosas.»",
                   "autor": "Carpentier",
                   "referencia_obra": ", Siglo de las luces, 1. 5 (p. 39)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Intrans. X",
+          "definicion": "Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El blanco trigo multiplica y crece, | Produce el campo en abundancia tierno | Pasto al ganado, el verde monte ofrece | A las fieras salvajes su gibierno.»",
               "autor": "Garcil.",
               "referencia_obra": "Obr. égl. 3 (Cl. C. 3. 139)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Prnl. X",
+          "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si pecares, dice Job, ¿qué mal le harás?, y si se multiplicaren tus maldades, ¿en qué le dañarás?»",
               "autor": "Gran.",
-              "referencia_obra": "Guía, 1 (Cl. C. 97. 59). X"
+              "referencia_obra": "Guía, 1 (Cl. C. 97. 59)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Enlazados los errores | Multiplicándose van, | Y si algunas treguas dan, | Es para hazerse mayores.»",
               "autor": "Solís",
-              "referencia_obra": "y Valenzuela, El desierto prodigioso, 1 (ICC. 45. 57). X"
+              "referencia_obra": "y Valenzuela, El desierto prodigioso, 1 (ICC. 45. 57)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Qué sería ahora, cuando los libros se han multiplicado, siendo natural que por la mayor variedad de materias que en ellos toco me atribuyan mayor extensión de ciencia para resolver todas sus dudas por extravagantes que sean?»",
               "autor": "",
-              "referencia_obra": "Feijoo, Cartas eruditas (Cl. C. 85. 123). X"
+              "referencia_obra": "Feijoo, Cartas eruditas (Cl. C. 85. 123)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Lejos de haberse incorporado, se aumentó cada día la división de las suertes, y éstas se fueron subdividiendo y multiplicando.»",
               "autor": "Cadalso",
-              "referencia_obra": ", Cartas marr. (Cl. C. 129. 200). X"
+              "referencia_obra": ", Cartas marr. (Cl. C. 129. 200)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No basta cazar de uno solo: y a semenjanza del buen Fuller hay quien tiende las redes por muchas partes para no quedar defraudados, o para que se multipliquen los réditos.»",
               "autor": "Forner",
-              "referencia_obra": ", Declam. contra la charl. p. 33. X"
+              "referencia_obra": ", Declam. contra la charl. p. 33."
             },
             {
+              "marca": "X",
               "texto_cita": "«Era aquello de no tener el corazón desocupado. Y como el ñato, con sus chistes y su exuberancia de juventud, la divertía, los encuentros intencionales se multiplicaban, al grado de haberse hecho ambos maestros en el arte de burlar la vigilancia celosa que los hostilizaba.»",
               "autor": "Blest Gana",
-              "referencia_obra": ", El loco Estero, p. 62. X"
+              "referencia_obra": ", El loco Estero, p. 62."
             },
             {
+              "marca": "X",
               "texto_cita": "«Acabamos de ver que cuando tratamos de dar forma concreta, concebible, es decir, racional, a nuestro anhelo primario, primordial y fundamental de vida eterna consciente de sí y de su individualidad personal, los absurdos estéticos, lógicos y éticos se multiplican.»",
               "autor": "Unamuno",
-              "referencia_obra": ", Del sent. trág. de la vida, 10 (p. 203). X"
+              "referencia_obra": ", Del sent. trág. de la vida, 10 (p. 203)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Estas prédicas tenían eco en mis camaradas y se multiplicaron los consejeros.»",
               "autor": "Rivera",
-              "referencia_obra": ", La Vorágine, 3 (p. 185). X"
+              "referencia_obra": ", La Vorágine, 3 (p. 185)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En el siglo I anterior a nuestra era, Julio César lleva sus legiones hasta las enfangadas orillas del Támesis ---. Crecen entonces y se multiplican las urbes, únense unos a otros territorios con anchas calzadas de piedra que salvan los pantanos y abrazan las colinas guijarrosas.»",
               "autor": "Zalamea",
-              "referencia_obra": ", Minerva en la rueca, p. 73. X"
+              "referencia_obra": ", Minerva en la rueca, p. 73."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sobre los despojos de su extinguido monopolio, hierve ahora el comercio libre, y los negocios se multiplican.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 3. 17 (p. 300)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. Además con en. X",
+              "definicion": "Con dat. Además con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Toma ánimo y osadía para pedirle la continuación de la divina vnión espiritual, en la qual se le uaya multiplicando las mercedes.»",
                   "autor": "",
                   "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 249)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con a, para señalar el lugar. X",
+              "definicion": "Con a, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y cuando más enfrascado estaba en sus cavilaciones sobre el origen y posible remedio de este mal, comenzó a reparar en que las rayas y llamadas de su tío se multiplicaban al margen de los párrafos periodísticos.»",
                   "autor": "Rueda Vargas",
-                  "referencia_obra": ", Lentus in umbra, p. 89. — Siendo el término una prop. infinitiva. X"
-                },
+                  "referencia_obra": ", Lentus in umbra, p. 89."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Pero en su corteza se estampaba una señal semejante a tres letras V superpuestas verticalmente, de tal modo que una penetraba dentro de la otra, una sirviendo de vaso a la segunda, en un diseño que hubiera podido repetirse hasta el infinito, pero que sólo se multiplicaba aquí al reflejarse en las aguas.»",
-                  "autor": "Carpentier",
-                  "referencia_obra": ", Pasos perdidos, p. 171."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pero en su corteza se estampaba una señal semejante a tres letras V superpuestas verticalmente, de tal modo que una penetraba dentro de la otra, una sirviendo de vaso a la segunda, en un diseño que hubiera podido repetirse hasta el infinito, pero que sólo se multiplicaba aquí al reflejarse en las aguas.»",
+                      "autor": "Carpentier",
+                      "referencia_obra": ", Pasos perdidos, p. 171."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mas también aconteció siempre que, cayendo los mártires, venían al suelo los ídolos y se consumían los martirizadores gentiles, y multiplicándose con la muerte de los unos la fe de los otros, se levantavan y acrescentavan los fieles, hasta que vino a reynar en todos la fe.»",
                   "autor": "León",
-                  "referencia_obra": ", Nomb. 1, Braço (Cl. C. 33. 82). — Además con en. +"
-                },
+                  "referencia_obra": ", Nomb. 1, Braço (Cl. C. 33. 82)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Las partidas de facciosos --- ya en aquel tiempo se multiplicaban con exceso.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Cartas a L. Holland, 9 (R. 19. 5771)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Las partidas de facciosos --- ya en aquel tiempo se multiplicaban con exceso.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Cartas a L. Holland, 9 (R. 19. 5771)."
+                    }
+                  ]
                 }
               ]
             },
@@ -631,195 +853,282 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con desde. Además con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Desde la época de Lope de Vega se multiplicaron los autores de piezas dramáticas en el clero.»",
                   "autor": "Clem.",
                   "referencia_obra": "Coment. pról. (4. 8)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con en, para denotar: — el lugar. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, para denotar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¿De dónde nace que se multipliquen los vicios, los desórdenes en las Comunidades, y en las familias?»",
-                  "autor": "Isla",
-                  "referencia_obra": ", Año christ. 29 (p. 460). X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿De dónde nace que se multipliquen los vicios, los desórdenes en las Comunidades, y en las familias?»",
+                      "autor": "Isla",
+                      "referencia_obra": ", Año christ. 29 (p. 460)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En la misma Inglaterra se multiplican las versiones y adiciones a las leyendas arturinas: Robert Wace, escribe en francés la Gesta Bretona.»",
+                      "autor": "Zalamea",
+                      "referencia_obra": ", Minerva en la rueca, p. 101."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«En la misma Inglaterra se multiplican las versiones y adiciones a las leyendas arturinas: Robert Wace, escribe en francés la Gesta Bretona.»",
-                  "autor": "Zalamea",
-                  "referencia_obra": ", Minerva en la rueca, p. 101. — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Sin embargo si las sumas se multiplican en esa proporción de quinientas onzas, la cosa irá muy mal al fin de algún tiempo.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 2 (p. 172)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Multiplicaría, tal vez, su caudal [del oro] en proporciones fantásticas.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 222)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Sin embargo si las sumas se multiplican en esa proporción de quinientas onzas, la cosa irá muy mal al fin de algún tiempo.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 2 (p. 172). X"
+                  "id_limpio": "—",
+                  "definicion": "El medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Son otros tantos espejos en que se multiplica la figura de un solo hombre.»",
+                      "autor": "Forner",
+                      "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 42)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Él entra a una especie de tienda que se ha hecho a su lado, se quita el capirote negro que llevaba en la cabeza, y aparece muy sonriente, con una sonrisa que se multiplica en cada labio, en cada pupila del apretado concurso. ¡Es el Rey!»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Caribe, 1. 5 (p. 82)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Multiplicaría, tal vez, su caudal [del oro] en proporciones fantásticas.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 222). — El medio. X"
+                  "id_limpio": "—",
+                  "definicion": "Fracciones de una unidad dividida.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Empieza insensiblemente el latín a multiplicarse en dialectos, al modo que un organismo se descompone y transforma en nuevos organismos homogéneos.»",
+                      "autor": "Caro",
+                      "referencia_obra": ", Del uso, p. 60."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Son otros tantos espejos en que se multiplica la figura de un solo hombre.»",
-                  "autor": "Forner",
-                  "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 42). X"
-                },
-                {
-                  "texto_cita": "«Él entra a una especie de tienda que se ha hecho a su lado, se quita el capirote negro que llevaba en la cabeza, y aparece muy sonriente, con una sonrisa que se multiplica en cada labio, en cada pupila del apretado concurso. ¡Es el Rey!»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 1. 5 (p. 82). — Fracciones de una unidad dividida. X"
-                },
-                {
-                  "texto_cita": "«Empieza insensiblemente el latín a multiplicarse en dialectos, al modo que un organismo se descompone y transforma en nuevos organismos homogéneos.»",
-                  "autor": "Caro",
-                  "referencia_obra": ", Del uso, p. 60. — El grado. X"
-                },
-                {
-                  "texto_cita": "«Aunque la repartía [Eustoquio] con suma prudencia socorriendo solamente la necesidad, ésta se multiplicaba en proporción muy superior a las facultades que tenía.»",
-                  "autor": "Isla",
-                  "referencia_obra": ", Adic. Año christ. p. 78."
+                  "id_limpio": "—",
+                  "definicion": "El grado.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Aunque la repartía [Eustoquio] con suma prudencia socorriendo solamente la necesidad, ésta se multiplicaba en proporción muy superior a las facultades que tenía.»",
+                      "autor": "Isla",
+                      "referencia_obra": ", Adic. Año christ. p. 78."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con entre. X",
+              "definicion": "Con entre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Proust pinta a cierto género de snobs que de alguna manera eran existentes, pero esos snobs se multiplican entre los lectores y admiradores de Proust, que terminan por convertirse en personajes proustianos.»",
                   "autor": "Sábato",
                   "referencia_obra": ", El escritor, 3 (p. 129)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Con hasta. Además con por y una prop. indicativa. X",
+              "definicion": "Con hasta. Además con por y una prop. indicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero esta reacción de enojo se multiplica hasta la exasperación porque el pueblo B advierte al mismo tiempo la incongruencia entre la opinión A y lo que en B efectivamente ha pasado.»",
                   "autor": "Ortega y Gasset",
                   "referencia_obra": ", Rebel. de las masas, p. 300."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— θ θ )",
               "id_limpio": "— θ θ )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los pocos amigos que le sirvieran de heraldos en los últimos años, se han multiplicado por todo el mundo.»",
                   "autor": "Zalamea",
-                  "referencia_obra": ", Minerva en la rueca, p. 31. — El término es una prop. indicativa. X"
-                },
+                  "referencia_obra": ", Minerva en la rueca, p. 31."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Se multiplican los textos y los gráficos, porque todas las civilizaciones han sentido la misma curiosidad botánica de Sigüenza, transmitiéndonos abundantemente la imagen del árbol de la vida.»",
-                  "autor": "Miró",
-                  "referencia_obra": ", Años y leguas, p. 173."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. indicativa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Se multiplican los textos y los gráficos, porque todas las civilizaciones han sentido la misma curiosidad botánica de Sigüenza, transmitiéndonos abundantemente la imagen del árbol de la vida.»",
+                      "autor": "Miró",
+                      "referencia_obra": ", Años y leguas, p. 173."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ι ι )",
               "id_limpio": "— ι ι )",
-              "definicion": "Con sobre. +",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Se han multiplicado [los pecados] sobre los cabellos de tu cabeza.»",
                   "autor": "Gran.",
                   "referencia_obra": "Mem. del crist. 23 (R. 11. 1982)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Que abriendo la boca de la codicia, lo quieren tragar todo para que sus casas estén proveídas y su renta multiplicada, sin poner los ojos en el pupilo huérfano ni el oído a la voz de la triste doncella.»",
               "autor": "Alemán",
-              "referencia_obra": ", Guzmán, 1. 1. 3 (Cl. C. 73. 114). X"
+              "referencia_obra": ", Guzmán, 1. 1. 3 (Cl. C. 73. 114)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Somos sus ideas en acción; somos la reproducción multiplicada de su virtud patricia, de su conciencia humanitaria, de su pensamiento filosófico.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 1 (p. 29). X"
+              "referencia_obra": ", Amalia, 1 (p. 29)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuando la tesorería decretaba algunos pagos, Raquel recogía su dinero multiplicado.»",
               "autor": "Osorio Lizarazo",
-              "referencia_obra": ", El camino en la sombra, p. 245. X"
+              "referencia_obra": ", El camino en la sombra, p. 245."
             },
             {
+              "marca": "X",
               "texto_cita": "«La gente dice: Si Hernando de Soto va a la Florida, es porque La Florida será otro Perú multiplicado.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 6 (p. 107)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, para indicar el agente. X",
+              "definicion": "Con por, para indicar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Merced a esta elasticidad social, la vida de cada individuo queda en cierta manera multiplicada por la de todos los demás.»",
                   "autor": "Ortega y Gasset",
                   "referencia_obra": ", Esp. invertebr. p. 56."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero mi alegría queda intacta y la veré multiplicada | En los caireles fulgurantes del sueño.»",
                   "autor": "Ibarbourou",
                   "referencia_obra": ", Antol. poét. p. 245."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Part. adj. X",
+          "definicion": "Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Yo hube de contestar lo mejor que me fue posible a las multiplicadas preguntas de D. Lucas.»",
               "autor": "García Gutiérrez",
-              "referencia_obra": ", Obr. complet. p. 381. X"
+              "referencia_obra": ", Obr. complet. p. 381."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuando subamos a la cúpula y nos hallemos sobre los cuatro grandes arcos de Bramante, que unen como puentes gigantescos los pilares que hemos descrito, formaremos idea exacta de las proporciones del templo y de sus multiplicados adornos; y admiraremos de cerca la obra colosal de Miguel Ángel.»",
               "autor": "Catalina",
-              "referencia_obra": ", Roma, p. 129. X"
+              "referencia_obra": ", Roma, p. 129."
             },
             {
+              "marca": "X",
               "texto_cita": "«El silencio devolvió una ráfaga de multiplicados ecos.»",
               "autor": "Alegría",
-              "referencia_obra": ", El mundo es ancho y ajeno, 9 (p. 369). X"
+              "referencia_obra": ", El mundo es ancho y ajeno, 9 (p. 369)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dame unas codornices de cacería, oliendo a musgo de las selvas, un pescado vestido como un rey, destilando profundidad mojada sobre la fuente, abriendo pálidos ojos de oro bajo el multiplicado pezón de los limones.»",
               "autor": "Neruda",
               "referencia_obra": ", Canto general, p. 363."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -827,78 +1136,105 @@
     {
       "id": "c)",
       "definicion": "Aplicado a la luz, al sonido, al tiempo, Expandir, dilatar, esparcir, irradiar, propagar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En una palabra, mostrábase imponente la tiranía del espacio, reagravada por la adustez del medio físico que multiplicaba el factor tiempo.»",
               "autor": "Valencia",
-              "referencia_obra": ", Discursos, 1 (p. 56). X"
+              "referencia_obra": ", Discursos, 1 (p. 56)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Templos graves, llenos de dorados que multiplicaban la luz de los cirios, donde en las solemnidades, mientras el órgano temblaba, había visto como un violáceo resplandor al ilustrísimo arzobispo don Francisco Ibarra.»",
               "autor": "Uslar-Pietri",
-              "referencia_obra": ", Lanzas coloradas, 3 (p. 30). X"
+              "referencia_obra": ", Lanzas coloradas, 3 (p. 30)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Oh, despierta ventura!, | Tu conciencia de amor asegurada | Multiplica mis horas.»",
               "autor": "Ridruejo",
               "referencia_obra": ", Primer libro de amor (Cl. Castal. 73. 129)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el medio. X",
+              "definicion": "Con la prep. con, para indicar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cada hombre posee, pues, un equipo invariable de neuronas de las cuales debe sacar el mejor partido, acreciendo su diferenciación adaptativa y multiplicando o robusteciendo sus expansiones con el ejercicio, pero sin posibilidad de aumentar el contingente adquirido en la vida fetal.»",
                   "autor": "Ramón y Cajal",
-                  "referencia_obra": ", El mundo, 3. 14 (p. 150). X"
+                  "referencia_obra": ", El mundo, 3. 14 (p. 150)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En su claustro cuyas piedras centenarias | Empapadas en la música | De los bronces, multiplican los sonidos | Con la magia de una acústica | Prodigiosa.»",
                   "autor": "",
                   "referencia_obra": "Castillo, Poes. (El árbol, p. 76)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la combinación de... en, para señalar la extensión. X",
+              "definicion": "Con la combinación de... en, para señalar la extensión.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y todo ello entre el ladrar de los canes y el chillido de los tréguiles, que el eco multiplicaba de loma en loma.»",
                   "autor": "Barrios",
                   "referencia_obra": ", Gran señor y rajadiablos, p. 30."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, para indicar el lugar. X",
+              "definicion": "Con en, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Paralelas de candelabros multiplican las luces en el cristal de sus pantallas.»",
                   "autor": "Carrasquilla",
-                  "referencia_obra": ", Frutos, 7. 2 (p. 95). X"
+                  "referencia_obra": ", Frutos, 7. 2 (p. 95)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Al momento, el platanal chamuscado, aflojó las hojas y las chispas multiplicaron el estrago en la cocina y el caney.»",
                   "autor": "Rivera",
-                  "referencia_obra": ", La vorágine, 1 (p. 95). — El modo. X"
-                },
+                  "referencia_obra": ", La vorágine, 1 (p. 95)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Abrir todas las alas de la vida, | Multiplicar el tiempo en el afán, | Tener conciencia de que Dios me hizo | Señor del mundo que a su planta está.»",
-                  "autor": "Pombo",
-                  "referencia_obra": ", Antol. poética, p. 35."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Abrir todas las alas de la vida, | Multiplicar el tiempo en el afán, | Tener conciencia de que Dios me hizo | Señor del mundo que a su planta está.»",
+                      "autor": "Pombo",
+                      "referencia_obra": ", Antol. poética, p. 35."
+                    }
+                  ]
                 }
               ]
             }
@@ -907,99 +1243,122 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Tratándose de lo inmaterial. X",
+          "definicion": "Tratándose de lo inmaterial.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«[Zaragoza] es corte y cabeza del reino de Aragón, y en esta ocasión custodia y defensa de Castilla, y resguardo de Navarra; cuya amenidad de campos y fertilidad de arboledas, aumentando los anales de su fama, acreditan y multiplican la inmortalidad de su nombre.»",
               "autor": "",
               "referencia_obra": "Esteb. Gonz. 12 (Cl. C. 109. 199)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Estos libros propagan las lenguas, doctrinan los pueblos, y andando en las manos de todos, siembran y multiplican en todos tiempos las ideas de lo mejor en la literatura.»",
                   "autor": "Forner",
                   "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 151)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con entre, para señalar los destinatarios de una repartición. X",
+              "definicion": "Con entre, para señalar los destinatarios de una repartición.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Daré órdenes a los comisarios, y a los principales agentes de la policía secreta, para que ellos multipliquen entre sus subalternos la disposición.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 1 (p. 72)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con hasta, para indicar el término de la propagación. X",
+              "definicion": "Con hasta, para indicar el término de la propagación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Digo angustiosa [identidad] porque, en efecto, lo que en cada país es sentido como circunstancia dolorosa, multiplica hasta el infinito su efecto deprimente cuando el que lo sufre advierte que apenas hay lugar en el continente donde no acontezca estrictamente lo mismo.»",
                   "autor": "Ortega y Gasset",
                   "referencia_obra": ", Rebel. de las masas, p. 23."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Prnl. X",
+          "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Aquí en nuestra España... los predicadores, mudos contra el vicio, le dejan que se arraigue, que se extienda, que se multiplique.»",
               "autor": "Isla",
-              "referencia_obra": ", Fr. Ger. pról. (Cl. C. 148. 48). X"
+              "referencia_obra": ", Fr. Ger. pról. (Cl. C. 148. 48)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En la andantesca escuela del mundo, la facultad de concebir imágenes se extiende, se realza, se multiplica.»",
               "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 169. X"
+              "referencia_obra": ", Motivos de Proteo, p. 169."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dentro del circo todos parecían tener una explicación, según los comentarios se multiplicaban.»",
               "autor": "H. Sánchez",
               "referencia_obra": ", Desheredados, p. 193."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«De ese inexhausto granero | Saldrán las hostias del mañana; | El hambre será, si no vana, | Menos multiplicada y fuerte.»",
               "autor": "Darío",
               "referencia_obra": ", Poes. p. 395."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "—α α )",
               "id_limpio": "—α α )",
-              "definicion": "Con por, para indicar el agente. X",
+              "definicion": "Con por, para indicar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En las grandes metrópolis, la amistad es casi un vicio de masas, grotesco y multiplicado por los cafés y las casas de inquilinato.»",
                   "autor": "Buitrago",
                   "referencia_obra": ", Hostigante verano, 18 (p. 315)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1008,84 +1367,104 @@
     {
       "id": "2",
       "definicion": "Afanarse, desvelarse, esforzarse alguien por atender muchas cosas al mismo tiempo (prnl.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con un gerundio. X",
+          "definicion": "Con un gerundio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Entre éstos vi a Marcial, que se multiplicaba gritando y moviéndose conforme a su poca agilidad, y era a la vez contramaestre, marinero, artillero, carpintero y cuanto había que ser en tan terribles instantes.»",
               "autor": "P. Galdós",
-              "referencia_obra": ", Trafalgar, 11 (p. 110). X"
+              "referencia_obra": ", Trafalgar, 11 (p. 110)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Apresurada y temerosa, sin embargo, procuraba multiplicarse, esforzándose por satisfacer a su señora.»",
               "autor": "Osorio Lizarazo",
-              "referencia_obra": ", El camino en la sombra, p. 311. X"
+              "referencia_obra": ", El camino en la sombra, p. 311."
             },
             {
+              "marca": "X",
               "texto_cita": "«Las calaminas resonaban violentamente al golpe de las piedras y el aire deflagraba de gritos: ¡So adulones!, ¡Viva la huelga!, ¡No somos traidores! Alemparte parecía multiplicarse, yendo de arriba abajo, seguido del comité directivo.»",
               "autor": "Alegría",
               "referencia_obra": ", El mundo es ancho y ajeno, 13 (p. 527)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con una expresión adv. para indicar la razón de un hecho. X",
+              "definicion": "Con una expresión adv. para indicar la razón de un hecho.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero todos eran gente muy llanera, bien montada y dispuesta a multiplicarse en obsequio de aquel que había venido a enfrentársele a la cacica del Arauca.»",
                   "autor": "Gallegos",
                   "referencia_obra": ", Doña Bárbara, p. 183."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con para y una prop. infinitiva. X",
+              "definicion": "Con para y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya algunas puntas empezaban a reunirse en el sitio donde estaban los novillos madrineros; pero otras se resistían, y los jinetes, que ya venían picando de cerca, tenían que multiplicarse para atropellarlas por distintos puntos.»",
                   "autor": "Gallegos",
-                  "referencia_obra": ", Doña Bárbara, p. 190. X"
+                  "referencia_obra": ", Doña Bárbara, p. 190."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Lo prueba su paso fugaz y afortunado por la presidencia, en 1877, cuando desafía el fanatismo de sus copartidarios, reduciendo el ejército al pie de paz, perdonando, multiplicándose para hacer olvidar la contienda fraterna.»",
                   "autor": "Rueda Vargas",
                   "referencia_obra": ", Lentus in umbra, p. 59."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Por sinécdoque. X",
+              "definicion": "Por sinécdoque.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tome usted sus precausiones. —¡Oh, las tomaré! Mis ojos se multiplicarán, no tenga cuidado Vuecelencia.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 4 (p. 385)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Desde el siglo V de la fundación de Roma, es decir, desde aquellos tiempos en que comienzan a entreverse en toda su grandeza los destinos de la ciudad, que ha de ser reina del mundo, la ciencia y el ingenio de los hombres, el celo de los cónsules, la multiplicada labor de los esclavos, la riqueza creciente de la república, se emplean en traer a las siete colinas raudales de agua.»",
               "autor": "Catalina",
               "referencia_obra": ", Roma, p. 58."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1093,34 +1472,51 @@
     {
       "id": "3",
       "definicion": "Arit. Hallar el producto de dos factores, tomando uno de ellos, que se llama multiplicando, tantas veces por sumando como unidades contiene el otro, llamado multiplicador (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las matemáticas son la única ciencia perfecta en cuanto suman, restan, multiplican y dividen números, pero no cosas reales y de bulto.»",
               "autor": "Unamuno",
               "referencia_obra": ", Del sen. trág. de la vida, 5 (p. 78)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, para introducir el segundo elemento de la operación matemática. X",
+              "definicion": "Con por, para introducir el segundo elemento de la operación matemática.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ajuste el precio, su avaricia indique, | Y porque encierra en sí textos sin tasa, | El precio por los textos multiplique.»",
                   "autor": "Forner",
-                  "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 78). — met. X"
-                },
+                  "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 78)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Tablas, plumas y máquinas, | Todo a multiplicar, | Caricia por caricia, | Abrazo por volcán. | Hay que cansar los números. | Que cuenten sin parar, | Que se embriaguen contando, | Y que no sepan ya | Cuál de ellos será el último: | ¡Que vivir sin final!»",
-                  "autor": "Salinas",
-                  "referencia_obra": ", La voz (Cl. Castal. 2. 70)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Tablas, plumas y máquinas, | Todo a multiplicar, | Caricia por caricia, | Abrazo por volcán. | Hay que cansar los números. | Que cuenten sin parar, | Que se embriaguen contando, | Y que no sepan ya | Cuál de ellos será el último: | ¡Que vivir sin final!»",
+                      "autor": "Salinas",
+                      "referencia_obra": ", La voz (Cl. Castal. 2. 70)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1129,53 +1525,65 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. Con en, para indicar el modo. X",
+          "definicion": "Absol. Con en, para indicar el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Tenía ganas de comprar aquella Odisea, o bien las últimas novelas policíacas, o bien esas Comedias Americanas de Lope que se ofrecía en la vitrina de Brentano’s, para volverme a encontrar con el idioma que nunca usaba, aunque sólo podía multiplicar en español y sumar con el llevo tanto.»",
               "autor": "Carpentier",
               "referencia_obra": ", Los pasos perdidos, p. 17."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con en, para indicar la reciprocidad de la acción. X",
+          "definicion": "Part. Con en, para indicar la reciprocidad de la acción.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Una tahulla de tierra (que llamaron un tiempo los moros, y se quedó el vocablo arábigo hasta hoy) es un cuadrado de cuarenta varas por cada lado, que, multiplicadas en sí, son mil y seiscientas.»",
               "autor": "Cascales",
               "referencia_obra": ", Cartas filológ. 2 (Cl. C. 117. 185)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, para introducir el segundo elemento de la operación matemática, llamado multiplicador. X",
+              "definicion": "Con por, para introducir el segundo elemento de la operación matemática, llamado multiplicador.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y sobre el cual ponía yo el castillo de los veinticinco millones de Panamá, multiplicados por dos y un medio, en virtud de un sistema bancario apoyado por dos bancos extranjeros, de lo primero del mundo.»",
                   "autor": "",
                   "referencia_obra": "M. F. Suárez, Sueños, 2 (p. 263)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "En el siguiente ejemplo, Calcular, término genérico para denominar toda clase de operaciones matemáticas. X",
+          "definicion": "En el siguiente ejemplo, Calcular, término genérico para denominar toda clase de operaciones matemáticas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Consagró tres meses a digerir y ordenar los abundantes materiales colectados en su expedición al sur, a determinar con precisión la longitud del péndulo de segundos en aquella ciudad, a corregir su plano, a observar la ley de sus variaciones barométricas, y a multiplicar los elementos astronómicos para la fijación de su posición geográfica.»",
               "autor": "Vergara y Vergara",
               "referencia_obra": ", Hist. lit. 14 (p. 344)"
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1183,12 +1591,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «No fagas mucho cuidado, | Como de gran maravilla, | De verte multiplicado | En el espejo quebrado | Puesto en cada partezilla.» I. de Mendoza, Canc. (Cl. C. 163. 177). X «Plege a nuestro Señor, que pues nuestros pecados que desto son la causa no çesan nin se corrigen, antes se dize e aun se cree que se multiplican e agrauian, ansí en calidad como en cantidad.» Pz. de Guzmán, Gener. (Cl. C. 61. 146). X «E nin aun por ser luengo tienpo dicho por algunos ser fados e venturas non se sygue por ello ser asy, nin que deva ser creydo, nin ello ser verdad; que sería multiplicar ynconviniente.» Arc. de Talav. Corbacho (Cl. Castal. 24. 216). X «O quiçá la echara e me sacara tantos pollos e pollas con que pudiera tanto multiplicar que fuera causa de me sacar el pie del lodo.» Id. ib. (Cl. Castal. 24. 124). + «Quanto más trabajavan en su muerte [de la Hidra] los que la querían acabar ---, tanto más ellas [las cabezas] por su natura multiplicavan en su vida por creçimiento de cabeças.» Villena, Doze trabajos, 7 (p. 65). + «Por estado de cavallero entiendo rico omne --- e todos los otros que son fidalgos a quien pertenesçe usar, exerçer e multiplicar las costumbres virtuosas.» Id. ib. introd. (p. 12).\n\n— Siglo XIII: X «E desta manera moraron allí gran tiempo; assí que tanto multiplicaron e crecieron los pueblos dellos, que fue muy gran gente a maravilla.» Conq. de Ultr. (ICC. 51. 23). X «So esti panno folgan alegres e pagadas | Las vírgines gloriosas de don Cristo amadas, | Que cantan a su Madre laudes multiplicadas, | E tienen las coronas preciosas e onrradas.» Berc. Mil. 22 (Cl. C. 44. 143). X «Fizo al cuerpo santo prieces multiplicadas, | Despidiose de todos tres o cuatro vegadas, | Metiose en carrera faciendo sus jornadas, | Eran todas las yentes del miraclo pagadas.» Id. S. Dom. (Cl. Castal. 49. 177).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. multiplicare de multus ‘mucho’ y plicare ‘plegar’. Cat. y port. multiplicar, fr. multiplier, it. multiplicare, moltiplicare.",
+  "etimologia": "Etim. Del lat.<i> multiplicare</i> de<i> multus</i> ‘mucho’ y<i> plicare</i> ‘plegar’. Cat. y port.<i> multiplicar</i>, fr.<i> multiplier</i>, it.<i> multiplicare</i>,<i> moltiplicare.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, a - 1, b, a - 1, c, a - 3, a.\n\n— Absol.: 3, β.\n\n— Rεφλ.: 1, α, β.\n\n— Pρνλ.: 1, β, δ - 1, χ, γ - 2, α.\n\n— Iντρανσ.: 1, α, γ - 1, β, γ.\n\n— Pαρτ.: 1, α, δ - 1, β, ε - 1, χ, δ - 2, β - 3, γ.\n\n— Pαρτ. adj. : 1, b, ζ.\n\n— Cον δατ.: 1, β, α, α α - 1, b, β, α α - 1, b, δ, α α.\n\n— Con a: 1, b, β, β β - 1, b, δ, β β.\n\n— Con la prep. con: 1, a, β, α α - 1, b, α, β β - 1, b, δ, γ γ - 1, c, a, α α.\n\n— Con de: 1, b, a, γ γ.\n\n— Con la combinación de… en: 1, c, a, β β.\n\n— Con desde: 1, b, β, β β - 1, b, δ, δ δ.\n\n— Con en: en general.\n\n— Con entre: 1, b, δ, ζ ζ - 1, c, β, β β.\n\n— Con hasta: 1, b, β, δ δ - 1, b, δ, η η - 1, c, β, γ γ.\n\n— Con para: 1, a, α, α α - 1, b, α, ε ε - 2, α, β β.\n\n— Con por: 1, a, β, γ γ - 1, b, α, ζ ζ - 1, b, δ, η η - 1, b, δ, θ θ - 1, b, ε, α α - 1, c, δ, α α - 3, a, α α - 3, γ, α α.\n\n— Con sin: 1, a, β, δ δ.\n\n— Con sobre: 1, a, β, ε ε - 1, b, δ, ι ι.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, a - 1, b, a - 1, c, a - 3, a.\n\n— Absol.: 3, β.\n\n— Rεφλ.: 1, α, β.\n\n— Pρνλ.: 1, β, δ - 1, χ, γ - 2, α.\n\n— Iντρανσ.: 1, α, γ - 1, β, γ.\n\n— Pαρτ.: 1, α, δ - 1, β, ε - 1, χ, δ - 2, β - 3, γ.\n\n— Pαρτ. adj.: 1, b, ζ.\n\n— Cον δατ.: 1, β, α, α α - 1, b, β, α α - 1, b, δ, α α.\n\n— Con a: 1, b, β, β β - 1, b, δ, β β.\n\n— Con la prep. con: 1, a, β, α α - 1, b, α, β β - 1, b, δ, γ γ - 1, c, a, α α.\n\n— Con de: 1, b, a, γ γ.\n\n— Con la combinación de… en: 1, c, a, β β.\n\n— Con desde: 1, b, β, β β - 1, b, δ, δ δ.\n\n— Con en: en general.\n\n— Con entre: 1, b, δ, ζ ζ - 1, c, β, β β.\n\n— Con hasta: 1, b, β, δ δ - 1, b, δ, η η - 1, c, β, γ γ.\n\n— Con para: 1, a, α, α α - 1, b, α, ε ε - 2, α, β β.\n\n— Con por: 1, a, β, γ γ - 1, b, α, ζ ζ - 1, b, δ, η η - 1, b, δ, θ θ - 1, b, ε, α α - 1, c, δ, α α - 3, a, α α - 3, γ, α α.\n\n— Con sin: 1, a, β, δ δ.\n\n— Con sobre: 1, a, β, ε ε - 1, b, δ, ι ι.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

@@ -6,197 +6,260 @@
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Ir o moverse por el aire, sosteniéndose con las alas (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los ánades, de oro y verde | Bordadas las plumas nuevas | Del cuello, y de azul las alas, | Que bien nadan y mal vuelan.»",
               "autor": "Lope",
-              "referencia_obra": ", Poes. lír. (Cl. C. 75. 27). X"
+              "referencia_obra": ", Poes. lír. (Cl. C. 75. 27)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Bueno sería sacar el pece del agua y criar los pavos en ella, hacer volar al buey y el águila que are, sustentar al caballo con arena, cebar con paja al halcón y quitar al hombre el risible.»",
               "autor": "Alemán",
-              "referencia_obra": ", Guzmán, 1. 3. 7 (Cl. C. 83. 250). X"
+              "referencia_obra": ", Guzmán, 1. 3. 7 (Cl. C. 83. 250)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Job se dice que el hombre nació para el trabajo y el ave para volar.»",
               "autor": "Nieremb.",
-              "referencia_obra": "Epist. 20 (Cl. C. 30. 117). X"
+              "referencia_obra": "Epist. 20 (Cl. C. 30. 117)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Imágenes blancas y fugitivas, como esas mariposas del trópico que vuelan y sacuden el polvo de oro de sus alas sobre las flores que acarician.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 2 (p. 146). X"
+              "referencia_obra": ", Amalia, 2 (p. 146)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y las golondrinas se cruzan, tendidas | Las alas agudas al viento dorado, | Y en latarde risueña se alejan | Volando, soñando...»",
               "autor": "Machado",
               "referencia_obra": ", Poes. complet. p. 73."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, que señala la dirección. X",
+              "definicion": "Con a, que señala la dirección.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nuestro sol meridional descendía, sin más belleza que la suya propia, sobre los desiertos de la Pampa. Escuadrones de pájaros salvajes volaban al Oeste, como a alcanzar el sol.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 4 (p. 404)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con bajo. X",
+              "definicion": "Con bajo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Ay! La pobre princesa de la boca de rosa | Quiere ser golondrina, quiere ser mariposa, | Tener alas ligeras, bajo el cielo volar.»",
                   "autor": "Darío",
                   "referencia_obra": ", Poes. p. 189."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, que indica: — el medio. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, que indica:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Dos alas tengo con las cuales vuelo, | Sin las cuales mover no me podría;»",
-                  "autor": "Aldana",
-                  "referencia_obra": ", Poes. (Cl. C. 143. 131). — El modo. Además con la combinación de... hasta. X"
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Dos alas tengo con las cuales vuelo, | Sin las cuales mover no me podría;»",
+                      "autor": "Aldana",
+                      "referencia_obra": ", Poes. (Cl. C. 143. 131)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Y dijo la paloma: ---| Tengo mi hogar. Y vuelo, | Con mis anhelos de ave, | Del amado árbol mío | Hasta el bosque lejano ---.»",
-                  "autor": "Darío",
-                  "referencia_obra": ", Poes. p. 173."
+                  "id_limpio": "—",
+                  "definicion": "El modo. Además con la combinación de... hasta.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y dijo la paloma: ---| Tengo mi hogar. Y vuelo, | Con mis anhelos de ave, | Del amado árbol mío | Hasta el bosque lejano ---.»",
+                      "autor": "Darío",
+                      "referencia_obra": ", Poes. p. 173."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con las combinaciones de... en o de... a. X",
+              "definicion": "Con las combinaciones de... en o de... a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mariposa ligera, vuela de flor en flor. Tiene algún amor sentimental, y no está nunca sin intrigas, pero intrigas de peligro y consecuencias: es el terror de los padres y de los maridos.»",
                   "autor": "Larra",
-                  "referencia_obra": ", Artíc. de cost. (Cl. C. 45. 240). X"
+                  "referencia_obra": ", Artíc. de cost. (Cl. C. 45. 240)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pájaro errante, ideal golondrina, | Vuela de Arabia a un confín solitario, | Y ve pasar en su torre argentina | A un rey de Oriente sobre un dromedario.»",
                   "autor": "Darío",
                   "referencia_obra": ", Poes. p. 212."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con en, para indicar el ámbito en que ocurre la acción. X",
+              "definicion": "Con en, para indicar el ámbito en que ocurre la acción.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Las mariposas son flores que vuelan, | Las flores, mariposas perfumadas | Que en vano en el azul volar anhelan | Porque están en la tierra aprisionadas.»",
                   "autor": "Flórez",
                   "referencia_obra": ", Obr. poética, p. 338."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con hacia, para indicar la dirección. X",
+              "definicion": "Con hacia, para indicar la dirección.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El revuelo de un ave que al pasar sobre nuestras cabezas dio un graznido siniestro y conocido para mí, interrumpió nuestra despedida; la vi volar hacia la cruz de hierro, y posada en uno de sus brazos, aleteo repitiendo su espantoso canto.»",
                   "autor": "Isaacs",
                   "referencia_obra": ", María, p. 280."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Con hasta. X",
+              "definicion": "Con hasta.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Acabé por convertirme en una paloma sin ojos. Volé hasta un tejado y allí, al pie de una chimenea, puse un huevo pequeño, redondo y sonrosado.»",
                   "autor": "Cela",
                   "referencia_obra": ", Mrs. Caldwell, p. 180."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— θ θ )",
               "id_limpio": "— θ θ )",
-              "definicion": "Con por. +",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Eso, ¿qué sería sino estar penada porque no tiene alas para volar por el aire?»",
                   "autor": "Ávila",
                   "referencia_obra": ", Epist. 1. 39 (1. 472)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No miro con deleite y gusto las aves que vuelan por el aire?»",
                   "autor": "Sig.",
                   "referencia_obra": "Vida de S. Jer. 1. 4 (p. 47)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ι ι )",
               "id_limpio": "— ι ι )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No es mejor la víbora, porque anda el pecho en la tierra, que el águila que vuela sobre las nubes.»",
                   "autor": "Zabaleta",
-                  "referencia_obra": ", Errores celebr. (Cl. C. 169. 131). X"
+                  "referencia_obra": ", Errores celebr. (Cl. C. 169. 131)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Allá en el dominio de un Pazo, larga bandada de palomas volaba sobre la torre señorial.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de otoño, p. 9."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— κ κ )",
               "id_limpio": "— κ κ )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Era un verdadero enjambre espantado, indeciso, de maripositas grises, hechas como de tierra, que desprendían una arena finísima al volar y resplandecían por instantes, a modo de luciérnagas, en el rayo de sol.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 193)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -204,105 +267,130 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Trans. El acus. es el espacio recorrido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mas Dios es poderoso, quien lo ignora? | El ave lo dirá, que el aire vuela, | La fiera que en los bosques altos mora.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 1. 12 (1. 208)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con de, que señala el agente. X",
+          "definicion": "Part. Con de, que señala el agente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Uno es, a la par, su oficiante y su Dios. Y el cielo de los solitarios está siempre volado de pájaros secretos, de figuras, de números, de formas.»",
               "autor": "Mallea",
               "referencia_obra": ", El vínculo, p. 69."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "met. Con sobre. X",
+          "definicion": "met. Con sobre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El gran pájaro amargo de la enfermedad se puso a volar sobre la casa de Nicolás Cusa.»",
               "autor": "Mallea",
               "referencia_obra": ", La rosa, p. 159."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "met. Tratándose de otros seres alados, como personajes mitológicos, ángeles, etc. X",
+          "definicion": "met. Tratándose de otros seres alados, como personajes mitológicos, ángeles, etc.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No hay ya ilusión; el ángel ha volado | Y en su lugar ha vuelto la mujer: | ¡Hermosa, seductora, irresistible, | Que me tiene en cadenas a sus pies!»",
               "autor": "J. E. Caro",
-              "referencia_obra": ", Poes. complet. p. 154. X"
+              "referencia_obra": ", Poes. complet. p. 154."
             },
             {
+              "marca": "X",
               "texto_cita": "«Después de guiarla a través de los mirtos verdes e inmóviles, en la puerta del arco dnde se miraban las dos Quimeras, el Arcángel agitó las alas para volar.»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Sonata de otoño, p. 52."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, que expresa el medio. X",
+              "definicion": "Con la prep. con, que expresa el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Goya vio muchas veces esos disparates y esperpentos que se arrastraban sobre el vientre, como alimañas, o que se echaban a volar con alas de murciélago, como brujas, en torno a la veleidosa Cayetana del Sueño de la Mentira y de la Inconstancia.»",
                   "autor": "Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 124."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con entre. X",
+              "definicion": "Con entre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Una vez al año la Venus de Erix volaba entre la dulce gloria de su palomar a los bosques y cosas de Africa. La diosa y los palomos del lfach han volado para siempre.»",
                   "autor": "Miró",
                   "referencia_obra": ", Años y leguas, p. 132."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por. +",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Si el Pegaso volaba por el viento, porque tenía alas en los pies, los [caballos] nuestros vuelan por la tierra con la velocidad de su correr.»",
                   "autor": "J. de Pineda",
                   "referencia_obra": ", Agr. crist. 7. 22 (R. 162. 1301)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con sobre. Además con en. X",
+              "definicion": "Con sobre. Además con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El Pegaso de estrellas herrado | Sobre ti vuela en vuelo inspirado! | Oid, mortales, el grito sagrado: ¡Libertad! ¡Libertad! ¡Libertad!»",
                   "autor": "Darío",
                   "referencia_obra": ", Poes. p. 415."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -311,37 +399,47 @@
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Cetr. Hacer que el ave se levante y eleve (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Corriendo galgos y volando azores, | Con sus pajes andaba [Fernán-González] y ballesteros, | Y con lo más granado de su corte.»",
               "autor": "A. Saav.",
               "referencia_obra": "Moro expós. 7 (2. 251)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y un día quel príncipe Florión, con algunos cavalleros, era ido a bolar a la ribera una garça, ---, en una grande quadra de su gran palacio, por la puerta della vieron entrar seis cavalleros ancianos.»",
                   "autor": "Ortúñez de Calahorra",
                   "referencia_obra": ", Espejo, 1 (Cl. C. 193. 153)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -349,7 +447,9 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Soltar el halcón para que persiga al ave de presa. Cfr. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -357,137 +457,181 @@
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
-      "definicion": "Desplazarse por el aire un avión (intrans.). X",
+      "definicion": "Desplazarse por el aire un avión (intrans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«De pronto el avión se fue a pique, se enderezó como pudo, y prosiguió volando al galope.»",
           "autor": "Márquez",
           "referencia_obra": ", Doce cuentos, p. 83."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "2",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Ir o elevarse una cosa en el aire y moverse algún tiempo por él (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Jordán lo levantó; pesaba extraordinariamente. Salieron con él, y sobre la mesa del comedor Jordán cortó funda y envoltura de un tajo. Las plumas supericres volaron, y la sirvienta dió un grito de horror con toda la boca abierta, llevándose las manos crispadas a los bandós.»",
               "autor": "Quiroga",
-              "referencia_obra": ", Cuentos de amor, p. 69. X"
+              "referencia_obra": ", Cuentos de amor, p. 69."
             },
             {
+              "marca": "X",
               "texto_cita": "«El bagazo ligero de los trapiches da vueltas en el aire, gira, sube, baila, vuela, como los copos de la nieve. La humareda se ve a leguas y leguas de distancia.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 3. 18 (p. 318)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, que señala el modo. X",
+              "definicion": "Con a, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Detrás, descendía la canoa de un indio que remaba sentado en la proa. Volaban los celajes al soplo de las brisas y bajo los rayos del sol naciente.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de estío, p. 138. — Además con por. X"
-                },
+                  "referencia_obra": ", Sonata de estío, p. 138."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Cual vuelan por el bosque solitario, | A impulso del horrísono huracan, | Una a una las plumas desprendidas | De las alas del águila caudal.»",
-                  "autor": "Ortiz",
-                  "referencia_obra": ", Poes. p. 77."
+                  "id_limpio": "—",
+                  "definicion": "Además con por.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cual vuelan por el bosque solitario, | A impulso del horrísono huracan, | Una a una las plumas desprendidas | De las alas del águila caudal.»",
+                      "autor": "Ortiz",
+                      "referencia_obra": ", Poes. p. 77."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. Con. X",
+              "definicion": "Con la prep. Con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los picos del pañuelo que llevaba atado a la cabeza i colgaban por detrás, estaban hoi de mal talante, azuzados por la brisa, formaban a espaldas de la alcaldesa, una irreverente contienda volando airosamente con la fantasía de grimpolas.»",
                   "autor": "Fern.",
                   "referencia_obra": "Caball. Lágrimas p. 104."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con entre. X",
+              "definicion": "Con entre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Las olas avanzan hasta el corazón del monte. Ramas desgajadas van a estrellarse contra las casuchas de los españoles se las ve volar entre la fulguración de los relámpagos.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 1. 2 (p. 38)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con hacia. X",
+              "definicion": "Con hacia.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Apártate essos cabellos que van bolando hazia arriba y baxa essa barva que parece chapeo vedejudo lleno de scarcha.»",
                   "autor": "A. de Valdés",
                   "referencia_obra": ", Diál. de Merc. y Carón, 1 (Cl. C. 96. 86)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con por. +",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Dice la Sagrada Escritura que uno de los enemigos flechó el arco y tiró una saeta, la cual, volando por el aire, acaso hirió al Rey y le traspasó.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Trib. 2. 9 (R. 60. 4251)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Aun cuando supiese todo lo demás, ¿cómo he averiguar si la nube que en tal día ha de volar sobre el horizonte sensible que habito vendrá en estado de derretirse sobre este lugar en agua?»",
                   "autor": "Feijóo",
                   "referencia_obra": ", Teatro crít. 1 (Cl. C. 48. 206)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -495,44 +639,54 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Trans. Con sentido factitivo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Viendo que se volvía boca arriba, yo me abracé con mi hermana, que me valió la vida, porque a los demás que iban sueltos los voló [las olas].»",
               "autor": "Espinel",
-              "referencia_obra": ", Escud. 2. 16 (R. 18. 4662). X"
+              "referencia_obra": ", Escud. 2. 16 (R. 18. 4662)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los únicos que no dejaron nunca de venir fueron los aguaceros de mediados de año, y esos ventarrones que soplan en febrero y que le vuelan a uno la cobija a cada rato.»",
               "autor": "Rulfo",
               "referencia_obra": ", El llano en llamas, p. 19."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "En el siguiente ejemplo, Tocar, repicar. X",
+          "definicion": "En el siguiente ejemplo, Tocar, repicar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Tres mozos traían atravesados en sus mulas a los ladrones muertos; Las ancas de las bestias llegaron rojas de sangre. Y, al subir la cuesta del pueblo, volaron todas las campanas de la iglesia como el Sábado de Gloria.»",
               "autor": "Miró",
               "referencia_obra": ", Años y leguas, p. 36."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "En el siguiente texto, Pasar por encima. +",
+          "definicion": "En el siguiente texto, Pasar por encima.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Está [la vena cava] hendida en dos ramos ---, el otro vuela por medio del torace o pecho hasta el cuello.»",
               "autor": "J. de Pineda",
               "referencia_obra": ", Agr. crist. 6. 40 (R. 162. 821)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -540,54 +694,68 @@
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Tratándose del sonido o la luz, Difundirse, propagarse (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Más y más rápida | Vuele la música! | ¡Más y más ágiles | Giren los pies!»",
               "autor": "Pombo",
-              "referencia_obra": ", Antol. poétic. p. 123. X"
+              "referencia_obra": ", Antol. poétic. p. 123."
             },
             {
+              "marca": "X",
               "texto_cita": "«Su risa numerosa, loca, inesperada, voló como un enjambre de mirlos, despertando los ecos a través de los árboles.»",
               "autor": "Larreta",
               "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 42)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tocan a muerto. Algunos sones se quedan balbucientes en los labios de las campanas; otros, vuelan con temblor de murciélagos en torno de la parroquia; otros, salen anchos, claros, enteros.»",
                   "autor": "Miró",
                   "referencia_obra": ", Años y leguas, p. 29."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El sol tiende los rayos de su lumbre | Por montes y por valles, despertando | Las aves y animales y 1 gente: | Cuál por el aire clara va volando | Cuál por el verde valle o alta cumbre | Paciendo va segura y libremente.»",
                   "autor": "Garcil.",
                   "referencia_obra": "Obr. 1 (Cl. C. 3. 6)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -596,52 +764,65 @@
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Ir por el aire una cosa arrojada con violencia (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Siempre se oía el grito, y la voz áspera ---; y ya sonaba el azote, y ya volaba el chapín.»",
               "autor": "León",
               "referencia_obra": ", Perf. cas. 16 (4. 500)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cuchillos y asadores diligentes | Empuñan los de Salas; de ambas partes | Vuelan jarros, botijas y zoquetes.»",
               "autor": "A. Saav.",
-              "referencia_obra": "Moro expós. 8 (2. 294). X"
+              "referencia_obra": "Moro expós. 8 (2. 294)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ricaurte, en San Mateo, voló el parque concentrado en las casas de la hacienda de Bolívar, para detener con esa llamarada en que volaban pedazos de su cuerpo, el huracán, el huracán en marcha de las lanzas coloradas de Bobes.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Biogr. del Caribe, 4. 24 (p. 390). X"
+              "referencia_obra": ", Biogr. del Caribe, 4. 24 (p. 390)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En La Habana, en el teatro, cuando un cómico dice, siguiendo el libreto de El Perro Huevero: \"Viva la tierra que produce la caña\", uno del paraíso replica: \"¡Viva Cuba!\", responden los de la cazuela \"¡Viva España!\", vuelan las sillas, hay vidrios rotos y tiros de revólver.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 4. 25 (p. 401)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Grande fue el cortamiento y desmayo de los príncipes de Judá, cuando vieron la espada vencedora de Sesach, rey de Egipto, volar por las plazas de Jerusalén, cuando por la pena del castigo presente conoscieron la culpa del hierro pasado.»",
                   "autor": "Gran.",
                   "referencia_obra": "Guía, 1. 2 (Cl. C. 97. 24)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -650,150 +831,186 @@
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "Hacer saltar con violencia o elevar en el aire alguna cosa, especialmente por medio de una substancia explosiva (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Lo vuela todo [el fuego], y levanta torres por el aire.»",
               "autor": "M. de Chaide",
               "referencia_obra": ", Magd. 2. 4 (R. 27. 2971)."
             },
             {
+              "marca": "",
               "texto_cita": "«Llevaron los franceses lo que pudieron ---, lo demás lo destruyeron porque no se aprovechasen dello los españoles, rompiendo las botas de vino y cerveza, y volando la pólvora que no pudieron llevar.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos 7 (R. 28. 932)."
             },
             {
+              "marca": "",
               "texto_cita": "«La guerra voló tu hacienda.»",
               "autor": "Mto.",
               "referencia_obra": "Trampa adelante, 1. 2 (R. 39. 1452)."
             },
             {
+              "marca": "",
               "texto_cita": "«Uno de ellos voló el almacén de pólvora de los moros.»",
               "autor": "Acad.",
-              "referencia_obra": "ilustr. 6 (6. 173). X"
+              "referencia_obra": "ilustr. 6 (6. 173)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El 19 dijo a su cuñado Apodaca: Antes que rendir mi navío, lo he de volar o echar a pique. Este es el deber de los que sirven al rey y a la patria.»",
               "autor": "P. Galdós",
               "referencia_obra": ", Trafalgar, 13 (p. 137)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Eso era ineludible; era su destino. Como el suicida a quien atrae la bala que ha de volarle los sesos, así lo atraía esa mujer.»",
                   "autor": "Carrasquilla",
                   "referencia_obra": ", Frutos, 13 (p. 164)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con hasta. X",
+              "definicion": "Con hasta.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los dos meses están cumplidos. Lafitte prende fuego a todo, lo vuela hasta que no queda ladrillo. Su silueta se borra en la leyenda.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 4. 20 (p. 354)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Oh! ¡no! ¡jamás! ¡Oh! ¡primero | Pegar fuego a nuestros lares, | Y la casa do nacimos | Hacer volar por los aires!»",
                   "autor": "Caro",
                   "referencia_obra": ", Poes. complet. p. 90."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. Con la prep. con. +",
+          "definicion": "Absol. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Ganaron [los venecianos] a Margariti --- y volaron con pólvora, porque los naturales tuviesen más libre paso para proveer las islas de Venecía.»",
               "autor": "Fuenmayor",
               "referencia_obra": ", Vida de S. Pío V, 6 (p. 234)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. +",
+          "definicion": "Pas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Ellos [los franceses] y los santos de la iglesia fueron volados y muertos casi todos sepultados en el agua.»",
               "autor": "Crón. Gran Capitán",
               "referencia_obra": ", 7. 16 (NBAE. 10. 3841)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La terrible explosión había ocurrido hacia el sur, en el sitio ocupado antes por la retaguardia. Se ha volado un navío dijeron todos. Las opiniones fueron diversas, y se dudaba si el buque volado era el Santa Ana, el Argonauta, el Ildefonso o el Bahama.»",
               "autor": "P. Galdós",
-              "referencia_obra": ", Trafalgar, 11 (p. 110). X"
+              "referencia_obra": ", Trafalgar, 11 (p. 110)."
             },
             {
+              "marca": "X",
               "texto_cita": "«A Jamaica van a dar las campanas de la iglesia. Los cañones del fuerte, que se ha volado, se llevan a la propia torre de Londres para exhibirlos en medio de la natural satisfacción de los visitantes.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 213)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. +",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Cuando una fortaleza enemiga no puede ser atacada de frente, se la hace volar con minas.»",
                   "autor": "Quint.",
                   "referencia_obra": "Cartas a L. Holland, 7 (R. 19. 5691)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sus navíos corrieron igual suerte que los nuestros: unos se retiraron con Gravina, otros fueron apresados y muchos se perdieron en las costas. El Achiles se voló en medio del combate, como indiqué en mi relación.»",
                   "autor": "P. Galdós",
                   "referencia_obra": ", Trafalgar, 16 (p. 176)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -801,44 +1018,54 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mientras dos cabos de escuadra reconocían el puesto voló una mina que los enemigos habían dejado hecha, con tanta furia, que apenas dejó rastro de haber habido allí reduto ni fortificación alguna.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 781)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y concurrieron a ella a la primea luz del día más de cincuenta mil hombres, armados y preparados para en cuanto volase la mina, ---, arrojarse al asalto.»",
               "autor": "A. Saav.",
               "referencia_obra": "Masan. 2. 6 (5. 184)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Prnl. +",
+          "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Un barril de pólvora se vuela por desgracia, y su resplandor manifiesta a los bárbaros el desorden de los nuestros. Quint. Gran Capitán (R. 19. 2601).",
               "autor": "",
               "referencia_obra": ""
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Roto el primer rastrillo de la puerta y volado el puente levadizo, comenzó a entrar la gente católica [a San Dionis] con furia de vencedores.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 322)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -846,162 +1073,202 @@
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Dirigir, encaminar hacia un lugar o persona (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con a, que indica la dirección.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Y cuándo se romperán estas cadenas que no nos dejan volar a tí, descanso verdadero de los que descansan?»",
               "autor": "Ávila",
               "referencia_obra": ", Epist. 4 (1. 409)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y como embriagada [Sta. Mónica] del vino de Dios que había bebido, comienza a dar voces diciendo: volemos al cielo, fieles, volemos al cielo.»",
               "autor": "",
-              "referencia_obra": "Id., Eucar. 14 (4. 60). +"
+              "referencia_obra": "Id., Eucar. 14 (4. 60)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Sólo por volar [Marsilla] a mí, | Quebrantando sus cadenas, | Dejó soñar a la mora | Con esa falaz idea.»",
               "autor": "Hartz.",
-              "referencia_obra": "Los amantes de Teruel, 2. 11 (Cl. C. 113. 81). X"
+              "referencia_obra": "Los amantes de Teruel, 2. 11 (Cl. C. 113. 81)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Oh visión adorada de oro, rosa y marfil! | ¡Quien volara a la tierra donde un príncipe existe | La princesa está pálida. La princesa está triste | Más brillante que el alba, más hermoso que abril!»",
               "autor": "Darío",
               "referencia_obra": ", Poes. p. 189."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con hacia. +",
+              "definicion": "Con hacia.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«¿No basta, | Para que hacia Isabel vuele Marsilla, | Quererla ver, necesitar mirarla?»",
                   "autor": "Hartz.",
                   "referencia_obra": "Los amantes de Teruel, 4. 4 (Cl. C. 113. 120)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En los siguentes textos, Recorrer un territorio. Trans. X",
+          "definicion": "En los siguentes textos, Recorrer un territorio. Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Vos veréis, compadre, cómo, cuando menos lo pensemos nuestro hidalgo sale otra vez a volar la ribera.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2 (Cl. C. 13. 54)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Dicho de algo inmaterial. X",
+              "definicion": "Dicho de algo inmaterial.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Ah, si Dios me deparara | Ese dón, en tí el primero, | Esa fe que vuela montes, | Seca mares, salva pueblos!»",
                   "autor": "Pombo",
                   "referencia_obra": ", Antol. poét. p. 376."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Tratándose de ideas, pensamientos, Remontarse. Con a. X",
+          "definicion": "Tratándose de ideas, pensamientos, Remontarse. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Que las tinieblas de la antigua historia | Con sus fulgentes rayos ilumina: | Virtud contemplo, libertad y gloria, | Crímenes, sangre, asolación, rüina, | Rasgando el velo de la edad mi mente, | Que osada vuela a la remota gente.»",
               "autor": "Espronc.",
-              "referencia_obra": "Poes. 1 (Cl. C. 47. 47). X"
+              "referencia_obra": "Poes. 1 (Cl. C. 47. 47)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vuela a ti mi recuerdo dulcemente. | Mi vaga y soñadora Poesía | Va a buscarte en la suave lejanía | De la cumbre boscosa y sonriente.»",
               "autor": "Jaimes Freyre",
               "referencia_obra": ", Poemas, p. 99."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Los ídolos trastorna que adoraba | Sacrílego el temor, y aborrecible | Vuela de gente en gente | La memoria de un príncipe tirano.»",
                   "autor": "Mor.",
                   "referencia_obra": "Oda, 2 (R. 2. 5872)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la combinación de... o de... en. +",
+              "definicion": "Con la combinación de... o de... en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«En semejante estado no podía meditar, sino sentir; no debía detenerse a indicar el vínculo de las ideas, sino volar de una en otra.»",
                   "autor": "",
-                  "referencia_obra": "M. de la Rosa, Anot. a la poétic. 4. 8 (1. 176). X"
+                  "referencia_obra": "M. de la Rosa, Anot. a la poétic. 4. 8 (1. 176)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Por esto cuando al irse divisó a Pascual, el muchacho recolector de leñas sueltas para el hogar, vagando como todos los días entre los pinos sombrios, su pensamiento voló del nido a las piñas que el peoncito buscaba en el suelo e iba metiendo en un saco.»",
                   "autor": "Barrios",
                   "referencia_obra": ", Gran señor y rajadiablos, p. 18."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por. +",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Quisiera volar por los acontecimientos hasta aquí escritos de otras naciones, porque la poca noticia los hace asperísimos.»",
                   "autor": "Fuenmayor",
                   "referencia_obra": ", Vida de S. Pío V, 4 (p. 138)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«De vuestros antojos [del pensamiento] | Vencido el volar, | Daréis nombre al mar | Que han hecho mis ojos.»",
                   "autor": "Mend.",
                   "referencia_obra": "end. A su pensamiento (R. 32. 882)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1010,107 +1277,133 @@
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "met. Estar por encima de algo o alguien, superar, descollar (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pues me da el duque lugar, | Mi serafín, quiero hablar, | Si hay atrevimiento en mí | Para que vuele tan alto | Que a serafines me iguale.»",
               "autor": "Tirso",
-              "referencia_obra": ", El vergonzoso en palacio, 1 (Cl. C. 2. 49). X"
+              "referencia_obra": ", El vergonzoso en palacio, 1 (Cl. C. 2. 49)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No nació para servir | Mi inclinación, que es más alta. | Pues cuando volar presuma, | Las plumas la han de ayudar. | ¿Cómo he de poder volar | Con solamente una pluma? | Con las alas del favor.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 2 (Cl. C. 2. 64). X"
+              "referencia_obra": "Id. ib. 2 (Cl. C. 2. 64)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esta lealtad de mi servidumbre, esta lealtad que se humilla y arrastra para que otro pueda volar y pueda ser siempre el señor de los altivos pensamientos, el de los bellos sueños.»",
               "autor": "Benavente",
               "referencia_obra": ", Intereses creados, 1. 2. 2 (p. 71)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. +",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Son muchos más los malos que por las cosas terrenales andan por el suelo que no los buenos que en el servicio del Señor andan volando.»",
                   "autor": "Guev.",
                   "referencia_obra": "Oratorio, 18 (p. 561)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Por qué he de burlarme? Yo sé bien que no conviene siempre rastrear. Alguna vez hay que volar por el cielo para mejor dominar la tierra. Vuela tú ahora; yo sigo arrastrándome. ¡El mundo será nuestro!»",
                   "autor": "Benavente",
                   "referencia_obra": ", Intereses creados, 1. 2. 9 (p. 92)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con sin. X",
+              "definicion": "Con sin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nos llenará la vida | Este puro volar sin hora quieta, | Este vivir buscándola: | Y es ya la salvación querer salvarnos.»",
                   "autor": "Salinas",
                   "referencia_obra": ", Razón (Cl. Castal. 2. 130)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Gustaréis de ésto, y entenderéis cómo el verdadero amor de Dios, si está en su fuerza (ya libre de cosas de tierra del todo y que vuela sobre ellas), como es señor de todos los elementos y del mundo, y como el agua procede de la tierra, no hayáis miedo que mate este fuego.»",
                   "autor": "Sta. Ter.",
-                  "referencia_obra": "Cam. perf. 144 (Cl. C. 98. 21). +"
+                  "referencia_obra": "Cam. perf. 144 (Cl. C. 98. 21)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«La filosofía no es tan palpable al sentido como la [doctrina] medicinal, siendo muchas cosas filosóficas de tal cosecha que vuelan sobre los sentidos.»",
                   "autor": "J. de Pineda",
                   "referencia_obra": ", Agr. crist. 6. 36 (R. 162. 712)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Tratándose de un verso, Ser profundo, elevado. +",
+          "definicion": "Tratándose de un verso, Ser profundo, elevado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«No admite [la letrilla] un solo pensamiento que no sea sencillo, una espresión que no parezca fácil, un verso que no vuele.»",
               "autor": "M. de la Rosa",
-              "referencia_obra": ", Anot. a la poét. 4. 12 (1. 185). X"
+              "referencia_obra": ", Anot. a la poét. 4. 12 (1. 185)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El verso, para estos trabajadores, ha de ir sonando y volando. El verso, hijo de la emoción, ha de ser fino y profundo, como una nota de arpa.»",
               "autor": "Martí",
               "referencia_obra": ", Sus mejores páginas, p. 221."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1118,92 +1411,143 @@
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "4",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Caminar o ir con gran prisa y aceleración (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Vino luego volando Sancho.»",
               "autor": "Avell.",
-              "referencia_obra": "Quij. 5. 3 (R. 18. 101). X"
+              "referencia_obra": "Quij. 5. 3 (R. 18. 101)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El carnero huía, el dueño corría, y yo volaba. Fue tanta mi ligereza, que lo vine a alcanzar en un bosque frondoso.»",
               "autor": "",
-              "referencia_obra": "Esteb. Gonz. 1. 2 (Cl. C. 108. 91). X"
+              "referencia_obra": "Esteb. Gonz. 1. 2 (Cl. C. 108. 91)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y diciendo y haciendo, sale fray Gerundio precipitadamente de la celda del provincial, vase corriendo a la suya, vuelve volando, trae un libro de a folio muy manoseado.»",
               "autor": "Isla",
-              "referencia_obra": ", Fr. Ger. 2. 9 (Cl. C. 149. 169). X"
+              "referencia_obra": ", Fr. Ger. 2. 9 (Cl. C. 149. 169)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vengo de tu choza | Y el dueño que allá tienes | Me manda que estos versos | Volando te trajese.»",
               "autor": "Mel.",
-              "referencia_obra": "Poes. inéd. p. 156. X"
+              "referencia_obra": "Poes. inéd. p. 156."
             },
             {
+              "marca": "X",
               "texto_cita": "«Desfilando a caballo por los caminos de piedras que van de la capital al puerto, en medio de horribles borrascas, al sol y al agua, la emperatriz vuela —dicen los historiadores— como si fuera una estampa de doña Juana la loca.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 4. 22 (p. 368)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, que señala: — el lugar a donde se dirigen.",
-              "ejemplos_citas": [
+              "definicion": "Con a, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Venid todos aguijando, corriendo y volando a este Señor.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Eucar. 10 (3. 279). X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar a donde se dirigen.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Venid todos aguijando, corriendo y volando a este Señor.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Eucar. 10 (3. 279)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y cuando ya cuatro corredores, mancebos ágiles y sueltos, tenían los pies izquierdos delante y los derechos alzados, que no les impedía otra cosa el soltarse a la carrera, sino soltar una cuerda que les servía de raya y de señal, que en soltándola, habían de volar a un término señalado, donde habían de dar fin a su carrera.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Pers. (Cl. Castal. 12. 151)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Y cuando ya cuatro corredores, mancebos ágiles y sueltos, tenían los pies izquierdos delante y los derechos alzados, que no les impedía otra cosa el soltarse a la carrera, sino soltar una cuerda que les servía de raya y de señal, que en soltándola, habían de volar a un término señalado, donde habían de dar fin a su carrera.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Pers. (Cl. Castal. 12. 151). — La finalidad. El término es una prop. infinitiva. X"
+                  "id_limpio": "—",
+                  "definicion": "La finalidad. El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«E yo bolando soy venido a hazerte saber estas nuevas, a ti tan agradables como a mí enojosas.»",
+                      "autor": "Valdés",
+                      "referencia_obra": ", Diál. de Merc. y Carón, 1 (Cl. C. 96.172)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡Qué linda es la carrera del cardenal de Maguncia cuando vuela a sostenerle para que no se apee del caballo! El espectáculo es magnífico.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Caribe, 1. 5 (p. 95)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«E yo bolando soy venido a hazerte saber estas nuevas, a ti tan agradables como a mí enojosas.»",
-                  "autor": "Valdés",
-                  "referencia_obra": ", Diál. de Merc. y Carón, 1 (Cl. C. 96.172). X"
+                  "id_limpio": "—",
+                  "definicion": "Además con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Voló el marqués de Cádiz a tomar en los infieles pronta y cabal venganza.»",
+                      "autor": "M. de la Rosa",
+                      "referencia_obra": ", H. P. del Pulgar (3. 10)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¡Qué linda es la carrera del cardenal de Maguncia cuando vuela a sostenerle para que no se apee del caballo! El espectáculo es magnífico.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 1. 5 (p. 95). — Además con de."
-                },
-                {
-                  "texto_cita": "«Voló el marqués de Cádiz a tomar en los infieles pronta y cabal venganza.»",
-                  "autor": "M. de la Rosa",
-                  "referencia_obra": ", H. P. del Pulgar (3. 10). — El medio. Además con por. X"
-                },
-                {
-                  "texto_cita": "«La policía está a la caza de Martí. El hombre vuela a caballo por los caminos, pasa como una sombra por las ciudades, mantiene sus contactos con los conspiradores, rehace con centavos el precario capital de la revolución, convence a todo el mundo.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 4. 25 (p. 402)."
+                  "id_limpio": "—",
+                  "definicion": "El medio. Además con por.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La policía está a la caza de Martí. El hombre vuela a caballo por los caminos, pasa como una sombra por las ciudades, mantiene sus contactos con los conspiradores, rehace con centavos el precario capital de la revolución, convence a todo el mundo.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Caribe, 4. 25 (p. 402)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1211,147 +1555,202 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El bergantín volaba con la fuerza de los remos y el viento que ayudaba.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 2. 13 (R. 18. 4441)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, que señala: — el medio. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No pierda usted el tiempo, doña Marcelina. —Iré volando en alas del destino. —No, vaya usted caminando, nada más; no es bueno en esta época hacerse notable, ni por andar muy de prisa, ni por andar muy despacio.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 5 (p. 507). — El lugar. X"
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«No pierda usted el tiempo, doña Marcelina. —Iré volando en alas del destino. —No, vaya usted caminando, nada más; no es bueno en esta época hacerse notable, ni por andar muy de prisa, ni por andar muy despacio.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 5 (p. 507)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Ves la cierva que va herida | Cuanto en el monte voló? | Pues ¡ay! pastor de mi vida, | Mas veces te quiero yo.»",
-                  "autor": "Mel.",
-                  "referencia_obra": "Poes. inéd. p. 197. — La finalidad."
+                  "id_limpio": "—",
+                  "definicion": "El lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Ves la cierva que va herida | Cuanto en el monte voló? | Pues ¡ay! pastor de mi vida, | Mas veces te quiero yo.»",
+                      "autor": "Mel.",
+                      "referencia_obra": "Poes. inéd. p. 197."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Acabó de decir que se vino volando en busca del Esposo.»",
-                  "autor": "León",
-                  "referencia_obra": ", Cantares, 6 (4. 110)."
+                  "id_limpio": "—",
+                  "definicion": "La finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Acabó de decir que se vino volando en busca del Esposo.»",
+                      "autor": "León",
+                      "referencia_obra": ", Cantares, 6 (4. 110)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con para y una prop. infinitiva. X",
+              "definicion": "Con para y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Al primer encuentro sólo se veían los resplandores de los arcabuces. Don Pedro vuela para defender las entradas de tierra. Su fuerza es ninguna frente a los hermosos batallones de Sir Francis Drake.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 1. 8 (p. 152)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con por. +",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Queriendo Virgilio imitar de Homero la rapidez con que vuela por el mar el carro de Neptuno, espresó esta imagen con un verso bellísimo.»",
                   "autor": "M. de la Rosa",
-                  "referencia_obra": ", Anot. a la poétic. 3. 3 (1. 155). X"
+                  "referencia_obra": ", Anot. a la poétic. 3. 3 (1. 155)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y la tisis va desgarrando por dentro a aquel gallardo jinete que volaba por las llanuras y saltaba montañas.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 4. 24 (p. 394)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero José Pedro se presentó solo. Con la velocidad que le rindieron cuatro caballos en posta, voló sobre los campos y, como las del halcón que cumple vuelo, las alas de su poncho sólo se plegaron al pisar el suelo de su antiguo lar.»",
                   "autor": "Barrios",
                   "referencia_obra": ", Gran señor y rajadiablos, p. 118."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
               "definicion": "Con tras.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No te vayas tras cada novedad ni vueles tras cada libro que saliere.»",
                   "autor": "M. de Chaide",
                   "referencia_obra": ", Magd. pról. (R. 27. 278)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En general, Hacer algo con rapidez. X",
+          "definicion": "En general, Hacer algo con rapidez.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Dámelas acá... Vamos, ¿qué haces? ¿No he dicho que ha de ser al instante?... Volando. Y tú ve con él, ayúdale, y no te me apartes de allí hasta que se hayan ido.»",
               "autor": "Mor.",
-              "referencia_obra": "El sí de las niñas, p. 235. X"
+              "referencia_obra": "El sí de las niñas, p. 235."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Qué me vas a decir? ¿Otro desatino? Calla; no quiero oírle. Vuela: trae a todas mis damas. ¡Ay de ti si me vendes!...»",
               "autor": "Tam. y Baus",
               "referencia_obra": ", Locura de amor, p. 105."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Tratándose del tiempo, Transcurrir muy rápido. +",
+          "definicion": "Tratándose del tiempo, Transcurrir muy rápido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«El tiempo buela muy presto y se va de entre las manos sin le sentir ni reconosçernos.»",
               "autor": "Oviedo",
               "referencia_obra": ", Quinquag. 1. 24 (1. 287)."
             },
             {
+              "marca": "",
               "texto_cita": "«Vuelan los ligeros años, | Y con presurosas alas | Nos roban, como arpías, | Nuestras sabrosas viandas.»",
               "autor": "Góng.",
-              "referencia_obra": "rom. 69 (R. 32. 5322). X"
+              "referencia_obra": "rom. 69 (R. 32. 5322)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Corre el tiempo, vuela y va | Ligero, y no volverá, | Y erraría el que pidiese, | O que el tiempo ya se fuese, | O viniese el tiempo ya.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 2 (Cl. C. 13. 336). +"
+              "referencia_obra": "Quij. 2 (Cl. C. 13. 336)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Los minutos corren | Que vuelan y la Marquesa | No viene.»",
               "autor": "Bretón",
               "referencia_obra": ", El pelo de la dehesa, 5. 3 (Cl. C. 92. 229)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Veo, Señor, que se pasan mis días, y que me han volado muy más que vuela la lanzadera en tela.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 3. 3 (3. 378)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1360,183 +1759,228 @@
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Difundirse, propagarse rápidamente una noticia (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
-      "subacepciones": [
-        {
-          "id_marcador_html": "— α )",
-          "id_limpio": "— α )",
-          "definicion": "X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Y de allí adelante, como començó a bolar su fama, pocos reyes avía en aquellas partes que no procurassen amistad y paz con él, ca le tenían por el más bravo y fuerte cavallero del mundo.»",
-              "autor": "Ortúñez de Calahorra",
-              "referencia_obra": ", Espejo, 1 (Cl. C. 193. 118). X"
-            },
-            {
-              "texto_cita": "«Mas yo me engañé; pues cuando | De vos en toda esta tierra | Tan indignas voces corren, | Tan bajas noticias vuelan, | Quise, escondiendo las dudas, | Deslumbrar a la evidencia; | Mas ya que...»",
-              "autor": "Zamora",
-              "referencia_obra": ", No hay plazo que no se cumpla. 2 (p. 417). X"
-            },
-            {
-              "texto_cita": "«Las noticias de Santo Domingo vuelan. En las islas, en Tierra Firme, se sabe ya cómo ahorcó a los frailes dominicanos.»",
-              "autor": "Arciniegas",
-              "referencia_obra": ", Biogr. del Caribe, 1. 8 (p. 151)."
-            }
-          ],
-          "subsubacepciones": [
-            {
-              "id_marcador_html": "— α α )",
-              "id_limpio": "— α α )",
-              "definicion": "Con a, que indica el lugar. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Atribuyéndose esto a milagro indubitado a la deidad, voló el oráculo de la fama a todas partes, de modo que aun de Roma iban a consultarle.»",
-                  "autor": "Feijóo",
-                  "referencia_obra": ", Teatro crít. 1 (Cl. C. 48. 241). X"
-                },
-                {
-                  "texto_cita": "«Del Cauca libre por las raudas ondas, | Calle triunfal de arrebatadas almas | Y arcos de vivas palmas, | Voló tu nombre a unirse al de Bolivar.»",
-                  "autor": "Pombo",
-                  "referencia_obra": ", Antol. poét. p. 235."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— β β )",
-              "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«El trabajo constante y tan loable | Por la Francia mudable, en fin, lo lleva, | La fama en él renueva la presteza; | La cual con ligereza iba volando, | Y con el gran Fernando se paraba, | Y le sinificaba en modo y gesto | Que el caminar muy presto convenía.»",
-                  "autor": "Garcil.",
-                  "referencia_obra": "Obr. 2 (Cl. C. 3. 101). X"
-                },
-                {
-                  "texto_cita": "«Duarte de Portugal, | Cuya fama vencedora | Ha de volar con las plumas | De las águilas de Roma, | Envía a sus dos hermanos | Enrique y Fernando gloria | Deste siglo, que los mira | Coronados de vitorias.»",
-                  "autor": "Calderón",
-                  "referencia_obra": ", Príncipe constante, 1 (Cl. C. 204. 18)."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— γ γ )",
-              "id_limpio": "— γ γ )",
-              "definicion": "Con en.",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Mas volaba la fama de muchos varones sabios en las Galias. Sig. Vida de S. Jer. 2. 1 (p. 63).",
-                  "autor": "",
-                  "referencia_obra": ""
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— δ δ )",
-              "id_limpio": "— δ δ )",
-              "definicion": "Con por. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Y dotado de tantas gracias, que la su fama sobre todos los de aquel tiempo bolava por todo el mundo, y ningún alto rey ni emperador avía que no se preciasse detenerle por amigo.»",
-                  "autor": "Ortúñez de Calahorra",
-                  "referencia_obra": ", Espejo, 1 (Cl. C. 193. 27)."
-                },
-                {
-                  "texto_cita": "«La fama y nombradía del Rey D. Enrique volaba por todo el mundo.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 18. 1 (2. 1192). X"
-                },
-                {
-                  "texto_cita": "«¡Con esta carta todos, hasta el rey, pierden la cabeza! Ahi están el oro y el mar. La noticia vuela por la Española primero, luego por toda Castilla.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 1. 4 (p. 72)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "",
-      "definicion": "",
-      "ejemplos_citas": [],
-      "subacepciones": []
-    },
-    {
-      "id": "5",
-      "definicion": "met.",
-      "ejemplos_citas": [],
-      "subacepciones": []
-    },
-    {
-      "id": "",
-      "definicion": "",
-      "ejemplos_citas": [],
-      "subacepciones": []
-    },
-    {
-      "id": "a)",
-      "definicion": "Acabar, desaparecer algo (intrans.).",
-      "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
+              "texto_cita": "«Y de allí adelante, como començó a bolar su fama, pocos reyes avía en aquellas partes que no procurassen amistad y paz con él, ca le tenían por el más bravo y fuerte cavallero del mundo.»",
+              "autor": "Ortúñez de Calahorra",
+              "referencia_obra": ", Espejo, 1 (Cl. C. 193. 118)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Mas yo me engañé; pues cuando | De vos en toda esta tierra | Tan indignas voces corren, | Tan bajas noticias vuelan, | Quise, escondiendo las dudas, | Deslumbrar a la evidencia; | Mas ya que...»",
+              "autor": "Zamora",
+              "referencia_obra": ", No hay plazo que no se cumpla. 2 (p. 417)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Las noticias de Santo Domingo vuelan. En las islas, en Tierra Firme, se sabe ya cómo ahorcó a los frailes dominicanos.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 1. 8 (p. 151)."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": [
+            {
+              "id_marcador_html": "— α α )",
+              "id_limpio": "— α α )",
+              "definicion": "Con a, que indica el lugar.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Atribuyéndose esto a milagro indubitado a la deidad, voló el oráculo de la fama a todas partes, de modo que aun de Roma iban a consultarle.»",
+                  "autor": "Feijóo",
+                  "referencia_obra": ", Teatro crít. 1 (Cl. C. 48. 241)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Del Cauca libre por las raudas ondas, | Calle triunfal de arrebatadas almas | Y arcos de vivas palmas, | Voló tu nombre a unirse al de Bolivar.»",
+                  "autor": "Pombo",
+                  "referencia_obra": ", Antol. poét. p. 235."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— β β )",
+              "id_limpio": "— β β )",
+              "definicion": "Con la prep. con.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«El trabajo constante y tan loable | Por la Francia mudable, en fin, lo lleva, | La fama en él renueva la presteza; | La cual con ligereza iba volando, | Y con el gran Fernando se paraba, | Y le sinificaba en modo y gesto | Que el caminar muy presto convenía.»",
+                  "autor": "Garcil.",
+                  "referencia_obra": "Obr. 2 (Cl. C. 3. 101)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Duarte de Portugal, | Cuya fama vencedora | Ha de volar con las plumas | De las águilas de Roma, | Envía a sus dos hermanos | Enrique y Fernando gloria | Deste siglo, que los mira | Coronados de vitorias.»",
+                  "autor": "Calderón",
+                  "referencia_obra": ", Príncipe constante, 1 (Cl. C. 204. 18)."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— γ γ )",
+              "id_limpio": "— γ γ )",
+              "definicion": "Con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Mas volaba la fama de muchos varones sabios en las Galias. Sig. Vida de S. Jer. 2. 1 (p. 63).",
+                  "autor": "",
+                  "referencia_obra": ""
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— δ δ )",
+              "id_limpio": "— δ δ )",
+              "definicion": "Con por.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Y dotado de tantas gracias, que la su fama sobre todos los de aquel tiempo bolava por todo el mundo, y ningún alto rey ni emperador avía que no se preciasse detenerle por amigo.»",
+                  "autor": "Ortúñez de Calahorra",
+                  "referencia_obra": ", Espejo, 1 (Cl. C. 193. 27)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«La fama y nombradía del Rey D. Enrique volaba por todo el mundo.»",
+                  "autor": "Mariana",
+                  "referencia_obra": ", Hist. Esp. 18. 1 (2. 1192)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«¡Con esta carta todos, hasta el rey, pierden la cabeza! Ahi están el oro y el mar. La noticia vuela por la Española primero, luego por toda Castilla.»",
+                  "autor": "Arciniegas",
+                  "referencia_obra": ", Biogr. del Caribe, 1. 4 (p. 72)."
+                }
+              ],
+              "subsubsubacepciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "",
+      "definicion": "",
+      "marca": "",
+      "ejemplos_citas": [],
+      "subsubsubacepciones": [],
+      "subacepciones": []
+    },
+    {
+      "id": "5",
+      "definicion": "met.",
+      "marca": "",
+      "ejemplos_citas": [],
+      "subsubsubacepciones": [],
+      "subacepciones": []
+    },
+    {
+      "id": "",
+      "definicion": "",
+      "marca": "",
+      "ejemplos_citas": [],
+      "subsubsubacepciones": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Acabar, desaparecer algo (intrans.).",
+      "marca": "",
+      "ejemplos_citas": [],
+      "subsubsubacepciones": [],
+      "subacepciones": [
+        {
+          "id_marcador_html": "— α )",
+          "id_limpio": "— α )",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
               "texto_cita": "«Ni sus reveses [de los hombres] y trabajos propios, ni el ver que todo vuela y se muda, les abre los ojos para que reconozcan su ser.»",
               "autor": "León",
-              "referencia_obra": ", Expos. de Job, 1. 4 (1. 70). X"
+              "referencia_obra": ", Expos. de Job, 1. 4 (1. 70)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Ah! para siempre adiós: vano es ahora | Acariciar memorias de ventura; | Voló ya la ilusión de la esperanza, | Y es vano amar sin esperanza alguna.»",
               "autor": "Espronc.",
-              "referencia_obra": "Poes. 1 (Cl. C. 47. 106). X"
+              "referencia_obra": "Poes. 1 (Cl. C. 47. 106)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En vano ruge el huracán, y en vano | La inflamada borrasca se rebela, | Y sacúdese hambriento el oceano | Bajo la pobre y frágil carabela; | Y cual si Dios negárale su mano | Huye la luz y la esperanza vuela, | Y a un grito de despecho y de venganza, | Contra Colón la turba se abalanza.»",
               "autor": "Pombo",
-              "referencia_obra": ", Antol. poét. p. 67. X"
+              "referencia_obra": ", Antol. poét. p. 67."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y así mayor el desengaño, al punto | Que apartada la luz voló el encanto... | Allá sigue la risa en pos del llanto, | Y aquí el desprecio, del engaño en pos.»",
               "autor": "Pombo",
               "referencia_obra": ", Antol. poét. p. 180."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Las esperanzas, que gloriosa, y vana | Concibió en él, volaron en un hora, | Viendo su noche en medio de su Aurora, | Y que su Sol se puso en su mañana.»",
                   "autor": "Lobo",
                   "referencia_obra": ", Obr. pét. 2 (p. 190)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. Con dat. +",
+          "definicion": "Prnl. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Antes que ustedes ---decidan lo que van a hacer, el dinero se les habrá volado.»",
               "autor": "Ganiv.",
               "referencia_obra": "Pío Cid, 2 (1. 131)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1544,62 +1988,78 @@
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Escapar, huir (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con la prep. con, que señala el medio. X",
+          "definicion": "Con la prep. con, que señala el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Raleigh tiene sesenta y cinco años. Amigos, casi ninguno. Cuando entra a la Torre, sabe que no habrá perdón esta vez. Ni lo necesita. Al rey sólo le preocupa una cosa: eludir un nuevo juicio, no ocurra que con sus discursos Sir Raleigh vuele libre del hachazo.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 9 (p. 176)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Qué irías a escoger, | Entre el trino del pájaro, | Fugitivo capricho —escaparse, volarse—, | O los destinos fieles, | Hacia su mar, del agua?»",
               "autor": "Salinas",
               "referencia_obra": ", Razón (Cl. Castal. 2. 172)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. Además con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Esto dijo Delicio y así el ruiseñor traía entre las manos, que codicioso de mirarlo cuando más descuidado estaba se le voló dellas.»",
                   "autor": "Valb.",
                   "referencia_obra": "Siglo de oro, 4 (p. 83)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, que indica la compañía. X",
+              "definicion": "Con la prep. con, que indica la compañía.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y la pobre mi mujer, | Dios sabe cuánto sufrió! | Me dicen que se voló | Con no sé qué gavilán | Sin duda a buscar el pan | Que no podía darle yo.»",
                   "autor": "J. Hernández",
                   "referencia_obra": ", Martín Fierro, 1. 6 (p. 202)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1608,66 +2068,83 @@
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Actuar con libertad, independizarse, enfrentar la vida (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y porque algunas cosas que nos parecen imposibles, viéndolas en otros tan posibles, y con la suavidad que las llevan, anima mucho y parece que con su vuelo nos atrevemos a volar, como hacen los hijos de las aves cuando se enseñan, que aunque no es de presto dar un gran vuelo, poco a poco imitan a sus padres, en gran manera aprovecha esto: yo lo sé.»",
               "autor": "Sta. Ter.",
-              "referencia_obra": "Mor. 3. 2 (Cl. C. 1. 53). X"
+              "referencia_obra": "Mor. 3. 2 (Cl. C. 1. 53)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esto se entienda hasta tener seis años y, si fueren de más, los dejen volar, que salgan ventureros, buscando la vida y acudan a casa con la pobreza a las horas ordinarias.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 1. 3. 2 (Cl. C. 83. 188)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con desde. Además con sobre. X",
+              "definicion": "Con desde. Además con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Este enjambre de pueblos occidentales que partió a volar sobre la historia desde las ruina del mundo antiguo, se ha caracterizado siempre por una forma dual de vida.»",
                   "autor": "Ortega y Gasset",
                   "referencia_obra": ", Rebel. masas, p. 24."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«I al hombre que me dio el ser | No lo pude conocer; | Ansí, pues, dende chiquito, | Volé como el pajarito | En busca de qué comer.»",
                   "autor": "J. Hernández",
                   "referencia_obra": ", Martín Fierro, 2. 21 (p. 415)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«De donde viene aquel peligro de quedar toda la vida convertido en dócil ordenanza de un capitán experto, si el espíritu es débil y no cría alas para volar por su cuenta.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 183."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1675,52 +2152,78 @@
     },
     {
       "id": "",
-      "definicion": "Per. antecl. Siglo XV: X",
+      "definicion": "Per. antecl. Siglo XV:",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Montesina era la garça | Y de muy alto bolar: | No hay quien la pueda tomar.»",
           "autor": "Encina",
-          "referencia_obra": ", Poes. lír. (Cl. Castal. 62. 150). X"
+          "referencia_obra": ", Poes. lír. (Cl. Castal. 62. 150)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Si mientras vamos | Bolando desaparesçe, | Cata, Juan, dirán que entramos | O que borrachos estamos | O quel seso nos fallesçe.»",
           "autor": "Mendoza",
-          "referencia_obra": ", Canc. (Cl. C. 163. 46). X"
+          "referencia_obra": ", Canc. (Cl. C. 163. 46)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Tú allí eres; sy decendiere al ynfierno. Tú presente eres; sy bolare en mis péndolas, por mucho que por la mañana me levante e me fuere a los estremos de la mar, ally. Señor, me terná tu mano diestra, e ally me traerá e sacará ella.»",
           "autor": "Arc. de Talav.",
-          "referencia_obra": "Corbacho (Cl. Castal. 24. 231). — Siglo XIV: +"
+          "referencia_obra": "Corbacho (Cl. Castal. 24. 231)."
+        }
+      ],
+      "subsubsubacepciones": [
+        {
+          "id_limpio": "—",
+          "definicion": "Siglo XIV:",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "+",
+              "texto_cita": "«Ave que non tiene alas | Nunca bien puede bolar.»",
+              "autor": "",
+              "referencia_obra": "Alf. XI, 1. 182 (p. 53)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«El pulpo a los pavones non les dava vagar, | Nin aun a los faysanes non dexava bolar, | A cabritos e a gamos queríalos afogar: | Como tiene muchas manos, con muchos puede lydiar.»",
+              "autor": "Arc. de Hita",
+              "referencia_obra": "(Cl. C. 17. 94)."
+            }
+          ]
         },
         {
-          "texto_cita": "«Ave que non tiene alas | Nunca bien puede bolar.»",
-          "autor": "",
-          "referencia_obra": "Alf. XI, 1. 182 (p. 53). X"
-        },
-        {
-          "texto_cita": "«El pulpo a los pavones non les dava vagar, | Nin aun a los faysanes non dexava bolar, | A cabritos e a gamos queríalos afogar: | Como tiene muchas manos, con muchos puede lydiar.»",
-          "autor": "Arc. de Hita",
-          "referencia_obra": "(Cl. C. 17. 94). — Siglo XIII: X"
-        },
-        {
-          "texto_cita": "«E el conde Malprian feriólo por el escudo tan gran golpe que gelo falsó, mas la loriga era muy buena e muy fuerte, e no gela pudo falsar, e quebró la lança e fízola bolar en pieças.»",
-          "autor": "",
-          "referencia_obra": "Conq. de Ultr. (ICC. 51. 246). +"
-        },
-        {
-          "texto_cita": "«Alanço la su arma --- e diol en el cuello e descabeçol, e fizol uolar la cabesça por ell aer.»",
-          "autor": "Alf. X",
-          "referencia_obra": ", General estoria, 2. 1 (p. 192). +"
-        },
-        {
-          "texto_cita": "«A las uezes alçan se [los delfines] tanto como qui uuela.»",
-          "autor": "",
-          "referencia_obra": "Id. ib. 2. 1 (p. 182). +"
-        },
-        {
-          "texto_cita": "«Boló [Santa María] tan alto que cubrió todo el mundo.»",
-          "autor": "",
-          "referencia_obra": "Id. Seten. 60 (p. 100)."
+          "id_limpio": "—",
+          "definicion": "Siglo XIII:",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
+              "texto_cita": "«E el conde Malprian feriólo por el escudo tan gran golpe que gelo falsó, mas la loriga era muy buena e muy fuerte, e no gela pudo falsar, e quebró la lança e fízola bolar en pieças.»",
+              "autor": "",
+              "referencia_obra": "Conq. de Ultr. (ICC. 51. 246)."
+            },
+            {
+              "marca": "+",
+              "texto_cita": "«Alanço la su arma --- e diol en el cuello e descabeçol, e fizol uolar la cabesça por ell aer.»",
+              "autor": "Alf. X",
+              "referencia_obra": ", General estoria, 2. 1 (p. 192)."
+            },
+            {
+              "marca": "+",
+              "texto_cita": "«A las uezes alçan se [los delfines] tanto como qui uuela.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 1 (p. 182)."
+            },
+            {
+              "marca": "+",
+              "texto_cita": "«Boló [Santa María] tan alto que cubrió todo el mundo.»",
+              "autor": "",
+              "referencia_obra": "Id. Seten. 60 (p. 100)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -1728,23 +2231,27 @@
     {
       "id": "",
       "definicion": "Etim. Del lat. volare 'volar, ir por el aire'. Cat. volar, fr. voler, it. volare, port. voar.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «Montesina era la garça | Y de muy alto bolar: | No hay quien la pueda tomar.» Encina, Poes. lír. (Cl. Castal. 62. 150). X «Si mientras vamos | Bolando desaparesçe, | Cata, Juan, dirán que entramos | O que borrachos estamos | O quel seso nos fallesçe.» I. de Mendoza, Canc. (Cl. C. 163. 46). X «Tú allí eres; sy decendiere al ynfierno. Tú presente eres; sy bolare en mis péndolas, por mucho que por la mañana me levante e me fuere a los estremos de la mar, ally. Señor, me terná tu mano diestra, e ally me traerá e sacará ella.» Arc. de Talav. Corbacho (Cl. Castal. 24. 231).\n\n— Siglo XIV: + «Ave que non tiene alas | Nunca bien puede bolar.» Alf. XI, 1. 182 (p. 53). X «El pulpo a los pavones non les dava vagar, | Nin aun a los faysanes non dexava bolar, | A cabritos e a gamos queríalos afogar: | Como tiene muchas manos, con muchos puede lydiar.» Arc. de Hita (Cl. C. 17. 94).\n\n— Siglo XIII: X «E el conde Malprian feriólo por el escudo tan gran golpe que gelo falsó, mas la loriga era muy buena e muy fuerte, e no gela pudo falsar, e quebró la lança e fízola bolar en pieças.» Conq. de Ultr. (ICC. 51. 246). + «Alanço la su arma --- e diol en el cuello e descabeçol, e fizol uolar la cabesça por ell aer.» Alf. X, General estoria, 2. 1 (p. 192). + «A las uezes alçan se [los delfines] tanto como qui uuela.» Id. ib. 2. 1 (p. 182). + «Boló [Santa María] tan alto que cubrió todo el mundo.» Id. Seten. 60 (p. 100).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. volare 'volar, ir por el aire'. Cat. volar, fr. voler, it. volare, port. voar.",
+  "etimologia": "Etim. Del lat. <i>volare</i> 'volar, ir por el aire'. Cat. <i>volar</i>, fr. <i>voler</i>, it. <i>volare</i>, port. <i>voar.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
-  "conjugacion": "Conjug. Presenta las siguientes formas diptongadas: vuelo, -as, -a, -an; vuele, -es, -e, -en; vuela (tú).\n\n\u0000",
+  "conjugacion": "Conjug. Presenta las siguientes formas diptongadas: vuelo, -as, -a, -an; vuele, -es, -e, -en; vuela (tú).",
   "construccion_sintactica": "",
   "prosodia": "",
   "colocacion_concordancia": ""

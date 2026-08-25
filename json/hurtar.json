@@ -1,355 +1,467 @@
 {
   "lema": "HURTAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, a) tomar o retener bienes ajenos contra la voluntad de su dueño, sin intimidación en las personas ni fuerza en las cosas (Reservar: θ; Ocultar: ι; Tomar, seleccionar: κ ), b) no dar el peso o medida cabal los que venden, quitar alguna parte sin verlo el que compra, c) met. dícese del mar y de los ríos cuando se van entrando por las tierras y se las llevan, d) usurpar;\n\n— 2, met. apropiarse de dichos, sentencias, escritos;\n\n— 3, met. desviar, separar, apartar, evitar, esquivar alguna cosa.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, a) tomar o retener bienes ajenos contra la voluntad de su dueño, sin intimidación en las personas ni fuerza en las cosas (Reservar: θ; Ocultar: ι; Tomar, seleccionar: κ ), b) no dar el peso o medida cabal los que venden, quitar alguna parte sin verlo el que compra, c) met. dícese del mar y de los ríos cuando se van entrando por las tierras y se las llevan, d) usurpar;\n\n— 2, met. apropiarse de dichos, sentencias, escritos;\n\n— 3, met. desviar, separar, apartar, evitar, esquivar alguna cosa.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Tomar o retener bienes ajenos contra la voluntad de su dueño, sin intimidación en las personas ni fuerza en las cosas (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Andá, señora, \"harto da quien da lo que tiene\"! — Sí, verdad es, mas no lo que hurta.»",
               "autor": "Delicado",
               "referencia_obra": ", La Lozana (Cl. Castal. 13. 68)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si él [el marido] hurta a ella, y ella se da a otro, mayor hurto cometen que si hurtasen mucha hacienda.»",
               "autor": "Ávila",
-              "referencia_obra": ", Eucar. 11 (3. 299). X"
+              "referencia_obra": ", Eucar. 11 (3. 299)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hurtaba lo que podía; pero de modo que no se pudiera causar sospecha contra mí. Para las haciendas de mi cargo yo me lo tenía y a mi amo descuidado de mandarlo.»",
               "autor": "Alemán",
-              "referencia_obra": ", Guzmán, 1. 2 (Cl. C. 83. 70). X"
+              "referencia_obra": ", Guzmán, 1. 2 (Cl. C. 83. 70)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De allí a cuatro días llegaron a una aldea dos leguas de Toledo, donde asentaron su aduar, dando primero algunas prendas de plata al alcalde del pueblo, en fianzas de que en él ni en todo su término no hurtarían ninguna cosa.»",
               "autor": "Cerv.",
-              "referencia_obra": "Gitanilla (Cl. C. 27. 78). X"
+              "referencia_obra": "Gitanilla (Cl. C. 27. 78)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entre los antiguos germanos el robo hacía al usurpador legítimo dueño de lo que hurtaba.»",
               "autor": "Feijóo",
               "referencia_obra": ", Teatro crít. (Cl. C. 48. 96)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "El acus. es una prop. en indicativo. X",
+              "definicion": "El acus. es una prop. en indicativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Y pensar que has robado gallinero, | Cuando siempre te vi como un cordero? ¡Cordero! exclama el Zorro; no hay aguante. | Que cordero me vuelva en el instante, | Si he hurtado el que falta en tu majada.»",
                   "autor": "Saman.",
-                  "referencia_obra": "Fáb. (Cl. Castal. 7. 197). — met. +"
-                },
+                  "referencia_obra": "Fáb. (Cl. Castal. 7. 197)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Este es el mal consejo de nuestro corazón y la herencia del hurto de la divinidad de Dios, que nuestra madre Eva quiso hurtar.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Espist. 2. 90 (1. 646)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Este es el mal consejo de nuestro corazón y la herencia del hurto de la divinidad de Dios, que nuestra madre Eva quiso hurtar.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Espist. 2. 90 (1. 646)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Vive Dios, que éste es Piedehierro, mi caballo, que ha pocos días que me le hurtaron en Antequera!»",
                   "autor": "Cerv.",
                   "referencia_obra": "Coloq. (Cl. C. 36. 276)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Él debiose de imaginar, a lo que yo imagino, e imaginé bien, que sin duda yo le quería hurtar alguna parte del paño.»",
                   "autor": "",
-                  "referencia_obra": "Id. Quij. 2. 45 (R. 1. 4972). X"
+                  "referencia_obra": "Id. Quij. 2. 45 (R. 1. 4972)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El arcaz --- me puso en cuidado imaginando qué traza podía tener para hurtarles [a los fulleros] el dinero.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 13 (Cl. C. 43. 184). — met."
+                  "referencia_obra": ", Escud. 1. 13 (Cl. C. 43. 184)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«El hombre está entregado | Al sueño, de su suerte no cuidando, | Y con paso callado | El cielo vueltas dando, | Las horas del vivir le va hurtando.»",
+                      "autor": "León",
+                      "referencia_obra": ", Poes. 1, oda 12 (4. 315)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Felices los ingenios pasados, que hurtaron a los futuros la gloria de lo que habían de inventar.»",
+                      "autor": "Saav.",
+                      "referencia_obra": "Emp. pról. (R. 25. 4)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El hombre está entregado | Al sueño, de su suerte no cuidando, | Y con paso callado | El cielo vueltas dando, | Las horas del vivir le va hurtando.»",
-                  "autor": "León",
-                  "referencia_obra": ", Poes. 1, oda 12 (4. 315)."
-                },
-                {
-                  "texto_cita": "«Felices los ingenios pasados, que hurtaron a los futuros la gloria de lo que habían de inventar.»",
-                  "autor": "Saav.",
-                  "referencia_obra": "Emp. pról. (R. 25. 4). — Además con un gerundio, que indica el modo."
-                },
-                {
-                  "texto_cita": "«Hurtaba a mis viejos padres, | Arcas y cofres abriendo.»",
-                  "autor": "Tirso",
-                  "referencia_obra": ", El condenado por desconfiado, 1. 12 (R. 5. 1892)."
+                  "id_limpio": "—",
+                  "definicion": "Además con un gerundio, que indica el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Hurtaba a mis viejos padres, | Arcas y cofres abriendo.»",
+                      "autor": "Tirso",
+                      "referencia_obra": ", El condenado por desconfiado, 1. 12 (R. 5. 1892)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En Londres una sirvienta que hurta de la bolsa de su señora cuatro libras se condena a ser vendida como esclava por cuatro años en las Antillas.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 212)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en, que señala el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Dos ladrones hurtaron en Antequera un caballo muy bueno.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Coloq. (R. 1. 2352)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Tenemos muchas habilidades que felice fin nos prometen: porque en la cárcel cantamos, en el potro callamos, de día trabajamos, y de noche hurtamos.»",
               "autor": "Cerv.",
-              "referencia_obra": "Gitanilla (Cl. C. 27. 61). X"
+              "referencia_obra": "Gitanilla (Cl. C. 27. 61)."
             },
             {
+              "marca": "X",
               "texto_cita": "«\"Hurtan que es bendición\", porque con la bendición hurtan, tras ser siempre gente ignorante.»",
               "autor": "Quev.",
-              "referencia_obra": "Sueños (Cl. C. 31. 155). X"
+              "referencia_obra": "Sueños (Cl. C. 31. 155)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Qué manera de oración fuera si dijera un ladrón: \"Señor, dadme unas llaves para que hurte\"?»",
               "autor": "Nieremb.",
-              "referencia_obra": "Epíst. (Cl. C. 30. 195). X"
+              "referencia_obra": "Epíst. (Cl. C. 30. 195)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El ladrón busca por compañero al ladrón para que le ayude a hurtar; el homicida al homicida, para ejecutar el golpe destinado; el incontinente al incontinente, para los coloquios torpes en que se deleita.»",
               "autor": "Feijóo",
               "referencia_obra": ", Teatro crít. (Cl. C. 67. 147)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tiran unos de sus pies y los llevan a tristes andanzas; tiran otros de sus manos, que trabajan con pena, luchan con rabia, hurtan con astucia, matan con violencia.»",
                   "autor": "Benavente",
                   "referencia_obra": ", Intereses creados, 2. 3. 9 (p. 137)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ha crecido tanto el número de este gremio [el de los sastres], que iguala con la generación de los cornudos: éstos hurtan del mismo que en tu tiempo, y en este vicio no ha habido alteración, porque en sedas, tiras y bebederos entran las sisas con más valor que las hechuras.»",
                   "autor": "Torres Villarroel",
                   "referencia_obra": ", Visiones y visitas (Cl. C. 161. 213)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en. +",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«El indio que es tomado con el hurto en eredad ajena ---, el dueño --- le corta al ladrón ambas manos por las muñecas ---, esta es pena e castigo general al que hurta en el campo.»",
                   "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 2 (1. 22). X"
+                  "referencia_obra": ", Quinquag. 1. 2 (1. 22)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Decían los compañeros, que yo solo podía sustentar la casa con lo que corría, que es lo mismo que hurtar en nombre rebozado.»",
                   "autor": "Quev.",
                   "referencia_obra": "Buscón, 6 (Cl. C. 5. 84)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con para y una prop. en infinitivo. +",
+              "definicion": "Con para y una prop. en infinitivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Estos tales --- trabajan los domingos y fiestas sin necesidad, hurtan para remediar su pobreza, venden por dinero la verdad.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Trib. 1. 10 (R. 60. 3762)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con acus. de persona. +",
+              "definicion": "Con acus. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Las otras culpas que cometen [los ombres] al agressor ofenden e dañan prinçipalmente, mas el que hurta al mismo delincuente y al que rroba e a otros haze mal.»",
                   "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 2 (1. 22). X"
+                  "referencia_obra": ", Quinquag. 1. 2 (1. 22)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Allí es de contemplar las trazas que yo daba para hurtarle; resolvíame otras veces a pagarlo.»",
                   "autor": "Quev.",
                   "referencia_obra": "Buscón, 15 (Cl. C. 5. 181)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Prnl. X",
+          "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Sin duda que el ladrón vulgar y el salteador de caminos causan todavía repulsión; la prensa los censura y nadie se roza con ellos; pero es sólo por su aspecto grosero y mal oliente, y porque se presentan descalzos y harapientos; porque en cuanto el ladrón va bien puesto y perfumado, usa maneras finas, y en vez de hurtarse un cerdo, se alza con un millón.»",
               "autor": "R. Uribe",
               "referencia_obra": ", Obr. selec. (2. 231)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y llámale aquí susurro, porque es muy suaue la tal comunicación, assí como allí la llama ayres amorosos el alma, porque amorosamente se communica. Y dize que la reciuió como a hurtadillas; porque assí como lo que se hurta es ajeno, assí aquel secreto era ajeno del hombre.»",
               "autor": "",
               "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 121)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Recípr. +",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Las hormigas fueron primero hombres rústicos que vivían de sus labranzas y que eran tan grandes ladrones y codiciosos, que se hurtaban unos a otros el grano de las eras.»",
               "autor": "J. de Pineda",
-              "referencia_obra": ", Agr. crist. 8. 22 (R. 162. 1942). X"
+              "referencia_obra": ", Agr. crist. 8. 22 (R. 162. 1942)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Así tal vez el Hacedor Supremo | Dispuso hombres y cosas, para hurtarse | Las unas a las otras y borrarse | Como entre sí las olas de la mar.»",
               "autor": "Pombo",
               "referencia_obra": ", Antol. poét. p. 179."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Aquellos bultos negros que allí parecen deben de ser, y son, sin duda, algunos encantadores que llevan hurtada alguna princesa en aquel coche.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 8 (Cl. C. 4. 200). X"
+              "referencia_obra": "Quij. 1. 8 (Cl. C. 4. 200)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y hay que enhebrar los cerros repetidos, | Sin decir el secreto doloroso: | Que yo te llevo hurtada a dioses crueles | Y que vamos a un Dios que es de nosotros.»",
               "autor": "Mistral",
               "referencia_obra": ", Antol. p. 66."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cesen este loco rodar de carrozas y estos desfiles de lacayos, ebrios de vanidad y de vino, ambas cosas hurtadas a su señor.»",
                   "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 61). — met. X"
-                },
+                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 61)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Silente en las sombras, el ímpetu libre | Hurtado a la impura materia | ¡Es ya el azul! ¡es ya la paz de Dios!»",
-                  "autor": "",
-                  "referencia_obra": "Barba-Jacob, Corazón iluminado, p. 96."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Silente en las sombras, el ímpetu libre | Hurtado a la impura materia | ¡Es ya el azul! ¡es ya la paz de Dios!»",
+                      "autor": "",
+                      "referencia_obra": "Barba-Jacob, Corazón iluminado, p. 96."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Labra casas y logra de lo hurtado, | Y pues tu fe con nuestra vida mides, | Si es que estás bautizado ¿dinos cuándo?»",
                   "autor": "Villamediana",
-                  "referencia_obra": ", Obr. (Cl. Castal. 8. 272). X"
+                  "referencia_obra": ", Obr. (Cl. Castal. 8. 272)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Puso Dios en el mundo la belleza para que fuera robada. Después de todo, es el robo un acto de admiración hacia lo hurtado, que anda más cerca del heroismo que la civil y tranquila fruición al amparo de las leyes.»",
                   "autor": "Ortega y Gasset",
                   "referencia_obra": ", Mocedades, p. 143."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
-          "definicion": "Part. adj. X",
+          "definicion": "Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Maravillado el Cuervo, y engreído de pasar por Águila, dijo para sí: — Yo no saco del error a la Zorra. — Soltó, pues, neciamente generoso, la hurtada presa, y echó a volar tan satisfecho.»",
               "autor": "Hartz.",
               "referencia_obra": "Fáb. (Cl. C. 179. 254)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Había el dorado Criseo seis veces desde este día ilustrado de sus rayos el oriente, y otras tantas llorado el Alba la muerte de Memnón, su hijo, cuando una noche clara por el hurtado resplandor de Cintia, que muy acompañada de sus híadas, hélices y plaustro resplandecía.»",
                   "autor": "Lope",
-                  "referencia_obra": ", Arcadia (Cl. Castal. 63. 134). X"
+                  "referencia_obra": ", Arcadia (Cl. Castal. 63. 134)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Prodigio bello, | ¿Porqué huyes cuando yo | Si te sigo no es afecto | De cobrar el corazón | Sino a dártele de nuevo? | Y pues ya es tuyo y no hurtado...»",
                   "autor": "Cald.",
                   "referencia_obra": "Autos (Cl. C. 74. 166)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -357,36 +469,52 @@
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
           "definicion": "En los siguientes textos, Reservar. met. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Todo su negocio es aconsejarle que hurte cada día sus ratos de tiempo a los negocios y despachos universales de toda la Iglesia, para ocuparse en este ejercicio.»",
               "autor": "Gran.",
               "referencia_obra": "Orac. y consid. 2. 3, §7 (R. 8. 1192)."
             },
             {
+              "marca": "",
               "texto_cita": "«Solos los que me lo mandan escribir saben que lo escribo, y al presente no están aquí, y casi hurtando el tiempo, y con pena, porque me estorbo de hilar.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Vida, 10 (R. 53. 431)."
             },
             {
+              "marca": "",
               "texto_cita": "«Bien será, señores, que los que aquí estamos, ya que entregarnos al dulce sueño no habemos querido, que este tiempo que le hurtamos, no dejemos de aprovecharle en cosa que más de nuestro gusto sea.»",
               "autor": "Cerv.",
               "referencia_obra": "Gal. 6 (R. 1. 932)."
             },
             {
+              "marca": "",
               "texto_cita": "«Nunca hurtó tiempo a los ejercicios santos.»",
               "autor": "Roa",
               "referencia_obra": ", Vida de Dª Ana Ponce de León, 3. 6 (p. 139)."
             },
             {
+              "marca": "",
               "texto_cita": "«Vais a llenar las horas | Que hurtare a su preciso | Descanso.»",
               "autor": "Jovell.",
-              "referencia_obra": "idil. a Paulino (R. 46. 51). — Además con la prep. con, para expresar el modo. X"
-            },
+              "referencia_obra": "idil. a Paulino (R. 46. 51)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Furtiva calle, original, como hecha | Para don Juan Tenorio --- | Pero ya para siempre le han hurtado | Sus románticas noches silenciosas, | Con la electricidad, la gasolina | Y el cemento.»",
-              "autor": "L. C. López",
-              "referencia_obra": ", Antol. poét. p. 19."
+              "id_limpio": "—",
+              "definicion": "Además con la prep. con, para expresar el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Furtiva calle, original, como hecha | Para don Juan Tenorio --- | Pero ya para siempre le han hurtado | Sus románticas noches silenciosas, | Con la electricidad, la gasolina | Y el cemento.»",
+                  "autor": "L. C. López",
+                  "referencia_obra": ", Antol. poét. p. 19."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -394,35 +522,51 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con para, que expresa la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En aquel tiempo en que se ocupaba en el estudio de la teología escolástica, hurtaba el tiempo que podía para el estudio de la teología mística.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Vida de B. de los Márt. 1 (R. 11. 4321). — Seguida de una prop. en infinitivo."
-                },
+                  "referencia_obra": "Vida de B. de los Márt. 1 (R. 11. 4321)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y hurten un pedazo del sueño de la noche para vacar a Dios nuestro Señor cuando todas las cosas están en silencio.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Serm. contra escánd. §9 (R. 11. 551). X"
-                },
-                {
-                  "texto_cita": "«Muchas horas de cama | Hurté para leer cualquier librote | De algún comentador desaforado, | O rascarme la frente y el cogote.»",
-                  "autor": "T. Iriarte",
-                  "referencia_obra": ", Poes. (Cl. C. 136. 159)."
+                  "id_limpio": "—",
+                  "definicion": "Seguida de una prop. en infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y hurten un pedazo del sueño de la noche para vacar a Dios nuestro Señor cuando todas las cosas están en silencio.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Serm. contra escánd. §9 (R. 11. 551)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Muchas horas de cama | Hurté para leer cualquier librote | De algún comentador desaforado, | O rascarme la frente y el cogote.»",
+                      "autor": "T. Iriarte",
+                      "referencia_obra": ", Poes. (Cl. C. 136. 159)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Part. X",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Fue la navegación tan peligrosa cuan larga, pero servía de alivio la narración de sus tragedias, que a ratos hurtados prosiguió Critilo desta suerte: ---.»",
                   "autor": "Gracián",
                   "referencia_obra": ", El criticón, 1. 4 (Cl. C. 165. 49)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -430,57 +574,71 @@
           "id_marcador_html": "— ι )",
           "id_limpio": "— ι )",
           "definicion": "En el siguiente ejemplo, Ocultar. Con dat. y con a, para expresar el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Te prometo [oh fuente] | De hurtarte al sol a fuerza de arboleda.»",
               "autor": "Quev.",
               "referencia_obra": "Musa 8, selva 14 (R. 69. 3101)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— κ )",
           "id_limpio": "— κ )",
-          "definicion": "En el siguiente ejemplo, Tomar, seleccionar. Con de. X",
+          "definicion": "En el siguiente ejemplo, Tomar, seleccionar. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pidió cinco donzellas de la mayor hermosura que se hallasen en toda aquella ciudad, y hurtando de cada vna las faciones más singulares, y las bellezas más peregrinas, hizo vna imagen muda.»",
               "autor": "",
               "referencia_obra": "P. Sáinz, Apol. leng. castell. sig. oro (Cl. Olv. 19. 132)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— λ )",
           "id_limpio": "— λ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "A hurta cordel: expresión de que usan los muchachos en el juego del peón e indica el modo de arrojar éste, tirando con violencia la mano hacia atrás para que el cordel se desenvuelva en el aire, y el peón adquiera una rotación rápida y duradera a fin de que se pueda tomar en la mano. met. Súbitamente, de una manera repentina, sin ser visto ni esperado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Si el que le dio los palos, aunque se los dio a hurta cordel, pusiera mano a su espada, y se estuviera quedo haciendo rostro a su enemigo, quedara el apaleado agraviado y afrentado juntamente.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 32 (R. 1. 4721)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Hurtar de boga arrancada: mar. con fuerza y precipitación. X",
+              "definicion": "Hurtar de boga arrancada: mar. con fuerza y precipitación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Más fácil es tomar que pedir; cuando todos guardan, no hay qué aguardar; lo que conviene es hurtar de boga arrancada.»",
                   "autor": "Quev.",
                   "referencia_obra": "Hora de todos (Cl. Castal. 67. 116)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -488,36 +646,45 @@
           "id_marcador_html": "— μ )",
           "id_limpio": "— μ )",
           "definicion": "Refranes.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Lo que se hereda no se hurta: poseer uno, una cualidad o característica propia de sus padres. X",
+              "definicion": "Lo que se hereda no se hurta: poseer uno, una cualidad o característica propia de sus padres.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Al decir esto, me preguntó don Rafo si era tan buen jinete como mi padre, y tan valeroso en los peligros. — Lo que se hereda no se hurta, respondí jactancioso en tanto que Alicia, con el rostro iluminado por el fulgor de la hoguera, sonreía confiada.»",
                   "autor": "Rivera",
-                  "referencia_obra": ", La vorágine, 1 (p. 19). X"
+                  "referencia_obra": ", La vorágine, 1 (p. 19)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tan cumplidor de sus deberes, tan cívico, tan correcto, ¡Pobre Amelita! ¡tan buenmozo...! tal vez en eso fue lo único que le salió ese tarambana de Alejandro, admitió mamá, doña Fidelia, porque eso sí: lo que se hereda no se hurta.»",
                   "autor": "Ángel",
                   "referencia_obra": ", Estaba la pájara pinta, p. 231."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "El hurtar es cosa linda si colgasen por la pretina: da a entender que el miedo del castigo hace contener a los hombres en su deber y evita los delitos. X",
+              "definicion": "El hurtar es cosa linda si colgasen por la pretina: da a entender que el miedo del castigo hace contener a los hombres en su deber y evita los delitos.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El hurtar es cosa linda si colgasen por la pretina.»",
                   "autor": "Lope",
                   "referencia_obra": ", Dorotea, fol. 187 (Dicc. Autor.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -526,31 +693,39 @@
     {
       "id": "b)",
       "definicion": "No dar el peso o medida cabal los que venden, quitar alguna parte sin verlo el que compra (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y para carnero verde, | Muger de tan alta guisa, | Que aun a la libra del cielo, | Hurtará la media libra.»",
               "autor": "Quev.",
               "referencia_obra": "Mus. 5. 4 (Dicc. Autor.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Eran como regatones, que lo que no pueden hurtar en el precio, hurtan en el peso.»",
                   "autor": "",
                   "referencia_obra": "Alem. Orthogr. 5 (Dicc. Autor.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -558,57 +733,71 @@
     },
     {
       "id": "c)",
-      "definicion": "met. Dícese del mar y de los ríos cuando se van entrando por las tierras y se las llevan (trans.). X",
+      "definicion": "met. Dícese del mar y de los ríos cuando se van entrando por las tierras y se las llevan (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Fabio miraba en las olas, | Como la playa las hurta, | A las que vienen la plata, | Y a las que se van la espuma.»",
           "autor": "Lope",
           "referencia_obra": ", Dorotea, p. 142 (Dicc. Autor.)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "Usurpar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con dat. Además con para y una prop. infinitiva. X",
+          "definicion": "Con dat. Además con para y una prop. infinitiva.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El rey Fernando mismo se inclinaba a hurtarle la corona para ponerla en las sienes de Fernando, el infante que se ha criado en Castilla.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 5 (p. 80)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mucho más quieren en éstos, y con más pasión y más verdadero amor y más provechoso amor. En fin, es amor, y esotras aficiones bajas le tienen hurtado el nombre.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cam. perf. 55 (Cl. C. 98. 7)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ellos sustentan el solio de los príncipes, por esto Ezequiel mandó al rey Sedequías que se quitase la corona y las demás insignias reales, porque estaban como hurtadas en él porque no distribuía con justicia los premios.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 23 (Cl. C. 76. 223)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -617,116 +806,143 @@
     {
       "id": "2",
       "definicion": "met. Apropiarse de dichos, sentencias, escritos (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y no es de maravillar que yo hurtase tanta parte dél, pues él también [san Ambrosio] hurtó todo lo que escribió de Hexamerón de san Basilio.»",
               "autor": "Gran.",
-              "referencia_obra": "Símb. 1. 13 (R. 6. 2142). X"
+              "referencia_obra": "Símb. 1. 13 (R. 6. 2142)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Al fin, no hay que afrentarse de predicar un buen punto diestramente, porque otro lo haya dicho antes; que, como dice San Jerónimo, en el proemio de sus Cuestiones hebreas, a Virgilio le dieron en cara con que hurtaba algunas cosas de Homero, y él respondió: Magnarum esse virium Herculi clavam extorquere de manu.»",
               "autor": "F. Terrones",
               "referencia_obra": ", Instrucción (Cl. C. 126. 98)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Muchos piensan, y se angañan, | Que, pues callo, piedras cojo, | Y mala landre me dé | Si no es de pereza todo; | Fuera de que ha pocos días | Que ciertos poetas mozos | Dan en llamarse Belardos, | Hurtándome el nombre solo.»",
                   "autor": "Lope",
                   "referencia_obra": ", Poes. lír. (Cl. C. 68. 29)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si vale algo mi conjetura, sospecho que hurtó Horacio a Cicerón este pensamiento.»",
                   "autor": "Márquez",
-                  "referencia_obra": "(Camp. Teatro, 4. 110). X"
+                  "referencia_obra": "(Camp. Teatro, 4. 110)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Qué quiere decir escombrar en castellano? — Casi lo mesmo que esgombrar en italiano. — Según eso, hurtado nos habéis este vocablo. — Sí por cierto: hallado os habéis la gente que se anda a hurtar vocablos.»",
                   "autor": "Mayáns",
                   "referencia_obra": ", Oríg. leng. esp. p. 60."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«San Cipriano mártir dice que, como fué lícito a los hebreos tomar las joyas de oro y plata de los gitanos e irse con ellas, tanquan ab injustis possessoribus; así nosotros podemos hurtar de los libros de autores profanos cuanto bueno halláremos en ellos, como de injustos poseedores.»",
                   "autor": "Terrones",
                   "referencia_obra": ", Instrucción (Cl. C. 126. 81)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Qué hombre hay en el mundo que no hurte y se aproveche de algo ajeno? Porque todo lo más que hoy se escribe (si bien se mira) está ya dicho; pero el buen estilo con que se dice es justo que se celebre.»",
               "autor": "Rojas",
               "referencia_obra": "Villandrando, Viaje entretenido, p. 460."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya entre los intonsos poetas de nuestra edad se usa que cada uno escribe como quisiere, y hurte de quien quisiere, venga o no venga a pelo de su intento.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 70 (R. 1. 5512). X"
+                  "referencia_obra": "Quij. 2. 70 (R. 1. 5512)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«No pocos de estos que se llaman autores y que tienen cara de hombres de bien, averiguada después su vida y milagros, se halla ser unos raterillos literarios, que, hurtando de aquí y de allí, salen de la noche para la mañana en la Gaceta con los campanudos dictados de matemáticas, filológicos, físicos, eléctricos, protocríticos, antisistemáticos.»",
                   "autor": "Isla",
                   "referencia_obra": ", Fr. Ger. (Cl. C. 148. 77)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Recípr. X",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y entre amigos y enemigos, | De hurtarse los pensamientos, | Vemos resultar por horas | Muchos y buenos efectos. | Si no, mirad los poetas | Que por puntos hacen esto, | Hurtándose aquél al otro | Las sentencias, los conceptos.»",
               "autor": "Rojas",
               "referencia_obra": "Villandrando, Viaje entretenido, p. 463."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y con grupo mortal de erudiciones | Disputan que mi fábula es hurtada, | Y que Agelio lo indica en sus Centones.»",
               "autor": "Forner",
               "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 278)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -734,54 +950,75 @@
     {
       "id": "3",
       "definicion": "met. Desviar, separar, apartar, evitar, esquivar alguna cosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Arremetieron el uno al otro con muestras de ser mortales enemigos, comenzando a tirarse bravos y diestros botes de lanza, ya hurtando los golpes, ya recogiéndolos con tanta destreza, que daban bien a entender ser maestros en aquel ejercicio.»",
               "autor": "Cerv.",
               "referencia_obra": "Las dos doncellas (R. 1. 2101)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Entre las cuales también iba Teolinda, con cuidado de hurtar el rostro a los ojos de Damón y Tirsi por no ser dellos conocida.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Gal. 13 (R. 1. 401)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Estas pocas reliquias que aquí veis, por impulso del cielo las he hurtado a las llamas y al filo de los bárbaros puñales.»",
                   "autor": "",
                   "referencia_obra": "Id. Pers. 1. 4 (R. 1. 5662)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Tres veces encenderlo intenta, y luego | Otras tantas lo hurta al mortal fuego.»",
                   "autor": "Valb.",
                   "referencia_obra": "Bern. 11 (R. 17. 2592)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Veían en la orilla una ensenada donde juzgaron podrían hurtar el bajel al peligro.»",
                   "autor": "Quev.",
-                  "referencia_obra": "Vida de S. Pablo (R. 48. 451). X"
+                  "referencia_obra": "Vida de S. Pablo (R. 48. 451)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ramiro estaba ya metido en el lecho, y hurtando su rostro a la luz para dormirse, repuso como entre dientes: ---.»",
                   "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 224). — Además con la prep. con."
-                },
+                  "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 224)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Cuando ellas [las moscas] están paradas, acométenlas [las arañuelas] a traición, llegándose a ellas poco a poco por las espaldas, mas con tal aviso, que cuando la mosca se menea, ella le hurta la vista con gran ligereza ---.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Símb. 1. 18, §3 (R. 6. 2331)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Cuando ellas [las moscas] están paradas, acométenlas [las arañuelas] a traición, llegándose a ellas poco a poco por las espaldas, mas con tal aviso, que cuando la mosca se menea, ella le hurta la vista con gran ligereza ---.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Símb. 1. 18, §3 (R. 6. 2331)."
+                    }
+                  ]
                 }
               ]
             }
@@ -791,97 +1028,127 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. refl. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Beba, y olvídese, y no siempre vea | Presente su dolor adormecido: | Húrtese aquel espacio a la pelea.»",
               "autor": "León",
               "referencia_obra": ", Poes. Prov. cap. últ. (4. 629)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refl. +",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Mirando [yo] por la Tisbe, la cual no sé cómo se había hurtado y escondido, comencé a echar los ojos en torno de la cama y del aposento.»",
               "autor": "F. de Mena",
-              "referencia_obra": ", Teágenes y Cariclea, 1 (p. 29). X"
+              "referencia_obra": ", Teágenes y Cariclea, 1 (p. 29)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dende a pocos días de noche se hurtó y huyó de aquella ciudad.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 20. 6 (R. 31. 702)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. +",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«No se hurte [vuestra señoría] a este Señor, pues tan verdaderamente es suya.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Epist. 1. 43 (1. 488)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Engañen algo de la noche con este ejercicio, y húrtense al vicioso sueño, para entender en él.»",
                   "autor": "León",
                   "referencia_obra": ", Perf. cas. 5 (3. 449)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Estudiaba cómo hurtarse a las ocasiones de vanidad.»",
                   "autor": "Roa",
-                  "referencia_obra": ", Vida de Dª Sancha Carrillo, 2. 3 (p. 88). — Además con la prep. con."
-                },
+                  "referencia_obra": ", Vida de Dª Sancha Carrillo, 2. 3 (p. 88)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Hurtose al golpe el joven con destreza.»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", Todo es ventura, 3. 13 (R. 20. 1351)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Hurtose al golpe el joven con destreza.»",
+                      "autor": "Alarcón",
+                      "referencia_obra": ", Todo es ventura, 3. 13 (R. 20. 1351)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. +",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Dijo --- que por esta causa él [Aquémenes] se había hurtado y venido con tanta diligencia a contárselo.»",
                   "autor": "F. de Mena",
                   "referencia_obra": ", Teágenes y Cariclea, 8 (p. 298)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tomé por medio vuestra mesma muerte para despojaros de vuestra hacienda, hurtándome de vuestro servicio y haciéndome esclavo del enemigo.»",
                   "autor": "Gran.",
                   "referencia_obra": "Mem. vida crist. 2. 6 (R. 8. 2242)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En ellos [los ejercicios coporales] está el corazón libre para hurtarse muchas veces de los negocios y esconderse en las llagas de Cristo.»",
                   "autor": "",
                   "referencia_obra": "Id. Guía, 2. 22 (R. 6. 1681)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dividíale [el soto] como en dos partes un no pequeño arroyo que hacía el agua que por entre las piedras de la presa se hurtaba del río.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 2, introd. (3. 135)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No se debe tener por pequeño crimen estar uno en la oración hablando con Dios y súbitamente hurtarse de su presencia.»",
                   "autor": "",
                   "referencia_obra": "J. de los Ángeles, Conq. del reino de Dios, 10. 15 (p. 403)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -889,81 +1156,100 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Con sujeto de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Una nube --- | Hurtó un breve momento | A mis ojos el día.»",
               "autor": "Quev.",
               "referencia_obra": "Musa 3, canc. fún. (R. 69. 472)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Hurtarse a (de) los ojos de alguno: frase que significa volver la espalda y ausentarse. X",
+              "definicion": "Hurtarse a (de) los ojos de alguno: frase que significa volver la espalda y ausentarse.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Viendo junto con ello burlados sus deseos, y perdidas sus esperanzas, se hurtó de los ojos de todos... y se salió de la sala.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Las dos doncellas (Dicc. Autor.). X"
+                  "referencia_obra": "Las dos doncellas (Dicc. Autor.)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Por qué, divina hermosura, | Te hurtas a los ojos míos? | Si es tan apacible el riesgo, | Deja que dure el peligro, | Y haz esta vez un dichoso | Del que infeliz ha nacido, | Pues no es la fuga valiente, | Si es cobarde el enemigo.»",
                   "autor": "Cañizares",
-                  "referencia_obra": ", Por acrisolar su honor, 1 (R. 49. 6142). X"
+                  "referencia_obra": ", Por acrisolar su honor, 1 (R. 49. 6142)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y se hurta a los ojos de la gente, | Como el joven nacido | De Tetis, antes de la guerra ardiente | De Troya a quien engaños | Y amor vistieron mujeriles paños.»",
                   "autor": "Iglesias",
                   "referencia_obra": ", oda 3 (R. 61. 4711)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Hurtar el cuerpo: además de la significación propia de apartar, tiene la de Evitar todo compromiso o responsabilidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pareció a su ilustrísima señoría de nuestro buen arzobispo y al asistente y fiscal, que nuestro padre les hurtase el cuerpo, para que no le notificasen nada.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Cartas, 1. 33 (R. 53. 642)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Gustó mucho que faltase de su servicio, porque acudiese al de Dios, y hurtase el cuerpo a las ocasiones.»",
                   "autor": "Roa",
                   "referencia_obra": ", Vida de Dª Ana Ponce de León, 2. 7 (p. 86)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Quiero hurtar con esta ausencia | El cuerpo a vuestra inclemencia.»",
                   "autor": "Alarcón",
-                  "referencia_obra": ", El semejante a sí mismo, 1. 9 (R. 20. 672). X"
+                  "referencia_obra": ", El semejante a sí mismo, 1. 9 (R. 20. 672)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Al señor se le pasaba la vida atacando y defendiéndose, corriendo tierras de los otros, avasallando a quien podía y hurtando el cuerpo a quienes más fuertes que él pudieron dominarlo.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 29."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Hurtar las corrientes: mar. extraviar éstas de su derrota al buque llevándolo hacia puntos apartados del rumbo directo. X",
+              "definicion": "Hurtar las corrientes: mar. extraviar éstas de su derrota al buque llevándolo hacia puntos apartados del rumbo directo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«De manera, que del punto que llevaron por altura de latitud, se engañaron y hurtaron las corrientes 340 leguas.»",
                   "autor": "",
                   "referencia_obra": "Argens. Maluc. 4. 130 (Dicc. Autor.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -972,12 +1258,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «No soy yo de aquellos que presumen quitar con palabras la tristeza no aún madura, furtando su oficio al tiempo, que la suele quitar madurando.» Pulgar, Letras, 15 (p. 221). «Fuese a Ayamonte pensándolo hurtar, e non pudo. --- E como Pedro de Estúñiga vido que no había lugar de la escalar, comenzó de la combatir.» Crón. Juan II, 1. 42 (R. 68. 2951). + «Soliçitó non Su Alteza como por algund casi espaçuelo de tienpo, e como quien furtaba los días o el discurrir del año, se fuesen a Escalona.» Crón. Álv. de Luna, 85 (p. 254).\n\n— Siglo XIV: + «Los moros en tiempos de treguas hurtaron un castillo de Don Alvar Pérez de Guzmán, Señor de Olvera, que dicen Ayamonte.» P. de Guzmán, Gener. 2 (R. 68. 6992). X «Vimos en uno vilmente abraçados | La conpañera de aquel grand Atrides, | Duque de todas las greçianas lides, | Tomar con Egisto solaçes furtados.» Mena, Lab. (Cl. C. 119. 57). «Avía aquella sazón treinta años que la furtaron los ingleses [la ciudad de Calé], seyendo de Francia.» Crón. P. Niño, p. 142. X «Otros entran como ladrones para furtar e dapnificar, e éstos entran por los canpanarios; otros entran como mercaderes para levar o desfrutar, o éstos entran por las paredes.» Arc. de Talav. Corbacho (Cl. Castal. 24. 256). X «Ffurtava la raposa a su vezina el gallo: | Veyalo el lobo, mandávale dexallo, | Dezía que non devía lo ageno furtallo; | El non veya la ora, que podiesse tragallo.» Arc. de Hita, 1 (Cl. C. 14. 120). + «Ladrón malo --- darvos-han la pena que meresçedes porque entrastes por las paredes a furtar los nabos.» Zifar, 62 (p. 134). + «En este tiempo los moros furtaron la peña et el castiello de Pruna.» Crón. Alf. XI, 87 (p. 160). «Sil tomaren con algund can furtado, que gelo fagan sorrobar.» Mont. Alf. XI, 1. 34 (Bibl. venat. 1. 102). «Esto furtábalo del tiempo que habia a dormir.» J. Man. Caball. escud. 50 (R. 51. 2562).\n\n— Siglo XIII: «Cruelmente deben seer escarmentados los que furtan.» Part. 2. 28. 6 (2. 321). «E vio un omne que le cortavan las manos porque furtara.» Boc. de oro, 13 (Knust, 261). «Furteme de mis parientes e fize muy gran locura.» Appoll. 127 (R. 57. 2872). «Mas si aquel que ie la dio diz que nunqua ie la dio, ni fizo ende escripto; mas quel fue furtado el escripto, estonze ---.» Fuero Juzgo, 5. 2. 6 (p. 83). «Aquel que lo demuestra [el ladrón] deue aver la tercera parte de quanto val la cosa que fue furtada.» ib. 7. 2. 4 (p. 120). X «Dezir uos he del conde qual fue su cryazon, | Furtol vn pobrezy[e]llo que labraua carbón, | Trovol’ en la montanna vna grran[d] sazón.» Fern. Gonz. (Cl. C. 128. 56). X «As[s]ý commo ladrrón que anda a furtar, | As[s]ý solo sennero te amas apartar, | Quando nos te buscamos not’ podemos fallar, | Abremos sol por esto algun yerro tomar.» Fern. Gónz. 17 (Cl. C. 128. 126). X «Vino al padre santo a merced le clamar, | Que deñasse por elli al Crïador rogar: | Si essa vez sanasse no irié a furtar, | Aun que jurarié desto non la falsar.» Berc. Vida de S. Dom. (Cl. Castal. 49. 144).\n\n— Siglo XII: «Que si algunos furtare, o menos le fallaren, el auer me aurá a tornar.» Cid, 1260 (R. 57. 161).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Der. de hurto y éste del lat. furtum ‘robo’, der. de fur ‘ladrón’. Cat. furtar.",
+  "etimologia": "Etim. Der. de<i> hurto</i> y éste del lat.<i> furtum</i> ‘robo’, der. de<i> fur</i> ‘ladrón’. Cat.<i> furtar.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 1, β, α - 1, χ, α - 1, δ, α - 2, α - 3, α.\n\n— Aβσολ.: 1, α, β - 2, β.\n\n— Pασ. ρεφλ.: 1, α, δ - 3, β.\n\n— Rεφλ.: 3, γ.\n\n— Rεχíπρ.: 1, α, ε - 2, γ.\n\n— Pρνλ.: 1, α, γ.\n\n— Pαρτ.: 1, a, ζ - 1, α, θ, β β - 1, d, β - 2, δ.\n\n— Pαρτ. adj. : 1, a, η.\n\n— Sυσταντιvαδο: 1, α, ζ, β β.\n\n— Con dat.: 1, a, α, β β - 1, a, θ - 1, δ, α - 2, α, α α - 3, α, α α - 3, β - 3, γ, α α.\n\n— Con a: 1, a, ζ, α α - 1, a, ι.\n\n— Cον λα πρεπ. χον: 1, α, β - 1, α, θ - 3, α, α α - 3, γ, α α - 3, γ, β β.\n\n— Con de: 1, a, α, γ γ - 1, a, β, β β - 1, a, κ - 2, α, β β - 2, β, α α - 3, γ, γ γ.\n\n— Con en: 1, a, α, δ δ - 1, a, β, γ γ - 1, b, α, α α - 1, d, β, α α.\n\n— Con para: 1, a, β, δ δ - 1, a, θ, α α - 1, d, α.\n\n— Cον συjετο δε χοσα: 3, δ.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 1, β, α - 1, χ, α - 1, δ, α - 2, α - 3, α.\n\n— Aβσολ.: 1, α, β - 2, β.\n\n— Pασ. ρεφλ.: 1, α, δ - 3, β.\n\n— Rεφλ.: 3, γ.\n\n— Rεχíπρ.: 1, α, ε - 2, γ.\n\n— Pρνλ.: 1, α, γ.\n\n— Pαρτ.: 1, a, ζ - 1, α, θ, β β - 1, d, β - 2, δ.\n\n— Pαρτ. adj.: 1, a, η.\n\n— Sυσταντιvαδο: 1, α, ζ, β β.\n\n— Con dat.: 1, a, α, β β - 1, a, θ - 1, δ, α - 2, α, α α - 3, α, α α - 3, β - 3, γ, α α.\n\n— Con a: 1, a, ζ, α α - 1, a, ι.\n\n— Cον λα πρεπ. χον: 1, α, β - 1, α, θ - 3, α, α α - 3, γ, α α - 3, γ, β β.\n\n— Con de: 1, a, α, γ γ - 1, a, β, β β - 1, a, κ - 2, α, β β - 2, β, α α - 3, γ, γ γ.\n\n— Con en: 1, a, α, δ δ - 1, a, β, γ γ - 1, b, α, α α - 1, d, β, α α.\n\n— Con para: 1, a, β, δ δ - 1, a, θ, α α - 1, d, α.\n\n— Cον συjετο δε χοσα: 3, δ.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

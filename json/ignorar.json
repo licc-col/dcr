@@ -6,82 +6,108 @@
     {
       "id": "a)",
       "definicion": "No saber, desconocer (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Para hartas cosas era menester letras; porque aquí viniera bien dar a entender que es auxilio general o particular, que hay muchos que lo inoran.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Vida, 14 (R. 53. 521)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los que en ella vivían [en la edad de oro] ignoraban estas dos palabras de tuyo y mío.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 11 (R. 1. 2751)."
             },
             {
+              "marca": "",
               "texto_cita": "«Para aquellos que la tenían [que tenían noticia] del humor de D. Quijote era todo esto materia de grandísima risa; pero para los que la ignoraban les parecía el mayor disparate del mundo.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 45 (R. 1. 3822)."
             },
             {
+              "marca": "",
               "texto_cita": "«No estás tú obligado a saber latín, como algunos que presumen que lo saben y lo ignoran.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 29 (R. 1. 4661)."
             },
             {
+              "marca": "",
               "texto_cita": "«De la edad que digo, ya sabía yo la gramática y no ignoraba la retórica.»",
               "autor": "Lope",
               "referencia_obra": ", Dorotea, 4. 1 (Obr. suelt. 7. 268)."
             },
             {
+              "marca": "",
               "texto_cita": "«Por ignorar tus propios dones, | Sujetas al destino tus potencias | Con lo mal que a evitarla te dispones.»",
               "autor": "B. Argens.",
               "referencia_obra": "epíst. No te pienso pedir (R. 42. 3142)."
             },
             {
+              "marca": "",
               "texto_cita": "«No sabe [el avaro] qué cosa es llenarse, ignora la hartura.»",
               "autor": "Quev.",
               "referencia_obra": "Peste 4 (R. 48.1352)."
             },
             {
+              "marca": "",
               "texto_cita": "«Era Ferrán oidor eclesiástico, ignoraba totalmente la ciencia militar.»",
               "autor": "Melo",
               "referencia_obra": ", Guerra de Catal. 5 (R. 21. 5182)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cervantes ignoraba el precio y valor del Quijote, y daba al parecer la preferencia a su novela de los Trabajos de Persiles y Segismunda.»",
               "autor": "Clem.",
-              "referencia_obra": "Coment. 1 (p. xxiii). — met."
-            },
+              "referencia_obra": "Coment. 1 (p. xxiii)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Sois vid que el golpe de la hoz ignora.»",
-              "autor": "Jáur.",
-              "referencia_obra": "oct. A Ntra. Sra. (R. 42. 1261). X"
-            },
-            {
-              "texto_cita": "«Alba que ya crepúsculos ignora | Aquí vive a pesar de lo violento, | Donde más piadoso sentimiento | Luz que nos niega en tristes sombras llora.»",
-              "autor": "Villamediana",
-              "referencia_obra": ", Obr. (Cl. Castal. 8. 181). X"
-            },
-            {
-              "texto_cita": "«Llegó a una secreta estancia | Deste monte, a cuyo albergue | El sol ignoró la entrada, | Porque se la defendían | Rústicamente enlazadas, | Por no decir que amorosas, | Árboles, hojas y ramas.»",
-              "autor": "Cald.",
-              "referencia_obra": "La devoción de la cruz (Cl. Ebro, 66. 60). X"
-            },
-            {
-              "texto_cita": "«La fortuna | Hoy os hace adorar la tiranía, | Pero la sangre de Catón ignora | Esa cobarde máxima. Mi suerte, | Aun a pesar de tanta desventura, | No está en manos de Antonio ni de Octavio.»",
-              "autor": "Heredia",
-              "referencia_obra": ", Antol. p. 93. X"
-            },
-            {
-              "texto_cita": "«El vagón es silencio que un bufido | Permanente en sus ráfagas preserva. | Las ráfagas ignoran el aire allí servido.»",
-              "autor": "Guillén",
-              "referencia_obra": ", Selec. poem. p. 162."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Sois vid que el golpe de la hoz ignora.»",
+                  "autor": "Jáur.",
+                  "referencia_obra": "oct. A Ntra. Sra. (R. 42. 1261)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Alba que ya crepúsculos ignora | Aquí vive a pesar de lo violento, | Donde más piadoso sentimiento | Luz que nos niega en tristes sombras llora.»",
+                  "autor": "Villamediana",
+                  "referencia_obra": ", Obr. (Cl. Castal. 8. 181)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Llegó a una secreta estancia | Deste monte, a cuyo albergue | El sol ignoró la entrada, | Porque se la defendían | Rústicamente enlazadas, | Por no decir que amorosas, | Árboles, hojas y ramas.»",
+                  "autor": "Cald.",
+                  "referencia_obra": "La devoción de la cruz (Cl. Ebro, 66. 60)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«La fortuna | Hoy os hace adorar la tiranía, | Pero la sangre de Catón ignora | Esa cobarde máxima. Mi suerte, | Aun a pesar de tanta desventura, | No está en manos de Antonio ni de Octavio.»",
+                  "autor": "Heredia",
+                  "referencia_obra": ", Antol. p. 93."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«El vagón es silencio que un bufido | Permanente en sus ráfagas preserva. | Las ráfagas ignoran el aire allí servido.»",
+                  "autor": "Guillén",
+                  "referencia_obra": ", Selec. poem. p. 162."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -89,36 +115,52 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Siendo acus. una prop. indicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Retó [Diego Ordóñez] a todo el pueblo zamorano porque ignoraba que solo Bellido Dolfos había cometido la traición de matar a su rey.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 27 (R. 1. 4631)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Él sabía dónde, cómo y cuándo podía y debía desembarcar, y asímismo no ignoraba la casa donde D. Gaspar quedaba.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 2. 43 (R. 1. 5411). X"
+                  "referencia_obra": "Id. ib. 2. 43 (R. 1. 5411)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Cumpla usted, padre, con su ministerio, y absuelva a esos valientes que ignoran lo que les espera en el combate.»",
                   "autor": "P. Galdós",
-                  "referencia_obra": ", Trafalgar, 13 (p. 137). X"
+                  "referencia_obra": ", Trafalgar, 13 (p. 137)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Tú acaso ignoras que mi mayordomo es un gran artista?»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de primavera, p. 44. X"
+                  "referencia_obra": ", Sonata de primavera, p. 44."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Y quién no supondrá todo esto y más si no ignora lo que refieren los libros sobre el asunto?»",
                   "autor": "Azorín",
-                  "referencia_obra": ", Riofrío, 8 (p. 108). — met. X"
-                },
+                  "referencia_obra": ", Riofrío, 8 (p. 108)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El aire ignora que habitó en tu pecho, | Sin memoria, inmortal, el aire esplende.»",
-                  "autor": "Aleixandre",
-                  "referencia_obra": ", Sombra del paraíso (Cl. Castal. 71. 154)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El aire ignora que habitó en tu pecho, | Sin memoria, inmortal, el aire esplende.»",
+                      "autor": "Aleixandre",
+                      "referencia_obra": ", Sombra del paraíso (Cl. Castal. 71. 154)."
+                    }
+                  ]
                 }
               ]
             },
@@ -126,69 +168,85 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Siendo el acus. una prop. interrogativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pues la huéspeda ignoraba | Quién en su casa vivía, | La criada a quién servía | Y el huésped quién le pagaba.»",
                   "autor": "Cald.",
                   "referencia_obra": "Hombre pobre todo es trazas, 1. 1 (R. 7. 5031)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Quién no se admira de que un mancebo ilustre sepa puntualmente de memoria los nombres y circunstancias de los caballos y mulas de que se sirve, e ignora cómo se llaman y en qué sobresalieron los héroes más aplaudidos de la historia?»",
                   "autor": "T. Iriarte",
-                  "referencia_obra": ", Liter. en cuaresma (7. 47). X"
+                  "referencia_obra": ", Liter. en cuaresma (7. 47)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Llamó entonces a Ben Yehaf y le hizo jurar que no lo ocultaba. El moro juró. Tres veces afirmó, ante el capitán de las barbas luengas, que ignoraba dónde estaba el ceñidor.»",
                   "autor": "Marañón",
-                  "referencia_obra": ", Tiempo viejo, p. 22. X"
+                  "referencia_obra": ", Tiempo viejo, p. 22."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Con su corneta y su violín, hijo mío, los músicos callejeros tocan, a la puerta de las iglesias, en loor de los novios que ignoran cómo van a poder vivir.»",
                   "autor": "Cela",
                   "referencia_obra": ", Mrs. Caldwell, p. 141."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, para indicar el modo. X",
+              "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con los trabajos del comité sucedió lo que sucede con todo: el público los ignoraba con ignorancia crasa e invencible; pero cada uno de los que componían el público los sabía de buena tinta y en muchísima reserva.»",
                   "autor": "Marroquín",
                   "referencia_obra": ", Blas Gil, 23 (p. 268)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con de, con el mismo sentido del anterior. X",
+              "definicion": "Con de, con el mismo sentido del anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Este hombre-medio que ha aprendido a usar muchos aparatos de civilización, pero que se caracteriza por ignorar de raíz los principios mismos de la civilización.»",
                   "autor": "Ortega y Gasset",
-                  "referencia_obra": ", Rebel. de las masas, p. 124. X"
+                  "referencia_obra": ", Rebel. de las masas, p. 124."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El especialista ‘sabe’ muy bien su mínimo rincón de universo; pero ignora de raíz todo el resto.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. p. 173."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con por, con el mismo sentido. X",
+              "definicion": "Con por, con el mismo sentido.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«José Arcadio Buendía ignoraba por completo la geografía de la región.»",
                   "autor": "García Márquez",
                   "referencia_obra": ", Cien años de soledad, p. 15."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -196,33 +254,49 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El que ignora, en confesando | Lo que ignoró, se acredita.»",
               "autor": "Mto.",
-              "referencia_obra": "No puede ser, 2. 2 (R. 39. 1953). X"
+              "referencia_obra": "No puede ser, 2. 2 (R. 39. 1953)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La verdadera ciencia enseña, ante todo, a dudar y a ignorar; la abogacía ni duda ni cree que ignora. Necesita de una solución.»",
               "autor": "Unamuno",
               "referencia_obra": ", Del sen. trág. de la vida, 5 (p. 80)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Me lo pregunté a mí mismo, tan necio como curioso. Pues si el preguntar comienza en el ignorar, mal pudiera yo responderme.»",
                   "autor": "Gracián",
-                  "referencia_obra": ", El criticón, 1. 1 (Cl. C. 165. 14). — Con de. X"
-                },
+                  "referencia_obra": ", El criticón, 1. 1 (Cl. C. 165. 14)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El vaho de tristeza que envolvía los cuerpos ajetreados: --- la monotonía de lo inconstante, el acicate de la inquietud, y el rodar de la desventura, y el ignorar de rumbos, y la orfandad de puertos, ---.»",
-                  "autor": "Pz. de Ayala",
-                  "referencia_obra": ", Tinieblas (Cl. Castal. 36. 81)."
+                  "id_limpio": "—",
+                  "definicion": "Con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El vaho de tristeza que envolvía los cuerpos ajetreados: --- la monotonía de lo inconstante, el acicate de la inquietud, y el rodar de la desventura, y el ignorar de rumbos, y la orfandad de puertos, ---.»",
+                      "autor": "Pz. de Ayala",
+                      "referencia_obra": ", Tinieblas (Cl. Castal. 36. 81)."
+                    }
+                  ]
                 }
               ]
             }
@@ -231,188 +305,238 @@
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y por lo menos, si esto no se sabe, cuando se hubiere de traer cosa de otra facultad que se ignora, debe el predicador comunicarlo antes con los peritos en aquella ciencia y arte para no desbarrar.»",
               "autor": "F. Terrones",
               "referencia_obra": ", Instrucción (Cl. C. 126. 33)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pero cuando la constancia del mármol y la fortaleza del bronce vivan al par de los siglos, se ignora después por quién se levantaron.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 100 (R. 25. 2601)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ignórase el lugar y el año en que nació aquel niño.»",
               "autor": "Quint.",
-              "referencia_obra": "D. Álv. de Luna (R. 19. 3712). X"
+              "referencia_obra": "D. Álv. de Luna (R. 19. 3712)."
             },
             {
+              "marca": "X",
               "texto_cita": "«\"No hay memoria del tiempo en que se fundó el lugar; mas según está de viejo, manifiesta gran antigüedad. Se ignoran, de consiguiente, sus fundadores, pues no hay fastos.»",
               "autor": "Azorín",
-              "referencia_obra": ", Riofrío, 8 (p. 125). X"
+              "referencia_obra": ", Riofrío, 8 (p. 125)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Trató de hablar con José Arcadio Segundo para enterarlo de ese precedente, pero Aureliano Segundo le informó que desde la noche del atentado se ignoraba su paradero.»",
               "autor": "García Márquez",
               "referencia_obra": ", Cien años de soledad, p. 273."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Recípr. X",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Dice Carlyle \"que es necesario amar para conocer\". Máxima cierta cuando se trata de ciencia, arte o literatura. Pero en la amistad y en el amor fracasa a menudo. A veces nos amamos porque nos conocemos, y otras, acaso las más, nos amamos porque nos ignoramos.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Charlas de café, 1 (p. 15)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si es delito saber quién ha pecado, | Los vicios escudriñen los curiosos, | Y viva yo ignorante y ignorado.»",
               "autor": "Quev.",
               "referencia_obra": "Musa 2, son. 53 (R. 69. 241)."
             },
             {
+              "marca": "",
               "texto_cita": "«La voz ligera de que peligraba la plaza perturbó los sentidos, y ignorada la causa, se temían todas.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 37 (R. 25. 951)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los desinios ignorados amenazan a todas partes, y sirven de diversión al enemigo.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 44 (R. 25. 1111). X"
+              "referencia_obra": "Id. ib. 44 (R. 25. 1111)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Uno entre tantos, a su vez podría | Ignorado, tranquilo y solitario | Buscar entre el tumulto objetos dignos | A su meditación.»",
               "autor": "Pombo",
-              "referencia_obra": ", Antol. poética, p. 300. X"
+              "referencia_obra": ", Antol. poética, p. 300."
             },
             {
+              "marca": "X",
               "texto_cita": "«Estaba descubierta y era tiempo de desahogarse. Ignorado impulso desvió rápidamente las palabras; — Quién sabe, mamá, si haya sido una corriente de aire, que al salir del rosario sentí muy frío.»",
               "autor": "",
               "referencia_obra": "Yáñez, Al filo del agua, p. 30."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para señalar el agente. X",
+              "definicion": "Con de, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Trújole su locura a la memoria aquel [libro] de Baldovinos y del marqués de Mantua cuando Carloto le dejó herido en la montaña: historia sabida de los niños, no ignorada de los mozos.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 5 (R. 1. 2641)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La cuarta [cosa] es haber sabido con certidumbre el nacimiento del río Guadiana hasta ahora ignorado de las gentes.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 2. 24 (R. 1. 4551). X"
+                  "referencia_obra": "Id. ib. 2. 24 (R. 1. 4551)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Llenaron sus composiciones poéticas de términos técnicos, ya de astronomía, ya de náutica, ya de otras ciencias y artes que debía suponer ignoradas de la mayor parte de sus lectores; pero ellos querían pasar por hombres muy leídos.»",
                   "autor": "",
-                  "referencia_obra": "Hermosilla, Arte de hablar, 1. 3 (p. 180). X"
+                  "referencia_obra": "Hermosilla, Arte de hablar, 1. 3 (p. 180)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sepultose [el cura Castro] en Angaco, y allí, en la miseria, en la oscuridad, abandonado e ignorado de todos, murió besando alternativamente el crucifijo y el retrato de Fernando VII, el Deseado.»",
                   "autor": "",
-                  "referencia_obra": "D. F. Sarmiento, Recuerdos de Prov. p. 98. X"
+                  "referencia_obra": "D. F. Sarmiento, Recuerdos de Prov. p. 98."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Comprendía también que nosotros tenemos mucha gloria literaria, mucha gloria cívica que presentar al mundo en compensación de nuestros errores; pero que desgraciadamente esas glorias permanecían ignoradas aún de nosotros mismos.»",
                   "autor": "Martínez Silva",
                   "referencia_obra": ", Ensayos, p. 34."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por, para señalar el agente. X",
+              "definicion": "Con por, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Por fortuna, téngola aquí a mi lado [a mi madre], y ella me instruye de cosas de otros tiempos, ignoradas por mí, olvidadas de todos.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Recuerdos de Prov. p. 94."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con para, que equivale a por. X",
+              "definicion": "Con para, que equivale a por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Una preocupación es como un sentido nuevo que se abre en nuestro espíritu y que nos permite percibir mil cosas, ignoradas para el que pasa distraído al lado del problema que nos obsesiona.»",
                   "autor": "Marañón",
-                  "referencia_obra": ", Tiempo viejo, p. 13. X"
+                  "referencia_obra": ", Tiempo viejo, p. 13."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Carlos Didier y otros cien nombres hasta entonces ignorados para mí, alimentaron por largo tiempo mi sed de conocimientos.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Recuerdos de Prov. p. 129."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Adjetivado. X",
+              "definicion": "Adjetivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y no hay que aborrecer a la ignorada | Emperatriz y reina de la Nada.»",
                   "autor": "Darío",
-                  "referencia_obra": ", Poes. p. 300. X"
+                  "referencia_obra": ", Poes. p. 300."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sobre la clave del arco se alzaban dos quimeras manchadas de musgo, y un sendero umbrío, un solo sendero, ondulaba entre los mirtos como el camino de una vida solitaria, silenciosa e ignorada.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de otoño, p. 32. X"
+                  "referencia_obra": ", Sonata de otoño, p. 32."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Acaso, sobre basto papel, con borrosos tipos, veremos estampados un pensamiento sencillo, natural, de un hombre ignorado que un día se puso a escribir sin saber nada.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", Riofrío, 1 (p. 15). X"
+                  "referencia_obra": ", Riofrío, 1 (p. 15)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Es que no salen, como en Francia salió Juana de Arco, de algún ignorado rincón durmiente?»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Andanzas y visiones esp. p. 59."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Solos! — se dijo el mancebo. Uno y otro temblaban. Una irradiación misteriosa estremecía en torno de ellos lo ignorado.»",
                   "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 190). — Con de. X"
-                },
+                  "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 190)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Este tesoro oculto, que Ciceri llevaba en lo ignorado de su alma, y que quizá no sospechara jamás a no haber perdido aquel otro que más superficialmente tenía.»",
-                  "autor": "Rodó",
-                  "referencia_obra": ", Motivos de Proteo, p. 32. X"
-                },
-                {
-                  "texto_cita": "«Hay un hecho provocador, que da lugar a que la aptitud latente en lo ignorado de la persona, se reconozca a sí misma y tome las riendas de la voluntad.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. p. 101."
+                  "id_limpio": "—",
+                  "definicion": "Con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Este tesoro oculto, que Ciceri llevaba en lo ignorado de su alma, y que quizá no sospechara jamás a no haber perdido aquel otro que más superficialmente tenía.»",
+                      "autor": "Rodó",
+                      "referencia_obra": ", Motivos de Proteo, p. 32."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hay un hecho provocador, que da lugar a que la aptitud latente en lo ignorado de la persona, se reconozca a sí misma y tome las riendas de la voluntad.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. p. 101."
+                    }
+                  ]
                 }
               ]
             }
@@ -423,56 +547,69 @@
     {
       "id": "b)",
       "definicion": "No prestar atención deliberadamente, despreciar (trans.). Moliner tacha de anglicismo esta acepción.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El cura Castro Barros echó en mi espíritu la primera duda que lo ha atormentado, el primer disfavor contra las ideas religiosas en que había sido creado, ignorando el fanatismo y despreciando la superstición.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Prov. p. 124. X"
+              "referencia_obra": ", Recuerdos de Prov. p. 124."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡El Buey Apis me despide como a un criado! ¡La Academia me ignora! ¡Y soy el primer poeta de España! ¡El primero! ¡El primero! ¡Y ayuno! ¡Y no me humillo pidiendo limosna.»",
               "autor": "Valle-Inclán",
-              "referencia_obra": ", Luces de bohemia (Cl. C. 180. 49). X"
+              "referencia_obra": ", Luces de bohemia (Cl. C. 180. 49)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Condenémonos, durante la gestación de nuestra obra, a ignorar lo demás: la política, la literatura, la música, la chismografía, etc.»",
               "autor": "Ramón y Cajal",
-              "referencia_obra": ", Tónicos de la voluntad, 2 (p. 48). X"
+              "referencia_obra": ", Tónicos de la voluntad, 2 (p. 48)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Algunas mujeres hacían muecas de desagrado ante las danzas paisanas, que querían ignorar; pero una alegría involuntaria era dueña de todos nosotros, pues sentíamos que aquélla era la mímica de nuestros amores y contentos.»",
               "autor": "Güiraldes",
-              "referencia_obra": ", Don Segundo Sombra, 11 (p. 70). X"
+              "referencia_obra": ", Don Segundo Sombra, 11 (p. 70)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dicen que los leprosos suelen caer a veces a las farras del pueblo. ¿Es cierto eso? Mi acompañante volvió a ignorarme, a no oírme. Un poco antes de la leprosería estaba el cementerio.»",
               "autor": "Roa",
-              "referencia_obra": "Bastos, Hijo de hombre, p. 166. X"
+              "referencia_obra": "Bastos, Hijo de hombre, p. 166."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Se condenarán! — bramaba desde su púlpito el padre Azuaje, porque tenía la verdad. Y por tenerla ignoró las demás verdades.»",
               "autor": "Mejía Vallejo",
               "referencia_obra": ", Y el mundo sigue, p. 45."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Lo más fuerte y vivo de nuestra personalidad, florecerá algún día en la conciencia de nuestros descendientes, aunque se olvide el origen, como la rosa opulenta ignora el humilde escarabajo de que desciende.»",
                   "autor": "Ramón y Cajal",
                   "referencia_obra": ", Charlas de café, 3 (p. 69)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -481,51 +618,63 @@
     {
       "id": "c)",
       "definicion": "No conocer uno su naturaleza, sus capacidades (refl.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y quien comienza ignorándose, mal podrá conocer las demás cosas. Pero ¿de qué sirve conocerlo todo, si a sí mismo no se conoce?»",
               "autor": "Gracián",
-              "referencia_obra": ", El criticón, 1. 9 (Cl. C. 165. 133). X"
+              "referencia_obra": ", El criticón, 1. 9 (Cl. C. 165. 133)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Nosotros mismos somos herméticos. Nos ignoramos tanto, que a menudo quedamos asombrados y hasta avergonzados de nuestras obras y actitudes intelectuales de hace pocos años.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Charlas de café, 9 (p. 187)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a sí mismo, a sí propio, para recalcar la reflexividad. X",
+              "definicion": "Con a sí mismo, a sí propio, para recalcar la reflexividad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Le pregunté si querubín alado, | De los más puros ángeles al lado, | Una lira pulsaba celestial; | Si de la nada estaba en el abismo; | O estúpido, ignorándose a sí mismo, | Cual un ojo del Ser Universal.»",
                   "autor": "J. E. Caro",
-                  "referencia_obra": ", Poes. complet. p. 208. X"
+                  "referencia_obra": ", Poes. complet. p. 208."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Y he podido dudar!... ¿Quién es el hombre? | Ignora al mundo; ignorándose a sí mismo; | Y esclavo del error de un silogismo, | Con hilar una frase niega a Dios.»",
                   "autor": "Arboleda",
-                  "referencia_obra": ", Gonz. de Oyón, 10 (p. 67). X"
+                  "referencia_obra": ", Gonz. de Oyón, 10 (p. 67)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tras un vidrio de aumento, los inciertos albores de una pasión, el relampagueo de las intenciones, la graduación de los afectos, el vaivén de la voluntad vacilante, las gracias del amor que a sí propio se ignora.»",
                   "autor": "Rodó",
-                  "referencia_obra": ", Motivos de Proteo, p. 59. X"
+                  "referencia_obra": ", Motivos de Proteo, p. 59."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Falta contar aquellos que no son ni de los escogidos ni de los llamados: los que no pueden llegar a la arena del certamen, porque viven en tales condiciones que se ignoran a sí mismos o no les es lícito aplicarse a sacar el oro de su mina.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. p. 142."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -534,7 +683,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «Tiene Illueca tres señoras; | Si tú la tercera ignoras, | Has poca recordación.» P. de Guzmán, Clar. var. 389 (Rim. inéd. 329). «No hay tan simple e rústico que aquesto ignore.» Id. Gener. 1 (R. 68. 6981). «E así disce que el ignorar e non saber del dicho conde de Haro en este caso a él non le daña ni impide para la conclusión de los fechos.» Seg. de Tordes. 8 (p. 911). X «Sy la verdad fuese mentira tu dirías verdad en ello; que tú non ygnoras que yo de mi propia voluntad quise e me plogo: dexé byenes temporales, el mundo e sus deleytes.» Arc. de Talav. Corbacho (Cl. Castal. 24. 255). X «Así prise mi camino | Por vereda que ynorava.» Santill. Canc. y decires (Cl. C. 18. 7). «E algunos legos que ignoran el testo.» Rim. de Pal. 799 (R. 57. 4511).",
   "testimonios_latino_hispanicos": "Test. latin. hisp. X «Scimus vos non ignorare, quia hactenus vita communis inter bonos christianos voguit.» S. Urban, Epist. 1 (Berg. Antigüed. p. 333).",
-  "etimologia": "Etim. Del lat. ignorare, compuesto de i por in, partícula privativa y el radical gnorus, simétrico de gnarus ‘conocedor’. Cuervo señala la notoria repugnancia que en su formación tuvieron las lenguas romances a los grupos consonánticos entre los cuales se encuentra el gn, pero también señala cómo la reacción erudita contra la pronunciación popular antigua restituyó la pronunciación del grupo consonántico; Cfr. Apuntciones, §834. It. ignorare, fr. ignorer, cat. ignorar.\n\n\u0000",
+  "etimologia": "Etim. Del lat.<i> ignorare,</i> compuesto de<i> i</i> por<i> in,</i> partícula privativa y el radical<i> gnorus,</i> simétrico de<i> gnarus</i> ‘conocedor’. Cuervo señala la notoria repugnancia que en su formación tuvieron las lenguas romances a los grupos consonánticos entre los cuales se encuentra el<i> gn,</i> pero también señala cómo la reacción erudita contra la pronunciación popular antigua restituyó la pronunciación del grupo consonántico; Cfr.<i> Apuntciones,</i> §834. It.<i> ignorare, </i>fr<i>. ignorer,</i> cat.<i> ignorar.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

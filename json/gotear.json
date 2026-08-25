@@ -6,182 +6,253 @@
     {
       "id": "a)",
       "definicion": "Caer un líquido gota a gota (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Sujeto es el líquido que cae. X",
+          "definicion": "Sujeto es el líquido que cae.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y topando arriba con lo que llaman sombrero, luego se torna en licor, y gotea abajo.»",
               "autor": "Acosta",
-              "referencia_obra": ", Hist. Ind. 2. 7 (Dicc. Autor.). X"
+              "referencia_obra": ", Hist. Ind. 2. 7 (Dicc. Autor.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Como al niño los pañales, | Como lienzos funerales | Se le adhiere el casto traje, | Do aún gotea el oleaje | Del naufragio del dolor.»",
               "autor": "Pombo",
-              "referencia_obra": ", Antol. poética, p. 328. X"
+              "referencia_obra": ", Antol. poética, p. 328."
             },
             {
+              "marca": "X",
               "texto_cita": "«El le prometía al Carmicerín que, --- le echaría las zarpas al cuello hasta estrangularle, le abriría en canal como a los cerdos y le colgaría con la cabeza para abajo y un palo entre las costillas y otro en las tripas, y le pondría, además, en la boca una taza de hoja de lata, para que gotease allí su maldita sangre de cochino.»",
               "autor": "Baroja",
               "referencia_obra": ", La busca, 3. 8 (p. 185)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para indicar de donde cae el líquido. X",
+              "definicion": "Con de, para indicar de donde cae el líquido.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Veo los hilos de sangre que gotean de la cabeza.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Trat. de orac. 1 (Dicc. Autor.). X"
+                  "referencia_obra": "Trat. de orac. 1 (Dicc. Autor.)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Había nevado, y al abrigo de las casas sombrías quedaba una estela inmaculada. De los negruzcos aleros goteaba la lluvia, y en las angostas ventanas que se abrían debajo asomaba, de raro en raro, alguna vieja.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de invierno, p. 99. X"
+                  "referencia_obra": ", Sonata de invierno, p. 99."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El huerto era triste: Bajo los árboles crecía la yerba espontánea y humilde de los cementerios, y la lluvia goteaba del ramaje sin hojas, negro, adusto.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 154. X"
+                  "referencia_obra": "Id. ib. p. 154."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Entorné el Florilegio sobre la mesa, para guardar la página, y me puse de pie. La puerta se abría en aquel momento y Don Juan Manuel apareció en el umbral, sacudiendo el agua que goteaba de su montecristo.»",
                   "autor": "",
-                  "referencia_obra": "Id. Sonata de otoño, p. 48. X"
+                  "referencia_obra": "Id. Sonata de otoño, p. 48."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Entre la niebla fría de mayo, a la salida | Del sindicato (en la desmenuzada | Lucha de cada día, la estación | Lluviosa que gotea del alero, el sordo | Latido del constante sufrimiento).»",
                   "autor": "Neruda",
-                  "referencia_obra": ", Poes. p. 127 X"
+                  "referencia_obra": ", Poes. p. 127"
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El agua que goteaba de las tejas hacia un agujero en las arenas del patio.»",
                   "autor": "Rulfo",
                   "referencia_obra": ", Pedro Páramo, p. 158."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para indicar: — de donde cae el líquido. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Veo que ya enciende Camejo | Su cachimba. Veo en sus manos | Goteando sangre... y tiemblo.»",
-                  "autor": "Pombo",
-                  "referencia_obra": ", Antol. poética, p. 252. X"
+                  "id_limpio": "—",
+                  "definicion": "de donde cae el líquido.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Veo que ya enciende Camejo | Su cachimba. Veo en sus manos | Goteando sangre... y tiemblo.»",
+                      "autor": "Pombo",
+                      "referencia_obra": ", Antol. poética, p. 252."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Una gota le mojó la mano. Acercó la boca abierta al muro, buscando el origen del agua. En el techo negro goteaban esas perlas lentas, aisladas.»",
+                      "autor": "Fuentes",
+                      "referencia_obra": ", Obr. complet. p. 126."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Una gota le mojó la mano. Acercó la boca abierta al muro, buscando el origen del agua. En el techo negro goteaban esas perlas lentas, aisladas.»",
-                  "autor": "Fuentes",
-                  "referencia_obra": ", Obr. complet. p. 126. — El lugar a donde cae el líquido. X"
-                },
-                {
-                  "texto_cita": "«Había algo en ella de todos los ecos | Que nutren del aire los cóncavos huecos, | --- Rumor soñoliento de lluvia menuda, | De seca hojarasca de viejo encinar; | De gota que en gruta filtrada gotea, | De esquila del alba de gárrula aldea.»",
-                  "autor": "Zorrilla",
-                  "referencia_obra": ", Poes. (Cl. C. 63. 239). X"
-                },
-                {
-                  "texto_cita": "«Preguntaba qué barco había traído la canela, la suspendió largo tiempo delante de su nariz ---. Con la vainilla se demoraba aún más, no la abría directamente en el frasco sino que la dejaba gotear en su pañuelo.»",
-                  "autor": "Lezama Lima",
-                  "referencia_obra": ", Paradiso (Archivos, 3. 2)."
+                  "id_limpio": "—",
+                  "definicion": "El lugar a donde cae el líquido.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Había algo en ella de todos los ecos | Que nutren del aire los cóncavos huecos, | --- Rumor soñoliento de lluvia menuda, | De seca hojarasca de viejo encinar; | De gota que en gruta filtrada gotea, | De esquila del alba de gárrula aldea.»",
+                      "autor": "Zorrilla",
+                      "referencia_obra": ", Poes. (Cl. C. 63. 239)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Preguntaba qué barco había traído la canela, la suspendió largo tiempo delante de su nariz ---. Con la vainilla se demoraba aún más, no la abría directamente en el frasco sino que la dejaba gotear en su pañuelo.»",
+                      "autor": "Lezama Lima",
+                      "referencia_obra": ", Paradiso (Archivos, 3. 2)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con sobre, que indica el lugar a donde cae el líquido. X",
+              "definicion": "Con sobre, que indica el lugar a donde cae el líquido.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Por mis mejillas rodaban lágrimas que sentía gotear ardientes sobre mis manos yertas.»",
                   "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 98. X"
+                  "referencia_obra": ", María, p. 98."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sentado en la orilla del río, veía rodar sus corrientes a mis pies pensando en las buenas gentes a quienes mi despedida acababa de hacer derramar tantas lágrimas, y dejaba gotear las mías sobre esas ondas que huían de mí como los días felices de aquellos seis meses.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 232. X"
+                  "referencia_obra": "Id. ib. p. 232."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Allá abajo les ha llovido — aquella nube fugaz que veló el campo verde con sus hilos de oro y plata — Y sobre la empapada lana del asnucho las mojadas campanillas gotean todavía.»",
                   "autor": "J. R. Jiménez",
-                  "referencia_obra": ", Platero y yo, 62 (p. 107). X"
+                  "referencia_obra": ", Platero y yo, 62 (p. 107)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Agua o luna es lo mismo: lo impalpable a las manos, | Linfa que goteando sóbre la frente fría | Finge pronto unos labios o una muerte escuchada.»",
                   "autor": "Aleixandre",
-                  "referencia_obra": ", La destrucción (Cl. Castal. 43. 201). — Además con en, para señalar el modo. X"
-                },
+                  "referencia_obra": ", La destrucción (Cl. Castal. 43. 201)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El lento estrago que van haciendo en las bóvedas las aguas trascoladas desde la plataforma, que ya gotean en abundancia sobre las habitaciones y galerías ---, fácil es de inferir que el hado de ruinas y mortalidad viene con paso acelerado sobre esta fortaleza.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "Mem. del castillo de Bellver (Cl. C. 129. 24)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para señalar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El lento estrago que van haciendo en las bóvedas las aguas trascoladas desde la plataforma, que ya gotean en abundancia sobre las habitaciones y galerías ---, fácil es de inferir que el hado de ruinas y mortalidad viene con paso acelerado sobre esta fortaleza.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "Mem. del castillo de Bellver (Cl. C. 129. 24)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Sustantivado. Con de. X",
+              "definicion": "Sustantivado. Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En callando el viejo, comenzó el viento a rasguear la guitarra de los cipreses, y el manso gotear de una llave mal cerrada se irguió en el aire como una serpiente musical.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 241."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "met. Trans. Con dat. y por. X",
+          "definicion": "met. Trans. Con dat. y por.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«— ¡A disfrutar con el agua! ¡No la hay mejor en el mundo! Y Sigüenza, que había ya bebido, bebió más, mordiéndola en un temblor de claridades, y le goteaba un frío de luz por las mejillas, por los cabellos, por las manos.»",
               "autor": "Miró",
-              "referencia_obra": ", Años y leguas, p. 18. – Con en. X"
+              "referencia_obra": ", Años y leguas, p. 18. – Con en."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hacia las cuencas amazónicas continúan nuestras caravanas la vieja inmigración de los evangelistas primitivos, de los hermanos Reyes, de los asendereados conquistadores de la fosca, de mil héroes sin nombre cuyo martirio silencioso está goteando sangre en la febril epopeya de Rivera.»",
               "autor": "Valencia",
               "referencia_obra": ", Discursos. p. 54."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Abajo, velas, los atributos de la Pasión, exvotos de cera, un cepillo con los bordes de la hendidura mugrientos, y el hierro del candado muy roñoso; el paño del altar goteado de cera, la repisa pintada imitando jaspes.»",
               "autor": "P. Galdós",
-              "referencia_obra": ", Miau, 32 (p. 246). — met. Salpicado. Con de. X"
-            },
+              "referencia_obra": ", Miau, 32 (p. 246)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Yo estaba abajo, contigo, en el trigal amarillo y ondeante, goteado todo de sangre de amapola que ya julio coronaba de ceniza.»",
-              "autor": "",
-              "referencia_obra": "J. R. Jiménez, Platero y yo, 18 (p. 36). X"
-            },
-            {
-              "texto_cita": "«¿Entre sus propias flores, liviano enjambre de vagas mariposas blancas, goteadas de carmín?»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 66 (p. 115). X"
-            },
-            {
-              "texto_cita": "«Miras: no ves la luna ni el jacinto | Ni la oscuridad goteada de humedades, | Ni el tren de cieno, ni el marfil partido.»",
-              "autor": "Neruda",
-              "referencia_obra": ", Poes. p. 81."
+              "id_limpio": "—",
+              "definicion": "met. Salpicado. Con de.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Yo estaba abajo, contigo, en el trigal amarillo y ondeante, goteado todo de sangre de amapola que ya julio coronaba de ceniza.»",
+                  "autor": "",
+                  "referencia_obra": "J. R. Jiménez, Platero y yo, 18 (p. 36)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«¿Entre sus propias flores, liviano enjambre de vagas mariposas blancas, goteadas de carmín?»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 66 (p. 115)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Miras: no ves la luna ni el jacinto | Ni la oscuridad goteada de humedades, | Ni el tren de cieno, ni el marfil partido.»",
+                  "autor": "Neruda",
+                  "referencia_obra": ", Poes. p. 81."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -189,39 +260,56 @@
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Sujeto es el objeto que empapado deja caer el líquido. X",
+          "definicion": "Sujeto es el objeto que empapado deja caer el líquido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Sacó [el acero fatricida]... goteando | ¡Sangre!... De funesto gozo | Retumbó en el campo un viva, | Y el infierno repitiolo.»",
               "autor": "A. Saav.",
-              "referencia_obra": "Rom. (Cl. C. 9. 191). X"
+              "referencia_obra": "Rom. (Cl. C. 9. 191)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Gotea, muda, la fuente | Y hasta su labio de piedra, | La lentitud de la hiedra | Se alarga infinitamente.»",
               "autor": "Lugones",
               "referencia_obra": ", El libro de los paisajes, p. 182."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Trans. X",
+              "definicion": "Trans.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿De quién | Es la sangre que gotea | Ese acero? — ¡Ah! perdonadme | Los celos, la ira, la afrenta---.»",
                   "autor": "Hartz.",
-                  "referencia_obra": "(Pagés, Dicc.). — met. X"
-                },
+                  "referencia_obra": "(Pagés, Dicc.)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Caía como una doncellez desnuda que se doblara de espaldas, como un sauce de sangre que gotease flores de luz.»",
-                  "autor": "J. R. Jiménez",
-                  "referencia_obra": ", Platero y yo, 55 (p. 95). X"
-                },
-                {
-                  "texto_cita": "«Nombres redondos y filosos como la luz del pico de la estrella, nombres embalsamados de pluma, nombres que gotean los poros de tu única máscara, la máscara de tu anonimato.»",
-                  "autor": "Fuentes",
-                  "referencia_obra": ", La reg. más transp. p. 615."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Caía como una doncellez desnuda que se doblara de espaldas, como un sauce de sangre que gotease flores de luz.»",
+                      "autor": "J. R. Jiménez",
+                      "referencia_obra": ", Platero y yo, 55 (p. 95)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Nombres redondos y filosos como la luz del pico de la estrella, nombres embalsamados de pluma, nombres que gotean los poros de tu única máscara, la máscara de tu anonimato.»",
+                      "autor": "Fuentes",
+                      "referencia_obra": ", La reg. más transp. p. 615."
+                    }
+                  ]
                 }
               ]
             }
@@ -232,113 +320,140 @@
     {
       "id": "b)",
       "definicion": "Brotar, salir en gotas un líquido del interior de una cosa, en especial los humores del cuerpo (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Sujeto es el líquido. Con dat. +",
+          "definicion": "Sujeto es el líquido. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Muchas veces le goteaba [a una religiosa] la sangre de la cabeza como si la tuviera traspasada con una corona de espinas.»",
               "autor": "Rivad.",
               "referencia_obra": "Trib. 2. 15 (R. 60. 4352)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para indicar de donde brota el líquido. +",
+              "definicion": "Con de, para indicar de donde brota el líquido.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Como iba goteando la sangre de la cabeza de Medusa, en cayendo en tierra las gotas se tornaron en serpientes.»",
                   "autor": "J. de Pineda",
-                  "referencia_obra": ", Agr. crist. 7. 23 (R. 162. 1332). +"
+                  "referencia_obra": ", Agr. crist. 7. 23 (R. 162. 1332)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Ánimo, cazador sin ventura; cúrese usted la herida que lleva por dentro, y recoja con amor la sangre que de ella gotee.»",
                   "autor": "Ganiv.",
-                  "referencia_obra": "Pío Cid, 3. (1. 302). X"
+                  "referencia_obra": "Pío Cid, 3. (1. 302)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A Manuel Pacho le chorreaba un líquido viscoso, pútrido, por las espaldas desnudas. No hacía mucho tiempo había comenzado a gotear del cadáver del viejo, filtrándose por entre la hojarasca del chinchorro.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Manuel Pacho, p. 102."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con sin, para señalar el modo. X",
+              "definicion": "Con sin, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Va el perro solo, lento, neblinoso, husmeando por el camino un rastro que sólo él entiende, que ya no está, acompañado por el olor de su dueño, los ojos legañosos, sin más que la canasta rota y sucia, donde gotea su baba sin soltarse en dos largos hilos de plata.»",
                   "autor": "Roa",
                   "referencia_obra": "Bastos, Hijo de hombre, p. 54."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con sobre, que indica el lugar a donde cae el líquido. X",
+              "definicion": "Con sobre, que indica el lugar a donde cae el líquido.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Qué alarido el que estalló en la obscuridad cuando el niño alzó en el haz luminoso la sanguinolenta cabeza que goteaba sobre el tapiz!»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 40)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Trans. Dejar brotar un líquido. X",
+          "definicion": "Trans. Dejar brotar un líquido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pocos días después, el pueblo desfilaba ante el cadalso levantado en una plaza de Valladolid. Del garfio siniestro colgaba, goteando su última sangre altanera, la cabeza que hizo humillarse a todas las cabezas de Castilla.»",
               "autor": "Marañón",
-              "referencia_obra": ", Tiempo viejo, p. 27. X"
+              "referencia_obra": ", Tiempo viejo, p. 27."
             },
             {
+              "marca": "X",
               "texto_cita": "«De aquel Tanilo a quien ya nada le dolía, pero que estaba como adolorido, con las manos y los pies engarruñados y los ojos muy abiertos como mirando su propia muerte. Y por aquí y por allá todas sus llagas goteando un agua amarilla.»",
               "autor": "Rulfo",
-              "referencia_obra": ", El llano en llamas, p. 63. X"
+              "referencia_obra": ", El llano en llamas, p. 63."
             },
             {
+              "marca": "X",
               "texto_cita": "«No entres cuando no te mando llamar, pero... ¡Excelencia! ¡Sus dedos están goteando sangre! ¡Voy a llamar al médico, inmediatamente! Deja. No sangrarán mucho.»",
               "autor": "Roa",
               "referencia_obra": "Bastos, Yo el supremo, p. 294."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. y en. X",
+              "definicion": "Con dat. y en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Volví a sentir un poco de rabia contra el crío, rejuntándoseme de nuevo la saliva de las ganas. En medio del sueño, de la sed, del hambre, los pechos de Damiana me goteaban su jugo dulce en la boca como la goma del mamón.»",
                   "autor": "Roa",
                   "referencia_obra": "Bastos, Hijo de hombre, p. 101."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Absol. X",
+              "definicion": "Absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El prisionero, muy gordo, respiraba fatigado; Su rostro estaba encendido, sus ojos inyectados y su frente goteaba. Lo traían atado a las muñecas y a pie.»",
                   "autor": "Azuela",
                   "referencia_obra": ", Los de abajo, p. 87."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -347,19 +462,24 @@
     {
       "id": "c)",
       "definicion": "Llover a gotas muy espaciadas (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con sobre. X",
+          "definicion": "Con sobre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cuando cantaban con sus voces delgaditas, otro pasaje presentíamos; el ruido de las hojas grandes; el brillo de las cascadas que saltan entre arbustos y flores blancas de cactos, la lluvia pesada y tranquila que gotea sobre los campos de caña.»",
               "autor": "Arguedas",
               "referencia_obra": ", Ríos profundos, p. 44."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -367,37 +487,46 @@
     {
       "id": "d)",
       "definicion": "met. Efectuar una acción. pausadamente (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con la combinación de... en. X",
+          "definicion": "Con la combinación de... en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Goteaba de hora en hora un paso, suspiraba a empujones y alentaba a pujos; y éstas eran todas las señas de viviente.»",
               "autor": "Torres Villarroel",
               "referencia_obra": ", Visiones y visitas (Cl. C. 161. 124)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En los siguientes ejemplos Dejar salir las palabras lenta y difícilmente. X",
+          "definicion": "En los siguientes ejemplos Dejar salir las palabras lenta y difícilmente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Empujando las voces [Quevedo] desde el estómago para que rompiesen una valla de flemas que le habían tapiado la boca y goteando las palabras dijo: — Yo, señores, en el tiempo que se morían los hombres honrados con más vanidad, fui ayudante de lágrimas.»",
               "autor": "Torres Villarroel",
-              "referencia_obra": ", Visiones y visitas (Cl. C. 161. 69). X"
+              "referencia_obra": ", Visiones y visitas (Cl. C. 161. 69)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y ved la figura de Caín — decía Joaquín dejando gotear las ardientes palabras —.»",
               "autor": "Unamuno",
               "referencia_obra": ", Abel Sánchez, 14 (p. 68)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -405,7 +534,7 @@
   ],
   "periodo_anteclasico": "",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. De gota, y ésta del lat. gutta. Cat. y port. gotejar, it. gocciolare, goeciare, prov. gotar.\n\n\u0000",
+  "etimologia": "Etim. De<i> gota,</i> y ésta del lat.<i> gutta.</i> Cat. y port.<i> gotejar,</i> it.<i> gocciolare, goeciare,</i> prov.<i> gotar.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

@@ -6,197 +6,260 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Integrar, agregar una cosa a otra como parte de un todo (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con sujeto de persona. Con dat. X",
+          "definicion": "Con sujeto de persona. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Había estado dudando si incorporar aquel dinero a mi cuenta corriente del Banco --- o reservármelo para caprichos y gastos imprevistos.»",
               "autor": "P. Galdós",
-              "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 117). X"
+              "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 117)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El informe del padre Amador parecía correcto, y el instructor lo incorporó al sumario como una pieza útil.»",
               "autor": "García Márquez",
               "referencia_obra": ", Crónica, p. 98."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en, para señalar el espacio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tuvo modo de comprar la casilla, incorporándola en unos trascorrales de la suya.»",
                   "autor": "Césp. y Men.",
                   "referencia_obra": "Sold. Pínd. 1. 13 (R. 18. 3001)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con sujeto de cosa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Demás desto un cuchillo acomodado | De sus perdidos filos ya desnudo, | Que incorpore el color, y otro delgado | Que corte sin sentir fino y agudo.»",
                   "autor": "",
-                  "referencia_obra": "Céspedes, Pintur. 1 (R. 32. 3631). X"
+                  "referencia_obra": "Céspedes, Pintur. 1 (R. 32. 3631)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Donde estaban las reales órdenes y los procedimientos lentos y precisos están ahora los cuerpos legislativos tratando de crear e incorporar instituciones nuevas.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Del hacer y deshacer, p. 122."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. Con en. +",
+          "definicion": "Pas. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«El aceite otrosí, echado con el agua, o se levanta sobre ella, o se muda todo en unos pequeños ojos, por no perder su ser siendo incorporado o empapado en el agua.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 1. 6 (R. 6. 2001)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. refl. +",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Se le echa [a la masa] agua tibia hasta cumplimiento de una arroba, y con ella [la cuchara] se menea la masa para que todo se encorpore.»",
               "autor": "Cobo",
               "referencia_obra": ", Hist. Nuevo Mundo, 1. 4. 4. (R. 91. 1631)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El Real Hospicio --- está ricamente dotado con la renta de los aguardientes, que le cedió la piedad de Fernando VI, la de las antiguas Malaterías que se incorporaron a ella y cierta contribución de algunos concejos que envían allí sus expósitos.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Corresp. con Posada (R. 50. 1892)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Incorporándose estos fondos a los bienes nacionales ---.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Inf. sobre instrucc. públ. (R. 19. 1901). — Además con por, que señala la causa. X"
-                },
+                  "referencia_obra": "Inf. sobre instrucc. públ. (R. 19. 1901)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El tesoro del héroe que se incorporaba, por la voluntad del muerto, al de los ingratos reyes de Castilla.»",
-                  "autor": "Marañón",
-                  "referencia_obra": ", Tiempo viejo, p. 25."
+                  "id_limpio": "—",
+                  "definicion": "Además con por, que señala la causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El tesoro del héroe que se incorporaba, por la voluntad del muerto, al de los ingratos reyes de Castilla.»",
+                      "autor": "Marañón",
+                      "referencia_obra": ", Tiempo viejo, p. 25."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mandó, que por la Congregación de San Benito de Valladolid, se incorporasse en el Breviario Monástico, --- el Rezo de San Millán.»",
                   "autor": "Berg.",
                   "referencia_obra": "Antigüed. 1. 1. 6 (p. 342)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Sus edificios [de aquellos monasterios] y sus bienes se fueron incorporando y refundiendo en las iglesias y en los monasterios libres.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Ley agraria 1ª clase (R. 50. 1012)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Prnl. Con la prep. con. +",
+          "definicion": "Prnl. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«No está la sangre tan perfecta en el hígado como después que sale dél y pasa por los otros miembros, de los cuales siempre recibe mejora hasta que se encorpora con ellos.»",
               "autor": "J. de Pineda",
               "referencia_obra": ", Agr. crist. 9. 8 (R. 162. 2181)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para denotar el término de la acción. X",
+              "definicion": "Con en, para denotar el término de la acción.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Desde el mismo páramo hacia el Norte desciende el primer arroyo, --- y baja por varias provincias, hasta incorporarse en el río grande de la Magdalena.»",
                   "autor": "Gumilla",
                   "referencia_obra": ", Orinoco, 1. 2 (p. 65)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Part. Con dat. Además con desde que señala el tiempo. X",
+          "definicion": "Part. Con dat. Además con desde que señala el tiempo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Era un rastro definido, inconfundible, que nadie de la casa podía distinguir porque estaba incorporado desde hacía mucho tiempo a los olores cotidianos, pero que los forasteros identificaban de inmediato.»",
               "autor": "García Márquez",
               "referencia_obra": ", Cien años de soledad, p. 214."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. +",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Después de incorporado el azogue con el metal lo sacan de los cajones y echan en grandes tinas de madera.»",
                   "autor": "Cobo",
                   "referencia_obra": ", Hist. Nuevo Mundo, 1. 3. 39 (R. 91. 1472)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Agregadas después [las falsas decretales] a otras colecciones, e incorporadas con las de Graciano --- embrollaron de todo punto los principios del derecho eclesiástico.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Regl. col. de Calatr. 2. 4 (R. 46. 2141)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. +",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«De dos maneras se halla el oro: uno, puro y perfecto ---, y otro, en vetas, como la plata, arraigado e incorporado en piedra.»",
                   "autor": "Cobo",
-                  "referencia_obra": ", Hist. Nuevo Mundo, 1. 3. 36 (R. 91. 1382). — met. Con de que indica el material de que está compuesta una cosa."
-                },
+                  "referencia_obra": ", Hist. Nuevo Mundo, 1. 3. 36 (R. 91. 1382)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Miran --- | De la sierra de Topia la belleza, | De fina plata y oro incorporada.»",
-                  "autor": "Valb.",
-                  "referencia_obra": "Bern. 18 (R. 17. 3312)."
+                  "id_limpio": "—",
+                  "definicion": "met. Con de que indica el material de que está compuesta una cosa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Miran --- | De la sierra de Topia la belleza, | De fina plata y oro incorporada.»",
+                      "autor": "Valb.",
+                      "referencia_obra": "Bern. 18 (R. 17. 3312)."
+                    }
+                  ]
                 }
               ]
             }
@@ -205,14 +268,17 @@
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "En el siguinte ejemplo Absorber, succionar. Con en. +",
+          "definicion": "En el siguinte ejemplo Absorber, succionar. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Las raíces --- no encorporan en sí al agua, ni a la tierra, ni al estiércol, en sus proprias formas --- sino que --- chupan las substancias que dellas atraen por su virtud atractiva.»",
               "autor": "J. de Pineda",
               "referencia_obra": ", Agr. crist. 8. 17 (R. 162. 1842)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -220,75 +286,93 @@
     {
       "id": "b)",
       "definicion": "Anexar un territorio o terreno a la propiedad o dominio de alguien (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con dat. X",
+          "definicion": "Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No le ponían bardas al campo, como las aldeas españolas, sino que aspiraban a incorporárselo y vencerlo.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 12,"
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En México, Iturbide pierde la cabeza y se hace coronar emperador con la esperanza de incorporar a México toda la América Central.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 4. 21 (p. 356)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«A Persia y Media y Bactria incorporó [Semíramis] con los dominios de sus antepasados.»",
                   "autor": "Bello",
                   "referencia_obra": ", Poes. p. 323."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Le prometió y aseguró muy de veras que como su padre falleciese, le dejaría todo el reino de Navarra para que le encorporase en la corona de Aragón.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 14. 4 (R. 30. 4062)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Con el dinero compró muchos lugares en el Andalucía, y los encorporó en el estado que le dejó su padre de Sanlúcar de Barrameda.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 14. 15 (R. 30. 4251)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Envió diversas veces sus flotas a estas islas, y al fin las conquistó todas y las incorporó en la corona real de Castilla.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 16. 14 (R. 30. 4811)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Incorporó en la corona real a Vizcaya, Lerma, Lara y otras villas y castillos.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 16. 16 (R. 30. 4851)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Quiso encorporar las behetrías en la corona real.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 17. 11 (R. 30. 5151)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -296,75 +380,92 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. refl. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«De cuya sangre pretenden que descendían los señores de aquella tierra antes que Vizcaya se incorporase en la corona real de Castilla.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 7. 17 (R. 30. 2131)."
             },
             {
+              "marca": "",
               "texto_cita": "«Será bien --- decir algo del sitio, de la naturaleza y del número de estas islas, y en qué tiempo se hayan encorporado en la corona de los reyes de Castilla.»",
               "autor": "",
               "referencia_obra": "Id. ib. 16. 14 (R. 30. 4811)."
             },
             {
+              "marca": "",
               "texto_cita": "«En 29 de marzo de aquel año se incorporó la corona de Mallorca en la de Aragón.»",
               "autor": "Jovell.",
               "referencia_obra": "Mem. del castillo de Bellver (R. 46. 4252)."
             },
             {
+              "marca": "",
               "texto_cita": "«Le otorgó que se incorporasen perpetuamente [los molinos de Tremecén] en el mayorazgo del Salar, quedando vinculados en su casa.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", H. P. del Pulgar (4. 62)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y quizá tenía [Holanda] por buena dicha, para librarse del riesgo de verse incorporada a la Francia --- colocarse bajo el amparo de un hermano de Bonaparte.»",
               "autor": "",
               "referencia_obra": "M. de la Rosa, Espír. del Siglo, 8. 7 (6. 340)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Parece justo que --- Portugal pagara sus presidios y las armadas de la India Oriental, como lo hacía cuando no estaba incorporada con Castilla.»",
                   "autor": "Navarr.",
                   "referencia_obra": "Conserv. de mon. 23 (R. 25. 4961)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se rindieron de su voluntad [estos castillos], y quedaron incorporados en la corona real.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 15. 19 (R. 30. 4572)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No se puede temer este inconveniente, principalmente estando fuera de España las órdenes y incorporados en la corona los maestrazgos.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 68 (R. 25. 1882)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ante todas cosas debe hacer construir la muralla o cerca de la misma población, dejando incorporado en ella todo el terreno destinado a la extensión.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Carta a Floridablanca (R. 50. 1441)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -372,18 +473,22 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Part. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Hacía vanos esfuerzos para recuperar la corona de Portugal, incorporada a la de España en tiempo de su abuelo.»",
               "autor": "A. Saav.",
-              "referencia_obra": "Masan. introd. (5. XIV). X"
+              "referencia_obra": "Masan. introd. (5. XIV)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La ciudad de Metz, incorporada a Alemania el año 70, presenta un caso especial de este antagonismo entre dos culturas.»",
               "autor": "Ortega y Gasset",
               "referencia_obra": ", Mocedades, p. 62."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -391,56 +496,78 @@
     {
       "id": "c)",
       "definicion": "Acoger, asimilar, incluir (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La mística no aspira al conocimiento, sino a que el hombre viva, incorpore, absorba una serie de verdades.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 275."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El Cristianismo incorporó a su liturgia funeraria el festín pagano de los ritos de la muerte.»",
                   "autor": "Miró",
-                  "referencia_obra": ", Años y leguas, p. 33. X"
+                  "referencia_obra": ", Años y leguas, p. 33."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La memoria de los sentidos y del corazón logra el milagro de incoporar a mi propia alma la quintaesencia, --- de lo visto por primera vez.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 288."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cervantes asimiló e incorporó toda [la anterior producción novelesca] en su obra.»",
                   "autor": "Menéndez y Pelayo",
-                  "referencia_obra": ", Discursos (Cl. C. 140. 115). X"
+                  "referencia_obra": ", Discursos (Cl. C. 140. 115)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando Shakespeare lee estos relatos, incorpora el nuevo tipo humano en un pasaje de Otelo.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 1. 9 (p. 171). — Además con por, que indica causa. +"
-                },
+                  "referencia_obra": ", Biogr. del Caribe, 1. 9 (p. 171)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Si pone [nuestra alma] las cosas orales sobre el ojo de la razón, abrazándose con ellas, y encorporándolas en sí por amor, se priva de la vista de la luz divina.»",
-                  "autor": "J. de Pineda",
-                  "referencia_obra": ", Agr. Crist. 6. 7 (R. 162. 192)."
+                  "id_limpio": "—",
+                  "definicion": "Además con por, que indica causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Si pone [nuestra alma] las cosas orales sobre el ojo de la razón, abrazándose con ellas, y encorporándolas en sí por amor, se priva de la vista de la luz divina.»",
+                      "autor": "J. de Pineda",
+                      "referencia_obra": ", Agr. Crist. 6. 7 (R. 162. 192)."
+                    }
+                  ]
                 }
               ]
             }
@@ -449,49 +576,60 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. Con a. X",
+          "definicion": "Pas. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si alguna vez, por un imprevisto azar que podía tomar la forma de un viaje repentino o una pasión avasallante, una compañera de comunión se apartaba del grupo, de inmediato su descomedida actitud era incorporada a la lista de las más increibles traiciones.»",
               "autor": "Benedetti",
               "referencia_obra": ", Cuentos, p. 157."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. refl. Con a. X",
+          "definicion": "Pas. refl. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El valor y fuerza del caído pasan a incorporarse al ánimo del vencedor.»",
               "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 260. X"
+              "referencia_obra": ", Motivos de Proteo, p. 260."
             },
             {
+              "marca": "X",
               "texto_cita": "«La melancolía de esa raza trashumante de los gitanos se fue incorporando --- a la médula del pueblo andaluz.»",
               "autor": "Caballero Calderón",
-              "referencia_obra": ", Ancha es Castilla, p. 290. X"
+              "referencia_obra": ", Ancha es Castilla, p. 290."
             },
             {
+              "marca": "X",
               "texto_cita": "«En tiempos en que Roma comenzaba a surgir de los pantanos del Tíber, se incorporó a su espíritu un cristianismo cuya intuición tuvieron los estoicos ---.»",
               "autor": "",
               "referencia_obra": "Id. ib. p. 290."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, que señala el medio. X",
+              "definicion": "Con por, que señala el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cada uno de los discos del inmodificado programa nocturno, cada uno de sus ambiciosos crescendos, de los fracasos finales, tenía un sentido claro, expuesto con mayor precisión que todo lo que pudiera incorporársele por la palabra o el pensamiento.»",
                   "autor": "Onetti",
                   "referencia_obra": ", El astillero, p. 80."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -499,52 +637,64 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Part. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tu agravio queda sin venganza justa, | Y para siempre nuestro honor manchado, | Si el ímpetu francés a la robusta | Fuerza de España incorporado.»",
               "autor": "Valb.",
-              "referencia_obra": "Bern. 2 (R. 17. 1591). X"
+              "referencia_obra": "Bern. 2 (R. 17. 1591)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Para nosotros, lo pasado es lo que vive en la memoria de alguien, y en cuanto actúa en una conciencia, por ende incorporado a un presente, y en constante función de porvenir.»",
               "autor": "Machado",
               "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 158)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y la industria de sus moradores ha hecho tanto, que la naturaleza encorporada con el arte, es hecha artífice y connatural del arte.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Gal. 6 (R. 1. 822)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La ingratitud --- es una perpetua dolencia del hombe, y una disensión que vive incorporada con él, pues hace que cada día, y cada hora su cuerpo sea ingrato a su alma su voluntad a su entendimiento, y su memoria a los dos.»",
                   "autor": "Quev.",
                   "referencia_obra": "Peste, 2 (R. 48. 1152)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y aunque algunas veces he procurado persuadir a los autores que se engañan en tener la opinión que tienen, y que más gente atraerán y más fama cobrarán representando comedias que sigan el arte, que no con las disparatadas, ya están tan asidos y encorporados en su parecer, que no hay razón ni evidencia que dél los saque.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 48 (R. 1. 3901). X"
+                  "referencia_obra": "Quij. 1. 48 (R. 1. 3901)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La filosofía no trabaja sobre la realidad objetiva ---, sino sobre el complejo de ideas, imágenes, nociones, percepciones, etc., incorporadas en el lenguaje.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Del sen. trág. de la vida, 7 (p. 120)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -553,298 +703,390 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Integrar a una persona o grupo de personas a una colectividad (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La cuestión no es matar a los indios, sino incorporarlos. Por los subterráneos del amor se han juntado, y siguen juntándose, las dos razas.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 2. (p. 181)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Gasca empezó a predicar desde la trinchera cosas agradables a los enemigos. Se los fue ganando, e incorporándolos a sus tropas.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Estud. mesa redonda, 6 (p. 102). X"
+                  "referencia_obra": ", Estud. mesa redonda, 6 (p. 102)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«[Gibbs] ofrece servicios a la Argentina y se presenta ante el almirante Brown en Buenos Aires. Le incorporan a la tripulación del barco \"25 de Mayo\".»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 4. 20 (p. 348)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Incorporó con su gente los cien hombres que venían de refresco.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 1. 18 (R. 28. 2262)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Es la historia, por ejemplo, de cómo [Francis Drake] se confederó con los negros cimarrones, que estaban alzados contra los españoles, y a tiempo que les sacaba noticias les incorporaba en sus asaltos, les enseñaba oraciones y les instruía en su santa fe.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 1. 8 (p. 144)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con entre. X",
+              "definicion": "Con entre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Una escolta me tomó preso en la calle, me incorporó entre unos reemplazos que iban a Cartagena y me hizo marchar con ellos.»",
                   "autor": "Palacios",
                   "referencia_obra": ", Alférez real, 24 (p. 257)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Aquel día se trabaron algunas escaramuzas junto al río entre la caballería, y unos y otros se mantuvieron en sus puestos los franceses por aguardar mayores tropas, que aun no habían llegado a incorporarse.»",
               "autor": "Valbuena",
               "referencia_obra": ", tr. Los coment. de Julio César, 1798 (p. 208)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Diose noticia de todo a los tlascaltecas y orden para que --- viniesen a incorporarse con el ejército.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 3. 6 (R. 28. 2732)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con entre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se resolvieron los dos --- que su gente [de Espernán] se incorporase entre el ejército real.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal. 4 (R. 21. 5152)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "También tratándose de cosas. Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Arribó --- a Mesina donde se le incorporaron les galeras del Papa y de los venecianos.»",
                   "autor": "Clem.",
                   "referencia_obra": "Coment. 3 (p. 154)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A medida que avanzaban por la calle del pueblo iban añadiéndose más y más personas. Muchos de los hombres que estaban a la puerta de la pulpería se incorporaron.»",
               "autor": "Uslar-Pietri",
               "referencia_obra": ", Noche (Cuentos, p. 92)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y se nos incorporó alguna gente.»",
                   "autor": "Borges",
-                  "referencia_obra": ", La otra muerte (El Aleph, p. 76). X"
+                  "referencia_obra": ", La otra muerte (El Aleph, p. 76)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Don Alirio partió de estampida, pero los muchachos se le fueron detrás y ya otros venían corriendo de acá y de allá a incorporárseles, todos gritando.»",
                   "autor": "Gallegos",
                   "referencia_obra": ", El forastero, 2. 2 (p. 145)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Aún no había regresado a la República Argentina, cuando fue nombrado diputado al Congreso Constituyente, por San Juan, al cual no se incorporó, sin embargo.»",
                   "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Prov. p. 61. X"
+                  "referencia_obra": ", Recuerdos de Prov. p. 61."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Como Bolívar, como San Martín y todos los que se sentían con fuerza para obrar, voló a incorporarse a los suyos, desembarcó en Buenos Aires, aplaudió la revolución, vio de paso a su familia, regresó a Chile a su convento.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 48. X"
+                  "referencia_obra": "Id. ib. p. 48."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Emigramos de él para incorporarnos a un ejército qne habrá de batirse mucho.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 1 (p. 10). X"
+                  "referencia_obra": ", Amalia, 1 (p. 10)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Señores, yo no tengo todavía el honor de pertenecer a esta ilustre y patriótica sociedad, aun cuando espero incorporarme a ella dentro de poco tiempo.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 1 (p. 139). X"
+                  "referencia_obra": "Id. ib. 1 (p. 139)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«De tiempo en tiempo algún viejo devoto salía de su casa con un farol encendido, y haciendo la señal de la cruz se incorporaba al cortejo.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de primavera, p. 12. X"
+                  "referencia_obra": ", Sonata de primavera, p. 12."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Carlos Irón, aquel mozo despreocupado que cantaba hermosas y fáciles canciones, se había incorporado a las tropas patriotas destacadas sobre Occidente.»",
                   "autor": "Uslar-Pietri",
-                  "referencia_obra": ", Lanzas coloradas, 5 (p. 60). X"
+                  "referencia_obra": ", Lanzas coloradas, 5 (p. 60)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Por primera vez desde la muerte de Amaranta abandonó la cama sin auxilio de nadie para incorporarse de nuevo a la vida familiar.»",
                   "autor": "García Márquez",
-                  "referencia_obra": ", Cien años de soledad, p. 307. — Además con para y una prop. en infinitivo. X"
-                },
+                  "referencia_obra": ", Cien años de soledad, p. 307."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Traída a discusión la materia, el diputado por Mendoza dijo: que se incorporasen los diputados a la Junta para ejercer las mismas funciones que los vocales que hasta entonces la habían formado.»",
-                  "autor": "",
-                  "referencia_obra": "D. F. Sarmiento, Recuerdos de Prov. p. 82."
+                  "id_limpio": "—",
+                  "definicion": "Además con para y una prop. en infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Traída a discusión la materia, el diputado por Mendoza dijo: que se incorporasen los diputados a la Junta para ejercer las mismas funciones que los vocales que hasta entonces la habían formado.»",
+                      "autor": "",
+                      "referencia_obra": "D. F. Sarmiento, Recuerdos de Prov. p. 82."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Entr’estas dos casas huvo sienpre muy gran deudo y amistad, y no hordinaria sino particular, y mucho mayor después que la cassa de Borgoña se yncorporó y juntó con la de Avstria.»",
                   "autor": "Jmz. de Quesada",
                   "referencia_obra": ", El Antijovio (ICC. 10. 247)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Llegó la armada el día siguiente, habiendo recogido el bajel de Diego de Hordaz, porque Hernán Cortés le avisó desde el cabo de San Antón que viniese a incorporarse con ella.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 1. 14 (R. 28. 2212)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se tuvo por el menor o el menos aventurado [inconveniente] --- procurar incorporarse con los indios que se habían prevenido en Tlascala.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 4. 7 (R. 28. 3131)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Descolgándose luego por la escala de cuerda, que siempre tenían pendiente del peñasco, volvió a incorporarse con su general.»",
                   "autor": "T. Iriarte",
                   "referencia_obra": ", Robinsón, 27 (2. 272)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Habían en fin llegado a Indias y venían con algunos voluntarios a incorporarse con él.»",
                   "autor": "Quint.",
                   "referencia_obra": "Pizarro (R. 19. 3152)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Luego que el ejército francés penetró en España, fueron [estas partidas] a incorporarse con él y a tomar parte en sus operaciones.»",
                   "autor": "",
                   "referencia_obra": "Id. Cartas a L. Holland, 9 (R. 19. 5771)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El mismo rey tuvo que mandar a los restos de los dos órdenes que fuesen a incorporarse con los diputados de la nación.»",
                   "autor": "M. de la Rosa",
                   "referencia_obra": ", Espír. del siglo, 2. 8 (5. 78)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Cárdenas se incorporó con ellos, y sin detenerse en Verdejo siguieron su viaje.»",
                   "autor": "Clem.",
                   "referencia_obra": "Elog. de Is. la Cat. ilustr. 2 (Mem. Acad. Hist. 6. 82)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Un día iban él y otro caballero a incorporarse con la escolta de los forrajeadores, y se encontraron con siete caballeros moros.»",
                   "autor": "",
                   "referencia_obra": "Id. Coment. 3 (p. 444)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Labradores, soldados, artistas, aunque hábiles para el ejercicio de muchas artes, no pudiendo incorporarse en los gremios, debieron renunciar al derecho de trabajar en ellos.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Inf. sobre el libre ejerc. de las artes (R. 50. 371)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se adelantaron algunos --- y con no poco trabajo pudieron volverse a incorporar en sus líneas.»",
                   "autor": "Mor.",
-                  "referencia_obra": "Derrota de los pedantes (R. 2. 5702). X"
+                  "referencia_obra": "Derrota de los pedantes (R. 2. 5702)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Con los intereses de Urdiola estaban ligados los de cierto grupo muy influyente y activo, y yo pude, incorporándome en él, manipular con provecho, sin necesidad de ausentarme de la capital.»",
                   "autor": "Marroquín",
-                  "referencia_obra": ", Blas Gil, 15 (p. 157). X"
+                  "referencia_obra": ", Blas Gil, 15 (p. 157)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Llegando a Barbados, la primera isla donde toca la expedición y donde tiene sus plantaciones Thomas Modyford, son muchos quienes quieren incorporarse en la aventura.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 209). — Además con la prep. con, que expresa compañía. X"
+                  "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 209)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, que expresa compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Vuelve [Araya] a incorporarse en el ejército con sesenta compañeros de armas.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Facundo, 22 (p. 98)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Vuelve [Araya] a incorporarse en el ejército con sesenta compañeros de armas.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Facundo, 22 (p. 98). — Además con para y una prop. infinitiva."
-                },
-                {
-                  "texto_cita": "«No se incorporan en ellas [en estas sociedades] para pedantear, hacer vana y ridícula ostentación de un celo aparente, y adquirir por tales medios el favor de la corte.»",
-                  "autor": "Mor.",
-                  "referencia_obra": "Obr. póst. (1. 170). X"
-                },
-                {
-                  "texto_cita": "«Hace periodismo, y se incorpora en dos expediciones para invadir las tierras mexicanas de Sonora y Baja California.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 4. 21 (p. 359)."
+                  "id_limpio": "—",
+                  "definicion": "Además con para y una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«No se incorporan en ellas [en estas sociedades] para pedantear, hacer vana y ridícula ostentación de un celo aparente, y adquirir por tales medios el favor de la corte.»",
+                      "autor": "Mor.",
+                      "referencia_obra": "Obr. póst. (1. 170)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hace periodismo, y se incorpora en dos expediciones para invadir las tierras mexicanas de Sonora y Baja California.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Caribe, 4. 21 (p. 359)."
+                    }
+                  ]
                 }
               ]
             }
@@ -854,41 +1096,58 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Part. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La compañía de Urbina, en que militaba Cervantes, quedó incorporada al tercio a que correspondía.»",
               "autor": "Navarr.",
               "referencia_obra": "Vida de Cerv. §11 (p. 18)."
             },
             {
+              "marca": "",
               "texto_cita": "«Allí vivió algún tiempo, incorporado a su familia [del obispo] y vistiendo traje de clérigo.»",
               "autor": "Quint.",
-              "referencia_obra": "Obr. inéd. p. 287. X"
+              "referencia_obra": "Obr. inéd. p. 287."
             },
             {
+              "marca": "X",
               "texto_cita": "«He sido ayudante de línea incorporado al 2º de coraceros del general.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Prov. p. 132. X"
+              "referencia_obra": ", Recuerdos de Prov. p. 132."
             },
             {
+              "marca": "X",
               "texto_cita": "«Media comarca me visitó --- el capitán de los voluntarios de aquende, incorporados al batallón de nacionales de allende.»",
               "autor": "Pereda",
-              "referencia_obra": ", Pedro Sánchez, 2, (Cl. C. 145. 178). X"
+              "referencia_obra": ", Pedro Sánchez, 2, (Cl. C. 145. 178)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El problema de nuestra ascensión intelectual sólo se resuelve transformando hombres nuevos, incorporados cordialmente a la obra internacional de la cultura.»",
               "autor": "Ramón y Cajal",
-              "referencia_obra": ", Tónicos de la voluntad, 11 (p. 224). X"
+              "referencia_obra": ", Tónicos de la voluntad, 11 (p. 224)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Van y vienen aves lentas. | Van y vienen golondrinas. | ¡Ah, qué dulzura saberte | Incorporado a mi vida!»",
               "autor": "Ibarbourou",
-              "referencia_obra": ", Antol. poética, p. 58. — Además con hasta. X"
-            },
+              "referencia_obra": ", Antol. poética, p. 58."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«La vocación del arte médica, vinculándose, por el objeto a que se aplica, con la actividad y las costumbres de la carrera de las armas, produce un cirujano militar como Percy, incorporado a los ejércitos de la Revolución y del Imperio hasta el mismo día de Waterloo.»",
-              "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 204."
+              "id_limpio": "—",
+              "definicion": "Además con hasta.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«La vocación del arte médica, vinculándose, por el objeto a que se aplica, con la actividad y las costumbres de la carrera de las armas, produce un cirujano militar como Percy, incorporado a los ejércitos de la Revolución y del Imperio hasta el mismo día de Waterloo.»",
+                  "autor": "Rodó",
+                  "referencia_obra": ", Motivos de Proteo, p. 204."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -896,33 +1155,49 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por su educación y por las mercedes que había recibido, estaba incorporado [Lauria] con la nobleza aragonesa.»",
                   "autor": "Quint.",
                   "referencia_obra": "R. de Lauria (R. 19. 2192)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Al otro [día], incorporado ya con el cura y el barbero, encontró de vuelta a su amo.»",
                   "autor": "Clem.",
                   "referencia_obra": "Coment. 2 (p. 490)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Incorporado pues en esta asamblea, que es el depósito de la erudición y de la crítica de España --- empiezo a considerarme a mi mismo como un hombre distinto del que antes era.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Disc. sobre la legisl. y la hist. (R. 46. 2881). — Además con por, con el sentido de Como. X"
-                },
+                  "referencia_obra": "Disc. sobre la legisl. y la hist. (R. 46. 2881)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Sus prendas de carácter, saber y costumbres, debían ser muy relevantes, puesto que los recoletos lo pidieron a pocos años de incorporado en su orden por director vitalicio, y que el general de la orden en España acordó esta solicitud.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Prov. p. 47."
+                  "id_limpio": "—",
+                  "definicion": "Además con por, con el sentido de Como.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Sus prendas de carácter, saber y costumbres, debían ser muy relevantes, puesto que los recoletos lo pidieron a pocos años de incorporado en su orden por director vitalicio, y que el general de la orden en España acordó esta solicitud.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Recuerdos de Prov. p. 47."
+                    }
+                  ]
                 }
               ]
             }
@@ -931,14 +1206,17 @@
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "En el siguiente ejemplo, Volver, retomar. Con a. X",
+          "definicion": "En el siguiente ejemplo, Volver, retomar. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Incorporándonos a nuestro asunto, importa declarar, desde luego, que el patriotismo español, apático o latente, pero jamás anulado en absoluto, alcanzó de repente en 1808 con la guerra de la independencia --- notable pujanza.»",
               "autor": "",
               "referencia_obra": "Ramón y Cajal, El mundo, 2. 12 (p. 108)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -946,52 +1224,79 @@
     {
       "id": "b)",
       "definicion": "míst. Entrar a formar con Jesucristo un solo cuerpo místico (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Encorporástesme con vos, y torné otra vez a juntarme con el demonio.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 2. 6 (R. 8. 3242)."
             },
             {
+              "marca": "",
               "texto_cita": "«Uno de los fines para que lo instituyó fue para encorporarnos y hacernos una cosa consigo.»",
               "autor": "",
               "referencia_obra": "Id. Vida crist. 6. 6, §4 (R. 8. 3572)."
             },
             {
+              "marca": "",
               "texto_cita": "«Por este misterio encorporásteme contigo, y hicísteme amigo tuyo, hermano tuyo y heredero tuyo.»",
               "autor": "",
               "referencia_obra": "Id. Símb. 3. 8 (R. 6. 4122)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y ellos mismos también sean sabrosos a Dios, para que guste de incorporarlos consigo, y tener paz y unión de amor con ellos.»",
               "autor": "Puente",
               "referencia_obra": ", Medit. 3. 12 (2. 93)."
             },
             {
+              "marca": "",
               "texto_cita": "«Es propio de los sacerdotes --- incorporarlos con la Iglesia como miembros sucios, y unirlos con Cristo con caridad y semejanza de vida.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 5. 32 (3. 195). +"
+              "referencia_obra": "Id. ib. 5. 32 (3. 195)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Quisístenos, Señor, encorporar con tu cuerpo y darnos tu sangre.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 32 (p. 146). — Además con otro compl. con la prep. con, para indicar el medio."
+              "referencia_obra": "Id. ib. 32 (p. 146)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con otro compl. con la prep. con, para indicar el medio.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Recibe las almas, y las entra dentro de sus entrañas incorporándolas consigo con el amor.»",
+                  "autor": "Puente",
+                  "referencia_obra": ", Medit. 3. 26 (2. 182)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Recibe las almas, y las entra dentro de sus entrañas incorporándolas consigo con el amor.»",
-              "autor": "Puente",
-              "referencia_obra": ", Medit. 3. 26 (2. 182). — Además con por, para indicar el medio."
-            },
-            {
-              "texto_cita": "«Dame, dulcísimo Señor, esta hambre de salvar pecadores, para que con gusto los coma e incorpore contigo por gracia.»",
-              "autor": "Puente",
-              "referencia_obra": ", Medit. 5. 32 (3. 196)."
+              "id_limpio": "—",
+              "definicion": "Además con por, para indicar el medio.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Dame, dulcísimo Señor, esta hambre de salvar pecadores, para que con gusto los coma e incorpore contigo por gracia.»",
+                  "autor": "Puente",
+                  "referencia_obra": ", Medit. 5. 32 (3. 196)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -999,47 +1304,66 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Aquellos a quien nuestro Señor tuvo por bien traer al conocimiento de la verdad y encorporar en su Iglesia.»",
                   "autor": "Gran.",
                   "referencia_obra": "Símb. 4. 13 (R. 6. 5092)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ansí Cristo, ayuntado conmigo y hecho totalmente señor de mí, me apura de tal modo de mis daños y males, y me incorpora de tal manera en sus saludes y bienes, que yo ya no parezco yo el enfermo que era, ni de hecho soy ya enfermo; sino tan sano, que parezco la misma salud, que es Jesús.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 3, Jesús (3. 378)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. Con en. +",
+          "definicion": "Pas. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«El muy amado Hijo dijo a su Padre: --- yo me ofrezco por el perdón de sus pecados y porque sean encorporados en mí.»",
               "autor": "Ávila",
               "referencia_obra": ", Epist. 1. 20. 1 (1. 381)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Esta unión se hace por fe y amor, mediante la cual somos encorporados con este Señor.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Símb. 5. 4. 1 (R. 6. 7161). — Con por, para indicar la causa."
-                },
+                  "referencia_obra": "Símb. 5. 4. 1 (R. 6. 7161)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Por él [por este pan celestial] somos unidos e incorporados con nuestra cabeza, que es Cristo.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Doctr. espir. 47 (R. 11. 278 )."
+                  "id_limpio": "—",
+                  "definicion": "Con por, para indicar la causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Por él [por este pan celestial] somos unidos e incorporados con nuestra cabeza, que es Cristo.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Doctr. espir. 47 (R. 11. 278 )."
+                    }
+                  ]
                 }
               ]
             },
@@ -1047,13 +1371,16 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con por, que indica el agente y en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por el bautismo es incorporado en Cristo y hecho miembro suyo.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Trib. 1. 26 (R. 60. 4101)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1061,21 +1388,34 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No se abata a cosas viles y rastreras, y indignas de su generosidad, viéndose redemido por tal precio, y hermanado y encorporado con Cristo.»",
               "autor": "Gran.",
-              "referencia_obra": "Símb. 3. 8 (R. 6. 4122). — Además con por, para denotar el agente."
-            },
+              "referencia_obra": "Símb. 3. 8 (R. 6. 4122)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Los mira [Dios] como miembros vivos de su unigénito Hijo, unidos e incorporados con él por la participación de su espíritu.»",
-              "autor": "Gran.",
-              "referencia_obra": "Guía, 1. 5, §1 (R. 6. 281)."
-            },
-            {
-              "texto_cita": "«Dios, por cuya virtud estáis unidos e incorporados con Jesucristo.»",
-              "autor": "Scío",
-              "referencia_obra": ", S. Pablo, Corint. 1. 1. 30, nota."
+              "id_limpio": "—",
+              "definicion": "Además con por, para denotar el agente.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Los mira [Dios] como miembros vivos de su unigénito Hijo, unidos e incorporados con él por la participación de su espíritu.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "Guía, 1. 5, §1 (R. 6. 281)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Dios, por cuya virtud estáis unidos e incorporados con Jesucristo.»",
+                  "autor": "Scío",
+                  "referencia_obra": ", S. Pablo, Corint. 1. 1. 30, nota."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -1083,21 +1423,34 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Basta el favor de Jesucristo para que --- por estar incorporados en Jesucristo, que es muy amado del Padre, sean también ellos amados, y agradables y limpios.»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Audi. 89 (2. 98). +"
+                  "referencia_obra": ", Audi. 89 (2. 98)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Vivid en fe, creyendo que agradáis a los ojos del Eterno Padre por estar encorporado en su bendito Hijo.»",
                   "autor": "",
-                  "referencia_obra": "Id. Epíst. 2. 71 (1. 577). — Además con la prep. con, que indica el medio."
-                },
+                  "referencia_obra": "Id. Epíst. 2. 71 (1. 577)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y pues él no puede ser aborrecido tampoco nosotros, si estamos incorporados en él con la fe y amor.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Epíst. 2. 36 (6. 408)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, que indica el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y pues él no puede ser aborrecido tampoco nosotros, si estamos incorporados en él con la fe y amor.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Epíst. 2. 36 (6. 408)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1108,49 +1461,62 @@
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Levantar, reclinar, enderezar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Lo que es ahora, eso de levantar aquí un muertecito... — ¡Cómo levantarlo! ¡Ni incorporarlo siquiera!»",
               "autor": "Arniches",
               "referencia_obra": ", Es mi hombre, 2 (p. 147)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, que indica el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con grandísimo tiento le fui poco a poco icorporando; le arrimé las calcetas; ayudéle a vestirse.»",
                   "autor": "Jovell.",
                   "referencia_obra": "El delincuente honrado, 1. 2 (R. 46. 821)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en que señala el lugar. X",
+              "definicion": "Con en que señala el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Entre Celedonio y yo le incorporamos en el lecho.»",
                   "autor": "P. Galdós",
                   "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 221)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1158,198 +1524,251 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Entonces el poeta, levantando como pudo la cabeza --- ¡Qué bien entiende de afectos el señor huésped! respondió el poeta incorporándose un poco más.»",
               "autor": "Quev.",
               "referencia_obra": "Diablo coj. 4 (R. 33. 282)."
             },
             {
+              "marca": "",
               "texto_cita": "«El estudiante se incorporó entonces, supliendo con bostezos y esperezos lo que le faltaba por dormir.»",
               "autor": "",
               "referencia_obra": "Id. ib. 7 (R. 33. 342)."
             },
             {
+              "marca": "",
               "texto_cita": "«Recostado sobre unos cojines se hallaba el anciano Abén Alamín --- y mandando con la mano que entrase, se incorporó algún tanto.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Is. de Solís, 2. 39 (4. 411)."
             },
             {
+              "marca": "",
               "texto_cita": "«En el fango tendido Ruy Velázquez | Permaneció por largo tiempo --- se incorpora; | En pie se pone.»",
               "autor": "",
               "referencia_obra": "Id. Moro expós. 10 (2. 363)."
             },
             {
+              "marca": "",
               "texto_cita": "«Me incorporo, | Llamo, no me oyen, me visto.»",
               "autor": "Hartz.",
-              "referencia_obra": "Primero yo, 4. 1 (p. 112). +"
+              "referencia_obra": "Primero yo, 4. 1 (p. 112)."
             },
             {
+              "marca": "+",
               "texto_cita": "«No tardó en despertar el viajero, y al incorporarse me saludó con cierto embarazo.»",
               "autor": "Ganiv.",
-              "referencia_obra": "Pío Cid, 5. (Obr. 2. 217). X"
+              "referencia_obra": "Pío Cid, 5. (Obr. 2. 217)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Alguien comenzó oír ruido de agua --- llegaban a la orilla de un río ancho y lento. Las cabezas sedientas se precipitaron en el agua --- después se fueron incorporando.»",
               "autor": "Uslar-Pietri",
               "referencia_obra": ", Lanzas coloradas, 2 (p. 25)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para indicar el tiempo. X",
+              "definicion": "Con a, para indicar el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Concluido aquel recuento, al tiempo que anudaba las alzaprimas de mis espuelas me incorporé satisfecho.»",
                   "autor": "Güiraldes",
-                  "referencia_obra": ", Don Segundo Somba, 6 (p. 41). — El término es una prop. en infinitivo, que señala la finalidad."
-                },
+                  "referencia_obra": ", Don Segundo Somba, 6 (p. 41)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Yo entonces entre sueños | Incorporarme quise, | A vengar con su muerte | Mis celos insufribles.»",
-                  "autor": "Iglesias",
-                  "referencia_obra": ", Anacr. 5 (R. 61. 4371). X"
-                },
-                {
-                  "texto_cita": "«Sonaron a un tiempo todos los relojes de la casa y el viejo se incorporó a encender la lámpara.»",
-                  "autor": "Fuentes",
-                  "referencia_obra": ", Obr. complet. p. 1120."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. en infinitivo, que señala la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Yo entonces entre sueños | Incorporarme quise, | A vengar con su muerte | Mis celos insufribles.»",
+                      "autor": "Iglesias",
+                      "referencia_obra": ", Anacr. 5 (R. 61. 4371)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Sonaron a un tiempo todos los relojes de la casa y el viejo se incorporó a encender la lámpara.»",
+                      "autor": "Fuentes",
+                      "referencia_obra": ", Obr. complet. p. 1120."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para indicar el modo. X",
+              "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El anciano se incorporó con muchísimo trabajo, apoyado en su mano.»",
                   "autor": "P. Galdós",
-                  "referencia_obra": ", Trafalgar, 15 (p. 165). X"
+                  "referencia_obra": ", Trafalgar, 15 (p. 165)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Máximo Estrella se incorpora con un gesto animoso, esparcida sobre el pecho la hermosa barba con mechones de canas.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Luces de bohemia (Cl. C. 180. 8)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la expresión de entre. X",
+              "definicion": "Con la expresión de entre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cayeron retorciéndose bajo los impactos que picotearon sus cuerpos con sosos chasquidos. Cristóbal se incorporó de entre los yuyos.»",
                   "autor": "Roa",
                   "referencia_obra": "Bastos, Hijo de hombre, p. 350."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Animada incorporose | En la cama, y tras un ay, | Me dijo aquestas razones.»",
                   "autor": "Tirso",
                   "referencia_obra": ", Del enemigo el primer consejo, 1. 1 (R. 5. 6531)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se incorporó y sentó en la cama.»",
                   "autor": "Scío",
                   "referencia_obra": ", Gen. 48. 2, nota."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En el lecho | Se incorporó, y la túnica se puso.»",
                   "autor": "",
-                  "referencia_obra": "Hermosilla, Iliada. 10 (1. 282). +"
+                  "referencia_obra": "Hermosilla, Iliada. 10 (1. 282)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Aprovechando [Martina] la oportunidad de su desmayo para desahogarse, se incorporó en el lecho y se alisó los enmarañados cabellos.»",
                   "autor": "Ganiv.",
                   "referencia_obra": "Pío Cid, 3. (1. 306)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con para y una prop. infinitiva, que indica la finalidad. X",
+              "definicion": "Con para y una prop. infinitiva, que indica la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Me incorporé para mirarla.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de otoño, p. 23."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con sobre, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Sobre mi propio lecho me incorporo, | Guardo todo mi aliento retraído.»",
                   "autor": "Rojas",
-                  "referencia_obra": ", Progne y Filomena, 2 (R. 54. 453). X"
+                  "referencia_obra": ", Progne y Filomena, 2 (R. 54. 453)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Me incorporé sobre la almohada, y helado y prudente solté sus manos aún enlazadas en torno de mi cuello.»",
                   "autor": "",
                   "referencia_obra": "Valle-inclán, Sonata de otoño, p. 80."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No está tendido; no está en pie. Está incorporado. Se apoya en el codo.»",
               "autor": "Díaz-Plaja",
               "referencia_obra": ", Concepto de la lit. esp. p. 73."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Creo que una vez abrí los ojos dormido y que vi a Concha incorporada a mi lado.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de otoño, p. 26."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Estaba sobre almohadas | Bordadas de blanco y negro, | Y un acerillo de flores, | Incorporada en el lecho.»",
                   "autor": "Tirso",
-                  "referencia_obra": ", Por el sótano y el torno, 1. 15 (R. 5. 2332). X"
+                  "referencia_obra": ", Por el sótano y el torno, 1. 15 (R. 5. 2332)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Diego, medio incorporado en la cama, tenía vueltos los ojos hacia la puerta.»",
                   "autor": "Alarcón",
-                  "referencia_obra": ", El escándalo (Cl. C. 178. 204). X"
+                  "referencia_obra": ", El escándalo (Cl. C. 178. 204)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Entré. Concha estaba incorporada en las almohadas.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de otoño, p. 14."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1358,36 +1777,45 @@
     {
       "id": "b)",
       "definicion": "met. Formarse, surgir (refl.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pero es en el claro de luz del siglo XIII, al incorporarse pujante el genio de una civilización que quiere dar gallarda muestra de sí antes de pasar su cetro a otra más alta que se acerca, cuando vienen al mundo algunas magníficas personificaciones de saber encíclico, que evocan, en cierto modo, la memoria augusta del humano educador de Estagira.»",
               "autor": "Rodó",
               "referencia_obra": ", Motivos de Proteo, p. 75."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para denotar el lugar tomado en sentido inmaterial. X",
+              "definicion": "Con en, para denotar el lugar tomado en sentido inmaterial.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Leyendo --- en la historia mencionada y en estos otros libros, los nombres y la obra de don Juan José y de don Fausto, se incorporaron en mi mente varias ideas.»",
                   "autor": "",
-                  "referencia_obra": "M. F. Suárez, Sueños, 2 (p. 217). X"
+                  "referencia_obra": "M. F. Suárez, Sueños, 2 (p. 217)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Al contemplar en las grandes ciudades esas inmensas aglomeraciones de seres humanos, --- se incorpora en mí, obsesionante, este pensamiento: ¿puede hoy un hombre de veinte años formarse un proyecto de vida que tenga figura individual?»",
                   "autor": "Ortega y Gasset",
                   "referencia_obra": ", Rebel. de las masas, pról. (p. 47)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1396,7 +1824,7 @@
   ],
   "periodo_anteclasico": "Per. antecl.\n\n—Siglo XV: «Dixeron [los procuradores] que lo aprobaban e se encorporaban en ello por sí e por las cibdades e villas donde eran embiados.» Crón. Juan II, 14. 17 (R. 68. 3872). «La qual [carta] he aquí por inserta e incorporada, bien assí como si de palabra a palabra aquí fuesse puesta.» Seg. de Tordes. 38 (p. 562 ). «Conosciendo lo susodicho e contenido en la dicha carta suso incorporada del dicho rey nuestro señor ---.» Id. 4 (p. 91).\n\n— Siglo XIV: «Et úntala [la peñola] con la trementina, et metiéndola por el otro cañón del ave, en guisa que le encorpore bien una en otra.» Lz. de Ayala, Caza, 46 (Bibl. venat. 3. 335). «Et estos dichos polvos sean molidos, et cernidos et echados con las gomas, et desque fueren retidas, encorporallas bien mansamiente con el espátula.» Mont. Alf. XI, 2, apénd. 25 (Bibl. venat. 1. 255). «Zumo de llanten colado cuatro onzas, miel dos onzas, et sea todo encorporado en uno, et cuega fasta que mengüe las dos partes.» Ib. 2. 2. 18 (Bibl. venat. 1. 154).\n\n— Siglo XIII: «Tiene que los algos o los bienes de fuera del cuerpo le son así encorporados, que si los partiese de sí, cuidaría que le tajaban algo de su cuerpo.» Cast. e docum. 54 (R 51. 1802). «Compuesta et fecha la crisma segunt que ya habemos dicho, recibe en sí grant virtud; et esto por muchas razones; primeramiente porque es de olios --- et otrosí por aquellas palabras que dicen sobre amos a dos quando son envueltos en uno et encorporada la crisma como debe ser.» Part. 1. 4. 49 (1. 107).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. del lat. incorporare ‘unir, agregar en un solo cuerpo’, de in ‘en’ y corporare, forma verbal de corpus, corporis ‘cuerpo’. It. incorporare, fr. incorporer, cat. incorporar, port. incorporar, rum. incorpora.\n\n\u0000",
+  "etimologia": "Etim. del lat.<i> incorporare</i> ‘unir, agregar en un solo cuerpo’, de<i> in</i> ‘en’ y<i> corporare,</i> forma verbal de<i> corpus, corporis</i> ‘cuerpo’. It.<i> incorporare, </i>fr.<i> incorporer,</i> cat.<i> incorporar,</i> port.<i> incorporar,</i> rum.<i> incorpora.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

@@ -6,82 +6,110 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Notar, percibir alguna sensación física por medio de los sentidos, excepto el de la vista (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ahora también quisiera alargarme, mas he de escrebir muchas cartas, y siento un poco de frío, que es día de cuartana.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cartas, 37 (R. 55. 311)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Hante llagado tan cruelmente, y no lo sientes ni te duele?»",
               "autor": "Ávila",
               "referencia_obra": ", Eucar. 22 (4. 334)."
             },
             {
+              "marca": "",
               "texto_cita": "«Gustaré del gusto de tu lengua, y paladar: ---, y que más gusto da a mi amado, cuando más sabor halla en él, y más dulce lo siente.»",
               "autor": "León",
-              "referencia_obra": ", Cantares, 7 (4. 123).+"
+              "referencia_obra": ", Cantares, 7 (4. 123)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Por el olor los perros descubren la caza, y el hombre no siente nada.»",
               "autor": "J. de Pineda",
-              "referencia_obra": ", Agr. crist. 13. 26 (R. 162. 4742). X"
+              "referencia_obra": ", Agr. crist. 13. 26 (R. 162. 4742)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entonces sentí un extraño cosquilleo que se deslizaba por todas las fibras de mi cuerpo.»",
               "autor": "Pereda",
-              "referencia_obra": ", Pedro Sánchez, 1. 2 (Cl. C. 144. 27). X"
+              "referencia_obra": ", Pedro Sánchez, 1. 2 (Cl. C. 144. 27)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Levantó la cabeza para secarse y sintió el aire mordiendo y enrarecido.»",
               "autor": "Onetti",
               "referencia_obra": ", El astillero, p. 159."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Siendo el acus. una prop. infinitiva. X",
+              "definicion": "Siendo el acus. una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Siento luego abrasarme en viuo yelo, | Y siento luego elarme en fuego viuo: | Responden los efetos con la vista.»",
                   "autor": "F. de la Torre",
                   "referencia_obra": ", Poes. 1 (Cl. C. 124. 4)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Siendo el acus. una prop. indicativa. X",
+              "definicion": "Siendo el acus. una prop. indicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sentía que se le iba formando una sonrisa imbécil, que su voz sonaría insegura.»",
                   "autor": "Onetti",
-                  "referencia_obra": ", El astillero, p. 70. X"
+                  "referencia_obra": ", El astillero, p. 70."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sentimos que circulaba por nuestras plantas | Y subía por nuestras piernas desnudas | La savia vejetal de que se alimenta | El pueblo laborioso de las raíces.»",
                   "autor": "Maya",
-                  "referencia_obra": ", Obra poétic. 2 (p. 147). — Además con en, para indicar el modo. X"
-                },
+                  "referencia_obra": ", Obra poétic. 2 (p. 147)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«—Duerme, niña, duerme. Pon el gabán debajo de la cabeza y duerme —le dijo entre dientes, y se durmió a poco, creyendo sentir en sueños que alguien le besaba.»",
-                  "autor": "Pz. de Ayala",
-                  "referencia_obra": ", Tinieblas (Cl. Castal. 36. 210)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para indicar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«—Duerme, niña, duerme. Pon el gabán debajo de la cabeza y duerme —le dijo entre dientes, y se durmió a poco, creyendo sentir en sueños que alguien le besaba.»",
+                      "autor": "Pz. de Ayala",
+                      "referencia_obra": ", Tinieblas (Cl. Castal. 36. 210)."
+                    }
+                  ]
                 }
               ]
             },
@@ -89,37 +117,46 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pero no nacen todos | Con órganos tan finos y perfectos | Que con igual viveza los efectos | Sientan del ritmo y musicales modos.»",
                   "autor": "T. Iriarte",
                   "referencia_obra": ", Música, 1 (1. 158)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, para expresar el lugar. X",
+              "definicion": "Con en, para expresar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La saqué a bailar; era como bailar con aire en forma de mujer. Sin embargo, en mi hombro derecho sentía yo sus dedos firmemente agarrados.»",
                   "autor": "Mallea",
                   "referencia_obra": ", Los Rembrandts, p. 118."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con sobre, para indicar el modo. X",
+              "definicion": "Con sobre, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo sentía sobre mí, como amoroso imán, los ojos de la Volfani, desde que había entrado en la saleta.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de invierno, p. 110."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -127,81 +164,100 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Daban de beber a los crucificados en aquel tiempo, antes que los clavasen, cierto vino ---, que tiene virtud de ensordecer el sentido, y como embotar el dolor, para que no sienta.»",
               "autor": "León",
-              "referencia_obra": ", Nomb. 2. 2 (3. 175). +"
+              "referencia_obra": ", Nomb. 2. 2 (3. 175)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Por tres fines dio naturaleza los niervos al animal: y el primero es por que los órganos de los sentidos sintiesen.»",
               "autor": "J. de Pineda",
               "referencia_obra": ", Agr. crist. 9. 13 (R. 162. 2272)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Prnl. X",
+          "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Lynch, Maisson, Oliden, rodando por el suelo, ensangrentados y aturdidos bajo las herraduras de los caballos, se sienten pronto asir por los cabellos.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 1 (p. 13)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con un predicado. X",
+              "definicion": "Con un predicado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La única vez que su rostro virginal se siente acariciado por los labios ardientes de un hombre joven es durante los días de ciertas ceremonias religiosas en Roma.»",
                   "autor": "Gómez Carrillo",
                   "referencia_obra": ", Whitman, p. 42."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para señalar el lugar. +",
+              "definicion": "Con en, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«La leche se comienza a sentir de la mujer en sus pechos cuando la criatura se comienza a mover.»",
                   "autor": "J. de Pineda",
                   "referencia_obra": ", Agr. crist. 6. 36 (R. 162. 731)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Sustantivado. X",
+          "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿El dolor? ¿El amor? ¿la invención? ¿La fe? ¿El entusiasmo? ¿El sueño? ¿El sentir corporal? ¿La función de nuestro organismo?»",
               "autor": "Rodó",
               "referencia_obra": ", Motivos de Proteo, p. 274."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con bajo, para especificar el lugar. X",
+              "definicion": "Con bajo, para especificar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se gozaba con un poco de asombro, y el estar así, en contacto con los géneros femeniles, el sentir bajo la mano algún corsé de rigidez arcaica o la carne suave y ser uno en movimiento con una moza turbada, no eran motivos para reír.»",
                   "autor": "Güiraldes",
                   "referencia_obra": ", Don Segundo Sombra, 11 (p. 67)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -210,83 +266,473 @@
     {
       "id": "b)",
       "definicion": "Particularmente aplicado al oído, Percibir, oír (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pero por evitar un frío sonido que al parecer hacen dos enes juntas, la una se convirtió en g, y hízose aquella manera de sonido que sentís.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. (Mayáns, Oríg. Leng. Esp. p. 74)."
             },
             {
+              "marca": "",
               "texto_cita": "«Sintió la voz u otras señales manifiestas de su Esposo.»",
               "autor": "León",
               "referencia_obra": ", Cantares, 6 (4. 100)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Oh Hijas mías, qué secretos tan grandes hay en estas palabras! Dénoslo nuestro Señor a sentir, que harto mal se puede decir.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Concep. 4 (2. 555)."
             },
             {
+              "marca": "",
               "texto_cita": "«Sintió Sertorio el alboroto de los Castulonenses que daban principio a la matanza.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 3. 11 (1. 1201)."
             },
             {
+              "marca": "",
               "texto_cita": "«Sintió la voz el temerario infierno | Con que la turbamulta se convoca.»",
               "autor": "Villav.",
-              "referencia_obra": "Mosq. 8 (R. 17. 6002). X"
+              "referencia_obra": "Mosq. 8 (R. 17. 6002)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No bien sintió Pepita el ruido y alzó los ojos y nos vio, se levantó, dejó la costura que traía entre manos y se puso a mirarnos.»",
               "autor": "Valera",
               "referencia_obra": ", Pepita Jiménez, p. 66."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "El acus. es una prop. infinitiva. X",
+              "definicion": "El acus. es una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Esta acción fue instintiva, sin embargo, porque Daniel hacía algunos minutos ya, esperaba por momentos sentir abrir aquella puerta, pero él esperaba ver entrar por ella una mujer, varias mujeres quizá.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 2 (p. 156)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con desde, para señalar el lugar de procedencia. X",
+              "definicion": "Con desde, para señalar el lugar de procedencia.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Ya estarán temblando los burros de la Friseta, sintiendo a los gitanos desde los corrales bajos!»",
                   "autor": "J. R. Jiménez",
                   "referencia_obra": ", Platero y yo, 63 (p. 108)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, para indicar el lugar. X",
+              "definicion": "Con en, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los mercaderes, alegres y agradecidísimos del caso, para mí y para el otro mozo tomaron dos mulas y caminando pasamos el puerto sin que lo sintiesen en las ventas.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 13 (Cl. C. 43. 188). X"
+                  "referencia_obra": ", Escud. 1. 13 (Cl. C. 43. 188)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Una noche entré | En su casa, sentí ruido | En una cuadra, llegué, | Y al mismo tiempo que fui | A entrar, pude el bulto ver | De un hombre, que se arrojó | Del balcón.»",
                   "autor": "Cald.",
                   "referencia_obra": "El médico de su honra, 1 (Cl. C. 142. 49)."
+                }
+              ],
+              "subsubsubacepciones": []
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "— β )",
+          "id_limpio": "— β )",
+          "definicion": "Absol.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«No basta en algunos tiempos sentir bien, sino que es menester hablar bien.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 3. 5 (p. 181)."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": []
+        },
+        {
+          "id_marcador_html": "— γ )",
+          "id_limpio": "— γ )",
+          "definicion": "Pas.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
+              "texto_cita": "«Desembocamos la mina en el pozo de los víveres, y cargando con los sacos, nos retiramos, sin ser sentidos a hacerle la repartición y a remediar la gazuza.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz. 9 (Cl. C. 109. 104)."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": [
+            {
+              "id_marcador_html": "— α α )",
+              "id_limpio": "— α α )",
+              "definicion": "Con de, para precisar el agente.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Cosa pocas veces vista, y de hombres muy prácticos en la tierra, apartase tanta gente escaramuzando, y emboscarse sin ser sentida, no de los que estaban en la frente, no de los que venían a las espaldas.»",
+                  "autor": "Mend.",
+                  "referencia_obra": "Guerra de Gran. (Cl. Castal. 22. 304)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Aquella mesma noche, cuando le pareció que Anselmo dormía, juntó las mejores joyas que tenía, y algunos dineros, y, sin ser de nadie sentida, salió de casa y se fue a la de Lotario.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 1. 35 (Cl. C. 8. 271)."
+                }
+              ],
+              "subsubsubacepciones": []
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "— δ )",
+          "id_limpio": "— δ )",
+          "definicion": "Impers.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
+              "texto_cita": "«Lo mismo hizo Martel con los últimos de la vanguardia del Marqués al arroyo de Vayarzal, lo uno y lo otro tan callando, que no se sintió voz ni palabra.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 355)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Se sintió el ruido y voces confusas con que los nuestros tomaron las armas.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 28 (R. 21. 271)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Entré con sombría resolución, sin pronunciar palabra, y el fraile me siguió alzando la luz para esclarecer el corredor: Allá dentro sentíanse apagados runrunes de voces y dineros.»",
+              "autor": "Valle-Inclán",
+              "referencia_obra": ", Sonata de invierno, p. 121."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": []
+        },
+        {
+          "id_marcador_html": "— ε )",
+          "id_limpio": "— ε )",
+          "definicion": "Part. Con de, para expresar el agente.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "+",
+              "texto_cita": "«Allí [en el río Campana] sentido de los espías, Gonzalo Hernández salió con algunos de caballo a ver el camino por do habían de ir.»",
+              "autor": "",
+              "referencia_obra": "Crón. Gran Capitán, 2. 3 (NBAE. 10. 2901)."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "definicion": "",
+      "marca": "",
+      "ejemplos_citas": [],
+      "subsubsubacepciones": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Experimentar, tener cierto estado afectivo o de ánimo (trans.).",
+      "marca": "",
+      "ejemplos_citas": [],
+      "subsubsubacepciones": [],
+      "subacepciones": [
+        {
+          "id_marcador_html": "— α )",
+          "id_limpio": "— α )",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Si sentís el corazón no tan casto, si se os bambalean las piernas para caer, mensajeros son esos de muerte.»",
+              "autor": "",
+              "referencia_obra": "M. de Chaide, Magd. 3. 31 (R. 27. 3472)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Reconocían [los indios el poder de Dios] ya por los efectos y por algunas vislumbres de la luz natural, bastantes siempre a conocer lo mejor y a sentir la fuerza de los auxilios con que asiste Dios a todos los racionales.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 2. 12 (R. 28. 2482)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Tenemos nuestros cuerpos por gracia y bendición de Dios, para darles los minutos de amor de los que la vida quisiera despojarnos: no sientas vengüenza, no sientas nada y en cambio olvidarás tus penas.»",
+              "autor": "Fuentes",
+              "referencia_obra": ", Obr. complet. p. 1208."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": [
+            {
+              "id_marcador_html": "— α α )",
+              "id_limpio": "— α α )",
+              "definicion": "El acus. es una prop. en infinitivo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Estoy con más salud que suelo y los fríos no siento hacerme mal, anque hay harta nieve.»",
+                  "autor": "Sta. Ter.",
+                  "referencia_obra": "Cartas, 356 (R. 55. 3062)."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— β β )",
+              "id_limpio": "— β β )",
+              "definicion": "Con una prop. en indicativo como acus.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Si tú me tomas sentirás que el héroe | Revive en ti, con su vigor nativo | Y con sus ojos cósmicos que amplían. | La divina expresión del universo.»",
+                  "autor": "Maya",
+                  "referencia_obra": ", Obra poétic. 3 (p. 174)."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— γ γ )",
+              "id_limpio": "— γ γ )",
+              "definicion": "Con bajo, para precisar el lugar.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«¡La justicia de la Causa es el mejor general! | Yo añadí, sintiendo bajo mi sayal prenitente aquel fuego que animó a San Bernardo cuando predicaba la Cruzada.»",
+                  "autor": "Valle-Inclán",
+                  "referencia_obra": ", Sonata de invierno, p. 97."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— δ δ )",
+              "id_limpio": "— δ δ )",
+              "definicion": "Con la prep. con, para precisar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Acontecería en un mismo tiempo, como el filósofo dice, ser necesario sentir dolor con los unos, y placer con los otros.»",
+                      "autor": "León",
+                      "referencia_obra": ", Nomb. 3. 2 (3. 338)."
+                    }
+                  ]
+                },
+                {
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Recordaba quel día, cuando al besar la mano alba y real de azules venas sentí con ansías de paladín el deseo de consagrar mi vida a la Señora.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de invierno, p. 170."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_marcador_html": "— ε ε )",
+              "id_limpio": "— ε ε )",
+              "definicion": "Con de, para precisar el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Sintió de tal suerte mi antigua compañera este desprecio, que atragantaba podre por la boca y vertía ponzoña por los ojos.»",
+                  "autor": "",
+                  "referencia_obra": "Esteb. Gonz. 10 (Cl. C. 109. 143)."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— ζ ζ )",
+              "id_limpio": "— ζ ζ )",
+              "definicion": "Con en, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pero a poco tiempo se formaría el gusto de los oyentes, de modo que hallasen en la hermosura brillante y natural de la legítima retórica, superior deleite al que ahora sienten en este agregado de discursos en que consisten nuestro sermones.»",
+                      "autor": "Feijóo",
+                      "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 142)."
+                    }
+                  ]
+                },
+                {
+                  "id_limpio": "—",
+                  "definicion": "La causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y Azorín, cansado, siente cierta vaga tristeza en este inmenso y rumoroso cementerio de cosas — que representan pasados deseos, pasadas angustias, pasadas voluptuosidades.»",
+                      "autor": "Azorín",
+                      "referencia_obra": ", La voluntad (Cl. Castal. 3. 233)."
+                    }
+                  ]
+                },
+                {
+                  "id_limpio": "—",
+                  "definicion": "El lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Es grande yerro querer yo limitar a Cristo y a su espíritu conforme al espíritu que siento en mí.»",
+                      "autor": "Puente",
+                      "referencia_obra": ", Medit. 3. 20 (2. 146)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡Ay mis corderillos, | Si el preso cruel | Que siento en el alma | Sentís vos también!»",
+                      "autor": "Iglesias",
+                      "referencia_obra": ", Letr. 22 (R. 61. 4192)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Noto cuándo es él el que amo y cuándo es él el que detesto por los impulsos que siento en mi interior.»",
+                      "autor": "J. Poncela",
+                      "referencia_obra": ", Eloísa, pról. p. 49."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_marcador_html": "— η η )",
+              "id_limpio": "— η η )",
+              "definicion": "Con en y una prop, en infinitivo, para indicar la causa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«¡Oh qué gusto sentiría el Padre eterno en mirar las virtudes de su Hijo!»",
+                  "autor": "Puente",
+                  "referencia_obra": ", Medit. 2. 26 (1. 385)."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— θ θ )",
+              "id_limpio": "— θ θ )",
+              "definicion": "Con hasta, para indicar el tiempo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«No; el amor que hoy se atesora | En mi corazón mortal, | No es un amor terrenal | Como el que sentí hasta ahora; | No es esa chispa fugaz | Que cualquier ráfaga apaga; | Es incendio que se traga | Cuanto ve, inmenso, voraz.»",
+                  "autor": "Zorrilla",
+                  "referencia_obra": ", Don Juan Tenorio, 1. 4 (Cl. C. 201. 105)."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— ι ι )",
+              "id_limpio": "— ι ι )",
+              "definicion": "Con por, que expresa:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "la persona hacia la cual se tiene cierto estado afectivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Conoció la admiración que yo sentía por él y halagó esto su vanidad? No es creíble en un mozo de tan superior entendimiento.»",
+                      "autor": "Pereda",
+                      "referencia_obra": ", Pedro Sánchez, 1. 14 (Cl. C. 144. 136)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Yo no me arrepiento de haber hablado, por que tenía que hacerlo; pero no siento por usted ni la más pequeña simpatía.»",
+                      "autor": "Sastre",
+                      "referencia_obra": ", La mordaza (Cl. Castal. 61. 179)."
+                    }
+                  ]
+                },
+                {
+                  "id_limpio": "—",
+                  "definicion": "El lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Entonces sentí por todo mi cuerpo un estremecimiento. Era la primera vez que me veía a solas con aquella mujer y en sitio tan apartado.»",
+                      "autor": "Valera",
+                      "referencia_obra": ", Pepita Jiménez, p. 54."
+                    }
+                  ]
                 }
               ]
             }
@@ -296,422 +742,199 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
-              "texto_cita": "«No basta en algunos tiempos sentir bien, sino que es menester hablar bien.»",
-              "autor": "Sig.",
-              "referencia_obra": "Vida de S. Jer. 3. 5 (p. 181)."
-            }
-          ],
-          "subsubacepciones": []
-        },
-        {
-          "id_marcador_html": "— γ )",
-          "id_limpio": "— γ )",
-          "definicion": "Pas. X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Desembocamos la mina en el pozo de los víveres, y cargando con los sacos, nos retiramos, sin ser sentidos a hacerle la repartición y a remediar la gazuza.»",
-              "autor": "",
-              "referencia_obra": "Esteb. Gonz. 9 (Cl. C. 109. 104)."
-            }
-          ],
-          "subsubacepciones": [
-            {
-              "id_marcador_html": "— α α )",
-              "id_limpio": "— α α )",
-              "definicion": "Con de, para precisar el agente. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Cosa pocas veces vista, y de hombres muy prácticos en la tierra, apartase tanta gente escaramuzando, y emboscarse sin ser sentida, no de los que estaban en la frente, no de los que venían a las espaldas.»",
-                  "autor": "Mend.",
-                  "referencia_obra": "Guerra de Gran. (Cl. Castal. 22. 304). X"
-                },
-                {
-                  "texto_cita": "«Aquella mesma noche, cuando le pareció que Anselmo dormía, juntó las mejores joyas que tenía, y algunos dineros, y, sin ser de nadie sentida, salió de casa y se fue a la de Lotario.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 35 (Cl. C. 8. 271)."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "— δ )",
-          "id_limpio": "— δ )",
-          "definicion": "Impers. X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Lo mismo hizo Martel con los últimos de la vanguardia del Marqués al arroyo de Vayarzal, lo uno y lo otro tan callando, que no se sintió voz ni palabra.»",
-              "autor": "Mend.",
-              "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 355)."
-            },
-            {
-              "texto_cita": "«Se sintió el ruido y voces confusas con que los nuestros tomaron las armas.»",
-              "autor": "Moncada",
-              "referencia_obra": ", Exped. 28 (R. 21. 271). X"
-            },
-            {
-              "texto_cita": "«Entré con sombría resolución, sin pronunciar palabra, y el fraile me siguió alzando la luz para esclarecer el corredor: Allá dentro sentíanse apagados runrunes de voces y dineros.»",
-              "autor": "Valle-Inclán",
-              "referencia_obra": ", Sonata de invierno, p. 121."
-            }
-          ],
-          "subsubacepciones": []
-        },
-        {
-          "id_marcador_html": "— ε )",
-          "id_limpio": "— ε )",
-          "definicion": "Part. Con de, para expresar el agente. +",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Allí [en el río Campana] sentido de los espías, Gonzalo Hernández salió con algunos de caballo a ver el camino por do habían de ir.»",
-              "autor": "",
-              "referencia_obra": "Crón. Gran Capitán, 2. 3 (NBAE. 10. 2901)."
-            }
-          ],
-          "subsubacepciones": []
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "definicion": "",
-      "ejemplos_citas": [],
-      "subacepciones": []
-    },
-    {
-      "id": "a)",
-      "definicion": "Experimentar, tener cierto estado afectivo o de ánimo (trans.).",
-      "ejemplos_citas": [],
-      "subacepciones": [
-        {
-          "id_marcador_html": "— α )",
-          "id_limpio": "— α )",
-          "definicion": "",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Si sentís el corazón no tan casto, si se os bambalean las piernas para caer, mensajeros son esos de muerte.»",
-              "autor": "",
-              "referencia_obra": "M. de Chaide, Magd. 3. 31 (R. 27. 3472)."
-            },
-            {
-              "texto_cita": "«Reconocían [los indios el poder de Dios] ya por los efectos y por algunas vislumbres de la luz natural, bastantes siempre a conocer lo mejor y a sentir la fuerza de los auxilios con que asiste Dios a todos los racionales.»",
-              "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 2. 12 (R. 28. 2482). X"
-            },
-            {
-              "texto_cita": "«Tenemos nuestros cuerpos por gracia y bendición de Dios, para darles los minutos de amor de los que la vida quisiera despojarnos: no sientas vengüenza, no sientas nada y en cambio olvidarás tus penas.»",
-              "autor": "Fuentes",
-              "referencia_obra": ", Obr. complet. p. 1208."
-            }
-          ],
-          "subsubacepciones": [
-            {
-              "id_marcador_html": "— α α )",
-              "id_limpio": "— α α )",
-              "definicion": "El acus. es una prop. en infinitivo.",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Estoy con más salud que suelo y los fríos no siento hacerme mal, anque hay harta nieve.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Cartas, 356 (R. 55. 3062)."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— β β )",
-              "id_limpio": "— β β )",
-              "definicion": "Con una prop. en indicativo como acus. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Si tú me tomas sentirás que el héroe | Revive en ti, con su vigor nativo | Y con sus ojos cósmicos que amplían. | La divina expresión del universo.»",
-                  "autor": "Maya",
-                  "referencia_obra": ", Obra poétic. 3 (p. 174)."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— γ γ )",
-              "id_limpio": "— γ γ )",
-              "definicion": "Con bajo, para precisar el lugar. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«¡La justicia de la Causa es el mejor general! | Yo añadí, sintiendo bajo mi sayal prenitente aquel fuego que animó a San Bernardo cuando predicaba la Cruzada.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de invierno, p. 97."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— δ δ )",
-              "id_limpio": "— δ δ )",
-              "definicion": "Con la prep. con, para precisar: — el medio.",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Acontecería en un mismo tiempo, como el filósofo dice, ser necesario sentir dolor con los unos, y placer con los otros.»",
-                  "autor": "León",
-                  "referencia_obra": ", Nomb. 3. 2 (3. 338). — El modo. X"
-                },
-                {
-                  "texto_cita": "«Recordaba quel día, cuando al besar la mano alba y real de azules venas sentí con ansías de paladín el deseo de consagrar mi vida a la Señora.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de invierno, p. 170."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— ε ε )",
-              "id_limpio": "— ε ε )",
-              "definicion": "Con de, para precisar el modo. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Sintió de tal suerte mi antigua compañera este desprecio, que atragantaba podre por la boca y vertía ponzoña por los ojos.»",
-                  "autor": "",
-                  "referencia_obra": "Esteb. Gonz. 10 (Cl. C. 109. 143)."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— ζ ζ )",
-              "id_limpio": "— ζ ζ )",
-              "definicion": "Con en, para señalar: — el medio. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Pero a poco tiempo se formaría el gusto de los oyentes, de modo que hallasen en la hermosura brillante y natural de la legítima retórica, superior deleite al que ahora sienten en este agregado de discursos en que consisten nuestro sermones.»",
-                  "autor": "Feijóo",
-                  "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 142). — La causa. X"
-                },
-                {
-                  "texto_cita": "«Y Azorín, cansado, siente cierta vaga tristeza en este inmenso y rumoroso cementerio de cosas — que representan pasados deseos, pasadas angustias, pasadas voluptuosidades.»",
-                  "autor": "Azorín",
-                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 233). — El lugar."
-                },
-                {
-                  "texto_cita": "«Es grande yerro querer yo limitar a Cristo y a su espíritu conforme al espíritu que siento en mí.»",
-                  "autor": "Puente",
-                  "referencia_obra": ", Medit. 3. 20 (2. 146). X"
-                },
-                {
-                  "texto_cita": "«¡Ay mis corderillos, | Si el preso cruel | Que siento en el alma | Sentís vos también!»",
-                  "autor": "Iglesias",
-                  "referencia_obra": ", Letr. 22 (R. 61. 4192). X"
-                },
-                {
-                  "texto_cita": "«Noto cuándo es él el que amo y cuándo es él el que detesto por los impulsos que siento en mi interior.»",
-                  "autor": "J. Poncela",
-                  "referencia_obra": ", Eloísa, pról. p. 49."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— η η )",
-              "id_limpio": "— η η )",
-              "definicion": "Con en y una prop, en infinitivo, para indicar la causa.",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«¡Oh qué gusto sentiría el Padre eterno en mirar las virtudes de su Hijo!»",
-                  "autor": "Puente",
-                  "referencia_obra": ", Medit. 2. 26 (1. 385)."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— θ θ )",
-              "id_limpio": "— θ θ )",
-              "definicion": "Con hasta, para indicar el tiempo. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«No; el amor que hoy se atesora | En mi corazón mortal, | No es un amor terrenal | Como el que sentí hasta ahora; | No es esa chispa fugaz | Que cualquier ráfaga apaga; | Es incendio que se traga | Cuanto ve, inmenso, voraz.»",
-                  "autor": "Zorrilla",
-                  "referencia_obra": ", Don Juan Tenorio, 1. 4 (Cl. C. 201. 105)."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— ι ι )",
-              "id_limpio": "— ι ι )",
-              "definicion": "Con por, que expresa: — la persona hacia la cual se tiene cierto estado afectivo. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«¿Conoció la admiración que yo sentía por él y halagó esto su vanidad? No es creíble en un mozo de tan superior entendimiento.»",
-                  "autor": "Pereda",
-                  "referencia_obra": ", Pedro Sánchez, 1. 14 (Cl. C. 144. 136). X"
-                },
-                {
-                  "texto_cita": "«Yo no me arrepiento de haber hablado, por que tenía que hacerlo; pero no siento por usted ni la más pequeña simpatía.»",
-                  "autor": "Sastre",
-                  "referencia_obra": ", La mordaza (Cl. Castal. 61. 179). — El lugar. X"
-                },
-                {
-                  "texto_cita": "«Entonces sentí por todo mi cuerpo un estremecimiento. Era la primera vez que me veía a solas con aquella mujer y en sitio tan apartado.»",
-                  "autor": "Valera",
-                  "referencia_obra": ", Pepita Jiménez, p. 54."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "— β )",
-          "id_limpio": "— β )",
-          "definicion": "Absol. X",
-          "ejemplos_citas": [
-            {
+              "marca": "X",
               "texto_cita": "«Del modo que se hallaría la desdichada Medea no hay que referirlo, cuando se deja entender de los que saben sentir.»",
               "autor": "Lozano",
-              "referencia_obra": ", Hist. y ley. 17 (Cl. C. 120. 177). X"
+              "referencia_obra": ", Hist. y ley. 17 (Cl. C. 120. 177)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Algún día | Sabrás, niña, por qué; | Mientras tú sientes mucho y nada sabes, | Yo, que no siento ya, todo lo sé.»",
               "autor": "Bécquer",
               "referencia_obra": ", Rimas, p. 94."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Por sinécdoque. +",
+          "definicion": "Por sinécdoque.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«El corazón necesita sentir, y las pasiones son las únicas que le conmueven.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Anot. a la Poét. 5. 6 (1. 221)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Pas. Con la prep. con, para indicar el modo. X",
+          "definicion": "Pas. Con la prep. con, para indicar el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Donde hay hondo aliento de personalidad, donde la idea ha sido pensada y sentida nuevamente con la eficacia de la energía cradora, habrá siempre una virtud y un espíritu que no se parecerán a cosa de antes.»",
               "autor": "Rodó",
               "referencia_obra": ", Motivos de Proteo, p. 265."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Impers. X",
+          "definicion": "Impers.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si el estilo explica fielmente y con propiedad lo que se siente, es bueno.»",
               "autor": "Azorín",
               "referencia_obra": ", Riofrío, 4 (p. 43)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Sintiéronse los primeros efectos de esta felicidad en Castilla [la llegada de Carlos al trono], cuya quietud se fue comunicando a los demás reinos de España.»",
                   "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 1. 5 (R. 28. 2121). X"
+                  "referencia_obra": ", Conq. de Méj. 1. 5 (R. 28. 2121)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El estímulo falta, el ejemplo desaparece, la necesidad de manifestarse con dignidad que se siente en las ciudades, no se hace sentir allí en el aislamiento y la sociedad.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Facundo, 1. 1. (p. 36)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Lo qual viendo el embaxador, todas las escusas que le dio recibió como por buenas, y mostró como ya sentido y passado el dolor de los campañeros.»",
               "autor": "Pz. de Oliva",
-              "referencia_obra": ", Hist. inu. Ynd. (ICC. 20. 63). X"
+              "referencia_obra": ", Hist. inu. Ynd. (ICC. 20. 63)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Suele suceder que una vocación tempranamente sentida, y a la que el alma, ya en edad de realizar sus promesas, permanece fiel sin un instante de duda o de desconfianza, no corresponda, sin embargo a indicio alguno de aptitud.»",
               "autor": "Rodó",
               "referencia_obra": ", Motivos de Proteo, p. 88."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Qué es la causa, que sabiendo todos los que oyen una comedia, que todo es ficción y maraña, se enternecen, y algunos lloran cuando se presenta un paso sentido?»",
               "autor": "Capm.",
-              "referencia_obra": "Teatro (4. 163). X"
+              "referencia_obra": "Teatro (4. 163)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No se le olvide a usted aquel grito en aquel verso. —No se me olvida, descuide usted; aturdiré el teatro. —Sí, un chillido sentido.»",
               "autor": "Larra",
               "referencia_obra": ", Artíc. de cost. (Cl. C. 45. 207)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
-          "definicion": "Sustantivado. X",
+          "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Fue cosa de justicia y de gratitud el sentir redoblada su estimación hacia el gobernador que fue capaz de esa verdadera hazaña.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 2 (p. 144)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con un posesivo. X",
+              "definicion": "Con un posesivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sólo hay un instante cenital para cada pensamiento. Fijemos nuestro sentir en ese punto preciso y fugitivo.»",
                   "autor": "Miró",
                   "referencia_obra": ", Años y leguas, p. 120."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ι )",
           "id_limpio": "— ι )",
-          "definicion": "En los siguientes textos, Ser capaz de impresionarse o emocionarse con la belleza, bondad, etc, de las cosas. X",
+          "definicion": "En los siguientes textos, Ser capaz de impresionarse o emocionarse con la belleza, bondad, etc, de las cosas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los cuadros del Greco y de Zurbarán, requieren ponerse en comunicación con alguien que los sienta.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 81."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Impers. X",
+              "definicion": "Impers.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Para nosotros es más natural sentir que comprender, y el barroco, como el gótico y el bizantino, son estilos que se sienten aunque no se comprendan.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 80."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -720,70 +943,87 @@
     {
       "id": "b)",
       "definicion": "Encontrarse, hallarse en cierto estado de ánimo. (prnl.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Deme vuestra Majestad la mano —Vengáis con bien, | Enrique. ¿Cómo os sentís?»",
               "autor": "Cald.",
-              "referencia_obra": "El médico de su honra, 1 (Cl. C. 142. 46). X"
+              "referencia_obra": "El médico de su honra, 1 (Cl. C. 142. 46)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sin dejar de contemplarle, cuando hube dado con él, dije a Matica con entera resolución: | —No me siento bien aquí, y voy a marcharme a casa.»",
               "autor": "Pereda",
               "referencia_obra": ", Pedro Sánchez, 1. 16 (Cl. C. 144. 175)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el modo. X",
+              "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Quien se sintiere con calor para digerir mayores noticias, puede engullirse la Doctrina temporum del mismo Petavio, la Chronologia sacra de Userio, y con el tiempo podrá cargar de más vianda si su estómago lo consintiere.»",
                   "autor": "Isla",
                   "referencia_obra": ", Fr. Ger. 2. 7 (Cl. C. 149. 135)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por, que especifica el modo. X",
+              "definicion": "Con por, que especifica el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con él espero o darme por agradecida o sentirme por injuriada.»",
                   "autor": "Solórzano",
                   "referencia_obra": ", La Garduña de Sevilla, 2 (Cl. C. 42. 111)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con un predicado. X",
+              "definicion": "Con un predicado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La fiera brama, que se sintió herida, con la mayor braveza que jamás fue vista buelve otra vez sobre el valiente príncipe.»",
                   "autor": "Ortúñez de Calahorra",
-                  "referencia_obra": ", Espejo (Cl. C. 196. 261). X"
+                  "referencia_obra": ", Espejo (Cl. C. 196. 261)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo también sentime conmovido al oír tanta ponderación de males; y aunque menos interesado que los otros en los sucesos de esta nación, pregunté cuál era el motivo de tanto lamento.»",
                   "autor": "Cadalso",
-                  "referencia_obra": ", Cartas marr. 5 6 (Cl. C. 112. 198). X"
+                  "referencia_obra": ", Cartas marr. 5 6 (Cl. C. 112. 198)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Una vida poderosa vibraba en todo y me sentí nuevo, fresco, capaz de sobrellevar todas las penurias que me impusiera la suerte.»",
                   "autor": "Güiraldes",
                   "referencia_obra": ", Don Segundo Sombra, 9 (p. 60)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -791,82 +1031,109 @@
     },
     {
       "id": "c)",
-      "definicion": "Resentirse, padecer dolor o molestia en cierta parte del cuerpo (prnl.). X",
+      "definicion": "Resentirse, padecer dolor o molestia en cierta parte del cuerpo (prnl.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Sin querer tomar lança, con su ancho y pesado cuchillo a dos manos le hiere de un fuerte y pesado golpe, de que el Cavallero del Febo se sintió mucho.»",
           "autor": "Ortúñez de Calahorra",
-          "referencia_obra": ", Espejo (Cl. C. 196. 142). +"
+          "referencia_obra": ", Espejo (Cl. C. 196. 142)."
         },
         {
+          "marca": "+",
           "texto_cita": "«Nuestra sciencia hace profesión de curar las enfermedades y pasiones del cuerpo, y las del alma también; mas no propriamente ni principalmente, sino entonces tan solamente cuando el alma padece y se siente de la indisposición del cuerpo.»",
           "autor": "F. de Mena",
-          "referencia_obra": ", Teágenes y Cariclea, 4 (p. 150). X"
+          "referencia_obra": ", Teágenes y Cariclea, 4 (p. 150)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Nadie se acordaba del batacazo del coche cuando el ama comenzó a decir que se sentía del pecho.»",
           "autor": "Pagés",
           "referencia_obra": ")."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "Lamentar algún suceso triste o doloroso (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Harto quisiera estar a donde pudiera acompañar a V. S. y ayudar a sentir su pena, aunque acá me ha alcanzado mucha parte.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cartas, 186 (R. 55. 1711)."
             },
             {
+              "marca": "",
               "texto_cita": "«Sucedió que a cabo de algunos días murió el príncipe Rui Gómez: sintiolo mucho la princesa.»",
               "autor": "Yepes",
-              "referencia_obra": ", Vida de Sta. Ter. 2. 21 (Míst. 1. 197). X"
+              "referencia_obra": ", Vida de Sta. Ter. 2. 21 (Míst. 1. 197)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tanto como se alegró fray Gerundio con la vista de su amigo, tanto sintió el maestro Prudencio aquella importuna visita.»",
               "autor": "Isla",
-              "referencia_obra": ", Fr. Ger. 3. 1 (Cl. C. 149. 205). X"
+              "referencia_obra": ", Fr. Ger. 3. 1 (Cl. C. 149. 205)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Cierto que no! Ahora mismo iremos los dos a comprobar toda esa historia de los precios, ¡Si habéis pretendido engañarme lo vais a sentir!»",
               "autor": "Buero Vallejo",
               "referencia_obra": ", Concierto (Cl. Castal. 35. 109)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Siendo el acus. una prop. infinitiva. X",
+              "definicion": "Siendo el acus. una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mira: lo menos, lo menos, | Me plantará en la del Rey; | Y, ya se ve, yo no siento | Dejar la casa, sino | Adquirir en el comercio | Mala fama.»",
                   "autor": "Gonz. del Castillo",
-                  "referencia_obra": ", La madre hipócr. 3 (p. 90). X"
+                  "referencia_obra": ", La madre hipócr. 3 (p. 90)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Por qué tal insistencia en venir esta misma noche? | Herido por el despego de sus palabras, me detuve en medio de la estancia. | —Siento decirte que es una historia de tu capellán..»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de invierno, p. 117. — Además con en, para especificar el modo."
-                },
+                  "referencia_obra": ", Sonata de invierno, p. 117."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Siento | En el alma el disgustaros.»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", Mudarse por mejorarse, 3. 12 (R. 20. 1173). X"
-                },
-                {
-                  "texto_cita": "«Mi querido hermano: siento en el alma tener que darte una mala noticia; pero confío en Dios, que habrá de concederte paciencia y sufrimiento bastantes para que no te enoje y acibare demasiado.»",
-                  "autor": "Valera",
-                  "referencia_obra": ", Pepita Jiménez, p. 159."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para especificar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Siento | En el alma el disgustaros.»",
+                      "autor": "Alarcón",
+                      "referencia_obra": ", Mudarse por mejorarse, 3. 12 (R. 20. 1173)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Mi querido hermano: siento en el alma tener que darte una mala noticia; pero confío en Dios, que habrá de concederte paciencia y sufrimiento bastantes para que no te enoje y acibare demasiado.»",
+                      "autor": "Valera",
+                      "referencia_obra": ", Pepita Jiménez, p. 159."
+                    }
+                  ]
                 }
               ]
             },
@@ -874,26 +1141,40 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "El acus. es una prop. subjuntiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Al Rey dio pesadumbre: sentían que ninguno se le adelantase en dar principio a esta guerra.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 12. 17 (1. 6222). X"
+                  "referencia_obra": ", Hist. Esp. 12. 17 (1. 6222)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sentiré muy mucho que la depravación de costumbres me haga caer en la torpeza de celebrar los desórdenes.»",
                   "autor": "Cadalso",
-                  "referencia_obra": ", Cartas marr. 67 (Cl. C. 112. 225). +"
+                  "referencia_obra": ", Cartas marr. 67 (Cl. C. 112. 225)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Yo soy un buen ciudadano; | yo siento que la fortuna | Nos vuelva la espalda, y son | Mis intenciones muy puras.»",
                   "autor": "Bretón",
-                  "referencia_obra": ", Muérete y verás, 2. 2 (Cl. C. 92. 33). — Además con por, que indica la causa."
-                },
+                  "referencia_obra": ", Muérete y verás, 2. 2 (Cl. C. 92. 33)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«La guerra los levanta [los espíritus] y hace inobedientes. Por eso Tiberio sentía tanto que se perturbase la quietud que había dejado Augusto en el imperio.»",
-                  "autor": "Saav.",
-                  "referencia_obra": "Emp. 99 (R. 25. 2572)."
+                  "id_limpio": "—",
+                  "definicion": "Además con por, que indica la causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«La guerra los levanta [los espíritus] y hace inobedientes. Por eso Tiberio sentía tanto que se perturbase la quietud que había dejado Augusto en el imperio.»",
+                      "autor": "Saav.",
+                      "referencia_obra": "Emp. 99 (R. 25. 2572)."
+                    }
+                  ]
                 }
               ]
             },
@@ -901,25 +1182,31 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y así verme, yo partir | De tu vista y de mi vida, | No es pena tan desmedida, | Como verte a ti sentir | Tan de veras mi partida.»",
                   "autor": "Montem.",
                   "referencia_obra": "Diana, 2 (p. 67)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con entre, para indicar el lugar. X",
+              "definicion": "Con entre, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Este la cruda rabia | Gusta seguir del áspero Mavorte | Y de la trompa y caja el fiero canto, | Aborrecido tanto | Ya de la madre, o ya de la consorte | Que entre los caros hijos llora y siente | La incierta vida de su padre ausente.»",
                   "autor": "",
                   "referencia_obra": "Jaúr. Rimas (Cl. C. 182. 78)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -927,73 +1214,98 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Intrans. Con por, que expresa el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Sientes por grandísima pérdida cuando te viene la nueva de la nao que se te hundió.»",
               "autor": "Ávila",
               "referencia_obra": ", Eucar. 26 (4. 399)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ni quejarse ni sentirse les era lícito, ni comunicar por letras sus dolores.»",
               "autor": "Melo",
               "referencia_obra": ", Guerra de Catal. 2 (R. 21. 4762)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de y una prop. en subjuntivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Comenzaron a sentirse de que las fuerzas y honras del imperio se pusiesen en manos de extranjeros.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 21 (R. 21. 211)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. adj. En comparativo, con valor ponderativo. X",
+          "definicion": "Part. adj. En comparativo, con valor ponderativo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Por la muerte tan sentida | De su padre don Fernando | De negro monjil vestida, | Negro estrado está ocupando | Doña Urraca, cuyos ojos | Son Dos piras de dolor | A los fúnebres despojos | De su Rey y su señor.»",
               "autor": "Arolas",
               "referencia_obra": ", Poes. (Cl. C. 95. 81)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "En los siguientes ejemplos, Tener sentimiento, dolor o enojo por algo, resentirse.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Averiguaba en Córdoba un alcalde de corte, ---, un delito, y habiéndole preso el marqués de Priego, lo sintió tanto el Rey, que los servicios señalados de la casa de Córdoba no bastaron para dejar de hacer con él una severa demostración.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 22 (R. 25. 611). — El acus. es una prop. sunjuntiva."
-            },
+              "referencia_obra": "Emp. 22 (R. 25. 611)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Cuanto uno es más ingenuo y generoso de ánimo, más siente que se dude de su fidelidad.»",
-              "autor": "Saav.",
-              "referencia_obra": "Emp. 51 (R. 25. 1362)."
-            },
-            {
-              "texto_cita": "«Tiberio sintió mucho que se hiciesen por Nerón y Druso las mismas oraciones públicas y plegarias que por él.»",
-              "autor": "Saav.",
-              "referencia_obra": "Emp. 58 (R. 25. 1582)."
+              "id_limpio": "—",
+              "definicion": "El acus. es una prop. sunjuntiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Cuanto uno es más ingenuo y generoso de ánimo, más siente que se dude de su fidelidad.»",
+                  "autor": "Saav.",
+                  "referencia_obra": "Emp. 51 (R. 25. 1362)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Tiberio sintió mucho que se hiciesen por Nerón y Druso las mismas oraciones públicas y plegarias que por él.»",
+                  "autor": "Saav.",
+                  "referencia_obra": "Emp. 58 (R. 25. 1582)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -1001,75 +1313,130 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Prnl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Como no se podían nombrar todos, los que dejó de mentar, se sentían ellos o sus aliados.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 18. 15 (2. 1602)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si le dicen que bien lo debe [el amigo fiel] a lo que por él hace, se siente, porque le atribuyen la amistad a sus dádivas.»",
                   "autor": "Quev.",
-                  "referencia_obra": "Inm. del alma, 3 (10. 446). — Con de. X"
+                  "referencia_obra": "Inm. del alma, 3 (10. 446)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Tocaba tanto a su honra y fama, de la cual por ser romana mucho se preciaba, y era muy gran razón que ella se sintiese dello, que era muy contenta de hacer la prueba porque fuese conoscida su bondad y limpieza, cómo y cuándo mandase.»",
+                      "autor": "Timoneda",
+                      "referencia_obra": ", El Patrañuelo, 4 (Cl. C. 101. 49)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Se sintió [el marqués] altamente de la intimación que le hizo el alcalde.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Gran Capitán (1. 153)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Tocaba tanto a su honra y fama, de la cual por ser romana mucho se preciaba, y era muy gran razón que ella se sintiese dello, que era muy contenta de hacer la prueba porque fuese conoscida su bondad y limpieza, cómo y cuándo mandase.»",
-                  "autor": "Timoneda",
-                  "referencia_obra": ", El Patrañuelo, 4 (Cl. C. 101. 49)."
-                },
-                {
-                  "texto_cita": "«Se sintió [el marqués] altamente de la intimación que le hizo el alcalde.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Gran Capitán (1. 153). — El término es una prop. indicativa. +"
-                },
-                {
-                  "texto_cita": "«De lo que a mí no se me dice derechamente, no tengo obligación de sentirme, ni hacer caso.»",
-                  "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 1 (Cl. C. 43. 44)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. indicativa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«De lo que a mí no se me dice derechamente, no tengo obligación de sentirme, ni hacer caso.»",
+                      "autor": "Espinel",
+                      "referencia_obra": ", Escud. 1. 1 (Cl. C. 43. 44)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Part. X",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pues cuenta, niña, con lo que te he dicho ya. Y mira que no gusto de repetir una cosa dos veces. Este caballero está sentido, y con muchísima razón...»",
                   "autor": "Mor.",
-                  "referencia_obra": "El sí de las niñas (Cl. Ebro, 39. 47). — Con de, para precisar la causa."
+                  "referencia_obra": "El sí de las niñas (Cl. Ebro, 39. 47)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con de, para precisar la causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Deseo persuadir esto a los que por la poca experiencia, o por la condición alterada y presta que naturalmente tienen, se dan por sentidos de las ignorantes libertades de quien no tiene atrevimiento para decirlas descubiertamente.»",
+                      "autor": "Espinel",
+                      "referencia_obra": ", Escud. 1 (R. 18. 3792)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Deseo persuadir esto a los que por la poca experiencia, o por la condición alterada y presta que naturalmente tienen, se dan por sentidos de las ignorantes libertades de quien no tiene atrevimiento para decirlas descubiertamente.»",
-                  "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1 (R. 18. 3792). — Nótese la elisión de la prep. de."
-                },
-                {
-                  "texto_cita": "«Estaba el de Tolosa sentido que el matrimonio de su hijo... el Rey de Aragón lo hubiese impedido.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 11. 13 (1. 5472)."
+                  "id_limpio": "—",
+                  "definicion": "Nótese la elisión de la prep. de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Estaba el de Tolosa sentido que el matrimonio de su hijo... el Rey de Aragón lo hubiese impedido.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 11. 13 (1. 5472)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Part. adj. En superlativo absol. +",
+              "definicion": "Part. adj. En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Ninguna cosa con ellos [los vizcaínos] aprovechaba, principalmente con Juan de Lezcano y Riarán que estaban muy sentidos.»",
                   "autor": "",
                   "referencia_obra": "Crón. Gran Capitán, 3. 8 (NBAE. 10. 3082)"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Es el amor muy sentido: túvose por agraviado, y determinó vengarse con las armas.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 2. 17 (1. 782). — Con de, para señalar la persona que causa el resentimiento."
-                },
+                  "referencia_obra": ", Hist. Esp. 2. 17 (1. 782)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Deseaba reconciliarse con su primo el Rey de León, de quien se mostraba muy sentido después que repudió a su hija Da. Berenguela.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 12. 3 (1. 5841)."
+                  "id_limpio": "—",
+                  "definicion": "Con de, para señalar la persona que causa el resentimiento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Deseaba reconciliarse con su primo el Rey de León, de quien se mostraba muy sentido después que repudió a su hija Da. Berenguela.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 12. 3 (1. 5841)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1078,14 +1445,17 @@
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Expresión, Lo siento (mucho): expresa lamentación, condolencia o disculpa. X",
+          "definicion": "Expresión, Lo siento (mucho): expresa lamentación, condolencia o disculpa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Si vos me ayudaseis yo estudiaría mucho! — ¿De oído? No, David. [Vos no podéis juzgaros, pero...] hay que tocar mucho mejor que vos para entrar en la Opera Cómica, o en cualquier otro puesto... (David busca el escalón con el pie y vuelve a sentarse.) Lo siento.»",
               "autor": "Buero Vallejo",
               "referencia_obra": ", Concierto (Cl. Castal. 35. 169)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1093,122 +1463,152 @@
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Juzgar, opinar, formar parecer o dictamen (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El consejero a quien faltare un cortés valor para decir lo que siente ser mayor servicio de su rey, no cumplirá con la obligación de su oficio.»",
               "autor": "Navarr.",
               "referencia_obra": "Conserv. de monarq. 50 (R. 25. 5451)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Siendo el acus. una prop. en infinitivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Sentían [los apóstoles] ser cosa indigna que Cristo la permítiese [la pasión].»",
                   "autor": "Puente",
                   "referencia_obra": ", Medit. 4. 2 (2. 377)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "El acus. es una prop. indicativa. X",
+              "definicion": "El acus. es una prop. indicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Muchos doctores latinos y griegos quieren sentir que la lengua hebrea desciende de Heber y que es la lengua que se hablaba antes del diluvio.»",
                   "autor": "Guev.",
-                  "referencia_obra": "Epíst. 2 (p. 341). X"
+                  "referencia_obra": "Epíst. 2 (p. 341)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y si estando en los sesenta y siete años de edad, no sintiese que ya no es tiempo de pensar en vivir con gusto, sino de morir con tranquilidad.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Cartas (Cl. C. 129. 296). X"
+                  "referencia_obra": "Cartas (Cl. C. 129. 296)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Algunos españoles que, siguiendo la singularidad de Alejandro Afrodiseo, afirman que Aristóteles sintió y escribió que el alma racional muere con el cuerpo.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 46)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "El acus. es una prop. en subjuntivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Sentía la santa madre que mientras esto se conservase se conservaría también la perfección.»",
                   "autor": "Yepes",
                   "referencia_obra": ", Vida de Sta. Ter. 2. 37 (Míst. 1. 271)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con la expr. preposicional acerca de, para indicar la persona sobre quien se opina.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Cuando haya [el amo] concluído su reconocimiento, los devolverá, y dirá por mi medio lo que sienta acerca de ellos.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Cartas (5. 200)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con contra.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La virgen santísima Catharina de Sena, --- fue la que principalmente le movió a tomar este saludable consejo contra lo que sentían algunos Cardenales.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 17. 19 (2. 1172)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con de, para especificar el objeto sobre el cual se opina.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Apuntaré en breve lo que siente [este siervo] de la virtud de la humildad.»",
                   "autor": "Gran.",
                   "referencia_obra": "Vida de Áv., 3 (6. 6342)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Por entretenimiento los junté, preguntándoles qué sentían de la naturaleza y substancia del alma.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Rep. (R. 25. 4032). X"
+                  "referencia_obra": "Rep. (R. 25. 4032)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Si vuestra merced me pregunta qué siento de él, digo que en cuanto a la posibilidad, no hallo el menor tropiezo; que en orden a la existencia, le juzgo un sueño bien concertado, y nada más.»",
                   "autor": "Feijóo",
                   "referencia_obra": ", Cartas eruditas (Cl. C. 85. 105)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Lo que siento de los diálogos sólo lo sabrá él, y si él quiere lo sabrá V.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Cartas (6. 19)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1216,38 +1616,55 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pues se admiran de ver los que bien sienten, | Que a quien escribió ayer, hoy le comenten.»",
               "autor": "Lope",
               "referencia_obra": ", Laurel de Apolo, 9 (Obr. suelt. 1. 187)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, para indicar la persona o cosa sobre la que se opina.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Lo primero que conviene, para que el Espíritu Santo venga a nuestras ánimas, es, que sintamos grandemente de él.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Ven. Esp. Santo, 1 (2. 225)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La verdadera religión ha de ser con obras que agraden y honren a Dios y ninguna cosa de cuantas hay en el mundo le agrada, sino sentir altamente de sus grandezas y perfecciones.»",
                   "autor": "Gran.",
                   "referencia_obra": "Símb. 1. 38 (4 1941)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Fue [Macedonio] Obispo de Costantinopla, y sentía mal del Espíritu Santo diciendo que era creatura.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 4. 20 (1. 1901). — Además con la prep. con, para expresar el modo."
-                },
+                  "referencia_obra": ", Hist. Esp. 4. 20 (1. 1901)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No creo que este varón que escuchasteis siente con diferencia del consejo que os ofrecen.»",
-                  "autor": "Melo",
-                  "referencia_obra": ", Guerra de Catal, 3 (R. 21. 4891)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para expresar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«No creo que este varón que escuchasteis siente con diferencia del consejo que os ofrecen.»",
+                      "autor": "Melo",
+                      "referencia_obra": ", Guerra de Catal, 3 (R. 21. 4891)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1257,116 +1674,143 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Feliz aquella [república] donde se puede sentir lo que se quiere y decir lo que se siente.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 14 (R. 25. 411)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Seguido de ciertos adjetivos, Considerarse, reconocerse como éstos lo expresan (prnl.).",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ningunos oyen con mejor paciencia las murmuraciones, que los que no se sienten culpados.»",
               "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 13. 7 (1. 6462). X"
+              "referencia_obra": ", Hist. Esp. 13. 7 (1. 6462)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El pensamiento enjaulado que deseaba volar, el criollo autóctono que se sentía clavado en el suelo original por las nutricias raíces de una olvidada existencia, en el esfuerzo de liberación hasta la síntesis humana, creó trinitariamente a nuestros augustos representativos raciales.»",
               "autor": "Valencia",
-              "referencia_obra": ", Discursos, 1 (p. 43). X"
+              "referencia_obra": ", Discursos, 1 (p. 43)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Les daba por sentirse muy machos y luego se levantaban en armas, cuando era tan facilito cambiar de lugar como quien no quiere la cosa y amanecer del buen lado.»",
               "autor": "Fuentes",
               "referencia_obra": ", Obr. compl. p. 1214."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Estar de acuerdo, compartir. Intrans. Con la prep. con, para señalar la persona con quien se concuerda. +",
+          "definicion": "Estar de acuerdo, compartir. Intrans. Con la prep. con, para señalar la persona con quien se concuerda.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Con estos santos siente también san Isidoro y los demás padres antiguos.»",
               "autor": "Rivad.",
               "referencia_obra": "Trib. 1. 11 (R. 60. 3792)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Además con en, para expresar el asunto que se comparte. +",
+              "definicion": "Además con en, para expresar el asunto que se comparte.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Así, en este punto siento con Berenguer de Entenza; pero en lo que tocca al modo de hacer la guerra, opuestamente debo contradecille.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 30 (R. 21. 282)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El infante don Alonso tuvo en ella [la hija de Bonifacio, de Verona] muchos hijos, y ella vino a ser una de las mujeres más señaladas de su tiempo, aunque Zurita no siente en esto con Montaner, a quien yo sigo.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 70 (R. 21. 632)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Sustantivado. Opinión, parecer. X",
+          "definicion": "Sustantivado. Opinión, parecer.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El ilustrísimo señor Piedrahita, cap. l., fol. 4 de su Historia, afirma que el Orinoco sólo cede y reconoce por mayor al río Marañón: del mismo sentir es el Padre Matías de Tapia, en el Memorial que presentó al Rey nuestro señor, año 1715.»",
               "autor": "Gumilla",
               "referencia_obra": ", Orinoco, 1. 3 (p. 69)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, sujetivo. X",
+              "definicion": "Con de, sujetivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Procediendo así, estaremos a tono con el sentir del mundo.»",
                   "autor": "Valencia",
                   "referencia_obra": ", Discursos, 1 (p. 93)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con un posesivo. X",
+              "definicion": "Con un posesivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El padre Andrés Mendo, en su tomo De jure academico, toca a este punto, y es de nuestro sentir, aunque está algo diminuto en la prueba.»",
                   "autor": "Feijóo",
-                  "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 73). X"
+                  "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 73)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En mi sentir, entre los poetas jóvenes de México, Bustillos es el más delicado.»",
                   "autor": "Nervo",
                   "referencia_obra": ", Obr. 2 (p. 11)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1375,58 +1819,80 @@
     {
       "id": "b)",
       "definicion": "Presentir, barruntar lo que ha de sobrevivir (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Esto es lo más acertado, si hay dispusición — y espero en Dios sí habrá — y poner lo que pudiese en no tratar con él, aunque sienta la muerte.»",
               "autor": "Sta. Ter.",
-              "referencia_obra": "Cam. perf. 3 (Cl. C. 98. 43). X"
+              "referencia_obra": "Cam. perf. 3 (Cl. C. 98. 43)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Por qué lo hiciste? | —Porque | Si yo no se lo dijera | Y Gutierre lo sintiera, | La presunción era clara, | Pues no se desengañara | De que yo cómplice era: | Y no fue dificultad | En ocasión tan cruel, | Haciendo del ladrón fiel, | Engañar con la verdad.»",
               "autor": "Cald.",
-              "referencia_obra": "El médico de su honra, 2 (Cl. C. 142. 64). X"
+              "referencia_obra": "El médico de su honra, 2 (Cl. C. 142. 64)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Don Gamaliel sintió la vecindad de la muerte y él mismo preparó sus exequias con detalle y lujo.»",
               "autor": "Fuentes",
               "referencia_obra": ", Obr. complet. p. 1182."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "El acus. es una prop. en indicativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Siento que no se ha roto la cabeza.»",
                   "autor": "A. Saav.",
-                  "referencia_obra": "Tanto vales cuánto tienes, 1. 18 (4. 32). — Además con en, para indicar el lugar. X"
-                },
+                  "referencia_obra": "Tanto vales cuánto tienes, 1. 18 (4. 32)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Por doquiera infinito | Te encuentro, y siento en el florido prado | Y en el luciente velo | Con que tu umbrosa noche entolda el cielo | Que del átomo eres | El Dios, y el Dios del sol.»",
-                  "autor": "",
-                  "referencia_obra": "Poesía Siglo XVIII (Cl. Castal. 65. 268)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para indicar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Por doquiera infinito | Te encuentro, y siento en el florido prado | Y en el luciente velo | Con que tu umbrosa noche entolda el cielo | Que del átomo eres | El Dios, y el Dios del sol.»",
+                      "autor": "",
+                      "referencia_obra": "Poesía Siglo XVIII (Cl. Castal. 65. 268)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la expr. adverbial en derredor, para señalar el lugar. X",
+              "definicion": "Con la expr. adverbial en derredor, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo me moriré muy pronto. | Siento la sombra en derredor, | ¡Ay! el aceite de mi lámpara | Ha mucho tiempo se apagó.»",
                   "autor": "Maya",
                   "referencia_obra": ", Obra poétic. 1 (p. 41)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1434,13 +1900,16 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y aunque ya os sienta perder, | Esta fineza he de hacer | Por mí, por ella y por vos.»",
               "autor": "Mto.",
               "referencia_obra": "El poder de la amistad, 3. 7 (R. 39. 3412)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1448,24 +1917,30 @@
     {
       "id": "4",
       "definicion": "Empezar a abrirse o rajarse una cosa, como pared, vidrio, etc. (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El muro al mismo término por una banda y otra padeció su naufragio, quedó sentido, quebrantado y abierto.»",
               "autor": "Césp. y Men.",
               "referencia_obra": "Sold. Pínd. 2. 25 (R. 18. 3691)."
             },
             {
+              "marca": "",
               "texto_cita": "«Fue tal la prisa del batir --- que cuando el sol la acabó de deshacer [la niebla] estaba ya sentida casi toda la muralla y amenazando ruina.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 8 (R. 28. 1152)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1473,7 +1948,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «[Dice Celestina a Areusa] Hija, destos dolorcillos tales, más es el ruido que las nueces. Maravillada soy, sentirse del corazón mujer tan moza.» Celest. 9 (R. 3. 442). X «Lo que yo senty y hize, ligero está de iuzgar.» D. de S. Pedro, Carcél de amor (Cl. C. 133. 211). X «Acordaos que no sentistes, | En mi vida, vna mudança | Que hiziesse; | Acordaos que no me distes, | En la vuestra, vna esperança.» J. Manr. Canc. (Cl. C. 94. 36). X «Todos los que se sienten dispuestos e sufiçientes a alguna obra e acto, su propia virtud los punje e estimula a la exerçitar e usar.» Pz. de Guzmán, Gener. (Cl. C. 61. 83). + «Bien puedes tú que esto lees pensar qué gusto en sí sentiría, quanto más su agudo e vivo sentir.» Crón. Álv. de Luna, 111 (p. 337). X «En las planicies e sierras | Tú serás la más fermosa | E más polida, | Más onesta, e más sentida, | E más graciosa.» Santill. Canc. y decires (Cl. C. 18. 147).\n\n— Siglo XIV: + «Otrosí dixoles, que se sentía mucho del mal et daño et despechamiento que la tierra avía rescebido.» Crón. Alf. XI, 83 (p. 152). + «Los rricos omes e los otros ffijos dalgo ---, ssentiéndose dela mengua e del danno que por ende venía a la su tierra e a cada vno dellos, quele pidieron por merçed, quelo non conssentiesse passar assí.» Cortes de Valladolid, año 1351 (C. de L. y C. 2. 66). X «Vino luego un frayre para lo convertyr: | Començóle a pedricar e en Dios a departyr: | Ovose don Carnal muy mucho a sentyr.» Arc. de Hita, (Cl. C. 17. 97). + «Por do podríemos auer entrada, dixo el Cauallero Zifar, porque los saliésemos a las espaldas, que lo non sentiesen?» Zifar, 22 (p. 56).\n\n— Siglo XIII: + «Siento me por tan ualient e tan arreziado cuerno en el tiempo en que enuiaron que escodrinasse esta tierra.» Alf. X, General estoria, 2. 1 (Josué, L. p. 76).\n\n— Siglo XII: X «Ya lo sienten ellas en los sos coraçones, | ¡Qual ventura seríe esta, si ploguiesse al Criador, | Que assomasse essora el Çid Campeador!» Cid, 2740 (Cl. C. 24. 250).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. sentire 'percibir por los sentidos, darse cuenta, pensar, opinar'. Cat., fr. y port. sentir; it. sentire.\n\n\u0000",
+  "etimologia": "Etim. Del lat. <i>sentire</i> 'percibir por los sentidos, darse cuenta, pensar, opinar'. Cat., fr. y port. <i>sentir</i>; it. <i>sentire</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",

@@ -1,22 +1,34 @@
 {
   "lema": "APEGAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nEste es uno de aquellos verbos compuestos con á que, habiendo sido muy usados antiguamente, han cedido el puesto, en todo ó en parte, á sus simples; de suerte que en los clásicos se halla empleado á menudo en casos en que hoy diríamos pegar, pues el uso actual no lo admite sino en ciertas acepciones metafóricas.",
+  "introduccion": "Este es uno de aquellos verbos compuestos con á que, habiendo sido muy usados antiguamente, han cedido el puesto, en todo ó en parte, á sus simples; de suerte que en los clásicos se halla empleado á menudo en casos en que hoy diríamos pegar, pues el uso actual no lo admite sino en ciertas acepciones metafóricas.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
-      "definicion": "Pegar, conglutinar (trans.) (ant.). — Part.",
-      "ejemplos_citas": [
+      "definicion": "Pegar, conglutinar (trans.) (ant.).",
+      "marca": "",
+      "ejemplos_citas": [],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Hizo unas alas de plumas apegadas con cera --- la cera con que estaban las alas pegadas se derritió con el calor del sol.»",
-          "autor": "",
-          "referencia_obra": "Comend. Griego, Lab. 52 (212)."
+          "id_limpio": "—",
+          "definicion": "Part.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Hizo unas alas de plumas apegadas con cera --- la cera con que estaban las alas pegadas se derritió con el calor del sol.»",
+              "autor": "",
+              "referencia_obra": "Comend. Griego, Lab. 52 (212)."
+            }
+          ]
         }
       ],
       "subacepciones": [
@@ -24,13 +36,16 @@
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Refl. Pegarse, adherirse (ant.). Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No sé mejor oficio á la mesa que escanciar, porque quien la miel trata, siempre se le apega della.»",
               "autor": "Celest.",
               "referencia_obra": "9 (R. 3. 411)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -38,16 +53,28 @@
     {
       "id": "b)",
       "definicion": "met. Refl. Pegarse, no separarse de alguno.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Si el cortesano es pobre, no tiene con que se ir, y si es rico, apégansele otros para que en el camino les dé de comer.»",
           "autor": "",
-          "referencia_obra": "Guevara, Aviso de privados, 1 (Dicc. Autor.). —"
-        },
+          "referencia_obra": "Guevara, Aviso de privados, 1 (Dicc. Autor.)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Paréceme provechosa esta visión para personas de recogimiento, para enseñarse á considerar al Señor en lo muy interior del alma; que es consideración que más se apega y muy más fructuosa que fuera de sí.»",
-          "autor": "Sta. Ter.",
-          "referencia_obra": "Vida, 40 (R. 53. 1251)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Paréceme provechosa esta visión para personas de recogimiento, para enseñarse á considerar al Señor en lo muy interior del alma; que es consideración que más se apega y muy más fructuosa que fuera de sí.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 40 (R. 53. 1251)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -55,54 +82,68 @@
     {
       "id": "c)",
       "definicion": "Unirse íntimamente.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«El arcano eminente | Arrancará á natura | De las funciones de la humana mente; | Cómo al lodo el espíritu se apega; | Quién los une, cuándo, dónde; de qué suerte | De la materia inerte | Afecta la impulsión al alma pura.»",
           "autor": "J. Burgos",
           "referencia_obra": ", El porvenir (R. 67. 4442)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Pegar, juntar (trans.) (ant.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Lo que se junta y apega mucho parece que se come y se bebe.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 6. 7 (1. 104)."
             },
             {
+              "marca": "",
               "texto_cita": "«Deje que apegue la boca | Para temprar en la nieve | El fuego que me provoca.»",
               "autor": "Lope",
               "referencia_obra": ", Las Batuecas, 2 (Dicc. Autor.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl. Con con, para expresar el objeto que se toca.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mandándolo él, los vientos se enojaron, | Y las olas alzaron | Al cielo furïosos; ya se apega | Con las nubes la nao, ya en el suelo | Se hunde.»",
                   "autor": "León",
                   "referencia_obra": ", Poes. 3, salmo 106 (R. 37. 552)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -110,18 +151,22 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Va esto junto y apegado con el verso de arriba.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 35. 11 (2. 210)."
             },
             {
+              "marca": "",
               "texto_cita": "«Esta alma --- está junta, y si lo habemos de decir así, apegadísima por unión personal al Verbo divino.»",
               "autor": "",
               "referencia_obra": "Id. Nomb. 1, Faces (R. 37. 832)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -129,48 +174,60 @@
     {
       "id": "b)",
       "definicion": "met. (ant.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«No tenemos entonces otro más fácil remedio que apegarlo [el corazón] á las palabras de Dios, que son unas brasas y saetas encendidas, para que con ellas se encienda y dispierte á devoción.»",
           "autor": "Gran.",
           "referencia_obra": "Mem. del crist. 30 (R. 11. 2041)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
       "definicion": "met. Pegar, comunicar (trans.) (ant.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Al fin, cualquier novel que se le allega, | O le reduce la virtud á menos, | O alguna grave enfermedad le apega.»",
               "autor": "B. Argens.",
               "referencia_obra": "epíst. Dícesme, Nuño (R. 42. 3081)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ella recibió cualidades divinas, mas no apegó á la divinidad sus flaquezas.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 3, Hijo (R. 37. 1722)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. recípr.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Siempre se apegan algo unas provincias comarcanas á otras.»",
                   "autor": "Valdés",
                   "referencia_obra": ", Diál. (Mayans, 26)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -178,18 +235,22 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Forzoso es que á quien trata de engañar que lo engañen; y que á quien contrata y se comunica con gentes de ingenio y de costumbres diversas, se le apeguen muchas malas costumbres.»",
               "autor": "León",
               "referencia_obra": ", Perf. cas. 4 (R. 37. 2181)."
             },
             {
+              "marca": "",
               "texto_cita": "«Lo que se vee y se trata, cuanto peor es, tanto más ligeramente, por nuestra miseria, se nos apega.»",
               "autor": "",
               "referencia_obra": "Id. ib. 11 (R. 37. 2281)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -197,51 +258,64 @@
     {
       "id": "4",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Cautivar, mantener atento ó interesado (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Así su estilo [de Márquez] jamás cansa, antes llama y apega al lector.»",
               "autor": "Capm.",
               "referencia_obra": "Teatro, 4, p. 107."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con á.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Causando [el terror] una impresión triste, pero agradable, nos apega á la acción que vemos representar, por el testimonio íntimo de nuestra flaqueza.»",
               "autor": "",
               "referencia_obra": "M. de la Rosa, Arte poétic. de Hor. nota 17 (1. 302)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Refl. Asirse y mantenerse firme.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Por qué no desechamos luégo de nosotros todas estas vanas y engañosas esperanzas, y no nos apegamos con todo fervor y devoción á esta esperanza tan segura?»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 18 (R. 6. 662)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -249,52 +323,64 @@
     {
       "id": "b)",
       "definicion": "Infundir cariño ó afición. Con á.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El mismo bienestar que disfrutan, las apega al sosiego.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Esp. del siglo, 8. 19 (6. 451)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl. Dejarse llevar de afición particular á alguna cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Estaba muy estimada y era muy loada, y ofrecíanse hartas cosas á que me pudiera bien apegar.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Vida, 39 (R. 53. 1211)."
             },
             {
+              "marca": "",
               "texto_cita": "«Son muchos los que se apegan en la vida á nuestra hacienda, y son pocos los que en la muerte se encargan de nuestra conciencia.»",
               "autor": "Capm.",
               "referencia_obra": "Teatro, 2. 90)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los demás historiadores y cronistas se apegaron con mayor ahinco, cual era natural, á los hechos más notables por su grandeza.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", H. P. del Pulgar (4. 69)."
             },
             {
+              "marca": "",
               "texto_cita": "«Alimentado con estos pensamientos, me apegué más y más al designio de escribir una novela histórica.»",
               "autor": "Solís",
               "referencia_obra": ", advert. (4. 194)."
             },
             {
+              "marca": "",
               "texto_cita": "«No es extraño que el pueblo español se apegase con tanto ahinco á los varios géneros de composiciones sagradas.»",
               "autor": "",
               "referencia_obra": "Id. Apuntes sobre el drama hist. (3. 424)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -302,10 +388,10 @@
   ],
   "periodo_anteclasico": "Per. antecl. — Siglo XV: «Ella le da muchas vueltas a la garganta, assi como la yedra a los arboles a que se apega.» Mena, Coron. 34 (172).\n\n— Siglo XIV: «Trávame luego del braço, yo apeg[u]éme a las paredes.» Rim. de Pal. 435 (R. 57. 4391). «El arroyo Alcornocoso, que es allende Alcalá, que está apegado á la sierra de Jahen, es buen monte de puerco en ivierno.» Mont. Alf. XI, 3. 28 (Bibl. venat. 2. 374). «Esta yerba non ha mas de una raiz sola, que se va derecha ayuso, et es así como soga, et apégase á las paredes, et sube contra arriba.» Ib. 2. 2. 38 (Bibl. venat. 1. 208). «Si fuere [el sabueso] blanco, que haya la nariz prieta; et haya las orejas colgadas et non muy grandes, et bien apegadas á la cabeza, et los ojos tristes.» lb. 1. 40 (Bibl. venat. 1. 113).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Comp. de á, que realza la idea de contacto, y pegar.",
+  "etimologia": "Etim. Comp. de<i> á</i>, que realza la idea de contacto, y <i>pegar</i>.",
   "nota": "",
   "forma": "",
-  "ortografia": "Ortogr. Antes de e se escribe gu: apegué, apeguen.\n\n\u0000",
+  "ortografia": "Ortogr. Antes de e se escribe gu: apegué, apeguen.",
   "conjugacion": "",
   "construccion_sintactica": "",
   "prosodia": "",

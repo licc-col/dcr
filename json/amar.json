@@ -1,97 +1,160 @@
 {
   "lema": "AMAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nTener amor á alguna persona ó cosa (trans.). Expresa todas las gradaciones desde la pasión vehemente que atrae un sexo hacia el otro, hasta la benévola disposición que se nos manda tener para con nuestros enemigos, y se extiende á denotar la inclinación que nos mueve á los objetos inanimados que nos atraen ya por su bondad, ya por su bellezá, ya por la conveniencia que hallamos en ellos con nuestro carácter ó con nuestros gustos.",
+  "introduccion": "Tener amor á alguna persona ó cosa (trans.). Expresa todas las gradaciones desde la pasión vehemente que atrae un sexo hacia el otro, hasta la benévola disposición que se nos manda tener para con nuestros enemigos, y se extiende á denotar la inclinación que nos mueve á los objetos inanimados que nos atraen ya por su bondad, ya por su bellezá, ya por la conveniencia que hallamos en ellos con nuestro carácter ó con nuestros gustos.",
   "acepciones": [
     {
       "id": "a)",
       "definicion": "Con acus. de pers.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "En general.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Amamos naturalmente la bondad y la hermosura, amamos á nuestros padres y bienhechores, amamos á nuestros amigos y á aquellos con quien tenemos semejanza, y finalmente toda bondad y perfección es el blanco de nuestro amor.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 1. 2 (R. 6. 1852)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ama el hombre la hacienda, y ama al hijo; pero cuando se encuentra el amor de hacienda con el del hijo que está enfermo ó en algún peligro, gástase la hacienda porque no muera el hijo.»",
               "autor": "Rivad.",
-              "referencia_obra": "Flos SS. Purific. (Vida de la Virgen, 161). — Significando la pasión amorosa."
+              "referencia_obra": "Flos SS. Purific. (Vida de la Virgen, 161)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Significando la pasión amorosa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Hízome el cielo, según vosotros decís, hermosa, y de tal manera, que sin ser poderosos á otra cosa, á que me améis os mueve mi hermosura, y por el amor que me mostráis decís y aun queréis que esté yo obligada á amaros.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 1. 14 (R. 1. 2821)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Tirsi, pastor del más famoso río | Que da tributo al Tajo, en la ribera | Del glorioso Sebeto á Dafne amaba | Con ardor tal, que fue mil veces visto | Tendido en tierra en doloroso llanto | Pasar la noche.»",
+                  "autor": "Figueroa",
+                  "referencia_obra": ", Egl. past. (R. 42. 5071)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Hízome el cielo, según vosotros decís, hermosa, y de tal manera, que sin ser poderosos á otra cosa, á que me améis os mueve mi hermosura, y por el amor que me mostráis decís y aun queréis que esté yo obligada á amaros.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 14 (R. 1. 2821)."
+              "id_limpio": "—",
+              "definicion": "Significando el amor de Dios.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Vemos que premia conocida y aventajadamente el Hacedor de todas las cosas aquellos que, sin moverles otro interese alguno de temor de pena ó de esperanza de gloria, le quieren, le aman y le sirven solamente por ser bueno y digno e ser amado.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Gal. 3 (R. 1. 401)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Con esa manera de amor he oído yo predicar que se ha de amar á nuestro Señor, por sí solo sin que nos mueva esperanza de gloria ó temor de pena.»",
+                  "autor": "",
+                  "referencia_obra": "Id. Quij. 1. 31 (R. 1. 3371)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Los que de veras aman á Dios, todo lo bueno aman, todo lo bueno quieren, todo lo bueno favorecen, todo lo bueno loan, con los buenos se juntan siempre, y los favorecen y defienden; no aman sino verdades y cosas que sean dignas de amar.»",
+                  "autor": "Sta. Ter.",
+                  "referencia_obra": "Cam. perf. 40 (R. 53. 3711)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Tirsi, pastor del más famoso río | Que da tributo al Tajo, en la ribera | Del glorioso Sebeto á Dafne amaba | Con ardor tal, que fue mil veces visto | Tendido en tierra en doloroso llanto | Pasar la noche.»",
-              "autor": "Figueroa",
-              "referencia_obra": ", Egl. past. (R. 42. 5071). — Significando el amor de Dios."
+              "id_limpio": "—",
+              "definicion": "Significando el amor fundado en la caridad cristiana.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«No sabré determinar con qué ganó más ánimas para Cristo, si con las palabras de su doctrina ó con la grandeza de la caridad y amor, acompañada de buenas obras, que á todos mostraba; porque así los amaba y así se acomodaba á las necesidades de todos como si fuera padre de todos.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "Vida de Áv., 2, § 4 (R. 11. 4552)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Oh Salvador dulcísimo, yo propongo con vuestra gracia de amar á mi prójimo como vos nos amasteis, compadeciéndome de ellos como vos os campadecisteis de nosotros.»",
+                  "autor": "Puente",
+                  "referencia_obra": ", Medit. 3. 50 (2. 301)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Vemos que premia conocida y aventajadamente el Hacedor de todas las cosas aquellos que, sin moverles otro interese alguno de temor de pena ó de esperanza de gloria, le quieren, le aman y le sirven solamente por ser bueno y digno e ser amado.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Gal. 3 (R. 1. 401)."
+              "id_limpio": "—",
+              "definicion": "Significando otras maneras de amor en la familia ó en la vida social.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Tu Dios y Señor te trajo de Egipto por todo este camino de la manera que el padre amoroso trae en sus brazos el niño que regalada y tiernamente ama.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "serm. Pentec, (R. 11. 201)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Comenzó á estudiar las artes, y fue su maestro en ellas el P. Fr. Domingo de Soto, el cual, vista la delicadeza de su ingenio, acompañada con mucha virtud, lo amaba mucho.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "Vida de Áv., 1 (R. 11. 4512)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Nunca Portugal desnudó el acero ni perdió el respeto á sus reyes, porque con entrañable amor los ama, y si alguna vez excluyó á alguno y admitió á otro, fue porque amaba al uno y aborrecía al otro por sus malos procedimientos.»",
+                  "autor": "Saav.",
+                  "referencia_obra": "Emp. 38 (R. 25. 971)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Siempre ha habido | En dos que se crían juntos, | Un linaje de cariño | Que, aunque es amar, no es querer; | Que en el querer es preciso | Que haya deseos; y amores | Sin deseos hay infinitos.»",
+                  "autor": "",
+                  "referencia_obra": "Mto. Antíoco y Seleuco, 1. 3 (R. 39. 411)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Tal vez es ésta, señor, la primera vez en que se culpa á un escritor de que ame fuertemente á su patria.»",
+                  "autor": "Quint.",
+                  "referencia_obra": "Obr. inéd. p. 78."
+                }
+              ]
             },
             {
-              "texto_cita": "«Con esa manera de amor he oído yo predicar que se ha de amar á nuestro Señor, por sí solo sin que nos mueva esperanza de gloria ó temor de pena.»",
-              "autor": "",
-              "referencia_obra": "Id. Quij. 1. 31 (R. 1. 3371)."
+              "id_limpio": "—",
+              "definicion": "Aplicado por extensión á los animales.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«En bosques y florestas | Aman las fieras, y en las ondas aman | Las orcas graves y el delfín ligero.»",
+                  "autor": "Quint.",
+                  "referencia_obra": "Poes. Past. Fido (R. 19. 211)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Los que de veras aman á Dios, todo lo bueno aman, todo lo bueno quieren, todo lo bueno favorecen, todo lo bueno loan, con los buenos se juntan siempre, y los favorecen y defienden; no aman sino verdades y cosas que sean dignas de amar.»",
-              "autor": "Sta. Ter.",
-              "referencia_obra": "Cam. perf. 40 (R. 53. 3711). — Significando el amor fundado en la caridad cristiana."
-            },
-            {
-              "texto_cita": "«No sabré determinar con qué ganó más ánimas para Cristo, si con las palabras de su doctrina ó con la grandeza de la caridad y amor, acompañada de buenas obras, que á todos mostraba; porque así los amaba y así se acomodaba á las necesidades de todos como si fuera padre de todos.»",
-              "autor": "Gran.",
-              "referencia_obra": "Vida de Áv., 2, § 4 (R. 11. 4552)."
-            },
-            {
-              "texto_cita": "«Oh Salvador dulcísimo, yo propongo con vuestra gracia de amar á mi prójimo como vos nos amasteis, compadeciéndome de ellos como vos os campadecisteis de nosotros.»",
-              "autor": "Puente",
-              "referencia_obra": ", Medit. 3. 50 (2. 301). — Significando otras maneras de amor en la familia ó en la vida social."
-            },
-            {
-              "texto_cita": "«Tu Dios y Señor te trajo de Egipto por todo este camino de la manera que el padre amoroso trae en sus brazos el niño que regalada y tiernamente ama.»",
-              "autor": "Gran.",
-              "referencia_obra": "serm. Pentec, (R. 11. 201)."
-            },
-            {
-              "texto_cita": "«Comenzó á estudiar las artes, y fue su maestro en ellas el P. Fr. Domingo de Soto, el cual, vista la delicadeza de su ingenio, acompañada con mucha virtud, lo amaba mucho.»",
-              "autor": "Gran.",
-              "referencia_obra": "Vida de Áv., 1 (R. 11. 4512)."
-            },
-            {
-              "texto_cita": "«Nunca Portugal desnudó el acero ni perdió el respeto á sus reyes, porque con entrañable amor los ama, y si alguna vez excluyó á alguno y admitió á otro, fue porque amaba al uno y aborrecía al otro por sus malos procedimientos.»",
-              "autor": "Saav.",
-              "referencia_obra": "Emp. 38 (R. 25. 971)."
-            },
-            {
-              "texto_cita": "«Siempre ha habido | En dos que se crían juntos, | Un linaje de cariño | Que, aunque es amar, no es querer; | Que en el querer es preciso | Que haya deseos; y amores | Sin deseos hay infinitos.»",
-              "autor": "",
-              "referencia_obra": "Mto. Antíoco y Seleuco, 1. 3 (R. 39. 411)."
-            },
-            {
-              "texto_cita": "«Tal vez es ésta, señor, la primera vez en que se culpa á un escritor de que ame fuertemente á su patria.»",
-              "autor": "Quint.",
-              "referencia_obra": "Obr. inéd. p. 78. — Aplicado por extensión á los animales."
-            },
-            {
-              "texto_cita": "«En bosques y florestas | Aman las fieras, y en las ondas aman | Las orcas graves y el delfín ligero.»",
-              "autor": "Quint.",
-              "referencia_obra": "Poes. Past. Fido (R. 19. 211). —"
-            },
-            {
-              "texto_cita": "«Quien feo ama, hermoso le parece»",
-              "autor": "Acad.",
-              "referencia_obra": "Dicc."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Quien feo ama, hermoso le parece»",
+                  "autor": "Acad.",
+                  "referencia_obra": "Dicc."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -99,55 +162,76 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl. y recípr.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Cómo podrá el hombre amar de corazón á Dios, su criador y bienhechor, sin que se ame á sí mismo como criatura suya y objeto señalado de su amor?»",
                   "autor": "Jovell.",
                   "referencia_obra": "Trat. de enseñanza, moral relig. (R. 46. 2631)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Un mandamiento nuevo os doy: Que os améis los unos á los otros, así como yo os he amado, para que vosotros os améis también entre vosotros mismos. En esto conocerán todos que sois mis discípulos, si tuviereis caridad entre vosotros.»",
                   "autor": "Scío",
                   "referencia_obra": ", S. Juan, 13. 34 y 35."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Todo el reino de CastilIa se puso al lado del infante don Enrique contra el rey don Pedro el Cruel, porque aquél era amado y éste aborrecido.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 38 (R. 25. 962)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El amante, conforme la casta voluntad de la cosa amada, la suya templa.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Gal. 4 (R. 1. 591)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Amada del Señor, flor venturosa, | Llena de amor murió y de juventud.»",
                   "autor": "Espronc.",
-                  "referencia_obra": "Estud. de Salam. 2. — Sustantivamente."
-                },
+                  "referencia_obra": "Estud. de Salam. 2."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Conjúroos ¡oh hijas de Jerusalén! si sabréis de mi amado, que le digáis, que desfallezco de amor. --- Ven, amado mío, y salgamos al campo.»",
-                  "autor": "León",
-                  "referencia_obra": ", Nomb. 3, Amado (R. 37. 1962)."
-                },
-                {
-                  "texto_cita": "«¡Oh mi suave descanso de los amadores de mi Dios! No faltéis á quien os ama, pues por vos ha de crecer y mitigarse el tormento que causa el amado al alma que le desea.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Exclam. 15 (R. 53. 4981)."
+                  "id_limpio": "—",
+                  "definicion": "Sustantivamente.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Conjúroos ¡oh hijas de Jerusalén! si sabréis de mi amado, que le digáis, que desfallezco de amor. --- Ven, amado mío, y salgamos al campo.»",
+                      "autor": "León",
+                      "referencia_obra": ", Nomb. 3, Amado (R. 37. 1962)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«¡Oh mi suave descanso de los amadores de mi Dios! No faltéis á quien os ama, pues por vos ha de crecer y mitigarse el tormento que causa el amado al alma que le desea.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Exclam. 15 (R. 53. 4981)."
+                    }
+                  ]
                 }
               ]
             }
@@ -157,35 +241,43 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con de, que expresa como la fuente ó el origen del amor.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Amarás al Señor tu Dios de todo tu corazón, y de toda tu alma, y de todo tu entendimiento.»",
               "autor": "Scío",
               "referencia_obra": ", S. Mat. 22. 37."
             },
             {
+              "marca": "",
               "texto_cita": "«El que de verdad y de todo corazón ama á Dios, desea también con el mismo ímpetu y fuerza agradarle.»",
               "autor": "",
               "referencia_obra": "Gran. Modo de cateq. 9 (R. 8. 6092)."
             },
             {
+              "marca": "",
               "texto_cita": "«La bella Guacolda enaniorada | A quien él de encendido amor amaba.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 13 (R. 17. 541)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "El uso de esta prep. está circunscrito á casos como los anteriores, y, salvo el compl. de corazón, se dice más á menudo con: Amar con pasión.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Amarás al Señor Dios tuyo con todo tu corazón, y con toda tu alma, y con toda tu fuerza.»",
                   "autor": "Scío",
                   "referencia_obra": ", Deut. 6. 5."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -193,59 +285,80 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Para denotar la reducción de los demás amores á la caridad perfecta, se dice amar en Dios, por Dios.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si las ánimas te agradan, ámalas en Dios, porque también ellas en sí son inudables, y fijas en Dios son estables, y de otra manera perecerían. Amalas pues en él y arrebata cuantas pudieres para él.»",
               "autor": "Rivad.",
               "referencia_obra": "Conf. de S. Agust. 4. 12."
             },
             {
+              "marca": "",
               "texto_cita": "«Solo Jesús se debe amar singularísimamente, porque él solo se halla bueno y fidelísimo más que todos los amigos. Por él y en él debes amar los amigos y los enemigos, y rogarle por todos, para que le conozcan y amen.»",
               "autor": "Gran.",
               "referencia_obra": "Imit. 2. 8 (R. 11. 3942)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Bien ama quien nunca olvida:»",
               "autor": "Comend. Griego",
               "referencia_obra": ". Hoy suele decirse:"
             },
             {
+              "marca": "",
               "texto_cita": "«Quien bien ama, tarde olvida.»",
               "autor": "",
               "referencia_obra": ""
             },
             {
+              "marca": "",
               "texto_cita": "«Carmen | Tiene ya su quebradero | De cabeza. ¿No es así? | Y --- como dice el proverbio, | Quien bien ama, tarde olvida.»",
               "autor": "Bretón",
-              "referencia_obra": ", A Madrid me vuelvo, 3. 6 (1. 90). —"
-            },
+              "referencia_obra": ", A Madrid me vuelvo, 3. 6 (1. 90)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Aquel ama de veras que rompe por todo; que ningún estorbo le puede hacer que no ame; que no tiene otro bien sino al que ama.»",
-              "autor": "León",
-              "referencia_obra": ", Nomb. 3, Amado (R. 37. 1941)."
-            },
-            {
-              "texto_cita": "«Dice un común proverbio nuestro: quien bien ama, teme.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Gal. 3 (R. 1. 452)."
-            },
-            {
-              "texto_cita": "«Todo el tiempo se pierde | Que en amar no se gasta.»",
-              "autor": "Jáur.",
-              "referencia_obra": "Aminta, 1 (R. 42. 1331)."
-            },
-            {
-              "texto_cita": "«Alma celeste para amar nacida, | Era el amor de su vivir la fuente.»",
-              "autor": "Espronc.",
-              "referencia_obra": "Estud. de Salam. 2."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Aquel ama de veras que rompe por todo; que ningún estorbo le puede hacer que no ame; que no tiene otro bien sino al que ama.»",
+                  "autor": "León",
+                  "referencia_obra": ", Nomb. 3, Amado (R. 37. 1941)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Dice un común proverbio nuestro: quien bien ama, teme.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Gal. 3 (R. 1. 452)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Todo el tiempo se pierde | Que en amar no se gasta.»",
+                  "autor": "Jáur.",
+                  "referencia_obra": "Aminta, 1 (R. 42. 1331)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Alma celeste para amar nacida, | Era el amor de su vivir la fuente.»",
+                  "autor": "Espronc.",
+                  "referencia_obra": "Estud. de Salam. 2."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -255,66 +368,81 @@
     {
       "id": "b)",
       "definicion": "Con acus. de cosa, para significar la inclinación vehemente del ánimo á poseer ó disfrutar los objetos que nos atraen por su bondad ó su belleza, ó por la conformidad que ofrecen con nuestro carácter ó nuestros gustos.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Desde mis tiernos años amé el arte | Dulce de la agradable poesía.»",
               "autor": "Cerv.",
               "referencia_obra": "Viaje, 4 (R. 1. 6881)."
             },
             {
+              "marca": "",
               "texto_cita": "«Perdonad los pecadores, hacedlos participantes de mis trabajos y de mi muerte. Decidles que no amen la vanidad, y las cosas transitorias, y las riquezas perecederas.»",
               "autor": "Gran.",
               "referencia_obra": "serm. Ascens. § 1 (R. 11. 162)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si [es] meláncolico, aborrece la compañía, ama la soledad.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 1 (R. 25. 102)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ame el trabajo, y acrecentará su casa.»",
               "autor": "León",
               "referencia_obra": ", Perf. cas. 10 (R. 37. 2252)."
             },
             {
+              "marca": "",
               "texto_cita": "«Amó el silencio con tal extremo que nunca se detuvo en corrillos ni conversación de otros religiosos ni seglares, si no fuese tratando de caridad ó de obediencia, ó consolando algún afligido.»",
               "autor": "Quev.",
               "referencia_obra": "Vida de S. Tomás de Villan. 2 (R. 48. 602)."
             },
             {
+              "marca": "",
               "texto_cita": "«No infieras de esto que amaré el reposo | Estrechado á la aldea, huyendo el trato | A la vida política forzoso.»",
               "autor": "B. Argens.",
               "referencia_obra": "epíst. Para ver acosar (R. 42. 3032)."
             },
             {
+              "marca": "",
               "texto_cita": "«No dejes el lugar que tanto amaste.»",
               "autor": "Garcil.",
               "referencia_obra": "égl. 1 (R. 32. 42)."
             },
             {
+              "marca": "",
               "texto_cita": "«Sólo un sér de desvelos y dolores | Ama tu yerta luz.»",
               "autor": "Pastor Díaz",
               "referencia_obra": ", A la luna."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Naturalmente se ama la libertad, y la parte de animal que está en el hombre es inobediente á la razón.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 38 (R. 25. 981)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -323,47 +451,58 @@
     {
       "id": "c)",
       "definicion": "Con acus. de cosa, significa también el apego que naturalmente tenemos á lo que nos pertenece y (con menos frecuencia) el aprecio que se hace de alguna cosa ó la complacencia que en ella se encuentra. Esta aplicación se miraría hoy como galicismo.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Como el hombre naturalmente ame á sí mismo con grande amor, síguese que ha de amar también sus cosas como bienes propios que le pertenecen. Y por esta razón cada uno ama su casa, y su viña, y su dinero --- y finalmente todo lo que es suyo, porque todo esto sirve para su bien.»",
               "autor": "Gran.",
               "referencia_obra": "Adic. al Mem. 2. 14, consid. 7 (R. 8. 4902)."
             },
             {
+              "marca": "",
               "texto_cita": "«El príncipe, que, reconocido el daño de sus resoluciones, las deja correr, más ama su opinión que el bien público.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 65 (R. 25. 1781)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ama en los demás el rigor de la justicia y en sí le aborrece.»",
               "autor": "",
               "referencia_obra": "Id. Emp. 46 (R. 25. 1151)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Menos aceptable parecería hoy su empleo con infin.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Es estado de amor y de paz, porque se hermanan en él las dos partes, del alma que decimos, y el sentido ama servir á la razón, y Jacob y Esaú se hacen amigos.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 3, Hijo (R. 37. 1792)."
             },
             {
+              "marca": "",
               "texto_cita": "«Primero que hablemos con el entendimiento y le descubramos lo que este oficio es, con todas sus cualidades y partes, convendrá que inclinemos la voluntad á que ame el saberlas, y á que sabidas, se quiera aplicar á ellas.»",
               "autor": "",
               "referencia_obra": "Id. Perf. cas. introd. (R. 37. 2122)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -371,47 +510,58 @@
     {
       "id": "d)",
       "definicion": "met. Con suj. de cosa.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Es difícil empresa contener dentro del pecho á un espíritu generoso, llama que se descubre por todas partes y que ama la materia en que encenderse.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 10 (R. 25. 322)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ama el sembrado el agua, sigue amigo | La rama el cabritillo destetado.»",
               "autor": "León",
               "referencia_obra": ", Poes. 2, égl. 3 (R. 37. 211)."
             },
             {
+              "marca": "",
               "texto_cita": "«De amor la viva llama --- | Los medios huye, los extremos ama.»",
               "autor": "L. Argens.",
               "referencia_obra": "son. 11 (R. 42. 2631)."
             },
             {
+              "marca": "",
               "texto_cita": "«También aman los árboles y plantas. | Mirar puedes la vid con cuánto afecto | Y con cuántos abrazos repetidos | A su marido enlaza. | Ama un abeto al otro, el pino al pino.»",
               "autor": "Jáur.",
               "referencia_obra": "Aminta, 1 (R. 42. 1341)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "En no representándose el nombre de cosa como que efectivamente ama, es decir, en no habiendo metáfora inmediata, este uso es un verdadero galicismo; v. gra.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Dificulto que el país de la presente aventura lleve adelfas, las cuales aman los países cálidos, y creciendo espontáneamente en nuestras provincias meridionales desaparecen en las interiores de la península.»",
               "autor": "Clem.",
               "referencia_obra": "Coment. 1, p. 257."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -419,7 +569,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. (Es muy frecuente la construcción con infin.). — Siglo XV: «Aquel de buenos abrigo, | Amado por virtuoso | De la gente.» J. Manr. Coplas (Fern. 16. 55). «Sabia que eran suyos é le amaban hacer placer é servicio.» Crón. Juan II, 1. 37 (R. 68. 2922). «Ama, é serás amado.» Santill. p. 29. «Como aquel que todas oras | Vos amó servir de grado.» Id. p. 408. «A mí por vestro acorred, | Pues que vos amo servir.» Canc. de Baena, p. 161. «Te amo onrrar é servir.» lb. p.137.\n\n— Siglo XIV: «Entendió que los que primero la amaban servir, é en quien tenia esfuerzo, la desamparaban.» Crón. Pedro I, 1. 3 (R. 66. 4051). «Eran los omes del mundo que mas amaban servir é consejar al rey.» Crón. Alf. X, 48 (R. 66. 362). «Era casado con Romayquia, et amábala muy mas que á cosa del mundo.» J. Man. C. Luc. 14 (R. 51. 4012).\n\n— Siglo XIII: «El mayor poderio et mas complido que el emperador puede haber de fecho en su señorio es quando él ama á su gente et éI es amado della.» Part. 2. 1. 3 (2. 6). «Como el padre que ama su fijo et le puña de guardar porque viva et dure en buen estado.» Part. 1. 15, preámb. (1. 399). «Como quier que él amara los suyos en este mundo, á la fin mostró que los amaba mas.» Part. 1. 4. 37 (1. 92). «Creyendo bien en él [en Dios], por derecho conviene que lo amen et que lo honren et lo teman, amándole por la bondat que en él ha et otrosí por el bien que nos face.» Part. 1. 1. 7 (1. 16). «Muestran [las leyes] como los omes se amen unos a otros, queriendo el uno para el otro su derecho guardandose del non fazer lo que non querie quel feziesen.» Espéc. 4. 1. 6 (O. L. 1. 4). «El malo non ama á los buenos nin á los que facen las obras de Dios.» Cal. é Dymna (R. 51. 401). «Si aquellos aman la tierra, que se ponen á muerte por la defender, ¿por qué non diremos nos que aquellos que la non quieren vengar que la non aman?» Fuero Juzgo, 9. 2. 8 (159). «Por esto conucerant los omnes que sodes mios disciplos, si vos amardes entre vos.» Ib. preámb. 9 (IX). «Fizo pora los bonos que lo aman a seruir --- | El regno del parayso.» Alex. 2172 (R. 57. 2141). «Plogo-me quando oue ante ti a uenir, | Ca se que amarás derecho departir.» Ib. 341 (R. 57. 1581). «Semeia que non amas gozo nin alegria.» Appoll. 168 (R. 57. 2891) «Temido de los moros, de christianos amado.» Berc. S. Dom. 761 (R. 57. 641). «Despidióse de todos los sus fraires queridos, | Los que bien lo amaban, fincaban doloridos.» Id. ib. 104 (R. 57. 431). «Amaba desti mundo seer desembargado --- | Bien amarie que fuese su corso acabado.» Id. S. Mill. 34 (R. 57. 661). «Non te podi servir, | Pero amete siempre laudar e bendecir.» Id. Mil. 522 (R. 57. 1192). «Amó a la Gloriosa siempre façer serviçio» Id. ib. 462 (R. 57. 1172). «Non amaba oir palabras de vanidat.» Id. S. Oria, 22 (R. 57. 1382). «Mas ama con los sanos jugar | Que los enfermos visitar.» S. M. Egipc. (R. 57. 3082). «Alegre fue Myo Cid, que nunqua mas nin tanto, | Ca de lo que mas amaba yal viene el mandado.» Cid, 1563 (R. 57. 182).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Port., cat., prov. amar, fr. ant. amer, hoy aimer; it. amare, del lat. amare. La opinión más recibida es que corresponde al sansc. kam, amar, desear, mediante la desaparición de la gutural, como en ubi, unde, etc. Pott sugiere que la k hubo de convertirse primeramente en qu, y perdida la q (cp. venio = gam), la v se desvaneció por disimilacion, á causa de la m siguiente. (Pott, WWb. 2. 2. 156; Vanicek, Gr. lat. etym. Wb. 117, etc). Entre otras explicaciones que se han presentado ofrece interés la de Pictet, quien refiere nuestro verbo al sansc. am, estar enfermo; idea que coincide con la manera en que los romanos solían considerar el amor: «Medea animo aegra, amore saevo saucia.» Enio. Véase Caro, Virgilio, 1. LXV.\n\n\u0000",
+  "etimologia": "Etim. Port., cat., prov. <i>amar</i>, fr. ant. <i>amer</i>, hoy<i> aimer; </i>it. <i>amare, </i>del lat. <i>amare</i>. La opinión más recibida es que corresponde al sansc. <i>kam</i>, amar, desear, mediante la desaparición de la gutural, como en <i>ubi</i>, <i>unde</i><i>, </i>etc. Pott sugiere que la <i>k</i> hubo de convertirse primeramente en <i>qu</i>, y perdida la <i>q</i> (cp. <i>venio </i>= <i>gam</i>), la <i>v</i> se desvaneció por disimilacion, á causa de la <i>m</i> siguiente. (Pott, <i>WWb</i>. 2. 2. 156; Vanicek, <i>Gr. lat. etym. Wb. </i>117, etc). Entre otras explicaciones que se han presentado ofrece interés la de Pictet, quien refiere nuestro verbo al sansc. <i>am</i>, estar enfermo; idea que coincide con la manera en que los romanos solían considerar el amor: «Medea animo aegra, amore saevo saucia.» Enio. Véase Caro, <i>Virgilio</i>, 1. LXV.",
   "nota": "",
   "forma": "",
   "ortografia": "",

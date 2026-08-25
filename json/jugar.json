@@ -1,122 +1,191 @@
 {
   "lema": "JUGAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, a) hacer algo con el solo fin de entretenerse o divertirse (Dicho del viento, Agitar: γ; Aplicado al lenguaje y a las ideas, Manejar con facilidad y destreza: δ ), b) tomar parte en juego con reglas (Manejar diestramente una cosa: δ ), c) tomar parte en juegos de azar como inclinación viciosa (Apostar, perder: ε; Arriesgar la vida: ζ; Decidir: η ), d) burlar, tratar a una persona o cosa sin darle la importancia que merece;\n\n— 2, a) funcionar, b) hablando de armas, disparar o usar de ellas, c) tratándose de los miembros corporales, usar de ellos dándoles el movimiento que les es natural, d) intervenir, participar, e) imaginarse, representarse idealmente una cosa (Desempeñar, representar: β ).",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, a) hacer algo con el solo fin de entretenerse o divertirse (Dicho del viento, Agitar: γ; Aplicado al lenguaje y a las ideas, Manejar con facilidad y destreza: δ ), b) tomar parte en juego con reglas (Manejar diestramente una cosa: δ ), c) tomar parte en juegos de azar como inclinación viciosa (Apostar, perder: ε; Arriesgar la vida: ζ; Decidir: η ), d) burlar, tratar a una persona o cosa sin darle la importancia que merece;\n\n— 2, a) funcionar, b) hablando de armas, disparar o usar de ellas, c) tratándose de los miembros corporales, usar de ellos dándoles el movimiento que les es natural, d) intervenir, participar, e) imaginarse, representarse idealmente una cosa (Desempeñar, representar: β ).",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Hacer algo con el solo fin de entretenerse o divertirse (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Juegan y ríen los niños, sólo a medias sumergidos en la realidad.»",
               "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 79. X"
+              "referencia_obra": ", Motivos de Proteo, p. 79."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero esto es por jugar, y el tema de mis jardines es demasiado serio.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 237."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, que señala: — el lugar. +",
-              "ejemplos_citas": [
+              "definicion": "Con a, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Representa el mismo poeta a Galatea jugando a orillas del mar.»",
-                  "autor": "",
-                  "referencia_obra": "M. de la Rosa, Anot. a la Poét. 4. 14 (1. 193). X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Representa el mismo poeta a Galatea jugando a orillas del mar.»",
+                      "autor": "",
+                      "referencia_obra": "M. de la Rosa, Anot. a la Poét. 4. 14 (1. 193)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ellas van a jugar al cuarto de la costura.»",
+                      "autor": "Cepeda",
+                      "referencia_obra": ", Casa grande, p. 106."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Ellas van a jugar al cuarto de la costura.»",
-                  "autor": "Cepeda",
-                  "referencia_obra": ", Casa grande, p. 106. — La clase de juego. X"
+                  "id_limpio": "—",
+                  "definicion": "La clase de juego.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Me extraña esa alegría. Si tú jugaste a vender y yo a comprar, es mala noticia para ti.»",
+                      "autor": "Casona",
+                      "referencia_obra": ", La barca sin pescador, p. 112."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Podríamos jugar a las batallas navales en la mesa de cedro de la Sala del Directorio.»",
+                      "autor": "Onetti",
+                      "referencia_obra": ", El astillero, p. 69."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Me extraña esa alegría. Si tú jugaste a vender y yo a comprar, es mala noticia para ti.»",
-                  "autor": "Casona",
-                  "referencia_obra": ", La barca sin pescador, p. 112. X"
-                },
-                {
-                  "texto_cita": "«Podríamos jugar a las batallas navales en la mesa de cedro de la Sala del Directorio.»",
-                  "autor": "Onetti",
-                  "referencia_obra": ", El astillero, p. 69. — Además con la prep. con, que señala el medio o la compañía. +"
-                },
-                {
-                  "texto_cita": "«Le cortaban [al venado] los cuernos, y estando sin ellos jugaban los muchachos con él al toro.»",
-                  "autor": "Cobo",
-                  "referencia_obra": ", Hist. Nuevo Mundo, 1. 9. 56 (R. 91. 3642)."
-                },
-                {
-                  "texto_cita": "«Comprábale estampas, enseñábale a luchar, jugaba con él al toro y entreteníale siempre.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Buscón (R. 23. 4872)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, que señala el medio o la compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Le cortaban [al venado] los cuernos, y estando sin ellos jugaban los muchachos con él al toro.»",
+                      "autor": "Cobo",
+                      "referencia_obra": ", Hist. Nuevo Mundo, 1. 9. 56 (R. 91. 3642)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Comprábale estampas, enseñábale a luchar, jugaba con él al toro y entreteníale siempre.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Buscón (R. 23. 4872)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, que indica: — el medio. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, que indica:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Nympha hermosa, no te vea | Jugar con el mar horrendo, | Y aunque más plazer te sea, | Huye del mar.»",
-                  "autor": "Gil Polo",
-                  "referencia_obra": ", Diana (Cl. C. 135. 128)."
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Nympha hermosa, no te vea | Jugar con el mar horrendo, | Y aunque más plazer te sea, | Huye del mar.»",
+                      "autor": "Gil Polo",
+                      "referencia_obra": ", Diana (Cl. C. 135. 128)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«¿Qué trabajo no paga el niño a la madre cuando ella le tiene en el regazo desnudo, cuando él juega con la teta, cuando la hiere con la manecilla, cuando la mira con risa, cuando gorjea?»",
+                      "autor": "León",
+                      "referencia_obra": ", Perf. cas. 18 (3. 509)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y déjale engordar un poco para comerle después, y juega con él como el gato con el ratón, que le suelta, le prende, y al fin le degüella.»",
+                      "autor": "",
+                      "referencia_obra": "Id. Expos. de Job, 24 (2. 44)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Sacando unos corales de la faltriquera, hizo como que jugaba con ellos y de allí a poco fingió que le faltaba un relicario que tenía engarzado en ellos.»",
+                      "autor": "Alemán",
+                      "referencia_obra": ", Guzmán, 1. 2. 8 (Cl. C. 83. 127)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Daniel, se había entretenido en jugar con una cadena de pelo que tenía al cuello.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 2 (p. 203)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿De suerte que estamos en la crisis? —dijo Mandeville, jugando con sus uñas, como era su costumbre.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 5 (p. 571)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Mis hijos jugaban con las conchas que arrojaba el mar a la playa.»",
+                      "autor": "Caballero Calderón",
+                      "referencia_obra": ", Ancha es Castilla, p. 166."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Qué trabajo no paga el niño a la madre cuando ella le tiene en el regazo desnudo, cuando él juega con la teta, cuando la hiere con la manecilla, cuando la mira con risa, cuando gorjea?»",
-                  "autor": "León",
-                  "referencia_obra": ", Perf. cas. 18 (3. 509)."
+                  "id_limpio": "—",
+                  "definicion": "La compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«El niño que articula ya palabras | Y con planta segura el suelo huella, | Juega con sus iguales.»",
+                      "autor": "M. de la Rosa",
+                      "referencia_obra": ", Arte poétic. de Horacio (1. 276)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Y déjale engordar un poco para comerle después, y juega con él como el gato con el ratón, que le suelta, le prende, y al fin le degüella.»",
-                  "autor": "",
-                  "referencia_obra": "Id. Expos. de Job, 24 (2. 44). X"
-                },
-                {
-                  "texto_cita": "«Sacando unos corales de la faltriquera, hizo como que jugaba con ellos y de allí a poco fingió que le faltaba un relicario que tenía engarzado en ellos.»",
-                  "autor": "Alemán",
-                  "referencia_obra": ", Guzmán, 1. 2. 8 (Cl. C. 83. 127). X"
-                },
-                {
-                  "texto_cita": "«Daniel, se había entretenido en jugar con una cadena de pelo que tenía al cuello.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 2 (p. 203). X"
-                },
-                {
-                  "texto_cita": "«¿De suerte que estamos en la crisis? —dijo Mandeville, jugando con sus uñas, como era su costumbre.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 5 (p. 571). X"
-                },
-                {
-                  "texto_cita": "«Mis hijos jugaban con las conchas que arrojaba el mar a la playa.»",
-                  "autor": "Caballero Calderón",
-                  "referencia_obra": ", Ancha es Castilla, p. 166. — La compañía."
-                },
-                {
-                  "texto_cita": "«El niño que articula ya palabras | Y con planta segura el suelo huella, | Juega con sus iguales.»",
-                  "autor": "M. de la Rosa",
-                  "referencia_obra": ", Arte poétic. de Horacio (1. 276). — El modo. Además con en. X"
-                },
-                {
-                  "texto_cita": "«Jugaban en la plazoleta | Con una alegría de asueto.»",
-                  "autor": "Guillén",
-                  "referencia_obra": ", Selec. poem. p. 171."
+                  "id_limpio": "—",
+                  "definicion": "El modo. Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Jugaban en la plazoleta | Con una alegría de asueto.»",
+                      "autor": "Guillén",
+                      "referencia_obra": ", Selec. poem. p. 171."
+                    }
+                  ]
                 }
               ]
             },
@@ -124,50 +193,70 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Este buen hombre, jugando de una y otra mano y arqueando las cejas que tenía grandes, con dos rayas entre ellas profundas --- dijo mil disparates.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 1. 18 (R. 18. 4141)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, que señala el lugar. X",
+              "definicion": "Con en, que señala el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ven y entra en las delicias del Parnaso | Do te aguardan muchachos asaz bellos | Qual Villegas, Cetina y Garcilaso, | Y el niño amor jugando en torno de ellos.»",
                   "autor": "Mel.",
-                  "referencia_obra": "Poes. inéd. p. 239. X"
+                  "referencia_obra": "Poes. inéd. p. 239."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En la luz en los ojos chispeante | De un pequeñuelo infante | Que amoroso jugaba en su rodilla.»",
                   "autor": "Ortiz",
-                  "referencia_obra": ", Poes. p. 165. X"
+                  "referencia_obra": ", Poes. p. 165."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Carlos se puso muy contento y lo invitó [al Zapatero] a que jugaran en la calle pero el muchacho le contestó que no, que se quedara callado.»",
                   "autor": "Hoyos",
                   "referencia_obra": ", Tuyo es mi corazón, 10 (p. 129)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con por, que señala el lugar. X",
+              "definicion": "Con por, que señala el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nadie jugaba por las calles y eso lo hizo sentir otra vez triste.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 23 (p. 343). — met. X"
-                },
+                  "referencia_obra": "Id. ib. 23 (p. 343)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Una nueva sonrisa dulce y tierna pasó otra vez jugando por la preciosa boca de la tucumana.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 4 (p. 445)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Una nueva sonrisa dulce y tierna pasó otra vez jugando por la preciosa boca de la tucumana.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 4 (p. 445)."
+                    }
+                  ]
                 }
               ]
             },
@@ -175,99 +264,122 @@
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con sobre. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Juegan sobre tu boca | Las risas halagüeñas.»",
                   "autor": "Jovell.",
                   "referencia_obra": "idil. A Galatea, 2 (R. 46. 121)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Aplicado a los animales. Con la prep. con, para indicar la compañía. X",
+          "definicion": "Aplicado a los animales. Con la prep. con, para indicar la compañía.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Platero juega con Diana, la bella perra blanca.»",
               "autor": "J. R. Jiménez",
-              "referencia_obra": ", Platero y yo, 3 (p. 15). X"
+              "referencia_obra": ", Platero y yo, 3 (p. 15)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo les traigo a Platero para que juegue con ellos.»",
               "autor": "",
               "referencia_obra": "Id. ib. 59 (p. 103)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, que señala la causa. X",
+              "definicion": "Con de, que señala la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La vieja desenganchó los dos borricos del carrito y soltó al perro, que se puso a ladrar y a jugar de contento.»",
                   "autor": "Baroja",
                   "referencia_obra": ", La busca, 3. 6 (p. 167)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en, que señala el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con esta mesma alegría discurren y hierven los peces, y juegan los delfines en la mar.»",
                   "autor": "Gran.",
                   "referencia_obra": "Adic. al Mem. 2. 14, consid. 1 (R. 8. 4712)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "met. Dicho del viento, Agitar. X",
+          "definicion": "met. Dicho del viento, Agitar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Descendimos desde la ardua sierra | Hasta el valle tranquilo | Do juega el viento manso, | Brindándonos las grutas fresco asilo.»",
               "autor": "Querol",
               "referencia_obra": ", Poes. (Cl. C. 160. 145)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Viendo cuál juegan con la mar los vientos | Desde el real mirador estaba un día.»",
                   "autor": "Valb.",
-                  "referencia_obra": "Bern. 18 (R. 17. 3281). X"
+                  "referencia_obra": "Bern. 18 (R. 17. 3281)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ved cuán festivo | El céfiro,en su túnica jugando, | Con los ligeros pliegues | Graciosamente ondea.»",
                   "autor": "Quint.",
                   "referencia_obra": "Poes. (Cl. C. 78. 123)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con por, que señala el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Al jugar por los árboles el viento, | Y el sol dorar sus hojas de esmeralda.»",
                   "autor": "Valb.",
                   "referencia_obra": "Bern. 1 (R. 1. 1461)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -275,30 +387,37 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Aplicado al lenguaje y a las ideas, Manejar con facilidad y destreza.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Todas las obras suyas [de Lope] se hicieron como jugando.»",
               "autor": "Quint.",
               "referencia_obra": "Introd. a la Musa ép. (R. 19. 1681)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Don Luis de Góngora requiebro de las musas y corifeo de las gracias, gran artífice de la lengua castellana y el que supo mejor jugar con ella, y descubrir los donaires de sus equívocos con incomparable agudeza.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Rep. (R. 25. 3971). X"
+                  "referencia_obra": "Rep. (R. 25. 3971)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El hombre juega con las filosofías para distraer la convicción de su ignorancia perdurable.»",
                   "autor": "Azorín",
                   "referencia_obra": ", La voluntad (Cl. Castal. 3. 100)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -306,36 +425,45 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Loc. Jugar de manos:",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Divertirse maltratando a los demás.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y todo el ejército, queriendo vengar la injuria de su señor y lisonjearle, escarneció a Cristo nuestro Señor con mil géneros de injurias --- y es de creer que también jugarían de manos contra él, instigándoles a ello Satanás.»",
                   "autor": "Puente",
                   "referencia_obra": ", Medit. 4. 33 (2. 525)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Ejecutar el arte de prestidigitador.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Como redoma de vidrio en manos de hombre que juega de manos, que la echa muchas veces en alto, que piensan los otros que se ha de caer y hacer cien pedazos.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Epíst. 3. 15 (7. 76)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En jugar de manos no hubo | Otro más sutil y diestro.»",
                   "autor": "Cald.",
                   "referencia_obra": "El astrólogo fingido, 2. 1 (R. 7. 5793)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -344,83 +472,110 @@
     {
       "id": "b)",
       "definicion": "Tomar parte en juego con reglas (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con a, que designa la clase de juego. +",
+          "definicion": "Con a, que designa la clase de juego.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Estando una vez unos muchachos católicos en la calle jugando a la pelota, pasó un hereje a caballo, y la pelota con que jugaban acaso topó en la cabalgadura.»",
               "autor": "Rivad.",
               "referencia_obra": "Trib. 2. 8 (R. 60. 4222)."
             },
             {
+              "marca": "",
               "texto_cita": "«Jugaba a los bolos y a la pelota extremadamente.»",
               "autor": "Cerv.",
               "referencia_obra": "Gitanilla (R. 1. 1111)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si jugares al reino, | Los cientos, o la primera, | Los reyes huyan de ti, | Ases ni sietes no veas.»",
               "autor": "",
               "referencia_obra": "Id. Quij. 2. 57 (R. 1. 5241)."
             },
             {
+              "marca": "",
               "texto_cita": "«Estando jugando al ajedrez, le pronunciaron la sentencia de muerte, y sin turbarse dijo al duque de Brunswick, Ernesto, con quien jugaba, que pasase adelante en el juego.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 33 (R. 25. 871). X"
+              "referencia_obra": "Emp. 33 (R. 25. 871)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Jugaban a la gallina ciega, a fiel derecho y a los batanes, que no hay otra cosa que ver.»",
               "autor": "Isla",
-              "referencia_obra": ", Fr. Ger. 1 (Cl. C. 148. 179). +"
+              "referencia_obra": ", Fr. Ger. 1 (Cl. C. 148. 179)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Desio --- dijo a Toraldo: ¿A qué jugamos?»",
               "autor": "A. Saav.",
-              "referencia_obra": "Masan. 2. 8 (R. 102. 2151). X"
+              "referencia_obra": "Masan. 2. 8 (R. 102. 2151)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Lo guió por los pasillos a media luz y lo hizo entrar en una oficina donde dos hombres jugaban al ajedrez.»",
               "autor": "Onetti",
-              "referencia_obra": ", El astillero, p. 156. — Además con la prep. con, para indicar compañía. X"
-            },
+              "referencia_obra": ", El astillero, p. 156."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Parece que jugáis | Con ellas a la pelota.»",
-              "autor": "Castillejo",
-              "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 186)."
-            },
-            {
-              "texto_cita": "«Comprábale estampas, enseñábale a luchar, jugaba con él al toro y entreteníale siempre.»",
-              "autor": "Quev.",
-              "referencia_obra": "Buscón (R. 23. 4872)."
+              "id_limpio": "—",
+              "definicion": "Además con la prep. con, para indicar compañía.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Parece que jugáis | Con ellas a la pelota.»",
+                  "autor": "Castillejo",
+                  "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 186)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Comprábale estampas, enseñábale a luchar, jugaba con él al toro y entreteníale siempre.»",
+                  "autor": "Quev.",
+                  "referencia_obra": "Buscón (R. 23. 4872)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuéllar, que era terco y se moría por jugar en el equipo, se entrenó tanto en el verano que al año siguiente se ganó el puesto.»",
                   "autor": "Vargas Llosa",
                   "referencia_obra": ", Los cachorros, 1 (p. 40)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿No quería jugar por la selección de la clase?, hermano, para eso había que entrenarse un poco.»",
                   "autor": "Vargas Llosa",
                   "referencia_obra": ", Los cachorros, 1 (p. 39)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -428,48 +583,80 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Más hay que aprender en los naipes, y los juegan luego los niños.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 5 (R. 25. 192). +"
+              "referencia_obra": "Emp. 5 (R. 25. 192)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Cada día de fiesta jugaba [la gente] cañas.»",
               "autor": "Quint.",
-              "referencia_obra": "Balboa (R. 19. 2962). X"
+              "referencia_obra": "Balboa (R. 19. 2962)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se había pasado los tres meses sin ir a las matinés ni a las playas, sólo viendo y jugando fútbol mañana y tarde.»",
               "autor": "Vargas Llosa",
               "referencia_obra": ", Los cachorros, 1 (p. 40)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar: — la compañía. +",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No se le da más tiempo del que Algor tarde en jugar un mate con la hermana.»",
-                  "autor": "J. de Pineda",
-                  "referencia_obra": ", Agr. crist. 8. 10 (R. 162. 1682). X"
+                  "id_limpio": "—",
+                  "definicion": "la compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«No se le da más tiempo del que Algor tarde en jugar un mate con la hermana.»",
+                      "autor": "J. de Pineda",
+                      "referencia_obra": ", Agr. crist. 8. 10 (R. 162. 1682)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Jugando trompo con los cocacolas, pateando pelota en un garaje.»",
+                      "autor": "Vargas Llosa",
+                      "referencia_obra": ", Los cachorros, 6 (p. 90.)"
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Jugando trompo con los cocacolas, pateando pelota en un garaje.»",
-                  "autor": "Vargas Llosa",
-                  "referencia_obra": ", Los cachorros, 6 (p. 90.) — El instrumento. +"
+                  "id_limpio": "—",
+                  "definicion": "El instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Muy primorosa [la bota], muy bella, | Mas para jugar con ella | Un partido de pelota.»",
+                      "autor": "Bretón",
+                      "referencia_obra": ", El pelo de la dehesa, 2. 3 (Cl. C. 92. 165)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Muy primorosa [la bota], muy bella, | Mas para jugar con ella | Un partido de pelota.»",
-                  "autor": "Bretón",
-                  "referencia_obra": ", El pelo de la dehesa, 2. 3 (Cl. C. 92. 165). — El modo."
-                },
-                {
-                  "texto_cita": "«En oyéndola [la misa], había de salir al campo a pie o a caballo, si ya por ser el tiempo lluvioso no se bajaba al juego de la pelota, que la jugaba con agilidad.»",
-                  "autor": "Coloma",
-                  "referencia_obra": ", Guerras de los Est. Bajos, 5 (R. 28. 692)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«En oyéndola [la misa], había de salir al campo a pie o a caballo, si ya por ser el tiempo lluvioso no se bajaba al juego de la pelota, que la jugaba con agilidad.»",
+                      "autor": "Coloma",
+                      "referencia_obra": ", Guerras de los Est. Bajos, 5 (R. 28. 692)."
+                    }
+                  ]
                 }
               ]
             }
@@ -479,26 +666,32 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El quinto cabo y la última pieza que había de jugarse era, que si en los Estados Generales tuviese el duque de Humena tanta mano --- se conformase el de Feria con este acuerdo.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 711)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "En el siguiente ejemplo, Manejar diestramente una cosa. Con la prep. con, para señalar el medio. X",
+          "definicion": "En el siguiente ejemplo, Manejar diestramente una cosa. Con la prep. con, para señalar el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Jardineros italianos trazan el dibujo de las eras, juegan con el agua en cascadas y surtidores.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 7 (p. 114)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -506,140 +699,209 @@
     {
       "id": "c)",
       "definicion": "Tomar parte en juegos de azar como inclinación viciosa (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cuando convida a jugar un conocido a otro, llevándole a parte no sabida, vaya con cuidado, sea en público o en secreto.»",
               "autor": "Espinel",
-              "referencia_obra": ", Escud. 1. 14 (R. 18. 4071). X"
+              "referencia_obra": ", Escud. 1. 14 (R. 18. 4071)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si ellos tomaban el papel de ganchos, para decidir a los curiosos a jugar, les daría una parte en las ganancias.»",
               "autor": "Baroja",
               "referencia_obra": ", La busca, 3. 4 (p. 151)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para señalar la clase de juego. X",
+              "definicion": "Con a, para señalar la clase de juego.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Jugaban algunos hombres a los naipes a las puertas de las tabernas.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, 2. 1 (p. 66). — Además con la prep. con, para señalar la compañía. X"
-                },
+                  "referencia_obra": ", La busca, 2. 1 (p. 66)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Los días de fiesta el escudero prefería pasarlos en su propia covacha, jugando a los naipes con sus amigos.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 29)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para señalar la compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Los días de fiesta el escudero prefería pasarlos en su propia covacha, jugando a los naipes con sus amigos.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 29)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para señalar: — la compañía.",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Solía jugar con menesterosos y se dejaba ganar para que se socorriesen de este modo, y saliesen honrados con el lauro de jugar mejor que él.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Pizarro, nota (R. 19. 3431). — El instrumento. X"
+                  "id_limpio": "—",
+                  "definicion": "la compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Solía jugar con menesterosos y se dejaba ganar para que se socorriesen de este modo, y saliesen honrados con el lauro de jugar mejor que él.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Pizarro, nota (R. 19. 3431)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Competen dos caballeros, | Juegan con una baraja, | Uno lleva la ventaja | E otro los dineros | Del tablero.»",
-                  "autor": "Castillejo",
-                  "referencia_obra": ", Sermón de amores (Cl. C. 72. 80). — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "El instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Competen dos caballeros, | Juegan con una baraja, | Uno lleva la ventaja | E otro los dineros | Del tablero.»",
+                      "autor": "Castillejo",
+                      "referencia_obra": ", Sermón de amores (Cl. C. 72. 80)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Vuesa merced se consuele con que perdió su dinero con el mejor tahúr del mundo, porque no hay otro que juegue con la limpieza y llaneza que él.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Obr. sat. y festiv. (Cl. C. 56. 100). — El medio. X"
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Vuesa merced se consuele con que perdió su dinero con el mejor tahúr del mundo, porque no hay otro que juegue con la limpieza y llaneza que él.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Obr. sat. y festiv. (Cl. C. 56. 100)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¡O cuánto nos ha de espantar el ver que no se quexa este rico avariento del tormento que pasa en los ojos con que miró, --- ni de el de la garganta con que comió, ni de el de las manos con que jugó.»",
-                  "autor": "Guev.",
-                  "referencia_obra": "Epíst. 2. 2 (Cl. Esp. 12. 130). X"
-                },
-                {
-                  "texto_cita": "«Facundo jugaba con fondos ilimitados; no permitió jamás que nadie levantase de la mesa el dinero con que jugaba.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Facundo, 2. 2 (p. 106)."
+                  "id_limpio": "—",
+                  "definicion": "El medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡O cuánto nos ha de espantar el ver que no se quexa este rico avariento del tormento que pasa en los ojos con que miró, --- ni de el de la garganta con que comió, ni de el de las manos con que jugó.»",
+                      "autor": "Guev.",
+                      "referencia_obra": "Epíst. 2. 2 (Cl. Esp. 12. 130)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Facundo jugaba con fondos ilimitados; no permitió jamás que nadie levantase de la mesa el dinero con que jugaba.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Facundo, 2. 2 (p. 106)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de, que señala el modo. X",
+              "definicion": "Con de, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya que falte más lugar | Juegan de pie e de codos | En la mesa.»",
                   "autor": "Castillejo",
                   "referencia_obra": ", Sermón de amores (Cl. C. 72. 84)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con para y una prop. infinitiva que señala la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Jugaban para entretener el tiempo, y jugaban largo, como se ha acostumbrado siempre en América.»",
                   "autor": "Quint.",
                   "referencia_obra": "Pizarro (R. 19. 3522)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con sin. X",
+              "definicion": "Con sin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Facundo jugaba sin lealtad, dicen sus amigos.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Facundo, 2. 2 (p. 106)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Trans. X",
+          "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«EI soldado dijo: --- juguemos hasta cien reales que yo traigo.»",
               "autor": "Quev.",
-              "referencia_obra": "Buscón, 10 (Cl. C. 3. 132). X"
+              "referencia_obra": "Buscón, 10 (Cl. C. 3. 132)."
             },
             {
+              "marca": "X",
               "texto_cita": "«También juegan mucho dinero y otras cosas, juntándose algunos para este efecto en partes secretas y a propósito para ello.»",
               "autor": "Herr.",
               "referencia_obra": "Amparo de pobres (Cl. C. 199. 26)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar la compañía. X",
+              "definicion": "Con la prep. con, para señalar la compañía.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Despacha [Dagoberto] la misa en un cuarto de hora, y se va a jugar naipe con los vecinos.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 3. 17 (p. 305)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -647,163 +909,224 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Prnl. Con en, que señala el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En Algesiras | Se jugó siete mil reales | Que eran de la compañía, | Y por eso estuvo un año | En el fuerte de Chinchilla.»",
               "autor": "Bretón",
               "referencia_obra": ", Los dos sobrinos, 3. 5 (1. 33)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Impers. Con hasta, que señala el límite de la acción. X",
+          "definicion": "Impers. Con hasta, que señala el límite de la acción.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Se bebe y juega hasta el amanecer como en los barrios alegres de París.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 3. 17 (p. 303)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "En los siguientes ejemplos, Apostar, perder. Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Toda su hacienda ha jugado | Y dado a mujeres.»",
               "autor": "Lope",
-              "referencia_obra": ", Las flores de D. Juan, 2. 1 (R. 24. 4171). X"
+              "referencia_obra": ", Las flores de D. Juan, 2. 1 (R. 24. 4171)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Un compañero mío (en Antequera) jugó una noche cuanto tenía.»",
               "autor": "Rojas",
               "referencia_obra": "Villandrando, Viaje entretenido, p. 164."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ni por mar ni por tierra se puede ir sin jugar la vida a los dados.»",
                   "autor": "Mor.",
-                  "referencia_obra": "Obr. póst. (2. 179). X"
+                  "referencia_obra": "Obr. póst. (2. 179)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La túnica de la República Argentina iban a jugarla a los dados.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Recuerdos de Prov. p. 67."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, que señala la compañía. X",
+              "definicion": "Con la prep. con, que señala la compañía.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Hacia el año 1806 vino a Chile con un cargamento de grano de cuenta de sus padres, jugolo con la tropa y los troperos, que eran esclavos de su casa.»",
                   "autor": "",
                   "referencia_obra": "D.F. Sarmiento, Facundo, 21 (p. 84)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por, que señala la causa. X",
+              "definicion": "Con por, que señala la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Llegué a jugar por tu sonrisa clara | Mi último granate, | Y a cambiar por tus manos cariñosas | Mi última promesa.»",
                   "autor": "Victoria",
                   "referencia_obra": ", Cráter sellado, p. 139."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Arriesgar la vida. Trans. X",
+          "definicion": "Arriesgar la vida. Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Juegas tu vida; te entregas en cuerpo y alma a la intriga política.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 2 (p. 214). X"
+              "referencia_obra": ", Amalia, 2 (p. 214)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Juego mi vida! | ¡Bien poco valía! | La llevo perdida! | ¡Sin remedio!»",
               "autor": "Greiff",
-              "referencia_obra": ", Obr. complet. (1. 434). X"
+              "referencia_obra": ", Obr. complet. (1. 434)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Juego mi vida, cambio mi vida | De todos modos | La llevo perdida.»",
               "autor": "",
-              "referencia_obra": "Id. ib. (1. 434). — Con dat. X"
+              "referencia_obra": "Id. ib. (1. 434)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Con dat.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Adolfo, lárgate. Te la estás jugando.»",
+                  "autor": "Sastre",
+                  "referencia_obra": ", Escuadra hacia la muerte (Cl. Castal. 61. 101)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Te importa madre la familia y tu pequeño puesto al aire libre, fuera de la mina, y decides jugártela toda.»",
+                  "autor": "Fuentes",
+                  "referencia_obra": ", Obr. complet. p. 728."
+                }
+              ]
             },
             {
-              "texto_cita": "«Adolfo, lárgate. Te la estás jugando.»",
-              "autor": "Sastre",
-              "referencia_obra": ", Escuadra hacia la muerte (Cl. Castal. 61. 101). X"
-            },
-            {
-              "texto_cita": "«Te importa madre la familia y tu pequeño puesto al aire libre, fuera de la mina, y decides jugártela toda.»",
-              "autor": "Fuentes",
-              "referencia_obra": ", Obr. complet. p. 728. — Con por, que señala la causa. X"
-            },
-            {
-              "texto_cita": "«Cómo me gustaría darle un abrazo, o jugarme la vida por él o prestarle diez veces más dinero del que pueda necesitar.»",
-              "autor": "Onetti",
-              "referencia_obra": ", El astillero, p. 148."
+              "id_limpio": "—",
+              "definicion": "Con por, que señala la causa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Cómo me gustaría darle un abrazo, o jugarme la vida por él o prestarle diez veces más dinero del que pueda necesitar.»",
+                  "autor": "Onetti",
+                  "referencia_obra": ", El astillero, p. 148."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Prnl. X",
+              "definicion": "Prnl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Todos los pormenores --- han sido contados por él, desde el día de la corrida hasta la oración que, mientras el torero se juega la vida en la plaza, eleva en el silencio del hogar la madre angustiada que espera.»",
                   "autor": "Isla",
                   "referencia_obra": ", Púrpura y oro, p. 28."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Impers. Con sobre. +",
+              "definicion": "Impers. Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Mucho va en tener buen natural un médico para bien proceder por su oficio, y más donde se juega sobre la vida del hombre.»",
                   "autor": "J. de Pineda",
                   "referencia_obra": ", Agr. crist. 13. 29 (R. 162. 4791)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Part. +",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Tengo por yerro llevar compañía (en semejantes jornadas ---; que si llama la compañía por pusilánime, lleva la vida jugada que le acompaña).»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 22 (Cl. C. 43. 270). — Con a."
-                },
+                  "referencia_obra": ", Escud. 1. 22 (Cl. C. 43. 270)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¡Valedme, | Cielos, que vida y honor | Van jugadas a una suerte!»",
-                  "autor": "Cald.",
-                  "referencia_obra": "La dama duende, 3. 3 (R. 7. 1822)."
+                  "id_limpio": "—",
+                  "definicion": "Con a.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«¡Valedme, | Cielos, que vida y honor | Van jugadas a una suerte!»",
+                      "autor": "Cald.",
+                      "referencia_obra": "La dama duende, 3. 3 (R. 7. 1822)."
+                    }
+                  ]
                 }
               ]
             }
@@ -812,38 +1135,47 @@
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
-          "definicion": "Decidir. X",
+          "definicion": "Decidir.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Sobre las tablas del tiempo, fue septiembre de 1840 el que jugó el destino de los pueblos del Plata.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 5 (p. 547)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Pas. refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mariana describe el levantamiento de Pelayo, la conquista de Toledo, la batalla de las Navas, en que se jugó a un trance la suerte de la cristiandad de España.»",
                   "autor": "Lista",
                   "referencia_obra": ", Ensayos, 2 (p. 51)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Part. X",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Jugado estaba ya el destino de los pueblos del Plata.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 5 (p. 543)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -851,53 +1183,66 @@
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Jugar el sol en la pared: arriesgar todo lo que se tiene. X",
+              "definicion": "Jugar el sol en la pared: arriesgar todo lo que se tiene.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Señora, de once años fui con mi señora a Granada, que mi padre nos dejó una casa en pleito por ser él muy putañero y jugador, que jugaba el sol en la pared.»",
                   "autor": "Delicado",
                   "referencia_obra": ", La Lozana (Cl. Castal. 13. 49)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Jugar el todo por el todo: arriesgar lo que se tiene. X",
+              "definicion": "Jugar el todo por el todo: arriesgar lo que se tiene.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Creció, pues, el susto de ella, y, jugando el todo por el todo, con la temeridad que sólo poseen los débiles, se acercó a Diego y le rodeó con sus brazos.»",
                   "autor": "Alarcón",
-                  "referencia_obra": ", El escándalo (Cl. C. 178. 253). X"
+                  "referencia_obra": ", El escándalo (Cl. C. 178. 253)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Entretanto, Contreras emprendió el galope más original que viera jamás las serranías norteñas. Vestido de payaso como se hallaba y jugándose el todo por el todo.»",
                   "autor": "Alegría",
                   "referencia_obra": ", El mundo es ancho y ajeno, 3 (p. 125)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Jugar con fuego (candela): exponerse al peligro. X",
+              "definicion": "Jugar con fuego (candela): exponerse al peligro.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Te opones tú? Luego, luego | Logró entrar una [mariposa] y se ardió, | Y así el cristal les mostró | Qué cosa es jugar con fuego.»",
                   "autor": "Pombo",
-                  "referencia_obra": ", Las mejores fáb. p. 26. X"
+                  "referencia_obra": ", Las mejores fáb. p. 26."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Los españoles, a partir de Macanaz y el conde de Peñaflorida, han estado jugando con candela.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 3. 15 (p. 285)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -906,57 +1251,78 @@
     {
       "id": "d)",
       "definicion": "Burlar, tratar a una persona o cosa sin darle la importancia que merece (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con la prep. con, para señalar el objeto burlado. X",
+          "definicion": "Con la prep. con, para señalar el objeto burlado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Tú recibes a burla mis consejos | Fieles, y así con mis palabras juegas.»",
               "autor": "Jáur.",
-              "referencia_obra": "Aminta (Cl. C. 183. 94). X"
+              "referencia_obra": "Aminta (Cl. C. 183. 94)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esto es jugar con el corazón del espectador; es hacerse dueño de él completamente.»",
               "autor": "Larra",
-              "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 115). X"
+              "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 115)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Florencia —en quien ya habrán conocido nuestros lectores al ángel travieso que jugaba con el corazón de Daniel— esperó un momento.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, p. 96. X"
+              "referencia_obra": ", Amalia, p. 96."
             },
             {
+              "marca": "X",
               "texto_cita": "«Florencia, por el amor de Dios, dime que estás jugando conmigo, o dime si es verdad que yo he perdido la cabeza.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 1 (p. 126). +"
+              "referencia_obra": "Id. ib. 1 (p. 126)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Al fin tú te vas a gastar algún dinero y no es cosa de que jueguen contigo esos palurdos.»",
               "autor": "Ganiv.",
-              "referencia_obra": "Pío Cid, 4 (Obr. 2. 34). X"
+              "referencia_obra": "Pío Cid, 4 (Obr. 2. 34)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Pienso en una inmensa danza de la Muerte, frenética, ciega, que juega con nosotros y nos lleva a la Nada!»",
               "autor": "Azorín",
-              "referencia_obra": ", La voluntad (Cl. Castal. 3. 230). X"
+              "referencia_obra": ", La voluntad (Cl. Castal. 3. 230)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vamos, hombre, no te pongas así... —¡Es que esa mujer está jugando conmigo! Es que no es noble jugar así con un hombre como yo.»",
               "autor": "Unamuno",
-              "referencia_obra": ", Abel Sánchez, 1 (p. 18). X"
+              "referencia_obra": ", Abel Sánchez, 1 (p. 18)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Y si fuera tan miserable que hubiese jugado con su amor de usted?...»",
               "autor": "Arniches",
-              "referencia_obra": ", La Srta. de Trévelez, 2 (p. 77). — El medio. X"
-            },
+              "referencia_obra": ", La Srta. de Trévelez, 2 (p. 77)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Mas ya esto no era jugar con las palabras solamente y Rosángela prefirió continuar empleándolas en serio.»",
-              "autor": "Gallegos",
-              "referencia_obra": ", Cantaclaro, p. 187."
+              "id_limpio": "—",
+              "definicion": "El medio.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Mas ya esto no era jugar con las palabras solamente y Rosángela prefirió continuar empleándolas en serio.»",
+                  "autor": "Gallegos",
+                  "referencia_obra": ", Cantaclaro, p. 187."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -964,17 +1330,29 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Impers. X",
+          "definicion": "Impers.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Con los pleitos —amigo Balboa— no se juega!»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Biogr. del Caribe, 1. 4 (p. 70). — Con la prep. con. X"
-            },
+              "referencia_obra": ", Biogr. del Caribe, 1. 4 (p. 70)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«¿Cómo diablos es esto? Pues qué, ¿yo soy un hombre para que se juegue conmigo?»",
-              "autor": "Mármol",
-              "referencia_obra": ", Amalia, 3 (p. 308)."
+              "id_limpio": "—",
+              "definicion": "Con la prep. con.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«¿Cómo diablos es esto? Pues qué, ¿yo soy un hombre para que se juegue conmigo?»",
+                  "autor": "Mármol",
+                  "referencia_obra": ", Amalia, 3 (p. 308)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -983,68 +1361,84 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Jugársela: comportarse de manera desleal. X",
+              "definicion": "Jugársela: comportarse de manera desleal.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Pobrecillo! mucho temo | Que el tal Barón te la juega.»",
                   "autor": "Mor.",
-                  "referencia_obra": "El barón (Obr. 1. 260). X"
+                  "referencia_obra": "El barón (Obr. 1. 260)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«No es mala la cantaleta, | ¡Voto al demonio, que el viejo | Nos la juega de ciruela!»",
                   "autor": "Zamora",
                   "referencia_obra": ", Cada uno es linaje aparte, 3 (R. 49. 5011)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Jugarle una mala pasada (una broma): hacerle bromas o chanzas. X",
+              "definicion": "Jugarle una mala pasada (una broma): hacerle bromas o chanzas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ajeno estaba el pobre de que yo había de jugarle la mala pasada de darla al público.»",
                   "autor": "Valera",
-                  "referencia_obra": ", Pepita Jiménez, p. 148. X"
+                  "referencia_obra": ", Pepita Jiménez, p. 148."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Otras señales evidentes de su recóndita inquina, movieron en mi ánimo deseos vivísimos de jugarle una mala pasada.»",
                   "autor": "",
-                  "referencia_obra": "P. Galdós, Lo prohibido (Cl. Castal. 34. 315). X"
+                  "referencia_obra": "P. Galdós, Lo prohibido (Cl. Castal. 34. 315)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«No hubiera impreso quizás estos apuntes, si mi tío el ex ministro no me hubiera jugado una mala pasada.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, intr. (p. 18). X"
+                  "referencia_obra": ", La busca, intr. (p. 18)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Quiere jugarle una broma a Travesedo, con que nos riamos de lo lindo?»",
                   "autor": "",
-                  "referencia_obra": "Pz. de Ayala, Tinieblas (Cl. C. 36. 212). X"
+                  "referencia_obra": "Pz. de Ayala, Tinieblas (Cl. C. 36. 212)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Estos indios comuneros me han jugado una mala pasada, pero creo que no faltará medio de reducirlos.»",
                   "autor": "Alegría",
                   "referencia_obra": ", El mundo es ancho y ajeno, 8 (p. 352)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Jugar sucio: proceder de mala fe. X",
+              "definicion": "Jugar sucio: proceder de mala fe.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Estarías jugando sucio con la comunidad? Rosendo tembló herido por la incertidumbre y la impotencia.»",
                   "autor": "Alegría",
                   "referencia_obra": ", El mundo es ancho y ajeno, 9 (p. 379)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1053,25 +1447,32 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Funcionar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con para y una prop. infinitiva. X",
+          "definicion": "Con para y una prop. infinitiva.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cada vez que veía [Teresa] a su marido limpiando los dos cañones de la escopeta, cambiando los cartuchos o haciendo jugar la palanca para convencerse de que se abría con suavidad, surgía en su memoria la imagen del presidio.»",
               "autor": "",
               "referencia_obra": "Blasco Ibáñez, La barraca, 10 (p. 282)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1079,83 +1480,111 @@
     {
       "id": "b)",
       "definicion": "Hablando de armas, Dispararlas o usar de ellas (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En asomando el día comenzó a jugar [la artillería], con gran daño de la gente española.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerra de los Est. Bajos, 8 (R. 28. 1082)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Seis días tardó monsieur de la Mota en poner en orden la batería de diez cañones, los cuales comenzaron a jugar a los 22 de julio.»",
                   "autor": "Coloma",
                   "referencia_obra": ", Guerras de los Est. Bajos, 4 (R. 28. 481)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de, para indicar el arma.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Los que se crían para la guerra, se suelen ejercitar en las armas, aprendiendo a jugar dellas.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Símb. 3. 20 (R. 6. 4341). +"
+                  "referencia_obra": "Símb. 3. 20 (R. 6. 4341)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Mira --- cuán gallardamente juegan [los galanes] de lanzas.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 2. 11 (Cl. C. 51. 89)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Asentábale bien el estado real, por ser de buena presencia, de cuerpo grande, de ánimo generoso, muy diestro en las armas, particularmente en jugar de la maza.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 14. 9 (R. 30. 4171)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Señálanse los de África en la destreza de volver y revolver los caballos con toda gentileza, en saltar en ellos, en correllos, en apearse y jugar de las lanzas.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 18. 13 (R. 31. 232)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¡Hi de puta, rapaz, y cuán ligero | Jugaba del bastón a todas partes!»",
                   "autor": "Lope",
                   "referencia_obra": ", El verdadero amante, 3 (R. 24. 161)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El príncipe dormía con la espada colgada a la cabecera de la cama. Enseñole a jugar de ella y de todas armas Maestre Bernal.»",
                   "autor": "Clem.",
                   "referencia_obra": "Elog. de Is. la Cat. ilustr. 14 (Mem. Acad. Hist. 6. 386)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con desde, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Oyó Arnaut esta respuesta y luego cebando el navío por todas partes, comenzó a jugar desde lejos el artillería con tanta priesa, furia y estruendo, que era maravilla.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Gal. 5 (R. 1. 701). — Con la combinación desde... hasta, que señala la duración."
-                },
+                  "referencia_obra": "Gal. 5 (R. 1. 701)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Jugaron diez cañones desde el alba del día de los 8 de setiembre hasta las cuatro de la tarde.»",
-                  "autor": "Coloma",
-                  "referencia_obra": ", Guerras de los Est. Bajos, 2 (R. 28. 191)."
+                  "id_limpio": "—",
+                  "definicion": "Con la combinación desde... hasta, que señala la duración.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Jugaron diez cañones desde el alba del día de los 8 de setiembre hasta las cuatro de la tarde.»",
+                      "autor": "Coloma",
+                      "referencia_obra": ", Guerras de los Est. Bajos, 2 (R. 28. 191)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1163,13 +1592,16 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en, que señala el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En el sitio de Loja jugaron veinte lombardas gruesas.»",
                   "autor": "Clem.",
                   "referencia_obra": "Elog. de Is. la Cat. ilustr. 6 (Mem. Acad. Hist. 6. 170)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1177,111 +1609,135 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Cuál diablo se ha de menear, y revolver en la silla, ni jugar la lanza y adarga?»",
               "autor": "Salazar",
               "referencia_obra": ", Cartas, 2 (R. 62. 2911)."
             },
             {
+              "marca": "",
               "texto_cita": "«Un hombre diestro y que juega bien la rodela tiene seguro el pecho.»",
               "autor": "M. de Chaide",
-              "referencia_obra": ", Magd. 3. 44 (R. 27. 3791). +"
+              "referencia_obra": ", Magd. 3. 44 (R. 27. 3791)."
             },
             {
+              "marca": "+",
               "texto_cita": "«No quiso el de Mondéjar hacer alboroto, ni jugar la artillería.»",
               "autor": "Fuenmayor",
-              "referencia_obra": ", Vida de S. Pío V, 4 (p. 151). X"
+              "referencia_obra": ", Vida de S. Pío V, 4 (p. 151)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Este ligero que sobre aquel caballo juega la espada.»",
               "autor": "Lope",
               "referencia_obra": ", Arcadia (Cl. Castal. 63. 227)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hoy nadie como tú la espada juega.»",
               "autor": "Figueroa",
               "referencia_obra": ", Amarilis, 3 (p. 227)."
             },
             {
+              "marca": "",
               "texto_cita": "«Toca una guitarra que la hace hablar, y sobre todo juega una espada como el más pintado.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 19 (R. 1. 4431)."
             },
             {
+              "marca": "",
               "texto_cita": "«Furioso juega el cortador acero, | Mas poco allí su maña y fuerza importa.»",
               "autor": "Villav.",
               "referencia_obra": "Mosq. 5 (R. 17. 5892)."
             },
             {
+              "marca": "",
               "texto_cita": "«Usaban también un género de dardos que jugaban o despedían según la necesidad.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 1. 19 (R. 28. 2281)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se adelantaron de tropel hasta llegar a distancia que pudieron jugar sus hondas y disparar sus flechas.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 2. 18 (R. 28. 2581). X"
+              "referencia_obra": "Id. ib. 2. 18 (R. 28. 2581)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El joven capitán Emilio Ayala, | Que a varonil edad apenas llega, | Y por su talle y apostura y gala, | Y por el ardimiento con que juega | La espada ---.»",
               "autor": "Bello",
               "referencia_obra": ", Poes. p. 621."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El presto esgrimidor suelto liviano | Juega el fácil bastón con diestra mano.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 9 (R. 17. 391)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Juega, Albano, esa bandera | Con aire y donaire. —¿Cómo? | —Mírame a mí.»",
                   "autor": "Lope",
                   "referencia_obra": ", Contra valor no hay desdicha, 1. 14 (R. 41. 52)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El Fifolgel, con su favor contento, | Su lanza entonces con esfuerzo juega.»",
                   "autor": "Villav.",
                   "referencia_obra": "Mosq. 11 (R. 17. 6161)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En la Jerusalén del Tasso mueve Rinaldo y juega con mucha facilidad un gran madero, rompiendo y derribando con él las puertas de una torre.»",
                   "autor": "Luzán",
                   "referencia_obra": ", Poét. 4. 7 (2. 303)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con desde.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Y no le parecerá que ve a unos jugando desde los muros y torres sus armas o máquinas, o asentando sus tiros al abrigo de sus troneras o saeteras?»",
                   "autor": "Jovell.",
                   "referencia_obra": "Descr. del castillo de Bellver (R. 46. 3951)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Impers. Con de. +",
+          "definicion": "Impers. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«La batalla de Cannas --- dejó [a los embajadores] suspensos y en éxtasis de ver la gallardía con que se jugó de los garrochones.»",
               "autor": "Espinel",
               "referencia_obra": ", Escud. 2. 11 (Cl. C. 51. 92)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1289,46 +1745,57 @@
     {
       "id": "c)",
       "definicion": "Tratándose de los miembros corporales, Usar de ellos dándoles el movimiento que les es natural (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Los dientes de abajo juegan y se menean, cuando hacen su oficio de comer.»",
               "autor": "J. de Pineda",
               "referencia_obra": ", Agr. crist. 10. 9 (R. 162. 2862)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La armazón del cuerpo humano se compone de muchas piezas, y es todo como hecho de gonces, para que así pueda el hombre jugar de todos sus miembros y menearlos sin dificultad.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Símb. 1. 24 (R. 6. 2462). +"
+                  "referencia_obra": "Símb. 1. 24 (R. 6. 2462)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«El brazo en la junctura del hombro juega de muchos y muy diferentes movimientos.»",
                   "autor": "J. de Pineda",
-                  "referencia_obra": ", Agr. crist. 9. 2 (R. 162. 2062). +"
+                  "referencia_obra": ", Agr. crist. 9. 2 (R. 162. 2062)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Un hombre --- jugando del brazo y piedra, tiró a bulto donde había oído el gato, y diome en estas costillas una pedrada, pensando de espantar el gato.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 1. 21 (Cl. C. 43. 257)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y como ellos se defendieron con las manos, cuanto más jugaban dellas, tanto mayor número de abejas acudía.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 3. 15 (R. 18. 4671)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1336,35 +1803,43 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y así de las promesas no curando | Jugaban los talones presurosos.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 9 (R. 17. 382)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Cómo tengo de caminar, desventurado yo, respondió Sancho, que no puedo jugar las choquezuelas, porque me lo impiden estas tablas que tan cosidas tengo con mis carnes?»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 53 (R. 1. 5161). X"
+              "referencia_obra": "Quij. 2. 53 (R. 1. 5161)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Le fue fácil vencer a quienes por no tener donde afirmar los pies, no podían jugar las manos.»",
               "autor": "Feijóo",
               "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 113)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No aguardaban por éstos, mas corriendo | Juegan a mucha priesa los talones.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 6 (R. 17. 271)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1372,33 +1847,40 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Loc. Jugar (de) el vocablo (voz): utilizar las palabras con gracia, decir equívocos.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pues mirad agora cuán gentilmente jugó deste vocablo en una copla D. Antonio de Velasco.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. (Mayáns, 97)."
             },
             {
+              "marca": "",
               "texto_cita": "«Quiso allegar [el demonio] que era este mundo su reino, porque en algunos lugares le llamó Cristo nuestro Redentor príncipe deste mundo, y juega el falsario con el vocablo de príncipe, que le allega en el sentido vulgar en que lo toman los ignorantes.»",
               "autor": "Venegas",
-              "referencia_obra": ", Agonía, 3. 12 (Míst. 3. 74). X"
+              "referencia_obra": ", Agonía, 3. 12 (Míst. 3. 74)."
             },
             {
+              "marca": "X",
               "texto_cita": "«A los de sacristanes, que no hagan los villancicos con Gil ni Pascal, ni jueguen del vocablo ni hagan los pensamientos de tornillo que mudándoles el nombre, se vuelven a cada fiesta.»",
               "autor": "Quev.",
               "referencia_obra": "Buscón, 10 (Cl. C. 5. 126)."
             },
             {
+              "marca": "",
               "texto_cita": "«Fácil es la cifra, y cuerda; | Pero la dificultad | Está en saber entenderla, | Y saber jugar las voces | De modo que a todos vengan.»",
               "autor": "Cald.",
-              "referencia_obra": "El secreto a voces, 2. 6 (R. 7. 4211). X"
+              "referencia_obra": "El secreto a voces, 2. 6 (R. 7. 4211)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Es doble la sutileza cuando se juega de la voz dos veces y se aplica a dos sujetos.»",
               "autor": "Gracián",
               "referencia_obra": ", Agudeza (Cl. Castal. 15. 56)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1406,36 +1888,45 @@
     {
       "id": "d)",
       "definicion": "Intervenir, participar (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En estas calidades del ánimo juega también el acaso, y suele con ellas ser despreciado un príncipe, cuando es infeliz la prudencia y los sucesos no responden a los consejos.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 31 (R. 25. 832)."
             },
             {
+              "marca": "",
               "texto_cita": "«La situación embarazosa en que se hallaba de resultas de sus mentiras, sugirió a Cervantes las gracias y sales de este capítulo en que juegan alternativamente la rusticidad, la malicia y el aturdimiento de Sancho.»",
               "autor": "Clem.",
               "referencia_obra": "Coment. 4, p. 157."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«También en los casos de la fama juega la fortuna, y no corresponde una misma a un mismo hecho.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 29 (Cl. C. 81. 40)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1444,96 +1935,118 @@
     {
       "id": "e)",
       "definicion": "Imaginarse, representarse idealmente una cosa (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con a y una prop. infinitiva, que señala el asunto. X",
+          "definicion": "Con a y una prop. infinitiva, que señala el asunto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Están tan locos como yo, pensó. --- Era como estarse espiando, como verse lejos y desde muchos años antes, --- jugando a leer historias críticas de naufragios evitados, de millones a ganar.»",
               "autor": "Onetti",
-              "referencia_obra": ", El astillero, p. 55. X"
+              "referencia_obra": ", El astillero, p. 55."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mentalmente yo jugaba a sentirme partícula, pero era notoria mi incapacidad para establecer contacto con el Todo.»",
               "autor": "Benedetti",
-              "referencia_obra": ", Cuentos, p. 29. X"
+              "referencia_obra": ", Cuentos, p. 29."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los hombres son extraños, alma mía. Ahora quieren jugar a ser dioses.»",
               "autor": "Arango",
               "referencia_obra": ", Los ratones, 5 (p. 68)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Incapaz de reírse, jugando con la idea de que la entrevista era un sueño o por lo menos una comedia organizada.»",
                   "autor": "Onetti",
                   "referencia_obra": ", El astillero, p. 88."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Desempeñar, representar. Trans. X",
+          "definicion": "Desempeñar, representar. Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Leopoldina jugaba la comedia, pues era acuerdo anterior alejar a las niñas para meter en casa al fugitivo.»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Viva mi dueño, 3. 14 (p. 98)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pues, en efecto, es menester gastar buen humor y tomarlo a risa, y non pigliar fastidio; porque si uno la juega de reflexivo y meditabundo, es hombre muerto, y un muerto es un tonto.»",
                   "autor": "Mor.",
                   "referencia_obra": "Obr. póst. (2. 225)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Forma la expresión jugar un papel. X",
+          "definicion": "Forma la expresión jugar un papel.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Apareció Mariano Maza, jefe de un cuerpo llamado de la Marina: Hombre que más tarde debía jugar un sangriento y repugnante papel en las guerras de Rosas.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 5 (p. 483). X"
+              "referencia_obra": ", Amalia, 5 (p. 483)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Otro concepto de Menéndez y Pelayo, fecundamente desarrollado por la historiografía posterior, es el de que, en el genio español, la improvisación juega un papel preponderante.»",
               "autor": "Díaz-Plaja",
-              "referencia_obra": ", Concepto de la lit. esp. p. 43. X"
+              "referencia_obra": ", Concepto de la lit. esp. p. 43."
             },
             {
+              "marca": "X",
               "texto_cita": "«El golpe de gracia juega ya un papel menos que mediano.»",
               "autor": "Rueda Vargas",
-              "referencia_obra": ", Lentus in umbra, p. 229. X"
+              "referencia_obra": ", Lentus in umbra, p. 229."
             },
             {
+              "marca": "X",
               "texto_cita": "«La hermosa melena que tanto gustaba a las mujeres, jugó otro papel.»",
               "autor": "Amorim",
               "referencia_obra": ", El ladero, p. 22."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1541,12 +2054,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «Quien iuga sobre ropa ajena | Non puede perdido ser.» Canc. de Stúñ. p. 371. «E Dios --- | Delibre esta naue que está tan jugada.» Rim. de Pal. 806 (R. 57. 4512).\n\n— Siglo XIV: «Précianse los marroquiles | De la gineta julgar.» Alf. XI, 447 (R. 57. 5211). «Allý jogauan los que jogar querían, tablas e axedrés e todos los otros juegos.» Plácidas, p. 153. «E ouo (Vitelio) la priuança de Claudio por jugar apuesto las tablas.» Crón. gen. 1. 114 (p. 852). «Quatro çientos marcos de oro jugó una vez a las tablas.» Ib. 1. 111 (p. 802). «Que ninguno non sea osado de jugar a ningún juego de dados ni de tablas a dineros ni sobre pennos.» Cortes de Burgos, 1338 (C. de L. y C. 1. 453). «Non me constesca como el asno contesçió con el blanchete | Que él vio con su sennora jugar en el tapete.» Arc. de Hita, 1374 (R. 57. 2702). «Non me acordé estonçe desta chica parlilla, | Que juga jugando dise el omen grand mansilla.» Id. 896 (R. 57. 2551). «Coidaban que jugaba et todo era reunir.» Id. 335 (R. 57. 2372). «Et pienso que es mejor pasar el tiempo en facer libros, que en jugar los dados o facer otras viles cosas.» J. Man. Libro infin. 26 (R. 51. 2751). «Et otrosí son maneras nadar, et escribir et jugar los juegos apuestos et buenos sin tafurería que pertenescen a los caballeros.» Id. Libro de los est. 1. 5 (R. 51. 2832).\n\n— Siglo XIII: «Non quiera, en tus palabras buenas e con tus malos fechos jugar con Dios, e tenerle en poco, como lo farías con un home vil.» Cast. e docum. 50 (R. 51. 1771). «Et cuando es para fablar como en manera de gasajado, así como para departir o para retraer, o para jugar de palabra, ninguna destas non se debe de facer sinón como conviene.» Part. 2. 9. 29 (2. 85). «Veníe un iudezno natural del logar | Por sabor de los ninnos por con ellos iogar.» Berc. Mil. 355 (R. 57. 1142). «Como ninnos que iogan la pella per los solanos.» Alex. 2026 (R. 57. 2092). «Et tod aquel qui dados iogare zinco maravedís peche.» Muñoz, Fuero de Escalona, año 1226 (p. 492). «Antes los comiença a conffortar | E conbídalos a iugar.» S. M. Egipc. 310 (R. 57. 3101).\n\n— Siglo XII: «Si yo non vujas el moro te jugara mal.» Cid, 3319 (R. 57. 342). «Mal escapan iogados sabet desta razón.» Ib. 3249 (R. 57. 332).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. iocari ‘chancearse’. It. giuocar, fr. jouer, cat. jugar, port. jogar.",
+  "etimologia": "Etim. Del lat.<i> iocari</i> ‘chancearse’. It.<i> giuocar,</i> fr.<i> jouer,</i> cat.<i> jugar,</i> port.<i> jogar.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "Conjug. Presenta las siguientes formas irregulares: juego, -as, -a, -an; juegue, -es, -e, -en; juega (tú).",
-  "construccion_sintactica": "Constr.\n\n— Trans.: 1, b, β - 1, χ, β - 1, χ, ε - 1, χ, ζ - 2, α - 2, β, β - 2, χ, β - 2, ε, β.\n\n— Pασ. ρεφλ.: 1, β, γ - 1, χ, η, α α.\n\n—Prnl.: 1, c, γ - 1, χ, ζ, α α.\n\n— Impers.: 1, c, δ - 1, χ, ζ, β β - 1, d, β - 2, β, γ.\n\n— Iντρανσ.: 1, α, α - 1, β, α - 1, χ, α - 1, δ, α - 2, β, α - 2, χ, α - 2, δ, α - 2, ε, α.\n\n— Pαρτ.: 1, c, ζ, γ γ - 1, c, η, β β.\n\n— Con a: 1, a, α, α α - 1, b, α - 1, χ, α, α α - 1, c, ε, α α - 1, c, ζ, γ γ - 2, b, α, α α - 2, c, β, α α - 2, e, α.\n\n— Cον δατ.: 1, χ, ζ.\n\n— Cον λα πρεπ. χον: εν γενεραλ.\n\n— Cον δε: 1, α, α, γ γ - 1, a, β, α α - 1, c, α, γ γ - 2, b, α, β β - 2, b, γ - 2, χ, α, α α - 2, e, β, α α.\n\n— Con desde: 2, b, α, γ γ - 2, b, β, β β.\n\n— Con la combinación desde... hasta: 2, b, α, γ γ.\n\n— Con en: 1, a, α, β β - 1, a, α, δ δ - 1, a, β, β β - 1, b, α, α α - 1, c, γ - 2, β, α, δ δ - 2, d, α, α α.\n\n— Con hasta: 1, c, δ.\n\n— Cον παρα: 1, χ, α, δ δ - 2, a, α.\n\n— Cον πορ: 1, α, α, ε ε - 1, a, γ, β β - 1, b, α, β β - 1, c, ζ.\n\n— Con sin: 1, c, α, ε ε.\n\n— Con sobre: 1, a, α, ζ ζ - 1, c, ζ, β β.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: 1, b, β - 1, χ, β - 1, χ, ε - 1, χ, ζ - 2, α - 2, β, β - 2, χ, β - 2, ε, β.\n\n— Pασ. ρεφλ.: 1, β, γ - 1, χ, η, α α.\n\n—Prnl.: 1, c, γ - 1, χ, ζ, α α.\n\n— Impers.: 1, c, δ - 1, χ, ζ, β β - 1, d, β - 2, β, γ.\n\n— Iντρανσ.: 1, α, α - 1, β, α - 1, χ, α - 1, δ, α - 2, β, α - 2, χ, α - 2, δ, α - 2, ε, α.\n\n— Pαρτ.: 1, c, ζ, γ γ - 1, c, η, β β.\n\n— Con a: 1, a, α, α α - 1, b, α - 1, χ, α, α α - 1, c, ε, α α - 1, c, ζ, γ γ - 2, b, α, α α - 2, c, β, α α - 2, e, α.\n\n— Cον δατ.: 1, χ, ζ.\n\n— Cον λα πρεπ. χον: εν γενεραλ.\n\n— Cον δε: 1, α, α, γ γ - 1, a, β, α α - 1, c, α, γ γ - 2, b, α, β β - 2, b, γ - 2, χ, α, α α - 2, e, β, α α.\n\n— Con desde: 2, b, α, γ γ - 2, b, β, β β.\n\n— Con la combinación desde... hasta: 2, b, α, γ γ.\n\n— Con en: 1, a, α, β β - 1, a, α, δ δ - 1, a, β, β β - 1, b, α, α α - 1, c, γ - 2, β, α, δ δ - 2, d, α, α α.\n\n— Con hasta: 1, c, δ.\n\n— Cον παρα: 1, χ, α, δ δ - 2, a, α.\n\n— Cον πορ: 1, α, α, ε ε - 1, a, γ, β β - 1, b, α, β β - 1, c, ζ.\n\n— Con sin: 1, c, α, ε ε.\n\n— Con sobre: 1, a, α, ζ ζ - 1, c, ζ, β β.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

@@ -6,68 +6,99 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Contestar, satisfacer a lo que se pregunta (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "El acus. es una prop. indicativa. X",
+          "definicion": "El acus. es una prop. indicativa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El Almirante se escusó de la demanda y, los mensageros tornados, vinieron los señores a las naues, ellos y sus compañas adornados de mucho oro y perlas. Los nuestros preguntando del nacimiento destas riquezas, respondieron que las perlas cogían en sus costas.»",
               "autor": "Pz. de Oliva",
-              "referencia_obra": ", Hist. inu. Ynd. (ICC. 20. 100). X"
+              "referencia_obra": ", Hist. inu. Ynd. (ICC. 20. 100)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los viejos pidieron licencia para irse; diósela luego Monipodio, encargándoles viniesen a dar noticia con toda puntualidad de todó aquello que viese ser útil y conveniente a la comunidad. Respondieron que ellos se lo tenían bien en cuidado, y fuéronse.»",
               "autor": "Cerv.",
               "referencia_obra": "Nov. 1 (Cl. C. 27. 192)."
             },
             {
+              "marca": "",
               "texto_cita": "«Preguntándole [a Solón] qué leyes eran mejores, respondió que aquellas de que usaba el pueblo.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 21 (R. 25. 592). X"
+              "referencia_obra": "Emp. 21 (R. 25. 592)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El estudiante respondió que allí la traía, entendiendo por la riqueza las letras.»",
               "autor": "Zabaleta",
-              "referencia_obra": ", Errores celebr. (Cl. C. 169. 29). X"
+              "referencia_obra": ", Errores celebr. (Cl. C. 169. 29)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tan ineptas me parecieron esas ideas, tan pomposa y tan vasta su exposición, que las relacioné inmediatamente con la literatura; le dije que por qué no las escribía. Previsiblemente respondió que ya lo había hecho.»",
               "autor": "Borges",
-              "referencia_obra": ", El Aleph (El Aleph, p. 158). — Además con dat."
+              "referencia_obra": ", El Aleph (El Aleph, p. 158)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con dat.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Pregúntame Vuestra Reverencia si pienso que vive, pues no le escrivo. Respóndele que no lo olvido, mas guardava mi carta para este tiempo porque en el otro no era menester.»",
+                  "autor": "Ávila",
+                  "referencia_obra": ", Epist. 2 (Cl. C. 11. 28)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Para mí todos son enredos, porque yo vi a ésta todos sus instrumentos, y le pregunté si eran de consideración y me respondió que de ninguna.»",
+                  "autor": "Rojas",
+                  "referencia_obra": "Villandrando, Viaje entretenido, p. 103."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Con una tenue voz insaciable me preguntó en latín el nombre del río que bañaba los muros de la ciudad. Le respondí que era el Egipto, que alimentan las lluvias.»",
+                  "autor": "Borges",
+                  "referencia_obra": ", El inmortal, 1 (El Aleph, p. 9)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Sin embargo, nada dice a mi madre. Acabo por quejarme a ella, y me responde que es hora de estudiar. Vuelvo al Epítome de Gramática, pero me persigue el olor a fibra, a mimbre, a esparto.»",
+                  "autor": "Carpentier",
+                  "referencia_obra": ", Los pasos perdidos, p. 101."
+                }
+              ]
             },
             {
-              "texto_cita": "«Pregúntame Vuestra Reverencia si pienso que vive, pues no le escrivo. Respóndele que no lo olvido, mas guardava mi carta para este tiempo porque en el otro no era menester.»",
-              "autor": "Ávila",
-              "referencia_obra": ", Epist. 2 (Cl. C. 11. 28). X"
-            },
-            {
-              "texto_cita": "«Para mí todos son enredos, porque yo vi a ésta todos sus instrumentos, y le pregunté si eran de consideración y me respondió que de ninguna.»",
-              "autor": "Rojas",
-              "referencia_obra": "Villandrando, Viaje entretenido, p. 103. X"
-            },
-            {
-              "texto_cita": "«Con una tenue voz insaciable me preguntó en latín el nombre del río que bañaba los muros de la ciudad. Le respondí que era el Egipto, que alimentan las lluvias.»",
-              "autor": "Borges",
-              "referencia_obra": ", El inmortal, 1 (El Aleph, p. 9). X"
-            },
-            {
-              "texto_cita": "«Sin embargo, nada dice a mi madre. Acabo por quejarme a ella, y me responde que es hora de estudiar. Vuelvo al Epítome de Gramática, pero me persigue el olor a fibra, a mimbre, a esparto.»",
-              "autor": "Carpentier",
-              "referencia_obra": ", Los pasos perdidos, p. 101. — Además con a, para identificar el tema."
-            },
-            {
-              "texto_cita": "«A eso te respondo que antes creo que son muchos los que en esta parte viven engañados.»",
-              "autor": "Gran.",
-              "referencia_obra": "Orac. y medit. 2. 5 (2. 2802)."
+              "id_limpio": "—",
+              "definicion": "Además con a, para identificar el tema.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«A eso te respondo que antes creo que son muchos los que en esta parte viven engañados.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "Orac. y medit. 2. 5 (2. 2802)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -75,110 +106,164 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "El acus. es una prop. subjuntiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y porque por ventura no fuessen sentidos, Clandestria dixo a la princessa que fuera bien que se fuesse su hermana para su casa con los niños, que ella tendría tanto cuidado dellos como si ella estuviesse en presencia. La princessa aunque con harto dolor que en ver apartar a sus hijos de sí sentía, respondió que fuesse como ella dezía, mas que primero quería que los baptizassen allí como pudiessen y les pusiessen nombres, porque los niños no peligrassen.»",
                   "autor": "Ortúñez de Calahorra",
                   "referencia_obra": ", Espejo, 1 (Cl. C. 193)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "El acus. se presenta en estilo directo. X",
+              "definicion": "El acus. se presenta en estilo directo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Ay, amarga de mí! —respondió Bárbara\". Si la caparroza es para hazer tinta, ¿cómo dezís vos, hermano, que le eche en los guissados?»",
                   "autor": "Avell.",
-                  "referencia_obra": "Quij. 6. 22 (Cl. C. 175. 191). X"
+                  "referencia_obra": "Quij. 6. 22 (Cl. C. 175. 191)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Aquí se puede hablar —murmuró Roberto\". Si viene alguno, avísame. —No tenga usted cuidado —respondió Manuel.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, 3. 3 (p. 145). X"
+                  "referencia_obra": ", La busca, 3. 3 (p. 145)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Nunca me dices que no!... exclamaba Joaquín. —¿Y para qué? —respondía el otro.»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 1 (p. 13). X"
+                  "referencia_obra": ", Abel Sánchez, 1 (p. 13)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y ahora —le respondió Rosa— te vendrás a vivir con nosotros, por supuesto. —¡No, eso no! —respondió súbitamente la otra.»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", La tía Tula, 5 (p. 45). —Además con dat. X"
+                  "referencia_obra": ", La tía Tula, 5 (p. 45)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con dat.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y el Señor le respondió y dijo: Marta, Marta, muy cuidadosa está y en muchas cosas te fatigas. En verdad una sola es necesaria. María ha escogido la mejor parte, que no le será quitada.»",
+                      "autor": "Azorín",
+                      "referencia_obra": ", La voluntad (Cl. Castal. 3. 68)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y me respondió: Entonces ¿para qué Dios?»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Del sen. trág. de la vida, 1 (p. 12)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Yo le respondí entonces: \"Me agrada saberlo. Quiere eso decir que nosotros hablamos como habla el Quijote\".»",
+                      "autor": "Caballero Calderón",
+                      "referencia_obra": ", Ancha es Castilla, p. 293."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Y el Señor le respondió y dijo: Marta, Marta, muy cuidadosa está y en muchas cosas te fatigas. En verdad una sola es necesaria. María ha escogido la mejor parte, que no le será quitada.»",
-                  "autor": "Azorín",
-                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 68). X"
-                },
-                {
-                  "texto_cita": "«Y me respondió: Entonces ¿para qué Dios?»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Del sen. trág. de la vida, 1 (p. 12). X"
-                },
-                {
-                  "texto_cita": "«Yo le respondí entonces: \"Me agrada saberlo. Quiere eso decir que nosotros hablamos como habla el Quijote\".»",
-                  "autor": "Caballero Calderón",
-                  "referencia_obra": ", Ancha es Castilla, p. 293. — Además con la prep. con, para expresar el modo. X"
-                },
-                {
-                  "texto_cita": "«Tiburcio se quedó meditabundo, antes de responderme con cierto acento y aire de tristeza: —Mire, niño Efraín; yo la quiero tantísimo que ella no se figura las crujidas que me ha hecho pasar en este mes.»",
-                  "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 225. X"
-                },
-                {
-                  "texto_cita": "«Yo le respondí al verdugo | Con palabras muy sensibles: | Quítame pronto la vida, | Que olvidarla es imposible.»",
-                  "autor": "Ferrán",
-                  "referencia_obra": ", Obr. complet. (Cl. C. 164. 32). X"
-                },
-                {
-                  "texto_cita": "«Déjame que te cuente una cosa —decías con las mejillas rojas de gozo—, una cosa que es como para morirse de risa o como para herniarse, cuando menos. Pero yo te respondí con el alma sorda: —No, no me cuentes nada, estoy con dolor de oídos.»",
-                  "autor": "Cela",
-                  "referencia_obra": ", Mrs. Caldwell, 1 (p. 31)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para expresar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Tiburcio se quedó meditabundo, antes de responderme con cierto acento y aire de tristeza: —Mire, niño Efraín; yo la quiero tantísimo que ella no se figura las crujidas que me ha hecho pasar en este mes.»",
+                      "autor": "Isaacs",
+                      "referencia_obra": ", María, p. 225."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Yo le respondí al verdugo | Con palabras muy sensibles: | Quítame pronto la vida, | Que olvidarla es imposible.»",
+                      "autor": "Ferrán",
+                      "referencia_obra": ", Obr. complet. (Cl. C. 164. 32)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Déjame que te cuente una cosa —decías con las mejillas rojas de gozo—, una cosa que es como para morirse de risa o como para herniarse, cuando menos. Pero yo te respondí con el alma sorda: —No, no me cuentes nada, estoy con dolor de oídos.»",
+                      "autor": "Cela",
+                      "referencia_obra": ", Mrs. Caldwell, 1 (p. 31)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, para expresar el modo. X",
+              "definicion": "Con la prep. con, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Unas veces creo que sí, i otras creo que no, respondió la niña con débil voz, pues hai realidades que me parecen sueños, i sueños que me parecen realidades; no defino bien los unos de los otros.»",
                   "autor": "Fern.",
-                  "referencia_obra": "Caball. Lágrimas, p. 129. X"
+                  "referencia_obra": "Caball. Lágrimas, p. 129."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Les parecemos muy célebres? —No, caballero. Nada célebres —responde Pepa con mucha impavidez.»",
                   "autor": "Carrasquilla",
-                  "referencia_obra": ", Frutos, 4. 1 (p. 60). X"
+                  "referencia_obra": ", Frutos, 4. 1 (p. 60)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El Brujeador abrió los ojos, lentamente, tal como lo hiciera el caimán, y respondió con una tranquilidad absoluta: —Amigo de pensar mis cosas callado es lo que soy.»",
                   "autor": "Gallegos",
-                  "referencia_obra": ", Doña Bárbara, p. 17. X"
+                  "referencia_obra": ", Doña Bárbara, p. 17."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Entonces usted es un pesimista. —Sí, soy un pesimista —respondía con simpleza, dedicado nada más que a no contrariar las primeras palabras que se le habían ocurrido a la simple mujercita.»",
                   "autor": "Gómez de la Serna",
-                  "referencia_obra": ", Cab. del hongo gris, p. 21. — Además con sin, para expresar el modo."
+                  "referencia_obra": ", Cab. del hongo gris, p. 21."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con sin, para expresar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Llamábase Botello este adivino, soldado español, de plaza sencilla, y más conocido en el ejército por el renombre del nigromántico, a que respondía sin embarazarse.»",
+                      "autor": "Solís",
+                      "referencia_obra": ", Conq. de Méj. 4. 17 (R. 28. 3341)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Dirante acaso: ¿supo ser amable? | —¡Yo lo amé! sin rubor responderás | —¿De alguna infamia se mostró culpable? | Con orgullo respóndeles: ¡jamás!»",
+                      "autor": "J. E. Caro",
+                      "referencia_obra": ", Poes. complet. p. 203."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Llamábase Botello este adivino, soldado español, de plaza sencilla, y más conocido en el ejército por el renombre del nigromántico, a que respondía sin embarazarse.»",
-                  "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 4. 17 (R. 28. 3341). X"
-                },
-                {
-                  "texto_cita": "«Dirante acaso: ¿supo ser amable? | —¡Yo lo amé! sin rubor responderás | —¿De alguna infamia se mostró culpable? | Con orgullo respóndeles: ¡jamás!»",
-                  "autor": "J. E. Caro",
-                  "referencia_obra": ", Poes. complet. p. 203. — Con la expresión adv. en seguida. X"
-                },
-                {
-                  "texto_cita": "«No, no; fíjese: si me hubiesen dicho: ¿Conoce usted a Bardells? Yo hubiera respondido en seguida: ¿A Bardells? Ya lo creo: grueso, afeitado, fuerte, con americana de hilo antiguo y pantalón de pana.»",
-                  "autor": "Miró",
-                  "referencia_obra": ", Años y leguas, p. 124."
+                  "id_limpio": "—",
+                  "definicion": "Con la expresión adv. en seguida.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«No, no; fíjese: si me hubiesen dicho: ¿Conoce usted a Bardells? Yo hubiera respondido en seguida: ¿A Bardells? Ya lo creo: grueso, afeitado, fuerte, con americana de hilo antiguo y pantalón de pana.»",
+                      "autor": "Miró",
+                      "referencia_obra": ", Años y leguas, p. 124."
+                    }
+                  ]
                 }
               ]
             }
@@ -187,150 +272,184 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. Con dat. Además con la prep. con, que indica el modo. X",
+          "definicion": "Absol. Con dat. Además con la prep. con, que indica el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mi abuela enunció alguna pregunta; la otra le respondió con dificultad, buscando las palabras y repitiéndolas, como asombrada de un antiguo sabor.»",
               "autor": "Borges",
               "referencia_obra": ", Hist. del guerr. (El Aleph, p. 53)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. Con dat. X",
+          "definicion": "Pas. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mas de docientas personas estaban mirando el baile y escuchando el canto de las gitanas, y en la fuga del acertó a pasar por allí uno de los tenientes de la villa, y fuele respondido que estaban escuchando a la Gitanilla hermosa, que cantaba.»",
               "autor": "",
               "referencia_obra": "Cerv. Nov. 1 (Cl. C. 27. 17)."
             },
             {
+              "marca": "",
               "texto_cita": "«Fuele respondido [a Alonso el Sexto] que los regalos y deleites habían debilitado en ellos el valor militar.»",
               "autor": "",
               "referencia_obra": "Navarrete, Conserv. de monarq. 33 (R. 25. 5221)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Fue respondido de común consentimiento de los Prelados y del concilio que la santidad del juramento no debe favorecer a la maldad.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 6. 18 (1. 2962)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Impers. Con dat. X",
+          "definicion": "Impers. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Yo, hasta ahora, no sé qué es lo que sucede. Hablo, y la contestación que se me da es un movimiento de gimnasia sueca. (Lo remeda) Interrogo, y no se me responde.»",
               "autor": "Arniches",
               "referencia_obra": ", La Srta. de Trevélez, 3 (p. 101)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en, para señalar el modo. Además con a, para señalar el asunto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se responde en once Diálogos --- a todos los puntos en que tropiezan los que no le han querido recibir [a Cristo].»",
                   "autor": "Gran.",
                   "referencia_obra": "Simb. (4. 7)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Intrans. X",
+          "definicion": "Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cuando con voces llenas | De confusión, temor, duda, y tormento, | Pido favor, pregunto quién me ofende: | Nadie responde nadie me defiende.»",
               "autor": "Alarcón",
-              "referencia_obra": ", Ganar amigos, Act. 3 (Cl. C. 146. 200). X"
+              "referencia_obra": ", Ganar amigos, Act. 3 (Cl. C. 146. 200)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Este tu cuerpo es, pues, oh padre mío! ¡Padre! Ya no respondes ¿Qué te has hecho? ¿Eres acaso el cuerpo inmovil, frío, | Que yace aquí sobre este aciago lecho?»",
               "autor": "Caro",
-              "referencia_obra": ", Poes. complet. p. 31. X"
+              "referencia_obra": ", Poes. complet. p. 31."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vacilando, se acercó a sus hermanas, y tomó asiento entre ellas, que se inclinaron en sus sillas para interrogarla: Apenas respondía.»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Sonata de primavera, p. 29."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Es privilegio de viejos no se querer ir a acostar sin que primero les pongan una bacineta a do escupan y les pongan un orinal a la cabecera, y aun un servidor tras la cama, y si lo qufre su costilla, mandan que dentro de su cámara duerma un moço o una moça para que le respondan si llamare y le levanten la colcha si se le cayere.»",
                   "autor": "Guev.",
                   "referencia_obra": "Epíst. 2. 36 (Cl. Esp. 12. 392)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y la demasía fue, decir a Dios, que lo oyese y le respondiese, o que le oiría el y después le respondería.»",
                   "autor": "León",
                   "referencia_obra": ", Expos. de Job, 2. 38 (2. 258)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con a, para identificar el asunto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Quedábanos para conclusión de esta materia responder a los puntos principales en que tropieza la parte del pueblo que no le ha querido recibir.»",
                   "autor": "Gran.",
                   "referencia_obra": "Doctr. crist. 5. 4. 4 (5. 4532)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se podrán preguntar algunas cosas a las cuales será necesario responder.»",
                   "autor": "Gran.",
                   "referencia_obra": "Mem. vida crist. 3. 9 (2. 4842)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Habíasele fiado a él solo que respondiese a todas las dudas que venían a los sínodos.»",
                   "autor": "Sig.",
-                  "referencia_obra": "Vida de S. Jer. 3. 6 (p. 195). X"
+                  "referencia_obra": "Vida de S. Jer. 3. 6 (p. 195)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ella se complacía en hacer al recién conocido, con voz ronca, preguntas sobre hechos y cosas de la actualidad, a las que Pinas respondía dificultosamente.»",
                   "autor": "Mallea",
                   "referencia_obra": ", El vínculo, p. 29."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, para señalar el modo. X",
+              "definicion": "Con la prep. con, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En un tono calladamente imperioso preguntó por algo, y Nicolás respondió con una voz que nunca antes le había oído. Después de lo cual se retiró tan sigilosamente como había llegado.»",
                   "autor": "Sábato",
                   "referencia_obra": ", Abaddón, p. 463."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -338,40 +457,49 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Part. Con a, para señalar el asunto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si leistes con diligencia un capítulo del primer libro de esta escritura ---, os tendréis por respondido a esa pregunta.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 3. 3. 4 (4. 5392)."
             },
             {
+              "marca": "",
               "texto_cita": "«Veis aquí pues respondido a la causa por qué permite nuestro Señor haber estos escándalos en la Iglesia.»",
               "autor": "Gran.",
               "referencia_obra": "Serm. 5 (6. 931)."
             },
             {
+              "marca": "",
               "texto_cita": "«De aquí se ve cómo queda respondido a las querellas y razones que de parte de los padres se pueden representar a los hijos.»",
               "autor": "Sig.",
               "referencia_obra": "Vida de S. Jer. 2. 3 (p. 98)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si os acordásades bien de lo que habemos dicho, hallaréis que estás respondido a eso.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. (Mayáns, Oríg. Leng. Esp. p. 58)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, para identificar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«De manera que acerca de estos dos puntos me doy por respondido con lo dicho.»",
                   "autor": "Gran.",
                   "referencia_obra": "Símb. 3. 3. 1 (4. 5072)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -379,74 +507,121 @@
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "met. Intrans. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El eco está cansado | De responder al mal que no merezco.»",
               "autor": "Quev.",
-              "referencia_obra": "Musa 7, canción (9. 92). — Además con la prep. con, para señalar el medio."
+              "referencia_obra": "Musa 7, canción (9. 92)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con la prep. con, para señalar el medio.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Calma un momento tus soberbias ondas, | Océano inmortal, y no a mi acento | Con eco turbulento | Desde tu seno líquido respondas.»",
+                  "autor": "Quint.",
+                  "referencia_obra": "Poes. A Célida (R. 19. 192)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Calma un momento tus soberbias ondas, | Océano inmortal, y no a mi acento | Con eco turbulento | Desde tu seno líquido respondas.»",
-              "autor": "Quint.",
-              "referencia_obra": "Poes. A Célida (R. 19. 192). — Además con en. X"
-            },
-            {
-              "texto_cita": "«Sólo la voz del trueno, tableteando sin cesar entre las oquedades de los abismos, pudiese responder en ecos portentosos, al silencio impertubable de tu gloria, ¡oh Padre inmortal!»",
-              "autor": "Valencia",
-              "referencia_obra": ", Discursos, 1 (p. 41)."
+              "id_limpio": "—",
+              "definicion": "Además con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Sólo la voz del trueno, tableteando sin cesar entre las oquedades de los abismos, pudiese responder en ecos portentosos, al silencio impertubable de tu gloria, ¡oh Padre inmortal!»",
+                  "autor": "Valencia",
+                  "referencia_obra": ", Discursos, 1 (p. 41)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. Además con a. X",
+              "definicion": "Con dat. Además con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Repica una campana afónica a lo lejos, otra, solemne, canónica, le responde a la altura de la torre.»",
                   "autor": "Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 58."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
-          "definicion": "Contestar uno al que le llama o al que toca a la puerta. El acus. se presenta en estilo directo. Además con la prep. con. X",
+          "definicion": "Contestar uno al que le llama o al que toca a la puerta. El acus. se presenta en estilo directo. Además con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Hermana Maximina... Y ella, sin alzar la cabeza respondió con la voz vaga y dolorosa: —Diga, Señor Marqués.»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Sonata de invierno, p. 155."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Intrans. X",
+              "definicion": "Intrans.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Isabel!... ¡Isabel!... Tampoco respondió. Mi voz desvanecíase por la vasta estancia como amedrentada de sonar.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de otoño, p. 81. — Con dat. X"
+                  "referencia_obra": ", Sonata de otoño, p. 81."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con dat.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Es privilegio de viejos no se querer ir a acostar sin que primero les pongan una bacineta a do escupan y les pongan un orinal a la cabecera, y aun un servidor tras la cama, y si lo çufre su costilla, mandan que dentro de su cámara duerma un moço o una moça para que le respondan si llamare y le levanten la colcha si se le cayere.»",
+                      "autor": "Guev.",
+                      "referencia_obra": "Epíst. 2. 36 (Cl. Esp. 12. 392)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Es privilegio de viejos no se querer ir a acostar sin que primero les pongan una bacineta a do escupan y les pongan un orinal a la cabecera, y aun un servidor tras la cama, y si lo çufre su costilla, mandan que dentro de su cámara duerma un moço o una moça para que le respondan si llamare y le levanten la colcha si se le cayere.»",
-                  "autor": "Guev.",
-                  "referencia_obra": "Epíst. 2. 36 (Cl. Esp. 12. 392). — Además con por. X"
-                },
-                {
-                  "texto_cita": "«Descubrí en lo alto del cerro un cortijo, donde me llegué con toda la humildad del mundo; y aunque di muchos golpes no me respondían, porque había mucha gente, que se había juntado allí aquella noche por ser día de fiesta.»",
-                  "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 16 (Cl. C. 43. 219)."
-                },
-                {
-                  "texto_cita": "«Bien veo, que no es propio oficio de historiador, responder a semejantes calumnias.»",
-                  "autor": "Rivad.",
-                  "referencia_obra": "Cisma, 3. 16 (p. 441)."
+                  "id_limpio": "—",
+                  "definicion": "Además con por.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Descubrí en lo alto del cerro un cortijo, donde me llegué con toda la humildad del mundo; y aunque di muchos golpes no me respondían, porque había mucha gente, que se había juntado allí aquella noche por ser día de fiesta.»",
+                      "autor": "Espinel",
+                      "referencia_obra": ", Escud. 1. 16 (Cl. C. 43. 219)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Bien veo, que no es propio oficio de historiador, responder a semejantes calumnias.»",
+                      "autor": "Rivad.",
+                      "referencia_obra": "Cisma, 3. 16 (p. 441)."
+                    }
+                  ]
                 }
               ]
             }
@@ -455,14 +630,17 @@
         {
           "id_marcador_html": "— ι )",
           "id_limpio": "— ι )",
-          "definicion": "En el siguiente ejemplo, Acudir. X",
+          "definicion": "En el siguiente ejemplo, Acudir.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A subsanar esta deficiencia responden el Instituto Nacional de Ciencias, con sus diversos laboratorios y seminarios; el Centro de Estudios Históricos organizado por la Junta de Pensiones, y, en fin, algunos pocos laboratorios universitarios.»",
               "autor": "",
               "referencia_obra": "Ramón y Cajal, Tónicos de la voluntad, 11 (p. 223)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -470,76 +648,109 @@
     {
       "id": "b)",
       "definicion": "Contestar la carta que se ha recibido (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El viernes pasado respondí algunas cartas de vuestra paternidad.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Carta, 118 (R. 55. 1061)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Respondióle el santo varón una carta.»",
                   "autor": "Yepes",
                   "referencia_obra": ", Vida de Sta. Ter. 2. 7 (Míst. 1. 130)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. Con la prep. con. X",
+          "definicion": "Pas. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Al despertarse por la mañana, junto con el desayuno le trajer una nota de Gerardo en que lo invitaba a caminar. Sus invitaciones lo seducían, quizá por ser tan puramente fórmulas que no permitían sino ser respondidas con la misma consecuencia formulativa, con la misma amistosa urbanidad.»",
               "autor": "Mallea",
               "referencia_obra": ", El vínculo, p. 66."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Intrans. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Al señor Velasco diga vuestra paternidad, que recibí sus cartas, y quisiera responder a ellas.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Carta, 276 (R. 55. 2452)."
             },
             {
+              "marca": "",
               "texto_cita": "«No es sólo responder a las cartas, como hemos visto, sino ser el principal en las consultas.»",
               "autor": "Sig.",
-              "referencia_obra": "Vida de S. Jer. 3. 6 (p. 198). X"
+              "referencia_obra": "Vida de S. Jer. 3. 6 (p. 198)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Respondiendo a su carta de vuesa merced digo: Que la señora doña Embuste, su hermana, tendrá en esta casa tal amparo, cuanto hay buena acogida de parientas suyas.»",
               "autor": "Quev.",
-              "referencia_obra": "Obr. sat. y festiv. (Cl. C. 56. 124). — Además con dat."
+              "referencia_obra": "Obr. sat. y festiv. (Cl. C. 56. 124)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con dat.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Y la respuesta --- fue loar el ingenio de San Agustín y decirle que, por la mucha ocupación que tenía ---, no le podía responder a cosa que requería mucho espacio.»",
+                  "autor": "Sig.",
+                  "referencia_obra": "Vida de S. Jer. 6. 3 (p. 581)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Y la respuesta --- fue loar el ingenio de San Agustín y decirle que, por la mucha ocupación que tenía ---, no le podía responder a cosa que requería mucho espacio.»",
-              "autor": "Sig.",
-              "referencia_obra": "Vida de S. Jer. 6. 3 (p. 581). — Además con por, para señalar la causa."
-            },
-            {
-              "texto_cita": "«Se excusa que no ha podido responder antes a sus cartas por la mucha ocupación que tuvo con la larga enfermedad de Santa Paula.»",
-              "autor": "Sig.",
-              "referencia_obra": "Vida de S. Jer. 5. 10 (p. 506)."
+              "id_limpio": "—",
+              "definicion": "Además con por, para señalar la causa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Se excusa que no ha podido responder antes a sus cartas por la mucha ocupación que tuvo con la larga enfermedad de Santa Paula.»",
+                  "autor": "Sig.",
+                  "referencia_obra": "Vida de S. Jer. 5. 10 (p. 506)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -548,13 +759,16 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Part. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Holguéme con sus cartas. A las unas ya tengo respondido.»",
               "autor": "",
               "referencia_obra": "Sta. Ter. Carta, 78 (R. 55. 692)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -562,22 +776,36 @@
     {
       "id": "c)",
       "definicion": "Satisfacer o dar explicación a un argumento, duda, dificultad o demanda (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A esta razón se hallaba ausente [el Arzobispo], citado por el Papa para que pareciese en Roma a responder a cierto pleito.»",
               "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 16. 6 (2. 141). — Además con en. X"
-            },
+              "referencia_obra": ", Hist. Esp. 16. 6 (2. 141)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«A la petición de auxilios hecha en noviembre de 1812 por el coronel Simón Bolívar para libertar a Venezuela, responde Torres en forma brillante y efusiva. En su férvida proclama a los venezolanos fue el terrible consejo.»",
-              "autor": "Valencia",
-              "referencia_obra": ", Discursos, 1 (p. 136)."
+              "id_limpio": "—",
+              "definicion": "Además con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«A la petición de auxilios hecha en noviembre de 1812 por el coronel Simón Bolívar para libertar a Venezuela, responde Torres en forma brillante y efusiva. En su férvida proclama a los venezolanos fue el terrible consejo.»",
+                  "autor": "Valencia",
+                  "referencia_obra": ", Discursos, 1 (p. 136)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -586,48 +814,59 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl. Con a, para identificar el asunto. Además con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mas luego me respondí: | Pero si son parecidos | El lucero allá en su cielo, | La flor acá en nuestro abismo.»",
               "autor": "Rojas",
-              "referencia_obra": ", No hay amigo para amigo, 2. 1 (R. 54. 833). X"
+              "referencia_obra": ", No hay amigo para amigo, 2. 1 (R. 54. 833)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Es la pereza de imaginación o de raciocinio que nos impide investigar la verdadera razón de cuantos nos sucede, y que se goza en tener una muletilla siempre a mano con que responderse a sus propios argumentos, haciéndose cada uno la ilusión de no creerse cómplice de una mal, cuya responsabilidad descarga sobre el estado del país en general? Esto parece más ingenioso que cierto.»",
               "autor": "Larra",
               "referencia_obra": ", Artíc. de cost. (Cl. C. 45. 126)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Impers. X",
+          "definicion": "Impers.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y aunque algunos dizen que el remedio desto se ha pedido a la Real Magestad, y que se responde que, aunque se acrecentassen los derechos, todavía los llevarían demasiados, paresce que a lo menos se les quitaría la occasión de alegar que por no se les pagar lo justo lo toman ellos.»",
               "autor": "Ávila",
-              "referencia_obra": ", Epíst. 11 (Cl. C. 11. 164). X"
+              "referencia_obra": ", Epíst. 11 (Cl. C. 11. 164)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si se responde que, a pesar de no quedar nada entre las superficies, ellas, sin embargo, quedan con la capacidad de contener, observaré que esta capacidad no está en las superficies mismas, sino en la distancia respectiva.»",
               "autor": "Balmes",
               "referencia_obra": ", Filosof. fund. 37 (p. 276)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a. Además con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se responde en once Diálogos [... ] a todos los puntos en que tropiezan los que no le han querido recibir [a Cristo].»",
                   "autor": "Gran.",
                   "referencia_obra": "Simb. (4. 7)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -635,18 +874,22 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Llegó el correo a Madrid, y su humillación, tan poco esperada de los castellanos, no dejó de renovar algunas esperanzas de remedio: confirmóseles en toda su propuesta también en la forma antigua y en pocos días volvió a Barcelona respondido.»",
               "autor": "Melo",
               "referencia_obra": ", Guerra de Catal. 4 (R. 21. 5021)."
             },
             {
+              "marca": "",
               "texto_cita": "«Respondido el argumento, | Te traen tus proposiciones, | Las lágrimas son pasiones, | Y las palabras son viento.»",
               "autor": "Rojas",
               "referencia_obra": ", Sin honra no hay amistad, 2. 2 (R. 54. 3051)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -654,67 +897,92 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Corresponder, guardar proporción o igualdad una cosa con otra. (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Para esto va mucho en el modo como se dispone y apareja para entrar en la oración: porque lo demás suele comúnmente responder a este principio.»",
               "autor": "Gran.",
               "referencia_obra": "Adic. al Mem. 2. 11 (3. 3032)."
             },
             {
+              "marca": "",
               "texto_cita": "«Confiado él que respondería el saber a los años, había callado esperando.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 2. 32 (2. 145)."
             },
             {
+              "marca": "",
               "texto_cita": "«No siempre los fines responden a los principios.»",
               "autor": "Rivad.",
               "referencia_obra": "Trib. 1. 18 (p. 175)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. Además con en, que señala el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Los pueblos principales que tenía, era Juliobriga y Vellica, sin que se averigue que nombres en este tiempo les respondan.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 3. 24 (1. 1412)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Una virtud sola no basta para hacer esta espiritual consonancia, si todas no responden con ella.»",
                   "autor": "Gran.",
                   "referencia_obra": "Orac. y medit. 2. 5 (2. 2901)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El representar a Dios como asentado en un Trono, y los Ángeles, ansí los buenos como los malos, delante de El, responde con la verdad del estar presentes todas las cosas a Dios.»",
                   "autor": "León",
-                  "referencia_obra": ", Expos. de Job, 1. 1 (1. 11). — Además con en, que señala el campo en que se identifican."
-                },
+                  "referencia_obra": ", Expos. de Job, 1. 1 (1. 11)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«A la verdad responde [nuestra lengua] con la hebrea en muchas cosas.»",
-                  "autor": "León",
-                  "referencia_obra": ", Cantares, pról. (4. 5)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, que señala el campo en que se identifican.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«A la verdad responde [nuestra lengua] con la hebrea en muchas cosas.»",
+                      "autor": "León",
+                      "referencia_obra": ", Cantares, pról. (4. 5)."
+                    }
+                  ]
                 }
               ]
             }
@@ -724,121 +992,157 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y es una melodía suavísima, que vence toda la música más artificiosa, la consonancia de dos voluntades, que amorosamente se responden.»",
               "autor": "León",
               "referencia_obra": ", Cantares, 7 (4. 128)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y aún dice, y desfacerme has como espantándose de cosas que tan mal se responden.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 1. 10 (1. 177)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y para que se fuesen respondiendo bien la pena y la culpa; la pena justa de la sobervia que Lucifer tuvo, era, que al que quiso ser uno con Dios, le hiciese Dios siervo y esclavo del hombre.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 2. 1 (3. 155)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "En el siguiente ejemplo, Pertenecer (intrans.) Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si la amas tanto, | Dile que un hijo me responde de ella.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Morayma, 4. 3 (2. 2151)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "En el siguiente ejemplo Tener salida o comunicación, caer. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Metiome por la mano en una clara | Bóveda de alabastro, que a la pieza | Del milagroso globo respondía, | Adonde ya otra vez estado había.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 26 (R. 17. 1012)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
       "id": "b)",
-      "definicion": "Estar una cosa motivada o justificada con otra que se expresa (intrans.). Con a. X",
+      "definicion": "Estar una cosa motivada o justificada con otra que se expresa (intrans.). Con a.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«¿A qué fin artístico responde el propósito fundamental de este libro o de esta comedia o de este drama?»",
           "autor": "Pereda",
-          "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 36). X"
+          "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 36)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Es, éste, género de obstinación que se confunde, en la apariencia, con la terquedad, no pocas veces heroica y temeraria, de que suelen acompañarse las falsas vocaciones. Sólo al tiempo toca decidir si la terquedad respondía a ilusión vana o a inspirada anticipación del sentimiento.»",
           "autor": "Rodó",
-          "referencia_obra": ", Motivos de Proteo, p. 89. X"
+          "referencia_obra": ", Motivos de Proteo, p. 89."
         },
         {
+          "marca": "X",
           "texto_cita": "«Lo primero, que la comparación del reló está muy mal traída, y responde a la idea del \"mecanismo de su ficción.»",
           "autor": "Unamuno",
-          "referencia_obra": ", Cómo se hace una novela, p. 179. X"
+          "referencia_obra": ", Cómo se hace una novela, p. 179."
         },
         {
+          "marca": "X",
           "texto_cita": "«Y la fe en Dios no estriba como veremos, sino en la necesidad vital de dar finalidad a la existencia, de hacer que responda a un propósíto.»",
           "autor": "",
-          "referencia_obra": "Id. Del sen trág. de la vida, 7 (p. 125). X"
+          "referencia_obra": "Id. Del sen trág. de la vida, 7 (p. 125)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Si hubo deformación, tristemente frivolona a veces, del afán de modernización, respondía éste, sin embargo, a una exigencia real y auténtica del momento.»",
           "autor": "Rama",
           "referencia_obra": ", Nuevo narrador (Salvador Garmendia, p. 12)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Corresponder con una acción a la realizada por otro (intrans.). Con dat.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Si yo quisiera respondelles a todas ellas, temo que antes entibiarán que encenderán el amor que tengo en mi pecho.»",
           "autor": "M. de Chaide",
           "referencia_obra": ", Magd. serm. (R. 27. 4122)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "",
           "id_limpio": "",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Acúsese también de haber sido muy flojo y negligente en responder a las inspiraciones de nuestro Señor.»",
                   "autor": "Gran.",
                   "referencia_obra": "Mem. vida crist. 2. 4 (2. 4571)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La Sociedad, respondiendo a sus deseos e insinuaciones abre un certamen de ingenio.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Orac. (2. 202). — Además con un gerundio. X"
-                },
+                  "referencia_obra": "Orac. (2. 202)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«A la hora presente se publican trabajos científicos en más de seis idiomas. Al intento plausible de restaurar el latín, o de utilizar el esperanto como lengua científica universal, han respondido los sabios multiplicando todavía el número de idiomas en que aparecen redactados los trabajos científicos.»",
-                  "autor": "Ramón y Cajal",
-                  "referencia_obra": ", Tónicos de la voluntad, 4 (p. 82)."
+                  "id_limpio": "—",
+                  "definicion": "Además con un gerundio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«A la hora presente se publican trabajos científicos en más de seis idiomas. Al intento plausible de restaurar el latín, o de utilizar el esperanto como lengua científica universal, han respondido los sabios multiplicando todavía el número de idiomas en que aparecen redactados los trabajos científicos.»",
+                      "autor": "Ramón y Cajal",
+                      "referencia_obra": ", Tónicos de la voluntad, 4 (p. 82)."
+                    }
+                  ]
                 }
               ]
             }
@@ -847,38 +1151,47 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En los siguientes ejemplos, Hacer frente, resistir. Con dat. Además con la prep. con, para expresar el medio, X",
+          "definicion": "En los siguientes ejemplos, Hacer frente, resistir. Con dat. Además con la prep. con, para expresar el medio,",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Disparó en llegando dos piezas de gruesa artillería, y luego hasta obra de veinte arcabuces. De la tierra les fue hecha señal de paz y de alegres voces, porque no tenían artillería con qué responderle.»",
               "autor": "Cerv.",
               "referencia_obra": "Pers. 1. 11 (Cl. Castal. 12. 108)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con para expresar el medio. X",
+              "definicion": "Con la prep. con para expresar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La sopresa los desazonó. Desde las casas, de lado y lado de la calle, los diezmaban las descargas. Las paredes hacían completamente ineficaz el fuego con que podían responder. Ya algunos buscaban la salida del pueblo.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 9 (p. 106)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Pas. Con la prep. con, para expresar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Hicieron [los venecianos] la salva a la Camila y fueron con mucha artillería respondidos.»",
                   "autor": "Crón. Gran Capitán",
                   "referencia_obra": ", 3. 8 (NBAE. 10. 3091)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -887,55 +1200,76 @@
     {
       "id": "d)",
       "definicion": "Producir, rendir, dar el resultado o el rendimiento deseado (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con a. X",
+          "definicion": "Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los campos de Madrid, Isidro santo, | De querúbicas manos cultivados, | Fieles responden hoy a tus arados | Fruto de gloria por sazón de llanto.»",
               "autor": "Villamediana",
               "referencia_obra": ", Obr. (Cl. Castal. 9. 189)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Intrans. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y la fecunda oliva | Ya no responderá al que la cultiva.»",
               "autor": "León",
               "referencia_obra": ", Poes. Crítica de habacuc (4. 650)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y respondió el fruto a la sementera.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 1 introd. (2. 3)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mira pues cuan bien responde aquí el fruto de la confianza a los estribos y fundamentos de ella.»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 2. 18 (1. 1192)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los demás deseaban dar vuelta a su tierra como es natural, en especial cuando el fruto no responde a las esperanzas.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 18. 12 (2. 1511)."
             },
             {
+              "marca": "",
               "texto_cita": "«Abundaban de maíz, y esta semilla respondía tan bien al sudor de los villanos, que dió a la provincia el nombre de Tlascala.»",
               "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 3. 2 (R. 28. 2672). — Además con otro compl. con a, para señalar el porcentaje del rendimiento."
-            },
+              "referencia_obra": ", Conq. de Méj. 3. 2 (R. 28. 2672)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Rinde [la tierra] el fruto gozosa, | Y al labrador a veinte le responde.»",
-              "autor": "",
-              "referencia_obra": "M. de Chaide, Magd. 2. 103 (R. 27. 2942)."
+              "id_limpio": "—",
+              "definicion": "Además con otro compl. con a, para señalar el porcentaje del rendimiento.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Rinde [la tierra] el fruto gozosa, | Y al labrador a veinte le responde.»",
+                  "autor": "",
+                  "referencia_obra": "M. de Chaide, Magd. 2. 103 (R. 27. 2942)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -943,13 +1277,16 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, para señalar el porcentaje.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ahí está el suelo fértil que de la pura semilla del Señor responde a ciento.»",
                   "autor": "Sig.",
                   "referencia_obra": "Vida de S. Jer. 3. 3 (p. 152)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -958,68 +1295,93 @@
     {
       "id": "e)",
       "definicion": "Asumir la responsabilidad, comprometerse (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No lo crea. El no las tiene contadas. Yo he visto que apenas se acerca al árbol y les da un vistazo: Bien pueda coja todas las que quiera, que yo respondo. Esa es la fruta más deliciosa.»",
               "autor": "Arango Villegas",
               "referencia_obra": ", Bobadas, p. 19."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. Además con de. X",
+              "definicion": "Con dat. Además con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Deme a mí esa comisioncita, doctor. Yo le respondo de estos hombres. Dos plazos de sogas para amarrarlos codo con codo, es lo que necesito.»",
                   "autor": "Gallegos",
                   "referencia_obra": ", Doña Bárbara, p. 321."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de, para identificar aquello que compromete la responsabilidad. Además con la prep. con, para expresar el modo. X",
+              "definicion": "Con de, para identificar aquello que compromete la responsabilidad. Además con la prep. con, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Bien defendidas por los guardatemplos, que respondían con sus vidas de la seguridad de sus hermanos, las logias reproducían el ambiente de los clubes políticos de París en días de la revolución.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Estud. mesa redonda, 12 (p. 180)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Quién curará mis llagas? quién responderá por mí?»",
                   "autor": "Gran.",
-                  "referencia_obra": "Docrt. esp. 6. 17 (6. 2451). X"
+                  "referencia_obra": "Docrt. esp. 6. 17 (6. 2451)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Que hayan vuelto al escribano; pase. También sabrá responder por sí, dando a su culpa disculpa; que el hierro también se puede dorar.»",
                   "autor": "Alemán",
-                  "referencia_obra": ", Guzmán, 1. 1. 1 (Cl. C. 73. 63). X"
+                  "referencia_obra": ", Guzmán, 1. 1. 1 (Cl. C. 73. 63)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El celo del señor Caballero se enderezaba a asegurar a los cosecheros nacionales un precio de ganancia, aunque tuvieran que responder por él los fondos del erario; pero ni por esas pudo estimular, en el grado que él deseaba y que fuera bastante al consumo nacional, la siembra del trigo ni la consiguiente industria molinera.»",
                   "autor": "",
-                  "referencia_obra": "M. F. Suárez, Sueños, 2 (p. 150). — Además con en, para señalar el lugar. X"
-                },
+                  "referencia_obra": "M. F. Suárez, Sueños, 2 (p. 150)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Para que los demandados por los universitarios no tuviesen que responder en Salamanca por sus actos, debían vivir a más de cuarenta leguas de la ciudad. Sólo podría el estudiante acogerse a la justicia de la Universidad después de haber asistido a las clases por espacio de un año.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Estud. mesa redonda, 9 (p. 13l)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para señalar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Para que los demandados por los universitarios no tuviesen que responder en Salamanca por sus actos, debían vivir a más de cuarenta leguas de la ciudad. Sólo podría el estudiante acogerse a la justicia de la Universidad después de haber asistido a las clases por espacio de un año.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Estud. mesa redonda, 9 (p. 13l)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1029,39 +1391,48 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Da lugar [su excelencia] a que le amen muchos, como si le amara uno solo, --- y sin que Él se embarace en responderse con tantos.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 3. 2 (3. 337)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "En el siguiente ejemplo, Dar razón de algo. Con de. X",
+          "definicion": "En el siguiente ejemplo, Dar razón de algo. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El lector querrá acompañarnos a una casa, donde ha entrado otra vez en la calle del Restaurador; y por cierto que habrá de encontrar allí escenas de las que la imaginación duda y de las que la historia responde.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 3 (p. 273)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Forma la expresión, No respondo: que denota amenaza. X",
+          "definicion": "Forma la expresión, No respondo: que denota amenaza.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿La herida... otra vez abierta? Entra, entra... (Quiere ayudarle a entrar.) -¡No te acerques... o no respondo!...»",
               "autor": "Clarín",
               "referencia_obra": ", Teresa (Cl. Castal. 69. 102)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1069,7 +1440,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «Respondere: es quando a veces se fazen semeiantes obras a las recebidas y responder dizimos a las cosas que nos preguntan. Et responder es compensar y convenir.» Pal. Univ. vocab. 418b. X «Reuerendo señor: enconmendaros a la Virgen María no era mal consejo, si ese vuestro cuñado os lo consejara antes que os prendieran, más consejándole después de preso, deuierades decir: ja no podie, segund todo buen gallego deuía responder.» Pulgar, Letras, 8 (Cl. C. 99. 49). X «E sin dubda puédese creer, que si lo que deseaua tener este perlado respondiera al coraçón que tenía, fiziera grandes cosas.» Id. Clar var. (Cl. C. 49. 119). X «¡O maestro muy agudo! | ¿Dónde tienes tu saber? | ¿Cómo te tornaste mudo, | Que en testimonio tan crudo | No curas de responder?» I. de Mendoza, Canc. (Cl. C. 163. 187). X «Faziendolo ellos asi, Dios responderá a su buena voluntad, dandoles graçiosamente aquello que ellos virtuosamente menospreçiaron.» Pz. de Guzmán, Gener. (Cl. C. 61. 24). + «Pensaron apartar a don Álvaro del lugar que tenía con el Rey mucho fuera de donde pensaba estar, por quanto las cosas les respondieron mucho por el contrario de como en aquel tiempo las esperaban.» Crón. Álv. de Luna, 9 (33).\n\n— Siglo XIV: + «Venides, dixo el rey, de sangre real? Callo el cauallero e non respuso.» Zifar, 79 (p. 162). + «Mandó [El Rey] Que el demandado ffuesse tenudo a rresponder fasta nueue días contestar el pleyto, e se non, que fuese dado por confesso.» Cortes de Valladolid (C. de L. y C. 2. 45). + «Qualquier judío o moro que se llamare nonbre de christiano o rrespondiere por nonbre de christiano, mando que se desuse dello fasta el día de Nauidat.» Ib. (C. de L. y C. 2. 19).\n\n— Siglo XIII: X «Sedién los confessores a dios glorificando, | Que tan precioso fraire entrava en su vando, | Respondiénles las vírgenes dulcement organando, | Todos le facién onra leyendo e cantando.» Berc. S. Dom. (Cl. Castal. 49. 164). X «¡Ay duenya, dulce madre, | Que en el tu vientre touiste al tu padr | Sant Gabrjel te aduxo el mandado | Tul respondiste con grant recabdo.» s. m. Egipc. p. 123.",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. respondere ‘prometer a uno su futuro, prometer o pagar a su vez; corresponder a, guardar la debida proporción una cosa con otra, ser conforme, convenir; contestar a las acusaciones, rechazarlas, rebatirlas’. Cat. respondre, fr. répondre, it. rispóndere, port. responder.\n\n\u0000",
+  "etimologia": "Etim. Del lat. <i>respondere </i>‘prometer a uno su futuro, prometer o pagar a su vez; corresponder a, guardar la debida proporción una cosa con otra, ser conforme, convenir; contestar a las acusaciones, rechazarlas, rebatirlas’. Cat. <i>respondre</i>, fr. <i>répondre</i>, it. <i>rispóndere</i>, port. <i>responder</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",

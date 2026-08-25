@@ -1,245 +1,360 @@
 {
   "lema": "VENIR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, Referido al movimiento, a) ir, dirigirse hacia el lugar donde está el que habla, (Asistir: γ, Acaecer: δ ), b) regresar, (Volver a tratar del asunto: γ ), c) llegar, d) seguir una cosa a otra que se expresa, e) caer;\n\n— 2, referido a procesos, a) proceder una cosa de otra, (tratándose de plantas, Producir: γ ), b) resultar, salir, c) alcanzar, lograr, d) ajustarse, convenir, acomodarse o conformarse una cosa a otra o con otra, e) suceder, acontecer o sobrevenir, f) estar, g) ofrecerse u ocurrir una cosa a la imaginación o a la memoria;\n\n— 3, referido al tiempo;\n\n— 4, locuciones varias;\n\n— 5, perífrasis, a) venir + gerundio, b) venir + infinitivo.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, Referido al movimiento, a) ir, dirigirse hacia el lugar donde está el que habla, (Asistir: γ, Acaecer: δ ), b) regresar, (Volver a tratar del asunto: γ ), c) llegar, d) seguir una cosa a otra que se expresa, e) caer;\n\n— 2, referido a procesos, a) proceder una cosa de otra, (tratándose de plantas, Producir: γ ), b) resultar, salir, c) alcanzar, lograr, d) ajustarse, convenir, acomodarse o conformarse una cosa a otra o con otra, e) suceder, acontecer o sobrevenir, f) estar, g) ofrecerse u ocurrir una cosa a la imaginación o a la memoria;\n\n— 3, referido al tiempo;\n\n— 4, locuciones varias;\n\n— 5, perífrasis, a) venir + gerundio, b) venir + infinitivo.",
   "acepciones": [
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "1",
       "definicion": "Referido al movimiento.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Ir, dirigirse hacia el lugar donde está el que habla (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Armarte de paciencia. | Pero don Illán viene.»",
               "autor": "Alarcón",
-              "referencia_obra": ", La prueba de las promesas, 3 (R. 20.4442). X"
+              "referencia_obra": ", La prueba de las promesas, 3 (R. 20.4442)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Laura mía; yo nunca estoy triste a tu lado. Ven, yo te lo ruego, ven; aquí estarás mejor...»",
               "autor": "M. de la Rosa",
-              "referencia_obra": ", La conjuración de Venecia, 2 (Cl. C. 107. 334). X"
+              "referencia_obra": ", La conjuración de Venecia, 2 (Cl. C. 107. 334)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Así discurría yo, pero la señora política vino y me dijo al oído: ‘‘No seas tan pazguato. Eso que estás hilando ahí ya se les ha ocurrido a todos, a todos los que se han sentado en ese sillón’’.»",
               "autor": "Marroquín",
               "referencia_obra": ", Blas Gil. 19 (p. 204)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para señalar el lugar. X",
+              "definicion": "Con a, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mutis, eclesiástico que hacía veinte años había venido a América como médico del virrey La Zerda.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 2 (p. 132). X"
+                  "referencia_obra": ", Sueños, 2 (p. 132)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Garcilaso de la Vega, padre del inca Garcilaso, vino a nuestra costa del Pacífico y la halló tan cerrada, lluviosa e inhospital, que renunció a someterla al Perú.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 2 (p. 262). X"
+                  "referencia_obra": "Id. ib. 2 (p. 262)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Se organiza una expedición para que venga al Amazonas, al Orinoco, a la ciudad de Manao.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 2. 10 (p. 187). — El término es una prop. infinitiva."
+                  "referencia_obra": ", Biogr. del Caribe, 2. 10 (p. 187)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ocasión ha tenido vuestra paternidad de venir a ver al padre fray Antonio.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Carta, 288 (R. 55. 2532)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ricito donoso, | De Amor dulce red. | Cadejito de oro, | Que debo a mi bien, | A calmar süave | En mi pecho ven | De ausencia tan triste | La pena cruel.»",
+                      "autor": "Mel.",
+                      "referencia_obra": "Poes. (Cl. C. 64. 172)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿No hay quién venga a espantar estos perros?»",
+                      "autor": "Rivera",
+                      "referencia_obra": ", La vorágine, 1 (p. 26)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pues, señor, ¿adónde he venido yo a caer?»",
+                      "autor": "",
+                      "referencia_obra": "J. Poncela, Eloísa, 1 (p. 79)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Ocasión ha tenido vuestra paternidad de venir a ver al padre fray Antonio.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Carta, 288 (R. 55. 2532). X"
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Vengan y con sus islas y sirenas | Las siete mares, de siete colores | Vengan las mares a cantar conmigo.»",
+                      "autor": "Carranza",
+                      "referencia_obra": ", Diciembre azul, p. 15."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Ricito donoso, | De Amor dulce red. | Cadejito de oro, | Que debo a mi bien, | A calmar süave | En mi pecho ven | De ausencia tan triste | La pena cruel.»",
-                  "autor": "Mel.",
-                  "referencia_obra": "Poes. (Cl. C. 64. 172). X"
+                  "id_limpio": "—",
+                  "definicion": "Con atracción pronominal.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«El señor doctor que os viene | A visitar, no de humano, | De médico soberano | La fama y las obras tiene.»",
+                      "autor": "Alarcón",
+                      "referencia_obra": ", Quien mal anda en mal acaba, 1. 17 (R. 20. 2153)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿No hay quién venga a espantar estos perros?»",
-                  "autor": "Rivera",
-                  "referencia_obra": ", La vorágine, 1 (p. 26). X"
-                },
-                {
-                  "texto_cita": "«Pues, señor, ¿adónde he venido yo a caer?»",
-                  "autor": "",
-                  "referencia_obra": "J. Poncela, Eloísa, 1 (p. 79). — met. X"
-                },
-                {
-                  "texto_cita": "«Vengan y con sus islas y sirenas | Las siete mares, de siete colores | Vengan las mares a cantar conmigo.»",
-                  "autor": "Carranza",
-                  "referencia_obra": ", Diciembre azul, p. 15. — Con atracción pronominal."
-                },
-                {
-                  "texto_cita": "«El señor doctor que os viene | A visitar, no de humano, | De médico soberano | La fama y las obras tiene.»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", Quien mal anda en mal acaba, 1. 17 (R. 20. 2153). — Además con la prep. con."
-                },
-                {
-                  "texto_cita": "«Habría ocasión de venir con ellos a batalla.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ", Exped. 16 (R. 21. 161)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Habría ocasión de venir con ellos a batalla.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ", Exped. 16 (R. 21. 161)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para expresar el modo. X",
+              "definicion": "Con en, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los antiguos se civilizaron por medio de viajes; ahora no se va en busca de la luz, sino que ella viene en la forma viva de profesores y maestros.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 3 (p. 164). — Con la expresión adv. en seguida. X"
-                },
+                  "referencia_obra": ", Sueños, 3 (p. 164)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Ricardo viene en seguida.»",
-                  "autor": "Casona",
-                  "referencia_obra": ", La barca sin pescador, p. 141."
+                  "id_limpio": "—",
+                  "definicion": "Con la expresión adv. en seguida.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ricardo viene en seguida.»",
+                      "autor": "Casona",
+                      "referencia_obra": ", La barca sin pescador, p. 141."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por, para expresar la causa. X",
+              "definicion": "Con por, para expresar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Esta noche no pudo venir por estar actualmente sudando los fríos, que le han repetido con furia.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 3 (p. 171). X"
+                  "referencia_obra": ", Sueños, 3 (p. 171)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Por qué venís? | —Por mi gusto...»",
                   "autor": "Pemán",
                   "referencia_obra": ", Felipe II, 2 (p. 120)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Sustantivado. Con a. X",
+              "definicion": "Sustantivado. Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El venir a este sitio a sido arbitrio suyo, para que aquí solos los leamos antes de bolverlos a su dueño.»",
                   "autor": "Solís",
                   "referencia_obra": "y Valenzuela, El desierto prodigioso, 1 (ICC. 45. 53)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. Con dat. Además con la prep. con, que expresa el modo. X",
+          "definicion": "Prnl. Con dat. Además con la prep. con, que expresa el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Desmontóse en el corredor en que yo estaba, y se me vino con los brazos abiertos.»",
               "autor": "Marroquín",
               "referencia_obra": ", Blas Gil 13 (p. 134)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para señalar: — el lugar.",
-              "ejemplos_citas": [
+              "definicion": "Con a, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Ordenó a las principales cabezas del ejército que se viniesen a Galípoli.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ", Exped. 24 (R. 21. 241). X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ordenó a las principales cabezas del ejército que se viniesen a Galípoli.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ", Exped. 24 (R. 21. 241)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cervantes meditaba a un mismo tiempo en escribir el Quijote, o en venirse al Caribe.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Caribe, 1 (p. 13)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Cervantes meditaba a un mismo tiempo en escribir el Quijote, o en venirse al Caribe.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 1 (p. 13). — El modo."
-                },
-                {
-                  "texto_cita": "«Al caer la tarde bajó noticia de que se habían descubierto a la parte de Méjico más de dos mil canoas reforzadas, que se venían acercando a todo remo.»",
-                  "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 5. 18 (R. 28. 3732)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Al caer la tarde bajó noticia de que se habían descubierto a la parte de Méjico más de dos mil canoas reforzadas, que se venían acercando a todo remo.»",
+                      "autor": "Solís",
+                      "referencia_obra": ", Conq. de Méj. 5. 18 (R. 28. 3732)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para señalar la compañía. X",
+              "definicion": "Con la prep. con, para señalar la compañía.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Eres tú? | —Sí, yo soy.| —Vente conmigo.»",
                   "autor": "Cald.",
                   "referencia_obra": "La dama duende, 3 (Cl. C. 137. 93)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con hacia, que señala la dirección. +",
+              "definicion": "Con hacia, que señala la dirección.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Pareciónos que víamos el promontorio de Zacinto como una nube escura que se venía hacia nuestros ojos.»",
                   "autor": "F. de Mena",
                   "referencia_obra": ", Teágenes y Cariclea, 5 (p. 196)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Con para. +",
+          "definicion": "Con para.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«El Maestro y el Licenciado nos han visto y se vienen para nosotros.»",
               "autor": "J. de Pineda",
-              "referencia_obra": ", Agr. crist. 6. 1 (R. 162. 81). X"
+              "referencia_obra": ", Agr. crist. 6. 1 (R. 162. 81)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Gente que sabe lo que dice, cuenta que él ha querido venirse para América.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Biogr. del Caribe, 4.20 (p. 355). — Además con un gerundio que expresa el modo. X"
-            },
+              "referencia_obra": ", Biogr. del Caribe, 4.20 (p. 355)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Vínose para mí, diciendo con gran cólera: Bastan gargajos, no le matéis.»",
-              "autor": "Quev.",
-              "referencia_obra": "Buscón, 5 (Cl. C. 5. 66)."
+              "id_limpio": "—",
+              "definicion": "Además con un gerundio que expresa el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Vínose para mí, diciendo con gran cólera: Bastan gargajos, no le matéis.»",
+                  "autor": "Quev.",
+                  "referencia_obra": "Buscón, 5 (Cl. C. 5. 66)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con por, para expresar el lugar. X",
+              "definicion": "Con por, para expresar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si pretendiste, | ¡Oh sombra fingida y vana!, | Que desesperase un triste, | Vente por acá mañana | En la forma que trajiste.»",
                   "autor": "Cald.",
                   "referencia_obra": "La dama duende, 3 (Cl. C. 137. 95)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -247,31 +362,38 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "En los siguientes ejemplos, Asistir. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Que vengan a esta asamblea los jurisconsultos españoles.»",
               "autor": "Jovell.",
-              "referencia_obra": "Discursos (2. 137). X"
+              "referencia_obra": "Discursos (2. 137)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esta noche todas las mujeres se adornan así. —¿No vienes al baile?»",
               "autor": "Casona",
               "referencia_obra": ", La dama del alba, p. 81."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "En el siguiente ejemplo, Acaecer. X",
+          "definicion": "En el siguiente ejemplo, Acaecer.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Así holgó algunos días con gran placer, en especial con las buenas nuevas que le vinieron.»",
               "autor": "Am. de Gaula",
               "referencia_obra": "(Cl. Ebro, 62. 44)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -279,32 +401,48 @@
     {
       "id": "b)",
       "definicion": "Regresar (intrans.)",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con de. X",
+          "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El uno venía de Sevilla, y el otro iba a ella.»",
               "autor": "Cerv.",
-              "referencia_obra": "Nov. 1 (Cl. C. 27. 236). X"
+              "referencia_obra": "Nov. 1 (Cl. C. 27. 236)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pues cuando venimos de la arada, estamos sólo buenos para arrimarnos a un rincón, y vuelta por la mañana a ir por entre esas peñas.»",
               "autor": "Azorín",
-              "referencia_obra": ", Riofrío, 6 (p. 72). — El término es una prop. infinitiva."
-            },
+              "referencia_obra": ", Riofrío, 6 (p. 72)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Y viniendo nosotros de visitar a una ninfa su parienta, que vive destotra parte de los puertos Galicianos, llegamos a este valle umbroso y sereno.»",
-              "autor": "Montem.",
-              "referencia_obra": "Diana, 2 (p. 72)."
-            },
-            {
-              "texto_cita": "«El santo patrón de España | Venía de visitar, | Y saliéronle al camino | Quinientos moros y aun más.»",
-              "autor": "G. de Castro",
-              "referencia_obra": ", Las mocedades del Cid, 1. 3 (R. 43. 2523)."
+              "id_limpio": "—",
+              "definicion": "El término es una prop. infinitiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Y viniendo nosotros de visitar a una ninfa su parienta, que vive destotra parte de los puertos Galicianos, llegamos a este valle umbroso y sereno.»",
+                  "autor": "Montem.",
+                  "referencia_obra": "Diana, 2 (p. 72)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«El santo patrón de España | Venía de visitar, | Y saliéronle al camino | Quinientos moros y aun más.»",
+                  "autor": "G. de Castro",
+                  "referencia_obra": ", Las mocedades del Cid, 1. 3 (R. 43. 2523)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -313,59 +451,72 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El sol sin se cansar sigue un camino, | Consume con sus vueltas mortales, | Y él tan nuevo se va como se vino.»",
               "autor": "Valb.",
               "referencia_obra": "Siglo de oro, 6 (p. 143)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Volver a tratar del asunto después de alguna digresión. Con a. X",
+          "definicion": "Volver a tratar del asunto después de alguna digresión. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El fin de la guerra es la paz, y que en esto hace ventaja al fin de las letras, vengamos ahora a los trabajos del cuerpo del letrado y a los del profesor de las armas, y véase cuáles son mayores.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1 (Cl. C. 8. 322). X"
+              "referencia_obra": "Quij. 1 (Cl. C. 8. 322)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Qué se hicieron las damas | Sus tocados, sus vestidos, | Sus colores? | Vengamos a lo de ayer.»",
               "autor": "Miró",
               "referencia_obra": ", Años y leguas, p. 87."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Forma la expresión, Ir y venir",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Empezó el maridillo a echar verbos: ¿Alguacil en mi casa? y en esto iba y venía.»",
               "autor": "Quev.",
-              "referencia_obra": "Cuento (R. 48. 4121). X"
+              "referencia_obra": "Cuento (R. 48. 4121)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Atiendo al despacioso ir y venir de aquellos indios ensabanados como fantasmas.»",
               "autor": "",
-              "referencia_obra": "Valle-Inclán, Sonata de estío, p. 88. X"
+              "referencia_obra": "Valle-Inclán, Sonata de estío, p. 88."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dióle a poco un ir y venir del cuarto a la pesebrera y de la pesebrera al cuarto...»",
               "autor": "Carrasquilla",
-              "referencia_obra": ", Frutos, 2. 4 (p. 31). X"
+              "referencia_obra": ", Frutos, 2. 4 (p. 31)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Van y vienen por los caminos de Europa los correos de la envidia, los mensajeros de la calumnia.»",
               "autor": "Pemán",
               "referencia_obra": ", Felipe II, 1. 14 (p. 94)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -373,69 +524,93 @@
     {
       "id": "c)",
       "definicion": "Llegar (intrans.)",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Que es decir, casa puerta en lugar alto y fuerte, y que sirve de descubrir los enemigos, si vienen, y mostrar el camino a los que pasan.»",
               "autor": "León",
-              "referencia_obra": ", Cantares, 4 (4. 167). +"
+              "referencia_obra": ", Cantares, 4 (4. 167)."
             },
             {
+              "marca": "+",
               "texto_cita": "«No es menos preservar del mal para que no venga, que curarlo después de venido.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. del crist. 29 (R. 11. 2032)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cuando vine hallé al pecador del ciego que tenía entre dos rebanadas apretado el nabo.»",
               "autor": "",
-              "referencia_obra": "Lazar. 1 (R. 3. 801). X"
+              "referencia_obra": "Lazar. 1 (R. 3. 801)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo escribí. ¿Qué te parece | Adonde deje el papel, | Porque, si mi hermano viene, | No le vea?»",
               "autor": "Cald.",
-              "referencia_obra": "La dama duende, 1 (Cl. C. 137. 33). X"
+              "referencia_obra": "La dama duende, 1 (Cl. C. 137. 33)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Ah, papá durmiendo aquí! Yo creí que no había venido, como otras noches. Pero llegaría al amanecer y se conoce que por no despertarme...»",
               "autor": "Arniches",
-              "referencia_obra": ", Es mi hombre, 3 (p. 172). X"
+              "referencia_obra": ", Es mi hombre, 3 (p. 172)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Nuestra avaricia se proyecta hacia el otro futuro. Aprisionar siempre lo que ha de venir.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Estud. mesa redonda, 16 (p. 229). X"
+              "referencia_obra": ", Estud. mesa redonda, 16 (p. 229)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ahora van a venir los indios y nos matan a todos.»",
               "autor": "E. Zalamea",
-              "referencia_obra": ", Cuatro años, 8 (p. 144). X"
+              "referencia_obra": ", Cuatro años, 8 (p. 144)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Unos cuantos años más tarde viene un terremoto y destruye la iglesia.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 221)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Luego que le vino el aviso de aquel apercibimiento, alzó el cerco concertándose con los de Valencia.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. (Cl. Ebro, 3. 72). — Además con un gerundio que expresa el modo. X"
-                },
+                  "referencia_obra": ", Hist. Esp. (Cl. Ebro, 3. 72)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Rubén Darío ha muerto en sus tierras de Oro, | Esta nueva nos vino atravesando el mar.»",
-                  "autor": "Machado",
-                  "referencia_obra": ", Poes. compl. p. 187."
+                  "id_limpio": "—",
+                  "definicion": "Además con un gerundio que expresa el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Rubén Darío ha muerto en sus tierras de Oro, | Esta nueva nos vino atravesando el mar.»",
+                      "autor": "Machado",
+                      "referencia_obra": ", Poes. compl. p. 187."
+                    }
+                  ]
                 }
               ]
             },
@@ -443,56 +618,110 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con a, para expresar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Vino a do el marqués de Vélez estaba.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Gran. 3 (R. 21. 1011)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Tubal hijo de Jophet fue el primer hombre que vino a España.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 1. 1 (1. 1)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El rey don Juan el Segundo ordenó que los grandes y caballeros y otras personas que habían venido a su corte volviesen a sus casas.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 66 (R. 25. 1822)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Todas las apelaciones del territorio de las órdenes, ya sean en causas civiles, o en criminales, deben venir a este Consejo.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Escritos sueltos (3. 367). X"
+                  "referencia_obra": "Escritos sueltos (3. 367)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Se acuerdan ustedes de cuando llevaba la naveta? Parece que fue ayer. Vine a mi despacho rebosando de buenas intenciones.»",
                   "autor": "Marroquín",
-                  "referencia_obra": ", Blas Gil 19 (p. 203). — Además con de, que expresa: — el modo."
+                  "referencia_obra": ", Blas Gil 19 (p. 203)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con de, que expresa:",
+                  "marca": "",
+                  "ejemplos_citas": []
                 },
                 {
-                  "texto_cita": "«Cuando vino a Tebas | De embajador... | No le dejaba | Yo pelear.»",
-                  "autor": "",
-                  "referencia_obra": "Hermosilla, Iliada. 5 (1. 165). — La finalidad. El término es una prop. infinitiva. X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Cuando vino a Tebas | De embajador... | No le dejaba | Yo pelear.»",
+                      "autor": "",
+                      "referencia_obra": "Hermosilla, Iliada. 5 (1. 165)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El Rey | Se apea de un coche en casa | Y dicen que viene a ver | Al señor don Lope.»",
-                  "autor": "Guev.",
-                  "referencia_obra": "El diablo está en Cantillana, 1 (Cl. C. 132. 133). — Además con de, para señalar la procedencia."
+                  "id_limpio": "—",
+                  "definicion": "La finalidad. El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El Rey | Se apea de un coche en casa | Y dicen que viene a ver | Al señor don Lope.»",
+                      "autor": "Guev.",
+                      "referencia_obra": "El diablo está en Cantillana, 1 (Cl. C. 132. 133)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Aquellos que de Chile habían venido | A pedir el socorro necesario, | Viendo a su adelantado fallecido ---, | Piden a don Hurtado que se vea, | Y de remedio presto los provea.»",
-                  "autor": "Erc.",
-                  "referencia_obra": "Arauc. 13 (R. 17. 522). — Además con en, para expresar el modo."
+                  "id_limpio": "—",
+                  "definicion": "Además con de, para señalar la procedencia.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Aquellos que de Chile habían venido | A pedir el socorro necesario, | Viendo a su adelantado fallecido ---, | Piden a don Hurtado que se vea, | Y de remedio presto los provea.»",
+                      "autor": "Erc.",
+                      "referencia_obra": "Arauc. 13 (R. 17. 522)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Corrió voz de que venía en persona el Emperador mejicano a socorrer aquellas ciudades con todo el resto de sus fuerzas.»",
-                  "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 5. 4 (R. 28. 3471). — Además con por, que expresa el medio."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para expresar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Corrió voz de que venía en persona el Emperador mejicano a socorrer aquellas ciudades con todo el resto de sus fuerzas.»",
+                      "autor": "Solís",
+                      "referencia_obra": ", Conq. de Méj. 5. 4 (R. 28. 3471)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«No vine por mis pies a tantos daños.»",
-                  "autor": "Garcil.",
-                  "referencia_obra": "Canc. 4 (p. 167)."
+                  "id_limpio": "—",
+                  "definicion": "Además con por, que expresa el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«No vine por mis pies a tantos daños.»",
+                      "autor": "Garcil.",
+                      "referencia_obra": "Canc. 4 (p. 167)."
+                    }
+                  ]
                 }
               ]
             },
@@ -500,40 +729,58 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con la prep. con, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ponderaré como vinieron estos Santos con grande resplandor y majestad.»",
                   "autor": "Puente",
                   "referencia_obra": ", Medit. 3. 22 (2. 154)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con de, para señalar el lugar. X",
+              "definicion": "Con de, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Vengo de lejos y está frío el aire. —Siéntese a la lumbre. Y si en algo podemos ayudarle... Los caminos dan hambre y sed.»",
                   "autor": "Casona",
                   "referencia_obra": ", La dama del alba, p. 18."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con en, para expresar: la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En este tiempo vino en busca suya un caballero principal y mancebo.»",
                   "autor": "Yepes",
-                  "referencia_obra": ", Vida de Sta. Ter. 2. 16 (Míst. 1. 176). — El modo."
-                },
+                  "referencia_obra": ", Vida de Sta. Ter. 2. 16 (Míst. 1. 176)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Si no eres Dios en su lugar veniste.»",
-                  "autor": "Valb.",
-                  "referencia_obra": "Siglo de oro, p. 6."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Si no eres Dios en su lugar veniste.»",
+                      "autor": "Valb.",
+                      "referencia_obra": "Siglo de oro, p. 6."
+                    }
+                  ]
                 }
               ]
             }
@@ -543,70 +790,101 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y ahora, que lo ve venido, ensoberbécese y emperézase, y hace de la delicada por hacerle penar.»",
               "autor": "León",
               "referencia_obra": ", Cantares, 5 (4. 85)."
             },
             {
+              "marca": "",
               "texto_cita": "«Acontece a los que ponen redes o lazos, venida la razón de la presa; tirar de la cuerda con que la red cae o el lazo se aprieta.»",
               "autor": "",
-              "referencia_obra": "Id. Expos. de Job, 1. 18 (1. 283). X"
+              "referencia_obra": "Id. Expos. de Job, 1. 18 (1. 283)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se me pasó todo aquel día y la noche antes de la solemne fiesta, la cual venida, fue con grandísimo regocijo y aplauso de todos los moradores de nuestra aldea y de los circunvecinos lugares solemnizada.»",
               "autor": "Cerv.",
               "referencia_obra": "Gal. 1 (Cl. C. 154. 72)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para señalar el lugar. X",
+              "definicion": "Con de, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Por fin, las hojas se abrieron de par en par, y un hombre venido de afuera anunció...»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 107)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Diéronse al descanso los recién venidos las horas que parecieron necesarias.»",
                   "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 5. 14 (R. 28. 3651). X"
+                  "referencia_obra": ", Conq. de Méj. 5. 14 (R. 28. 3651)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El rey Fernando, que con Isabel había encumbrado a España, a donde estaba, contempla hoy el desgranarse de sus amigos para formar mazorca con el recién venido.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 1. 3 (p. 53). — Con de. X"
+                  "referencia_obra": ", Biogr. del Caribe, 1. 3 (p. 53)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hay diferencia de unos a otros, que los venidos de la mano de Dios él sabe sacarme dellos y son los tales minas de oro finísimo, joyas preciosísimas.»",
+                      "autor": "Alemán",
+                      "referencia_obra": ", Guzmán, 1. 1. 3 (Cl. C. 73. 107)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En resolución, concertaron, como se ha dicho, la venida de allí a ocho días, y que se había de llamar cuando fuese gitano Andrés Caballero, porque también había gitanos entre ellos deste apellido.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Nov. 1 (Cl. C. 27. 47)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Luego, el tormento de Davo; y en fin, la venida de Critón a descubrir que Gliceria es la hija perdida de Cremes, llamada Passíbula.»",
+                      "autor": "Cascales",
+                      "referencia_obra": ", Tablas poét. 4 (Cl. C. 207. 209)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Hay diferencia de unos a otros, que los venidos de la mano de Dios él sabe sacarme dellos y son los tales minas de oro finísimo, joyas preciosísimas.»",
-                  "autor": "Alemán",
-                  "referencia_obra": ", Guzmán, 1. 1. 3 (Cl. C. 73. 107). X"
-                },
-                {
-                  "texto_cita": "«En resolución, concertaron, como se ha dicho, la venida de allí a ocho días, y que se había de llamar cuando fuese gitano Andrés Caballero, porque también había gitanos entre ellos deste apellido.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Nov. 1 (Cl. C. 27. 47). X"
-                },
-                {
-                  "texto_cita": "«Luego, el tormento de Davo; y en fin, la venida de Critón a descubrir que Gliceria es la hija perdida de Cremes, llamada Passíbula.»",
-                  "autor": "Cascales",
-                  "referencia_obra": ", Tablas poét. 4 (Cl. C. 207. 209). — Con un posesivo. X"
-                },
-                {
-                  "texto_cita": "«Pero que sale a veros me parecé, | Que la ha obligado a madrugar el gusto | Que el alborozo con razón la ofrece | De la venida vuestra.»",
-                  "autor": "Guev.",
-                  "referencia_obra": "El diablo está en Cantillana, 1 (Cl. C. 132. 118)."
+                  "id_limpio": "—",
+                  "definicion": "Con un posesivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pero que sale a veros me parecé, | Que la ha obligado a madrugar el gusto | Que el alborozo con razón la ofrece | De la venida vuestra.»",
+                      "autor": "Guev.",
+                      "referencia_obra": "El diablo está en Cantillana, 1 (Cl. C. 132. 118)."
+                    }
+                  ]
                 }
               ]
             }
@@ -617,58 +895,72 @@
     {
       "id": "d)",
       "definicion": "Seguir una cosa a otra que se expresa (intrans.)",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con la expresión después de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Más segura es la alegría que viene después de la tristeza, que el gozo que viene sin haber pasado tristeza.»",
               "autor": "Ávila",
               "referencia_obra": ", Festiv. 3 (5. 100)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y la buena suerte es mayor, cuando viene después de alguna desventura muy grande.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 3. 1 (3. 311)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con luego. X",
+              "definicion": "Con luego.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Vespucci está dando la claridad del triunfo: Colón clamando por compación. Luego, viene la segunda carta de Vespucci.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 1. 1 (p. 28)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con tras o tras de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y fue tal la alegría | Que nos vino tras tanta desventura, | Que, puesto que se via, | Más nos pareció sueño que soltura.»",
                   "autor": "M. de Chaide",
                   "referencia_obra": ", Magd. 3. 39 (R. 27. 3612)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Tras de estos viene una silla de manos bordada de trofeos para las visitas de la Fortuna.»",
                   "autor": "Guev.",
-                  "referencia_obra": "Diabl. Coj. 7 (R. 33. 352). X"
+                  "referencia_obra": "Diabl. Coj. 7 (R. 33. 352)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tras el asalto a Santiago, viene el de Campeche, en México, con la toma del fuerte y las catorce naves que caen en poder de Mr. Mings.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 213)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -677,95 +969,125 @@
     {
       "id": "e)",
       "definicion": "Seguido de la prep. sobre, Caer (intrans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Ezechías enfermó poco después de la mortandad que sobre los asirios vino una noche.»",
           "autor": "León",
           "referencia_obra": ", Expos. de Job, 1. 2 (1. 26)."
         },
         {
+          "marca": "",
           "texto_cita": "«Y usa aquí de otra semejanza tercera sacada de lo que en la guerra acontece cuando un poderoso ejército viene sobre una ciudad y la cerca y la bate.»",
           "autor": "",
           "referencia_obra": "Id. ib. 1. 19 (1. 295)."
         },
         {
+          "marca": "",
           "texto_cita": "«Aunque te juro que soy | Hidalga, y sobre un hidalgo | Todo viene bien.»",
           "autor": "Rojas",
           "referencia_obra": ", Don Diego de noche, 2 (R. 54. 2202)."
         },
         {
+          "marca": "",
           "texto_cita": "«No querría volver a padecer los trabajos que continuamente venían sobre ellos.»",
           "autor": "Quint.",
           "referencia_obra": "Balboa (2. 17). ."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "2",
       "definicion": "Aplicado a procesos.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Proceder una cosa de otra (intrans.)",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Grande es la ceguedad del humano corazón, y de la ceguedad viene la dureza.»",
               "autor": "Ávila",
               "referencia_obra": ", Eucar. 24 (4. 352)."
             },
             {
+              "marca": "",
               "texto_cita": "«Tengo por gran merced del Señor la paciencia que su Magestad me dió, que se veía claro venir dél.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Vida, 5 (1. 27)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hizo que los vándalos de cuyo linaje él venía ---, hiciesen entrada en la Gallia.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 5. 1 (1. 2002)."
             },
             {
+              "marca": "",
               "texto_cita": "«Siempre el hacer bien es de provecho, y la recompensa viene muchas veces de quien menos se pensó que la pudiera hacer.»",
               "autor": "Moncada",
-              "referencia_obra": ", Exped. 53 (R. 21. 512). X"
+              "referencia_obra": ", Exped. 53 (R. 21. 512)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ya sé, señor Azorín, de dónde viene todo esto —dice don Cándido—; ya sé que hay ahora una corriente en contra de Argamasilla.»",
               "autor": "Azorín",
-              "referencia_obra": ", Ruta de D. Quijote, 5 (p. 351). X"
+              "referencia_obra": ", Ruta de D. Quijote, 5 (p. 351)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Fanático viene de fanum, que significa templo gentil.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 2 (p. 191). X"
+              "referencia_obra": ", Sueños, 2 (p. 191)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Todo lo nuestro viene de tu vida apagada, | Tu herencia fueron ríos, llanuras, campanarios, | Tu herencia es el pan nuestro de cada día, padre.»",
               "autor": "Neruda",
-              "referencia_obra": ", Poes. p. 105. — Además con dat."
-            },
+              "referencia_obra": ", Poes. p. 105."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Que doña Catalina, como parte, | Duquesa de Berganza pretendía | Por hija del infante don Duarte, | Que de derecho el reino le venía.»",
-              "autor": "Erc.",
-              "referencia_obra": "Arauc. 37 (R. 17. 1361). X"
-            },
-            {
-              "texto_cita": "«Hombres hechos y derechos que insensiblemente se han vuelto escépticos, cuando hasta ayer eran convencidos y luchadores, lo cual les venía de casta, de tradiciones y de posición política.»",
-              "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 4 (p. 25). X"
-            },
-            {
-              "texto_cita": "«La carne, la enjundia, el tocino, los quebrantos, todo en su cerdo ha de ser muy gustoso, porque además de su legítima mantenencia, le viene de raza.»",
-              "autor": "Miró",
-              "referencia_obra": ", Años y leguas, p. 28."
+              "id_limpio": "—",
+              "definicion": "Además con dat.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Que doña Catalina, como parte, | Duquesa de Berganza pretendía | Por hija del infante don Duarte, | Que de derecho el reino le venía.»",
+                  "autor": "Erc.",
+                  "referencia_obra": "Arauc. 37 (R. 17. 1361)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Hombres hechos y derechos que insensiblemente se han vuelto escépticos, cuando hasta ayer eran convencidos y luchadores, lo cual les venía de casta, de tradiciones y de posición política.»",
+                  "autor": "M. F. Suárez",
+                  "referencia_obra": ", Sueños, 4 (p. 25)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«La carne, la enjundia, el tocino, los quebrantos, todo en su cerdo ha de ser muy gustoso, porque además de su legítima mantenencia, le viene de raza.»",
+                  "autor": "Miró",
+                  "referencia_obra": ", Años y leguas, p. 28."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -773,21 +1095,41 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Dª Urraca su hija a quien por derecho venía el reino, estaba ausente.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 10. 8 (1. 4862). — Además con dat. X"
+                  "referencia_obra": ", Hist. Esp. 10. 8 (1. 4862)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con dat.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Como si fueras galán | Al uso, con cama y mesa, | Sin saber cómo o por dónde | Tan grande dicha nos venga; | Pues sin ser los dos torneos, | Hoy a los dos nos sustenta.»",
+                      "autor": "Cald.",
+                      "referencia_obra": "La dama duende, 1 (Cl. C. 137. 5)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Como si fueras galán | Al uso, con cama y mesa, | Sin saber cómo o por dónde | Tan grande dicha nos venga; | Pues sin ser los dos torneos, | Hoy a los dos nos sustenta.»",
-                  "autor": "Cald.",
-                  "referencia_obra": "La dama duende, 1 (Cl. C. 137. 5). — Con la expresión por parte de."
-                },
-                {
-                  "texto_cita": "«Tenía muchos aliados, parientes y amigos de Endón, de quien venía por parte de madre.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 7. 7 (1. 3382)."
+                  "id_limpio": "—",
+                  "definicion": "Con la expresión por parte de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Tenía muchos aliados, parientes y amigos de Endón, de quien venía por parte de madre.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 7. 7 (1. 3382)."
+                    }
+                  ]
                 }
               ]
             }
@@ -796,27 +1138,33 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. Con de, para señalar el lugar. X",
+          "definicion": "Part. Con de, para señalar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ahora todos van a ver dómo es una corte: van a verla los hidalgos y pícaros venidos de España, y los negros y las indias que aún quedan para bailar y cantar areytos.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 3 (p. 59)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Tratándose de plantas, Producir.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En el mismo árbol no viene toda la fruta junta en un mismo tiempo.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 1. 10 (4. 502)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -824,53 +1172,66 @@
     {
       "id": "b)",
       "definicion": "Resultar, salir (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con dat. Además con la prep. con. X",
+          "definicion": "Con dat. Además con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Bueno; tú, Cari, cállate, y no nos vengas ahora con vergüenza...»",
               "autor": "Unamuno",
-              "referencia_obra": ", La tía Tula, 23 (p. 123). X"
+              "referencia_obra": ", La tía Tula, 23 (p. 123)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No me vengan con sus meloserías y con sus cariños y con sus ternuras.»",
               "autor": "Osorio Lizarazo",
-              "referencia_obra": ", El Camino en la sombra, p. 280. X"
+              "referencia_obra": ", El Camino en la sombra, p. 280."
             },
             {
+              "marca": "X",
               "texto_cita": "«Adela, si quieres que nos encontremos, no me vengas nunca con rodeos.»",
               "autor": "Casona",
               "referencia_obra": ", La dama del alba, p. 50."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Si te encomiendas a ella, vernás con consuelo y alivio de toda cuanta pena tuvieres.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Ven. Espír. Santo, 3 (2. 295)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Es necesario y justo que se entienda | La grande utilidad que desto viene.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 29 (R. 17. 1082)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -878,49 +1239,61 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl. Con dat. Además con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y luego se me viene con chufletas e ironías sobre si soy entremetido, sobre si ando con chismes y cuentos.»",
               "autor": "Gil y Zárate",
               "referencia_obra": ", Entremetido, 1. 7 (p. 631)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Forma las expresiones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Venir a salir: resultar. X",
+              "definicion": "Venir a salir: resultar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«De un recaudador de impuestos, de un oficial segundo, de un síndico municipal, no era posible que viniera a salir un Gobernador, un Senador, ni muchísimo menos un Presidente de la República.»",
                   "autor": "Marroquín",
                   "referencia_obra": ", Blas Gil 9 (p. 83)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Venir a parar: terminar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La plata del Perú, de Chile el oro | Viene a parar aquí.»",
                   "autor": "Valb.",
-                  "referencia_obra": "Siglo de oro, 3 (p. 39). X"
+                  "referencia_obra": "Siglo de oro, 3 (p. 39)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Bidpay, escribió el libro en su propio idioma, del cual fue traducido en árabe y después en latín, hasta que vino a parar en manos del rey de Castilla don Alfonso el Sabio, hijo de don Fernando el Santo.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 3 (p. 301)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -929,95 +1302,132 @@
     {
       "id": "c)",
       "definicion": "Alcanzar, lograr (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con dat. Además con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Poca [alabanza] le viene al médico de la salud de los sanos, sino de la cura de los enfermos.»",
               "autor": "M. de Chaide",
               "referencia_obra": ", Magd. 3. 36 (R. 27. 3571)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Suspiran antes de la riqueza por alcanzarla, y alcanzada gimen, y laceran con ella; y anhelan por venir a la honra y puestos en ella y con sus obligaciones, no pueden vivir.»",
                   "autor": "León",
                   "referencia_obra": ", Expos. de Job, 1. 3 (1. 49)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Fue maravilla en cuán poco tiempo Granada vino a mucha grandeza.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Gran. 1 (R. 21. 691)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En las demás cosas del gobierno civil parecen convenientes los consejos medios, por el peligro de las extremidades, y porque importatomar tales resoluciones, que con menos inconveniente se pueda después --- venir a uno de los dos extremos.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 85 (R. 25. 2282). — El término es una prop. infinitiva."
+                  "referencia_obra": "Emp. 85 (R. 25. 2282)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Con hurtos, con engaños y con otras malas maneras vinieron [muchos perversos] a tener grandes riquezas.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Guía, 1. 3. 2 (1. 2071)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Aún recogeremos en él pormenores, detalles, hechos, al parecer insignificantes, que vendrán a ser la contraprueba de lo que acabamos de exponer.»",
+                      "autor": "Azorín",
+                      "referencia_obra": ", Ruta de D. Quijote, 3 (p. 344)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Con hurtos, con engaños y con otras malas maneras vinieron [muchos perversos] a tener grandes riquezas.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Guía, 1. 3. 2 (1. 2071). X"
-                },
-                {
-                  "texto_cita": "«Aún recogeremos en él pormenores, detalles, hechos, al parecer insignificantes, que vendrán a ser la contraprueba de lo que acabamos de exponer.»",
-                  "autor": "Azorín",
-                  "referencia_obra": ", Ruta de D. Quijote, 3 (p. 344). — Además con la prep. con, para expresar el medio."
-                },
-                {
-                  "texto_cita": "«Eso es lo que vengo yo a ganar con mis articulillos.»",
-                  "autor": "Hartz.",
-                  "referencia_obra": "La coja y el encogido, 2. 6 (p. 294)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para expresar el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Eso es lo que vengo yo a ganar con mis articulillos.»",
+                      "autor": "Hartz.",
+                      "referencia_obra": "La coja y el encogido, 2. 6 (p. 294)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la combinación de... a. X",
+              "definicion": "Con la combinación de... a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Al cabo de los bailes mil | Vuelven las varas por do salían ir: | De alcalde vine a doctor, | Y el demonio que es sutil | Hizo con este principio | Que muchos tuvieran fin.»",
                   "autor": "Quiñ. de Benav.",
                   "referencia_obra": "Entremeses (NBAE. 18. 823)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. Con a, que expresa la finalidad. Además con por. X",
+          "definicion": "Prnl. Con a, que expresa la finalidad. Además con por.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y en la prudencia, lo más fino della y en lo que más se señala, es el dar orden cómo se venga a fines extremados y altos difficultosos por medios comunes y llanos.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 1, Braço (Cl. C. 33. 67)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Venido el hombre a aqueste conocimiento, andará ya como debe.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 2. 33 (2. 171)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1025,59 +1435,81 @@
     {
       "id": "d)",
       "definicion": "Ajustarse, convenir, acomodarse o conformarse una cosa a otra o con otra (intrans.)",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con un adv o con un predicado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y es harta comodidad la merced que V. S. nos hace; y ahora viene bien, que los visitadores se han tornado a confirmar.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cartas, 49 (R. 55. 412)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Quién podrá decir que estas palabras no vengan ajustadas al real consejo de Castilla?»",
               "autor": "Navarr.",
-              "referencia_obra": "Conserv. de monarq. 3 (R. 25. 4612). +"
+              "referencia_obra": "Conserv. de monarq. 3 (R. 25. 4612)."
             },
             {
+              "marca": "+",
               "texto_cita": "«La Blaquia se debe llamar, que es, según Nicetas, en el fin de su historia, la tierra montañosa de Tesalia, que viene bien con el nombre que Montaner la llama.»",
               "autor": "Moncada",
               "referencia_obra": ", Exped. 62 (R. 21. 572)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pruebo las llaves, abrió | Una, tan propia y igual | Vino; que para hacer mal | ¿Qué llave jamás faltó?»",
               "autor": "Alarcón",
               "referencia_obra": ", Siempre ayuda la verdad, 3. 1 (R. 20. 2413)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«A cada una [cosa] les venía como nacido aquel nombre.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 1. 2 (3. 14)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Otorgó con lo que le pedían, demás que para todo lo que resultase, le venía mejor estar en aquella ciudad.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 12. 11 (1. 6062). X"
+                  "referencia_obra": ", Hist. Esp. 12. 11 (1. 6062)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Qué vestido hay que te venga? | Qué comedia te apetece?»",
                   "autor": "Rojas",
-                  "referencia_obra": ", Loas (NBAE. 18. 351). — Además por por."
-                },
+                  "referencia_obra": ", Loas (NBAE. 18. 351)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«A ninguno por derecho ninguno le viene que en su propia causa se haga juez.»",
-                  "autor": "Venegas",
-                  "referencia_obra": ", Agonía, 3. 10 (Mist. 2. 64)."
+                  "id_limpio": "—",
+                  "definicion": "Además por por.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«A ninguno por derecho ninguno le viene que en su propia causa se haga juez.»",
+                      "autor": "Venegas",
+                      "referencia_obra": ", Agonía, 3. 10 (Mist. 2. 64)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1085,53 +1517,73 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Diré una cosa que viene muy a pelo.»",
                   "autor": "M. de Chaide",
                   "referencia_obra": ", Magd. 2. 7 (R. 27. 3052)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Guísanla [la verdad] porque suele amargar cruda, | Y tales salsas el engaño le echa, | Que con el amor propio la hace al justo | Maná que cuadra y viene a cualquier gusto.»",
                   "autor": "Valb.",
                   "referencia_obra": "Bern. 3 (R. 17. 1722)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dejóse ver [Cortés] con galas de soldado, que parecían bien en su talle y venían mejor a su inclinación.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 1. 10 (R. 2 8. 2172)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y como le dije las mercedes que Dios me hacía, para que me diese luz, díjome, que no venía lo uno con lo otro, que aquellos regalos eran de personas que estaban ya muy aprovechadas.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Vida, 23 (1. 185)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si midiendo vos una cinta, halláis que viene bien con la vara, si yo mido otra, y viene igual con la misma vara con que vos medistes la vuestra, necesariamente las dos cintas han de ser iguales.»",
                   "autor": "M. de Chaide",
                   "referencia_obra": ", Magd. 4. 64 (R. 27. 3932)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Con mi intención has venido.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "La gran sultana, 1 (Com. 2. 64). X"
+                  "referencia_obra": "La gran sultana, 1 (Com. 2. 64)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Florecitas que Rut bella pisa, | Mientras sus ojos regados os ven, | No os riáis, no os riáis, que no viene bien | Con sus lágrimas vuestra risa.»",
                   "autor": "Tirso",
-                  "referencia_obra": ", (NBAE. 4. 317). — Además con en."
-                },
+                  "referencia_obra": ", (NBAE. 4. 317)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Ofrécese también aquí la largueza inefable de Dios y el deseo que tiene de salvarnos; pues vino con nosotros en darnos el mayor de todos los bienes del mundo.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Orac. y medit. 3. 3 (2. 3642)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ofrécese también aquí la largueza inefable de Dios y el deseo que tiene de salvarnos; pues vino con nosotros en darnos el mayor de todos los bienes del mundo.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Orac. y medit. 3. 3 (2. 3642)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1139,23 +1591,28 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Quería hacer este Monasterio; y el Provincial vino muy bien en ello.»",
                   "autor": "Sta. Ter.",
-                  "referencia_obra": "Vida, 32 (1. 279). +"
+                  "referencia_obra": "Vida, 32 (1. 279)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«La república determinó de venir en lo que el Rey mandaba, y respondió que había sentido lo que Eduardo de Oria, su general, hizo con Berenguer de Entenza.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 46 (R. 21. 441)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Quizá Enrique triunfante y poderoso | viniera en conceder a tus plegarias | Un perdón que rechazan tus injurias.»",
                   "autor": "Quint.",
                   "referencia_obra": "El duque de Viseo, 3. 7 (R. 19. 552)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1164,56 +1621,69 @@
     {
       "id": "e)",
       "definicion": "Suceder, acontecer o sobrevenir (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¡Aventuran y quieren [los mortales] que les vaya allá mal, con tal que les venga acá bien!»",
               "autor": "Ávila",
               "referencia_obra": ", Epíst. 2 (6. 462)."
             },
             {
+              "marca": "",
               "texto_cita": "«Que ya vi yo en el bien de mi esperanza | Estimar mucho aquello que ha venido | Ni me dió gusto, ni ofreció holganza.»",
               "autor": "Valb.",
-              "referencia_obra": "Siglo de oro, 8 (p. 174). X"
+              "referencia_obra": "Siglo de oro, 8 (p. 174)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Transcurrieron los años, y vinieron los achaques de la vejez.»",
               "autor": "Ramón y Cajal",
-              "referencia_obra": ", Charlas de café, 11 (p. 260). X"
+              "referencia_obra": ", Charlas de café, 11 (p. 260)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Después, naturalmente, vendrán los amagos de gobierno parlamentario y demás secuelas de estas reformas constitucionales.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 4 (p. 327). X"
+              "referencia_obra": ", Sueños, 4 (p. 327)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sobre D. Miguel cae la censura del Gobierno analfabeto de Madrid. Viene el destierro impuesto por el marqués de Estella, y los conservadores se apresuran complacidos a recoger la cátedra vacante.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Estud. mesa redonda, 5 (p. 87)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Harto trabajo es con los que vuestras mercedes tienen en este negocio, les venga ahora ese.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Cartas, 67 (R. 55. 561)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Qué pérdida venir le pudo a España, | Que a la ganancia iguale desta hazaña?»",
                   "autor": "Valb.",
                   "referencia_obra": "Bern. 4 (R. 17. 1782)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1222,46 +1692,57 @@
     {
       "id": "f)",
       "definicion": "Estar (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con un predicado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Todo lo demás es muy bueno, y los confites lo vinieron, y son muchos.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cartas, 140 (R. 55. 1282)."
             },
             {
+              "marca": "",
               "texto_cita": "«Viene [nuestro padre] bueno y gordo, bendito sea Dios.»",
               "autor": "",
-              "referencia_obra": "Ead. ib. 154 (R. 55. 1422). X"
+              "referencia_obra": "Ead. ib. 154 (R. 55. 1422)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Abierto el portón, entróse | A caballo el caballero | Y echó pie a tierra. Venía | Todo de nieve cubierto.»",
               "autor": "Machado",
-              "referencia_obra": ", Poes. complet. p. 121. X"
+              "referencia_obra": ", Poes. complet. p. 121."
             },
             {
+              "marca": "X",
               "texto_cita": "«Venían los baúles llenos de seis cajas de sombreros, que portaban sus panqués, elaborados con ancestrales recetas y graduaciones de la família.»",
               "autor": "Lezama Lima",
               "referencia_obra": ", Paradiso, 7 (p. 186)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El alcaide preguntó al moro, que tal venía de sus llagas.»",
                   "autor": "Montem.",
                   "referencia_obra": "Diana, 4 (p. 162)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1270,78 +1751,126 @@
     {
       "id": "g)",
       "definicion": "Ocurrirse una cosa a la imaginación o a la memoria. (intrans)",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con dat. X",
+          "definicion": "Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Apenas hubo salido de la venta, cuando le vino al Cura un pensamiento.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1.27 (Cl. C. 8. 10). — Además con a."
+              "referencia_obra": "Quij. 1.27 (Cl. C. 8. 10)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con a.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«De muy buena gana os diré las que me vinieren a la memoria.»",
+                  "autor": "Valdés",
+                  "referencia_obra": ", Diál. (Mayáns, Oríg. leng. esp. p. 96)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Como aves agoreras veníanme a la memoria los alados versos de Camoens.»",
+                  "autor": "Unamuno",
+                  "referencia_obra": ", Por tierras de Port. y Esp. p. 91."
+                }
+              ]
             },
             {
-              "texto_cita": "«De muy buena gana os diré las que me vinieren a la memoria.»",
-              "autor": "Valdés",
-              "referencia_obra": ", Diál. (Mayáns, Oríg. leng. esp. p. 96). X"
-            },
-            {
-              "texto_cita": "«Como aves agoreras veníanme a la memoria los alados versos de Camoens.»",
-              "autor": "Unamuno",
-              "referencia_obra": ", Por tierras de Port. y Esp. p. 91. — Además con de. X"
-            },
-            {
-              "texto_cita": "«Me vino el deseo de servir algo a la tierra, y de otra tuve cierta intuición, no sé por qué, de la tempestad que se preparaba contra mí solo, no contra el señor ministro de relaciones exteriores ---.»",
-              "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 3 (p. 290). X"
-            },
-            {
-              "texto_cita": "«Cree que la conquista de México será la obra más grandiosa de su reinado. ¿De dónde ha podido venirle esta idea?»",
-              "autor": "Arciniegas",
-              "referencia_obra": ", Biogr. del Caribe, 4. 22. (p. 365)."
+              "id_limpio": "—",
+              "definicion": "Además con de.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Me vino el deseo de servir algo a la tierra, y de otra tuve cierta intuición, no sé por qué, de la tempestad que se preparaba contra mí solo, no contra el señor ministro de relaciones exteriores ---.»",
+                  "autor": "M. F. Suárez",
+                  "referencia_obra": ", Sueños, 3 (p. 290)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Cree que la conquista de México será la obra más grandiosa de su reinado. ¿De dónde ha podido venirle esta idea?»",
+                  "autor": "Arciniegas",
+                  "referencia_obra": ", Biogr. del Caribe, 4. 22. (p. 365)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. Además con en. X",
+              "definicion": "Con a. Además con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En ellos me viene a la memoria la viuda de la ciudad de Naim, de que habla el Evangelio.»",
                   "autor": "Azorín",
                   "referencia_obra": ", Riofrío, 8 (p. 130)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. Con dat. X",
+          "definicion": "Prnl. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Vínoseme esa idea, no solo por la semejanza de forma, sino también porque lo apañuscado proviene o puede provenir de tomar los objetos estrujándolos.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 2 (p. 207). — Además con a."
+              "referencia_obra": ", Sueños, 2 (p. 207)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con a.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Vínosele a la memoria a Cardenio, como por sueños, la pendencia que con don Quijote había tenido, y contóla a los demás.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 1.29 (Cl. C. 8. 83)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Los ejemplos confirmatorios de todo esto se me venían a millaradas.»",
+                  "autor": "Marroquín",
+                  "referencia_obra": ", Blas Gil, 7 (p. 63)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Vínosele a la memoria a Cardenio, como por sueños, la pendencia que con don Quijote había tenido, y contóla a los demás.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 1.29 (Cl. C. 8. 83). X"
-            },
-            {
-              "texto_cita": "«Los ejemplos confirmatorios de todo esto se me venían a millaradas.»",
-              "autor": "Marroquín",
-              "referencia_obra": ", Blas Gil, 7 (p. 63). — Además con en. X"
-            },
-            {
-              "texto_cita": "«Del edecán no hay para qué hablar, pues va diciendo lo que se le viene, aunque sea disparates y calumnias, en la forma más escandalosa.»",
-              "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 3 (p. 189)."
+              "id_limpio": "—",
+              "definicion": "Además con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Del edecán no hay para qué hablar, pues va diciendo lo que se le viene, aunque sea disparates y calumnias, en la forma más escandalosa.»",
+                  "autor": "M. F. Suárez",
+                  "referencia_obra": ", Sueños, 3 (p. 189)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1351,75 +1880,92 @@
     {
       "id": "3",
       "definicion": "Referido al tiempo, Acercarse o llegar el tiempo que se señala (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y vienen las tinieblas, y vienen también mis ayes.»",
               "autor": "León",
-              "referencia_obra": ", Nomb. 3. 3 (3. 378). +"
+              "referencia_obra": ", Nomb. 3. 3 (3. 378)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Ya es muy tarde y la noche viene, y no veo que ---»",
               "autor": "F. de Mena",
               "referencia_obra": ", Teágenes y Cariclea, 3 (p. 121)."
             },
             {
+              "marca": "",
               "texto_cita": "«Tomé la puerta de la villa en los pies de un trote, y antes que la noche viniese dí conmigo en Torrijos.»",
               "autor": "Lazar.",
               "referencia_obra": "1 (R. 3. 811)."
             },
             {
+              "marca": "",
               "texto_cita": "«La noche viene; vamos, mis cabrillas.»",
               "autor": "Valb.",
-              "referencia_obra": "Siglo de oro, 10 (p. 217). X"
+              "referencia_obra": "Siglo de oro, 10 (p. 217)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Que a de venir día en que yo no anochesca, y amanesca o no anochesca?»",
               "autor": "Solís",
-              "referencia_obra": "y Valenzuela, El desierto prodigioso, 1 (ICC. 45. 77). X"
+              "referencia_obra": "y Valenzuela, El desierto prodigioso, 1 (ICC. 45. 77)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vendrá la noche: ahora | Libre, diré le hablaba; | Ahora el Amor nos daba | La copa del placer.»",
               "autor": "Mel.",
-              "referencia_obra": "Poes. (Cl. C. 64. 179). X"
+              "referencia_obra": "Poes. (Cl. C. 64. 179)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los días vienen y se van como vienen y se van las olas de la mar.»",
               "autor": "Unamuno",
               "referencia_obra": ", Cómo se hace una novela, p. 183."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Venida la mañana, juntáronse y tomaron lo áspero de la sierra.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granad. 1 (R. 21. 742)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Forma la expresión, La que viene: la próxima.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si esta semana se usan cruces de diamantes, la que viene no se traerán sino en forma de firmezas, y la siguiente de otra manera.»",
               "autor": "",
               "referencia_obra": "Navarrete, Conserv. de monarq. 34 (R. 25. 5241)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1427,251 +1973,316 @@
     {
       "id": "4",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Locuciones.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Venir(se) al suelo (abajo) una cosa: caerse, derrumbarse. X",
+          "definicion": "Venir(se) al suelo (abajo) una cosa: caerse, derrumbarse.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«También aconteció siempre que, cayendo los mártires, venían al suelo los ídolos y se consumían los martirizadores gentiles.»",
               "autor": "León",
-              "referencia_obra": ", Nomb. (Cl. C. 33. 82). +"
+              "referencia_obra": ", Nomb. (Cl. C. 33. 82)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Suele el tiempo, y aun Dios, castigar de manera las vanidades, que los montes se allanan y las torres vienen al suelo.»",
               "autor": "Espinel",
               "referencia_obra": ", Escud. 1. 2 (Cl. C. 43. 53)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cerraron de una y otra parte con gallardía, y fue tanta la furia del primer encuentro ---, que los que quedaron dentro de Galípoli les pareció que todo el lugar venía al suelo, a semejanza de terremoto.»",
               "autor": "Moncada",
-              "referencia_obra": ", Exped. 35 (R. 21. 331). X"
+              "referencia_obra": ", Exped. 35 (R. 21. 331)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Acaba por hacer cabriolas sobre el mísero tema anecdótico, que, exento de fortaleza, se viene abajo con toda la saltimbanquía de líneas y contrastes sobre él amontonada.»",
               "autor": "",
-              "referencia_obra": "Ortega y Gasset, Mocedades, p. 116. X"
+              "referencia_obra": "Ortega y Gasset, Mocedades, p. 116."
             },
             {
+              "marca": "X",
               "texto_cita": "«El Banco y la compañía han venido al suelo, con un estrépito que llena las callejuelas vecinas a gritos, llantos y caras de cera.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 3. 14 (p. 272)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Venir a cuento (al caso): convenir a propósito. X",
+          "definicion": "Venir a cuento (al caso): convenir a propósito.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Jacobo Guillermo Imhoff, dinamarqués o sueco (que ahora no me acuerdo), famoso genealogista de las casas ilustres de España y de Italia, que a cualquiera le emparentará con quien le venga más a cuento.»",
               "autor": "Isla",
-              "referencia_obra": ", Fr. Ger. 1 (Cl. C. 148. 150). X"
+              "referencia_obra": ", Fr. Ger. 1 (Cl. C. 148. 150)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En verdd, todo esto sería muy bueno y muy deleitable, pero no vendría al caso.»",
               "autor": "Forner",
-              "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 85). X"
+              "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 85)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Debe vuestra merced poner un renglón de estos en cada una de mis obras, según y como venga más al caso, aunque sea estirando el sentido.»",
               "autor": "Cadalso",
               "referencia_obra": ", Cartas marr. 67 (Cl. C. 112. 224)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Venir a las manos: pelear, reñir X",
+          "definicion": "Venir a las manos: pelear, reñir",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Nunca yo pensé que el amor pudiera traer a tal estremo a un amante, que viniesse a las manos con la persona amada.»",
               "autor": "Montem.",
-              "referencia_obra": "Diana, 2 (NBAE. 7. 3322). X"
+              "referencia_obra": "Diana, 2 (NBAE. 7. 3322)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Reíanse los Judíos quando con ellos venían a las manos los católicos.»",
               "autor": "",
-              "referencia_obra": "Siguenza, Vida de S. Gerón. 4. 4 (Dicc. Autor.). X"
+              "referencia_obra": "Siguenza, Vida de S. Gerón. 4. 4 (Dicc. Autor.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Estuvieron cerca de venir a las manos, porque no falta entre tantos quien gusta de revolver, por hacer daño al enemigo o acreditarse con el amigo.»",
               "autor": "Moncada",
-              "referencia_obra": ", Exped. 1. 47 (Cl. C. 54. 171). X"
+              "referencia_obra": ", Exped. 1. 47 (Cl. C. 54. 171)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dirigiendo la palabra a los dos combatientes, que manifestaban gran deseo de venir a las manos, le dijo con majestad enérgica:...»",
               "autor": "Forner",
               "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 203)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Venirse a los ojos: hacerse patente. X",
+          "definicion": "Venirse a los ojos: hacerse patente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El color en el cuerpo, el cual resulta de la mezcla de la cualidades y humores que ay en él, y que es lo primero que se viene a los ojos, responde a la liga, o si lo podemos dezir assí, a la mezcla.»",
               "autor": "León",
               "referencia_obra": ", Nomb. (Cl. C. 28. 94)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ningún bien se viene tanto a los ojos humanos ---, como una mujer perfecta.»",
               "autor": "",
-              "referencia_obra": "Id. Perf. cas. 21 (4. 517). X"
+              "referencia_obra": "Id. Perf. cas. 21 (4. 517)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entróse de claro en claro una fregona, con un canastillo que se venía a los ojos.»",
               "autor": "Quev.",
               "referencia_obra": "Cuent. (Dicc. Autor.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Venir a menos: arruinarse, empeorarse o caer del estado que se gozaba.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Sabe usted que empezamos a venir a menos desde que fue usted nuestro administrador.»",
               "autor": "Hartz.",
-              "referencia_obra": "Juan de las Viñas, 1. 3 (p. 3 10). X"
+              "referencia_obra": "Juan de las Viñas, 1. 3 (p. 3 10)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Todavía conservaba ese aspecto de dignidad que denuncia a ciertas personas venidas a menos.»",
               "autor": "Rivera",
-              "referencia_obra": ", La vorágine, 1 (p. 19). X"
+              "referencia_obra": ", La vorágine, 1 (p. 19)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tienen tal dignidad dentro de sus harapos, que ante ellos me sobrecoge la impresión de que son hidalgos venidos a menos, Grandes de España caídos en desgracia.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 27."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ξ )",
           "id_limpio": "— ξ )",
           "definicion": "Venirle a uno muy ancha una cosa: ser excesiva para su capacidad o su mérito.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Era su provecho dellas y de sus padres, y veníales [el matrimonio] muy ancho, y no tenía Dios por qué indignarse.»",
               "autor": "M. de Chaide",
               "referencia_obra": ", Magd. 2. 6 (R. 27. 3021)."
             },
             {
+              "marca": "",
               "texto_cita": "«Lo que ahora tengo, por poco que sea, me viene muy ancho.»",
               "autor": "Puente",
               "referencia_obra": ", Medit. 1. 10 (1. 107)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
-          "definicion": "Venir a pelo: ser a propósito. X",
+          "definicion": "Venir a pelo: ser a propósito.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Afirmo ahora que los versos de circunstancias nunca son malos, si vienen a pelo.»",
               "autor": "Larra",
               "referencia_obra": ", Artíc. polít. y soc. (Cl. C. 77. 45)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
-          "definicion": "Venir el parto derecho: suceder sin dificultades, ocurrir algún negocio favorablemente según se deseaba. X",
+          "definicion": "Venir el parto derecho: suceder sin dificultades, ocurrir algún negocio favorablemente según se deseaba.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y si ley hay en los naipes, el parto viene derecho con buena ventura.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 2. 1. 2 (Dicc. Autor.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ι )",
           "id_limpio": "— ι )",
-          "definicion": "Venir de perlas: ser a propósito. X",
+          "definicion": "Venir de perlas: ser a propósito.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Habiendo yo dicho tocar a muerto, venía de perlas para poner delante un difunto.»",
               "autor": "Isla",
               "referencia_obra": ", Fr. Ger. 1 (Cl. C. 148. 94)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— κ )",
           "id_limpio": "— κ )",
-          "definicion": "Venga lo que viniere: frase con que se da a entender la resolución o determinación en que se está de emprender o ejecutar alguna cosa, sin recelo de peligro, o riesgo del éxito próspero o adverso. X",
+          "definicion": "Venga lo que viniere: frase con que se da a entender la resolución o determinación en que se está de emprender o ejecutar alguna cosa, sin recelo de peligro, o riesgo del éxito próspero o adverso.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Venga lo que viniere; que a los osados favorece la fortuna.»",
               "autor": "Alemán",
-              "referencia_obra": ", Guzmán, 1. 3. 8 (Dicc. Autor.). X"
+              "referencia_obra": ", Guzmán, 1. 3. 8 (Dicc. Autor.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esto ha de ser, D. García, | Todos estamos suspensos: | Pues venga lo que viniere.»",
               "autor": "Solís",
               "referencia_obra": ", El amor al uso, 3 (Dicc. Autor.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— λ )",
           "id_limpio": "— λ )",
           "definicion": "Por venir: todavía no sucedido, lo futuro.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Bien fue aquel para los pasados, presentes y por venir.»",
               "autor": "Ávila",
-              "referencia_obra": ", Eucar. 14 (4. 9). X"
+              "referencia_obra": ", Eucar. 14 (4. 9)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y todo ello se alza, añorando siglos que fueron, y quien sabe si siglos por venir, en un valle de sosiego y de olvido del mundo.»",
               "autor": "Unamuno",
               "referencia_obra": ", Andanzas y visiones esp. p. 11."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— μ )",
           "id_limpio": "— μ )",
-          "definicion": "Cosas que van y vienen: frase que se usa para consolar a alguno en lo que padece o le sucede, explicando la precisión de la alternada sucesión de las cosas, que nunca permanecen en un mismo estado. X",
+          "definicion": "Cosas que van y vienen: frase que se usa para consolar a alguno en lo que padece o le sucede, explicando la precisión de la alternada sucesión de las cosas, que nunca permanecen en un mismo estado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Diéronse cartas, que son | Para que no desespere | El Mundo, quando le afligen | Las cosas que van y vienen.»",
               "autor": "",
-              "referencia_obra": "Montor. Obr. póst. 1 (pl. 82). — v) Bien venido (s): se usa como fórmula de tratamiento para recibir a una persona. X"
-            },
+              "referencia_obra": "Montor. Obr. póst. 1 (pl. 82)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«La paz del Señor..., del señor inspector sea con ustedes. —Santas y guasonas. —Bien venidos. ¿Y de chunga por lo visto?»",
-              "autor": "Arniches",
-              "referencia_obra": ", Es mi hombre, 2 (p. 165)."
+              "id_limpio": "—",
+              "definicion": "v) Bien venido (s): se usa como fórmula de tratamiento para recibir a una persona.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«La paz del Señor..., del señor inspector sea con ustedes. —Santas y guasonas. —Bien venidos. ¿Y de chunga por lo visto?»",
+                  "autor": "Arniches",
+                  "referencia_obra": ", Es mi hombre, 2 (p. 165)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1681,32 +2292,40 @@
     {
       "id": "b)",
       "definicion": "Refranes.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "A cada puerco le viene su San Martín. X",
+          "definicion": "A cada puerco le viene su San Martín.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y el porquerizo concomiéndose, dijo: \"Con virgo tengo mis espaldas. —A cada puerco le viene su san Martín—\" dijo el demandador.»",
               "autor": "Quev.",
               "referencia_obra": "Buscón, 11 (Cl. C. 5. 143)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "No hay mal que por bien no venga: X",
+          "definicion": "No hay mal que por bien no venga:",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No hay mal que por bien no venga, | Dicen adagios vulgares, | Y en mí se ve, pues que vienen | Por mis bienes vuestros males.»",
               "autor": "Cald.",
               "referencia_obra": "La dama duende, 2 (Cl. C. 137. 45)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1714,121 +2333,145 @@
     {
       "id": "5",
       "definicion": "Como verbo auxiliar forma parte de construcciones perifrásticas destacando el aspecto del verbo principal.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Venir + gerundio. Destaca el sentido durativo de la acción significada por el verbo principal agregando una noción progresiva.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Viene en estos años creciendo poco a poco este deseo.»",
           "autor": "Sta. Ter.",
           "referencia_obra": "Mor. 6. 11 (2. 166).x"
         },
         {
+          "marca": "",
           "texto_cita": "«El pastor cantando viene | Sus amores por el valle, | Y al rayo del sol se vuelve.»",
           "autor": "Mel.",
-          "referencia_obra": "Poes. (Cl. C. 64. 222). X"
+          "referencia_obra": "Poes. (Cl. C. 64. 222)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Hizo grandes esfuerzos en esta materia, la cual venía experimentando muchas vicisitudes bajo los gobiernos de varios de sus predecesores.»",
           "autor": "M. F. Suárez",
-          "referencia_obra": ", Sueños, 2 (p. 150). X"
+          "referencia_obra": ", Sueños, 2 (p. 150)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Las dotes, cualidades, merecimientos y circunstancias del señor Abadía Méndez me satisfacían, me tranquilizaban, y reemplazaban con una situación de contento la que venía yo soportando.»",
           "autor": "",
-          "referencia_obra": "Id. ib. 2 (p. 231). X"
+          "referencia_obra": "Id. ib. 2 (p. 231)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Al cabo de muchos años y al rodar de los acontecimientos, un esfuerzo final coloca el asunto en el campo despejado y sólido que la sinceridad venía buscando.»",
           "autor": "",
-          "referencia_obra": "Id. ib. 3 (p. 299). X"
+          "referencia_obra": "Id. ib. 3 (p. 299)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Hasta aquí hemos venido evocando historia.»",
           "autor": "Arciniegas",
-          "referencia_obra": ", Estud. mesa redonda, 5 (p. 77). X"
+          "referencia_obra": ", Estud. mesa redonda, 5 (p. 77)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Walker tiene todo un ejército de norteamericanos, que ha venido atrayendo.»",
           "autor": "",
           "referencia_obra": "Id. Biogr. del Caribe, 4. 21 (p. 360)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Venir + infinitivo. Denota que la acción perfectiva del verbo principal se acerca a su término.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Las narices están de tal manera asentadas, que vienen a ser como un muro puesto ante los ojos.»",
           "autor": "Gran.",
           "referencia_obra": "Símb. 1. 31 (4. 1471)."
         },
         {
+          "marca": "",
           "texto_cita": "«Ahora vengamos a entender como va adelante nuestro buen Maestro.»",
           "autor": "Sta. Ter.",
           "referencia_obra": "Vida, 30 (1. 526)."
         },
         {
+          "marca": "",
           "texto_cita": "«¡Oh tres, y cuatro veces venturosa | Aquella edad dorada, | Quede sencilla, pura, y no envidiosa, | Vino a ser envidiada!»",
           "autor": "Quev.",
           "referencia_obra": "Oda 3 (Poes. 2. 44)."
         },
         {
+          "marca": "",
           "texto_cita": "«Que los aborrecidos y enojosos, | Cuando fueron dichosos | Vienen a ser amados | Cuando son desdichados.»",
           "autor": "Lope",
           "referencia_obra": ", Laurel de Apolo 6 (Obr. suelt. 1. 127)."
         },
         {
+          "marca": "",
           "texto_cita": "«¿Qué viene a ser esta vida, sino un breve camino para la muerte?»",
           "autor": "",
           "referencia_obra": "Id. Dorotea, 5. 10 (Obr suelt. 7. 443)."
         },
         {
+          "marca": "",
           "texto_cita": "«Se casaba con una de dos hermanas del Rey de Francia, es a saber Margarita..., o con Blanca que vino a casar con el Duque de Austria.»",
           "autor": "Mariana",
           "referencia_obra": ", Hist. Esp. 14. 10 (1. 7112)."
         },
         {
+          "marca": "",
           "texto_cita": "«Era bueno el camino por donde los había encaminado, pues venía a tener tal paradero.»",
           "autor": "L. Palma",
           "referencia_obra": ", Vida de G. de la Palm., p. 26."
         },
         {
+          "marca": "",
           "texto_cita": "«Reconociendo los ministros la inclinación del príncipe, le lisonjean, dando a entender que son del mismo humor. Siguen sus temas, y viene a ser un gobierno de obstinados.»",
           "autor": "Saav.",
-          "referencia_obra": "Emp. 7 (R. 25. 242). +"
+          "referencia_obra": "Emp. 7 (R. 25. 242)."
         },
         {
+          "marca": "+",
           "texto_cita": "«El [hombre] que había quedado con la herida ---, curándose lo mejor que pudo, vino a morir de la herida.»",
           "autor": "Espinel",
           "referencia_obra": ", Escud. 2 (Cl. C. 51. 12)."
         },
         {
+          "marca": "",
           "texto_cita": "«Un nuevo incidente vino a turbar los ánimos.»",
           "autor": "A. Saav.",
-          "referencia_obra": "Masan. 2. 13 (5. 105). X"
+          "referencia_obra": "Masan. 2. 13 (5. 105)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Salí con esperanza casi cierta de venir a ser el empleado que pusiera en práctica lo aconsejado en mi estudio.»",
           "autor": "Marroquín",
           "referencia_obra": ", Blas Gil, 12 (p. 120)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «Y porque en vos se contiene | Perfetión tan verdadera, | Que gloria grande les viene | A la tierra porque os tiene, | Y al cielo porque os espera.» D. de S. Pedro, Poes. amor. (Cl. C. 133. 218). + «Dezía él [Enrique IVI, que ninguna mayor pena podía rescebir el iniurador, que venir a manos del iniurado.» Pulgar, Clar. Var. 9 (Cl. C. 49. 81). X «Hallo que ningún poder | Ni libertad en mí tengo, | Pues ni'stó ni vo ni vengo.» J. Manr. Canc. (Cl. C. 94. 66). + «El Rey le envió a mandar --- al Condestable que sin ninguna escusa ni dilaçión se viniese para él.» Crón. Álv. de Luna, 17 (p. 64). X «Cómo o quando venistes | En el miserable coro?» Santill, Canc. (Cl. C. 18. 36). + «Salio [el puerco] viniendo contra ellos sin temer la muchedumbre e pusose en medio.» Villena, Doze trabajos, 11 (p. 112).\n\n— Siglo XIV: + «Que por esta razón non oviese entre ellos guerra ---, de que vernía muy grand daño a la tierra.» Crón. Alf. XI, 7 (p. 20). X «Por salvar las sus almas avían todos desseo: | Quantos son en el mar venían al torneo, | Arenques e vesugos venieron de Bermeo.» Arc. de Hita, (Cl. C. 17. 97). + «Atan ayna vos vino a coraçón que podría ser verdat lo que mío auuelo me dixo?» Zifar, 8 (p. 35).\n\n— Siglo XIII: X «Guarda-te de la falsedat, e sepas el daño que d'ella viene; e si cayeres en ella, puna en sallir d'ella quanto pudieres.» Boc. de oro (Bonn, p. 69). + «Esta es aquella Raab dont uino sancta María, madre de nuestro sennor Jhesu Cristo.» Alf. X, General estoria, 1 (8. 21). X «Quiero en estos arbores un ratiello sobir, | E de los sos miraelos algunos escrivir, | La Gloriosa me guíe que lo pueda complir, | Ca yo non me trevía en ello a venir.» Berc. Mil. (Cl. C. 44. 12). X «Tú serás a diez días del golpe byen guarido, | E será el tu pueblo a ese plazo venido.» Fern. Gonz. 14 (Cl. C. 128. 102).\n\n— Siglo XII: X «Di Ferrando, otorga esta razón: | Non te viene en miente en Valencia lo del león | Quando durmie mio (Çid y el león se desató?» Cid, 3330 ( Mndz. Pidal, p. 245).",
   "testimonios_latino_hispanicos": "Test. latin. hisp. X «Era DCCLII venerunt Sarraceni in Hispaniam tempore Ruderici Regis, et praeoccupaverunt eam, sed non totam.» Anales Complutenses (Berg. Antigüed. 1. 92). X «Era DXLVI Theodoricus Ostrogothurum Rex in Hispaniam venit.» Nicol. Ant. Bibl. Vet. 2 (Berg. Antigüed. 1. 6).",
-  "etimologia": "Etim. Del lat. venire 'venir, llegar, ir a, arribar'. It. venire, fr. y cat. venir, cat. vindrer, port. vir.",
+  "etimologia": "Etim. Del lat. <i>venire </i>'venir, llegar, ir a, arribar'. It. <i>venire, </i>fr. y cat. <i>venir, </i>cat. <i>vindrer, </i>port. <i>vir.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
-  "conjugacion": "Conjug. Presenta las siguientes formas irregulares: vengo, vienes, -e, -en; vine, -iste, -o, -imos, -isteis, -ieron; viniera, -ieras, -iéramos, -iérais, -ieran; viniese, -ieses, -iese, -iésemos, -ieseis, -iesen.\n\n\u0000",
+  "conjugacion": "Conjug. Presenta las siguientes formas irregulares: vengo, vienes, -e, -en; vine, -iste, -o, -imos, -isteis, -ieron; viniera, -ieras, -iéramos, -iérais, -ieran; viniese, -ieses, -iese, -iésemos, -ieseis, -iesen.",
   "construccion_sintactica": "",
   "prosodia": "",
   "colocacion_concordancia": ""

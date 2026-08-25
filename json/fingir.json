@@ -1,87 +1,108 @@
 {
   "lema": "FINGIR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen así:\n\n— 1, modelar, diseñar, dar forma a algo, a) dicho de objetos físicos como escultura y similares, tallar, modelar (En particular dicho de libros, Escribir, componer: δ ), b) trazar líneas imaginarias entre objetos reales, c) imaginar, representarse en la mente algún objeto o situación, d) aplicado a obras del intelecto (literatura, mito, fábula, etc.), crear figuras, personajes, situaciones;\n\n— 2, forjar, inventar, hacer aparecer como real y auténtico algo que no existe o no tiene las cualidades con que se presenta, a) dicho de comportamientos, actitudes, acciones, estados somáticos o anímicos, simularlos, mostrarlos como reales y auténticos cuando no son tales, b) hacer el papel, representar, c) imitar, remedar, contrahacer (aplicado a la voz, cambiarla, impostarla: δ );\n\n— 3, semejar, parecer, dar la impresión de.",
+  "introduccion": "Las acepciones se distribuyen así:\n\n— 1, modelar, diseñar, dar forma a algo, a) dicho de objetos físicos como escultura y similares, tallar, modelar (En particular dicho de libros, Escribir, componer: δ ), b) trazar líneas imaginarias entre objetos reales, c) imaginar, representarse en la mente algún objeto o situación, d) aplicado a obras del intelecto (literatura, mito, fábula, etc.), crear figuras, personajes, situaciones;\n\n— 2, forjar, inventar, hacer aparecer como real y auténtico algo que no existe o no tiene las cualidades con que se presenta, a) dicho de comportamientos, actitudes, acciones, estados somáticos o anímicos, simularlos, mostrarlos como reales y auténticos cuando no son tales, b) hacer el papel, representar, c) imitar, remedar, contrahacer (aplicado a la voz, cambiarla, impostarla: δ );\n\n— 3, semejar, parecer, dar la impresión de.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "Modelar, diseñar, dar forma a algo.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": ")",
       "definicion": "Dicho de objetos físicos como escultura y similares, Tallar, modelar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Bien puedo yo fingir una escultura | Que disculpe mi amor, y en dulce vena | Convertir a Fileno en Filomena.»",
               "autor": "Lope",
               "referencia_obra": ", Poes. lír. (Cl. C. 68. 168)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. X",
+          "definicion": "Pas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La torre penetró la lluvia de oro, | Adonde estaba Dánae, y fue de Europa | Por el rubio metal fingido el toro.»",
               "autor": "Lope",
               "referencia_obra": ", Poes. lír. (Cl. Ebro, 2. 111)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con por, para señalar el agente. X",
+          "definicion": "Part. Con por, para señalar el agente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Conocer pudieron | Cuánto el Dios de Jacob se diferencia | De sus terrenos simulacros vanos, | Bultos fingidos por mortales manos.»",
               "autor": "Jáur.",
               "referencia_obra": "Rimas (Cl. C. 182. 143)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "En particular dicho de libros, Escribir, componer. Pas. refl. Con de, para indicar el modo. X",
+          "definicion": "En particular dicho de libros, Escribir, componer. Pas. refl. Con de, para indicar el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si tanto daño causan los libros que solamente refieren los malos egemplos, ¿qué no harán los que se fingen de propósito para introducir en los ánimos incautos el veneno almivarado con la dulzura del estilo?.»",
               "autor": "Mayáns",
               "referencia_obra": ", Vida de Cerv. p. 20."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para indicar el lugar. X",
+              "definicion": "Con en, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Otro libro falsamente atribuido al Arzobispo Turpín, --- se fingió en Francia, no en España como alguno dijo.»",
                   "autor": "Mayáns",
                   "referencia_obra": ", Vida de Cerv. p. 23."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -89,89 +110,118 @@
     },
     {
       "id": "b)",
-      "definicion": "Trazar líneas imaginarias entre objetos reales (part.). X",
+      "definicion": "Trazar líneas imaginarias entre objetos reales (part.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«En esta confusión, la egipcia sciencia | Discurre por las líneas que en el cielo | Fingidas le conserva la experiencia.»",
           "autor": "L. Argens.",
           "referencia_obra": "Rimas (Cl. C. 173. 124)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Imaginar, representarse en la mente algún objeto o situación (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Alguno llama, | Que la perrilla en el portal vocea. | ¿Si viene por ventura? ¿O si quien ama | Soñando finge aquello que desea?»",
               "autor": "León",
-              "referencia_obra": ", Poes. 2, égl. 8 (4. 431). X"
+              "referencia_obra": ", Poes. 2, égl. 8 (4. 431)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y como quiere pensar en el cielo, finge solamente las cosas que tiene noticia, que son las que ha visto acá en la tierra.»",
               "autor": "M. de Chaide",
               "referencia_obra": ", Magd. 3. 17 (Cl. C. 105. 155)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los apuró Hernán Cortés --- y halló en la respuesta cuanto pudiera fingir su deseo.»",
               "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 5. 11 (R. 28. 3601). X"
+              "referencia_obra": ", Conq. de Méj. 5. 11 (R. 28. 3601)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La politica oportunista --- no puede ser el loco empeño de fingirlas [las esperanzas] allí donde no hay razón alguna que las alimente o autorice.»",
               "autor": "Martí",
-              "referencia_obra": ", Sus mejores páiginas, p. 41. X"
+              "referencia_obra": ", Sus mejores páiginas, p. 41."
             },
             {
+              "marca": "X",
               "texto_cita": "«Haciendo un esfuerzo inaudito traté de fingir un espacio vacío a mi lado izquierdo. Logré colocar un dedo entre tu cuerpo y el del otro pasajero y ofrecí ese acomodo a la inesperada belleza que iba a acompañarme.»",
               "autor": "Sanín Cano",
               "referencia_obra": ", Ensayos, p. 111."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con para, y una prop. infinitiva. X",
+              "definicion": "Con para, y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Todas estas cosas revolvía en mi fantasía, y me consolaba sin tener consuelo, fingiendo unas esperanzas largas y desmayadas, para entretener la vida que ya aborrezco.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 28 (Cl. C. 8. 73)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con dat. refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Es muy propio del cobarde y perezoso temer donde no hay de qué, y fingir para sí leones donde todos andan seguros y negociando.»",
                   "autor": "J. de los Ángeles",
                   "referencia_obra": ", Conq. del reino de Dios, 2. 1 (p. 49)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Su primer movimiento fue alegrarse, teniendo por cierto que habrían llegado sus procuradores y fingiéndose grandes socorros en tanto número de bajeles.»",
                   "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 4. 4 (R. 28. 3072). X"
+                  "referencia_obra": ", Conq. de Méj. 4. 4 (R. 28. 3072)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tal vez suena, y soñando, en su delirio | Nuevos mundos se finge, y de virtudes | Y de ventura celestial los llena.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Poes. (Cl. C. 78. 174). — Además con para, que indica la finalidad. X"
-                },
+                  "referencia_obra": "Poes. (Cl. C. 78. 174)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Acaso esté yo diciendo en el fondo, aunque más turbiamente, lo mismo que esos, los adversarios que me finjo para tener a quien combatir.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Del sen. trág. de la vida, 2 (p. 230)."
+                  "id_limpio": "—",
+                  "definicion": "Además con para, que indica la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Acaso esté yo diciendo en el fondo, aunque más turbiamente, lo mismo que esos, los adversarios que me finjo para tener a quien combatir.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Del sen. trág. de la vida, 2 (p. 230)."
+                    }
+                  ]
                 }
               ]
             }
@@ -180,22 +230,35 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con sujeto de cosa. X",
+          "definicion": "Con sujeto de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cerró los ojos para no ver, ---. Se durmió en la noche que fingieron sus ojos y se esfumó en el aire vibrante, hasta perderse en la llama, en el fuego, en la arena.»",
               "autor": "",
-              "referencia_obra": "César Uribe, Mancha de aceite, p. 84. — Además con en, para señalar el lugar. X"
-            },
+              "referencia_obra": "César Uribe, Mancha de aceite, p. 84."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«— Un hombre deste aposento | iba a salir: como vio | Gente, embozado volvió | A retirarse. — En el viento | Te finge tu fantasía | Ilusiones.»",
-              "autor": "Cald.",
-              "referencia_obra": "El mágico prodigioso (Cl. Ebro, 81. 70). X"
-            },
-            {
-              "texto_cita": "«Comenzaba a acostumbrarme a la carga [de un pleito], y aun intentaba aligerarla un poco con el recurso de ciertas esperanzas que la triste necesidad me fingía en lo más obscuro de la mente.»",
-              "autor": "Pereda",
-              "referencia_obra": ", Pedro Sánchez, 19 (Cl. C. 145. 7)."
+              "id_limpio": "—",
+              "definicion": "Además con en, para señalar el lugar.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«— Un hombre deste aposento | iba a salir: como vio | Gente, embozado volvió | A retirarse. — En el viento | Te finge tu fantasía | Ilusiones.»",
+                  "autor": "Cald.",
+                  "referencia_obra": "El mágico prodigioso (Cl. Ebro, 81. 70)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Comenzaba a acostumbrarme a la carga [de un pleito], y aun intentaba aligerarla un poco con el recurso de ciertas esperanzas que la triste necesidad me fingía en lo más obscuro de la mente.»",
+                  "autor": "Pereda",
+                  "referencia_obra": ", Pedro Sánchez, 19 (Cl. C. 145. 7)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -203,93 +266,114 @@
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "El acus. es una prop. indicativa. X",
+          "definicion": "El acus. es una prop. indicativa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Quiero fingir que gozo y vivo, cuando padezco y muero lentamente.»",
               "autor": "Ferrán",
-              "referencia_obra": ", Obr. complet. (Cl. C. 164. 150). X"
+              "referencia_obra": ", Obr. complet. (Cl. C. 164. 150)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Fingid que el deshonor turbia y desdora | La venerada frente | De la que el ser os dio.»",
               "autor": "Querol",
               "referencia_obra": ", Poes. (Cl. C. 160. 62)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Pas. refl. Con la prep. con, para expresar el medio. +",
+          "definicion": "Pas. refl. Con la prep. con, para expresar el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Señalábanse con la mano las torres y capiteles que se fingían con el deseo, creciendo esta vez los objetos en la distancia.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 1. 5 (R. 28. 2131)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Las historias arábigas, que en gran parte son fabulosas, cuentan que en lo más alto había un espejo semejante al que se finge de La Coruña, en que se descubrían las armadas.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 208)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En Madrigal, el testimonio histórico más vivo es la casa del famoso pastelero que se fingió rey.»",
               "autor": "Azorín",
-              "referencia_obra": ", El paisaje de Esp. 5 (p. 434). X"
+              "referencia_obra": ", El paisaje de Esp. 5 (p. 434)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Siempre es saludable, creo yo, fingirse, ya que no sentirse, madre de un genio.»",
               "autor": "Cela",
               "referencia_obra": ", Mrs. Caldwell, p. 136."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Fingido bien [paz y gloria y libertad] que ansioso el pensamiento | Pensaba asir, y aéreo espectro apaña, | Luz a los ojos y a las manos viento.»",
               "autor": "Bello",
               "referencia_obra": ", Poes. p. 99."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mouche --- era de las que pasaban de fingir a creer lo fingido.»",
                   "autor": "Carpentier",
-                  "referencia_obra": ", Los pasos perdidos, p. 84. X"
+                  "referencia_obra": ", Los pasos perdidos, p. 84."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«España siempre ha tenido la virtud de confundir, misteriosamente, en una especie de transubstanciación, lo real y lo fingido, lo verdadero y lo falso.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 8."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -298,205 +382,260 @@
     {
       "id": "d)",
       "definicion": "Aplicado a obras del intelecto (literatura, mito, fábula, etc.) Crear figuras, personajes, situaciones (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mas si los hombres mordieran con los ojos, según fingieron los argotides, ¡qué de tiras lleuara mi saya!»",
               "autor": "Píc. Just.",
-              "referencia_obra": "(1. 145). X"
+              "referencia_obra": "(1. 145)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero fingir lugares y vassallos, hombres comunes, sin dignidad ni oficio, prouoca a risa y a escándalo.»",
               "autor": "Lope",
-              "referencia_obra": ", Dorotea, 3 (fol. 137 vº ). X"
+              "referencia_obra": ", Dorotea, 3 (fol. 137 vº )."
             },
             {
+              "marca": "X",
               "texto_cita": "«Fingiendo los lances, pasos y sucesos que juzgan más naturales para encadenar la historia con las hazañas --- y cátate aquí un poema épico, en prosa o verso, que no hay más que pedir.»",
               "autor": "Isla",
-              "referencia_obra": ", Fr. Ger. pról. (Cl. C. 148. 11). X"
+              "referencia_obra": ", Fr. Ger. pról. (Cl. C. 148. 11)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hubiera dado el nombre de Atlante a la historia así compuesta, acordándome de lo que fingieron los poetas, afirmando que Júpiter sustituía en sus hombros el peso de los orbes.»",
               "autor": "Azorín",
               "referencia_obra": ", Riofrío, 3 (p. 113)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "El acus. es una prop. indicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Fingieron que Prometeo no pudiendo hallar fuego en la tierra con que apurar y perfeccionar a los hombres, subió a buscarle al cielo.»",
                   "autor": "M. de Chaide",
                   "referencia_obra": ", Magd. §43 (R. 27. 3762)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Así lo dio a entender la filosofía antigua, fingiendo que Orfeo con su lira trata a sí los animales.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 42 (R. 25. 1062). X"
+                  "referencia_obra": "Emp. 42 (R. 25. 1062)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Este parece fue el pensamiento de los antiguos cuando fingieron que Pluto, deidad infernal, fue el primer descubridor de las minas de oro y plata.»",
                   "autor": "Feijóo",
                   "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 43)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de, en el sentido de Acerca de. X",
+              "definicion": "Con de, en el sentido de Acerca de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Muy lejos y eclipsado | Con su impresión se queda | Cuanto el ingenio un día | Fingió de las sirenas.»",
                   "autor": "Mel.",
                   "referencia_obra": "Poes. (Cl. C. 64. 161)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, para indicar el medio o modo de la invención. X",
+              "definicion": "Con en, para indicar el medio o modo de la invención.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El que quisiere fabricar esta máchina que dizen fábula, ante todas cosas, deue fingir y pintar en su entendimiento vna forma y semejança de aquello que pretende.»",
                   "autor": "L. Pinciano",
                   "referencia_obra": ", Philosophia (BALH. 19. 211)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Tal en el monte Cintio a su Diana | Rodeada de víírgenes hermosas | Fingió la antigüedad en forma humana.»",
                   "autor": "L. Argens.",
-                  "referencia_obra": "terc. Hay un lugar (R. 42. 2842). — Con en, también se señala el lugar. X"
-                },
+                  "referencia_obra": "terc. Hay un lugar (R. 42. 2842)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Grecia llamaba bárbara a la gente | Que sus sciencias y ritos no bebía, | De que fingió en Parnaso tener fuente.»",
-                  "autor": "L. Argens.",
-                  "referencia_obra": "Rimas (Cl. C. 173. 111). X"
-                },
-                {
-                  "texto_cita": "«Donde nacen y pacen tantos brutos, hijos del Céfiro más que los que fingió la antigüedad en el Tajo portugués.»",
-                  "autor": "V. de Guev",
-                  "referencia_obra": ", Diablo coj. 6 (Cl. C. 38. 148)."
+                  "id_limpio": "—",
+                  "definicion": "Con en, también se señala el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Grecia llamaba bárbara a la gente | Que sus sciencias y ritos no bebía, | De que fingió en Parnaso tener fuente.»",
+                      "autor": "L. Argens.",
+                      "referencia_obra": "Rimas (Cl. C. 173. 111)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Donde nacen y pacen tantos brutos, hijos del Céfiro más que los que fingió la antigüedad en el Tajo portugués.»",
+                      "autor": "V. de Guev",
+                      "referencia_obra": ", Diablo coj. 6 (Cl. C. 38. 148)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con para. X",
+              "definicion": "Con para.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Hacen [los poetas satíricos] a los viciosos tragar la reprehensión como píldora, la doran primero con la perífrasis intricada, y fingiendo nuevos nombres, para que quede disimulada la persona de quien hablan satíricamente.»",
                   "autor": "Cascales",
                   "referencia_obra": ", Cartas filológ. (Cl. C. 103. 191)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No fundo la escuela de Platón para fingir, como fingieron dél sus discípulos los platoncillos, que naci[ó] de una sombra y de la intracta virgen Periction.»",
               "autor": "Píc. Just.",
-              "referencia_obra": "(1. 76). X"
+              "referencia_obra": "(1. 76)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Lucano no dejó de ser poeta por no fingir, sino por las causas que doy verdaderas, esenciales para no merecer el nombre de poeta.»",
               "autor": "Cascales",
               "referencia_obra": ", Cartas filológ. 3 (Cl. C. 118. 225)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. X",
+          "definicion": "Pas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El cual [dios de Amor] es fingido por vanos entendimientos, seguido de deshonestas voluntades, y conservado en las memorias de los hombres ociosos y desocupados.»",
               "autor": "Gil Polo",
               "referencia_obra": ", Diana (Cl. C. 135. 26)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con una prop. de infinitivo como sujeto. +",
+              "definicion": "Con una prop. de infinitivo como sujeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Si no sacó [el Redentor] al Cancerbero, como Hércules es fingido haberle sacado, ató al demonio y privóle del mucho poder y soltura.»",
                   "autor": "J. de Pineda",
                   "referencia_obra": ", Agr. crist. 8. 16 (R. 162. 1822)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No siempre se finge el hecho, sino tal vez el dicho, aplicándoselo al sujeto de quien se discurre.»",
               "autor": "Gracián",
               "referencia_obra": ", Agudeza (Cl. Castal. 15. 73)."
             },
             {
+              "marca": "",
               "texto_cita": "«Minerva, diosa de la sabiduría, que se fingió haber nacido del cerebro de Júpiter, con la generación del Verbo, que es sabiduría eterna.»",
               "autor": "Isla",
               "referencia_obra": ", Fr. Ger. 3. 6 (Cl. C. 149. 306)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Las historias fingidas tanto tienen de buenas y de deleitables cuanto se llegan a la verdad, o a la semejanza della, y las verdaderas tanto son mejores cuanto son más verdaderas.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 62 (R. 1. 5381). X"
+              "referencia_obra": "Quij. 2. 62 (R. 1. 5381)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El libro de Hunibaldo Franco, reducido a compendio por el abad Trithemio, es un montón de mentiras neciamente fingidas.»",
               "autor": "Mayáns",
               "referencia_obra": ", Vida de Cerv. p. 23."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Consiste el artificio de estas ficciones en una invención fabulosa de algún suceso o algún dicho ajeno, para con ella exprimir bien el sentimiento, aumentando con lo fingido la ponderación.»",
                   "autor": "Gracián",
-                  "referencia_obra": ", Agudeza (Cl. Castal. 15. 69). X"
+                  "referencia_obra": ", Agudeza (Cl. Castal. 15. 69)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Si la narración es de cosas meramente possibles i se atiende la semejanza i proporción que tiene lo fingido con lo que se quiere persuadir, se llama parábola.»",
                   "autor": "Mayáns",
                   "referencia_obra": ", Vida de Cerv. p. 147."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -505,95 +644,125 @@
     {
       "id": "2",
       "definicion": "Forjar, inventar, hacer aparecer como real y auténtico algo que no existe o no tiene las cualidades con que se presenta.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Dicho de comportamientos, actitudes, acciones, estados somáticos o anímicos, Simularlos, mostrarlos como reales y auténticos cuando no son tales (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La cautelosa Ismenia me supo tan bien responder a lo que dixe y fingir las palabras que para nuestra conversación eran necesarias que nadie pudiera huir del engaño en que yo caí.»",
               "autor": "Montem.",
-              "referencia_obra": "Diana, p. 51. X"
+              "referencia_obra": "Diana, p. 51."
             },
             {
+              "marca": "X",
               "texto_cita": "«Que no eran almas que fingieran cosa ni por nenguna de las del mundo dijeran mentira.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Fund. (Cl. C. 115. 156)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pues el buen Sancho nunca vio a Dulcinea --- ¿cómo se atrevió a fingir la respuesta, y aquello de que la halló aechando trigo?»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 33 (R. 1. 4752)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Qué mal que finge amor quien no le tiene!»",
               "autor": "Lope",
-              "referencia_obra": ", El perro del hortelano, 2. 17 (R. 24. 3523). X"
+              "referencia_obra": ", El perro del hortelano, 2. 17 (R. 24. 3523)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Por la práctica se gobiernan [los médicos] para la aplicación del principio, fingiendo --- las calidades opuestas que se les antoja en el remedio y en la causa morbífica.»",
               "autor": "Feijóo",
-              "referencia_obra": ", Teatro crít. 1 (Cl. C. 48. 126). X"
+              "referencia_obra": ", Teatro crít. 1 (Cl. C. 48. 126)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Cómo puede el semblante, | Mi bien, fingir contento, | Si no estorva la muerte | El paso, que ay desde el semblante al pecho?»",
               "autor": "Solís",
-              "referencia_obra": ", Varias poes. (Cl. Hisp. 16. 256). X"
+              "referencia_obra": ", Varias poes. (Cl. Hisp. 16. 256)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entre tanto Emma fingía completa distracción, colocando las flores nuevas.»",
               "autor": "Isaacs",
-              "referencia_obra": ", María, p. 53. X"
+              "referencia_obra": ", María, p. 53."
             },
             {
+              "marca": "X",
               "texto_cita": "«Déjate ya | De fingir un equilibrio | Donde lloramos tú y yo.»",
               "autor": "Salinas",
               "referencia_obra": ", La voz (Cl. Castal. 2. 82)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "El acus. es una prop. indicativa. X",
+              "definicion": "El acus. es una prop. indicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con el mal concepto que tenía ya Casidoro de su mujer, en sus entrañas concebido, fingió un día, --- que por haber alabado la bondad y hermosura de su mujer a ciertas parientes suyas, les había dado palabra del primer viaje que hiciese de llevarla a Ferrara.»",
                   "autor": "Timoneda",
-                  "referencia_obra": ", El Patrañuelo, 15 (Cl. C. 101. 172). X"
+                  "referencia_obra": ", El Patrañuelo, 15 (Cl. C. 101. 172)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Convinieron en esto: que fingiendo Loaysa, --- que iba fuera de la ciudad por algunos días, se quitase de los ojos de sus amigos.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 2 (Cl. C. 36. 108)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Cuando a don lñigo amas, | ¡Finges que por mí te mueres!»",
                   "autor": "Tirso",
-                  "referencia_obra": ", Palabras y plumas, 1. 1 (R. 5. 11). X"
+                  "referencia_obra": ", Palabras y plumas, 1. 1 (R. 5. 11)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pues yo tengo de fingir, | Según mi naturaleza, | Que agonizo en su belleza»",
                   "autor": "Cueto",
-                  "referencia_obra": "y Mena, Obr. (ICC, 9. 120). — Además con para, que indica la finalidad. X"
-                },
+                  "referencia_obra": "y Mena, Obr. (ICC, 9. 120)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Aunque no sepáis nada, habéis de fingir que sabéis y conocéis para que ganéis algo, como hago yo.»",
-                  "autor": "Delicado",
-                  "referencia_obra": ", La Lozana (Cl. Castal. 13. 124). X"
-                },
-                {
-                  "texto_cita": "«Conocióme Marta luego | Que, como ves, vine aquí; | Y, que la amaba fingí, | Para apaciguar el fuego | Que contra mi triste vida | A emprenderse comenzaba.»",
-                  "autor": "Tirso",
-                  "referencia_obra": ", Marta la piadosa (Cl. Ebro, 44. 94)."
+                  "id_limpio": "—",
+                  "definicion": "Además con para, que indica la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Aunque no sepáis nada, habéis de fingir que sabéis y conocéis para que ganéis algo, como hago yo.»",
+                      "autor": "Delicado",
+                      "referencia_obra": ", La Lozana (Cl. Castal. 13. 124)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Conocióme Marta luego | Que, como ves, vine aquí; | Y, que la amaba fingí, | Para apaciguar el fuego | Que contra mi triste vida | A emprenderse comenzaba.»",
+                      "autor": "Tirso",
+                      "referencia_obra": ", Marta la piadosa (Cl. Ebro, 44. 94)."
+                    }
+                  ]
                 }
               ]
             },
@@ -601,89 +770,126 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con dat. |",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Aquí pretendo que pases | El pecho de piedra fría | Que grande amor me fingía | Para que tú me gozares.»",
                   "autor": "M. de Amescua",
-                  "referencia_obra": ", El esclavo del demonio, 2 (Cl. C. 70. 132). — Además con para y una prop. infinitiva que indica la finalidad. X"
-                },
+                  "referencia_obra": ", El esclavo del demonio, 2 (Cl. C. 70. 132)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¡No era al indio mañoso que fingía a la metrópoli una lealtad falsa para obtener de la metrópoli misma el modo de vencerla.»",
-                  "autor": "Martí",
-                  "referencia_obra": ", Sus mejores páginas, p. 218."
+                  "id_limpio": "—",
+                  "definicion": "Además con para y una prop. infinitiva que indica la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡No era al indio mañoso que fingía a la metrópoli una lealtad falsa para obtener de la metrópoli misma el modo de vencerla.»",
+                      "autor": "Martí",
+                      "referencia_obra": ", Sus mejores páginas, p. 218."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con a, para señalar el modo. X",
+              "definicion": "Con a, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando yo, arrepentida, suspirando | Esas palabras diga | Que tú finges y adornas a tu gusto, | Hacia sus fuentes volverán los ríos.»",
                   "autor": "Jáur.",
                   "referencia_obra": "Aminta (Cl. C. 183. 89)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con ante. X",
+              "definicion": "Con ante.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Paredes que veis mi mengua, | Calládsela al universo. | No se sepa que fingí | Valor ante una beldad, | Y luego en la soledad... | Mis ojos...»",
                   "autor": "Hartz.",
                   "referencia_obra": "La jura en Santa Gadea, 2. 7 (Cl. C. 113. 191)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con la prep. con, para indicar el modo. X",
+              "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pues, a fee que puede, porque fingir un enojo desta manera y con tanta propiedad no lo hace nadie en el mundo.»",
                   "autor": "Cortés de Tolosa",
-                  "referencia_obra": ", Lazarill. de Manzanares (Cl. C. 186. 110). X"
+                  "referencia_obra": ", Lazarill. de Manzanares (Cl. C. 186. 110)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Por reservarme en ella [en la religión], pudiera con palabras confusas, con discursos equívocos, fingir el cumplimiento de vuestro deseo y disimular mi disfraz.»",
                   "autor": "Césp. y Men.",
-                  "referencia_obra": "Hist. (Cl. Castal. 23. 67). X"
+                  "referencia_obra": "Hist. (Cl. Castal. 23. 67)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mostróse ella gran tiempo agradecida, | O lo fingió con vanas apariencias.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Poes. (Cl. C. 78. 159). X"
+                  "referencia_obra": "Poes. (Cl. C. 78. 159)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Fingió ruborizamiento la gruesa Ramitos, con tanta maestría que casi se le volvió rojo el amoratado colorete.»",
                   "autor": "Gallegos",
                   "referencia_obra": ", El forastero, 1. 3 (p. 57)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con de, y un predicado referido al sujeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Entróse el doctor y ella se fingió de la enojada.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 1. 4 (R. 18. 3861)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Fingióse muy del enojado, por cumplir con los compañeros o soldados.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 2. 8 (R. 18. 4351). — También con de, se señala la causa. X"
-                },
+                  "referencia_obra": "Id. ib. 2. 8 (R. 18. 4351)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Esa inclinación debe de ser natural, respondió el fraile, o tal vez la finge de malicioso.»",
-                  "autor": "Montalvo",
-                  "referencia_obra": ", Prosas, p. 177."
+                  "id_limpio": "—",
+                  "definicion": "También con de, se señala la causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Esa inclinación debe de ser natural, respondió el fraile, o tal vez la finge de malicioso.»",
+                      "autor": "Montalvo",
+                      "referencia_obra": ", Prosas, p. 177."
+                    }
+                  ]
                 }
               ]
             },
@@ -691,127 +897,164 @@
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
               "definicion": "Con para y una prop. infinitiva que indica la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por esto algunos príncipes fingen la sencillez y la modestia para encubrir más sus fines y que no los alcance la malicia.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 43 (R. 25. 1101). X"
+                  "referencia_obra": "Emp. 43 (R. 25. 1101)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Para dar a Mothé bárbara muerte | Finge el padre negocios de un tratado | Y hablóle blandamente de esta suerte, | Mintiéndole lisonjas con agrado.»",
                   "autor": "Arolas",
-                  "referencia_obra": ", Poes. (Cl. C. 95. 278). X"
+                  "referencia_obra": ", Poes. (Cl. C. 95. 278)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ña Cleme contsba sus historias en casa, escuchábala mi madre con indulgencia y fingiendo asentimiento para no mortificarla.»",
                   "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Prov. p. 105. X"
+                  "referencia_obra": ", Recuerdos de Prov. p. 105."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Hoy fingía una enfermedad para excusarme de concurrir a la escuela o para disculpar mi ausencia de ella.»",
                   "autor": "Marroquín",
                   "referencia_obra": ", Blas Gil, 1 (p. 3)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— θ θ )",
               "id_limpio": "— θ θ )",
-              "definicion": "Con por, que indica la finalidad. X",
+              "definicion": "Con por, que indica la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Después de haverle llevado y traído muchos recaudos y de haverle yo fingido algunos por no ver triste a quien tanto quería.»",
                   "autor": "Montem.",
-                  "referencia_obra": "Diana, p. 135. X"
+                  "referencia_obra": "Diana, p. 135."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Que se apiade un hombre a unas lágrimas de una mujer, es mucha nobleza: pero que ella las finja por mal fin parece abominación.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 4 (Cl. C. 51. 34)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A quien la hambre del favor despierta; | No le será forzoso | Rogar, fingir, temer y estar quejoso.»",
               "autor": "Garcil.",
-              "referencia_obra": "Obr. égl. 2 (Cl. C. 3. 29). X"
+              "referencia_obra": "Obr. égl. 2 (Cl. C. 3. 29)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mas si del tiempo que perdí me ofendo, | Tal prisa me daré, que un hora amando | Venza los años que pasé fingiendo.»",
               "autor": "Lope",
-              "referencia_obra": ", Poes. lír. (Cl. C. 68. 160). X"
+              "referencia_obra": ", Poes. lír. (Cl. C. 68. 160)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ahora, a cada momento reciben nuevo pábulo mis sospechas, porque ya Alicia ni siquiera intenta disimular ni fingir.»",
               "autor": "Tam. y Baus",
               "referencia_obra": ", Un drama nuevo, p. 192."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el modo. X",
+              "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Lloró, rogó, ofreció, aduló, porfió y fingió Lotario con tantos sentimientos, con muestras de tantas veras que dio al través con el recato de Camila.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 34 (R. 1. 3462)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con para, que indica la finalidad. X",
+              "definicion": "Con para, que indica la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Lo que yo admito más en Lucano es que no hubo menester fingir para dar a su poema toda la gracia a que otros poetas no pudieron arribar sin el sainete de las ficciones.»",
                   "autor": "Feijóo",
-                  "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 200). X"
+                  "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 200)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Fama de rendido galán gané en el ánimo de muchas mujeres, gracias a la costumbre de fingir, para que mi alma se sienta menos sola.»",
                   "autor": "Rivera",
                   "referencia_obra": ", La vorágine, 1 (p. 24)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la expresión por igual, para indicar el modo y la reciprocidad de la apariencia. X",
+              "definicion": "Con la expresión por igual, para indicar el modo y la reciprocidad de la apariencia.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nos miramos de hito en hito, con un profundo convencimiento de que fingíamos por igual, y nos separamos.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de primav. p. 27."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. X",
+          "definicion": "Pas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y siendo ansí que [lo que habéis dicho] es fingido | De vos entender pretendo | Para qué fin lo fingisteis.»",
               "autor": "Mto.",
-              "referencia_obra": "El lindo D. Diego (Cl. C. 32. 114). — Con por, y una prop. infinitiva, para señalar el motivo. X"
-            },
+              "referencia_obra": "El lindo D. Diego (Cl. C. 32. 114)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Tengo por muy cierto que este levantamiento [de Bulgaria] fue fingido por Andrónico, por dar alguna razón aparente para sacar los nuestros de la Asia.»",
-              "autor": "Moncada",
-              "referencia_obra": ", Exped. 1. 18 (Cl. C. 54. 67)."
+              "id_limpio": "—",
+              "definicion": "Con por, y una prop. infinitiva, para señalar el motivo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Tengo por muy cierto que este levantamiento [de Bulgaria] fue fingido por Andrónico, por dar alguna razón aparente para sacar los nuestros de la Asia.»",
+                  "autor": "Moncada",
+                  "referencia_obra": ", Exped. 1. 18 (Cl. C. 54. 67)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -819,148 +1062,190 @@
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El deseo de agradar en las conversaciones es una golosina --- raíz fecunda de innumerables mentiras. Todo lo exquisito es cebo de los oyentes, y como lo exquisito no se encuentra a cada paso, a cada paso se finge.»",
               "autor": "Feijóo",
-              "referencia_obra": ", Teatro crít. 3 (Cl. C. 67. 65). X"
+              "referencia_obra": ", Teatro crít. 3 (Cl. C. 67. 65)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Finalmente, allí [en los sermones] se fingen o se cuentan sucesos y ejemplos trágicos y horrorosos que nunca sucedieron.»",
               "autor": "Isla",
               "referencia_obra": ", Fr. Ger. 2. 9 (Cl. C. 149. 162)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. y un predicado nominal referido al sujeto. X",
+              "definicion": "Con dat. y un predicado nominal referido al sujeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con beso ausente refresqué su herida, | Absorta en él me le fingí lejana, | Su voluntad despedacé liviana | Y su pasión hallóme arrepentida.»",
                   "autor": "Victoria",
                   "referencia_obra": ", Cráter sellado, p. 65."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "—β β )",
               "id_limpio": "—β β )",
-              "definicion": "Con la prep. con, para señalar el medio. X",
+              "definicion": "Con la prep. con, para señalar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Músicas de orquestas increíbles chillaban en la plaza central y con mezquinos cohetes se fingió alegría.»",
                   "autor": "",
                   "referencia_obra": "César Uribe, Mancha de aceite, p. 56."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Recípr. X",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los desterrados de su patria celestial no gozamos más sabiduría que la que nos fingimos unos a otros.»",
               "autor": "Torres Villarroel",
               "referencia_obra": ", Visiones y visitas (Cl. C. 161. 137)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Quién sabe qué fondo de verdad personal no habría a menudo en estas acusaciones sospechadas de fingidas y pérfidas?»",
               "autor": "Rodó",
               "referencia_obra": ", Motivos de Proteo, p. 63."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para señalar el agente. +",
+              "definicion": "Con de, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«No dio el Emperador por entonces crédito a los genoveses, creyendo que eran quimeras fingidas de su maldad y envidia, nacida desde que pusieron los catalanes el pie en Grecia.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 21 (R. 21. 211)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por, para señalar el agente. X",
+              "definicion": "Con por, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nosotros creemos fingidos por los Griegos todos estos Reyes, con poco, o ningún fundamento en la Historia antigua.»",
                   "autor": "Rdgz. Mohedano",
                   "referencia_obra": ", Hist. lit. esp. 1. 1 (p. 83)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Adjetivado. +",
+              "definicion": "Adjetivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Sólo el padecer declara quién es amigo fingido o verdadero.»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Epist. 2. 88 (1. 641). X"
+                  "referencia_obra": ", Epist. 2. 88 (1. 641)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En el tiempo que la visité siempre hallé la casa desembarazada, sin que viese visiones en ella de parientes fingidos ni de amigos verdaderos.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Nov. 2 (Cl. C. 36. 182). X"
+                  "referencia_obra": "Nov. 2 (Cl. C. 36. 182)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Creí mi esperanza, Fabia; | Salió esta mañana a misa, | Ya con galas de señora, | No labradora fingida.»",
                   "autor": "Lope",
-                  "referencia_obra": ", Caballero (Cl. Castal. 19. 39). X"
+                  "referencia_obra": ", Caballero (Cl. Castal. 19. 39)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Dice que fue el recaudo, | Que de su prima le diste | Fingido y disimulado, | Y con su capa emprendiste | La traición que le ha infamado.»",
                   "autor": "Tirso",
-                  "referencia_obra": ", El burlador de Sevilla, 3 (Cl. C. 2. 265). X"
+                  "referencia_obra": ", El burlador de Sevilla, 3 (Cl. C. 2. 265)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A don García Manrique encomendó la caballería; y la retaguardia --- al licenciado Pedro López de Meza y a don Francisco de Solís, ambos caballeros cuerdos, pero sin ejercicio de guerra: lo cual dio ocasión a pensar, que la empresa fuese fingida.»",
                   "autor": "Mend.",
-                  "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 326). X"
+                  "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 326)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«No se puede decir que esta virtud sea natural ni sobrenatural; consiguientemente, se debe condenar como fingida o como supersticiosa.»",
                   "autor": "Feijóo",
-                  "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 40). — En grado comparativo. X"
-                },
+                  "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 40)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El intelectual provinciano de ordinario se cansa pronto; tiene poco aguante para los desdenes, más fingidos que reales, de los que le rodean. Quiere ser reconocido y acatado muy pronto.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Andanzas y visiones esp. p. 66."
+                  "id_limpio": "—",
+                  "definicion": "En grado comparativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El intelectual provinciano de ordinario se cansa pronto; tiene poco aguante para los desdenes, más fingidos que reales, de los que le rodean. Quiere ser reconocido y acatado muy pronto.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Andanzas y visiones esp. p. 66."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sin que me aprovechase decir que era cristiana, como en efecto lo soy, y no de las fingidas ni aparentes, sino de las verdaderas y católicas.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 63 (R. 1. 5391)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -969,162 +1254,200 @@
     {
       "id": "b)",
       "definicion": "Hacer el papel, representar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Dínoslo tú, David, que aunque pareces | Loco en poder de Aquís, de tu cordura | Fingiendo el loco, la grandeza ofreces.»",
               "autor": "Cerv.",
-              "referencia_obra": "Viaje, 8 (R. 1. 6992). X"
+              "referencia_obra": "Viaje, 8 (R. 1. 6992)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo quiero | Desnudarme este vestido, | Aunque en las obras sospecho | Que soy más de lo que finjo.»",
               "autor": "Monroy",
-              "referencia_obra": ", Fuente Ovejuna (Cl. Castal. 10. 280). X"
+              "referencia_obra": ", Fuente Ovejuna (Cl. Castal. 10. 280)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Todos los artistas son algo cómicos; quiero decir, que fingen bien la comedia.»",
               "autor": "Ganiv.",
               "referencia_obra": "Pío Cid, 6 (2. 325)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con tales muestras de maravilla y espanto que casi se podían dar a entender haberles acontecido de veras lo que tan bien sabían fingir de burlas.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 41 (R. 1. 4902)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con sin, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Yo tengo aquí una mujer | Que fingirá sin caer | La princesa de Bretaña.»",
                   "autor": "Mto.",
                   "referencia_obra": "El lindo D. Diego, 2. 1 (R. 39. 3581)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "El acus. es una prop. indicativa. X",
+              "definicion": "El acus. es una prop. indicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Para conseguir mi intento, | Pues con ellos no está el rey -- | Quiero fingir que el rey soy.»",
                   "autor": "Guev.",
                   "referencia_obra": "El diablo está en Cantillana, 3 (Cl. C. 132. 193)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "El acus. es una prop. infinitiva. X",
+              "definicion": "El acus. es una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ser cazador he fingido, Desta manera pensando | Oír de su misma boca | Tan notables desengaños.»",
                   "autor": "Lope",
-                  "referencia_obra": ", El villano en su rincón, 2 (Cl. C. 157. 77). X"
+                  "referencia_obra": ", El villano en su rincón, 2 (Cl. C. 157. 77)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«— ¿Cómo la engañaste? | Habla quedo [o] cierra el labio. | — Fingí ser el duque Octavio...»",
                   "autor": "Tirso",
-                  "referencia_obra": ", El burlador de Sevilla (Cl. C. 2. 169). X"
+                  "referencia_obra": ", El burlador de Sevilla (Cl. C. 2. 169)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Deseos, | ¿Qué me aconsejáis? Que vaya | Al jardín donde, fingiendo | Ser Flabio, de la ocasión | Me aproveche.»",
                   "autor": "Rojas",
                   "referencia_obra": ", Morir pensando matar (Cl. C. 153. 47)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. Con un predicado referido al sujeto. X",
+          "definicion": "Refl. Con un predicado referido al sujeto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Aquesta noche | Llegar encubierta quiero, | Y fingiéndome Albisinda, | Entre amorosos requiebros, | Pedirle que mate al rey.»",
               "autor": "Rojas",
-              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 46). X"
+              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 46)."
             },
             {
+              "marca": "X",
               "texto_cita": "«\"Por las noches Fortuna, artificiosa, | Disfrazada y fingiéndose mi esposa, | Hacía al conde de sus gracias dueño\".»",
               "autor": "Campoamor",
-              "referencia_obra": ", Poes. (Cl. C. 40. 167). X"
+              "referencia_obra": ", Poes. (Cl. C. 40. 167)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Por salvar del suplicio se había fingido sacerdote, exhibiendo papeles con los que pretendió probar que se llamaba fray José de Lizárraga.»",
               "autor": "Palma",
               "referencia_obra": ", Trad. peruanas, p. 142."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con para, que indica la finalidad. X",
+              "definicion": "Con para, que indica la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Es posible que has querido | Tan loco y desatinado | Tu dinero haber gastado? | — Excusarlo no he podido: | Fingíme gran caballero, | Que bien era menester | Para conguistar mujer.»",
                   "autor": "Lope",
                   "referencia_obra": ", Servir a senor discreto (Cl. Castal. 68. 166)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Que ningún príncipe en ellas [en las comedias] se finja hortelano por ninguna infanta.»",
                   "autor": "Guev.",
                   "referencia_obra": "Diablo coj. 10 (R. 33. 442)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. refl. Con en, para señalar el papel representado. X",
+          "definicion": "Pas. refl. Con en, para señalar el papel representado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En la parábola, todos los sujetos que se introducen son humanos, y en eso se distingue de la fábula; aua las virtudes o vicios de que se trata, se fingen en personajes.»",
               "autor": "Gracián",
               "referencia_obra": ", Agudeza (Cl. Castal. 15. 216)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Rondaron el recinto en la fingida fuga [en la danza] hasta que al fin, entre el clamor de los peones y la risa de los negros, la guaricha Matilde se entregó a los requiebros del peón.»",
               "autor": "",
               "referencia_obra": "César Uribe, Mancha de aceite, p. 23."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1132,97 +1455,120 @@
     {
       "id": "c)",
       "definicion": "Imitar, remedar, contrahacer (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Demás desto, enseñóme a fingir lepra, hacer llagas, hinchar una pierna, tullir un brazo, teñir el color del rostro, alterar todo el cuerpo y otros primores curiosos del arte.»",
               "autor": "Alemán",
-              "referencia_obra": ", Guzmán, 1. 3 (Cl. C. 83. 197). X"
+              "referencia_obra": ", Guzmán, 1. 3 (Cl. C. 83. 197)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Fingió toda figura de tal suerte, | Que muriéndose apenas fue creída | En los singultos de su trance fuerte.»",
               "autor": "Lope",
-              "referencia_obra": ", Poes. lír. (Cl. C. 68. 171). X"
+              "referencia_obra": ", Poes. lír. (Cl. C. 68. 171)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Le acomodó [a la barca] de suerte de todas velas y jarcias, que parecía bergantín, haciéndole con algunas tablas su crujía y fingiendo su estanterol y popa, bancos y filaretes.»",
               "autor": "",
-              "referencia_obra": "Id. El peregrino en su patria (Cl. Castal. 55. 80). X"
+              "referencia_obra": "Id. El peregrino en su patria (Cl. Castal. 55. 80)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mis plantas y mis ojos | No hay paso que no finjan, | Cadena que no formen, | Y rueda que no sigan.»",
               "autor": "Mel.",
               "referencia_obra": "Poes. (Cl. C. 64. 86)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. refl. y con la prep. con. X",
+              "definicion": "Con dat. refl. y con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con papeles plateados | La armadura se fingió; | Iba enhiesto, ojos abiertos, | Llevaba lanza y guión.»",
                   "autor": "Arolas",
                   "referencia_obra": ", Poes. (Cl. C. 95. 108)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mientras él iba, yo fingí la póliza con las señas que en el pasaporte que traía de Milán venían.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 3. 9 (Cl. C. 51. 191)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Digo que fingís tan bien | Que dirán que es natural.»",
               "autor": "Góng.",
               "referencia_obra": "Poes. (Alemany, Vocab. de Góng.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En una ventana fingida, pintó también su retrato.»",
               "autor": "Ponz",
               "referencia_obra": ", Viaje de Esp. 2 (1. 93)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Quarto de las frutas | --- Donde tan bien las fingidas | Imitan las naturales.»",
                   "autor": "Góng.",
                   "referencia_obra": "Poes. (Alemany, Vocab. de Góng.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1230,18 +1576,22 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Aplicado a la voz, Cambiarla, impostarla.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Elisa es ésta; | Que la voz lo manifiesta, | Aunque la voz ha fingido.»",
               "autor": "Lope",
-              "referencia_obra": ", El ausente en el lugar, 3. 4 (R. 24. 2662). X"
+              "referencia_obra": ", El ausente en el lugar, 3. 4 (R. 24. 2662)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mientras el suceso pasa, | La voz y el habla fingid, | \" Veis aquella celosía? | — Ya la veo. — Pues llegad | Y decid \"Beatriz\", y entrad.»",
               "autor": "Tirso",
               "referencia_obra": ", El burlador de Sevilla (Cl. C. 2. 235)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1249,222 +1599,275 @@
     {
       "id": "3",
       "definicion": "Semejar, parecer, dar la impresión de (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Dicho de seres animados o de sus partes. X",
+          "definicion": "Dicho de seres animados o de sus partes.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Postres serán mis brazos, | Fingiendo redes y inventando lazos, | Cifrando tus grandezas, --- Este maná de amor, donde hacen plato | Olfato, ojos y oídos, gusto y ta(c)to.»",
               "autor": "Cald.",
-              "referencia_obra": "Autos (Cl. C. 69. 54). X"
+              "referencia_obra": "Autos (Cl. C. 69. 54)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Tero-tero, tero-tero!... | Y fingen, rojas y alternas, | Sus aceleradas piernas | Los canutos del flautero.»",
               "autor": "Lugones",
-              "referencia_obra": ", El libro de los paisajes, p. 152. X"
+              "referencia_obra": ", El libro de los paisajes, p. 152."
             },
             {
+              "marca": "X",
               "texto_cita": "«Te di la miel | Del panal moreno que finge mi piel.»",
               "autor": "Ibarbourou",
-              "referencia_obra": ", Antol. poétic. p. 19. X"
+              "referencia_obra": ", Antol. poétic. p. 19."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esbelto como la torre | Que defiende nuestra aldea, | Tu pecho finge un escudo | Donde la luz reverbera.»",
               "autor": "Maya",
               "referencia_obra": ", Obra poétic. 3 (p. 167)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con una prop. infinitiva, como acus. X",
+              "definicion": "Con una prop. infinitiva, como acus.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Unas veces [el diablo] fingía ser un perro pequeñito y de color canela, que olía a jazmín; otras, una araña minúscula y negra con sabor a menta.»",
                   "autor": "Cela",
                   "referencia_obra": ", Mrs. Caldwell, p. 64."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para indicar el medio. X",
+              "definicion": "Con la prep. con, para indicar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En obstinado roce, | La más ronca y urgente del enjambre, | Finge con su timbal cascado alambre | De péndola que está por dar las doce.»",
                   "autor": "Lugones",
                   "referencia_obra": ", El libro de los paisajes, p. 16."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En la guitarra, resonante y trémula, | La brusca mano, al golpear, fingía | El reposar de un ataúd en tierra.»",
                   "autor": "Machado",
                   "referencia_obra": ", Poes. compl. p. 30."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con dat. refl. X",
+              "definicion": "Con dat. refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Juvenal se finge a no sé qué Póntico para dar en él, como en centeno verde, contra los nobles que hacen gran vanidad de su genealogía.»",
                   "autor": "Isla",
                   "referencia_obra": ", Pr. Ger. pról. (Cl. C. 148. 19)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Aplicado a los seres inanimados. X",
+          "definicion": "Aplicado a los seres inanimados.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los árboles que el bosque auían fingido, | Vmbroso Coliseo ia formando, | Despejan el egido, | Olympica palestra | De valientes desnudos labradores.»",
               "autor": "Góng.",
-              "referencia_obra": "Poes. (Alemany, Vocab. de Góng.). X"
+              "referencia_obra": "Poes. (Alemany, Vocab. de Góng.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Por los gratos senderos | Do sus ramas columpian | Olientes avenidas | Que las flores perfuman. | Canción de despedida | Fingen las fuentes turbias.»",
               "autor": "Darío",
               "referencia_obra": ", Poes. p. 172."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con una prop. infinitiva como acus. X",
+              "definicion": "Con una prop. infinitiva como acus.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Las cosas que no se puede[n] representar bien, no salgan en scena, sino q[ue] finja[n] estar hechas o hacerse de[n]tro.»",
                   "autor": "L. Pinciano",
                   "referencia_obra": ", Philosophia (BALH, 20. 374)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Después que pasa la fiebre que enardece las ideas y finge bríos al cuerpo, es cuando el paciente, con el ánimo en reposo, conoce la importancia de la enfermedad que le postra.»",
                   "autor": "Pereda",
                   "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 221)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Aquella leve gasa [del pañuelo] | En mi boca fingía | Un lirio que moría | De amor... sobre una brasa.»",
                   "autor": "Flórez",
-                  "referencia_obra": ", Obr. poétic. p. 301. X"
+                  "referencia_obra": ", Obr. poétic. p. 301."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Nubes extrañas fingían maravillosas rutas en el confín del horizonte.»",
                   "autor": "Rodó",
                   "referencia_obra": ", Motivos de Proteo, p. 192."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con entre. X",
+              "definicion": "Con entre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Las torres y contrafuertes del templo fingían majestuosa visión entre el cendal de la aurora.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 71)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con para, que indica finalidad. X",
+              "definicion": "Con para, que indica finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El blanquísimo lecho finge espuma | Para albergar con cisnes y con rosas | El peso de mi sueno que reposas | Sobre silencios de gozosa pluma.»",
                   "autor": "Ridruejo",
                   "referencia_obra": ", Primer libro de amor (Cl. Castal. 73. 96)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Erguidas y soberbias sobre las ramas | Fingen las amapolas rojos trofeos.»",
                   "autor": "Jaimes Freyre",
-                  "referencia_obra": ", Poemas, p. 29. X"
+                  "referencia_obra": ", Poemas, p. 29."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Fidel llevaba la carabina atravesada sobre el pecho, engarzando con el calibre, por encima de las clavículas, los cabestros de la talega rica en mañoco, que fingía sobre su espalda inmensa joroba.»",
                   "autor": "Rivera",
                   "referencia_obra": ", La vorágine, 3 (p. 179)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Con un gerundio para expresar el modo. X",
+              "definicion": "Con un gerundio para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Fragmentos de vidrio, de pucheros, platos y vasijas que, refractando los rayos del sol, fingian todo un cieló de estrellas microscópicas y deslumbrantes.»",
                   "autor": "Bécquer",
                   "referencia_obra": ", Ley, Tres pechos, 2 (p. 75)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las plantas acuáticas se apretaban en alfombra tupida, escondiendo el agua que les corría debajo, fingiéndose vegetación de tierra muy firme.»",
               "autor": "Carpentier",
               "referencia_obra": ", Los pasos perdidos, p. 178."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las nubes | Corren su sombra encima [del océano], y a los ojos | Rueda y fluctúa la amplia superficie | Cuyos fingidos cóncavos umbrosos | Van como resbalando y persiguiendo | Los surcos luminosos.»",
               "autor": "Pombo",
               "referencia_obra": ", Antol. poética, p. 321."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1472,12 +1875,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. (Nótese la forma fengir.) Siglo XV: «Purgaré mi inocencia con mi fingida ausencia, o me fingiré loco.» Celest. 13 (R. 3. 572). «Cévola --- como hombre encubierto, con simulación fingida fue a complir el propósito que no consiguió, porque mató a otro, e no al rey que pensó matar.» Pulgar, Clar. var. 14 (p. 101). X «Porque en tal negociación y con semeiantes personas conuiene fengir turbación; porque en tales partes el desenpacbo es auido por desacatamiento.» D. de S. Pedro, Cárcel de amor (Cl. C. 133. 131). X «\"Que s’olvide lo servido, | Que viva quien engañó, | Que muera quien bien amó, | Que valga el amor fengido?» J. Manr. Canc. (Cl. C. 34. 3). X «Un muy donoso partido | Han tomado todas ya | De traher por apellido, | Y la más dellas fingido, | \"Primo acá, primo acullá\".» I. de Mendoza, Canc. (Cl. C. 163. 9). «Es de saber que este condestable fue --- fengido e cauteloso y que mucho se deleytaba usar de tales artes y cautelas.» P. de Guzmán, Gener. 34 (R. 68. 7152). «De llaga non fengida | Me feriste.» Santill. p. 447. «E tan despiadadas sus façes rasgavan | Que bien se mostrava que non lo fengían.» Id. p. 245. «E lo fingido e lo contrafecho cayó e se quedó atrás.» Crón. Álv. de Luna, 116 (p. 314). «Demuestran lo que desean, | Fingen de enoio plaser, | Lo que quieren non querer | Y dubdar cuando más crean.» Canc. de Stúñ. p. 396. «Cata non te fynjas nin seas loçano.» Canc. de Baena, p. 387. + «En esta guisa avrá el solitario victoria o vençimiento del puerco calidónico ---. Que después siguiéndelo será digna cosa fengirse en aquel mesmo o paresçerle en tal acto.» Villena, Doze trabajos, 11 (p. 120). «Y por tanto, él se finge que tiene razón.» Vis. Delect. 1. 7 (R. 36. 3502).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. fingere ‘heñir, amasar, modelar, representar, inventar’. Cat. y port. fingir, fr. feindre, it, fíngere.",
+  "etimologia": "Etim. Del lat.<i> fingere</i> ‘heñir, amasar, modelar, representar, inventar’. Cat. y port.<i> fingir,</i> fr.<i> feindre,</i> it,<i> fíngere.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 1, χ, α - 1, δ, α - 2, α, α - 2, β, α - 2, χ, α - 3, α.\n\n— Absol.: 1, d, β - 2, α, β - 2, χ, β.\n\n— Pασ.: 1, α, β - 1, δ, γ - 2, α, γ.\n\n— Pασ. ρεφλ.: 1, α, δ - 1, χ, δ - 1, δ, δ - 2, α, δ - 2, β, γ.\n\n— Rεφλ: 1, χ, ε - 2, β, β - 3, γ.\n\n— Rεχíπρ.: 2, α, ζ.\n\n— Pαρτ.: 1, a, γ - 1, β - 1, χ, ζ - 1, δ, ε ε - 2, a, ε - 2, β, δ - 2, χ, γ - 3, δ.\n\n— Aδjετιvαδο: 2, α, ε, γ γ.\n\n— Sustantivado: 1, c, ζ, α α - 1, d, ε, α α - 2, a, ε, δ δ - 2, c, γ, α α.\n\n— Siendo el acus. una prop. indicativa: 1, c, γ - 1, δ, α, α α - 2, a, α, α α - 2, b, α, γ γ.\n\n— Con dat.: 2, a, α, β β - 2, a, δ, α α - 3, β, β β.\n\n— Con dat. refl.: 1, c, α, β β - 2, c, α, α α - 3, α, δ δ.\n\n— Con a: 2, a, α, γ γ.\n\n— Con ante: 2, a, α, δ δ.\n\n— Con la prep. con: 2, a, α, ε ε - 2, a, β, α α - 2, a, δ, β β - 2, c, α, α α - 2, c, α, β β - 3, α, β β.\n\n— Con de: 1, a, δ - 1, χ, δ, α α - 1, d, α, β β - 2, a, α, ζ ζ - 2, a, ε, α α - 2, b, α, α α.\n\n— Con en: 1, a, δ, α α - 1, c, β - 1, δ, α, γ γ - 3, α, γ γ - 3, β, γ γ.\n\n— Con entre: 3, β, δ δ.\n\n— Con para: 1, c, α, α α - 1, c, α, β β - 1, c, δ - 1, δ, α, δ δ - 2, a, α, α α - 2, a, α, β β - 2, a, α, η η - 2, a, β, β β - 2, b, β, α α - 3, β, α α.\n\n— Con por: 2, a, α, θ θ - 2, a, γ - 2, α, ε, β β - 2, b, β, β β.\n\n— Con sin: 2, b, α, β β.\n\n— Con sobre: 3, β, ζ ζ.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 1, χ, α - 1, δ, α - 2, α, α - 2, β, α - 2, χ, α - 3, α.\n\n— Absol.: 1, d, β - 2, α, β - 2, χ, β.\n\n— Pασ.: 1, α, β - 1, δ, γ - 2, α, γ.\n\n— Pασ. ρεφλ.: 1, α, δ - 1, χ, δ - 1, δ, δ - 2, α, δ - 2, β, γ.\n\n— Rεφλ: 1, χ, ε - 2, β, β - 3, γ.\n\n— Rεχíπρ.: 2, α, ζ.\n\n— Pαρτ.: 1, a, γ - 1, β - 1, χ, ζ - 1, δ, ε ε - 2, a, ε - 2, β, δ - 2, χ, γ - 3, δ.\n\n— Aδjετιvαδο: 2, α, ε, γ γ.\n\n— Sustantivado: 1, c, ζ, α α - 1, d, ε, α α - 2, a, ε, δ δ - 2, c, γ, α α.\n\n— Siendo el acus. una prop. indicativa: 1, c, γ - 1, δ, α, α α - 2, a, α, α α - 2, b, α, γ γ.\n\n— Con dat.: 2, a, α, β β - 2, a, δ, α α - 3, β, β β.\n\n— Con dat. refl.: 1, c, α, β β - 2, c, α, α α - 3, α, δ δ.\n\n— Con a: 2, a, α, γ γ.\n\n— Con ante: 2, a, α, δ δ.\n\n— Con la prep. con: 2, a, α, ε ε - 2, a, β, α α - 2, a, δ, β β - 2, c, α, α α - 2, c, α, β β - 3, α, β β.\n\n— Con de: 1, a, δ - 1, χ, δ, α α - 1, d, α, β β - 2, a, α, ζ ζ - 2, a, ε, α α - 2, b, α, α α.\n\n— Con en: 1, a, δ, α α - 1, c, β - 1, δ, α, γ γ - 3, α, γ γ - 3, β, γ γ.\n\n— Con entre: 3, β, δ δ.\n\n— Con para: 1, c, α, α α - 1, c, α, β β - 1, c, δ - 1, δ, α, δ δ - 2, a, α, α α - 2, a, α, β β - 2, a, α, η η - 2, a, β, β β - 2, b, β, α α - 3, β, α α.\n\n— Con por: 2, a, α, θ θ - 2, a, γ - 2, α, ε, β β - 2, b, β, β β.\n\n— Con sin: 2, b, α, β β.\n\n— Con sobre: 3, β, ζ ζ.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

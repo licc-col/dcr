@@ -1,63 +1,77 @@
 {
   "lema": "FIRMAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, apoyar, asentar, poner algo como base o sustento;\n\n— 2, afianzar, asegurar, a) en sentido físico, buscar apoyo en algo sólido, b) fortificar, hacer fuerte, c) en lo inmaterial, apoyarse en algo para una empresa o acción, d) fijar, e) confirmar, f) afirmar, asegurar, g) atribuirse, apropiarse algo;\n\n— 3, escribir su firma, a) estampar la firma, b) darse tal o cual nombre, apellido o título en la firma, c) concluir una negociación mediante la firma de un documento (concertar un acuerdo no escrito, δ ), d) declarar un autor de una obra artística o literaria que se debe a él, poniéndole su nombre, e) aprobar, respaldar con la firma, f) aseverar mediante la firma, g) comprometerse a pagar una suma poniendo la firma en un documento de pago;\n\n— 4, detenerse.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, apoyar, asentar, poner algo como base o sustento;\n\n— 2, afianzar, asegurar, a) en sentido físico, buscar apoyo en algo sólido, b) fortificar, hacer fuerte, c) en lo inmaterial, apoyarse en algo para una empresa o acción, d) fijar, e) confirmar, f) afirmar, asegurar, g) atribuirse, apropiarse algo;\n\n— 3, escribir su firma, a) estampar la firma, b) darse tal o cual nombre, apellido o título en la firma, c) concluir una negociación mediante la firma de un documento (concertar un acuerdo no escrito, δ ), d) declarar un autor de una obra artística o literaria que se debe a él, poniéndole su nombre, e) aprobar, respaldar con la firma, f) aseverar mediante la firma, g) comprometerse a pagar una suma poniendo la firma en un documento de pago;\n\n— 4, detenerse.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "Apoyar, asentar, poner algo como base o sustento (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con en, para indicar lo que sirve de apoyo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Apenas en la deseada arena | Salidos de las naos el pie firmamos ---.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 15 (R. 17. 60²)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. Con la prep. con, para indicar el medio. En este ejemplo encontramos un juego de palabras entre dos acepciones de firmar: ‘afirmar’ y ‘poner su nombre’. \"Los que firman con su pie\": ‘el ganado’. X",
+          "definicion": "Absol. Con la prep. con, para indicar el medio. En este ejemplo encontramos un juego de palabras entre dos acepciones de firmar: ‘afirmar’ y ‘poner su nombre’. \"Los que firman con su pie\": ‘el ganado’.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las cejas en arco, | Como ballestillas | De sangrar a aquellos | Que con el pie firman.»",
               "autor": "Góng.",
               "referencia_obra": "rom. Hanme dicho, hermanas (Millé, p. 88)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con sobre, para indicar lo que sirve de apoyo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Fuese a levantar; y como pesaba algo la cabeza, firmó sobre la mesa, que era de estas movedizas: trastornola, y manchó a los demás.»",
                   "autor": "Quev.",
                   "referencia_obra": "Buscón, 11 (R. 23. 505²)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con en. met. X",
+          "definicion": "Part. Con en. met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y casi vuelta [el alma] un Hércules celeste, | Sompesará de tierra ese imperfecto [el cuerpo], | Porque el favor no pase della en éste, | Tanto que el pie del sensitivo afeto | No la llegue a tocar y el enemigo | Al hercúleo valor quede sujeto;| De sí le apartará, junto consigo | Domándole, firmado en la potencia | Del pecho ejecutor del gran castigo.»",
               "autor": "Aldana",
               "referencia_obra": ", Poes. (Cl. C. 143. 70)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -65,310 +79,401 @@
     {
       "id": "2",
       "definicion": "Afianzar, asegurar.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
-      "definicion": "En sentido físico, dar o proporcionar apoyo en algo sólido (trans.). X",
+      "definicion": "En sentido físico, dar o proporcionar apoyo en algo sólido (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«—Bien veo yo y aun admiro —dijo Andrenio— la solidez con que atendió a firmar el cuerpo la naturaleza, que en nada se descuida, y para que no cayese hacia delante, donde se arroya, puso toda la planta, y porque no peligrase a un lado ni a otro le apuntaló con ambos pies.»",
           "autor": "Gracián",
           "referencia_obra": ", Criticón, 1. 9 (Cl. C. 165. 146)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Fortificar, hacer fuerte (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Salió todo esto junto, sin guardia ni provisión de gente, sin reforzar presidios viejos o firmar otros nuevos.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granad. 1 (R. 21. 71²)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl. Con en, para señalar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La vitualla se aprovechó cuanto pudo; mas la priesa de caminar en seguimiento de los enemigos, porque en ninguna parte se firmasen --- fue causa de quemar la mayor parte.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Granad. 1 (R. 21. 80²)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
       "id": "c)",
-      "definicion": "En lo inmaterial, Apoyarse en algo para una empresa o acción. Part. Con en, para indicar aquello en que se afianza el sujeto. X",
+      "definicion": "En lo inmaterial, Apoyarse en algo para una empresa o acción. Part. Con en, para indicar aquello en que se afianza el sujeto.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Fiole Ana Félix, y Ricote su padre dijo que salía a dar el rescate de los cristianos, si acaso se perdiesen. Firmados, pues, en este parecer, se desembarcó el virrey, y don Antonio Moreno se llevó consigo a la morisca y a su padre.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 2. 63 (Cl. C. 22. 181)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
-      "definicion": "met. Fijar. Part. Con en, para señalar el objeto en que algo está fijo. X",
+      "definicion": "met. Fijar. Part. Con en, para señalar el objeto en que algo está fijo.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Así trasciende a la tenárea puerta, | Siempre la vista, con talante fijo, | Firmada en los objetos anteriores, | Sin revocarla a fuegos o clamores.»",
           "autor": "Jáur.",
           "referencia_obra": "Orfeo (Cl. C. 183. 40)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "e)",
       "definicion": "Confirmar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La firma en blanco he dejado. | —Tu castidad has firmado.»",
               "autor": "Lope",
               "referencia_obra": ", El dómine Lucas, 2. 3 (R. 24. 53¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar el medio de confirmación. X",
+              "definicion": "Con la prep. con, para señalar el medio de confirmación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«—Almirante, | ¡Vive Dios que os han hecho algún engaño! | Y para que entendáis cómo os lo han hecho, | Miradme de camino y que me parto | A Italia por mi gusto --- | —Con eso habéis firmado mi sospecha | Que el veros de camino lo confirma.»",
                   "autor": "Lope",
-                  "referencia_obra": ", La batalla del Honor, 2 (Obr. dramát. 3. 587¹). X"
+                  "referencia_obra": ", La batalla del Honor, 2 (Obr. dramát. 3. 587¹)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero es de considerar que la casada no salía de casa de su padre por sus pies sino que la arrebataban, y en volandas, sin tocar en los umbrales, la sacaban a la calle. Firmo esto con dos autoridades, la primera de Catulo y la segunda de Lucano.»",
                   "autor": "Cascales",
                   "referencia_obra": ", Cartas filológ. 6 (Cl. C. 117. 129)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en, para indicar en cuál campo se efectúa la acción de confirmar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Esto hiciste, Señor, para que mostrándonos en tu persona tan ciertas señales de nuestra humanidad, nos firmases en la fe.»",
                   "autor": "Gran.",
                   "referencia_obra": "Mem. del Crist. 48 (R. 11. 214²)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. Con de, para indicar el agente. X",
+          "definicion": "Part. Con de, para indicar el agente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«—Yo quiero proponerte un casamiento, | --- Sabré primero si mi prima gusta; | Y luego disponiendo mi obediencia, | Pues lo contrario fuera cosa injusta, | Haré lo que mandas. | —Su licencia | Tengo firmada de su misma boca.»",
               "autor": "Lope",
               "referencia_obra": ", El castigo sin venganza, 2 (R. 24. 374³)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
       "id": "f)",
-      "definicion": "Afirmar, asegurar (trans.). Con de, para expresar las cosas de las cuales se afirma algo. X",
+      "definicion": "Afirmar, asegurar (trans.). Con de, para expresar las cosas de las cuales se afirma algo.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Cuando vuestra merced halle alguna curación circunstanciada del modo dicho y me lo dé bien atestiguado, yo seré el primero a firmar que es milagrosa. Y si mil hallare con las circunstancias expresadas, de todas mil firmaré lo mismo.»",
           "autor": "Feijóo",
           "referencia_obra": ", Cartas eruditas (Cl. C. 85. 54)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "g)",
-      "definicion": "Atribuirse, apropiarse algo (refl.). Con por para indicar lo que se atribuye el sujeto. X",
+      "definicion": "Atribuirse, apropiarse algo (refl.). Con por para indicar lo que se atribuye el sujeto.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Esta quexa puede tener color en la boca solamente de aquellos que encontraren en este libro estudios y cosas suyas, --- firmándose otro por dueño del tesoro que ellos cauaron.»",
           "autor": "",
           "referencia_obra": "P. Sáinz, Apol. leng. castell. siglo Oro, p. 65."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
       "definicion": "Escribir su firma.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Estampar la firma (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Estando en estas razones entraron los cavalleros de Sicilia, y recitaron la causa de su venida, y diéronle las cartas de la paz y confederación antigua e presente. El Emperador lo recibió e firmó todo lo que ellos quisieron.»",
               "autor": "",
-              "referencia_obra": "Tirante el Blanco (Cl. C. 189. 341). X"
+              "referencia_obra": "Tirante el Blanco (Cl. C. 189. 341)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Allende desto, como el Rey se fiava de mí, hazíale yo firmar lo que quería, y aprovechávame muy gentilmente dello, de manera que con éstas y otros tales grangerías, ganando mucho y gastando poco, que es la verdadera alquimia, me hize muy presto rico.»",
               "autor": "A. de Valdés",
-              "referencia_obra": ", Diál. de Merc. y Carón (Cl. C. 96. 121). X"
+              "referencia_obra": ", Diál. de Merc. y Carón (Cl. C. 96. 121)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No es menester firmarla [la cédula] —dijo don Quijote—, sino solamente poner mi rúbrica que es lo mesmo que firma.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 25 (Cl. C. 6. 315). X"
+              "referencia_obra": "Quij. 1. 25 (Cl. C. 6. 315)."
             },
             {
+              "marca": "X",
               "texto_cita": "«—Isabel, entra a firmar | Esta querella que has dado | Contra aquel que te ha injuriado.»",
               "autor": "Cald.",
               "referencia_obra": "El alcalde de Zalamea, 3. 14 (Cl. C. 138. 200)."
             },
             {
+              "marca": "",
               "texto_cita": "«Firmaba [Enrique IV] los despachos sin leellos ni saber lo que contenían.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 57 (R. 25. 152¹). X"
+              "referencia_obra": "Emp. 57 (R. 25. 152¹)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Su hijo de usted firmará la carta de dote, recibos, cuentas de tutela, etc. según hemos convenido.»",
               "autor": "Fern.",
-              "referencia_obra": "Caball. Lágrimas, p. 110. X"
+              "referencia_obra": "Caball. Lágrimas, p. 110."
             },
             {
+              "marca": "X",
               "texto_cita": "«—Ven tú, María —le contestó a tiempo que yo le presentaba algunas cartas concluidas para que las firmase—.»",
               "autor": "Isaacs",
-              "referencia_obra": ", María, p. 118. X"
+              "referencia_obra": ", María, p. 118."
             },
             {
+              "marca": "X",
               "texto_cita": "«La gente agradece que le metan un giro en casa. La verdad es que embolsar cuartos sin más que firmar un cartón es un momio.»",
               "autor": "Delibes",
               "referencia_obra": ", Diario de un cazador, p. 76."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con un predicado referido al sujeto. X",
+              "definicion": "Con un predicado referido al sujeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y a la hora final no hay colombiano que no firmara gustoso el telegrama de condolencia del ex Presidente Restrepo, que cita \"El Debate\" para anonadarme: \"Como prelado, honró a la iglesia y como patricio fue orgullo de la patria.\"»",
                   "autor": "Rueda Vargas",
                   "referencia_obra": ", Lentus in umbra, p. 112."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Las dos partes de un convenio, representadas por los firmantes, aparecen como sujetos de firmar. X",
+              "definicion": "Las dos partes de un convenio, representadas por los firmantes, aparecen como sujetos de firmar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El arreglo fue celebrado en 1892, firmándolo el general Vélez y su eminencia el cardenal Rampolla, secretario de estado de su santidad.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 3 (p. 267)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Sujeto es el nombre del firmante. X",
+              "definicion": "Sujeto es el nombre del firmante.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Firmaba la carta Francisco Fumarada y Parado, y sus señas eran: \"Número 184, penal de Burgos.\"»",
                   "autor": "Baroja",
                   "referencia_obra": ", La busca, intr. (p. 19)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Es acus. el nombre o el seudónimo del firmante. X",
+              "definicion": "Es acus. el nombre o el seudónimo del firmante.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«—El caso está entendido — respondió Croriano—; y por mí —tomando la pluma al peregrino y el cartapacio quiero comenzar a salir desta obligación, y escribió: Más hermoso parece el soldado muerto en la batalla que sano en la huída, Y firmó: Croriano.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Pers. 4. 1 (Cl. Castal. 12. 417). X"
+                  "referencia_obra": "Pers. 4. 1 (Cl. Castal. 12. 417)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y luego firmava [Don Quijote] al pie del cartel: El cavallero Desamorado.»",
                   "autor": "Avell.",
-                  "referencia_obra": "Quij. 5 (Cl. C. 174. 118). X"
+                  "referencia_obra": "Quij. 5 (Cl. C. 174. 118)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Soñé a Dios como una fragua | De fuego, que ablanda el hierro, | Como un forjador de espadas, | Como un bruñidor de aceros, | Que iba firmando en las hojas | De luz: Libertad-Imperio.»",
                   "autor": "Machado",
-                  "referencia_obra": ", Poes. complet. p. 166. X"
+                  "referencia_obra": ", Poes. complet. p. 166."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«—Te aseguro que lo que hoy me preocupa es dejar una fortuna a mi hijo. —Le dejarás un nombre. —Los nombres no se cotizan. —¡El tuyo sí! —¡Mi firma, pero es... Sánchez! ¡Y menos mal si no le da por firmar Abel S. Puig!»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 20 (p. 88). — El siguiente ejemplo es análogo a los anteriores, sólo que el que firma lo hace a ruego y a nombre de quien firmaría, si pudiese. X"
-                },
+                  "referencia_obra": ", Abel Sánchez, 20 (p. 88)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Ella me dijo que pusiese de mi mano —porque no sabía escribir— esta razón: Más quiero ser mala con esperanza de ser buena, que buena con propósito de ser mala. Y díjome que firmase: La peregrina de Talavera.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Pers. 4. 1 (Cl. Castal. 12. 416)."
+                  "id_limpio": "—",
+                  "definicion": "El siguiente ejemplo es análogo a los anteriores, sólo que el que firma lo hace a ruego y a nombre de quien firmaría, si pudiese.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ella me dijo que pusiese de mi mano —porque no sabía escribir— esta razón: Más quiero ser mala con esperanza de ser buena, que buena con propósito de ser mala. Y díjome que firmase: La peregrina de Talavera.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Pers. 4. 1 (Cl. Castal. 12. 416)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "El acus. es lo ordenado y no la orden misma. X",
+              "definicion": "El acus. es lo ordenado y no la orden misma.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Y yo, su amigo, su huésped; yo, que aun hoy mismo le apellidaba padre, tendré que firmar su muerte, que presenciarla, que aplaudirla?»",
                   "autor": "M. de la Rosa",
-                  "referencia_obra": ", Abén Humeya, 3 (Cl. C. 107. 264). X"
+                  "referencia_obra": ", Abén Humeya, 3 (Cl. C. 107. 264)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Me pasé el día yendo y viniendo a la tienda de don Rafael para que firme unos traslados. Es la primera vez que veo a un Secretario despachar los asuntos oficiales sin moverse de su almacén.»",
                   "autor": "Delibes",
-                  "referencia_obra": ", Diario de un cazador, p. 21. — Con de, para señalar el modo. X"
-                },
+                  "referencia_obra": ", Diario de un cazador, p. 21."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Desta suerte firmaré | Mercedes hoy.»",
-                  "autor": "Cald.",
-                  "referencia_obra": "Para vencer a Amor. 1. 7 (R. 12. 167²)."
+                  "id_limpio": "—",
+                  "definicion": "Con de, para señalar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Desta suerte firmaré | Mercedes hoy.»",
+                      "autor": "Cald.",
+                      "referencia_obra": "Para vencer a Amor. 1. 7 (R. 12. 167²)."
+                    }
+                  ]
                 }
               ]
             },
@@ -376,633 +481,934 @@
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "La expresión firmar su nombre equivale simplemente a firmar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Querría que aprendieses a firmar siquiera. Bien sé firmar mi nombre, respondió Sancho; que cuando fui prioste en mi lugar, aprendí a hacer unas letras como de marca de fardo, que decían que decía mi nombre.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 13 (R. 1. 494¹). X"
+                  "referencia_obra": "Quij. 2. 13 (R. 1. 494¹)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Veo, sí, con galones, mesa y coche | Al que firmar su nombre sabe apenas, | Mientras alguno en útiles faenas | A la luz de un candil pasa la noche, | Rodeado de Servios y Macrobios, | Vosios, Erasmos, Grevios y Gronovios.»",
                   "autor": "T. Iriarte",
-                  "referencia_obra": ", Poes. (Cl. C. 136. 152). — También se da firmar de su nombre, expresión que durante la Edad Media, pudo ser el puente para el tránsito semántico de confirmar a suscribir. X"
-                },
+                  "referencia_obra": ", Poes. (Cl. C. 136. 152)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Desta manera tengo ajuntados más de trescientos aforismos, todos dignos de saberse y de imprimirse, y no en nombre mío sino de su mismo autor, que lo firmó de su nombre, después de haberlo dicho.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Pers. 4. 1 (Cl. Castal. 12. 416)."
+                  "id_limpio": "—",
+                  "definicion": "También se da firmar de su nombre, expresión que durante la Edad Media, pudo ser el puente para el tránsito semántico de confirmar a suscribir.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Desta manera tengo ajuntados más de trescientos aforismos, todos dignos de saberse y de imprimirse, y no en nombre mío sino de su mismo autor, que lo firmó de su nombre, después de haberlo dicho.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Pers. 4. 1 (Cl. Castal. 12. 416)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "En muchas ocasiones el complemento que pertenece gramaticalmente al acus. del verbo firmar, muestra un cierto grado de vinculación con el mismo verbo, por el hecho de que éste forma una unidad significativa con su acus. Así, firmar una petición equivale a ‘pedir por escrito’, etc. Siguen dos ejemplos típicos de lo dicho, pero hay bastantes otros similares en este artículo. X",
+              "definicion": "En muchas ocasiones el complemento que pertenece gramaticalmente al acus. del verbo firmar, muestra un cierto grado de vinculación con el mismo verbo, por el hecho de que éste forma una unidad significativa con su acus. Así, firmar una petición equivale a ‘pedir por escrito’, etc. Siguen dos ejemplos típicos de lo dicho, pero hay bastantes otros similares en este artículo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los burgueses firman una petición al rey: Tregua para la compañía y convocatoria del Parlamento. El rey, inperturbable, replica: Sólo habrá Parlamento cuando las necesidades del reino lo exijan.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 2. 13 (p. 253). X"
+                  "referencia_obra": ", Biogr. del Caribe, 2. 13 (p. 253)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Cualquiera que sea el favorecido, yo sé que ha de corresponder con largueza a mis buenos oficios, que de todos me hice firmar una obligación para asegurarme.»",
                   "autor": "Benavente",
                   "referencia_obra": ", Intereses creados, 1. 2 (p. 66)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— θ θ )",
               "id_limpio": "— θ θ )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ese hombre me firmaría, ante todo, una cláusula de no reclamar cosa alguna, fuera de los intereses, en un mínimo de treinta años.»",
                   "autor": "Pereda",
-                  "referencia_obra": ", La puchera, 9 (Cl. Castal. 93. 199). X"
+                  "referencia_obra": ", La puchera, 9 (Cl. Castal. 93. 199)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Volvió a estornudar, puso una mano sobre la espalda Larsen; con la otra estiró rápidamente la tela sobre el muerto. —Nada más —dijo—. Ahora firma un papel y se va.»",
                   "autor": "Onetti",
-                  "referencia_obra": ", El astillero, p. 156. X"
+                  "referencia_obra": ", El astillero, p. 156."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Apartó cuidadoso la jarra con las hojas y flores para quemar en la palangana el salvoconducto a la felicidad que le había firmado el viejo Petrus.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 165. — Con para, en sentido de finalidad. Este es otro caso en que el complemento está vinculado tanto con el verbo como con el acus. de éste. X"
-                },
+                  "referencia_obra": "Id. ib. p. 165."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Vi a todos los capitanes de la Junta comer a vuestra mesa, vi en vuestra cámara juntarse todos a consulta, vi firmaros la nómina para pagar la gente de guerra y que todos apellidaban \"viva, viva el obispo de Çamora\"?»",
-                  "autor": "Guev.",
-                  "referencia_obra": "Epíst. 48 (Cl. Esp. 10. 303)."
+                  "id_limpio": "—",
+                  "definicion": "Con para, en sentido de finalidad. Este es otro caso en que el complemento está vinculado tanto con el verbo como con el acus. de éste.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Vi a todos los capitanes de la Junta comer a vuestra mesa, vi en vuestra cámara juntarse todos a consulta, vi firmaros la nómina para pagar la gente de guerra y que todos apellidaban \"viva, viva el obispo de Çamora\"?»",
+                      "autor": "Guev.",
+                      "referencia_obra": "Epíst. 48 (Cl. Esp. 10. 303)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ι ι )",
               "id_limpio": "— ι ι )",
-              "definicion": "Con como, para indicar la dignidad o autoridad de que está investido el firmante y en virtud de la cual suscribe el documento. Además con en, con valor locativo. X",
+              "definicion": "Con como, para indicar la dignidad o autoridad de que está investido el firmante y en virtud de la cual suscribe el documento. Además con en, con valor locativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se olvidan de que el virrey firmó en Turbaco su relación de mando ya como arzobispo obispo de Córdoba, de modo que no se ausentó como pretendiente.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 2 (p. 152)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— κ κ )",
               "id_limpio": "— κ κ )",
-              "definicion": "Con la prep con, para indicar: — la forma en que se suscribe el firmante. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep con, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Se refería a nadie menos que a ella, la ahijada del Duque de Alba, una dama con tanta alcurnia que le revolvía el hígado a las esposas de los presidentes, una fijodalga de sangre como ella que tenía derecho a firmar con once apellidos peninsulares.»",
-                  "autor": "García Márquez",
-                  "referencia_obra": ", Cien años de soledad, p. 297. X"
+                  "id_limpio": "—",
+                  "definicion": "la forma en que se suscribe el firmante.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Se refería a nadie menos que a ella, la ahijada del Duque de Alba, una dama con tanta alcurnia que le revolvía el hígado a las esposas de los presidentes, una fijodalga de sangre como ella que tenía derecho a firmar con once apellidos peninsulares.»",
+                      "autor": "García Márquez",
+                      "referencia_obra": ", Cien años de soledad, p. 297."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Al día siguiente escribí, a pulso y pareadas, las dos décimas; las separé con una flecha punta arriba, y firmé con mi nombre y apellido completos.»",
+                      "autor": "Pereda",
+                      "referencia_obra": ", Pedro Sánchez, 1 (Cl. C. 144. 163)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El libro sobre los bucaneros está firmado con el nombre de John Esquemeling.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Caribe, 2. 10 (p. 203)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Al día siguiente escribí, a pulso y pareadas, las dos décimas; las separé con una flecha punta arriba, y firmé con mi nombre y apellido completos.»",
-                  "autor": "Pereda",
-                  "referencia_obra": ", Pedro Sánchez, 1 (Cl. C. 144. 163). X"
+                  "id_limpio": "—",
+                  "definicion": "Una circunstancia del acto de la firma.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Cinco años gobernó | Su república de suerte | Que una sentencia de muerte | Con mil lágrimas firmó.»",
+                      "autor": "Lope",
+                      "referencia_obra": ", La niña de plata, 2. 20 (R. 24. 288¹)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El libro sobre los bucaneros está firmado con el nombre de John Esquemeling.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 2. 10 (p. 203). — Una circunstancia del acto de la firma."
+                  "id_limpio": "—",
+                  "definicion": "Una modalidad en la acción de firmar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«—Ea, pues —dijo Sancho—, ponga vuestra merced en esotra vuelta la cédula de los tres pollinos, y fírmela con mucha claridad, porque la conozcan en viéndola.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 25 (Cl. C. 6. 315)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Aquí acabó el decreto que el secretario del Despacho firmó con menos Gracia todavía que Justicia.»",
+                      "autor": "Larra",
+                      "referencia_obra": ", Artíc. polít. y soc. (Cl. C. 77. 100)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Cinco años gobernó | Su república de suerte | Que una sentencia de muerte | Con mil lágrimas firmó.»",
-                  "autor": "Lope",
-                  "referencia_obra": ", La niña de plata, 2. 20 (R. 24. 288¹). — Una modalidad en la acción de firmar. X"
+                  "id_limpio": "—",
+                  "definicion": "Con quién se concluye el convenio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ya seguiré explicando el fin del tratado que me tocó firmar con el señor Unda, al cual introdujo Venezuela modificaciones que nuestra patria no pudo aceptar.»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños, 3 (p. 283)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La verdad es que nunca puede hacerse la paz con un estado papista: firmad con él lo que queráis, pero estad seguros de que sólo guardará sus promesas hasta el punto en donde el Papa diga amén.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 208)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«—Ea, pues —dijo Sancho—, ponga vuestra merced en esotra vuelta la cédula de los tres pollinos, y fírmela con mucha claridad, porque la conozcan en viéndola.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 25 (Cl. C. 6. 315). X"
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Que los tratados quebranta, | Que firmó solemnemente | En Perpiñán con España.»",
+                      "autor": "A. Saav.",
+                      "referencia_obra": "Rom. (Cl. C. 9. 198)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Aquí acabó el decreto que el secretario del Despacho firmó con menos Gracia todavía que Justicia.»",
-                  "autor": "Larra",
-                  "referencia_obra": ", Artíc. polít. y soc. (Cl. C. 77. 100). — Con quién se concluye el convenio. X"
+                  "id_limpio": "—",
+                  "definicion": "A uno de los firmantes que en compañía de otros suscribe un documento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Halló en la página 63 un decreto del rey Gundemaro, relativo a uno de los concilios de Toledo, en que firman con el rey varios obispos, entre quienes está Goma, obispo de Olisipo (Lisboa).»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños, 4 (p. 32)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Ya seguiré explicando el fin del tratado que me tocó firmar con el señor Unda, al cual introdujo Venezuela modificaciones que nuestra patria no pudo aceptar.»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 3 (p. 283). X"
+                  "id_limpio": "—",
+                  "definicion": "El medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Sábese por Plinio que dos afamados artistas griegos, Sauros y Battraco, tomaron parte principal en las obras del pórtico suntuoso de la hermana de Octavio; y como se les prohibiera escribir su nombre en parte alguna, esculpieron el significado de su nombre respectivo, firmando así en las columnas con jeriglíficos, que pudieron pasar como caprichos de ornamentación.»",
+                      "autor": "Catalina",
+                      "referencia_obra": ", Roma, p. 476."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«La verdad es que nunca puede hacerse la paz con un estado papista: firmad con él lo que queráis, pero estad seguros de que sólo guardará sus promesas hasta el punto en donde el Papa diga amén.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 208). — Además con en. X"
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Escribiré en llegando, y escribiré en mi corazón la escritura deste recibo para que la cobres dél, si Dios me deja volver a verte: testigos tus ojos. Mira con qué quieres que la firme. —¿Qué firma como tus brazos?»",
+                      "autor": "Lope",
+                      "referencia_obra": ", Dorotea, 1. 6 (p. 178)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Que los tratados quebranta, | Que firmó solemnemente | En Perpiñán con España.»",
-                  "autor": "A. Saav.",
-                  "referencia_obra": "Rom. (Cl. C. 9. 198). — A uno de los firmantes que en compañía de otros suscribe un documento. X"
-                },
-                {
-                  "texto_cita": "«Halló en la página 63 un decreto del rey Gundemaro, relativo a uno de los concilios de Toledo, en que firman con el rey varios obispos, entre quienes está Goma, obispo de Olisipo (Lisboa).»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 4 (p. 32). — El medio. X"
-                },
-                {
-                  "texto_cita": "«Sábese por Plinio que dos afamados artistas griegos, Sauros y Battraco, tomaron parte principal en las obras del pórtico suntuoso de la hermana de Octavio; y como se les prohibiera escribir su nombre en parte alguna, esculpieron el significado de su nombre respectivo, firmando así en las columnas con jeriglíficos, que pudieron pasar como caprichos de ornamentación.»",
-                  "autor": "Catalina",
-                  "referencia_obra": ", Roma, p. 476. — met. X"
-                },
-                {
-                  "texto_cita": "«Escribiré en llegando, y escribiré en mi corazón la escritura deste recibo para que la cobres dél, si Dios me deja volver a verte: testigos tus ojos. Mira con qué quieres que la firme. —¿Qué firma como tus brazos?»",
-                  "autor": "Lope",
-                  "referencia_obra": ", Dorotea, 1. 6 (p. 178). — Con la expresión de su mano, para expresar que el acto de la firma no se delega en un representante o intermediario. +"
-                },
-                {
-                  "texto_cita": "«Pidiéronles que si lo que en el concilio se había determinado era verdad, lo firmasen de su mano y lo aprobasen.»",
-                  "autor": "Rivad.",
-                  "referencia_obra": "Trib. 2. 6 (R. 60. 420¹)."
+                  "id_limpio": "—",
+                  "definicion": "Con la expresión de su mano, para expresar que el acto de la firma no se delega en un representante o intermediario.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Pidiéronles que si lo que en el concilio se había determinado era verdad, lo firmasen de su mano y lo aprobasen.»",
+                      "autor": "Rivad.",
+                      "referencia_obra": "Trib. 2. 6 (R. 60. 420¹)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— λ λ )",
               "id_limpio": "— λ λ )",
-              "definicion": "Con en, para indicar el lugar donde se efectúa el acto de la firma. Además con para. X",
+              "definicion": "Con en, para indicar el lugar donde se efectúa el acto de la firma. Además con para.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Alonso de Lugo firmó en la ciudad de Las Palmas de Gran Canaria un contrato, en 13 de junio de 1494, para terminar la conquista de la isla de Tenerife.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Por tierras de Port. y Esp. p. 178."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— μ μ )",
               "id_limpio": "— μ μ )",
-              "definicion": "Con por, para indicar a la persona que sustituye a otra en el acto de la firma. X",
+              "definicion": "Con por, para indicar a la persona que sustituye a otra en el acto de la firma.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tampoco sabía escribir el peregrino y dijo que escribiese: No hay carga más pesada que la mujer liviana. Y firmé por él: Bartolomé el Manchego.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 4. 1 (Cl. Castal. 12. 417)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ν ν )",
               "id_limpio": "— ν ν )",
-              "definicion": "Con sin, para indicar modo. X",
+              "definicion": "Con sin, para indicar modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con un valor tranquilo, con una energía admirable, este hombre, que no sabe escribir, pero que sabe leer y dicta cartas a cinco secretarios, y no firma nada sin repasarlo letra por letra, deja una serie de documentos que podrían envidiar muchos letrados.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 3. 18 (p. 324)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ξ ξ )",
               "id_limpio": "— ξ ξ )",
-              "definicion": "Con un complemento de tiempo, generalmente la fecha va precedida del artículo, sólo excepcionalmente por en. X",
+              "definicion": "Con un complemento de tiempo, generalmente la fecha va precedida del artículo, sólo excepcionalmente por en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Parece increíble que hombres de la altura de Agüero y de Varela llegasen a creer que el protocolo que firmaban el 22 de junio de 1840, pudiera nunca servir a uno de los dos objetos que se proponían con ese paso, y que sin duda era el más importante para ellos.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 4 (p. 370)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Se arrellanaban en una silla, no a preguntaros algún caso de consciencia o hablar algo de la Escriptura sagrada, sino a murmurar diciendo que el rey no firma y que el Consejo no despacha.»",
               "autor": "Guev.",
               "referencia_obra": "Epíst. 1. 29 (Cl. Esp. 10. 183)."
             },
             {
+              "marca": "",
               "texto_cita": "«Yo no sé leer ni escrihir, puesto que sé firmar.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 36 (R. 1. 482¹). X"
+              "referencia_obra": "Quij. 2. 36 (R. 1. 482¹)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Gran falta es la que llevas contigo, y así querría que aprendiese a firmar siquiera.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 2. 43 (Cl. C. 19. 116). +"
+              "referencia_obra": "Id. ib. 2. 43 (Cl. C. 19. 116)."
             },
             {
+              "marca": "+",
               "texto_cita": "«No falta más que firmar [los contratos).»",
               "autor": "Bretón",
-              "referencia_obra": ", Muérete y verás, 4. 8 (Cl. C. 92. 107). +"
+              "referencia_obra": ", Muérete y verás, 4. 8 (Cl. C. 92. 107)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Ea, firma, y no hagas caso | De un fastidioso agorero.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 4. 8 (Cl. C. 92. 109). X"
+              "referencia_obra": "Id. ib. 4. 8 (Cl. C. 92. 109)."
             },
             {
+              "marca": "X",
               "texto_cita": "«(Cerrando la carta.) —Firmo y plego. —¿Ciutti?— ¿Señor? —Este pliego | Irá dentro del orario | En que reza doña Inés | A sus manos a parar.»",
               "autor": "Zorrilla",
-              "referencia_obra": ", Don Juan Tenorio, 1 (Cl. C. 201. 9). X"
+              "referencia_obra": ", Don Juan Tenorio, 1 (Cl. C. 201. 9)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Firma ahora! ¡Es el momento! (Ricardo firma. Entonces, como saliendo de la esfera misma, se oye un grito desgarrador de mujer.)»",
               "autor": "Casona",
-              "referencia_obra": ", La barca sin pescador, p. 108. X"
+              "referencia_obra": ", La barca sin pescador, p. 108."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si se me olvidó firmar, sumercé, le dije. ¡Hace tantos años que no practico!»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Siervo, 3. 2 (p. 167)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para indicar: — la modalidad o forma de la firma. Aquí, para indicar el alfabeto en que ella se estampa.",
-              "ejemplos_citas": [
+              "definicion": "Con en, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No sabía escribir Abén Humeya, y firmar mal en arábigo; pero servíale de secretario y firmaba algunas veces por él un sobrino del alguacil.»",
-                  "autor": "Mend.",
-                  "referencia_obra": "Guerra de Granada, 3 (R. 21. 103¹). — El lugar. X"
+                  "id_limpio": "—",
+                  "definicion": "la modalidad o forma de la firma. Aquí, para indicar el alfabeto en que ella se estampa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«No sabía escribir Abén Humeya, y firmar mal en arábigo; pero servíale de secretario y firmaba algunas veces por él un sobrino del alguacil.»",
+                      "autor": "Mend.",
+                      "referencia_obra": "Guerra de Granada, 3 (R. 21. 103¹)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«En contrito desconsuelo | Es el hombre allí un gusano | Que se arrastra por el suelo, | Tiende el ministro su mano | Y un ángel firma en el cielo.»",
-                  "autor": "Arolas",
-                  "referencia_obra": ", Poes. (Cl. C. 95. 179)."
+                  "id_limpio": "—",
+                  "definicion": "El lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En contrito desconsuelo | Es el hombre allí un gusano | Que se arrastra por el suelo, | Tiende el ministro su mano | Y un ángel firma en el cielo.»",
+                      "autor": "Arolas",
+                      "referencia_obra": ", Poes. (Cl. C. 95. 179)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por, para señalar a la persona que sustituye a otra en el acto de la firma. X",
+              "definicion": "Con por, para señalar a la persona que sustituye a otra en el acto de la firma.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Fingiré que tengo tullida la mano derecha y haré que firme otro por mí.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 43 (Cl. C. 19. 116). X"
+                  "referencia_obra": "Quij. 2. 43 (Cl. C. 19. 116)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Cual si quisiesen firmar por mí, ya ves, como han caído aquí mis lágrimas. Esta pobre carta, escrita con tanta ternura i melancolía, no le fue agradable a Reina.»",
                   "autor": "Fern.",
                   "referencia_obra": "Caball. Lágrimas, p. 101."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con un adv. o una expresión adverbial de lugar para indicar el sitio del documento donde debe quedar la firma. X",
+              "definicion": "Con un adv. o una expresión adverbial de lugar para indicar el sitio del documento donde debe quedar la firma.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Míster Danger --- sacó del bolsillo un papel donde había algo escrito y presentándoselo a don Lorenzo, le dijo: —Firma aquí, chico. Este es el documento del contratico que hicimos ayer.»",
                   "autor": "Gallegos",
-                  "referencia_obra": ", Doña Bárbara, p. 328. X"
+                  "referencia_obra": ", Doña Bárbara, p. 328."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Me dijeron si quería firmar al pie del escrito y no me hice de rogar. Hay que terminar con esa canalla.»",
                   "autor": "Delibes",
                   "referencia_obra": ", Diario de un cazador, p. 25."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refl. Con en, que indica dónde se estampa la firma. X",
+          "definicion": "Refl. Con en, que indica dónde se estampa la firma.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Sal a la plaza esta tarde | A ver el vistoso alarde | De tanto príncipe armado. | Como el término se aplaza, | Van con bélico tropel | A firmarse en el cartel | Que está fijado en la plaza.»",
               "autor": "Lope",
               "referencia_obra": ", Justas de Tebas, 3 (Obr. dramát. 1. 273)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Pues qué se ha de hacer de la firma? dijo Sancho. Nunca las cartas de Amadís se firmaron, dijo D. Quijote, Está bien, respondió Sancho, pero la libranza forzosamente se ha de firmar.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 25 (R. 1. 315¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Porque es uso en corte usado, | Cuando la carta se firma, | Poner antes de la firma | La letra del nombre amado.»",
               "autor": "Lope",
-              "referencia_obra": ", El dómine Lucas, 2. 3 (R. 24. 53¹). X"
+              "referencia_obra": ", El dómine Lucas, 2. 3 (R. 24. 53¹)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Cómo, pues, es posible que un país hubiese admitido tantas bandadas de gentes extrañas sin que quedase alguna memoria de su establecimiento? Si se admitieron por lástima y humanidad, ¿quién lo hizo, dónde se firmaron, dónde se encierran los pactos de su admisión?»",
               "autor": "Jovell.",
-              "referencia_obra": "Cartas (Cl. C. 129. 266). X"
+              "referencia_obra": "Cartas (Cl. C. 129. 266)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Estos mármoles rotos han escuchado deliberaciones, en que se trataba de la suerte del mundo: aquí se firmó el decreto que envió a Herodes a la Judea, y aquel otro del empadronamiento, en cuya virtud se cumplieron los destinos de Belén.»",
               "autor": "Catalina",
-              "referencia_obra": ", Roma, p. 335. X"
+              "referencia_obra": ", Roma, p. 335."
             },
             {
+              "marca": "X",
               "texto_cita": "«La isleta de los Faisanes donde se concertó el casamiento de Luis XIV de Francia con la infanta de España María Teresa, hija de nuestro Felipe IV, el Habsburgo, y se firmó el pacto de Familia. — \"¡Ya no hay Pirineos!\", se dijo, como si con pactos así se abatieran montañas de roca milenaria.»",
               "autor": "Unamuno",
-              "referencia_obra": ", Cómo se hace una nov. p. 170. X"
+              "referencia_obra": ", Cómo se hace una nov. p. 170."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entonces se firmó el contrato de 28 de octubre de 1920, aprobado por la ley 88, de lo cual debía seguirse la entrega de las acciones del ferrocarril.»",
               "autor": "",
-              "referencia_obra": "M. F. Suárez, Sueños, 2 (p. 304). X"
+              "referencia_obra": "M. F. Suárez, Sueños, 2 (p. 304)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No tiene Colón estampa de conquistador. Le falta la decisión fulminante y brutal de los soldados que habrán de seguirle, Pero es precursor de cazadores de oro. Desde que se firmó la capitulación del descubrimiento lo prometió a los Reyes Católicos.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 21 (p. 33)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar con quien se concluye el convenio. X",
+              "definicion": "Con la prep. con, para indicar con quien se concluye el convenio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Hubo tres arreglos más, que se firmaron con España, Francia e Italia, el segundo de los cuales fue una convención abreviada.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 3 (p. 219). X"
+                  "referencia_obra": ", Sueños, 3 (p. 219)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Aprovechando la presencia de aquellos dos estadistas en el gobierno de Wáshington, pudo firmarse con el señor Tomson una convención.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 4 (p. 184). — En el siguiente ejemplo el complemento encabezado por con puede interpretarse también como complemento del acus. del verbo. X"
-                },
+                  "referencia_obra": "Id. ib. 4 (p. 184)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El gobierno conservador decía --- que por fin se había firmado el concordato con la Santa Sede.»",
-                  "autor": "García Márquez",
-                  "referencia_obra": ", Cien años de soledad, p. 184."
+                  "id_limpio": "—",
+                  "definicion": "En el siguiente ejemplo el complemento encabezado por con puede interpretarse también como complemento del acus. del verbo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El gobierno conservador decía --- que por fin se había firmado el concordato con la Santa Sede.»",
+                      "autor": "García Márquez",
+                      "referencia_obra": ", Cien años de soledad, p. 184."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para indicar: — el documento que se suscribe o la materia de éste. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El arzobispo de Maguncia pide tanto en escudos, tanto en pensión, y capelo de cardenal. Y así cada uno. Voto que se contrata, compromiso que se firma en pergamino, y se jura por Dios y los santos.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 1. 7 (p. 114). — El lugar donde se firma el convenio. X"
+                  "id_limpio": "—",
+                  "definicion": "el documento que se suscribe o la materia de éste.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El arzobispo de Maguncia pide tanto en escudos, tanto en pensión, y capelo de cardenal. Y así cada uno. Voto que se contrata, compromiso que se firma en pergamino, y se jura por Dios y los santos.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Caribe, 1. 7 (p. 114)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Con nosotros pactó [Ecuador] un tratado directo de 1908, que después no tuvo eficacia; y por fin, el 15 de julio de 1916 se firmó en Bogotá el tratado de límites que en forma directa dirimió para siempre jamás este negocio.»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 3 (p. 308). X"
-                },
-                {
-                  "texto_cita": "«Habíais empeñado las armas con el objeto de obtener reformas en la vida política y civil de la nación. En vuestro nombre las he alcanzado en un documento de los más solemnes y por tanto de los más obligatorios que se hayan firmado en Colombia: el tratado de paz nacional que leeréis a continuación.»",
-                  "autor": "L. Caballero",
-                  "referencia_obra": ", Guerra mil días, 22 (p. 202). X"
-                },
-                {
-                  "texto_cita": "«La inferioridad de los equipos, el desaliento por la larga contienda, la falta de unidad y las disensiones que separaron a los jefes desde el principio y la fatiga de una vida azarosa sin esperanzas de victoria, le obligaron [a Uribe Uribe] a aceptar un tratado de paz, que se firmó en la hacienda de Neerlandia, el 24 de octubre.»",
-                  "autor": "Osorio Lizarazo",
-                  "referencia_obra": ", El camino en la sombra, p. 228."
+                  "id_limpio": "—",
+                  "definicion": "El lugar donde se firma el convenio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Con nosotros pactó [Ecuador] un tratado directo de 1908, que después no tuvo eficacia; y por fin, el 15 de julio de 1916 se firmó en Bogotá el tratado de límites que en forma directa dirimió para siempre jamás este negocio.»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños, 3 (p. 308)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Habíais empeñado las armas con el objeto de obtener reformas en la vida política y civil de la nación. En vuestro nombre las he alcanzado en un documento de los más solemnes y por tanto de los más obligatorios que se hayan firmado en Colombia: el tratado de paz nacional que leeréis a continuación.»",
+                      "autor": "L. Caballero",
+                      "referencia_obra": ", Guerra mil días, 22 (p. 202)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La inferioridad de los equipos, el desaliento por la larga contienda, la falta de unidad y las disensiones que separaron a los jefes desde el principio y la fatiga de una vida azarosa sin esperanzas de victoria, le obligaron [a Uribe Uribe] a aceptar un tratado de paz, que se firmó en la hacienda de Neerlandia, el 24 de octubre.»",
+                      "autor": "Osorio Lizarazo",
+                      "referencia_obra": ", El camino en la sombra, p. 228."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con entre, para designar a las partes firmantes de un documento. X",
+              "definicion": "Con entre, para designar a las partes firmantes de un documento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El 28 de abril de 1894 se firmó entre su excelencia don Bernardo Jacinto de Cólogan, enviado extraordinario y ministro plenipotenciario de España en Bogotá, y el que después hemos llamado presidente paria, un tratado adicional al de paz y amistad firmado en 1881.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 3 (p. 258)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Pas. X",
+          "definicion": "Pas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Como a veces, infiel, se rebelaba, | Fue a muerte el hombre condenado un día, | Y por más que yo amante lo aguardaba, | El anillo fatal no aparecía. | Dudé una vez y dos; por vez tercera | El fallo irreparable fue firmado.»",
               "autor": "Campoamor",
               "referencia_obra": ", Poes. (Cl. C. 40. 169)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con un predicado, que es el nombre del firmante. X",
+              "definicion": "Con un predicado, que es el nombre del firmante.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Hubo, además, un telegrama enviado al gobernador: tres líneas tan imperiosas que merecían ser firmadas \"Yo, Petrus\", y que no obtuvo más respuesta que una carta de pésame donde las lamentaciones trataban de restar valor a la negativa.»",
                   "autor": "Onetti",
                   "referencia_obra": ", El astillero, p. 102."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El emperador Andrónico, para el cumplimiento del juramento hecho, envió a Teodoro Chuno que llevase a Roger los conciertos firmados y sellados con sellos de oro y treinta mil escudos y las insignias de césar.»",
               "autor": "Moncada",
-              "referencia_obra": ", Exped. (Cl. C. 54. 89). X"
+              "referencia_obra": ", Exped. (Cl. C. 54. 89)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Firmado el concierto, a él no le tocaba ratificarlo, sino al virrey, quien era el llamado a estudiarlo y a resolver en definitiva. Fue el señor Flórez, cuando estaba en Cartagena, quien decidió este punto.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 2 (p. 121)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para expresar la forma como se efectúa la firma. X",
+              "definicion": "Con la prep. con, para expresar la forma como se efectúa la firma.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tanto alza [el pirincho] la cola con eso, | Que parece que en su desatino, | Va a soltarnos el huevo azulino | Firmado con letras de yeso.»",
                   "autor": "Lugones",
                   "referencia_obra": ", El libro de los paisajes, p. 127."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de, para indicar el agente. X",
+              "definicion": "Con de, para indicar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Que los pobres que estuvieren ya alistados y aprobados por verdaderos e inútiles para trabajar, lleven --- un testimonio consigo, firmado de la justicia y administrador.»",
                   "autor": "Herr.",
-                  "referencia_obra": "Amparo de pobres (Cl. C. 199. 207). +"
+                  "referencia_obra": "Amparo de pobres (Cl. C. 199. 207)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Sacó [Camila] una carta firmada de Aurelio.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 3. 8 (Cl. C. 51. 187). X"
+                  "referencia_obra": ", Escud. 3. 8 (Cl. C. 51. 187)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Os han dado | Una esquelita firmada | De la abadesa?»",
                   "autor": "Mor.",
-                  "referencia_obra": "La mojig. 3. 12 (R. 2. 413²). — Además con para, y una prop. infinitiva con sentido de finalidad. X"
-                },
+                  "referencia_obra": "La mojig. 3. 12 (R. 2. 413²)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y agora mi amo está aquí en casa de una que creo que tiene bulda firmada de la cancillería de Valladolid para decir mentiras y loarse.»",
-                  "autor": "Delicado",
-                  "referencia_obra": ", La Lozana (Cl. Castal. 13. 195)."
+                  "id_limpio": "—",
+                  "definicion": "Además con para, y una prop. infinitiva con sentido de finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y agora mi amo está aquí en casa de una que creo que tiene bulda firmada de la cancillería de Valladolid para decir mentiras y loarse.»",
+                      "autor": "Delicado",
+                      "referencia_obra": ", La Lozana (Cl. Castal. 13. 195)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, para indicar el lugar en que se verifica la firma. X",
+              "definicion": "Con en, para indicar el lugar en que se verifica la firma.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El tratado Salomón-Lozano, el acta firmada en Washington, la convención tripartita que autorizaron libremente, en el uso perfecto de su libertad soberana Brasil, Perú y Colombia, es una plataforma muy sólida y muy eminente y muy visible para emplazar nuestros cañones.»",
                   "autor": "Valencia",
                   "referencia_obra": ", Discursos, 3 (p. 308)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con por, para indicar el agente. X",
+              "definicion": "Con por, para indicar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«— Pues a mí | Me ocurre... Sí... Y eso basta. | Una obligación... | De matrimonio, firmada | Por los dos...»",
                   "autor": "Mor.",
-                  "referencia_obra": "La mojig. 3. 1 (R. 2. 407³). X"
+                  "referencia_obra": "La mojig. 3. 1 (R. 2. 407³)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Escriba usted los dos documentos. Yo me llevaré, firmado por usted, el que me asegure que Antoñuelo quedará libre.»",
                   "autor": "Valera",
-                  "referencia_obra": ", Juanita la Larga, 35 (Cl. Castal. 141. 235). X"
+                  "referencia_obra": ", Juanita la Larga, 35 (Cl. Castal. 141. 235)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«—¿No lo adivinas, infeliz? Pues que imitando tu letra han escrito una carta de declaración a Florita de Trevélez firmada por ti.»",
                   "autor": "Arniches",
-                  "referencia_obra": ", La Srta. de Trevélez, 1 (p. 41). X"
+                  "referencia_obra": ", La Srta. de Trevélez, 1 (p. 41)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«—Llegó hace muchos años de Europa. Está firmado por el Santo Padre y por el rey de España.»",
                   "autor": "Icaza",
                   "referencia_obra": ", El chulla Romero y Flores, p. 72."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Construído con verbos como dar, dejar, estar, ir, quedar. El part. firmado hace de predicado. X",
+              "definicion": "Construído con verbos como dar, dejar, estar, ir, quedar. El part. firmado hace de predicado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Hablóles [el duque de Arcos] persuadioles con eficacia, y ellos respondieron lo mismo, dando firmados sus capítulos; y con decir que daría aviso al Rey, se partió de ellos.»",
                   "autor": "Mend.",
-                  "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 377). X"
+                  "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 377)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La libranza irá en el mesmo librillo firmada, que en viéndola mi sobrina, no pondrá dificultad en cumplilla.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 25 (Cl. C. 6. 304). X"
+                  "referencia_obra": "Quij. 1. 25 (Cl. C. 6. 304)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero, se pasa | El tiempo, y es menester | Que hoy mismo quede firmada | Mi cesión.»",
                   "autor": "Mor.",
-                  "referencia_obra": "La mojig. 3. 17 (R. 2. 416²). X"
+                  "referencia_obra": "La mojig. 3. 17 (R. 2. 416²)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Si queréis dejar firmadas | Aquellas cuentas, entrad.»",
                   "autor": "",
-                  "referencia_obra": "Id. El viejo y la niña, p. 33. — Con la prep. con, para indicar alguna circunstancia del acto de la firma. X"
+                  "referencia_obra": "Id. El viejo y la niña, p. 33."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con la prep. con, para indicar alguna circunstancia del acto de la firma.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Con todas estas dificultades quedaron firmados todos los conciertos, por si en algún tiempo fuesen a servir.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ", Exped. (Cl. C. 54. 218)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Con todas estas dificultades quedaron firmados todos los conciertos, por si en algún tiempo fuesen a servir.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ", Exped. (Cl. C. 54. 218). — Con la expresión de mi mano, que subraya la intención del que firma. X"
+                  "id_limpio": "—",
+                  "definicion": "Con la expresión de mi mano, que subraya la intención del que firma.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Por éste [papel], Lucrecia mía, | Que de mi mano te doy | Firmado, digo que soy | Ya tu esposo don García.»",
+                      "autor": "Alarcón",
+                      "referencia_obra": ", La verdad sospechosa (Cl. C. 37. 93)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Por éste [papel], Lucrecia mía, | Que de mi mano te doy | Firmado, digo que soy | Ya tu esposo don García.»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", La verdad sospechosa (Cl. C. 37. 93). — Con desde en sentido temporal. X"
+                  "id_limpio": "—",
+                  "definicion": "Con desde en sentido temporal.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Quiero que desde esta noche quede firmado el pacto de nuestra nueva amistad... Busca casa y cuenta conmigo... Volverás a ser la que fuiste para mí.»",
+                      "autor": "Gómez de la Serna",
+                      "referencia_obra": ", Cab. del hongo gris, p. 168."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Quiero que desde esta noche quede firmado el pacto de nuestra nueva amistad... Busca casa y cuenta conmigo... Volverás a ser la que fuiste para mí.»",
-                  "autor": "Gómez de la Serna",
-                  "referencia_obra": ", Cab. del hongo gris, p. 168. — Con por, para formar un complemento de agente. X"
-                },
-                {
-                  "texto_cita": "«Yo puse sobre la mesa el salvoconducto que ostentaba mi retrato y estaba firmado por el presidente del Comité Olímpico Internacional.»",
-                  "autor": "Mallea",
-                  "referencia_obra": ", Los Rembrandts, p. 99."
+                  "id_limpio": "—",
+                  "definicion": "Con por, para formar un complemento de agente.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Yo puse sobre la mesa el salvoconducto que ostentaba mi retrato y estaba firmado por el presidente del Comité Olímpico Internacional.»",
+                      "autor": "Mallea",
+                      "referencia_obra": ", Los Rembrandts, p. 99."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Adjetivado. X",
+              "definicion": "Adjetivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y sólo porque tengas y poseas | Con más seguridad mi fe firmada | Y lo que en lengua oíste en carta leas, | No por duda o por temor que quebrantada | Será jamás de mí ni ha jamás sido, | Mas sólo por razón bien ordenada.»",
                   "autor": "Aldana",
-                  "referencia_obra": ", Poes. (Cl. C. 143. 45). X"
+                  "referencia_obra": ", Poes. (Cl. C. 143. 45)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«—Tanto a castigar me incito, | Que sé, si nombro el delito, | Que no podré perdonallo. | —El Marqués no lo dirá, | Si fue entre los dos secreto, | Sin un firmado decreto.»",
                   "autor": "Alarcón",
                   "referencia_obra": ", Ganar amigos, 3 (Cl. C. 147. 214)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Sustantivado mediante el artículo lo. X",
+              "definicion": "Sustantivado mediante el artículo lo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los patriotas se evaporan. Los españoles se insolentan. Pero si Monteverde, el español, cumple lo firmado, no todo se habrá perdido. Miranda, en la Guaira se alista para escapar.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, p. 381."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
-          "definicion": "Der. solicitar por sí o por otro el privilegio de la firma. Acad. Dicc. — J ) Firmar, puede formar verdaderas perífrasis con un acus. Así, en firmar parabién equivale a Felicitar (por escrito), y firmar quexa, a Quejarse. X",
-          "ejemplos_citas": [
+          "definicion": "Der. solicitar por sí o por otro el privilegio de la firma. Acad. Dicc.",
+          "marca": "",
+          "ejemplos_citas": [],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Gonçalo de Urueña, vasallo vuestro y amigo mío, me dio una carta de Vuestra Señoría, por la cual firmáis contra mí una gran quexa, diciendo que ha un año que no os vi y seis meses que no os escribí.»",
-              "autor": "Guev.",
-              "referencia_obra": "Epíst. 1. 29 (Cl.. Esp. 10. 182)."
-            },
-            {
-              "texto_cita": "«Ni murmuraron del grande, | Ni ofendieron al pequeño, | Nunca, como yo, firmaron | Parabién, ni pascuas dieron.»",
-              "autor": "Lope",
-              "referencia_obra": ", Dorotea, 1. 4 (Obr. suelt. 7. 27)."
+              "id_limpio": "—",
+              "definicion": "J ) Firmar, puede formar verdaderas perífrasis con un acus. Así, en firmar parabién equivale a Felicitar (por escrito), y firmar quexa, a Quejarse.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Gonçalo de Urueña, vasallo vuestro y amigo mío, me dio una carta de Vuestra Señoría, por la cual firmáis contra mí una gran quexa, diciendo que ha un año que no os vi y seis meses que no os escribí.»",
+                  "autor": "Guev.",
+                  "referencia_obra": "Epíst. 1. 29 (Cl.. Esp. 10. 182)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Ni murmuraron del grande, | Ni ofendieron al pequeño, | Nunca, como yo, firmaron | Parabién, ni pascuas dieron.»",
+                  "autor": "Lope",
+                  "referencia_obra": ", Dorotea, 1. 4 (Obr. suelt. 7. 27)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1011,48 +1417,60 @@
           "id_marcador_html": "— ι )",
           "id_limpio": "— ι )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "firmar con sangre: acción que se ejecutaba con la pretensión de dar mayor validez a un pacto, especialmente a los hechos con el demonio y en acciones mágicas. X",
+              "definicion": "firmar con sangre: acción que se ejecutaba con la pretensión de dar mayor validez a un pacto, especialmente a los hechos con el demonio y en acciones mágicas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«—Guardando las condiciones | Con que las deprendí. —¿Y son? | —Que del mismo Dios reniegues, | Y haciendo escrituras firmes | —De ser mi esclavo, las firmes | Con sangre, y la crisma niegues.»",
                   "autor": "",
-                  "referencia_obra": "M. de Amescua, El esclavo del demonio, 2 (Cl. C. 70. 148). X"
+                  "referencia_obra": "M. de Amescua, El esclavo del demonio, 2 (Cl. C. 70. 148)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Trayendo en conseqüencia desto el sabido milagro del desesperado hombre que, aviendo hecho donación de su alma al demonio con cédula escrita y firmada de su mano y sangre, por la dicha devoción [de la Virgen] fue libre de todo, y acabó su vida, perseverando en ella, santíssimamente.»",
                   "autor": "Avell.",
                   "referencia_obra": "Quij. 5 (Cl. C. 175. 141)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Firmar en blanco: Poner uno su firma en papel que, en todo o en parte, no está escrito, para que otro escriba en él lo convenido o lo que quiera. X",
+              "definicion": "Firmar en blanco: Poner uno su firma en papel que, en todo o en parte, no está escrito, para que otro escriba en él lo convenido o lo que quiera.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ha sido tan infame | Que me ha hecho firmar en blanco | Un papelote.»",
                   "autor": "Pagés",
                   "referencia_obra": ", Dicc.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "No estar uno para firmar: estar borracho. X",
+              "definicion": "No estar uno para firmar: estar borracho.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Firma: no digan de ti | Los cultos y los vulgares | Que no estás para firmar.»",
                   "autor": "Cald.",
                   "referencia_obra": "Para vencer a Amor, 1. 7 (R. 12. 167³)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1061,46 +1479,57 @@
     {
       "id": "b)",
       "definicion": "Darse tal o cual nombre, apellido o título en la firma (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Acus. es el nombre que se da el sujeto. Con dat. refl. X",
+          "definicion": "Acus. es el nombre que se da el sujeto. Con dat. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Sucediole el bárbaro Antonio, y escribió: La honra que se alcanza por la guerra --- es más firme que las demás honras y firmose: Antonio el Bárbaro.»",
               "autor": "Cerv.",
               "referencia_obra": "Pers. 4. 1 (Cl. Castal. 12. 417),"
             },
             {
+              "marca": "",
               "texto_cita": "«Pero para más ofensa, | En todas las peticiones | Que da [mi hijo] en el pleito que intenta, | No se firma mi apellido | De Ayala, sino el de Leiva; | Materno.»",
               "autor": "Cald.",
-              "referencia_obra": "Mañana será otro día, 1. 1 (R. 7. 521²). X"
+              "referencia_obra": "Mañana será otro día, 1. 1 (R. 7. 521²)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y por un rasgo de filosofía popular, o acaso porque el nombre de Salomón sonaba mejor a su oído que el de González, desde la muerte de su hermano Jenaro, don Julián empezó a firmarse y hacerse llamar por todos sus amigos Julián González Salomón.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 1 (p. 134). X"
+              "referencia_obra": ", Amalia, 1 (p. 134)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Las revistas literarias semanales estaban encomendadas a un colaborador que se firmaba Segismundo, y que, como este famoso personaje, no se mordía la lengua para cantar las verdades al más guapo.»",
               "autor": "Pereda",
               "referencia_obra": ", Pedro Sánchez (Cl. C. 145. 22)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "El adv. así hace las veces del acus. reproduciendo un substantivo que ya ha sido mencionado. X",
+              "definicion": "El adv. así hace las veces del acus. reproduciendo un substantivo que ya ha sido mencionado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«—Sí, señor —contesta don Pascual—; estábamos aquí diciendo si este Azorín era novelista o autor dramático... —¡Orden, orden! —torna repetir don Fulgencio—. Conviene no confundir a este escritor que se firmaba así con otro que hubo años después y que escribió algunas obras para el teatro.»",
                   "autor": "Azorín",
                   "referencia_obra": ", Trasuntos de Esp. p. 159."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1108,30 +1537,37 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl. Es predicado el nombre o título.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los señores titulados, después de la muerte de sus padres no toman los apellidos de sus casas, ni se firman duques, marqueses o condes, antes que el rey se lo llame y venga en ello.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 8. 2 (R. 30. 222¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pues salta por el bachiller Pasillas, que se firma licenciado sin tener grado alguno.»",
               "autor": "Cerv.",
               "referencia_obra": "Coloq. (R. 1. 237¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, se mencionan los títulos. X",
+              "definicion": "Con la prep. con, se mencionan los títulos.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se firmaban con todos sus títulos, por grandes que fueran; se les escribía con todos sus apellidos, aunque fuesen los primeros de la monarquía, como Cerdas, Guzmanes, Pimenteles, sin poner el Don.»",
                   "autor": "Cadalso",
                   "referencia_obra": ", Cartas marr. (Cl. C. 112. 267)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1140,158 +1576,209 @@
     {
       "id": "c)",
       "definicion": "Concluir una negociación mediante la firma de un documento (trans.). Acus. es la designación de lo negociado.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La paz firmaron todos los prudentes: | Aun los jóvenes mismos más ardientes | La razón conocieron, la abrazaron | Y de su intrepidez se avergonzaron.»",
               "autor": "Cadalso",
-              "referencia_obra": ", Solaya, 2. 1 (Cl. Castal. 118. 73). X"
+              "referencia_obra": ", Solaya, 2. 1 (Cl. Castal. 118. 73)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y en muestra | De la alianza de firmar decido, | Estrecharé su diestra con mi diestra.»",
               "autor": "Caro",
-              "referencia_obra": ", Obr. de Virgilio (2. 286). X"
+              "referencia_obra": ", Obr. de Virgilio (2. 286)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y es que no cabe servir a dos señores, y menos cuando estos dos señores, aunque firmen treguas y armisticios y componendas, son enemigos por ser opuestos sus intereses.»",
               "autor": "Unamuno",
-              "referencia_obra": ", Del sen. trág. de la vida, 6 (p. 98). X"
+              "referencia_obra": ", Del sen. trág. de la vida, 6 (p. 98)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En cuanto al título imperial, observamos que en Isar, acabando de firmar la paz, se tituló rex, y ya no de Castilla.»",
               "autor": "Mndz. Pidal",
               "referencia_obra": ", Miscelánea hist.-lit. p. 133."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Una colectividad aparece como firmante del documento. X",
+              "definicion": "Una colectividad aparece como firmante del documento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La flota inglesa es entregada a las llamas en Chattham y el Támesis queda bloqueado. Inglaterra firma la paz.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 2. 12 (p. 232)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por, para designar la causa. X",
+              "definicion": "Con por, para designar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Qué nación obligada a firmar la paz, antes por agotamiento y cansancio que por devoción a la justicia, no considera cual territorios irredentos todos los adjudicados al vencedor?»",
                   "autor": "Ramón y Cajal",
                   "referencia_obra": ", Charlas de café, 10 (p. 228)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La concordia se ha firmado; | Y con haber recobrado | El señor infante aquí | Lo que en Castilla perdió | Por la guerra, el Condestable | Lo ha dispuesto, y no es dudable | Quiera el Rey.»",
               "autor": "Cañizares",
               "referencia_obra": ", El picarillo en Esp. 2 (R. 49. 541²)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con entre, para designar las partes contratantes. X",
+              "definicion": "Con entre, para designar las partes contratantes.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El ataque a Panamá se hizo cuando entre España e Inglaterra se había firmado una paz, llamada paz de América, para que cubriera hasta el mar de las Antillas, y se decreta, por fórmula, prisión contra Morgan y contra el gobernador que fue su cómplice.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 220)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El desorden de nuestras tropas, dispersas merced a la paz firmada, se convirtió en derrota en el momento, en despecho de esfuerzos inútiles para restablecer las posiciones.»",
               "autor": "",
               "referencia_obra": "D. F. Sarmiento, Recuerdos de Prov. p. 133."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para designar el lugar y con por, para indicar el agente. X",
+              "definicion": "Con en, para designar el lugar y con por, para indicar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sobreviniendo la revolución de Mendizábal, Oro, de veinte años, fue el intermediario entre aquel oficial sublevado y San Martín, para proponer una transacción que, firmada en Mendoza por el coronel Torres, hoy residente en Rancagua, San Martín rehusó ratificar.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Recuerdos de Prov. p. 58."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "met. Concertar un acuerdo no escrito (trans.). Con a, para designar la otra parte en el convenio. X",
+          "definicion": "met. Concertar un acuerdo no escrito (trans.). Con a, para designar la otra parte en el convenio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Graciosa filomena, | Ya vagando del mirto al sauce umbrío, | Sin duda que a mi pena | Treguas firmara de silencio pío, | Y por oír mis quejas | para plumas y ocupara orejas.»",
               "autor": "Villegas",
               "referencia_obra": ", Eróticas (Cl. C. 21. 70)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar: — la otra parte en el convenio. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Hoy juro de ser tu amigo, | Hoy me tendrás todo a mí | y firmo paces contigo. | No tienes ya que llorar, | Contigo estoy.»",
-                  "autor": "Lope",
-                  "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 320). X"
+                  "id_limpio": "—",
+                  "definicion": "la otra parte en el convenio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hoy juro de ser tu amigo, | Hoy me tendrás todo a mí | y firmo paces contigo. | No tienes ya que llorar, | Contigo estoy.»",
+                      "autor": "Lope",
+                      "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 320)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Nada me digas; | Y si quieres consolarme, | Sea con dejarme sóla; | Que quiero a la sombra que hacen | Esos emparrados, ver | (Tal el desvelo me trae) | Si con el sueña firmar | Puedo treguas, sino paces.»",
+                      "autor": "Cald.",
+                      "referencia_obra": "El pintor de su deshonra (Cl. C. 142. 227)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Nada me digas; | Y si quieres consolarme, | Sea con dejarme sóla; | Que quiero a la sombra que hacen | Esos emparrados, ver | (Tal el desvelo me trae) | Si con el sueña firmar | Puedo treguas, sino paces.»",
-                  "autor": "Cald.",
-                  "referencia_obra": "El pintor de su deshonra (Cl. C. 142. 227). — El medio. X"
-                },
-                {
-                  "texto_cita": "«Vino a cortar estas razones Jiménez, que salía de manera ruidosa en amiganza de las tres prostitutas, poco antes tan enojadas. Habíales hecho firmar las paces, no con buenas razones, sino con fuertísimas nalgadas y otros malos tratos que les había suministrado por vía de diversión y en señal de afecto.»",
-                  "autor": "Pz. de Ayala",
-                  "referencia_obra": ", Tinieblas (Cl. Castal. 36. 281)."
+                  "id_limpio": "—",
+                  "definicion": "El medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Vino a cortar estas razones Jiménez, que salía de manera ruidosa en amiganza de las tres prostitutas, poco antes tan enojadas. Habíales hecho firmar las paces, no con buenas razones, sino con fuertísimas nalgadas y otros malos tratos que les había suministrado por vía de diversión y en señal de afecto.»",
+                      "autor": "Pz. de Ayala",
+                      "referencia_obra": ", Tinieblas (Cl. Castal. 36. 281)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Pas. refl. Con por, para designar el agente. X",
+              "definicion": "Pas. refl. Con por, para designar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Alianzas que contraen de sí propias las almas de los pueblos, y se firman por los más puros de sus hijos.»",
                   "autor": "Martí",
                   "referencia_obra": ", Sus mejores páginas, p. 216."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1300,90 +1787,111 @@
     {
       "id": "d)",
       "definicion": "Declarar un autor de una obra artística o literaria que se debe a él, poniéndole su nombre (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los primitivos flamencos, Van Eyck, Memling... Van der Weyden... el divino Van der Weyden... ¿cómo iban a fracasar si no firmaban sus cuadros?»",
               "autor": "Azorín",
-              "referencia_obra": ", La voluntad (Cl. Castal. 3. 109). X"
+              "referencia_obra": ", La voluntad (Cl. Castal. 3. 109)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y encontró 32 artículos, hablando [sic] del porvenir del mundo, que podía haber firmado el profeta Jeremías.»",
               "autor": "Marañón",
               "referencia_obra": ", Tiempo viejo, p. 52."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, para indicar a la persona que sustituye al autor. X",
+              "definicion": "Con por, para indicar a la persona que sustituye al autor.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Otras traducciones ni siquiera las firmó, y algunas las firmaron por él ciertos falsos traductores que tenían empeño en recoger la distinción o el aplauso que nuestro amigo desdeñaba.»",
                   "autor": "Ganiv.",
                   "referencia_obra": "Pío Cid, 1 (Obr. 2. 29)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿O, fatigada [la Musa] tal vez, | De traducir y firmar, | Tiempo la falta y humor | Para ser original?»",
               "autor": "Mor.",
               "referencia_obra": "rom. Más vale callar (R. 2. 603²)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con la prep. con, para señalar la forma de la firma. X",
+          "definicion": "Part. Con la prep. con, para señalar la forma de la firma.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En el siglo XVIII los trabajos de los colaboradores suelen aparecer como anónimos. Ya hacia el final —y a principios del siglo XIX— aparecen con frecuencia firmados, aunque sólo sea con las iniciales.»",
               "autor": "Díaz-Plaja",
               "referencia_obra": ", Concepto de la lit. esp. p. 139."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, para designar el agente. X",
+              "definicion": "Con por, para designar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los relieves, que cada uno es de una pieza sola, representan la vida de Cristo, y están firmados por Andrés Biffi.»",
                   "autor": "Mor.",
-                  "referencia_obra": "Viaje de Italia, 2, Obr. póst. 1 (p. 310). X"
+                  "referencia_obra": "Viaje de Italia, 2, Obr. póst. 1 (p. 310)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Habríame quedado con la curiosidad de saber quién fue esa Margarita, cuya camisa anda en lenguas, si en La América, de Madrid, no hubiera tropezado con un artículo firmado por don Ildefonso Antonio Bermejo (autor de un notable libro sobre el Paraguay).»",
                   "autor": "Palma",
-                  "referencia_obra": ", Trad. peruanas, p. 241. X"
+                  "referencia_obra": ", Trad. peruanas, p. 241."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A la cabeza del número del periodo se leía una carta o advertencia firmada por cierto sujeto muy conocido, en la cual él informaba al periódico y al público haber recibido el folleto.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 1 (p. 176). X"
+                  "referencia_obra": ", Sueños, 1 (p. 176)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Estas dos últimas analogías hacen al punto recordar dos composiciones muy populares entre nosotros, firmadas por el poeta Silva y por el ingenioso prócer don José Manuel Marroquín.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 2 (p. 95)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1392,59 +1900,81 @@
     {
       "id": "e)",
       "definicion": "Aprobar, respaldar con la firma (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Murieron dos de los obispos congregados antes que se acabase el concilio y los padres le firmasen.»",
               "autor": "Rivad.",
-              "referencia_obra": "Trib. 2. 6 (R. 60. 420¹). X"
+              "referencia_obra": "Trib. 2. 6 (R. 60. 420¹)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Es falso [este título]. Los falsificó él, éste y no sé cuántos más. Por lo menos es falso y él lo firmó. Lea J. Petrus. --- Y él lo firmó, vendió muchos como éste.»",
               "autor": "Onetti",
-              "referencia_obra": ", El astillero, p. 63. X"
+              "referencia_obra": ", El astillero, p. 63."
             },
             {
+              "marca": "X",
               "texto_cita": "«La hija, doctor, es perfectamente normal. Podría mostrarle diagnósticos que firman los primeros médicos de Europa.»",
               "autor": "",
-              "referencia_obra": "Id. ib. p. 108. X"
+              "referencia_obra": "Id. ib. p. 108."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tuvimos reunión con el señor Moro, En Zaragoza y Barcelona han firmado el escrito. De Madrid hay también buenas impresiones.»",
               "autor": "Delibes",
               "referencia_obra": ", Diario de un cazador, p. 197."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya ves que Barrera todavía me debe, pues me engañó dándome joyas ordinarias. Entrégame las sumas que le tienes. ¡Podías firmarme una obligación! ¿Qué te dijo la mujerzuela? ¡Vamos, tengo miedo!»",
                   "autor": "Rivera",
-                  "referencia_obra": ", La vorágine, 3 (p. 250). X"
+                  "referencia_obra": ", La vorágine, 3 (p. 250)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y el año de las necesidades, pues, patrón, le valió su idea. ¡Ahí tiene usted! La gente hambreada empezó a comprarle peras y manzanas secas al fiado y a firmarle papeles.»",
                   "autor": "Barrios",
-                  "referencia_obra": ", Gran señor y rajadiablos, p. 26. X"
+                  "referencia_obra": ", Gran señor y rajadiablos, p. 26."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Por ejemplo, todo esto que te estoy diciendo, jamás te lo firmaría, ni te lo diría delante de testigos, así fuera un monstruo de lealtad que se llama Javier.»",
                   "autor": "Benedetti",
-                  "referencia_obra": ", Gracias por el fuego, 9 (p. 154). — Además con de y para. X"
-                },
+                  "referencia_obra": ", Gracias por el fuego, 9 (p. 154)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Cualquiera que sea el favorecido, yo sé que ha de corresponder con largueza a mis buenos oficios, que de todos me hice firmar una obligación para asegurarme.»",
-                  "autor": "Benavente",
-                  "referencia_obra": ", Intereses creados, 1. 2 (p. 66)."
+                  "id_limpio": "—",
+                  "definicion": "Además con de y para.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cualquiera que sea el favorecido, yo sé que ha de corresponder con largueza a mis buenos oficios, que de todos me hice firmar una obligación para asegurarme.»",
+                      "autor": "Benavente",
+                      "referencia_obra": ", Intereses creados, 1. 2 (p. 66)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1453,36 +1983,44 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ya la causa manifiestas, | Aunque con razones confusas; | Y más no me he de casar, | Ni me podrán persuadir | Que albricias quieres pedir | De lo que me ha de pesar. | —Estando todo firmado, | No podrá dejar de ser. | —No hay firma | En ser yo mujer | De hombre de quien no me agrado.»",
               "autor": "Lope",
               "referencia_obra": ", Las burlas veras. 1 (Obr. dramát. 10. 677²)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la expresión de su mano, o de la mano de, para subrayar que la firma ha sido estampada personalmente. X",
+              "definicion": "Con la expresión de su mano, o de la mano de, para subrayar que la firma ha sido estampada personalmente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Veis aqui las propias palabras substanciales que el Rey vuestro amo ya os dixe en Granada --- de manera que diziéndolas, le guardo yo mejor lo que le prometí que él a mí lo que me prometió. He vos las querido escrevir, firmadas de mi mano, porque de hoy más ni vos ni otro pueda en esto dubdar.»",
                   "autor": "A. de Valdés",
-                  "referencia_obra": ", Diál. de Merc. y Carón, 2 (Cl. C. 96. 212). X"
+                  "referencia_obra": ", Diál. de Merc. y Carón, 2 (Cl. C. 96. 212)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Cómo osas despedir de ti la virtud, teniendo tal sobreescrito como éste, firmado de la mano de Dios?»",
                   "autor": "Gran.",
-                  "referencia_obra": "Guía (Cl. C. 97. 74). X"
+                  "referencia_obra": "Guía (Cl. C. 97. 74)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Dudáis de mi señor? ¿No tenéis cédula firmada de su mano?... ¡Buena mano y buen nombre!»",
                   "autor": "Benavente",
                   "referencia_obra": ", Intereses creados, 2. 3. 5 (p. 11)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1490,13 +2028,16 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "met. Simplemente Aprobar. Con la expresión a favor de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Espero --- que mudarán de parecer y firmarán a favor de las traslaciones literales.»",
               "autor": "Scío",
               "referencia_obra": ", Biblia, disert. prel. (1. xxvi)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1504,81 +2045,101 @@
     {
       "id": "f)",
       "definicion": "Aseverar mediante la firma (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Infames, pues, por escrito, | Hombres sin nombres, cobardes | Que os menospreciáis del ser | Que tenéis, pues le ocultastes, | Lo que no firmaron plumas, | Firme el acero y no manchen | Espejos de honor honestos | Cartas que sin firma salen.»",
               "autor": "Tirso",
               "referencia_obra": ", Amor médico (Cl. C. 131. 29)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el instrumento. X",
+              "definicion": "Con la prep. con, para indicar el instrumento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«—¿Qué ha sido? | Nuevos agravios | Del vil don Mendo; que en suma, | Firma también con la pluma | Lo que afirmó con los labios.»",
                   "autor": "Alarcón",
                   "referencia_obra": ", Las paredes oyen, 2 (Cl. C. 37. 179)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la expresión de su nombre, para reforzar la aseveración. El acus. es una prop. de indicativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pues si eso es así, dijo Sancho, ¿cómo hace vuestra merced que todos los que vence por su brazo se vayan a presentar ante mi señora Dulcinea, siendo esto firmar de su nombre que la quiere bien y que es su enamorado?»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 31 (R. 1. 337¹)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Soy de parecer que digáis a esos señores que a mí os enviaron, que, pues están en un fil las razones de condenarle o absolverle, que le dejen pasar libremente, pues siempre es alabado más el hacer bien que mal; Y esto lo diera firmado si supiera firmar.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 51 (Cl. C. 19. 278)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con una prop. de indicativo. X",
+              "definicion": "Con una prop. de indicativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo daré firmado de mi nombre, y téngase por firma esta, mi escritura, que jamás se vio humilde y pequeño en sus ojos vencido ni engañado, ni de los hombres ni de los demonios.»",
                   "autor": "J. de los Ángeles",
                   "referencia_obra": ", Conq. del Reino de Dios, 3. 8 (p. 135)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Part. adj. Con la expresión de mi nombre. Superlativo relativo. X",
+              "definicion": "Part. adj. Con la expresión de mi nombre. Superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pensaba antes que le debía a mi curiosidad el haber solicitado el servicio de V. m. mas ya con lo que V. m. me ha escrito de lo que me ha favorecido y patrocinado, se ha hecho duda el afecto; reconoceré la siempre y muy firmada de mi nombre.»",
                   "autor": "Góng.",
                   "referencia_obra": "Carta al doctor Tamayo (Millé, p. 898)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1587,66 +2148,90 @@
     {
       "id": "g)",
       "definicion": "Comprometerse a pagar una suma poniendo la firma en un documento de pago (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "En ocasiones sólo se indica la suma que se debe cubrir. X",
+          "definicion": "En ocasiones sólo se indica la suma que se debe cubrir.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Respiró el joven, sonriose el corredor; tomó el atribulado cinco duros, dio de ellos uno, y firmó diez y seis, contento con el buen negocio que había hecho.»",
               "autor": "Larra",
-              "referencia_obra": ", Artíc. de cost. (Cl. C. 45. 55). X"
+              "referencia_obra": ", Artíc. de cost. (Cl. C. 45. 55)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Siguiose a esta escena la de un jugador perdidoso que había perdido el último maravedí, y necesitaba armarse para volver a jugar; dejó un reloj, tomó diez, firmó quince, y se despidió diciendo: —Tengo corazonada; voy a sacar veinte onzas en media hora, y vuelvo por mi reloj.»",
               "autor": "",
-              "referencia_obra": "Id. ib. (Cl. C. 45. 57). X"
+              "referencia_obra": "Id. ib. (Cl. C. 45. 57)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Don Jaime pidió un crédito a un banco, se lo dieron y firmó unas letras.»",
               "autor": "Cela",
-              "referencia_obra": ", La colmena, 1 (Cl. Castal. 140. 124). X"
+              "referencia_obra": ", La colmena, 1 (Cl. Castal. 140. 124)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los dos hombres asintieron con la cabeza, pidieron más café, dedicaron tiempo y silencio a ofrecerse cigarrillos y fósforos. --- Gálvez --- pidió la cuenta y la firmó.»",
               "autor": "Onetti",
               "referencia_obra": ", El astillero, p. 39."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Don Gaspar Cipagauta me cedió su derecho a una tienda con la sola condición de que le comprara las existencias al ojo, como dicen que bailan en la sabana; y en efecto, así negociamos, firmándole yo un pagaré por siete mil pesos, precio redondo.»",
                   "autor": "R. Silva",
-                  "referencia_obra": ", Artíc. cost. p. 57. X"
+                  "referencia_obra": ", Artíc. cost. p. 57."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Aquí está el billete. Si a la hora de pagar usted no tiene a mano el papel, tampoco importa: me firma un pagaré por el valor del billete.»",
                   "autor": "Casona",
                   "referencia_obra": ", La barca sin pescador, p. 146."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para señalar el documento donde se estampa la firma. X",
+              "definicion": "Con en, para señalar el documento donde se estampa la firma.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El francés se atrevería a presentarle la cuenta, ésta y las atrasadas, sólidos miles de pesos. Y no para verlo firmar arriba de la cuenta sino en un cheque con fondos.»",
                   "autor": "Onetti",
-                  "referencia_obra": ", El astillero, p. 90. — met. X"
-                },
+                  "referencia_obra": ", El astillero, p. 90."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Voto que hicieron y obligación que firmaron en los libros de Dios, donde no puede haber mentiras ni borrones.»",
-                  "autor": "Alemán",
-                  "referencia_obra": ", Guzmán, 1. 2. 3 (Cl. C. 83. 37)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Voto que hicieron y obligación que firmaron en los libros de Dios, donde no puede haber mentiras ni borrones.»",
+                      "autor": "Alemán",
+                      "referencia_obra": ", Guzmán, 1. 2. 3 (Cl. C. 83. 37)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1655,26 +2240,32 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ese dinero no es para mí, yo no soy un ladrón. Lo necesito para echarme al campo. Le dejaré firmado un documento.»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Sonata de invier. p. 115."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la expresión de su nombre, para subrayar que fue una persona determinada y no otra la que firmó. X",
+              "definicion": "Con la expresión de su nombre, para subrayar que fue una persona determinada y no otra la que firmó.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El uno se fue a la justicia y pidió por una petición que Pedro de Losada le debía cuatrocientos reales prestados, como parecía por una cédula firmada de su nombre, de la cual hacía presentación.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 2 (Cl. C. 36. 279)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1683,42 +2274,52 @@
     {
       "id": "4",
       "definicion": "Detenerse (prnl. intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Posiblemente es italianismo en Ercilla.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Conocida la burla claramente, | Los unos y los otros sin firmarse | Sueltas las armas, corren a abrazarse.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 8 (R. 17. 31¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pero Rengo que en ira se abrasaba, | Viendo que sin firmarse alto lo lleva, | Hizo por fuerza pie.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 15 (R. 17. 58²). X"
+              "referencia_obra": "Id. ib. 15 (R. 17. 58²)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vio cómo al parecer desta Alua clara | La noche que del ayre ella ahuyenta, | Por la apósita luz, se firma y para, | Con vista tenebrosa y soñolienta.»",
               "autor": "Aldana",
               "referencia_obra": ", Otavas --- al Duque de Alua (Obr. complet. 1. 144)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con un predicado referido al sujeto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Hiere y ofende el cuerpo sanguinoso | Hasta tanto que ya desalentado | Se firma recatado y sospechoso.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 14 (R. 17. 56¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1726,12 +2327,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. Nótese los sentidos de Probar y Atestiguar que encontramos en el Fuero de Teruel, en las Partidas, etc. y las locuciones firmar fidanças de saluo ‘Confirmar o aceptar las fianzas o los fiadores’, en fuero citado firmar batalla ‘retar, desafiar’, firmar sobre libis e cruç ‘Jurar’, en los Fueros de Aragón y la acepción Fijar, poner en dichos fueros, Firmar a soldada es Contratar los servicios de un escudero por un término fijo, en los Fueros aragoneses de 1348, uso que pervive en la misma región de Aragón como Ajustarse un sirviente por un año (Acad. Dicc.). Firmar pleyto es Avenirse (Conq. de Ultr. y Arc. de Hita). Siglo XV: «Los peregrinos tienen muchas posadas y pocas amistades, porque en breve tiempo con ninguno pueden firmar amistades.» Celest. 1 (R. 3. 13²). + «La sentençia se firma, e se afirma, e se confirma por el Rey.» Crón. Álv. de Luna, 127 (p. 427). «Las quales [condiciones] el rey juró en manos del obispo de Burgos, e las firmó de su nombre, e las fizo sellar con su sello secreto.» Ib. 122 (p. 345). X «Debaxo de aquestos yo vi derribados | Los que las pazes firmadas ya ronpen, | E los que por preçio virtudes corronpen, | Metiendo alimentos a los renegados.» Mena, Lab. (Cl. C. 119. 50). X «E quanto más me tenía por menospreçiado, más me daua a la grand soledat, maginando con tristeza, más fauorable se mostraua la que por mandamiento del que me suele regir, que es el seso, firmado consejo de mis çinco siruientes, luego prendí por señora, e iuré mi seruidumbre.» J. Rodríguez, Siervo libre de amor (Cl. Castal. 66. 69). «Et porque esto sea firme, et non venga en dubda, firmamos en esta carta nuestros nombres, e la sellamos con nuestros sellos.» Seg. de Tordes 37 (56). «Çafis, rubis et dyamantes, | Firmando sobre la fruente.» Canc. de Stúñ. p. 378. «Que sean las sus villas de muro bien firmadas.» Rim. de Pal. 609 (R. 57. 444¹). «Entre los buenos ángeles Dios su pas firmó.» Ib. 522 (R. 57. 441²).\n\n— Siglo XIV: «Envióle decir --- que se vernía a ella [a la reina] luego a Burgos para firmarlo.» Crón. Fern. IV, 14 (R. 66. 149²). «E en esto avía dos cosas, la una que firmaba al rey su fijo más en el reino.» Ib. 2 (R. 66. 104¹). X «Ítem, scudero que a caualgar aya et se querrá firmar a soldada con sennyor, que non reciba por la soldada de vn annyo más de LX sueldos por todo et el comer.» Fueros aragoneses de 1348, 28 (RFE. 22. 24). «E pusieron sus posturas muy fuertes, e firmolas el rey Genserico sobre jura.» Crón. gen. 1. 150 (p. 144¹). + «La qual letra --- firmada de su nombre e sellada con sus armas ---, prometió de la llevar por las Cortes de los Reyes.» Passo honroso, 8 (p. 7¹). X «Respondieron rromanos que los plazía de grado; | Para la desputaçión pusieron pleito firmado; | Mas, por que non entendrían el lenguaje non usado, | Que despuntasen por señas, por señas de letrado.» Arc. de Hita, 49 (Cl. C. 14. 26). X «Deuen clamar el escriuano público delant la iusticia o en la cart e deuen fer escreuir todas aquellas cosas segunt assí lo ordenó aquel qui fizo so destín en lur en presencia del escriuano sobre libro e cruç que assi lo ordenó aquel qui fizo so destín en lur presencia como ellos dizen e como mandan escreuir.» Fueros de Aragón, §231, 2 (p. 127). X «Mas si por auentura non prometiere sobre alguna demanda que faga que dará testimonias, bien puede firmar batalla a so adversario, pues que aurá negada la demanda que’l fazen.» Ib. §102, 7 (p. 51). X «Pues que cosa manifiesta es en aquella obra que los postales son firmados con las otras cosas que son ditas de suso.» Ib. §95. 3 (p. 46).\n\n— Siglo XIII: X «E el pleyto fue firmado de amas partes desta guisa: que si el Duque venciesse o matasse al cavallero, que quemassen a la dueña e a su fija.» Conq. de Ultr. (ICC. 51. 136). X «E desto plugo al fijo de Cosdroe, e firmó con él pleyto de ambas las partes, que el que venciesse, toda la gente se tornasse a él.» Ib. (ICC. 51. 9). X «E enviáronle a decir los ricoshomes que son en Granada que si esto sobredicho no llevase firmado, que non había para qué ir allá; e otrosí que sus dineros que los hobiesen en Granada.» Alf. X, Antol. p. 224). + «Thisbe pues que firme en so coraçón de se matar por Piramo, como se mató él por ella, fizo, ante que se firiesse, su oratión a sus dioses.» Id. General estoria, 2. 1 (Jueces, 73. 200). «Debe jurar --- que aquellos homes son sabidores de quel fecho et que lo firmarán.» Part. 3. 16. 34 (2. 532). «Los testigos non deben firmar sobre otras cosas sinón en las que tañen al pleyto.» Ib. 3. 16. 32 (2. 531). «Sant Agostín dixo que fe es pensar en las cosas que home debe creer et firmarse en ellas.» Ib. 2. 12. 3 (2. 95). «Ca por qui lo sabrán más aina los mozos, et firmárseles ha más en las voluntades, teniendo que farán en ello placer al padre et a la madre.» Ib. 2. 7. 9 (2. 51). «Es [el bautismo] puerta para entrar a todos los otros sacramentos, et cimiento sobre que se firman et se facen.» Ib. 1. 4. 27 (1. 76). «Et por esto si vos plaz a todos aquellos que aquí sodes presentes, firmat todos nuestra sentencia comunal mientre, que ye dicha tres veces. He estoncia todos aquellos cléricos e todol poblo dixeron ---.» Fuero Juzgo, preámb. 9 (X; *firmade, firmad). «Mas si alguno fuere aducho por testigo, e después que oviere jurado le podieren provar que firmó mentira, deve pechar a quel contra quien firmó todo quanto perdió por su testimonio, e demás dévenle fazer senal en la cara.» Espéc. 5. 11. 30 (O. L. 1. 416) Item, Part. 3. 11. 26 (2. 491). «En la ley ante desta mostramos quáles testigos deven seer más creydos, quando amas las partes los aduzen en uno para firmar en un pleito.» Ib. 4. 7. 31 (O. L. 1. 211). «La quarta, si desacordasen en el logar firmado el un testigo que aquel fecho sobre que viene firmar conteciera en un logar, e el otro dixiese que en otro.» Ib. 4. 7. 19 (O. L. 1. 203). «E desí el alcalle cate qual dellos firmó meior, e con más testimonias, e el que meior firmar e con más testimonias, aquel sea más creydo sobre la demanda.» Fuero real, 2. 8. 2 (O. L. 2. 43). X «Otrosí mando que, si el podío con el cristiano non querrá firmar aquella cosa que aurá uysto et oydo et prouado’l será, duple toda la demanda.» Fuero de Teruel, §560, 2 (p. 318). X «Otrosí, aquella partición sea firme et estable la qual los padres, o sanos o enfermos, a sus herederos o a sus fijos farin ---. Encara, toda cosa que el padre biuo por iura firmare que aurá dado, sea credito et estable.» Ib. §429, 6 (p. 274). X «Si el peyndrador non pudiere auer sayón con qui peyndre, puede peyndrar con ii nezinos de los más cercanos de aquella casa en voz del sayón, los que pudiere auer, por el testimonio de los quales pueda firmar todas las cosas que auernán en la peyndra sin reptamiento.» Ib. §142, 2 (p. 149). X «Mas es assaber que en el día domingo, después que las fidanças de saluo son dadas o firmadas, aquel día deuen seer scriptas del escriuano iurado.» Ib. §46, 7 (p. 111). «Luego la bestia loca viene a su nezado, | Firmas en Caruol.» Alex. 1818 (R. 57. 203¹). «Al moro catiuo firmen con II. xianos et pectet el senior.» Fuero de Madrid, año 1202 (Mem. Acad. Hist. 8. 39). «Sed mi habuerit suspecta de morte de omme que lo firió et per ipsas feridas murió, firme cum duas testimonias bonas quia sic fuit.» Ib. año 1202 (Mem. Acad. Hist. 8. 30).\n\n— Siglo Xll: «Qui alguna cosa furtare, péchelo doblado al querelloso, e peche quarenta sueldos; si negare e no gelo pudieren firmar, fastas diez mencales jure con dos vecinos, e de diez mencales arriba con cinco vecinos.» Fuero de Molina, año 1152 (Llor. Prov. Vasc. 4. 126).",
   "testimonios_latino_hispanicos": "Test. latin. hisp. X «Si quis in terram suam baselicam fundaberit [firmaret ficieret]» Glosas silences (Mndz. Pidal, Oríg. p. 20).",
-  "etimologia": "Etim. Port. firmar, it. ant. fermare ‘confirmar’ y firmare ‘suscribir’, it. fermare ‘detener’, prov. y cat. fermar, eng. fermer, fr. fermer ‘cerrar’, antes ‘afianzar’ del lat. firmare ‘afirmar, afianzar, confirmar’, denominativo de firmus.",
+  "etimologia": "Etim. Port.<i> firmar,</i> it. ant.<i> fermare</i> ‘confirmar’ y <i>firmare</i> ‘suscribir’, it.<i> fermare</i> ‘detener’, prov. y cat.<i> fermar,</i> eng.<i> fermer,</i> fr.<i> fermer</i> ‘cerrar’, antes ‘afianzar’ del lat.<i> firmare</i> ‘afirmar, afianzar, confirmar’, denominativo de<i> firmus.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: 1, α - 2, α - 2, β, α - 2, ε, α - 2, φ - 3, α, α - 3, β, α - 3, χ, α - 3, χ, δ - 3, δ, α - 3, ε, α - 3, φ, α - 3, γ, α.\n\n— Aβσολ.: 1, β - 3, α, β - 3, δ, β.\n\n— Pασ.: 3, α, ε.\n\n— Pασ. ρεφλ.: 3, α, δ - 3, χ, β - 3, χ, δ, β β.\n\n— Refl.: 2, b, β - 2, γ - 3, α, γ - 3, β, β.\n\n— Pαρτ.: 1, γ - 2, χ - 2, δ - 2, ε, β - 3, α, ζ - 3, χ, γ - 3, δ, γ - 3, ε, β - 3, φ, β - 3, γ, β.\n\n— Aδjετιvαδο: 3, α, ζ, ζ ζ - 3, f, β, β β.\n\n— Sustantivado: 3, a, ζ, η η.\n\n— Prnl. intrans.: 4, α.\n\n— Cον δατ.: 3, α, α, θ θ - 3, e, α, α α - 3, g, α, α α;\n\n— Dat. refl.: 3, b, α.\n\n— Cον α: 3, χ, δ.\n\n— Cον α φαvορ δε: 3, ε, γ.\n\n— Cον χομο: 3, α, α, ι ι.\n\n— Con la prep. con: 1, β - 2, ε, α, α α - 3, a, α, κ κ - 3, a, δ, α α - 3, a, ζ, α α - 3, a, ζ, ε ε - 3, b, β, α α - 3, c, δ, α α - 3, d, γ - 3, φ, α, α α.\n\n— Con de: 2, e, β - 2, φ - 3, α, α, ζ ζ - 3, a, ζ, β β - 3, e, α, α α.\n\n— Con de su nombre: 3, f, α, β β - 3, g, β, α α.\n\n— Con desde: 3, a, ζ, ε ε.\n\n— Con en: 1, α - 1, γ - 2, β, β - 2, χ - 2, δ - 2, ε, α, β β - 3, a, α, λ λ - 3, a, β, α α - 3, a, γ - 3, α, δ, β β - 3, a, ζ, γ γ - 3, c, γ, α α - 3, g, α, β β.\n\n— Con entre: 3, a, δ, γ γ - 3, c, β, α α.\n\n— Con para: 3, a, α, ι ι - 3, a, ζ, β β - 3, e, α, α α.\n\n— Con por: 2, g - 3, a, α, μ μ - 3, a, β, β β - 3, a, ζ, δ δ - 3, a, ζ, ε ε - 3, c, α, β β - 3, c, γ, α α - 3, c, δ, β β - 3, d, α, α α - 3, d, γ, α α.\n\n— Con sin: 3, a, α, ν ν.\n\n— Con sobre: 1, β, α α.\n\n— Con un predicado referido al sujeto: 3, a, α, α α - 4, β.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: 1, α - 2, α - 2, β, α - 2, ε, α - 2, φ - 3, α, α - 3, β, α - 3, χ, α - 3, χ, δ - 3, δ, α - 3, ε, α - 3, φ, α - 3, γ, α.\n\n— Aβσολ.: 1, β - 3, α, β - 3, δ, β.\n\n— Pασ.: 3, α, ε.\n\n— Pασ. ρεφλ.: 3, α, δ - 3, χ, β - 3, χ, δ, β β.\n\n— Refl.: 2, b, β - 2, γ - 3, α, γ - 3, β, β.\n\n— Pαρτ.: 1, γ - 2, χ - 2, δ - 2, ε, β - 3, α, ζ - 3, χ, γ - 3, δ, γ - 3, ε, β - 3, φ, β - 3, γ, β.\n\n— Aδjετιvαδο: 3, α, ζ, ζ ζ - 3, f, β, β β.\n\n— Sustantivado: 3, a, ζ, η η.\n\n— Prnl. intrans.: 4, α.\n\n— Cον δατ.: 3, α, α, θ θ - 3, e, α, α α - 3, g, α, α α;\n\n— Dat. refl.: 3, b, α.\n\n— Cον α: 3, χ, δ.\n\n— Cον α φαvορ δε: 3, ε, γ.\n\n— Cον χομο: 3, α, α, ι ι.\n\n— Con la prep. con: 1, β - 2, ε, α, α α - 3, a, α, κ κ - 3, a, δ, α α - 3, a, ζ, α α - 3, a, ζ, ε ε - 3, b, β, α α - 3, c, δ, α α - 3, d, γ - 3, φ, α, α α.\n\n— Con de: 2, e, β - 2, φ - 3, α, α, ζ ζ - 3, a, ζ, β β - 3, e, α, α α.\n\n— Con de su nombre: 3, f, α, β β - 3, g, β, α α.\n\n— Con desde: 3, a, ζ, ε ε.\n\n— Con en: 1, α - 1, γ - 2, β, β - 2, χ - 2, δ - 2, ε, α, β β - 3, a, α, λ λ - 3, a, β, α α - 3, a, γ - 3, α, δ, β β - 3, a, ζ, γ γ - 3, c, γ, α α - 3, g, α, β β.\n\n— Con entre: 3, a, δ, γ γ - 3, c, β, α α.\n\n— Con para: 3, a, α, ι ι - 3, a, ζ, β β - 3, e, α, α α.\n\n— Con por: 2, g - 3, a, α, μ μ - 3, a, β, β β - 3, a, ζ, δ δ - 3, a, ζ, ε ε - 3, c, α, β β - 3, c, γ, α α - 3, c, δ, β β - 3, d, α, α α - 3, d, γ, α α.\n\n— Con sin: 3, a, α, ν ν.\n\n— Con sobre: 1, β, α α.\n\n— Con un predicado referido al sujeto: 3, a, α, α α - 4, β.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

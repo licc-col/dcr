@@ -1,36 +1,44 @@
 {
   "lema": "CONTINUO, A (CONTINO, A).",
   "categoria_gramatical": "adj.",
-  "introduccion": "adj.\n\n(El último no pertenece hoy al lenguaje común.)",
+  "introduccion": "(El último no pertenece hoy al lenguaje común.)",
   "acepciones": [
     {
       "id": "1",
       "definicion": "Con respecto al espacio,",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Se dice de aquello cuyas partes están unidas entre sí.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«En el cuerpo siempre que se corta ó que se divide lo uno de él, y lo que está ayuntado y continuo, se descubre luégo un dolor agudo.»",
           "autor": "León",
           "referencia_obra": ", Nomb. 2, Príncipe (3. 234)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Se usa como sust. masc.: Conjunto de partes unidas entre sí. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Estos [los espíritus animales], por su extrema sutileza, pueden penetrar por cualesquiera poros del cuerpo animado sin la más leve división del continuo.»",
               "autor": "",
               "referencia_obra": "Feijoo (R. 56. 4722)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -38,75 +46,101 @@
     {
       "id": "b)",
       "definicion": "Que se extiende sin interrupción.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«A las cinco salí en posta. El camino hasta Bruselas muy ancho, con arboledas continuas á un lado y otro.»",
           "autor": "Mor.",
           "referencia_obra": "Obr. póst. 1, p. 274."
         },
         {
+          "marca": "",
           "texto_cita": "«Se apiñaban más [los árboles] en los bordes del monte, cuyas sombras caían en una continua alfombra de hierbas y flores amenísimas.»",
           "autor": "Forner",
           "referencia_obra": ", Exequias de la lengua castell. (R. 63. 3872)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Se usa en denominaciones especiales ó técnicas: así, se llama papel continuo el que se hace por medio de máquina y forma piezas de varios metros de longitud; proporción continua en las matemáticas es aquella en que el consecuente de la primera razón es igual al antecedente de la segunda, como 2: 4:: 4: 8.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "2",
       "definicion": "Con respecto al tiempo ó al proceso de las cosas en el tiempo,",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Que dura ó permanece sin interrupción.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Hízolos [á los cuerpos celestes] incorruptibles y impasibles, con estar siempre en continuo movimiento.»",
           "autor": "Gran.",
           "referencia_obra": "Símb. 1. 4 (R. 6. 1952)."
         },
         {
+          "marca": "",
           "texto_cita": "«Discurrir á diversas partes, de ahí volver á casa; medir el peligro cada uno con su temor, trocados de continua paz en continua alteración, tristeza, turbación y priesa.»",
           "autor": "Mend.",
           "referencia_obra": "Guerra de Gran. 1 (R. 21. 771)"
         },
         {
+          "marca": "",
           "texto_cita": "«Sepa vuestra señoría que todo el mal desta doncella nace de ociosidad, cuyo remedio es la ocupación honesta y continua.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 2. 70 (R. 1. 5512)."
         },
         {
+          "marca": "",
           "texto_cita": "«La voluntad estará llena de Dios, unida con su divinidad con una unión de amor, que sea perpetua, continua, entrañable y amigable.»",
           "autor": "Puente",
           "referencia_obra": ", Medit. 6. 52 (3. 553)."
         },
         {
+          "marca": "",
           "texto_cita": "«El estado de libertad es un estado continuo de vigilancia, y frecuentemente de combates.»",
           "autor": "Quint.",
-          "referencia_obra": "Cartas á L. Holland, pról. (R. 19. 532). —"
-        },
+          "referencia_obra": "Cartas á L. Holland, pról. (R. 19. 532)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Puédese considerar la grandeza de una afición en el espacio que dura, que ésa es mayor la que comienza primero, y siempre persevera contina, y se acaba ó nunca ó muy tarde.»",
-          "autor": "León",
-          "referencia_obra": ", Nomb. 3, Amado (Dicc. Autor.; 3. 334)."
-        },
-        {
-          "texto_cita": "«¿Hay piedra que tanto cargue las espaldas de Sísifo, como carga el amor contino los pensamientos de los enamorados?»",
-          "autor": "Cerv.",
-          "referencia_obra": "Gal. 4 (R. 1. 562)."
-        },
-        {
-          "texto_cita": "«Cual barco de las olas azotado, | Que sin timón ni velas, al contino | Batir de hórridos vientos, va ligero | A fenecer en misero destino.»",
-          "autor": "Mel.",
-          "referencia_obra": "eleg. 5 (R. 63. 2522)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Puédese considerar la grandeza de una afición en el espacio que dura, que ésa es mayor la que comienza primero, y siempre persevera contina, y se acaba ó nunca ó muy tarde.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3, Amado (Dicc. Autor.; 3. 334)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«¿Hay piedra que tanto cargue las espaldas de Sísifo, como carga el amor contino los pensamientos de los enamorados?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 4 (R. 1. 562)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Cual barco de las olas azotado, | Que sin timón ni velas, al contino | Batir de hórridos vientos, va ligero | A fenecer en misero destino.»",
+              "autor": "Mel.",
+              "referencia_obra": "eleg. 5 (R. 63. 2522)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -114,128 +148,163 @@
     {
       "id": "b)",
       "definicion": "Que se repite consecutivamente ó muchas veces en cierto espacio de tiempo.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Pero á todo esto se oponía mi honestidad y los consejos continuos que mis padres me daban.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 1. 28 (R. 1. 3262)."
         },
         {
+          "marca": "",
           "texto_cita": "«Mis continuos y profundos suspiros moverán á la continua las hojas destos montaraces árboles.»",
           "autor": "",
           "referencia_obra": "Id. ib. 1. 25 (R. 1. 3141)."
         },
         {
+          "marca": "",
           "texto_cita": "«Los continuos dolores forzosamente se han de acabar ó acabar á quien los pádece.»",
           "autor": "",
           "referencia_obra": "Id. Nov. 2 (R. 1. 1241)."
         },
         {
+          "marca": "",
           "texto_cita": "«De esta manera pasaba este tiempo con estas continuas ansias y deseos de Dios.»",
           "autor": "Yepes",
           "referencia_obra": ", Vida de Sta. Ter. 1. 9 (Míst. 1. 35)."
         },
         {
+          "marca": "",
           "texto_cita": "«Las enfermedades grandes y achaques continuos que padecía parece la tenían atada para hacer tanta penitencia como ella quisiera varonilmente.»",
           "autor": "",
           "referencia_obra": "Id. ib. 1. 11 (Míst. 1. 46)."
         },
         {
+          "marca": "",
           "texto_cita": "«Rota la tienda del emperador Carlos Quinto cerca de Ingolstadt con las continuas balas de la artillería del enemigo, y muertos á su lado algunos, ni mudó de semblante, ni de lugar.»",
           "autor": "Saav.",
           "referencia_obra": "Emp. 33 (R. 25. 862)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Se usa adverbialmente lo mismo que mucho, poco, infinito, cierto, etc.: Continuamente, sin intermisión.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Y éste es el suelo que continuo ha sido | De mil memorias lamentables lleno | En los pasados siglos y presentes.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 1. 40 (R. 1. 3642)."
         },
         {
+          "marca": "",
           "texto_cita": "«No es posible que esté continuo el arco armado, ni la condición y flaqueza humana se pueda sustentar sin alguna lícita recreación.»",
           "autor": "",
           "referencia_obra": "Id. ib. 1. 48 (R. 1. 3912)."
         },
         {
+          "marca": "",
           "texto_cita": "«Quieren que les estén continuo dando.»",
           "autor": "Quev.",
           "referencia_obra": "Musa 6, sát. (R. 69. 2361)."
         },
         {
+          "marca": "",
           "texto_cita": "«¿Mi edad cansada --- | De uno y otro dolor continuo herida, | Al filo del dolor caerá rendida?»",
           "autor": "Reinoso",
-          "referencia_obra": ", oda 14 (R. 67. 2232). —"
-        },
+          "referencia_obra": ", oda 14 (R. 67. 2232)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«¡Oh Señor mío! pues parece tenéis determinado que me salve --- ¿no tuviérades por bien, no por mi ganancia sino por vuestro acatamiento, que no se ensuciara tanto posada adonde tan contino habíades de morar?»",
-          "autor": "Sta. Ter.",
-          "referencia_obra": "Vida, 1 (R. 53. 242)."
-        },
-        {
-          "texto_cita": "«El mal que me tomaba muy contino, es muy de tarde en tarde.»",
-          "autor": "",
-          "referencia_obra": "Ead. ib. 7 (R. 53. 361)."
-        },
-        {
-          "texto_cita": "«Aunque era tan ruin, traía temor de Dios lo más contino.»",
-          "autor": "",
-          "referencia_obra": "Ead. ib. 32 (R. 53. 982)."
-        },
-        {
-          "texto_cita": "«Con gran hervor los suyos esforzaba, | Trayéndoles contino á la memoria| El gran premio y honor de la vitoria.»",
-          "autor": "Erc.",
-          "referencia_obra": "Arauc. 24 (R. 17. 931)."
-        },
-        {
-          "texto_cita": "«Suele acontecer contino | Que, huyendo el peligro y mal presente, | Se suele ir á parar en un camino | Que nos coge y anega la creciente.»",
-          "autor": "",
-          "referencia_obra": "Id. ib. 28 (R. 17. 1052)."
-        },
-        {
-          "texto_cita": "«Templa [oh Damón] el duelo, | Considerando bien que no contino | Nos quema el sol, ni nos enfría el hielo.»",
-          "autor": "Cerv.",
-          "referencia_obra": "Gal. 2 (R. 1. 22)."
-        },
-        {
-          "texto_cita": "«Aquello que falta y no puede la lengua, | Suplan mis ojos contino llorando.»",
-          "autor": "",
-          "referencia_obra": "Id. ib. 3 (R. 1. 411)."
-        },
-        {
-          "texto_cita": "«¿Será posible que contino sea | Esclava de naciones extranjeras, | Y que un pequeño tiempo yo no vea | De libertad tendidas mis banderas?»",
-          "autor": "",
-          "referencia_obra": "Id. Numancia, 1 (Arrieta, 10. 18)."
-        },
-        {
-          "texto_cita": "«Así que no excusarás con el secreto tu dolor, antes tendrás que llorar contino, si no lágrimas de los ojos, lágrimas de sangre del corazón.»",
-          "autor": "",
-          "referencia_obra": "Id. Quij. 1. 33 (R. 1. 3431)."
-        },
-        {
-          "texto_cita": "«Bueno sería por cierto que todos estos insignes pueblos se corriesen y vengasen, y anduviesen contino hechas las espadas sacabuches á cualquier pendencia por pequeña que fuese.»",
-          "autor": "",
-          "referencia_obra": "Id. ib. 2. 27 (R. 1. 4631 )."
-        },
-        {
-          "texto_cita": "«No es mi tristeza --- sino por haber sido tal mi descuido que me hayan cogido tus soldados sin el freno, estando yo obligado, según la orden de la andante caballería que profeso, á vivir contino alerta.»",
-          "autor": "",
-          "referencia_obra": "Id. ib. 2. 60 (R. 1. 5311)."
-        },
-        {
-          "texto_cita": "«No puedo sufrir sus impertinencias, ni estar contino atenta á curar todas sus enfermedades, que son sin número.»",
-          "autor": "",
-          "referencia_obra": "Id. El juez de los divorcios (Com. 1. 187)."
-        },
-        {
-          "texto_cita": "«Mis ojos que admiran | Tu talle gentil --- | Contino te dicen | Que muero por ti.»",
-          "autor": "Bretón",
-          "referencia_obra": ", Marcela, 2. 4 (1. 252)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«¡Oh Señor mío! pues parece tenéis determinado que me salve --- ¿no tuviérades por bien, no por mi ganancia sino por vuestro acatamiento, que no se ensuciara tanto posada adonde tan contino habíades de morar?»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 1 (R. 53. 242)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«El mal que me tomaba muy contino, es muy de tarde en tarde.»",
+              "autor": "",
+              "referencia_obra": "Ead. ib. 7 (R. 53. 361)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Aunque era tan ruin, traía temor de Dios lo más contino.»",
+              "autor": "",
+              "referencia_obra": "Ead. ib. 32 (R. 53. 982)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Con gran hervor los suyos esforzaba, | Trayéndoles contino á la memoria| El gran premio y honor de la vitoria.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 24 (R. 17. 931)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Suele acontecer contino | Que, huyendo el peligro y mal presente, | Se suele ir á parar en un camino | Que nos coge y anega la creciente.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 28 (R. 17. 1052)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Templa [oh Damón] el duelo, | Considerando bien que no contino | Nos quema el sol, ni nos enfría el hielo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 2 (R. 1. 22)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Aquello que falta y no puede la lengua, | Suplan mis ojos contino llorando.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 3 (R. 1. 411)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«¿Será posible que contino sea | Esclava de naciones extranjeras, | Y que un pequeño tiempo yo no vea | De libertad tendidas mis banderas?»",
+              "autor": "",
+              "referencia_obra": "Id. Numancia, 1 (Arrieta, 10. 18)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Así que no excusarás con el secreto tu dolor, antes tendrás que llorar contino, si no lágrimas de los ojos, lágrimas de sangre del corazón.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 33 (R. 1. 3431)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Bueno sería por cierto que todos estos insignes pueblos se corriesen y vengasen, y anduviesen contino hechas las espadas sacabuches á cualquier pendencia por pequeña que fuese.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 27 (R. 1. 4631 )."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«No es mi tristeza --- sino por haber sido tal mi descuido que me hayan cogido tus soldados sin el freno, estando yo obligado, según la orden de la andante caballería que profeso, á vivir contino alerta.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 60 (R. 1. 5311)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«No puedo sufrir sus impertinencias, ni estar contino atenta á curar todas sus enfermedades, que son sin número.»",
+              "autor": "",
+              "referencia_obra": "Id. El juez de los divorcios (Com. 1. 187)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Mis ojos que admiran | Tu talle gentil --- | Contino te dicen | Que muero por ti.»",
+              "autor": "Bretón",
+              "referencia_obra": ", Marcela, 2. 4 (1. 252)."
+            }
+          ]
         }
       ],
       "subacepciones": [
@@ -243,31 +312,46 @@
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "De continuo: continuamente, sin intermisión. Cp. de cierto, de seguro.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¡Oh lastimoso y miserable estado,| Do de continuo el corazón se lleva | De la rabia al dolor!»",
               "autor": "Quint.",
-              "referencia_obra": "Poes. A Fileno (R. 19. 161). —"
-            },
+              "referencia_obra": "Poes. A Fileno (R. 19. 161)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«¡Oh! suene de contino, | Salinas, vuestro són en mis oídos, | Por quien al bien divino | Despiertan los sentidos, | Quedando á lo demás amortecidos.»",
-              "autor": "León",
-              "referencia_obra": ", Poes. 1. á F. Salinas (Merino, 6. 16)."
-            },
-            {
-              "texto_cita": "«Dices la buena ventura, | Y dasla mala de contino; | Que no van por un camino | Tu intención y tu hermosura.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Nov. 1 (R. 1. 1031)."
-            },
-            {
-              "texto_cita": "«No toma ocasión su amarillez [de Belerma] --- sino del dolor que siente su corazón por el que de contino tiene en las manos.»",
-              "autor": "",
-              "referencia_obra": "Id. Quij. 2. 23 (R. 1. 4531)."
-            },
-            {
-              "texto_cita": "«La persona que es agradecida á los que bien le han hecho, da indicio que también lo será á Dios, que tantos bienes le hizo y de contino le hace.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 2. 51 (R. 1. 5122)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«¡Oh! suene de contino, | Salinas, vuestro són en mis oídos, | Por quien al bien divino | Despiertan los sentidos, | Quedando á lo demás amortecidos.»",
+                  "autor": "León",
+                  "referencia_obra": ", Poes. 1. á F. Salinas (Merino, 6. 16)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Dices la buena ventura, | Y dasla mala de contino; | Que no van por un camino | Tu intención y tu hermosura.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Nov. 1 (R. 1. 1031)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«No toma ocasión su amarillez [de Belerma] --- sino del dolor que siente su corazón por el que de contino tiene en las manos.»",
+                  "autor": "",
+                  "referencia_obra": "Id. Quij. 2. 23 (R. 1. 4531)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«La persona que es agradecida á los que bien le han hecho, da indicio que también lo será á Dios, que tantos bienes le hizo y de contino le hace.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 2. 51 (R. 1. 5122)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -276,33 +360,40 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "A la continua: continuadamente, con continuación.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Como tratan á la continua y muy de cerca sus propios defectos, suelen caer en grandes tristezas, descontianzas y pusilanimidad de corazón.»",
               "autor": "Ávila",
               "referencia_obra": ", Audi, 68 (Míst. 3. 259)."
             },
             {
+              "marca": "",
               "texto_cita": "«En fin pelearse cada día con enemigos; frío, calor, hambre; falta de municiones, de aparejos en todas partes, daños nuevos, muertes á la continua.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Gran. 1 (R. 21. 682)."
             },
             {
+              "marca": "",
               "texto_cita": "«Trayendo tan á la continua la lanza en la mano, mal podía desembarazalla para la pluma.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2 (R. 21. 842)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Cómo, recibiendo á la continua tantos beneficios, no alzarás alguna vez los ojos al cielo á ver quién es ese que te hace tanto bien?»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 3, § 3 (R. 6. 221)."
             },
             {
+              "marca": "",
               "texto_cita": "«En aquellos días, yo Daniel lloraba á la continua por espacio de tres semanas, y en todo este tiempo no comí pan que bien me supiese.»",
               "autor": "",
               "referencia_obra": "Id. Orac. y consid. 2. 2, § 11 (R. 8. 1111)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -310,53 +401,66 @@
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Que obra ó se muestra de un mismo modo durante cierto espacio de tiempo.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Desde entonces Suilio fue continuo y cruel acusador de los criminales.»",
               "autor": "Coloma",
               "referencia_obra": ", Tác. An. 11. 5 (2. 4)."
             },
             {
+              "marca": "",
               "texto_cita": "«Echáronse á dormir entrambos, dejando á su albedrío y sin orden alguna pacer de la abundosa hierba, de que aquel prado estaba lleno, á los dos continuos compañeros y amigos Rocinante y el rucio.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 59 (R. 1. 5282)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con en, para expresar el campo donde aparece la persistencia.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Era [santa Paula] muy continua en derramar lágrimas de devoción.»",
               "autor": "Gran.",
               "referencia_obra": "Pról. galeato, § 2 (R. 6. 5)."
             },
             {
+              "marca": "",
               "texto_cita": "«Vemos que muchas destas personas son muy continuas en estos estudios y ejercicios, á las cuales si se ofrece una obra de caridad ó de obediencia, ó de algún trabajo corporal, luégo vuelven las espaldas y procuran echarlo á puertas ajenas.»",
               "autor": "",
               "referencia_obra": "Id. Orac. y consid. 2. 5, § 10 (R. 8. 1511)."
             },
             {
+              "marca": "",
               "texto_cita": "«El mozuelo era continuo todas las noches en venir á cantar.»",
               "autor": "Espinel",
               "referencia_obra": ", Escud. 1. 2 (R. 18. 3812)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -364,62 +468,75 @@
     {
       "id": "b)",
       "definicion": "Se sustantiva para designar al que asiste constantemente en alguna parte ó cerca de una persona.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Los llama [á los cardenales] coadjutores, colaterales, íntimos y continuos del Papa.»",
           "autor": "Sig.",
           "referencia_obra": "Vida de S. Jer. 3. 6 (193)."
         },
         {
+          "marca": "",
           "texto_cita": "«Traía su origen de Alemania, su padre Ricardo Floro, familiar y continuo del emperador Federico.»",
           "autor": "Mariana",
           "referencia_obra": ", Hist. Esp. 15. 14 (R. 30. 4482)."
         },
         {
+          "marca": "",
           "texto_cita": "«También aquí es continuo el licenciado | Celedón, gran sujeto y gran letrado.»",
           "autor": "Mto.",
           "referencia_obra": "De fuera vendrá, 1. 1 (R. 39. 573)."
         },
         {
+          "marca": "",
           "texto_cita": "«Señora, aquel estudiante | Y el otro amante soldado, | Los continuos de tu calle, | Los que andan por ti perdidos, | En el jardín escondidos | Los hallé.»",
           "autor": "Rojas",
           "referencia_obra": ", Sin honra no hay amistad, 2 (R. 54. 3083)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Sust. masc. En especial, Cada uno de los cien individuos que antiguamente componían el cuerpo que servía en la casa del rey para la guardia de su persona y custodia del palacio.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Don Sancho de Luna y Rojas, hijo de don Antonio de Luna, conde de Fuentidueña y capitán de los continos.»",
           "autor": "Coloma",
           "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 771)."
         },
         {
+          "marca": "",
           "texto_cita": "«Resolvieron --- que se avisase al capitán de los continuos estuviese pronto.»",
           "autor": "Melo",
           "referencia_obra": ", Guerra de Catal. 2 (R. 21. 4841)."
         },
         {
+          "marca": "",
           "texto_cita": "«Logró un simple escudero llamar la atención de los reyes, que fáciles y prontos á galardonar el merecimiento, le nombraron continuo de su casa.»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", H. P. del Pulgar (4. 9)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "Sust. masc. El allegado á un señor y muy favorecido de él, y á quien este mantenía. Era obligado á seguirle, obedecerle, y en tiempos antiguos aun á vengarle cuando no podía más. Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «Era asimesmo reglado en sus gastos continuos.» Pulgar, Clar. var. 3 (30). «Gastaba cada año en sueldo para la gente de caballo continua que traia en su guarda otra grand cantidad de dinero.» Id. ib. 1 (10). «La piedad oficio es continuo de nuestro Redentor.» Id. Letras, 16 (227). «E quedaron con el infante don Juan todos los grandes que ende estaban, cada uno con sus continuos.» Crón. Juan II, 14. 14 (R. 68. 3851). «El rey dio de vestir á todos los continuos de su casa, así caballeros é donceles como oficiales, muy ricamente.» Ib. 8. 3 (R. 68. 3591). «Por non ensuciar su fermosa blancura en el lodo, tórnanse de contino del camino que levan fuyendo.» Crón. Álv. de Luna, 120 (337). «E mandó el maestre llamar algunos caballeros mancebos de los principales de su casa, que con él andaban continos.» Ib. 74 (191). «El rey --- fizo derramar su gente, é el condestable la suya, salvo los que traia continuos en la su casa.» Ib. 15 (49). «Le proveía á él é á los suyos que traia en la corte continuos.» Ib. 5 (14). «Por continuo doze años | Contra Roma guerreó.» P. de Guzmán, Clar. var. 29 (Rim. inéd. 276). «De mis males el menor | Es continuo sospirar.» Canc. de Stúñ. p. 369. «Cierto non sé quien tan digno | Fue en hestorias de amadores, | Que sufriesse | Un dolor tanto continuo.» Ib. p. 393. «Veedes que estos terremotos no son nubada que passa, mas pluvia continua del escuro invierno.» Santill. p. 492.\n\n—Siglo XIV: «Con todo el mundo tienes continua enemistad.» Arc. de Hita, 1496 (R. 57. 2742).\n\n— Siglo XIII: «La cobdicia trahe abaxamiento presente e quexedunbre e laserio con verguença e vida con pesar e pobresa continua.» Flor. de filosof. 35 (72). «Los plazeres del mundo son en ella muy continos.» Alex. 1303 (R. 57. 1872).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Port. continuo, contino; cat. continuo; prov., fr. continu; it. continuo: del lat. continuus, derivado de continere, tocarse una cosa con otra, contener.\n\n\u0000",
+  "etimologia": "Etim. Port. <i>continuo</i>, <i>contino</i>; cat. <i>continuo</i>; prov., fr. <i>continu</i>; it. <i>continuo</i>: del lat. <i>continuus</i>, derivado de <i>continere</i>, tocarse una cosa con otra, contener.",
   "nota": "",
   "forma": "",
   "ortografia": "",

@@ -15,7 +15,10 @@ El diccionario se organiza de forma jerárquica para preservar la lógica lexico
 5.  **Sub-acepciones / Construcciones**: Marcadas con letras griegas (**α, β, γ...** o **α α, β β...**).
     - Cuelgan de una acepción principal o sub-acepción.
     - Contienen su propia definición y su propio set de ejemplos.
-6.  **Secciones Especiales y Apéndices (Cola del Artículo)**: Estructuras opcionales de gran valor filológico y lexicográfico:
+6.  **Sub-acepciones de tercer nivel**: Marcadas con un guion largo (**—**).
+    - Pueden colgar de una acepción, de una sub-acepción o de una sub-subacepción.
+    - Corresponden al "— subacepción de tercer nivel" de la metodología de la microestructura.
+7.  **Secciones Especiales y Apéndices (Cola del Artículo)**: Estructuras opcionales de gran valor filológico y lexicográfico:
     - **Periodo Anteclásico**: Testimonios del español medieval y preclásico.
     - **Testimonios Latino-Hispánicos**: Citas y referencias en latín de la península ibérica.
     - **Etimología**: Origen y evolución etimológica de la palabra.
@@ -37,22 +40,33 @@ El diccionario se organiza de forma jerárquica para preservar la lógica lexico
   "acepciones": [
     {
       "id": "1., 2... o a), b)...",
-      "definicion": "String (HTML)",
+      "definicion": "String",
+      "marca": "\"X\", \"+\" o \"\" (marca sin ejemplo que introducir)",
       "ejemplos_citas": [
         {
-          "texto_cita": "String (HTML)",
-          "autor": "String (HTML)",
-          "author": "String (HTML)",
-          "referencia_obra": "String (HTML)"
+          "marca": "\"X\", \"+\" o \"\"",
+          "texto_cita": "String",
+          "autor": "String",
+          "referencia_obra": "String"
+        }
+      ],
+      "subsubsubacepciones": [
+        {
+          "id_limpio": "—",
+          "definicion": "...",
+          "marca": "...",
+          "ejemplos_citas": [...]
         }
       ],
       "subacepciones": [
         {
-          "id_marcador_html": "String (HTML)",
+          "id_marcador_html": "String",
           "id_limpio": "— α )",
           "definicion": "...",
+          "marca": "...",
           "ejemplos_citas": [...],
-          "subsubacepciones": [...]
+          "subsubacepciones": [...],
+          "subsubsubacepciones": [...]
         }
       ]
     }
@@ -72,6 +86,7 @@ El diccionario se organiza de forma jerárquica para preservar la lógica lexico
 
 ## Notas Técnicas
 
-- **HTML**: Se han preservado las etiquetas de formato (`<i>`, `<b>`, `<font>`) dentro de las cadenas de texto para mantener la estética original del diccionario en el visor.
+- **HTML**: Los campos se entregan en texto plano. La única excepción es `etimologia`, que conserva sus etiquetas `<i>`: en el original sólo van en cursiva las formas citadas, no el bloque entero, y el visor no debe aplicar cursiva global a esa sección.
+- **Marcas de los ejemplos**: `marca` recoge el signo que **antecede** al ejemplo en el original. Según la página de Signos del CD-ROM, `+` señala los ejemplos de Martínez y `X` los del Departamento de Lexicografía. En el HTML fuente la `X` va dentro del run azul (`#000080`) que abre la cita y el `+` al final del run negro anterior; por eso una extracción ingenua los dejaba pegados al final del campo previo.
 - **Símbolos**: Los caracteres especiales de la fuente original se han mapeado a sus equivalentes Unicode estándar (ej. `¾` -> `—`).
 - **Robustez de Extracción**: El convertidor normaliza variaciones tipográficas u ortográficas provenientes de la digitalización original en CD-ROM (por ejemplo, emparejando "Per. antecel.", "Per. antecl.", "Test. latin. hisp." o "Conj." a sus llaves normalizadas correspondientes).

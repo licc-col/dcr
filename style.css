@@ -554,6 +554,46 @@ body {
     color: var(--text-main);
 }
 
+/* Subacepciones de tercer nivel (marcadas con guion —) */
+.sub-tercer-list {
+    margin-top: 14px;
+    margin-left: 30px;
+    padding-left: 20px;
+    border-left: 1px dotted var(--border);
+}
+
+.sub-tercer-item {
+    margin-bottom: 16px;
+}
+
+.sub-tercer-text {
+    font-family: var(--font-serif);
+    font-size: 1.02rem;
+    line-height: 1.6;
+    color: var(--text-main);
+}
+
+/* Marcas de autoría del ejemplo (X, +): anteceden a la cita */
+.marca {
+    display: inline-block;
+    margin-right: 6px;
+    font-family: var(--font-mono, monospace);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 0.85em;
+    line-height: 1;
+    cursor: help;
+    border-bottom: 1px dotted currentColor;
+}
+
+.marca-equis {
+    color: hsl(210, 65%, 45%);
+}
+
+.marca-cruz {
+    color: hsl(25, 80%, 45%);
+}
+
 /* ── 7. SECCIONES ESPECIALES (OPCIONALES Y APÉNDICES) ─────────────────────── */
 .extras-container {
     display: flex;
@@ -619,8 +659,9 @@ body {
 .etim-box h3::before {
     background-color: hsl(270, 70%, 50%);
 }
+/* La cursiva la aportan los <i> del original: sólo van en cursiva las formas
+   citadas, no el bloque entero. */
 .etim-box .section-content {
-    font-style: italic;
     color: var(--text-main);
 }
 
@@ -691,6 +732,10 @@ body {
 }
 
 .hide-subsub .sub-sub-list {
+    display: none;
+}
+
+.hide-tercer .sub-tercer-list {
     display: none;
 }
 

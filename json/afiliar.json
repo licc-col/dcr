@@ -1,40 +1,57 @@
 {
   "lema": "AFILIAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v. Según la Academia, es lo mismo que Filiar; no obstante, parece que el uso ha establecido diferencia, aplicando éste en el lenguaje militar por Tomar la filiación á alguno que sienta plaza de soldado; y como reflejo, por Presentarse uno á que le tomen la filiación. Afiliar, formado á ojos vistas sobre el fr. affilier, se toma por Inscribir ó alistar en una sociedad ó corporación; y se usa generalmente como refl. Sin embargo, se halla filiarse en el sentido que queda asignado á afiliarse.",
+  "introduccion": "Según la Academia, es lo mismo que Filiar; no obstante, parece que el uso ha establecido diferencia, aplicando éste en el lenguaje militar por Tomar la filiación á alguno que sienta plaza de soldado; y como reflejo, por Presentarse uno á que le tomen la filiación. Afiliar, formado á ojos vistas sobre el fr. affilier, se toma por Inscribir ó alistar en una sociedad ó corporación; y se usa generalmente como refl. Sin embargo, se halla filiarse en el sentido que queda asignado á afiliarse.",
   "acepciones": [
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Interesa y aflige á una alma recta | Todo pobre, ora lleve el santo crisma, | Ora le afilie descreída secta.»",
               "autor": "Bretón",
               "referencia_obra": ", Desvergüenza, 12 (275)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl. Con en, para expresar la sociedad ó partido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los invasores franceses la habían establecido en España [la sociedad secreta] y en ella se habían afiliado muchos de sus secuaces.»",
               "autor": "A. Galiano",
-              "referencia_obra": ", Recuerdos, p. 209. —"
-            },
+              "referencia_obra": ", Recuerdos, p. 209."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«La escuela poética en que desde luego se filia.»",
-              "autor": "",
-              "referencia_obra": "A. de los Ríos, Hist. crít. 5, p. 183."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«La escuela poética en que desde luego se filia.»",
+                  "autor": "",
+                  "referencia_obra": "A. de los Ríos, Hist. crít. 5, p. 183."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -43,23 +60,28 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En nuestra época casi no es dable abrir una obra sin que desde luégo se trasluzca en cuál de los partidos militantes está afiliado el autor.»",
               "autor": "Balmes",
               "referencia_obra": ", Protest. 49 (3. 210)."
             },
             {
+              "marca": "",
               "texto_cita": "«Estaba pues Vega afiliado en la sociedad conspiradora.»",
               "autor": "A. Galiano",
               "referencia_obra": ", Recuerdos, p. 248."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué venía á ser todo aquel aparato de opiniones, sino la opinión de los centros de las sociedades influyentes, cuyos ecos eran en todas partes repetidos por sus adictos y sus afiliados?»",
               "autor": "Quint.",
               "referencia_obra": "Cartas á L. Holland. 5 (R. 19. 5582)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -67,12 +89,12 @@
   ],
   "periodo_anteclasico": "",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Fr. affilier; port. afiliar. La forma netamente castellana es ahijar, supuesto que hijo = filius.",
+  "etimologia": "Etim. Fr. <i>affilier;</i> port. <i>afiliar</i>. La forma netamente castellana es <i>ahijar,</i> supuesto que <i>hijo</i> = <i>filius.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
   "construccion_sintactica": "",
-  "prosodia": "Pros. Aunque Bello, Ortol. 2, § 3, cree que se acentúa yo filío, en el Dicc. de la Rima de Peñalver se halla con el acento en la sílaba anterior. En cuanto á afiliar, lo más común parece cargar la pronunciación en la sílaba fi. Así se encuentra en el ejemplo de Bretón copiado arriba.\n\n\u0000",
+  "prosodia": "Pros. Aunque Bello, Ortol. 2, § 3, cree que se acentúa yo filío, en el Dicc. de la Rima de Peñalver se halla con el acento en la sílaba anterior. En cuanto á afiliar, lo más común parece cargar la pronunciación en la sílaba fi. Así se encuentra en el ejemplo de Bretón copiado arriba.",
   "colocacion_concordancia": ""
 }

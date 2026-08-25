@@ -6,107 +6,155 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Ejercer presión sobre una cosa, apretar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pecho a pecho Julián, que ahogarle anhela, | Así fiero dragón trilingüe punta | Vibra y se enlaza al animal que cela, | E hincado en él la ponzoñosa boca. | Le enrolla, anuda, oprime y le sofoca.»",
               "autor": "Espronc.",
-              "referencia_obra": "Poes. 1, Pelayo (Cl. C. 47. 55). X"
+              "referencia_obra": "Poes. 1, Pelayo (Cl. C. 47. 55)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Eduardo hace esfuerzos todavía por desasirse de las manos que lo oprimen, pero esos esfuerzos no sirven sino para hacerle perder por sus heridas la poca sangre que le quedaba en sus venas.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 1 (p. 16). X"
+              "referencia_obra": ", Amalia, 1 (p. 16)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Dios mío, nuevos trabajos! — exclamó Amalia, llevando sus manos a sus ojos, y oprimiendo sus párpados, como era su costumbre en los momentos en que sufría.»",
               "autor": "",
               "referencia_obra": "Id. ib. 4 (p. 455)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Benincasa cogió una [abeja] en seguida, y oprimiéndole el abdomen, constató que no tenía aguijón.»",
                   "autor": "Quiroga",
-                  "referencia_obra": ", Cuentos de amor, p. 139. — Además con para, que indica la finalidad. X"
-                },
+                  "referencia_obra": ", Cuentos de amor, p. 139."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«En ese instante alguien nombró a Gonzalo de San Vicente y Beatriz oprimiole la mano para que le dejase escuchar.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 169)."
+                  "id_limpio": "—",
+                  "definicion": "Además con para, que indica la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En ese instante alguien nombró a Gonzalo de San Vicente y Beatriz oprimiole la mano para que le dejase escuchar.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 169)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con dat. refl. Además con la prep. con, que señala el medio. X",
+              "definicion": "Con dat. refl. Además con la prep. con, que señala el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Luego, oprimiéndose los ojos con las yemas del pulgar y del índice, y después de unos minutos de silencio, agregó: | —Es muy tarde.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Zogoibi, p. 132."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, que indica: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, que indica:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Hubiérase dicho que sus manos oprimían con fraternidad aquella aristocrática y pálida materia, donde los rayos del sol remedaban un rubor interno de sangre.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 33). — El medio."
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hubiérase dicho que sus manos oprimían con fraternidad aquella aristocrática y pálida materia, donde los rayos del sol remedaban un rubor interno de sangre.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 33)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Sola tú con tierna planta | Oprimiste la garganta | De la sierpe aborrecida.»",
-                  "autor": "Mor.",
-                  "referencia_obra": "La anunciación (R. 2. 6072)."
+                  "id_limpio": "—",
+                  "definicion": "El medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Sola tú con tierna planta | Oprimiste la garganta | De la sierpe aborrecida.»",
+                      "autor": "Mor.",
+                      "referencia_obra": "La anunciación (R. 2. 6072)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«A veces, el ceñidor oprimía, sobre la cintura breve de Zobeida, las telas, tejidas como por las manos aladas, de sus túnicas.»",
                   "autor": "Marañón",
                   "referencia_obra": ", Tiempo viejo, p. 14."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. Con por, que señala el agente. X",
+          "definicion": "Part. Con por, que señala el agente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Es tanta su blancura que hasta se esfuma | En la abierta azucena y hasta en la espuma: | Y en su blanco vestido va prisionera | Despreciando las rosas de la pradera, | Que creyéndola un hada le forman calle | Para verter esencias sobre su talle | O perfumar sus plantas, pues son dichosas | Al morir oprimidas por otras rosas.»",
               "autor": "Herr.",
               "referencia_obra": "y Reissig, Poes. y prosa, p. 219."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -114,116 +162,171 @@
     {
       "id": "b)",
       "definicion": "Estrechar, ceñir (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mañana al mediodía volveré —dijo, pasando su mano por la frente de Eduardo como pudiera hacerlo un padre con un hijo y tomando y oprimiendo su mano izquierda.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 1 (p. 37). X"
+              "referencia_obra": ", Amalia, 1 (p. 37)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y los dos jóvenes se dijeron elocuentes discursos en el largo y estrecho abrazo que se dieron. —Para ella —fue la última palabra de Eduardo al oprimir a su amigo y separarse de él.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 5 (p. 582). X"
+              "referencia_obra": "Id. ib. 5 (p. 582)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Bah! Muerto, bien muerto me despedí y oprimí un instante aquella mano fría, amable y rápida.»",
               "autor": "Quiroga",
               "referencia_obra": ", Cuentos de amor, p. 171."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Gracias, señor! —dice Daniel, saliendo a encontrar al doctor Alcorta en medio del patio, y oprimiéndole fuertemente la mano.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 1 (p. 33). Además con para y una prop. subjuntiva. X"
+                  "referencia_obra": ", Amalia, 1 (p. 33). Además con para y una prop. subjuntiva."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En otra parte me oprimía el cuello suavemente para que me inclinara y pudiera mirar de cerca un cuadrito de estilo muy concluido.»",
                   "autor": "P. Galdós",
                   "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 112)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, que indica: — el medio. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, que indica:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Bolívar, irguiéndose desde la sede que fijó para su liga anfictiónica intercontinental, oprime, emocionado, con la diestra la heroica y noble mano que le tiende San Martín.»",
-                  "autor": "Valencia",
-                  "referencia_obra": ", Discursos, 1 (p. 94). — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Bolívar, irguiéndose desde la sede que fijó para su liga anfictiónica intercontinental, oprime, emocionado, con la diestra la heroica y noble mano que le tiende San Martín.»",
+                      "autor": "Valencia",
+                      "referencia_obra": ", Discursos, 1 (p. 94)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Ramiro cercó con su brazo el cuello de la niña, oprimiéndola con dulzura.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 193). — Además con contra. X"
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ramiro cercó con su brazo el cuello de la niña, oprimiéndola con dulzura.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 193)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El canónigo, haciendo crujir la arenilla de las losas bajo la suela del zapato, le escuchaba atentamente, oprimiendo con ambas manos el Libro de Horas contra su pecho.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 103). — Además con sobre. X"
+                  "id_limpio": "—",
+                  "definicion": "Además con contra.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El canónigo, haciendo crujir la arenilla de las losas bajo la suela del zapato, le escuchaba atentamente, oprimiendo con ambas manos el Libro de Horas contra su pecho.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 103)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Luego, desnudando la hoja, oprimió con ambas manos la guarnición sobre su pecho, para rezar de aquella guisa una larga plegaria. En acabando persignose con la empuñadura, y envainola otra vez en silencio.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 225)."
+                  "id_limpio": "—",
+                  "definicion": "Además con sobre.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Luego, desnudando la hoja, oprimió con ambas manos la guarnición sobre su pecho, para rezar de aquella guisa una larga plegaria. En acabando persignose con la empuñadura, y envainola otra vez en silencio.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 225)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con contra. X",
+              "definicion": "Con contra.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Luego oprimió su rostro contra mí, y de su boca salió un bramido fuerte, profundo, que parecía tener filo como una espada.»",
                   "autor": "",
-                  "referencia_obra": "P. Galdós, Lo Prohibido (Cl. Castal. 34. 222). X"
+                  "referencia_obra": "P. Galdós, Lo Prohibido (Cl. Castal. 34. 222)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Rosa abre el postigo con delicada cautela para no despertar a los que duermen, y sale de la casa, oprimiendo contra su pecho las flores que ha de ofrecer a la Virgen.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, p. 289."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. Con la prep. con, que indica el medio. X",
+          "definicion": "Part. Con la prep. con, que indica el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Sí --- continuó Daniel, teniendo siempre oprimida con sus manos la cintura de Florencia.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 1 (p. 131)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con entre. X",
+              "definicion": "Con entre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los ojos de Amalia estaban húmedos, radiantes; había algo de inspiración celeste en su mirada; su frente y sus mejillas estaban pálidas; sus labios, rojos como el coral, y sus manos oprimidas entre las de Eduardo.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 2 (p. 237)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -231,13 +334,16 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "En el siguiente ejemplo, Concentrar. Part. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Así los rayos fúlgidos de Apolo, | --- En el foco oprimidos | Del espejo de Arquímedes ardiente, | Se truecan en centella destructora.»",
               "autor": "Hartz.",
               "referencia_obra": "Al Instit. p. 409."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -245,221 +351,272 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Subyugar, dominar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En fin, fue causa de crecer estos salteadores (monfíes los llamaba la lengua morisca) en tanto número, que para oprimillos o para reprimillos no bastaban las unas ni las otras fuerzas.»",
               "autor": "Mend.",
-              "referencia_obra": "Guerra de Gran. 1 (R. 21. 711). X"
+              "referencia_obra": "Guerra de Gran. 1 (R. 21. 711)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Había entre los nuestros sospechas, desasosiego, poca seguridad: parecía a los que no tenían experiencia de mantener pueblos oprimiendo o engañando a los enemigos de dentro resistiendo a los de fuera, estar en manifiesto peligro.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Gran. (Cl. Castal. 22. 228)."
             },
             {
+              "marca": "",
               "texto_cita": "«Discurrían [los soldados] libremente por la campaña sin diferenciarla del país contrario, desperdiciando los frutos, robando los ganados, oprimiendo los lugares.»",
               "autor": "Melo",
-              "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4652). X"
+              "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4652)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Al monstruo de perfidia que tan vilmente había engañado a nuestro amado e inocente rey, y tan cruelmente estaba ultranjado y oprimiendo a nuestra heroica y querida patria?»",
               "autor": "Jovell.",
               "referencia_obra": "Def. de la junta central, 1 (Cl. C. 111. 185)."
             },
             {
+              "marca": "",
               "texto_cita": "«Del norte helado en multitud inmensa | Contra la invicta Roma, estrago horrendo, | Muerte y esclavitud la destinaron, | Y al orbe que oprimió dieron venganza.»",
               "autor": "Mor.",
-              "referencia_obra": "epíst. 7 (R. 2. 5842). X"
+              "referencia_obra": "epíst. 7 (R. 2. 5842)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los aztecas gobernaron como comerciantes, juntando riquezas y oprimiendo al país.»",
               "autor": "Martí",
-              "referencia_obra": ", Sus mejores páginas, p. 130. X"
+              "referencia_obra": ", Sus mejores páginas, p. 130."
             },
             {
+              "marca": "X",
               "texto_cita": "«Empero él estuvo siempre en pie en la enhiesta pirámide cuyo basamento oprime casi la mitad de un continente.»",
               "autor": "Valencia",
-              "referencia_obra": ", Discursos, 1 (p. 45). X"
+              "referencia_obra": ", Discursos, 1 (p. 45)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La maldición del más tenebroso y peligroso de los trabajos humanos, oprime aquellas tierras y las condena a una noche perpetua.»",
               "autor": "Zalamea",
               "referencia_obra": ", Minerva en la rueca, p. 46."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con para y una prop. infinitiva. X",
+              "definicion": "Con para y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Parece también que es inevitable la alternativa, o de renunciar a la felicidad de muchas generaciones, por no hacer infeliz a una sola, o de oprimir a una generación para hacer felices a las demás.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Obr. select. (Cl. Ebro, 31. 95)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Persuade también la ambición desordenada el oprimir la libertad del pueblo, a bajar la nobleza.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 41 (Cl. C. 81. 150)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Donde la fuerza oprime, la ley se quiebra.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 1. 2 7 (Cl. C. 83. 101)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. X",
+          "definicion": "Pas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«San Isidoro pronosticó en su muerte a la nación española, que si se apartaba de la verdadera religión, sería oprimida.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 24 (Cl. C. 81. 4)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, que señala el agente. X",
+              "definicion": "Con de, que señala el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Fui malo por medrar: fui castigado | De los buenos; fui bueno: fui oprimido | De los malos, y preso, desterrado.»",
                   "autor": "Quev.",
                   "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 87)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Recípr. X",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Es el Parnaso, por ventura, la mansión de aquellas máquinas en figura de hombres, que ponen el valor de su mérito en formidables impertinencias, invenciones risibles de la ambición con que de todos modos solicitan dominarse y oprimirse unos a otros?»",
               "autor": "Forner",
               "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 203)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Tú, que la Patria a amar tengo enseñada, | Di entonces a los hijos del honor, | Que en mi tierra oprimida y desgraciada | Yo canté la esperanza y el amor!»",
               "autor": "J. E. Caro",
-              "referencia_obra": ", Poes. complet. p. 204. X"
+              "referencia_obra": ", Poes. complet. p. 204."
             },
             {
+              "marca": "X",
               "texto_cita": "«Era su país, su país oprimido que le pesaba en el corazón, y no le dejaba vivir en paz.»",
               "autor": "Martí",
-              "referencia_obra": ", Sus mejores páginas, p. 145. X"
+              "referencia_obra": ", Sus mejores páginas, p. 145."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y como el único modo de ser poeta de la patria oprimida es ser soldado, no afeó el destierro con quejumbres pueriles.»",
               "autor": "",
-              "referencia_obra": "Id. Páginas escogidas, p. 238. X"
+              "referencia_obra": "Id. Páginas escogidas, p. 238."
             },
             {
+              "marca": "X",
               "texto_cita": "«Las razas oprimidas y envilecidas durante trescientos años, necesitan ochocientos para volver en sí y reconocer su derecho de igualdad ante Dios y la justicia.»",
               "autor": "Montalvo",
-              "referencia_obra": ", Prosas, p. 109. X"
+              "referencia_obra": ", Prosas, p. 109."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y Cataluña no es una nacionalidad oprimida, como no lo es hoy Irlanda.»",
               "autor": "Unamuno",
               "referencia_obra": ", Andanzas y visiones esp. p. 100."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, que señala el agente o la causa. X",
+              "definicion": "Con de, que señala el agente o la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Trataron con el nuevo general los capitanes cuál sería la más conveniente y provechosa empresa, y resolvieron, de común parecer, de ofrecerse al emperador de los griegos, Andrónico Paleólogo, casi oprimido de las armas de los turcos.»",
                   "autor": "Moncada",
-                  "referencia_obra": ", Exped. 1. 4 (Cl. C. 54. 17). X"
+                  "referencia_obra": ", Exped. 1. 4 (Cl. C. 54. 17)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El que oprimido de sus enemigos pide socorro no se muestre demasiadamente humilde y menesteroso, porque hará desesperada su fortuna.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 33 (Cl. C. 81. 84), X"
+                  "referencia_obra": "Emp. 33 (Cl. C. 81. 84),"
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La causa de pesar fue que perseguidos muchos años por los suevos, se veían oprimidos de sus armas, y privados de la agricultura.»",
                   "autor": "Valbuena",
                   "referencia_obra": ", tr. Los coment. de Julio César, p. 124."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por, que señala el agente. X",
+              "definicion": "Con por, que señala el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La causa indirecta de la libertad de las colonias españolas en la América, oprimidas por el poder incontrastable de su metrópoli ---.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 4 (p. 407). X"
+                  "referencia_obra": ", Amalia, 4 (p. 407)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Si se quiere, la influencia de las nuevas teorías es más grande de este lado del Atlántico que en la Europa misma. Aquí los criollos son ambiciosos, han estado oprimidos por los españoles y su entusiasmo por las ciencias— que, si esto es posible, han sido más ignoradas aquí que en España— llega al grado de arrebato.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 3. 15 p. 285)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, que señala la causa. X",
+              "definicion": "Con la prep. con, que señala la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Arreglados [los que se han criado en la ciudad] con la simetría y el orden que se usa en los salones; los que al nacer se han encontrado ya oprimidos con las cadenas de la moda.»",
                   "autor": "Silva",
                   "referencia_obra": ", Ensayos, p. 27."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -468,49 +625,69 @@
     {
       "id": "b)",
       "definicion": "Agobiar, afligir (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Al tiempo que se van a dormir los hombres, les suele oprimir y atemorizar una visión que llaman pesadilla, lo qual les acaece entre el sueño y la vigilia.»",
               "autor": "",
-              "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 121). X"
+              "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 121)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Cuán pobre seré cuando me atreví a prometerte lo que voy a cumplir! ¡Cuánta miseria me oprime! Piénsalo tú: y yo... harto haré en llorarla.»",
               "autor": "Cadalso",
-              "referencia_obra": ", Noches lúgubres (Cl. C. 152. 7). X"
+              "referencia_obra": ", Noches lúgubres (Cl. C. 152. 7)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Te hará reverdecer, te dará vida, | Quizá sabiendo el infeliz destino | Que oprimió mi existencia desastrada, | Sobre mi pobre tumba abandonada | Una lágrima suelte el peregrino.»",
               "autor": "J. E. Caro",
-              "referencia_obra": ", Poes. complet. p. 35. X"
+              "referencia_obra": ", Poes. complet. p. 35."
             },
             {
+              "marca": "X",
               "texto_cita": "«Es como un ambiente angustioso, anhelante, que nos oprime, que nos hace pensar minuto por minuto —¡estos interminables minutos de los pueblos!— en la inutilidad de todo esfuerzo.»",
               "autor": "Azorín",
               "referencia_obra": ", La voluntad (Cl. Castal. 3. 97)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya estoy deseando que llegue, para descargar este peso que me oprime el alma.»",
                   "autor": "M. de la Rosa",
-                  "referencia_obra": ", La conjuración de Venecia, 3 (Cl. C. 197. 347). — Además con desde, que señala el lugar. X"
-                },
+                  "referencia_obra": ", La conjuración de Venecia, 3 (Cl. C. 197. 347)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Te oprimen | órdenes, desde fuera: | Tic tac, tic tac, | La voz, allí, en la máquina, | A tu vida infinita | Sin término, echan lazos | Pueriles los segundos.»",
-                  "autor": "Salinas",
-                  "referencia_obra": ", La voz, p. 80."
+                  "id_limpio": "—",
+                  "definicion": "Además con desde, que señala el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Te oprimen | órdenes, desde fuera: | Tic tac, tic tac, | La voz, allí, en la máquina, | A tu vida infinita | Sin término, echan lazos | Pueriles los segundos.»",
+                      "autor": "Salinas",
+                      "referencia_obra": ", La voz, p. 80."
+                    }
+                  ]
                 }
               ]
             }
@@ -519,142 +696,190 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. Con la prep. con, que señala el medio. X",
+          "definicion": "Pas. Con la prep. con, que señala el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El que escudriña la Majestad de Dios será oprimido con la demasiada gloria.»",
               "autor": "M. de Chaide",
               "referencia_obra": ", Magd. 3. 2 (Cl. C. 105. 20)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No saciado el infame deseo, prosigue sacudiendo su pesadumbre con su infernal lengua hasta que del todo le entierra la fama y le esconde la opinión, y lo deja oprimido, odioso y apartado de los honores y bienes naturales.»",
               "autor": "Torres Villarroel",
-              "referencia_obra": ", Visiones y visitas (Cl. C. 161. 147). X"
+              "referencia_obra": ", Visiones y visitas (Cl. C. 161. 147)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vuelto a una noción de colmena, me sentí oprimido, comprimido, entre estas paredes paralelas, donde las escobas abandonadas por la servidumbre parecían herramientas dejadas por galeotes en fuga.»",
               "autor": "Carpentier",
               "referencia_obra": ", Los pasos perdidos, p. 64."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, que señala el agente o la causa. X",
+              "definicion": "Con por, que señala el agente o la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pálida, bella, oprimida por las sensaciones que habían invadido su espíritu esa noche, se echó en un sillón.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 1 (p. 35). X"
+                  "referencia_obra": ", Amalia, 1 (p. 35)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando se apoderaba de él lo que llamaba fiebre estética era infalible el resultado, pero salía de aquella crisis maltrecho y rendido, como la antigua sacerdotisa de Delfos, oprimida y acongojada por el estro divino que ardía en sus entrañas.»",
                   "autor": "Menéndez y Pelayo",
                   "referencia_obra": ", Estudios, p. 148."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de, que señala la causa o motivo. X",
+              "definicion": "Con de, que señala la causa o motivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ángel de mi alma, es tu imaginación y nada más. Oprimido de disgusto, tu espíritu se ha llenado de sombras.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 5 (p. 601)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Por sinécdoque. X",
+          "definicion": "Por sinécdoque.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cuántos regalos le ha costado después de todo esto; cuántas congojas han oprimido su corazón | Y cuántas pesadumbres le han dado malas noches.»",
               "autor": "Nieremb.",
-              "referencia_obra": "Epist. 21 (Cl. C. 30. 123). X"
+              "referencia_obra": "Epist. 21 (Cl. C. 30. 123)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Señor don Pedro; este lance | Ha oprimido de manera | Mi corazón, que es preciso | Se sirva darme licencia | Para recobrarme.»",
               "autor": "Gonz. del Castillo",
-              "referencia_obra": ", La madre hipócr. p. 118. X"
+              "referencia_obra": ", La madre hipócr. p. 118."
             },
             {
+              "marca": "X",
               "texto_cita": "«Daniel le colocaba la cadena, las lágrimas aliviaron al fin las angustias que acababan de oprimir su tierno corazón.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 1 (p. 133)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Pas. refl. X",
+              "definicion": "Pas. refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mi corazón se oprime; no me es dado | Contemplar a mi amada en la desdicha.»",
                   "autor": "",
-                  "referencia_obra": "Marchena, Epíst. de Abelardo (Poesía del siglo XVIII; Cl. Castal. 65. 347). — Con hasta y una prop. infinitiva. X"
-                },
+                  "referencia_obra": "Marchena, Epíst. de Abelardo (Poesía del siglo XVIII; Cl. Castal. 65. 347)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y cuando, al fin, con pesar, | Le dio su amante el perdón, | Se le oprimió el corazón | Hasta romper a llorar.»",
-                  "autor": "Campoamor",
-                  "referencia_obra": ", Poes. (Cl. C. 40. 142)."
+                  "id_limpio": "—",
+                  "definicion": "Con hasta y una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y cuando, al fin, con pesar, | Le dio su amante el perdón, | Se le oprimió el corazón | Hasta romper a llorar.»",
+                      "autor": "Campoamor",
+                      "referencia_obra": ", Poes. (Cl. C. 40. 142)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Part. X",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La conciencia está oprimida, | La razón va de vencida.»",
                   "autor": "M. de Amescua",
-                  "referencia_obra": ", El esclavo del demonio, 1 (Cl. C. 70. 103). X"
+                  "referencia_obra": ", El esclavo del demonio, 1 (Cl. C. 70. 103)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Un suspiro desahogó el oprimido pecho.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 5 (p. 598). X"
+                  "referencia_obra": ", Amalia, 5 (p. 598)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Bajó con el alma atribulada, oprimido el corazón, ardiente y turbada la cabeza, bañado el rostro en sudor frío.»",
                   "autor": "P. Galdós",
-                  "referencia_obra": ", La fontana de oro, 10 (p. 106). X"
+                  "referencia_obra": ", La fontana de oro, 10 (p. 106)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y en el fondo del oprimido corazón de Mujiquita se expandió un consuelo.»",
                   "autor": "Gallegos",
-                  "referencia_obra": ", Doña Bárbara, p. 161. X"
+                  "referencia_obra": ", Doña Bárbara, p. 161."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Soy la música que bajo tantos cabellos | Hace el mundo en su vuelo misterioso, | Pájaro de inocencia que con sangre en las alas | Va a morir en un pecho oprimido.»",
                   "autor": "Aleixandre",
-                  "referencia_obra": ", La destrucción (Cl. Castal. 43. 192). X"
+                  "referencia_obra": ", La destrucción (Cl. Castal. 43. 192)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Lo asesinaron los ladrones? —insistió Raquel con el corazón oprimido.»",
                   "autor": "Osorio Lizarazo",
-                  "referencia_obra": ", El camino en la sombra, p. 208. — Con por, que señala el agente. X"
-                },
+                  "referencia_obra": ", El camino en la sombra, p. 208."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El corazón, oprimido así por esta columna de injusticias y crueldades, parece decir: ¡oh Dios!»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 1 (p. 190)."
+                  "id_limpio": "—",
+                  "definicion": "Con por, que señala el agente.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El corazón, oprimido así por esta columna de injusticias y crueldades, parece decir: ¡oh Dios!»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños, 1 (p. 190)."
+                    }
+                  ]
                 }
               ]
             }
@@ -663,19 +888,23 @@
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "En los siguientes ejemplos, Refrenar, reprimir. Part. X",
+          "definicion": "En los siguientes ejemplos, Refrenar, reprimir. Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los afectos oprimidos (principalmente en quien nació príncipe) dan en desesperaciones, como en rayos las exhalaciones constreñidas entre las nubes.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 2 (Cl. C. 76. 34). X"
+              "referencia_obra": "Emp. 2 (Cl. C. 76. 34)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Era grandemente inclinado al vino y a mujeres, y esto no lo decían para vituperarle, sino en alabanza suya, porque su viciosa naturaleza y inclinación de tal manera la tenía domada y oprimida, que nadie jamás le vio borracho, ni vio en él rastro de lujuria.»",
               "autor": "Cascales",
               "referencia_obra": ", Cartas filológ. 3. 5 (Cl. C. 118. 118)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -683,7 +912,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «Vuestros naturales, que continuaron guerra con ellos, siempre [los] oprimieron a que diesen parias a los reyes vuestros progenitores, e se ofreciesen por sus vasallos.» Pulgar, Clar. var. 17 (Cl. C. 49. 104). X «El umano seso se çiega e oprime | En las baxas artes que le da Minerva; | Pues vey que faría en las que reserva | Aquel que los fuegos coruscos esgrime.» Mena, Lab. (Cl. C. 11. 36).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. opprimere ‘apretar, sujetar con violencia’, de op por ob ‘delante’ y premere ‘prensar, apretar’. It. opprimere, fr. opprimer, cat. oprimir, oprémer.\n\n\u0000",
+  "etimologia": "Etim. Del lat. opprimere ‘apretar, sujetar con violencia’, de<i> op</i> por<i> ob</i> ‘delante’ y<i> premere</i> ‘prensar, apretar’. It.<i> opprimere</i>, fr.<i> opprimer</i>, cat.<i> oprimir</i>,<i> oprémer.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

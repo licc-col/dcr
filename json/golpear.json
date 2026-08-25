@@ -1,544 +1,729 @@
 {
   "lema": "GOLPEAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, dar uno o varios golpes, a) herir, maltratar (Sacudir: θ; Batir: κ ), b) pegar, percutir, c) latir, pulsar, d) tañer, tocar, hacer sonar una campana o algún instrumento musical, e) sonar, hacer ruido una cosa (Hacer resonar: γ ), f) tocar, llamar;\n\n— 2, menudear en una misma cosa;\n\n— 3, sobresalir, llamar la atención.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, dar uno o varios golpes, a) herir, maltratar (Sacudir: θ; Batir: κ ), b) pegar, percutir, c) latir, pulsar, d) tañer, tocar, hacer sonar una campana o algún instrumento musical, e) sonar, hacer ruido una cosa (Hacer resonar: γ ), f) tocar, llamar;\n\n— 2, menudear en una misma cosa;\n\n— 3, sobresalir, llamar la atención.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "Dar uno o varios golpes.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Herir, maltratar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Aunque los cavalleros la golpeavan fuertemente, las armas eran tan buenas que bien segura estava de ser herida.»",
               "autor": "Ortúñez de Calahorra",
-              "referencia_obra": ", Espejo (Cl. C. 196. 119). X"
+              "referencia_obra": ", Espejo (Cl. C. 196. 119)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yua la una donde está Brandonio | El qual, como la uio venir, se mete | Por los que están el cuerpo golpeando, | Sin saber quién le hiere.»",
               "autor": "Mal-Lara",
-              "referencia_obra": ", Psyche, p. 22. X"
+              "referencia_obra": ", Psyche, p. 22."
             },
             {
+              "marca": "X",
               "texto_cita": "«Formaban [los objetos entre el capote] enormes cachiporras, que me servían para golpear, al embozarme, a todos los muchachos con quienes quería armar alguna gresca.»",
               "autor": "Carrasquilla",
-              "referencia_obra": ", Obr. p. 415. X"
+              "referencia_obra": ", Obr. p. 415."
             },
             {
+              "marca": "X",
               "texto_cita": "«Enfurecido el cazador, iba a golpear a Sangonera, cuando éste se desplomó en el fondo del barquito, clavándose las uñas en la faja como si quisiera abrirse el vientre.»",
               "autor": "",
-              "referencia_obra": "Blasco Ibáñez, Cañas y barro, 9 (p. 208). X"
+              "referencia_obra": "Blasco Ibáñez, Cañas y barro, 9 (p. 208)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sepa la que se le aguarda: Te puncen y te sajen, | Te tundan, te golpeen, te martillen.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 1 (p. 198). X"
+              "referencia_obra": ", Sueños, 1 (p. 198)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Un negro con buenos puños que los golpearía si intentasen propasarse.»",
               "autor": "Mihura",
-              "referencia_obra": ", Tres sombreros de copa (Cl. Castal. 80. 95). X"
+              "referencia_obra": ", Tres sombreros de copa (Cl. Castal. 80. 95)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Después, cuando se dio cuenta de que una mole inmensa lo aplastaba, se abalanzó a su vez sobre la infortunada y la golpeó brutalmente.»",
               "autor": "Osorio Lizarazo",
-              "referencia_obra": ", El camino en la sombra, p. 75. X"
+              "referencia_obra": ", El camino en la sombra, p. 75."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se le echaron encima los policías, golpeándolo, y lo hubieran matado si no intervinieran algunos vecinos.»",
               "autor": "",
-              "referencia_obra": "Yáñez, Al filo del agua, p. 419. X"
+              "referencia_obra": "Yáñez, Al filo del agua, p. 419."
             },
             {
+              "marca": "X",
               "texto_cita": "«Estaba allí, como si lo hubieran golpeado, sacudiendo su sombrero contra la tierra. Gritando.»",
               "autor": "Rulfo",
-              "referencia_obra": ", El llano en llamas, p. 92. X"
+              "referencia_obra": ", El llano en llamas, p. 92."
             },
             {
+              "marca": "X",
               "texto_cita": "«Josefina golpeó al perro y lo hizo ladrar.»",
               "autor": "Onetti",
               "referencia_obra": ", El astillero, p. 31,"
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para indicar el modo. X",
+              "definicion": "Con a, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se lanzaban contra ella con iracundia y la golpeaban a palmadas y a puñadas, sin preocuparse por elegir el lugar más adecuado para tan enérgicas admoniciones.»",
                   "autor": "Osorio Lizarazo",
                   "referencia_obra": ", El camino en la sombra, p. 37."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para indicar: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y no parando en esto, con mortal furia hería y golpeava a los otros, que muy amedrentados los hazía apartar de si, teniéndole más por diablo del infierno que no por cavallero.»",
-                  "autor": "Ortúñez de Calahorra",
-                  "referencia_obra": ", Espejo (Cl. C. 193. 49). X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y no parando en esto, con mortal furia hería y golpeava a los otros, que muy amedrentados los hazía apartar de si, teniéndole más por diablo del infierno que no por cavallero.»",
+                      "autor": "Ortúñez de Calahorra",
+                      "referencia_obra": ", Espejo (Cl. C. 193. 49)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Con tanta prissa y demasiada fuerça buelve a golpearlo, que entonces parescía aver començado la batalla.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. (Cl. C. 196. 55)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Con tanta prissa y demasiada fuerça buelve a golpearlo, que entonces parescía aver començado la batalla.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. (Cl. C. 196. 55). — El medio o instrumento. X"
+                  "id_limpio": "—",
+                  "definicion": "El medio o instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El príncipe, muy maravillado, se esforçava lo mejor que podía a golpear a Roldán con los mayores y más fuertes golpes que podía.»",
+                      "autor": "",
+                      "referencia_obra": "Ortúñez de Calahorra, Espejo (Cl. C. 196. 55)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Era tal la inquina que Manrique tenía al condiscípulo de antaño, que, si éste iba a caballo, golpeaba a Díaz con el estribo.»",
+                      "autor": "Cordovez",
+                      "referencia_obra": ", Crímenes (Reminiscencias, p. 410)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Las fieras [tiburones] --- eran sacadas del agua, con feroces sacudidas y coletazos terribles, hasta la altura de las bordas, donde las golpeaban con palos, pértigas, barras de hierro, y hasta con los espeques del cabrestante.»",
+                      "autor": "Carpentier",
+                      "referencia_obra": ", Siglo de las luces, 1. 10 (p. 81)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El príncipe, muy maravillado, se esforçava lo mejor que podía a golpear a Roldán con los mayores y más fuertes golpes que podía.»",
-                  "autor": "",
-                  "referencia_obra": "Ortúñez de Calahorra, Espejo (Cl. C. 196. 55). X"
-                },
-                {
-                  "texto_cita": "«Era tal la inquina que Manrique tenía al condiscípulo de antaño, que, si éste iba a caballo, golpeaba a Díaz con el estribo.»",
-                  "autor": "Cordovez",
-                  "referencia_obra": ", Crímenes (Reminiscencias, p. 410). X"
-                },
-                {
-                  "texto_cita": "«Las fieras [tiburones] --- eran sacadas del agua, con feroces sacudidas y coletazos terribles, hasta la altura de las bordas, donde las golpeaban con palos, pértigas, barras de hierro, y hasta con los espeques del cabrestante.»",
-                  "autor": "Carpentier",
-                  "referencia_obra": ", Siglo de las luces, 1. 10 (p. 81). — Además con hasta, para indicar el objetivo de la acción. X"
-                },
-                {
-                  "texto_cita": "«Después de los capotazos de los toreros, dos monosabios empezaron a golpear con unas varas al caballo de un picador, hasta hacerle avanzar al medio.»",
-                  "autor": "Baroja",
-                  "referencia_obra": ", La busca, 3. 8 (p. 182)."
+                  "id_limpio": "—",
+                  "definicion": "Además con hasta, para indicar el objetivo de la acción.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Después de los capotazos de los toreros, dos monosabios empezaron a golpear con unas varas al caballo de un picador, hasta hacerle avanzar al medio.»",
+                      "autor": "Baroja",
+                      "referencia_obra": ", La busca, 3. 8 (p. 182)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con contra, para señalar el objeto con el que se hace producir el choque. X",
+              "definicion": "Con contra, para señalar el objeto con el que se hace producir el choque.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Leandro se levantó con la cara inyectada de sangre, agarró al Valencia por las solapas de la chaqueta, y lo zarandeó y le golpeó contra la rudamente.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, 2. 8 (p. 111). X"
+                  "referencia_obra": ", La busca, 2. 8 (p. 111)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ha golpeado [la niña] | Sus pies menudos | Contra la guijas.»",
                   "autor": "",
                   "referencia_obra": "Castillo, Versiones (El árbol, p. 116)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, para indicar la parte maltratada. X",
+              "definicion": "Con en, para indicar la parte maltratada.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los ojos alelados como el de un animal que acaban de golpear en la frente.»",
                   "autor": "H. Rojas",
                   "referencia_obra": ", Respirando verano, 2. 21 (p. 181)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con hasta, que indica el límite de la acción. Siendo el término una prop. infinitiva. X",
+              "definicion": "Con hasta, que indica el límite de la acción. Siendo el término una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Don Aparicio juró arruinar y golpear hasta dejar agonizante a quien hablara mal de la niña recién llegada.»",
                   "autor": "Arguedas",
                   "referencia_obra": ", Diamantes (Cuentos, p. 223)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con para, que señala la finalidad. Siendo el término una prop. infinitiva. X",
+              "definicion": "Con para, que señala la finalidad. Siendo el término una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Esto no aplacaba la iracundia de las Garcías, que a veces golpeaban a la desventurada para sancionarle tan graves desaciertos.»",
                   "autor": "Osorio Lizarazo",
-                  "referencia_obra": ", El camino en la sombra, p. 225. X"
+                  "referencia_obra": ", El camino en la sombra, p. 225."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Había habido necesidad de golpear a los presos para conseguir llevarlos al rancho de la autoridad.»",
                   "autor": "",
                   "referencia_obra": "Yáñez, Al filo del agua, p. 435."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Con sin, para expresar el modo. X",
+              "definicion": "Con sin, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ignacio Alcides es, clava su estoque, | Si monstruosa el francés hidra lernea; | Al uno y otro que fulmina toque, | Una siega cerviz, otra golpea: | Sin miedo.»",
                   "autor": "Domínguez Camargo",
-                  "referencia_obra": ", Obr. (ICC. 15. 87). X"
+                  "referencia_obra": ", Obr. (ICC. 15. 87)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Dicha manera de escribir, recargada, difusa y manigual, es comparable al florete embotado, que golpea sin llegar al corazón.»",
                   "autor": "Ramón y Cajal",
                   "referencia_obra": ", Charlas de café, 9 (p. 182)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las Órdenes militares tienen insoportables privilegios y ejercen abominables dictaduras. --- Donde golpean, matan. Los estudiantes las miran como ahora nosotros, los que condenamos a los militares desde el campo de la inteligencia.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Estud. mesa redonda, 1 (p. 15). X"
+              "referencia_obra": ", Estud. mesa redonda, 1 (p. 15)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Después Känakuk, un nuevo profeta: | Si un blanco golpea, no quejarse. | Es malo tener hechicerías y amuletos.»",
               "autor": "Cardenal",
               "referencia_obra": ", Homenaje (Poes. p. 219),"
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar: — el instrumento. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No lanzaba puñetazos; golpeaba con el filo de su mano derecha como si fuera un trozo de madera pesada.»",
-                  "autor": "Arguedas",
-                  "referencia_obra": ", Diamantes (Cuentos, p. 223). — El modo. Además con sobre. X"
+                  "id_limpio": "—",
+                  "definicion": "el instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«No lanzaba puñetazos; golpeaba con el filo de su mano derecha como si fuera un trozo de madera pesada.»",
+                      "autor": "Arguedas",
+                      "referencia_obra": ", Diamantes (Cuentos, p. 223)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Golpeaba [el hombre] con ansia sobre los matojos con el machete: “Se amellará con este trabajito, más te vale dejar en paz las cosas”.»",
-                  "autor": "Rulfo",
-                  "referencia_obra": ", El llano en llamas, p. 35."
+                  "id_limpio": "—",
+                  "definicion": "El modo. Además con sobre.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Golpeaba [el hombre] con ansia sobre los matojos con el machete: “Se amellará con este trabajito, más te vale dejar en paz las cosas”.»",
+                      "autor": "Rulfo",
+                      "referencia_obra": ", El llano en llamas, p. 35."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para señalar la parte maltratada. X",
+              "definicion": "Con en, para señalar la parte maltratada.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Me enfadé, la reñí, golpeé en su cabeza dura como se golpea en un yunque.»",
                   "autor": "P. Galdós",
                   "referencia_obra": ", Familia de L. Roch, 1. 9 (1. 85)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con hasta, que indica el límite de la acción.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Este golpe que dio en la estatua de piedra, y este herir Cristo y desmenuzar los reinos del mundo, no es golpe que se dio en un breve tiempo y se pasó luego, o golpe que hizo todo su efecto junto en un mismo instante; sino golpe que se comenzó a dar cuando se comenzó a predicar el Evangelio de Cristo, y se dio después en el discurso de su predicación, y se va dando agora, y que durará golpeando siempre y venciendo hasta que todo lo que ha sido adverso, y en lo venidero lo fuere, quede deshecho y vencido.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 2, Rey (3. 196)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con por, para indicar el instrumento o medio. X",
+              "definicion": "Con por, para indicar el instrumento o medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Allí, debajo de un caballo, pisado por un caballo, un hombre ensangrentado lo ve con una mirada pavorosa, con una mirada inhumana, que por todos los gritos muertos en su boca muda, grita, que golpea y hiere por sus manos inútiles.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 12 (p. 163)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Le parescía a él que junta toda la fuerça y fortaleza de cuantos cavalleros con él se avían combatido no era tanta como la que hallava en aquel cavallero solo. Y assí, en el golpear como en los pensamientos estavan iguales.»",
                   "autor": "Ortúñez de Calahorra",
-                  "referencia_obra": ", Espejo (Cl. C. 195. 193). X"
+                  "referencia_obra": ", Espejo (Cl. C. 195. 193)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Como las armas eran tan buenas que ningún filo de espada bastava para las cortar, todo el peso de la batalla era puesto en sus grandes fuerças, y en la pesadumbre de su golpear.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. (Cl. C. 196. 131)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refl. Con contra. X",
+          "definicion": "Refl. Con contra.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Por qué estás ahí en el suelo, qué te hice yo, por qué te golpeaste contra la puerta?»",
               "autor": "Cortázar",
               "referencia_obra": ", Gatito negro (Octaedro, p. 142)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Estalló en el aposento un zumbido de furor. Una avispa. Una avispa golpeándose contra la mañana enrejada por la celosía de alambres.»",
                   "autor": "Miró",
                   "referencia_obra": ", Años y leguas, p. 41."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Recípr. X",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Aquí hay trabajadores de muchos lugares, --- algunos, — principalmente los colombianos — cuando riñen y se golpean o padecen “el mal del árbol”, se vengan de la empresa que los corrige.»",
               "autor": "Rivera",
-              "referencia_obra": ", La vorágine, 2 (p. 159). X"
+              "referencia_obra": ", La vorágine, 2 (p. 159)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Algunos de los juegos eran brutales; los elegían los grandes y los fuertes para golpearse, o para ensangrentar y hacer llorar a los pequeños y a los débiles.»",
               "autor": "Arguedas",
               "referencia_obra": ", Ríos prof. 5 (p. 41)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el modo. X",
+              "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los dos se comiençan a herir y golpear con grande furia y ligereza, buscando siempre por donde más daño se podían hazer.»",
                   "autor": "Ortúñez de Calahorra",
-                  "referencia_obra": ", Espejo (Cl. C. 196. 49). X"
+                  "referencia_obra": ", Espejo (Cl. C. 196. 49)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El furioso Bradamán y el buen Cavallero del Febo, aviéndose tres horas combatido sin un punto descansar, andavan en su batalla, golpeándose con tanta furia que parescía entonces començar.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. (Cl. C. 196. 285)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con entre sí, para reforzar el sentido de reciprocidad. X",
+              "definicion": "Con entre sí, para reforzar el sentido de reciprocidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Olvidan que querían interrumpir la pelea, empiezan a golpearse entre sí y la arena vuela pulverizada y en la orilla del mar las patadas se escuchan como graznidos.»",
                   "autor": "",
                   "referencia_obra": "Puentes, Obr. complet. (1. 867)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Pas. refl. Con hasta, que señala el límite de la acción. X",
+          "definicion": "Pas. refl. Con hasta, que señala el límite de la acción.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No ir junto a los blancos a la escuela, | O bien quedarse suavemente en casa, | o bien (nunca se sabe) | Dejarse golpear hasta el martirio.»",
               "autor": "Guillén",
               "referencia_obra": ", La paloma (Poem. p. 104)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En seguida se puso a andar de un lado para otro, risueña, acomodándolo al compañero golpeado, para que pudieran llevarlo.»",
               "autor": "Güiraldes",
-              "referencia_obra": ", Don Segundo Sombra, 18 (p. 120). X"
+              "referencia_obra": ", Don Segundo Sombra, 18 (p. 120)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Al día siguiente las señoras, | Arreglando las crinolinas, | Recordaban el cuerpo enloquecido [del hereje], | Golpeado y devorado por el fuego, | Mientras el alguacil exa- minaba | La minúscula mancha del quemado.»",
               "autor": "Neruda",
-              "referencia_obra": ", Poes. p. 136. X"
+              "referencia_obra": ", Poes. p. 136."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuando sonó el timbre para ir a clase fueron saliendo a la fila con aire de reses golpeadas.»",
               "autor": "Zunzunegui",
-              "referencia_obra": ", Páginas preferidas, p. 42. — met. X"
-            },
+              "referencia_obra": ", Páginas preferidas, p. 42."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«¿Para qué sirven los versos si no es para esa noche | En que un puñal amargo nos averigua, para ese día, | Para ese crepúsculo, para ese rincón roto | Donde el golpeado corazón del hombre se dispone a morir?»",
-              "autor": "Neruda",
-              "referencia_obra": ", Poes. p, 68."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«¿Para qué sirven los versos si no es para esa noche | En que un puñal amargo nos averigua, para ese día, | Para ese crepúsculo, para ese rincón roto | Donde el golpeado corazón del hombre se dispone a morir?»",
+                  "autor": "Neruda",
+                  "referencia_obra": ", Poes. p, 68."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En grado superlativo. X",
+              "definicion": "En grado superlativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La mujer se apoyó en el hombro fatigado de Bismarck, Piedras y altibajos menudeaban en la ruta. Melba tosía, sintiendo el pecho muy golpeado.»",
                   "autor": "Alegría",
                   "referencia_obra": ", El mundo es ancho y ajeno, 9 (p. 400)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de, para indicar la parte maltratada. X",
+              "definicion": "Con de, para indicar la parte maltratada.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando volví la mirada, la cabeza aspuda estaba ya encima. Apreté las espuelas. Inútil. El caballo se me caía, golpeado de atrás, y le di vuelta tan ligero como pude, para que el toro pasara olvidándonos.»",
                   "autor": "Güiraldes",
                   "referencia_obra": ", Don Segundo Sombra, 17 (p. 110)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en, para señalar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pensó rendir la mozuela | El alférez de mentira, | Soldado por cien mil partes, | Y rompido por los mismos. --- | Y la capa verde oscura, | Golpeada la capilla | En más inciertos reveses | Que mula, --- | Y los gregüescos de seda | Aforrados en telilla, | Mucho más acuchillados | Que mulatos en esgrima.»",
                   "autor": "Góng.",
                   "referencia_obra": "rom. 82 (R. 32. 5361)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ve a lo que diste lugar: a que este infeliz fuera el golpeado. ¡Pídele perdón!»",
                   "autor": "Benavente",
                   "referencia_obra": ", Intereses creados, 1. 1. 2 (p. 48)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
-          "definicion": "Con sujeto de cosa. X",
+          "definicion": "Con sujeto de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las cimbreantes varas de mimbre golpean las suaves encarnaduras, y hacen correr sobre el marfil palpitante rojas gotas de sangre.»",
               "autor": "Azorín",
-              "referencia_obra": ", La voluntad (Cl. Castal. 3. 188). — met. X"
-            },
+              "referencia_obra": ", La voluntad (Cl. Castal. 3. 188)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Con agrio ruido abriose la puerta | De hierro mohoso y, al cerrarse, grave | Golpeó el silencio de la tarde muerta.»",
-              "autor": "Machado",
-              "referencia_obra": ", Poes. complet. p. 22. X"
-            },
-            {
-              "texto_cita": "«Aquellas manos que me pegaban eran las manos materiales del mundo que golpeaban la Palabra Divina que yo había sostenido.»",
-              "autor": "",
-              "referencia_obra": "Uslar- Pietri, Lanzas coloradas, 3 (p. 37)."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Con agrio ruido abriose la puerta | De hierro mohoso y, al cerrarse, grave | Golpeó el silencio de la tarde muerta.»",
+                  "autor": "Machado",
+                  "referencia_obra": ", Poes. complet. p. 22."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Aquellas manos que me pegaban eran las manos materiales del mundo que golpeaban la Palabra Divina que yo había sostenido.»",
+                  "autor": "",
+                  "referencia_obra": "Uslar- Pietri, Lanzas coloradas, 3 (p. 37)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el medio. met. X",
+              "definicion": "Con la prep. con, para indicar el medio. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los recuerdos le atropellaban, golpeándolo obstinados con la helada sentencia de Wilde: \"La tragedia no consiste en ser viejo sino en haber sido joven\".»",
                   "autor": "Rueda Vargas",
-                  "referencia_obra": ", Lentus in umbra, p. 81. X"
+                  "referencia_obra": ", Lentus in umbra, p. 81."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Oh tiempo!, el corazón te siente | Pero no te percibe mi sentido. | Debajo de mis pies corres sin ruido, | Pero golpeas con furor mi frente.»",
                   "autor": "Maya",
                   "referencia_obra": ", Obra poétic. 5 (p. 280)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con sin. met. X",
+              "definicion": "Con sin. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los periódicos --- fueron la catapulta y el ariete que golpearon sin tregua al gobierno.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 2 (p. 84)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con sobre. met. X",
+              "definicion": "Con sobre. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El ministro de Hacienda le servia de ariete para golpear sobre los clericales de Castro Duro.»",
                   "autor": "Baroja",
                   "referencia_obra": ", César o nada (Las ciudades, p. 235)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Absol. Con la prep. con, para señalar el modo. met. X",
+              "definicion": "Absol. Con la prep. con, para señalar el modo. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ella lo daba todo por hecho. Pero pasó el tiempo, se produjo el despojo y la realidad golpeó con saña.»",
                   "autor": "Alegría",
                   "referencia_obra": ", El mundo es ancho y ajeno, 14 (p. 535)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Part. Con por, que señala el agente. X",
+              "definicion": "Part. Con por, que señala el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los cardos, golpeados por la rueda, acariciábanle el rostro, al pasar, con la lluvia diáfana de sus vilanos, más ligeros que el aire.»",
                   "autor": "Larreta",
-                  "referencia_obra": ", Zogoibi, p. 194. — met. X"
-                },
+                  "referencia_obra": ", Zogoibi, p. 194."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«De pronto escuchó un ruido sordo como el de un cuerpo que se desploma. Se incorporó golpeada por un mal presentimiento y se quedó escuchando el silencio.»",
-                  "autor": "Roa",
-                  "referencia_obra": "Bastos, Hijo de hombre, p. 75."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«De pronto escuchó un ruido sordo como el de un cuerpo que se desploma. Se incorporó golpeada por un mal presentimiento y se quedó escuchando el silencio.»",
+                      "autor": "Roa",
+                      "referencia_obra": "Bastos, Hijo de hombre, p. 75."
+                    }
+                  ]
                 }
               ]
             }
@@ -547,14 +732,17 @@
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
-          "definicion": "Sacudir. Con sin, para señalar el modo. X",
+          "definicion": "Sacudir. Con sin, para señalar el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Con seguridad el bataraz tomó la iniciativa, se aferró a una picada de plumas sanguinolentas, golpeó dos veces reciamente, sin largar. El giro cloqueó como una gallina cascoteada.»",
               "autor": "Güiraldes",
               "referencia_obra": ", Don Segundo Sombra, 13 (Archivos, 2. 94)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -562,322 +750,485 @@
     {
       "id": "b)",
       "definicion": "Pegar, percutir (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mi caballo retinto que yo montaba, golpeaba el empedrado cuando íbamos a salir ya; impaciente por lucir sus habilidades.»",
               "autor": "Isaacs",
-              "referencia_obra": ", María, p. 101. X"
+              "referencia_obra": ", María, p. 101."
             },
             {
+              "marca": "X",
               "texto_cita": "«Para los hombres modernos, vivir, por muy ruda que sea la obra de vivir, es un deber: se es martillo y hay que golpear al yunque. Morir ha sido el deber en esos países de América del Sur.»",
               "autor": "Martí",
-              "referencia_obra": ", Sus mejores páginas, p. 49. X"
+              "referencia_obra": ", Sus mejores páginas, p. 49."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yuste, mientras golpeaba su cajita de plata, ha pensado en las amarguras que afligen a España.»",
               "autor": "Azorín",
-              "referencia_obra": ", La voluntad (Cl. Castal. 3. 85). X"
+              "referencia_obra": ", La voluntad (Cl. Castal. 3. 85)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Nadie diría que vuestras manos gráciles golpeasen tan duramente el cincel con que estamos esculpiendo la figura noble y recia de la generación actual.»",
               "autor": "Valencia",
-              "referencia_obra": ", Discursos, 3 (p. 301). X"
+              "referencia_obra": ", Discursos, 3 (p. 301)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Doroteo estiró el brazo y el Sapo saltó violentamente hacia atrás golpeando a Condorumi, quien perdió el control y le dio un empellón que lo hizo caer de bruces.»",
               "autor": "Alegría",
-              "referencia_obra": ", El mundo es ancho y ajeno, 9 (p. 413). X"
+              "referencia_obra": ", El mundo es ancho y ajeno, 9 (p. 413)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuando se calló el viejo, del otro lado de un pedazo de tapia, empezaron a oírse los arrullos, las risitas y los sofocados quejidos de una joven pareja cuyas rodillas golpeaban sordamente el trozo de pared.»",
               "autor": "Roa",
               "referencia_obra": "Bastos, Hijo de hombre, p. 180."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a para expresar: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "Con a para expresar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Parecíale que la muda barraca se burlaba de él, y abandonando su escondrijo se arrojó contra la puerta, golpeándola a culatazos.»",
-                  "autor": "",
-                  "referencia_obra": "Blasco Ibáñez, La barraca, 7 (p. 210). — La frecuencia. Además con la prep. con, para señalar el instrumento. X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Parecíale que la muda barraca se burlaba de él, y abandonando su escondrijo se arrojó contra la puerta, golpeándola a culatazos.»",
+                      "autor": "",
+                      "referencia_obra": "Blasco Ibáñez, La barraca, 7 (p. 210)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El Prior del convento, viejo muy acabado, que se inclinaba al andar, y golpeaba el suelo a cada paso con su muletilla de palo.»",
-                  "autor": "Coloma",
-                  "referencia_obra": ", Jeromín, 1. 2 (p. 21)."
+                  "id_limpio": "—",
+                  "definicion": "La frecuencia. Además con la prep. con, para señalar el instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El Prior del convento, viejo muy acabado, que se inclinaba al andar, y golpeaba el suelo a cada paso con su muletilla de palo.»",
+                      "autor": "Coloma",
+                      "referencia_obra": ", Jeromín, 1. 2 (p. 21)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para indicar: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Se acercó Manuel al tronco, armado de dos palos, y después de probar la cuerda tensa a lo largo de la hendidura, comenzó a golpearla, primero con suavidad, luego con furia.»",
-                  "autor": "C. Uribe",
-                  "referencia_obra": ", Mancha de aceite, p. 23. X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Se acercó Manuel al tronco, armado de dos palos, y después de probar la cuerda tensa a lo largo de la hendidura, comenzó a golpearla, primero con suavidad, luego con furia.»",
+                      "autor": "C. Uribe",
+                      "referencia_obra": ", Mancha de aceite, p. 23."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hasta que de pronto comenzó a gritar, o más bien a aullar, mientras golpeaba la pared con todas sus fuerzas.»",
+                      "autor": "Sábato",
+                      "referencia_obra": ", Abaddón, p. 456."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Hasta que de pronto comenzó a gritar, o más bien a aullar, mientras golpeaba la pared con todas sus fuerzas.»",
-                  "autor": "Sábato",
-                  "referencia_obra": ", Abaddón, p. 456. — El medio o instrumento. X"
+                  "id_limpio": "—",
+                  "definicion": "El medio o instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Seguía [el judío] impasible golpeando con el martillo de hierro el yunque donde aderezaba las mil baratijas mohosas y al parecer, sin aplicación alguna, de que se componía su tráfico.»",
+                      "autor": "Bécquer",
+                      "referencia_obra": ", Ley. Rosa de pasión, 1 (p. 99)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Aixa golpeó entonces las losas con los pies, haciendo repiquetear el oro y el marfil que recargaban sus tobillos.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 93)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El gobernador golpeaba el suelo con el bastón. Aquella nerviosidad, en él, hombre flemático, era señal de graves preocupaciones.»",
+                      "autor": "Wast",
+                      "referencia_obra": ", La casa, 1. 1 (p. 93)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La vida, este monstruo de la vida | Devorador y tenso, | Golpeando con sus alas las rodillas, | Amor, en que te aduermo.»",
+                      "autor": "Ibarbourou",
+                      "referencia_obra": ", Antol. poética, p. 82."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El abogado defensor perora, | Golpeando el pupitre con la mano.»",
+                      "autor": "Machado",
+                      "referencia_obra": ", Poes. complet. p. 102."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Sorprendido por la ira de fray Pedro, que golpea el suelo con su cayado, me encojo de hombros y miro a otra parte.»",
+                      "autor": "Carpentier",
+                      "referencia_obra": ", Los pasos perdidos, p. 237."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Seguía [el judío] impasible golpeando con el martillo de hierro el yunque donde aderezaba las mil baratijas mohosas y al parecer, sin aplicación alguna, de que se componía su tráfico.»",
-                  "autor": "Bécquer",
-                  "referencia_obra": ", Ley. Rosa de pasión, 1 (p. 99). X"
+                  "id_limpio": "—",
+                  "definicion": "Además con de, para señalar la causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Vino la tormenta y me la arrebató. De rabia golpeé la tierra con mi frente, maldije la manzana y la tormenta, y me maldije a mí mismo.»",
+                      "autor": "Ferrán",
+                      "referencia_obra": ", Obr. complet. (Cl. C. 164. 137)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Aixa golpeó entonces las losas con los pies, haciendo repiquetear el oro y el marfil que recargaban sus tobillos.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 93). X"
+                  "id_limpio": "—",
+                  "definicion": "Además con en, que indica el lugar u objeto golpeado.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Algunas criadas se sonrieron, y el niño, mirándolas en el rostro, exclamó nuevamente, golpeando con el pie en el solado.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro 1 (p. 15)"
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡No! ¡No! — gritó bruscamente, golpeando con el tacón en el suelo.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 1 (p. 68)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ahora, el hechicero se encara, vocifera, golpea con los talones en el suelo.»",
+                      "autor": "Carpentier",
+                      "referencia_obra": ", Los pasos perdidos, p. 198."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«(Febril, desprende su mano y golpea con el garrote en el suelo).»",
+                      "autor": "Buero Vallejo",
+                      "referencia_obra": ", Concierto (Cl. Castal. 35. 91)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El gobernador golpeaba el suelo con el bastón. Aquella nerviosidad, en él, hombre flemático, era señal de graves preocupaciones.»",
-                  "autor": "Wast",
-                  "referencia_obra": ", La casa, 1. 1 (p. 93). X"
+                  "id_limpio": "—",
+                  "definicion": "En el siguiente texto, con en, se señala: el objeto y la finalidad de la acción.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En el piso de abajo empezaron a golpear con el mango del escobón en el techo en señal de protesta. Pero Lucia seguía dándole al hacha.»",
+                      "autor": "Zunzunegui",
+                      "referencia_obra": ", Págs. pref. p. 223."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«La vida, este monstruo de la vida | Devorador y tenso, | Golpeando con sus alas las rodillas, | Amor, en que te aduermo.»",
-                  "autor": "Ibarbourou",
-                  "referencia_obra": ", Antol. poética, p. 82. X"
+                  "id_limpio": "—",
+                  "definicion": "Además con sobre, para señalar el objeto golpeado.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Yo he de mostrar — agregó, levantando el rostro hacia la lumbre y golpeando con el puño sobre la mesa — que aún quedan en la nobleza castellana ánimos capaces de mostrar la vieja valentía.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 144)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El abogado defensor perora, | Golpeando el pupitre con la mano.»",
-                  "autor": "Machado",
-                  "referencia_obra": ", Poes. complet. p. 102. X"
-                },
-                {
-                  "texto_cita": "«Sorprendido por la ira de fray Pedro, que golpea el suelo con su cayado, me encojo de hombros y miro a otra parte.»",
-                  "autor": "Carpentier",
-                  "referencia_obra": ", Los pasos perdidos, p. 237. — Además con de, para señalar la causa. X"
-                },
-                {
-                  "texto_cita": "«Vino la tormenta y me la arrebató. De rabia golpeé la tierra con mi frente, maldije la manzana y la tormenta, y me maldije a mí mismo.»",
-                  "autor": "Ferrán",
-                  "referencia_obra": ", Obr. complet. (Cl. C. 164. 137). — Además con en, que indica el lugar u objeto golpeado. X"
-                },
-                {
-                  "texto_cita": "«Algunas criadas se sonrieron, y el niño, mirándolas en el rostro, exclamó nuevamente, golpeando con el pie en el solado.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro 1 (p. 15) X"
-                },
-                {
-                  "texto_cita": "«¡No! ¡No! — gritó bruscamente, golpeando con el tacón en el suelo.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 1 (p. 68). X"
-                },
-                {
-                  "texto_cita": "«Ahora, el hechicero se encara, vocifera, golpea con los talones en el suelo.»",
-                  "autor": "Carpentier",
-                  "referencia_obra": ", Los pasos perdidos, p. 198. X"
-                },
-                {
-                  "texto_cita": "«(Febril, desprende su mano y golpea con el garrote en el suelo).»",
-                  "autor": "Buero Vallejo",
-                  "referencia_obra": ", Concierto (Cl. Castal. 35. 91). — En el siguiente texto, con en, se señala: el objeto y la finalidad de la acción. X"
-                },
-                {
-                  "texto_cita": "«En el piso de abajo empezaron a golpear con el mango del escobón en el techo en señal de protesta. Pero Lucia seguía dándole al hacha.»",
-                  "autor": "Zunzunegui",
-                  "referencia_obra": ", Págs. pref. p. 223. — Además con sobre, para señalar el objeto golpeado. X"
-                },
-                {
-                  "texto_cita": "«Yo he de mostrar — agregó, levantando el rostro hacia la lumbre y golpeando con el puño sobre la mesa — que aún quedan en la nobleza castellana ánimos capaces de mostrar la vieja valentía.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 144). — La causa. Además con en, para señalar el lugar. X"
-                },
-                {
-                  "texto_cita": "«Vio estar el cuerpo sangrando | Con la basca de la muerte | En el suelo golpeando; | Y vista cosa tan fiera, | Retiróse para afuera.»",
-                  "autor": "Castillejo",
-                  "referencia_obra": ", Obr. de amores (Cl. C. 79. 148)."
+                  "id_limpio": "—",
+                  "definicion": "La causa. Además con en, para señalar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Vio estar el cuerpo sangrando | Con la basca de la muerte | En el suelo golpeando; | Y vista cosa tan fiera, | Retiróse para afuera.»",
+                      "autor": "Castillejo",
+                      "referencia_obra": ", Obr. de amores (Cl. C. 79. 148)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con contra. X",
+              "definicion": "Con contra.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El patrón abrió la caja y golpeó suavemente contra el mostrador el billete verde.»",
                   "autor": "Onetti",
                   "referencia_obra": ", El astillero, p. 78."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, para indicar la causa o motivo. X",
+              "definicion": "Con en, para indicar la causa o motivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando respiraba, en medio de su desesperación y rabia, empezaba a golpear cuanto hallaba en su camino.»",
                   "autor": "H. Sánchez",
                   "referencia_obra": ", Los desheredados, p. 34."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con dat. Con la prep. con, para señalar el medio o instrumento. X",
+          "definicion": "Con dat. Con la prep. con, para señalar el medio o instrumento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«— ¿Pero quién es? (Le golpea con los nudillos la cabeza).»",
               "autor": "Arniches",
               "referencia_obra": ", Es mi hombre, 1 (p. 128)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el modo, y para, la finalidad. X",
+              "definicion": "Con la prep. con, para indicar el modo, y para, la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y, para reanimarla, le golpeaba la mano con urgente torpeza.»",
                   "autor": "Mallea",
                   "referencia_obra": ", La rosa, p. 173."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Con dat. refl. Además con la prep. con, para indicar el medio o instrumento. X",
+          "definicion": "Con dat. refl. Además con la prep. con, para indicar el medio o instrumento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El señor Agüero miraba el fuego y se golpeaba la bota con el bastoncito que tenía en la mano.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 3 (p. 253). X"
+              "referencia_obra": ", Amalia, 3 (p. 253)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Golpeándose luego las botas con el látigo que tenía en la mano: ---.»",
               "autor": "Isaacs",
-              "referencia_obra": ", María, p. 105. X"
+              "referencia_obra": ", María, p. 105."
             },
             {
+              "marca": "X",
               "texto_cita": "«Demetrio clavó sus ojos de aguilucho en Luis Cervantes. Se golpeó los dientes con las uñas de dos dedos y dijo: ---.»",
               "autor": "Azuela",
-              "referencia_obra": ", Los de abajo, p. 71. X"
+              "referencia_obra": ", Los de abajo, p. 71."
             },
             {
+              "marca": "X",
               "texto_cita": "«(Contrariado, Mario se golpea con el puño la palma de la mano, se levanta y pasea).»",
               "autor": "Buero Vallejo",
               "referencia_obra": ", El tragaluz (Cl. Castal. 35. 256)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Donde reconocemos el mayor mérito de la composición es en la disposición y contraste singulares del acto cuarto y del final del drama: acaso por esa misma razón no ha sido lo más aplaudido: el terror hace enmudecer; las manos no pueden reunirse y golpear cuando han de acudir a los ojos.»",
               "autor": "Larra",
-              "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 149). X"
+              "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 149)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La puerta golpea pertinazmente. El viento impetuoso de marzo barre las calles.»",
               "autor": "Azorín",
-              "referencia_obra": ", La voluntad (Cl. Castal. 3. 76). X"
+              "referencia_obra": ", La voluntad (Cl. Castal. 3. 76)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se escuchaba el llanto de un niño enfermo en el vecindario, cantaba un gallo, golpeaba una puerta.»",
               "autor": "Carpentier",
               "referencia_obra": ", Los pasos perdidos, p. 57."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para indicar: — el lugar u objeto golpeado. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El hombre vestido de negro golpeaba desesperadamente en la piedra, acompañando cada golpe con una blasfemia.»",
-                  "autor": "Trueba",
-                  "referencia_obra": ", Breve antol. p. 92. X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar u objeto golpeado.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El hombre vestido de negro golpeaba desesperadamente en la piedra, acompañando cada golpe con una blasfemia.»",
+                      "autor": "Trueba",
+                      "referencia_obra": ", Breve antol. p. 92."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Yuste se detiene un momento y golpea en la cajita de plata.»",
+                      "autor": "Azorín",
+                      "referencia_obra": ", La voluntad (Cl. Castal. 3. 100)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La lluvia salta en las losas blancas y negras del patio, golpea en las hojas de las palmeras y de los plátanos.»",
+                      "autor": "Baroja",
+                      "referencia_obra": ", El mundo (Las ciudades, p. 425)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El orgullo nacional de Escocia queda herido. --- En los cafés de Edimburgo y Dundee se habla golpeando en las mesas.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Caribe, 2. 13 (p. 247)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Miranda, templando las riendas de su caballo blanco, que golpea menudito en las piedras redondas de la calle, mira a la muchedumbre.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 4. 23 (p. 379)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Esto ha sido... casual, ¿verdad? ¡Supongo que era en el suelo donde querías golpear!»",
+                      "autor": "Buero Vallejo",
+                      "referencia_obra": ", Concierto (Cl. Castal. 35. 106)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Aguas de luz, en trémulos arroyos, | Golpean en las rocas de lo eterno | Fecundizan mi ser.»",
+                      "autor": "Maya",
+                      "referencia_obra": ", Obra poét. 2 (p. 139)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Yuste se detiene un momento y golpea en la cajita de plata.»",
-                  "autor": "Azorín",
-                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 100). X"
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Al fin, un rayo de luz hirió mis ojos o la reminiscencia inconsciente del enfermero del Colegio vino a golpear en mi memoria.»",
+                      "autor": "Cané",
+                      "referencia_obra": ", Juvenilia, 21 (p. 86)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«La lluvia salta en las losas blancas y negras del patio, golpea en las hojas de las palmeras y de los plátanos.»",
-                  "autor": "Baroja",
-                  "referencia_obra": ", El mundo (Las ciudades, p. 425). X"
-                },
-                {
-                  "texto_cita": "«El orgullo nacional de Escocia queda herido. --- En los cafés de Edimburgo y Dundee se habla golpeando en las mesas.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 2. 13 (p. 247). X"
-                },
-                {
-                  "texto_cita": "«Miranda, templando las riendas de su caballo blanco, que golpea menudito en las piedras redondas de la calle, mira a la muchedumbre.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 4. 23 (p. 379). X"
-                },
-                {
-                  "texto_cita": "«Esto ha sido... casual, ¿verdad? ¡Supongo que era en el suelo donde querías golpear!»",
-                  "autor": "Buero Vallejo",
-                  "referencia_obra": ", Concierto (Cl. Castal. 35. 106). X"
-                },
-                {
-                  "texto_cita": "«Aguas de luz, en trémulos arroyos, | Golpean en las rocas de lo eterno | Fecundizan mi ser.»",
-                  "autor": "Maya",
-                  "referencia_obra": ", Obra poét. 2 (p. 139). — met. X"
-                },
-                {
-                  "texto_cita": "«Al fin, un rayo de luz hirió mis ojos o la reminiscencia inconsciente del enfermero del Colegio vino a golpear en mi memoria.»",
-                  "autor": "Cané",
-                  "referencia_obra": ", Juvenilia, 21 (p. 86). — El modo. X"
-                },
-                {
-                  "texto_cita": "«Fuiste un niño confuso. | Golpeaste y protestaste en vano. | Saliste en vano a la calle.»",
-                  "autor": "Pellegrini",
-                  "referencia_obra": ", Antol. p. 121)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Fuiste un niño confuso. | Golpeaste y protestaste en vano. | Saliste en vano a la calle.»",
+                      "autor": "Pellegrini",
+                      "referencia_obra": ", Antol. p. 121)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«(Se moja el dedo índice y sobre la palma de la mano golpea como pasando cartas).»",
                   "autor": "Arniches",
-                  "referencia_obra": ", Es mi hombre, 1 (p. 135). X"
+                  "referencia_obra": ", Es mi hombre, 1 (p. 135)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Matar la limpia superficie sobre la cual golpeamos, | Bruñido aliento que empañan los besos, no los pájaros.»",
                   "autor": "Aleixandre",
-                  "referencia_obra": ", La destrucción (Cl. Castal. 43. 188). — met. X"
-                },
+                  "referencia_obra": ", La destrucción (Cl. Castal. 43. 188)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Las luces de colores golpean sobre los párpados | Como estrellas hostiles | Sobre una tierra ciega.»",
-                  "autor": "Valencia",
-                  "referencia_obra": ", Obra poétic. p. 96."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Las luces de colores golpean sobre los párpados | Como estrellas hostiles | Sobre una tierra ciega.»",
+                      "autor": "Valencia",
+                      "referencia_obra": ", Obra poétic. p. 96."
+                    }
+                  ]
                 }
               ]
             }
@@ -886,382 +1237,520 @@
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Sustantivado. Con de, para indicar el agente o instrumento. X",
+          "definicion": "Sustantivado. Con de, para indicar el agente o instrumento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pero cessando el golpear de las espadas y todo el ruido por media hora.»",
               "autor": "Lope",
               "referencia_obra": ", El peregrino en su patria, 5 (p. 416)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sacristanes ignorantes suelen cubrir viejas imágenes clásicas dentro de algún marco antiguo, cuyas nobles líneas desafiaron invencibles los cambios de la moda y el duro golpear de los años.»",
                   "autor": "Rueda Vargas",
                   "referencia_obra": ", Lentus in umbra, p. 185."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En el portal, los hijos de los molineros se revuelcan desnudos, golpeándose las calabazas apezonadas de sus barrigas.»",
               "autor": "Miró",
-              "referencia_obra": ", Años y leguas, p. 156. X"
+              "referencia_obra": ", Años y leguas, p. 156."
             },
             {
+              "marca": "X",
               "texto_cita": "«Me ufano de recorrer caminos en zig-zag entre los muebles y sin golpearme llegar hasta las puertas --- donde están los libros.»",
               "autor": "J. Rojas",
               "referencia_obra": ", Cárcel de amor, p. 14."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para indicar el motivo. X",
+              "definicion": "Con de, para indicar el motivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Me salió una raposa, Se golpeaba de reconcomio. Los dos nos embestimos. Yo con el legón le arranqué una oreja; ella me mordió en el hombro.»",
                   "autor": "Miró",
                   "referencia_obra": ", Años y leguas, p. 60."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para indicar el tiempo. X",
+              "definicion": "Con en, para indicar el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Todo vibra por un ruiseñor; él solo. Arde su buche golpeándose y rompiéndose en la noche como dentro de un vaso pálido de oro.»",
                   "autor": "Miró",
                   "referencia_obra": ", Años y leguas, p. 71."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Veía, como en un cuadro de Breughel, el pueblo por la mañana comenzando sus trabajos de forja, las chispas que tapaban las caras de los artesanos, la resistencia del hierro trocada en una médula donde parecía que se golpeaba incesantemente la espalda del diablo.»",
               "autor": "Lezama Lima",
               "referencia_obra": ", Paradiso, 6 (p. 149)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
           "definicion": "Part. Con de, para indicar el agente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tiembla en torno la tierra y se estremece | De tantos pies batida y golpeada.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 21 (R. 17. 821)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ι )",
           "id_limpio": "— ι )",
-          "definicion": "Con sujeto de cosa. X",
+          "definicion": "Con sujeto de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Apoya entre mis senos | Tu frente taciturna. | Yo sentiré el latir de tus dos sienes | Palpitantes y tibias | Como si fueran dos martillos vivos | Que golpearan mi carne.»",
               "autor": "Ibarbourou",
-              "referencia_obra": ", Antol. poética, p. 45. X"
+              "referencia_obra": ", Antol. poética, p. 45."
             },
             {
+              "marca": "X",
               "texto_cita": "«En la faz trigueña y ancha, un poco obesa, tenía un gesto de atención cual si siempre estuviera examinando el sitio que debía golpear el martillo.»",
               "autor": "Alegría",
-              "referencia_obra": ", El mundo es ancho y ajeno, 7 (p. 282). X"
+              "referencia_obra": ", El mundo es ancho y ajeno, 7 (p. 282)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Me importa que esta lluvia caiga sobre otros, golpee desganada sus techos.»",
               "autor": "Onetti",
-              "referencia_obra": ", El astillero, p. 71. X"
+              "referencia_obra": ", El astillero, p. 71."
             },
             {
+              "marca": "X",
               "texto_cita": "«Las ventanas donde vuelve a golpear la lluvia.»",
               "autor": "",
-              "referencia_obra": "Id. ib. p. 81. — met. X"
-            },
+              "referencia_obra": "Id. ib. p. 81."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Cae el agua, | Como una espada de gotas, | Como un desgarrador río de vidrio, | Cae mordiendo, | Golpeando el eje de la simetría, pegando en las costuras | Del alma.»",
-              "autor": "Neruda",
-              "referencia_obra": ", Poes. p. 61. X"
-            },
-            {
-              "texto_cita": "«Los ecos de la música golpeaban las sienes: martillo de Dios sobre el corazón de las mujeres, compás de espera que apretaba los puños de los muchachos.»",
-              "autor": "Arciniegas",
-              "referencia_obra": ", Estud. mesa redonda, 13 (p. 199)."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Cae el agua, | Como una espada de gotas, | Como un desgarrador río de vidrio, | Cae mordiendo, | Golpeando el eje de la simetría, pegando en las costuras | Del alma.»",
+                  "autor": "Neruda",
+                  "referencia_obra": ", Poes. p. 61."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Los ecos de la música golpeaban las sienes: martillo de Dios sobre el corazón de las mujeres, compás de espera que apretaba los puños de los muchachos.»",
+                  "autor": "Arciniegas",
+                  "referencia_obra": ", Estud. mesa redonda, 13 (p. 199)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tal vez se le ocurrió despertar al sentir que el agua pesada le golpeaba las costillas.»",
                   "autor": "Rulfo",
-                  "referencia_obra": ", El llano en llamas, p. 30. X"
+                  "referencia_obra": ", El llano en llamas, p. 30."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Algunas gotas [de lluvia] le golpearon la mejilla.»",
                   "autor": "Onetti",
                   "referencia_obra": ", El astillero, p. 65."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para señalar: — el medio o instrumento. Además con en. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Espera, no te duermas, | Estate atento a lo que dice el viento | Y a lo que dice el agua que golpea | Con sus dedos menudos en los vidrios.»",
-                  "autor": "",
-                  "referencia_obra": "Barbourou, Antol. poética, p. 44. — El modo."
+                  "id_limpio": "—",
+                  "definicion": "el medio o instrumento. Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Espera, no te duermas, | Estate atento a lo que dice el viento | Y a lo que dice el agua que golpea | Con sus dedos menudos en los vidrios.»",
+                      "autor": "",
+                      "referencia_obra": "Barbourou, Antol. poética, p. 44."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Sigue el camino, dando grandes vueltas, por cerros incultos, piedras, mármoles desprendidos de la altura, arroyos que bajan golpeando con estruendo, hasta juntarse en cañadas profundas, rompiéndose entre las pizarras y peñascos.»",
-                  "autor": "Mor.",
-                  "referencia_obra": "Obr. suelt. (1. 508). X"
-                },
-                {
-                  "texto_cita": "«Así bramabas tú bajo de esos peñascos profundos, | Y con rudo furor sus costados golpeabas así.»",
-                  "autor": "Pombo",
-                  "referencia_obra": ", Antol. poética, p. 342."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Sigue el camino, dando grandes vueltas, por cerros incultos, piedras, mármoles desprendidos de la altura, arroyos que bajan golpeando con estruendo, hasta juntarse en cañadas profundas, rompiéndose entre las pizarras y peñascos.»",
+                      "autor": "Mor.",
+                      "referencia_obra": "Obr. suelt. (1. 508)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Así bramabas tú bajo de esos peñascos profundos, | Y con rudo furor sus costados golpeabas así.»",
+                      "autor": "Pombo",
+                      "referencia_obra": ", Antol. poética, p. 342."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de, para indicar: — el tiempo. X",
-              "ejemplos_citas": [
+              "definicion": "Con de, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Ya sus ojos rozan el borde de la ventana. ¡Aún más! Un infinito frío lo golpeó de pronto.»",
-                  "autor": "Uslar-Pietri",
-                  "referencia_obra": ", Lanzas coloradas, 13 (p. 171). — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ya sus ojos rozan el borde de la ventana. ¡Aún más! Un infinito frío lo golpeó de pronto.»",
+                      "autor": "Uslar-Pietri",
+                      "referencia_obra": ", Lanzas coloradas, 13 (p. 171)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Se hacía imposible entenderle la cara, porque la lluvia le golpeaba de frente.»",
-                  "autor": "Onetti",
-                  "referencia_obra": ", El astillero, p. 79."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Se hacía imposible entenderle la cara, porque la lluvia le golpeaba de frente.»",
+                      "autor": "Onetti",
+                      "referencia_obra": ", El astillero, p. 79."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con sin. X",
+              "definicion": "Con sin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mañana, me respondió en un eco el viento que sin cesar golpeaba el árbol, y un leve resplandor se comenzó a filtrar por las rendijas.»",
                   "autor": "Ángel",
                   "referencia_obra": ", Estaba la pájara pinta, p. 9."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Absol. X",
+              "definicion": "Absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los franceses pronuncian más blando, los españoles más fuerte. La lengua francesa (digámoslo así) se desliza, la española golpea.»",
                   "autor": "Feijóo",
-                  "referencia_obra": ", Teatro crít. (Cl. C. 48. 221). X"
+                  "referencia_obra": ", Teatro crít. (Cl. C. 48. 221)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Afuera y arriba el viento golpeaba, ajeno a los hombres escondidos en sus cubículos.»",
                   "autor": "Onetti",
-                  "referencia_obra": ", El astillero, p. 99. — Con en, para señalar el lugar. X"
+                  "referencia_obra": ", El astillero, p. 99."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con en, para señalar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La lluvia, muy suave, golpeaba en el techo y en la calle.»",
+                      "autor": "Onetti",
+                      "referencia_obra": ", El astillero, p. 25."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«La lluvia, muy suave, golpeaba en el techo y en la calle.»",
-                  "autor": "Onetti",
-                  "referencia_obra": ", El astillero, p. 25. — Además con otro complemento con en, para señalar el tiempo. X"
-                },
-                {
-                  "texto_cita": "«Ventanas locas, inquietas, misteriosas, que golpean en las noches de viento en un sobrado, en una trastera, en una cámara, en uno de esos cuartos en los que no se entra casi nunca.»",
-                  "autor": "Azorín",
-                  "referencia_obra": ", Trasuntos de Esp. p. 88."
+                  "id_limpio": "—",
+                  "definicion": "Además con otro complemento con en, para señalar el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ventanas locas, inquietas, misteriosas, que golpean en las noches de viento en un sobrado, en una trastera, en una cámara, en uno de esos cuartos en los que no se entra casi nunca.»",
+                      "autor": "Azorín",
+                      "referencia_obra": ", Trasuntos de Esp. p. 88."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Part. X",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Donde corre [el agua] más violenta, y golpeada, depone más materia pétrea, la cual es porosa, y semejante a la piedra pómez.»",
                   "autor": "Ponz",
                   "referencia_obra": ", Viaje de Esp. 7 (4. 217)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— κ )",
           "id_limpio": "— κ )",
-          "definicion": "Se usa con referencia al mar y al viento, Batir. X",
+          "definicion": "Se usa con referencia al mar y al viento, Batir.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El mar golpeará blandamente alrededor los escollos.»",
               "autor": "Arteaga",
-              "referencia_obra": ", Belleza ideal (Cl. C. 122. 127). X"
+              "referencia_obra": ", Belleza ideal (Cl. C. 122. 127)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Oh si la voz grandísima tuviera | Con que la inmensa mar su queja exprime | Al golpear un polo y otro polo | Y el eco tiembla en la región sublime | ---.»",
               "autor": "J. J. Ortiz",
-              "referencia_obra": ", Poes. p. 85. X"
+              "referencia_obra": ", Poes. p. 85."
             },
             {
+              "marca": "X",
               "texto_cita": "«Una racha helada golpeó los batientes de la puerta.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Cristo, 1 (p. 16)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, se introduce un compl. modal.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y deja que en la arena | Golpee a su placer la mar furiosa.»",
                   "autor": "León",
                   "referencia_obra": ", Poes. 2, égl. 9 (4. 433)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para indicar el medio o instrumento. X",
+              "definicion": "Con la prep. con, para indicar el medio o instrumento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Lo estuvimos oyendo entrar [al viento] y salir por los huecos socavones de las puertas; golpeando con sus manos de aire las cruces del viacrucis.»",
                   "autor": "Rulfo",
                   "referencia_obra": ", El llano en llamas, p. 99."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— λ )",
           "id_limpio": "— λ )",
-          "definicion": "Con referencia a una parte peculiar de la acción del lavado rústico de la ropa. Con contra. Además con hasta, para indicar el límite de la acción. X",
+          "definicion": "Con referencia a una parte peculiar de la acción del lavado rústico de la ropa. Con contra. Además con hasta, para indicar el límite de la acción.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ella siguió golpeando ropa contra las piedras hasta el regreso de José Miguel.»",
               "autor": "Mejía Vallejo",
               "referencia_obra": ", El día, pról. (p. 11)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En la arenosa | Ribera del claro río, | Golpeando sobre las piedras | Ropas de tosco tejido, | Una mujer de la raza | Esclava, medita en Cristo.»",
                   "autor": "Maya",
                   "referencia_obra": ", Obra poétic. 4 (p. 245)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— μ )",
           "id_limpio": "— μ )",
-          "definicion": "Se usa como deíctico para señalar con uno o varios golpes la parte del cuerpo o cosa de la cual se está hablando. Trans. Con la prep. con, para indicar el medio o instrumento. X",
+          "definicion": "Se usa como deíctico para señalar con uno o varios golpes la parte del cuerpo o cosa de la cual se está hablando. Trans. Con la prep. con, para indicar el medio o instrumento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No pudo contenerse. Se desgarró la blusa hasta desnudarse el pecho y, mientras se lo golpeaba con las recias manos, gritó ronco: — ¡Esta no es carne de esclavo, pobre mujer! Yo no soy un esclavo. Yo soy un hombre libre.»",
               "autor": "Uslar-Pietri",
-              "referencia_obra": ", Lanzas coloradas, 7 (p. 79). X"
+              "referencia_obra": ", Lanzas coloradas, 7 (p. 79)."
             },
             {
+              "marca": "X",
               "texto_cita": "«— ¿Me querés esperar aquí? — Aquí — respondió Gurí golpeando con la mano la cama, en cuyo borde habíase sentado.»",
               "autor": "Viana",
               "referencia_obra": ", Gurí, 6 (Un siglo, p. 358)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. refl. X",
+              "definicion": "Con dat. refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Que herede esto cuando yo me muera..., y que se llame Pedro Moscoso, como yo! Al decir esto, golpeábase el marqués su fornido tronco, su pecho varonil, cual si de él quisiese hacer brotar, fuerte y adulto ya, al codiciado heredero.»",
                   "autor": "Pardo Bazán",
-                  "referencia_obra": ", Pazos Ulloa, 7 (p. 74). X"
+                  "referencia_obra": ", Pazos Ulloa, 7 (p. 74)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«— Sí, Rosendo Maqui, no hay que alarmarse. Aquí, donde ves, en esta mollera — se golpeaba la calva incipiente —, hay mucho seso.»",
                   "autor": "Alegría",
-                  "referencia_obra": ", El mundo es ancho y ajeno, 3 (p. 109). X"
+                  "referencia_obra": ", El mundo es ancho y ajeno, 3 (p. 109)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«— ¿Por esto? — Gálvez volvió a reír, golpeándose el bolsillo donde había guardado el título —. No sale más. No le queda vida para pagar.»",
                   "autor": "Onetti",
                   "referencia_obra": ", El astillero, p. 63."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Cuando el golpe se da en la cabeza y con la mano generalmente abierta, Palmotearse, para indicar que el sujeto ha recordado algo o que ha dado con la solución de un problema. X",
+              "definicion": "Cuando el golpe se da en la cabeza y con la mano generalmente abierta, Palmotearse, para indicar que el sujeto ha recordado algo o que ha dado con la solución de un problema.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando el reloj alto --- marcó las cuatro y media, Larsen se golpeó la frente y puso los dedos sobre el mostrador.»",
                   "autor": "Onetti",
                   "referencia_obra": ", El astillero, p. 77."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ν )",
           "id_limpio": "— ν )",
-          "definicion": "Loc. Golpear en falso: marrar, errar, no dar una acción los frutos esperados. Con sin, para reforzar el sentido. X",
+          "definicion": "Loc. Golpear en falso: marrar, errar, no dar una acción los frutos esperados. Con sin, para reforzar el sentido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La policía, impotente a pesar de su continuo aumento de agentes, detectives, delatores, soplones, informadores, observadores secretos, golpeaba siempre en falso, sin dar jamás con los verdaderos autores de esto o de aquello.»",
               "autor": "Carpentier",
               "referencia_obra": ", El recurso, 5 (p. 274)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1269,298 +1758,51 @@
     {
       "id": "c)",
       "definicion": "Latir, pulsar. Aplicado al corazón, las arterias (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Martín se detuvo, mientras sentía cómo golpeaba su corazón.»",
               "autor": "Sábato",
               "referencia_obra": ", Sobre héroes y tumbas, p. 9."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No imaginaba un hombre, sino una cabeza de desenterrado. Todo lo pensaba pronunciándoselo, y le golpeaba hinchadamente el corazón.»",
                   "autor": "Miró",
-                  "referencia_obra": ", Años y leguas, p. 81. — Con en, para indicar el lugar. X"
-                },
-                {
-                  "texto_cita": "«Todavía su pulso corría rapidísimo, el corazón le golpeaba excitado en el pecho anginoso.»",
-                  "autor": "Mallea",
-                  "referencia_obra": ", La rosa, p. 158."
+                  "referencia_obra": ", Años y leguas, p. 81."
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "— β )",
-          "id_limpio": "— β )",
-          "definicion": "Sustantivado. X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«El cuerpo inmóvil, fija la mirada, | Parecieras tal vez de mármol frío | Si rio se oyese el golpear violento | Con que tu corazón responde al mío.»",
-              "autor": "Tam. y Baus",
-              "referencia_obra": ", Un drama nuevo, p. 233."
-            }
-          ],
-          "subsubacepciones": []
-        }
-      ]
-    },
-    {
-      "id": "d)",
-      "definicion": "Tañer, tocar, hacer sonar una campana o algún instrumento musical (trans.).",
-      "ejemplos_citas": [],
-      "subacepciones": [
-        {
-          "id_marcador_html": "— α )",
-          "id_limpio": "— α )",
-          "definicion": "X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«El autor entendió aquí por ilusión algún juego de manos, trampa o artificio oculto con que alguna o algunas personas, de concierto, hiciesen golpear la campana de modo que pareciese que la lengua por sí misma se movía.»",
-              "autor": "Feijóo",
-              "referencia_obra": ", Teatro crít. (Cl. C. 67. 56). X"
-            },
-            {
-              "texto_cita": "«A las once la refitolera golpea el argentino cimbalillo. Y las monjas --- entran en el refectorio.»",
-              "autor": "Azorín",
-              "referencia_obra": ", La voluntad (Cl. Castal. 3. 186). X"
-            },
-            {
-              "texto_cita": "«Insistiendo en un concepto vulgar, recordemos que el piano cerebral se destempla golpeando reiteradamente una misma tecla.»",
-              "autor": "Ramón y Cajal",
-              "referencia_obra": ", Charlas de café, 8 (p. 175)."
-            }
-          ],
-          "subsubacepciones": [
-            {
-              "id_marcador_html": "— α α )",
-              "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el modo. X",
-              "ejemplos_citas": [
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Nunca habían golpeado sus tambores con más ímpetu los encargados de ritmar el apisonamiento del maíz o el corte de las cañas.»",
-                  "autor": "Carpentier",
-                  "referencia_obra": ", El reino, 1. 6 (p. 24). X"
-                },
-                {
-                  "texto_cita": "«Una almohadilla que golpeo con acompañamiento musical.»",
-                  "autor": "Pellegrini",
-                  "referencia_obra": ", Antol. p. 289)."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— β β )",
-              "id_limpio": "— β β )",
-              "definicion": "Con en. met. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Los rollos de música que ella había echado a la basura con el pretexto de que se estaban pudriendo con la humedad, seguían girando y golpeando martinetes en su memoria.»",
-                  "autor": "García Márquez",
-                  "referencia_obra": ", Cien años de soledad, p. 254."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— γ γ )",
-              "id_limpio": "— γ γ )",
-              "definicion": "Con sin, para indicar el modo. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«¡Oh el desvelo de los vigilantes que golpean sin descanso | Sonoras latas de petróleo.»",
-                  "autor": "Pellegrini",
-                  "referencia_obra": ", Antol. p. 82). — Con gerunio para reforzar el modo. X"
-                },
-                {
-                  "texto_cita": "«Bajo el cielo inerme venciendo su distancia golpeas [el tambor] sin sonido.»",
-                  "autor": "Pellegrini",
-                  "referencia_obra": ", Antol. p. 261)."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "— β )",
-          "id_limpio": "— β )",
-          "definicion": "Absol. Con la prep. con, para señalar el medio o instrumento. Además con en. X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Manteniéndola, no muy firme en una mano, traía en la otra un junco con el que golpeaba acompasadamente en la copa. Después de cada toque, inclinando la graciosa cabeza, quedaba atento, mientras las ondas sonoras, --- se desprendían del herido cristal.»",
-              "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 26."
-            }
-          ],
-          "subsubacepciones": [
-            {
-              "id_marcador_html": "— α α )",
-              "id_limpio": "— α α )",
-              "definicion": "Con contra. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Yo era cual ese bronce que ha depurado el fuego; | Golpeando contra mi alma cada pasión, bien luego | Un sublime acorde resonaba fiel.»",
-                  "autor": "Pombo",
-                  "referencia_obra": ", Antol. poética, p. 347."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— β β )",
-              "id_limpio": "— β β )",
-              "definicion": "Con sobre. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«El pelo golpea sobre un tambor finísimo de algas sobre un tambor de ráfaga de viento.»",
-                  "autor": "Pellegrini",
-                  "referencia_obra": ", Antol. p. 261)."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "— γ )",
-          "id_limpio": "— γ )",
-          "definicion": "Intrans. Con sujeto de cosa. X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Campana de rosa, campana matinal que golpea y hace vibrar un corazón bermejo, un puño de sangre.»",
-              "autor": "Arciniegas",
-              "referencia_obra": ", Estud. mesa redonda, 11 (p. 158). X"
-            },
-            {
-              "texto_cita": "«El primer día de la primavera hizo que la ciudad se vistiera de sol y seda, se llenaran las calles de música, resucitaran las guitarras, golpearan las castañuelas.»",
-              "autor": "Arciniegas",
-              "referencia_obra": ", Estud. mesa redonda, 14 (p. 201)."
-            }
-          ],
-          "subsubacepciones": [
-            {
-              "id_marcador_html": "— α α )",
-              "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el modo. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Las campanas tañían con más intensidad, hasta que por fin golpearon con verdadero furor.»",
-                  "autor": "Sábato",
-                  "referencia_obra": ", Sobre héroes y tumbas, p. 497."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— β β )",
-              "id_limpio": "— β β )",
-              "definicion": "Con contra. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Las aves, ya sin alas, | Oían sobre su pecho los tibios corazones; | Golpeaban contra el cielo, llorando las campanas.»",
-                  "autor": "Valencia",
-                  "referencia_obra": ", Obr. poética, p. 55."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "— δ )",
-          "id_limpio": "— δ )",
-          "definicion": "Part. X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«El tambor atruena en el espacio. Son cuatro, son diez, son veinte tambores golpeados furiosamente. Aquel son estremece la carne y la sangre, enloquecida en el fondo de la carne.»",
-              "autor": "Uslar-Pietri",
-              "referencia_obra": ", Lanzas coloradas, 13 (p. 170). X"
-            },
-            {
-              "texto_cita": "«¿No se recuerda aquella burla de Platón donde compara los oradores a los vasos de bronce, que apenas golpeados dilatan largos sonidos hasta que alguien les pone un dedo encima?»",
-              "autor": "Ortega y Gasset",
-              "referencia_obra": ", Mocedades, p. 128."
-            }
-          ],
-          "subsubacepciones": [
-            {
-              "id_marcador_html": "— α α )",
-              "id_limpio": "— α α )",
-              "definicion": "Con por, para señalar el agente. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«La puerta estaba cerrada. Oían el opaco zumbido de la campana rota golpeada por la lluvia.»",
-                  "autor": "Roa",
-                  "referencia_obra": "Bastos, Hijo de hombre, p. 39."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— β β )",
-              "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para indicar el medio o instrumento. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Entre el tumulto se oía a ratos el sonido seco del tambor golpeado con los puños.»",
-                  "autor": "Uslar-Pietri",
-                  "referencia_obra": ", Lanzas coloradas, 7 (p. 84)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e)",
-      "definicion": "Sonar, hacer ruido una cosa (intrans.).",
-      "ejemplos_citas": [],
-      "subacepciones": [
-        {
-          "id_marcador_html": "— α )",
-          "id_limpio": "— α )",
-          "definicion": "X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Del reloj arrinconado, | Que en la penumbra clarea, | El tic-tac acompasado | Odiosamente golpea.»",
-              "autor": "Machado",
-              "referencia_obra": ", Poes. compl. p. 61. X"
-            },
-            {
-              "texto_cita": "«Clarea | El reloj arrinconado, | Y su tic-tac, olvidado | Por repetido, golpea.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. p. 144."
-            }
-          ],
-          "subsubacepciones": [
-            {
-              "id_marcador_html": "— α α )",
-              "id_limpio": "— α α )",
-              "definicion": "Con dat. Además con en, que señala el lugar. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Míster Jones se convenció de que había traspasado su límite de resistencia. Desde hacía rato le golpeaba en los oídos el latido de las carótidas.»",
-                  "autor": "Quiroga",
-                  "referencia_obra": ", Cuentos de amor, p. 82."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— β β )",
-              "id_limpio": "— β β )",
-              "definicion": "Con en. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Serio retrato en la pared clarea | Todavía. Nosotros divagamos. | En la tristeza del hogar golpea | El tictac del reloj.»",
-                  "autor": "Machado",
-                  "referencia_obra": ", Poes. compl. p. 144."
+                  "id_limpio": "—",
+                  "definicion": "Con en, para indicar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Todavía su pulso corría rapidísimo, el corazón le golpeaba excitado en el pecho anginoso.»",
+                      "autor": "Mallea",
+                      "referencia_obra": ", La rosa, p. 158."
+                    }
+                  ]
                 }
               ]
             }
@@ -1570,214 +1812,116 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
-              "texto_cita": "«Bien notas --- el temeroso ruido de aquella agua, en cuya busca venimos, que parece que se despeña y derrumba desde los altos montes de la Luna, y aquel incesable golpear que nos hiere y lastima los oídos.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 20 (R. 1. 2961)."
+              "marca": "X",
+              "texto_cita": "«El cuerpo inmóvil, fija la mirada, | Parecieras tal vez de mármol frío | Si rio se oyese el golpear violento | Con que tu corazón responde al mío.»",
+              "autor": "Tam. y Baus",
+              "referencia_obra": ", Un drama nuevo, p. 233."
             }
           ],
-          "subsubacepciones": [
-            {
-              "id_marcador_html": "— α α )",
-              "id_limpio": "— α α )",
-              "definicion": "Con de, para indicar el agente o instrumento. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«¿Oyes? Allá afuera está lloviendo. ¿No sientes el golpear de la lluvia?»",
-                  "autor": "Rulfo",
-                  "referencia_obra": ", Pedro Páramo, p. 212. — Además con en, para señalar el lugar. X"
-                },
-                {
-                  "texto_cita": "«Fuera del golpear de las aguas en los contornos de aquel charco, no se oía sino el quejumbroso arrullo de la pechiblanca.»",
-                  "autor": "Díaz Castro",
-                  "referencia_obra": ", Manuela, 6 (p. 51). X"
-                },
-                {
-                  "texto_cita": "«La muchacha oyó el golpear amortiguado y redondo de los cascos del caballo en el patio.»",
-                  "autor": "Cepeda",
-                  "referencia_obra": ", Casa grande, p. 73. — Además con contra. X"
-                },
-                {
-                  "texto_cita": "«De cerca oí el grito ahogado de la bestia, el sonar de las caronas, el golpear descompasado de las patas contra el suelo, en cuyo apoyo la yegua buscaba desesperadamente el contragolpe brusco.»",
-                  "autor": "Güiraldes",
-                  "referencia_obra": ", Don Segundo Sombra, 4 (p. 32). — Además con sobre. X"
-                },
-                {
-                  "texto_cita": "«Oía, oía sus últimas palabras en una tormenta de gritos, silbidos y golpear de objetos duros sobre los pupitres.»",
-                  "autor": "Asturias",
-                  "referencia_obra": ", Week-end, 7 (p. 142)."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— β β )",
-              "id_limpio": "— β β )",
-              "definicion": "Con sobre. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«A esta olmeda, --- llega en el silencio de la mañana, en la paz azul del mediodía, el cacareo metálico, largo, de un gallo, el golpear sobre el yunque de una herrería.»",
-                  "autor": "Azorín",
-                  "referencia_obra": ", Castilla, p. 78."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "— γ )",
-          "id_limpio": "— γ )",
-          "definicion": "Trans. Hacer resonar. X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«Cuando mañana es la partida, ya no quieren ver ni hablar; se contentan con ser oídos, con ser sentidos, y golpean los pasos y silban tonadas en las aceras resonantes.»",
-              "autor": "",
-              "referencia_obra": "Yáñez, Al filo del agua, p. 347."
-            }
-          ],
-          "subsubacepciones": [
-            {
-              "id_marcador_html": "— α α )",
-              "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para expresar el modo. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«— ¡Viva el general Miranda! El mismo nombre volvió a golpear sus oídos con nueva inquietud. A su lado alguien hablaba.»",
-                  "autor": "Uslar-Pietri",
-                  "referencia_obra": ", Lanzas coloradas, 4 (p. 50)."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id_marcador_html": "— δ )",
-          "id_limpio": "— δ )",
-          "definicion": "Loc. Golpearse el pecho: darse golpes en señal de arrepentimiento. X",
-          "ejemplos_citas": [
-            {
-              "texto_cita": "«La reverente muchedumbre abatió la cabeza, cayó de rodillas y se golpeó el pecho, produciendo a todo lo largo de plazas y calles una palpitación de santo entusiasmo.»",
-              "autor": "Alarcón",
-              "referencia_obra": ", Hist. nacionales, p. 158. X"
-            },
-            {
-              "texto_cita": "«Quiero cantar: saltad [de alegría] todos. Quiero llorar: golpead todos vuestro pecho.»",
-              "autor": "Menéndez y Pelayo",
-              "referencia_obra": ", Discursos (Cl. C. 140. 17). X"
-            },
-            {
-              "texto_cita": "«Monjes bisexuales o trígamos, llamaban las multitudes a la oración, y con voz de eunucos azotados, se golpeaban el pecho, amenazando a las turbas con los furores del Cristo.»",
-              "autor": "Vargas Vila",
-              "referencia_obra": ", Alba roja, p. 126. X"
-            },
-            {
-              "texto_cita": "«Algunas mujeres permanecían rezando de rodillas bajo el pleno sol, golpeándose duramente el pecho, la cabellera llena de ceniza.»",
-              "autor": "Uslar-Pietri",
-              "referencia_obra": ", Lanzas coloradas, 5 (p. 60). X"
-            },
-            {
-              "texto_cita": "«Independientemente del rezo en común, algunos imploraban a Dios en oraciones improvisadas, con los brazos en cruz y golpeándose el pecho de una manera desesperada.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 10 (p. 138). X"
-            },
-            {
-              "texto_cita": "«Y se golpeaba el pecho, recordando una y mil oraciones en latín y en castellano.»",
-              "autor": "",
-              "referencia_obra": "Yáñez, Al filo del agua, p. 140. X"
-            },
-            {
-              "texto_cita": "«Mas José Pedro no se hallaba en muy devotas actitudes. Cuando todos de rodillas recitaron el acto de contrición y se golpearon el pecho, otros golpes internos predominaban en el suyo.»",
-              "autor": "Barrios",
-              "referencia_obra": ", Gran señor y rajadiablos, p. 84."
-            }
-          ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
-      "id": "f)",
-      "definicion": "Tocar, llamar (trans.).",
+      "id": "d)",
+      "definicion": "Tañer, tocar, hacer sonar una campana o algún instrumento musical (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
-              "texto_cita": "«Ninguno de los siete golpeó la puerta; pero uno de ellos puso sus labios en la bocacalle, y pronunció la palabra \"veinticuatro\". La puerta abriose en el acto.»",
-              "autor": "Mármol",
-              "referencia_obra": ", Amalia, 2 (p. 188). X"
+              "marca": "X",
+              "texto_cita": "«El autor entendió aquí por ilusión algún juego de manos, trampa o artificio oculto con que alguna o algunas personas, de concierto, hiciesen golpear la campana de modo que pareciese que la lengua por sí misma se movía.»",
+              "autor": "Feijóo",
+              "referencia_obra": ", Teatro crít. (Cl. C. 67. 56)."
             },
             {
-              "texto_cita": "«Todos, pobres y ricos, picados por la curiosidad, golpeaban la puerta gritando ansiosos por entrar.»",
-              "autor": "Wast",
-              "referencia_obra": ", La casa, 1. 4 (p. 145). X"
+              "marca": "X",
+              "texto_cita": "«A las once la refitolera golpea el argentino cimbalillo. Y las monjas --- entran en el refectorio.»",
+              "autor": "Azorín",
+              "referencia_obra": ", La voluntad (Cl. Castal. 3. 186)."
             },
             {
-              "texto_cita": "«Una tarde que Fernando se había quedado en el fresco corredor de la casa ---, sintió, de pronto, pasos acelerados en el zaguán y luego unas manos febriles que golpeaban la puerta.»",
-              "autor": "Uslar-Pietri",
-              "referencia_obra": ", Lanzas coloradas, 3 (p. 41). X"
-            },
-            {
-              "texto_cita": "«Uno golpeó la puerta. --- Después chirriaron los goznes y apareció por entre las hojas un hombre flaco y pálido dentro de una sotana negra.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 10 (p. 129). X"
-            },
-            {
-              "texto_cita": "«(Golpea impaciente el timbre, llamando al mismo tiempo). ¡Juan...! ¡Juan!»",
-              "autor": "Casona",
-              "referencia_obra": ", La barca sin pescador, p. 109. X"
-            },
-            {
-              "texto_cita": "«Uno u otro, empezaban a burlarse desde que oían la trabajosa agitación de la campanilla; golpeando la puerta, pedían permiso, lo llamaban señor.»",
-              "autor": "Onetti",
-              "referencia_obra": ", El astillero, p. 44. — met. X"
-            },
-            {
-              "texto_cita": "«Soy puerta para ti que me golpeas.»",
-              "autor": "Menéndez y Pelayo",
-              "referencia_obra": ", Discursos (Cl. C. 140. 17). X"
-            },
-            {
-              "texto_cita": "«Todo llega al fulgor inmaculado, | Los temblores minúsculos golpean | Las puertas de cristal del [germen] escondido.»",
-              "autor": "Neruda",
-              "referencia_obra": ", Canto general, p. 109."
+              "marca": "X",
+              "texto_cita": "«Insistiendo en un concepto vulgar, recordemos que el piano cerebral se destempla golpeando reiteradamente una misma tecla.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Charlas de café, 8 (p. 175)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar: — el medio o instrumento. X",
+              "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
-                  "texto_cita": "«(Vuelve a oírse la voz y golpear la puerta con el pie).»",
-                  "autor": "Casona",
-                  "referencia_obra": ", La dama del alba, p. 37. X"
+                  "marca": "X",
+                  "texto_cita": "«Nunca habían golpeado sus tambores con más ímpetu los encargados de ritmar el apisonamiento del maíz o el corte de las cañas.»",
+                  "autor": "Carpentier",
+                  "referencia_obra": ", El reino, 1. 6 (p. 24)."
                 },
                 {
-                  "texto_cita": "«Antes de entrar, se metían a la bodega de la esquina y le pedíamos al chino, golpeando el mostrador con el puño: ¡cinco capitanes!»",
-                  "autor": "Vargas Llosa",
-                  "referencia_obra": ", Los cachorros, 2 (p. 55). — El modo. X"
-                },
-                {
-                  "texto_cita": "«¡Que duerma! No golpéis con ritmo lento | La frágil palizada de su muro.»",
-                  "autor": "Nervo",
-                  "referencia_obra": ", Poes. (Obr. complet. 2. 1341)."
+                  "marca": "X",
+                  "texto_cita": "«Una almohadilla que golpeo con acompañamiento musical.»",
+                  "autor": "Pellegrini",
+                  "referencia_obra": ", Antol. p. 289)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la combinación de... en, para indicar el lugar; y sin, el modo. X",
+              "definicion": "Con en. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
-                  "texto_cita": "«Por callejuelas que a hombres horrorizan | De puerta en puerta sin temor golpea, | Y para cada mal lleva consigo | Pan, luz, remedio, estímulo y abrigo.»",
-                  "autor": "Pombo",
-                  "referencia_obra": ", Antol. poét. p. 312."
+                  "marca": "X",
+                  "texto_cita": "«Los rollos de música que ella había echado a la basura con el pretexto de que se estaban pudriendo con la humedad, seguían girando y golpeando martinetes en su memoria.»",
+                  "autor": "García Márquez",
+                  "referencia_obra": ", Cien años de soledad, p. 254."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— γ γ )",
+              "id_limpio": "— γ γ )",
+              "definicion": "Con sin, para indicar el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«¡Oh el desvelo de los vigilantes que golpean sin descanso | Sonoras latas de petróleo.»",
+                  "autor": "Pellegrini",
+                  "referencia_obra": ", Antol. p. 82)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con gerunio para reforzar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Bajo el cielo inerme venciendo su distancia golpeas [el tambor] sin sonido.»",
+                      "autor": "Pellegrini",
+                      "referencia_obra": ", Antol. p. 261)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1786,161 +1930,741 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. Llamar para que abran la puerta. X",
+          "definicion": "Absol. Con la prep. con, para señalar el medio o instrumento. Además con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
-              "texto_cita": "«¿Quién llama? ¿Quién está allá? | ¡Han visto qué golpear! | — Abre, madre, que yo soy.»",
-              "autor": "Cueva",
-              "referencia_obra": ", El infamador, 2 (Cl. C. 60. 23). X"
-            },
-            {
-              "texto_cita": "«Ahora golpean. Debe ser Feliciano. ¿Cómo les parece la hora de venir?»",
-              "autor": "Osorio Lizarazo",
-              "referencia_obra": ", El camino en la sombra, p. 14. X"
-            },
-            {
-              "texto_cita": "«El sastre de enfrente ha encendido la luz, | Y pareció que golpearon aquí. O donde el sastre. | ¡Quién sabe si esta noche vos estás en la lista!»",
-              "autor": "Cardenal",
-              "referencia_obra": ", Hora 0 (Poes. p. 75). X"
-            },
-            {
-              "texto_cita": "«Un plato de cualquier cosa caliente me vendría bien, pensé. Y entonces se me ocurrió venir a golpear aquí.»",
-              "autor": "Onetti",
-              "referencia_obra": ", El astillero, p. 68. X"
-            },
-            {
-              "texto_cita": "«Como si no esperara perros ni voces, caminó los metros que lo separaban de la puerta principal, endureciendo la mano antes de golpear.»",
-              "autor": "H. Sánchez",
-              "referencia_obra": ", Los desheredados, p. 33."
+              "marca": "X",
+              "texto_cita": "«Manteniéndola, no muy firme en una mano, traía en la otra un junco con el que golpeaba acompasadamente en la copa. Después de cada toque, inclinando la graciosa cabeza, quedaba atento, mientras las ondas sonoras, --- se desprendían del herido cristal.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 26."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para indicar el tiempo. X",
+              "definicion": "Con contra.",
+              "marca": "",
               "ejemplos_citas": [
                 {
-                  "texto_cita": "«— ¡Hola mujer! | ¿No os parece que han llamado? | — ¡Peribánez! — ¿Quién golpea | A tales horas?»",
-                  "autor": "Lope",
-                  "referencia_obra": ", Peribáñez, 3 (Cl. C. 159. 119)."
+                  "marca": "X",
+                  "texto_cita": "«Yo era cual ese bronce que ha depurado el fuego; | Golpeando contra mi alma cada pasión, bien luego | Un sublime acorde resonaba fiel.»",
+                  "autor": "Pombo",
+                  "referencia_obra": ", Antol. poética, p. 347."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con ante, que indica el lugar. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
-                  "texto_cita": "«El hombre llega a otra reducida plazoleta y golpea ante una puerta que tiene tres peldaños. Le abren; hablan.»",
-                  "autor": "Azorín",
-                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 210)."
+                  "marca": "X",
+                  "texto_cita": "«El pelo golpea sobre un tambor finísimo de algas sobre un tambor de ráfaga de viento.»",
+                  "autor": "Pellegrini",
+                  "referencia_obra": ", Antol. p. 261)."
                 }
-              ]
-            },
-            {
-              "id_marcador_html": "— γ γ )",
-              "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, para indicar: — el medio o instrumento. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«A lo sonoro llega la muerte | Como un zapato sin pie, como un traje sin hombre, | Llega a golpear con un anillo sin piedra y sin dedo, | Llega a gritar sin boca, sin lengua, sin garganta.»",
-                  "autor": "Neruda",
-                  "referencia_obra": ", Poes. p. 54. X"
-                },
-                {
-                  "texto_cita": "«Los extraños danzantes llegaron a la puerta de la iglesia y golpearon repetidas veces con la aldaba.»",
-                  "autor": "Carpentier",
-                  "referencia_obra": ", Los pasos perdidos, p. 125. — El modo. X"
-                },
-                {
-                  "texto_cita": "«Se le ve golpeando, con el sable de puño de oro, en las puertas de la gloria.»",
-                  "autor": "Martí",
-                  "referencia_obra": ", Sus mejores páginas, p. 167. X"
-                },
-                {
-                  "texto_cita": "«Cosa de media columna llevaría leída don Pacho, cuando golpearon en el portón con cierto aparato.»",
-                  "autor": "Carrasquilla",
-                  "referencia_obra": ", Frutos, 22 (p. 239). — Además con de. X"
-                },
-                {
-                  "texto_cita": "«Cuando los prenderos fueron a comer, encontraron la puerta trancada; golpearon con violencia y de seguido, porque tardaban en abrir.»",
-                  "autor": "Carrasquilla",
-                  "referencia_obra": ", Frutos, 3. 2 (p. 43)."
-                }
-              ]
-            },
-            {
-              "id_marcador_html": "— δ δ )",
-              "id_limpio": "— δ δ )",
-              "definicion": "Con en, para indicar el lugar. X",
-              "ejemplos_citas": [
-                {
-                  "texto_cita": "«Calmaba un poco la tempestad, cuando él entraba en la ciudad, que estaba en silencio profundo, y a poco golpeaba en una casa de humilde apariencia.»",
-                  "autor": "Vargas Vila",
-                  "referencia_obra": ", Aura, p. 166. X"
-                },
-                {
-                  "texto_cita": "«Fue al tocador y golpeó en el “tan-tan”. Esperamos silenciosos sin que nadie acudiese.»",
-                  "autor": "",
-                  "referencia_obra": "Valle- Inclán, Sonata de Otoño, p. 24. X"
-                },
-                {
-                  "texto_cita": "«A las tres golpeaba en casa del doctor Arrizabalaga. Su idea elemental: consultaría con cualquier mísero pretexto al abogado y acaso la viera.»",
-                  "autor": "Quiroga",
-                  "referencia_obra": ", Cuentos de amor, p. 10. X"
-                },
-                {
-                  "texto_cita": "«Siempre tus manos con flores me despierten | Golpeando en mi ventana como esa joven, loca | De rizos y de risas, allá en la adolescencia.»",
-                  "autor": "Carranza",
-                  "referencia_obra": ", Corazón escrito, p. 26. X"
-                },
-                {
-                  "texto_cita": "«¿Para embriagarse con las músicas verlenianas iba a golpear respetuosamente en la casa de su admirado amigo don Miguel Antonio Caro?»",
-                  "autor": "Maya",
-                  "referencia_obra": ", Oríg. del modernismo, 5 (p. 58). X"
-                },
-                {
-                  "texto_cita": "«Kunz golpeó en la puerta de la Gerencia General y avanzó intimidado, sonriente, exponiendo a la luz un colmillo de oro.»",
-                  "autor": "Onetti",
-                  "referencia_obra": ", El astillero, p. 62. X"
-                },
-                {
-                  "texto_cita": "«Chicos del barrio. --- Alguna vez se paran, golpean en los cristales y salen corriendo.»",
-                  "autor": "Buero Vallejo",
-                  "referencia_obra": ", El tragaluz (Cl. Castal. 35. 263)."
-                }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Loc. Golpear a la puerta. X",
+          "definicion": "Intrans. Con sujeto de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
+              "texto_cita": "«Campana de rosa, campana matinal que golpea y hace vibrar un corazón bermejo, un puño de sangre.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Estud. mesa redonda, 11 (p. 158)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«El primer día de la primavera hizo que la ciudad se vistiera de sol y seda, se llenaran las calles de música, resucitaran las guitarras, golpearan las castañuelas.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Estud. mesa redonda, 14 (p. 201)."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": [
+            {
+              "id_marcador_html": "— α α )",
+              "id_limpio": "— α α )",
+              "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Las campanas tañían con más intensidad, hasta que por fin golpearon con verdadero furor.»",
+                  "autor": "Sábato",
+                  "referencia_obra": ", Sobre héroes y tumbas, p. 497."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— β β )",
+              "id_limpio": "— β β )",
+              "definicion": "Con contra.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Las aves, ya sin alas, | Oían sobre su pecho los tibios corazones; | Golpeaban contra el cielo, llorando las campanas.»",
+                  "autor": "Valencia",
+                  "referencia_obra": ", Obr. poética, p. 55."
+                }
+              ],
+              "subsubsubacepciones": []
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "— δ )",
+          "id_limpio": "— δ )",
+          "definicion": "Part.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
+              "texto_cita": "«El tambor atruena en el espacio. Son cuatro, son diez, son veinte tambores golpeados furiosamente. Aquel son estremece la carne y la sangre, enloquecida en el fondo de la carne.»",
+              "autor": "Uslar-Pietri",
+              "referencia_obra": ", Lanzas coloradas, 13 (p. 170)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«¿No se recuerda aquella burla de Platón donde compara los oradores a los vasos de bronce, que apenas golpeados dilatan largos sonidos hasta que alguien les pone un dedo encima?»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Mocedades, p. 128."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": [
+            {
+              "id_marcador_html": "— α α )",
+              "id_limpio": "— α α )",
+              "definicion": "Con por, para señalar el agente.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«La puerta estaba cerrada. Oían el opaco zumbido de la campana rota golpeada por la lluvia.»",
+                  "autor": "Roa",
+                  "referencia_obra": "Bastos, Hijo de hombre, p. 39."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— β β )",
+              "id_limpio": "— β β )",
+              "definicion": "Con la prep. con, para indicar el medio o instrumento.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Entre el tumulto se oía a ratos el sonido seco del tambor golpeado con los puños.»",
+                  "autor": "Uslar-Pietri",
+                  "referencia_obra": ", Lanzas coloradas, 7 (p. 84)."
+                }
+              ],
+              "subsubsubacepciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Sonar, hacer ruido una cosa (intrans.).",
+      "marca": "",
+      "ejemplos_citas": [],
+      "subsubsubacepciones": [],
+      "subacepciones": [
+        {
+          "id_marcador_html": "— α )",
+          "id_limpio": "— α )",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
+              "texto_cita": "«Del reloj arrinconado, | Que en la penumbra clarea, | El tic-tac acompasado | Odiosamente golpea.»",
+              "autor": "Machado",
+              "referencia_obra": ", Poes. compl. p. 61."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Clarea | El reloj arrinconado, | Y su tic-tac, olvidado | Por repetido, golpea.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 144."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": [
+            {
+              "id_marcador_html": "— α α )",
+              "id_limpio": "— α α )",
+              "definicion": "Con dat. Además con en, que señala el lugar.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Míster Jones se convenció de que había traspasado su límite de resistencia. Desde hacía rato le golpeaba en los oídos el latido de las carótidas.»",
+                  "autor": "Quiroga",
+                  "referencia_obra": ", Cuentos de amor, p. 82."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— β β )",
+              "id_limpio": "— β β )",
+              "definicion": "Con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Serio retrato en la pared clarea | Todavía. Nosotros divagamos. | En la tristeza del hogar golpea | El tictac del reloj.»",
+                  "autor": "Machado",
+                  "referencia_obra": ", Poes. compl. p. 144."
+                }
+              ],
+              "subsubsubacepciones": []
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "— β )",
+          "id_limpio": "— β )",
+          "definicion": "Sustantivado.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Bien notas --- el temeroso ruido de aquella agua, en cuya busca venimos, que parece que se despeña y derrumba desde los altos montes de la Luna, y aquel incesable golpear que nos hiere y lastima los oídos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 20 (R. 1. 2961)."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": [
+            {
+              "id_marcador_html": "— α α )",
+              "id_limpio": "— α α )",
+              "definicion": "Con de, para indicar el agente o instrumento.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«¿Oyes? Allá afuera está lloviendo. ¿No sientes el golpear de la lluvia?»",
+                  "autor": "Rulfo",
+                  "referencia_obra": ", Pedro Páramo, p. 212."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para señalar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Fuera del golpear de las aguas en los contornos de aquel charco, no se oía sino el quejumbroso arrullo de la pechiblanca.»",
+                      "autor": "Díaz Castro",
+                      "referencia_obra": ", Manuela, 6 (p. 51)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La muchacha oyó el golpear amortiguado y redondo de los cascos del caballo en el patio.»",
+                      "autor": "Cepeda",
+                      "referencia_obra": ", Casa grande, p. 73."
+                    }
+                  ]
+                },
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con contra.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«De cerca oí el grito ahogado de la bestia, el sonar de las caronas, el golpear descompasado de las patas contra el suelo, en cuyo apoyo la yegua buscaba desesperadamente el contragolpe brusco.»",
+                      "autor": "Güiraldes",
+                      "referencia_obra": ", Don Segundo Sombra, 4 (p. 32)."
+                    }
+                  ]
+                },
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con sobre.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Oía, oía sus últimas palabras en una tormenta de gritos, silbidos y golpear de objetos duros sobre los pupitres.»",
+                      "autor": "Asturias",
+                      "referencia_obra": ", Week-end, 7 (p. 142)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_marcador_html": "— β β )",
+              "id_limpio": "— β β )",
+              "definicion": "Con sobre.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«A esta olmeda, --- llega en el silencio de la mañana, en la paz azul del mediodía, el cacareo metálico, largo, de un gallo, el golpear sobre el yunque de una herrería.»",
+                  "autor": "Azorín",
+                  "referencia_obra": ", Castilla, p. 78."
+                }
+              ],
+              "subsubsubacepciones": []
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "— γ )",
+          "id_limpio": "— γ )",
+          "definicion": "Trans. Hacer resonar.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
+              "texto_cita": "«Cuando mañana es la partida, ya no quieren ver ni hablar; se contentan con ser oídos, con ser sentidos, y golpean los pasos y silban tonadas en las aceras resonantes.»",
+              "autor": "",
+              "referencia_obra": "Yáñez, Al filo del agua, p. 347."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": [
+            {
+              "id_marcador_html": "— α α )",
+              "id_limpio": "— α α )",
+              "definicion": "Con la prep. con, para expresar el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«— ¡Viva el general Miranda! El mismo nombre volvió a golpear sus oídos con nueva inquietud. A su lado alguien hablaba.»",
+                  "autor": "Uslar-Pietri",
+                  "referencia_obra": ", Lanzas coloradas, 4 (p. 50)."
+                }
+              ],
+              "subsubsubacepciones": []
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "— δ )",
+          "id_limpio": "— δ )",
+          "definicion": "Loc. Golpearse el pecho: darse golpes en señal de arrepentimiento.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
+              "texto_cita": "«La reverente muchedumbre abatió la cabeza, cayó de rodillas y se golpeó el pecho, produciendo a todo lo largo de plazas y calles una palpitación de santo entusiasmo.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Hist. nacionales, p. 158."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Quiero cantar: saltad [de alegría] todos. Quiero llorar: golpead todos vuestro pecho.»",
+              "autor": "Menéndez y Pelayo",
+              "referencia_obra": ", Discursos (Cl. C. 140. 17)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Monjes bisexuales o trígamos, llamaban las multitudes a la oración, y con voz de eunucos azotados, se golpeaban el pecho, amenazando a las turbas con los furores del Cristo.»",
+              "autor": "Vargas Vila",
+              "referencia_obra": ", Alba roja, p. 126."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Algunas mujeres permanecían rezando de rodillas bajo el pleno sol, golpeándose duramente el pecho, la cabellera llena de ceniza.»",
+              "autor": "Uslar-Pietri",
+              "referencia_obra": ", Lanzas coloradas, 5 (p. 60)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Independientemente del rezo en común, algunos imploraban a Dios en oraciones improvisadas, con los brazos en cruz y golpeándose el pecho de una manera desesperada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 10 (p. 138)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Y se golpeaba el pecho, recordando una y mil oraciones en latín y en castellano.»",
+              "autor": "",
+              "referencia_obra": "Yáñez, Al filo del agua, p. 140."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Mas José Pedro no se hallaba en muy devotas actitudes. Cuando todos de rodillas recitaron el acto de contrición y se golpearon el pecho, otros golpes internos predominaban en el suyo.»",
+              "autor": "Barrios",
+              "referencia_obra": ", Gran señor y rajadiablos, p. 84."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": []
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "Tocar, llamar (trans.).",
+      "marca": "",
+      "ejemplos_citas": [],
+      "subsubsubacepciones": [],
+      "subacepciones": [
+        {
+          "id_marcador_html": "— α )",
+          "id_limpio": "— α )",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
+              "texto_cita": "«Ninguno de los siete golpeó la puerta; pero uno de ellos puso sus labios en la bocacalle, y pronunció la palabra \"veinticuatro\". La puerta abriose en el acto.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia, 2 (p. 188)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Todos, pobres y ricos, picados por la curiosidad, golpeaban la puerta gritando ansiosos por entrar.»",
+              "autor": "Wast",
+              "referencia_obra": ", La casa, 1. 4 (p. 145)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Una tarde que Fernando se había quedado en el fresco corredor de la casa ---, sintió, de pronto, pasos acelerados en el zaguán y luego unas manos febriles que golpeaban la puerta.»",
+              "autor": "Uslar-Pietri",
+              "referencia_obra": ", Lanzas coloradas, 3 (p. 41)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Uno golpeó la puerta. --- Después chirriaron los goznes y apareció por entre las hojas un hombre flaco y pálido dentro de una sotana negra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 10 (p. 129)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«(Golpea impaciente el timbre, llamando al mismo tiempo). ¡Juan...! ¡Juan!»",
+              "autor": "Casona",
+              "referencia_obra": ", La barca sin pescador, p. 109."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Uno u otro, empezaban a burlarse desde que oían la trabajosa agitación de la campanilla; golpeando la puerta, pedían permiso, lo llamaban señor.»",
+              "autor": "Onetti",
+              "referencia_obra": ", El astillero, p. 44."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Soy puerta para ti que me golpeas.»",
+                  "autor": "Menéndez y Pelayo",
+                  "referencia_obra": ", Discursos (Cl. C. 140. 17)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Todo llega al fulgor inmaculado, | Los temblores minúsculos golpean | Las puertas de cristal del [germen] escondido.»",
+                  "autor": "Neruda",
+                  "referencia_obra": ", Canto general, p. 109."
+                }
+              ]
+            }
+          ],
+          "subsubacepciones": [
+            {
+              "id_marcador_html": "— α α )",
+              "id_limpio": "— α α )",
+              "definicion": "Con la prep. con, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "el medio o instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«(Vuelve a oírse la voz y golpear la puerta con el pie).»",
+                      "autor": "Casona",
+                      "referencia_obra": ", La dama del alba, p. 37."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Antes de entrar, se metían a la bodega de la esquina y le pedíamos al chino, golpeando el mostrador con el puño: ¡cinco capitanes!»",
+                      "autor": "Vargas Llosa",
+                      "referencia_obra": ", Los cachorros, 2 (p. 55)."
+                    }
+                  ]
+                },
+                {
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡Que duerma! No golpéis con ritmo lento | La frágil palizada de su muro.»",
+                      "autor": "Nervo",
+                      "referencia_obra": ", Poes. (Obr. complet. 2. 1341)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_marcador_html": "— β β )",
+              "id_limpio": "— β β )",
+              "definicion": "Con la combinación de... en, para indicar el lugar; y sin, el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Por callejuelas que a hombres horrorizan | De puerta en puerta sin temor golpea, | Y para cada mal lleva consigo | Pan, luz, remedio, estímulo y abrigo.»",
+                  "autor": "Pombo",
+                  "referencia_obra": ", Antol. poét. p. 312."
+                }
+              ],
+              "subsubsubacepciones": []
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "— β )",
+          "id_limpio": "— β )",
+          "definicion": "Absol. Llamar para que abran la puerta.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
+              "texto_cita": "«¿Quién llama? ¿Quién está allá? | ¡Han visto qué golpear! | — Abre, madre, que yo soy.»",
+              "autor": "Cueva",
+              "referencia_obra": ", El infamador, 2 (Cl. C. 60. 23)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Ahora golpean. Debe ser Feliciano. ¿Cómo les parece la hora de venir?»",
+              "autor": "Osorio Lizarazo",
+              "referencia_obra": ", El camino en la sombra, p. 14."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«El sastre de enfrente ha encendido la luz, | Y pareció que golpearon aquí. O donde el sastre. | ¡Quién sabe si esta noche vos estás en la lista!»",
+              "autor": "Cardenal",
+              "referencia_obra": ", Hora 0 (Poes. p. 75)."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Un plato de cualquier cosa caliente me vendría bien, pensé. Y entonces se me ocurrió venir a golpear aquí.»",
+              "autor": "Onetti",
+              "referencia_obra": ", El astillero, p. 68."
+            },
+            {
+              "marca": "X",
+              "texto_cita": "«Como si no esperara perros ni voces, caminó los metros que lo separaban de la puerta principal, endureciendo la mano antes de golpear.»",
+              "autor": "H. Sánchez",
+              "referencia_obra": ", Los desheredados, p. 33."
+            }
+          ],
+          "subsubsubacepciones": [],
+          "subsubacepciones": [
+            {
+              "id_marcador_html": "— α α )",
+              "id_limpio": "— α α )",
+              "definicion": "Con a, para indicar el tiempo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«— ¡Hola mujer! | ¿No os parece que han llamado? | — ¡Peribánez! — ¿Quién golpea | A tales horas?»",
+                  "autor": "Lope",
+                  "referencia_obra": ", Peribáñez, 3 (Cl. C. 159. 119)."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— β β )",
+              "id_limpio": "— β β )",
+              "definicion": "Con ante, que indica el lugar.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«El hombre llega a otra reducida plazoleta y golpea ante una puerta que tiene tres peldaños. Le abren; hablan.»",
+                  "autor": "Azorín",
+                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 210)."
+                }
+              ],
+              "subsubsubacepciones": []
+            },
+            {
+              "id_marcador_html": "— γ γ )",
+              "id_limpio": "— γ γ )",
+              "definicion": "Con la prep. con, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "el medio o instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«A lo sonoro llega la muerte | Como un zapato sin pie, como un traje sin hombre, | Llega a golpear con un anillo sin piedra y sin dedo, | Llega a gritar sin boca, sin lengua, sin garganta.»",
+                      "autor": "Neruda",
+                      "referencia_obra": ", Poes. p. 54."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Los extraños danzantes llegaron a la puerta de la iglesia y golpearon repetidas veces con la aldaba.»",
+                      "autor": "Carpentier",
+                      "referencia_obra": ", Los pasos perdidos, p. 125."
+                    }
+                  ]
+                },
+                {
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Se le ve golpeando, con el sable de puño de oro, en las puertas de la gloria.»",
+                      "autor": "Martí",
+                      "referencia_obra": ", Sus mejores páginas, p. 167."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cosa de media columna llevaría leída don Pacho, cuando golpearon en el portón con cierto aparato.»",
+                      "autor": "Carrasquilla",
+                      "referencia_obra": ", Frutos, 22 (p. 239)."
+                    }
+                  ]
+                },
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cuando los prenderos fueron a comer, encontraron la puerta trancada; golpearon con violencia y de seguido, porque tardaban en abrir.»",
+                      "autor": "Carrasquilla",
+                      "referencia_obra": ", Frutos, 3. 2 (p. 43)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_marcador_html": "— δ δ )",
+              "id_limpio": "— δ δ )",
+              "definicion": "Con en, para indicar el lugar.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Calmaba un poco la tempestad, cuando él entraba en la ciudad, que estaba en silencio profundo, y a poco golpeaba en una casa de humilde apariencia.»",
+                  "autor": "Vargas Vila",
+                  "referencia_obra": ", Aura, p. 166."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Fue al tocador y golpeó en el “tan-tan”. Esperamos silenciosos sin que nadie acudiese.»",
+                  "autor": "",
+                  "referencia_obra": "Valle- Inclán, Sonata de Otoño, p. 24."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«A las tres golpeaba en casa del doctor Arrizabalaga. Su idea elemental: consultaría con cualquier mísero pretexto al abogado y acaso la viera.»",
+                  "autor": "Quiroga",
+                  "referencia_obra": ", Cuentos de amor, p. 10."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Siempre tus manos con flores me despierten | Golpeando en mi ventana como esa joven, loca | De rizos y de risas, allá en la adolescencia.»",
+                  "autor": "Carranza",
+                  "referencia_obra": ", Corazón escrito, p. 26."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«¿Para embriagarse con las músicas verlenianas iba a golpear respetuosamente en la casa de su admirado amigo don Miguel Antonio Caro?»",
+                  "autor": "Maya",
+                  "referencia_obra": ", Oríg. del modernismo, 5 (p. 58)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Kunz golpeó en la puerta de la Gerencia General y avanzó intimidado, sonriente, exponiendo a la luz un colmillo de oro.»",
+                  "autor": "Onetti",
+                  "referencia_obra": ", El astillero, p. 62."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Chicos del barrio. --- Alguna vez se paran, golpean en los cristales y salen corriendo.»",
+                  "autor": "Buero Vallejo",
+                  "referencia_obra": ", El tragaluz (Cl. Castal. 35. 263)."
+                }
+              ],
+              "subsubsubacepciones": []
+            }
+          ]
+        },
+        {
+          "id_marcador_html": "— γ )",
+          "id_limpio": "— γ )",
+          "definicion": "Loc. Golpear a la puerta.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
               "texto_cita": "«Con todo necesita Dios llamar, rogar, convidar, solicitar y golpear a las puertas de nuestro corazón para que los recibamos [a los sacramentos].»",
               "autor": "Isla",
-              "referencia_obra": ", Adic. Año christiano, p. 15. X"
+              "referencia_obra": ", Adic. Año christiano, p. 15."
             },
             {
+              "marca": "X",
               "texto_cita": "«Siempre rondando las puertas de la patria. Siempre golpeando a ellas.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 5 (p. 552). X"
+              "referencia_obra": ", Amalia, 5 (p. 552)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Son las tres de la mañana. Golpean a la puerta de la habitación de Miranda. Este se levanta, abre la puerta, y a la luz de la lámpara ve los rostros de la juventud precipitada que le intima prisión.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Biogr. del Caribe, 4. 23 (p. 381). X"
+              "referencia_obra": ", Biogr. del Caribe, 4. 23 (p. 381)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esperar que pasen los minutos, que golpeen a la puerta de la eternidad con su diminuto martillito de acero.»",
               "autor": "Zalamea",
               "referencia_obra": ", Cuatro años, 21 (p. 360)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1948,36 +2672,42 @@
     {
       "id": "2",
       "definicion": "Menudear en una misma cosa (intrans.). Con sobre, para indicar el lugar; y sin, el modo.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Acaso el mar y los países diferentes podrán con la variedad de objetos alejar esta pasión que le ocupa, sea la que fuere, sobre la cual su imaginación sin cesar golpea.»",
           "autor": "Mor.",
           "referencia_obra": "Hamlet, 3. 6 (R. 2. 509)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
-      "definicion": "Sobresalir, llamar la atención (absol.). X",
+      "definicion": "Sobresalir, llamar la atención (absol.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«¡Era por la sigla, caramba! ¿No me había explicado que la sigla debía golpear, que debía ser muy recordable?»",
           "autor": "Sábato",
           "referencia_obra": ", Abaddón, p. 333."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. (Nótense: en el Arc. de Hita la forma culpar, la cual, según Corominas no pertenece a este verbo sino a una expresión interjectiva semejante a \" culpado de mí\" o \"desdichado de mí\"; y en Alex. la forma colpar). Siglo XV: «E non venía menos golpado el caballero que el caballo, si non que le valían las buenas armas; mas traíalas bien abolladas en muchos lugares.» Crón. P. Niño, p. 171. «La otra [es] el espada con que batallava | El muy esmerado duque de Bullón, | Que en la conquista del alto Syón | Tan maravillosos golpes golpava.» Canc. de Baena, p. 202.\n\n— Siglo XIV: «Muchas veces el falcón volando en la ribera cuando vuela bajo encuentra et líjase, quebrantándose ala o pierna; o por venir golpar en seco a pequeñas aves, así como a cercetas ---.» L. de Ayala, Caza, 28 (Bibl. venat. 3. 273). «Non le fagas volar en logar que haya árboles muchos, ca se podría el falcón lisiar cuando viene al golpar.» Id. ib. 8 (Bibl. venat. 3. 205). «Otrosí si acaesciere que las ánades desque son golpadas o aguadas, et se encierran así en el agua, con el grand miedo del falcón non quieren salir ---.» Id. ib. 8 (Bibl. venat. 3, 202). «Otrosí cata que non fagas volar tu falcón sobre aves menudas et sobre poca agua, ca cuando el falcón viene a golpar, non falla así grande una cerceta, et da en tierra et líjase.» Id. ib. 8 (Bibl. venat. 3. 200). «Otrosí si levantares andando el falcón bajo, et las ánades se levantasen, el falcón non ternía altura para alcanzar et golpar.» Id. ib. 8 (Bibl. venat. 3. 199). «Mortalmiente se golparon, | E muchos fueron feridos.» Alf. XI, 2119 (R. 57. 5411). + «Comiençan de sse golpar, | Vagar non avían manos.» Ib. 501 (p. 141). «E bien asy la mesnada | En los moros bien golparon.» Ib. 438 (R. 57. 4902). «Es bueno temer a Dios, a su santa Magestad. | --- Con esta espada fuerte seguramente golpad.» Arc. de Hita, 1562 (R. 57. 2762). «Falló zafir culpado, mejor ome non vido.» Id. 1361 (R. 57. 2701).\n\n— Siglo XIII: X «Fablar non se podían, tant eran mal golpados, | Eran de fuertes golpes amos a dos llagados.» Fern. Gonz. 490 (Cl. C. 128. 146). «El conde e sus gentes e todos los cruzados, | A la çibat de Burgos fueron todos llegados, | Folgaron e dormieron que eran muy cansados, | Demandaron maestros por sanar los llagados | Destos que eran y muy mal golpados.» Ib. 278 (R. 57. 3972). «Como non eran cosas que podiessen colpar, | No les podíen fuyr.» Alex, 2014 (R. 57. 2091). «Grandes eran las bozes e muchos los golpados.» Ib. 1886 (R. 57. 2051). «Quando uio Eneas que nol podíe golpar ---.» ib. 511 (R. 57. 1631). «Colpol el infante a guisa de barón, | Nol sestó a al se non al coraçón.» Ib. 162 (R. 57. 1522). «Abaxaron las lanzas e fuéronse golpar.» Ib. 127 (R. 57. 1511). «A quienquier que golpaua sola vna uegada | En escudo aieno nunqua daríe lançado.» Ib. 96 (R. 57. 1502). «Magar golpado seas, non des por en nada.» Ib. 70 (R. 57. 1492).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Según Mndz. Pidal \"Del ant. golpar, y éste del lat. vulgar *colophare, derivado de colaphus ‘bofetada’\". Manual, §29d. Cat. colpir, colpejar, copejar; fr. couper; it. colpire, colpeggiare; port. golpear.",
+  "etimologia": "Etim. Según Mndz. Pidal \"Del ant.<i> golpar,</i> y éste del lat. vulgar<i> *colophare,</i> derivado de<i> colaphus</i> ‘bofetada’\".<i> Manual,</i> §29d. Cat.<i> colpir, colpejar, copejar;</i> fr.<i> couper;</i> it.<i> colpire, colpeggiare;</i> port.<i> golpear. </i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 1, β, α - 1, β, μ - 1, δ, α - 1, ε, γ - 1, φ, α.\n\n— Intrans.: 1, c, α - 1, δ, γ - 1, ε, α - 2.\n\n— Absol.: 1, a, β - 1, α, η, δ δ - 1, b, δ - 1, β, ι, ε ε - 1, d, β - 1, φ, β - 3.\n\n— Refl.: 1, a, γ - 1, β, ζ.\n\n— Pas. refl.: 1, a, ε - 1, β, η.\n\n— Recípr.: 1, a, δ.\n\n— Part.: 1, a, ζ - 1, α, η, ε ε - 1, b, θ - 1, β, ι, ζ ζ - 1, d, δ.\n\n— Sustantivado: 1, a, β, ε ε - 1, a, ζ, δ δ - 1, b, ε - 1, χ, β - 1, ε, β.\n\n— Con dat.: 1, b, β - 1, β, ι, α α - 1, c, α, α α - 1, e, α, α α.\n\n— Con dat. refl.: 1, b, γ - 1, β, μ, α α.\n\n— Con a: 1, a, α, α α - 1, b, α, α α - 1, b, κ, α α - 1, f, β, α α.\n\n— Con ante: 1, f, β, β β.\n\n— Con la prep. con: en general.\n\n— Con contra: 1, a, α, γ γ - 1, a, γ - 1, β, α, γ γ - 1, b, λ - 1, δ, β, α α - 1, d, γ, β β - 1, e, β, α α.\n\n— Con de: 1, a, ζ, β β - 1, b, α, β β - 1, b, ε - 1, β, ζ, α α - 1, b, ι, γ γ - 1, e, β α α - 1, f, β, γ γ.\n\n— Con la combinación de... en: 1, f, α β β.\n\n— Con. en: en general.\n\n— Con entre sí: 1, a, δ, β β.\n\n— Con hasta: 1, a, α, β β - 1, a, α, ε ε - 1, a, β, γ γ - 1, a, ε - 1, β, λ.\n\n— Con para: 1, a, α, ζ ζ.\n\n— Con por: 1, a, β, δ δ - 1, a, η, ε ε - 1, d, δ, α α.\n\n— Con sin: 1, a, α, η η - 1, a, η, β β - 1, a, θ - 1, β, ι, δ δ - 1, d, α, γ γ - 2.\n\n— Con sobre: 1, a, η, γ γ - 1, b, α, β β - 1, b, δ, β β - 1, b, λ, α α - 1, d, β, β β - 1, e, β, α α - 1, e, β, β β - 2.\n\n— Con un gerundio; 1, d, α, γ γ.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 1, β, α - 1, β, μ - 1, δ, α - 1, ε, γ - 1, φ, α.\n\n— Intrans.: 1, c, α - 1, δ, γ - 1, ε, α - 2.\n\n— Absol.: 1, a, β - 1, α, η, δ δ - 1, b, δ - 1, β, ι, ε ε - 1, d, β - 1, φ, β - 3.\n\n— Refl.: 1, a, γ - 1, β, ζ.\n\n— Pas. refl.: 1, a, ε - 1, β, η.\n\n— Recípr.: 1, a, δ.\n\n— Part.: 1, a, ζ - 1, α, η, ε ε - 1, b, θ - 1, β, ι, ζ ζ - 1, d, δ.\n\n— Sustantivado: 1, a, β, ε ε - 1, a, ζ, δ δ - 1, b, ε - 1, χ, β - 1, ε, β.\n\n— Con dat.: 1, b, β - 1, β, ι, α α - 1, c, α, α α - 1, e, α, α α.\n\n— Con dat. refl.: 1, b, γ - 1, β, μ, α α.\n\n— Con a: 1, a, α, α α - 1, b, α, α α - 1, b, κ, α α - 1, f, β, α α.\n\n— Con ante: 1, f, β, β β.\n\n— Con la prep. con: en general.\n\n— Con contra: 1, a, α, γ γ - 1, a, γ - 1, β, α, γ γ - 1, b, λ - 1, δ, β, α α - 1, d, γ, β β - 1, e, β, α α.\n\n— Con de: 1, a, ζ, β β - 1, b, α, β β - 1, b, ε - 1, β, ζ, α α - 1, b, ι, γ γ - 1, e, β α α - 1, f, β, γ γ.\n\n— Con la combinación de... en: 1, f, α β β.\n\n— Con. en: en general.\n\n— Con entre sí: 1, a, δ, β β.\n\n— Con hasta: 1, a, α, β β - 1, a, α, ε ε - 1, a, β, γ γ - 1, a, ε - 1, β, λ.\n\n— Con para: 1, a, α, ζ ζ.\n\n— Con por: 1, a, β, δ δ - 1, a, η, ε ε - 1, d, δ, α α.\n\n— Con sin: 1, a, α, η η - 1, a, η, β β - 1, a, θ - 1, β, ι, δ δ - 1, d, α, γ γ - 2.\n\n— Con sobre: 1, a, η, γ γ - 1, b, α, β β - 1, b, δ, β β - 1, b, λ, α α - 1, d, β, β β - 1, e, β, α α - 1, e, β, β β - 2.\n\n— Con un gerundio; 1, d, α, γ γ.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

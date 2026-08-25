@@ -1,82 +1,100 @@
 {
   "lema": "ANTE.",
   "categoria_gramatical": "prep",
-  "introduccion": "prep.\n\nSeñala un punto en la línea que traza uno al moverse rectamente para llegar al frente de una persona ó cosa. Esta relación puede considerarse en el espacio, en el tiempo ó lógicamente, y de ahí sirve para expresar estos conceptos: con respecto á un objeto material, en frente de él; con respecto á un suceso, sin haber llegado ó alcanzado á el, antes de él; y en el orden de las ideas, con precedencia á otras cosas en razón de mayor importancia. Las acepciones se dividen pues así:\n\n— (I), 1, enfrente y á corta distancia de, a) tratándose de personas, b) de cosas, c) en sentido menos material;\n\n— 2, a) á presencia de, en presencia de, b) con respecto al voto ó dictamen, c) para denotar una comparación desventajosa;\n\n— 3, delante de;\n\n— (II), 4 aplicado al tiempo, antes de;\n\n— 5, inmediatamente antes de;\n\n— (llI), 6, en lugar más importante ó elevado que; ante todo;\n\n— (IV), aplicaciones varias: a) antes, b) sustantivado.",
+  "introduccion": "Señala un punto en la línea que traza uno al moverse rectamente para llegar al frente de una persona ó cosa. Esta relación puede considerarse en el espacio, en el tiempo ó lógicamente, y de ahí sirve para expresar estos conceptos: con respecto á un objeto material, en frente de él; con respecto á un suceso, sin haber llegado ó alcanzado á el, antes de él; y en el orden de las ideas, con precedencia á otras cosas en razón de mayor importancia. Las acepciones se dividen pues así:\n\n— (I), 1, enfrente y á corta distancia de, a) tratándose de personas, b) de cosas, c) en sentido menos material;\n\n— 2, a) á presencia de, en presencia de, b) con respecto al voto ó dictamen, c) para denotar una comparación desventajosa;\n\n— 3, delante de;\n\n— (II), 4 aplicado al tiempo, antes de;\n\n— 5, inmediatamente antes de;\n\n— (llI), 6, en lugar más importante ó elevado que; ante todo;\n\n— (IV), aplicaciones varias: a) antes, b) sustantivado.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "(I)",
       "definicion": "Enfrente y á corta distancia de.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Tratándose de personas.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Asióla su hermano de la mano, y ella sin hacer resistencia se dejó llevar donde él quiso, que fue ante Marco Antonio, que la conoció y se abrazó con ela.»",
           "autor": "Cerv.",
           "referencia_obra": "Nov. 9 (R. 1. 2082)."
         },
         {
+          "marca": "",
           "texto_cita": "«Llamó al ventero, y encerrándose con él en la caballeriza, se incó de rodillas ante él.»",
           "autor": "",
           "referencia_obra": "Id. Quij. 1. 3 (R. 1. 2602)."
         },
         {
+          "marca": "",
           "texto_cita": "«Los pobres son médicos de nuestras llagas, y las manos que ante nos extienden son remedios que nos dan.»",
           "autor": "Gran.",
           "referencia_obra": "Orac. y consid. 3. 3, § 11 (R. 8. 1931)."
         },
         {
+          "marca": "",
           "texto_cita": "«Viniendo él una vez de fuera, y prostrado ante el abad pidiéndole la bendición (según era de costumbre), él lo dejó estar prostrado en tierra dende el principio de la noche hasta la hora de los maitines.»",
           "autor": "",
           "referencia_obra": "Id. Símb. 2. 29, § 6 (R. 6. 3671)."
         },
         {
+          "marca": "",
           "texto_cita": "«Vio al natural á su Florinda bella, | Y fue admirado á arrodillarse ante ella.»",
           "autor": "Valb.",
           "referencia_obra": "Bern. 9 (R. 17. 2322)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "A menudo se especifica una parte del cuerpo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por no ser conocida de Damon y Tirsi, se había puesto un blanco velo ante su hermoso rostro.»",
               "autor": "",
               "referencia_obra": "Gerv. Gal. 2 (R. 1. 332)."
             },
             {
+              "marca": "",
               "texto_cita": "«Debió de ser que como su merced estaba aechando aquel trigo que dije, el mucho polvo que sacaba se le puso como nube ante el rostro, y se le escureció.»",
               "autor": "",
               "referencia_obra": "Id. Quij. 2. 8 (R. 1. 4192)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué sintieras, ánima mía, si vieras allí á Dios arrodillado ante los pies de los hombres, y ante los pies de Judas?»",
               "autor": "Gran.",
               "referencia_obra": "Orac. y consid. 1, lunes por la mañ. (R. 8. 632)."
             },
             {
+              "marca": "",
               "texto_cita": "«Derribará Dios ante tus pies todos los enemigos que se levantaren contra ti.»",
               "autor": "",
               "referencia_obra": "Id. Guía, 1. 23 (R. 6. 841)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Y tú, ingrata, riendo | Dejas morir mi bien ante mis ojos? --- | Busquemos otro llano, | Busquemos otros montes y otros ríos, | Otros valles floridos y sombríos, | Donde descanse y siempre pueda verte | Ante los ojos míos, | Sin miedo y sobresalto de perderte.»",
               "autor": "",
               "referencia_obra": "Garcil. égl. 1 (R. 32. 61)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -84,31 +102,46 @@
     {
       "id": "b)",
       "definicion": "Trabándose de cosas.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Ante la puerta del rezador, nunca eches tu trigo al sol.»",
           "autor": "Comend. Griego",
           "referencia_obra": "(111)."
         },
         {
+          "marca": "",
           "texto_cita": "«Do si algún alto espíritu guiado | Por la luz vuestra, á pocos otorgada, | Quiso llegar, primero ante la entrada | Gran tiempo estuvo de velar cansado.»",
           "autor": "Figueroa",
           "referencia_obra": ", son. 35 (Fern. 19)."
         },
         {
+          "marca": "",
           "texto_cita": "«Es de notar que de estas mismas conchas se encuentran en otras partes y á casi igual altura y á flor de tierra, ya amontonadas y en grupos, como ante las casitas de can Trau y á la entrada del predio de son Boté, ya ---»",
           "autor": "",
           "referencia_obra": "Jovell. Descr. del castillo de Bellver, nota 10 (R. 46. 4072)."
         },
         {
+          "marca": "",
           "texto_cita": "«Tales títulos se dan á pueblos ó edificios situados en lugares altos, que tienen ante sí como éste, una hermosa perspectiva.»",
           "autor": "",
-          "referencia_obra": "Jd. Mem. del castillo de Bellver (R. 46. 4112). —"
-        },
+          "referencia_obra": "Jd. Mem. del castillo de Bellver (R. 46. 4112)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Impuro incienso quema ante sus aras.»",
-          "autor": "",
-          "referencia_obra": "Id. Poes. A Bermudo (R. 46. 432)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Impuro incienso quema ante sus aras.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes. A Bermudo (R. 46. 432)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -116,69 +149,93 @@
     {
       "id": "c)",
       "definicion": "A veces la relación no es completamente material.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Todo mi ejercicio ha de ser estar siempre dando gemidos ante vos como paloma, y llamaros como hace á sus padres el hijo de la golondrina.»",
           "autor": "Gran.",
           "referencia_obra": "Guía, 1. 21 (R. 6. 792)."
         },
         {
+          "marca": "",
           "texto_cita": "«Poned los ojos en este gran libro que la Providencia abrió ante todos los hombres para que continuadamente le leyesen.»",
           "autor": "Jovell.",
           "referencia_obra": "Orac. inaug. del Instit. Astur. (R. 16. 3201)."
         },
         {
+          "marca": "",
           "texto_cita": "«Hijos de Apolo, ¿la gallarda frente | Doblaréis más ante el guerrero injusto?»",
           "autor": "Lista",
           "referencia_obra": ", Poes. filosof. 18 (R. 67. 3111)."
         },
         {
+          "marca": "",
           "texto_cita": "«Todas las puertas iban cerrándose ante el gobierno, cada día más desatentado.»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", Esp. del siglo, 12. 5 (5. 65)."
         },
         {
+          "marca": "",
           "texto_cita": "«A su poder me humillo, | Y depongo ante el ara la diadema.»",
           "autor": "",
           "referencia_obra": "Id. Edipo, 3. 1 (3. 268)."
         },
         {
+          "marca": "",
           "texto_cita": "«Con su sabiduría infinita él tuvo todos aquellos por quien padeció tan presentes ante sus ojos como si fueran uno solo.»",
           "autor": "Gran.",
           "referencia_obra": "Guía, 1. 4 (R. 6. 251)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Por extensión, A presencia de, en presencia de.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Puesto que le había dicho que ella le mandaba que saliese de aquel lugar y se fuese al del Toboso, donde le quedaba esperando, había respondido que estaba determinado de no parecer ante su fermosura fasta que hobiese fecho fazañas que le ficiesen digno de su gracia.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 1. 29 (R. 1. 3301)."
         },
         {
+          "marca": "",
           "texto_cita": "«Convendrá que --- se vaya acostumbrando á hablar ante otros.»",
           "autor": "Jovell.",
           "referencia_obra": "Regl. col. de Calatr. 1. 4 (R. 46. 1821)."
         },
         {
+          "marca": "",
           "texto_cita": "«Va á leer un soneto de su composición ante una asamblea respetable.»",
           "autor": "Mor.",
-          "referencia_obra": "Obr. póst. 1, p. 502. —"
-        },
+          "referencia_obra": "Obr. póst. 1, p. 502."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Diré lo que supiere por moverte | A que ante Apolo su valor alabes.»",
-          "autor": "Cerv.",
-          "referencia_obra": "Viaje, 1 (R. 1. 6821)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Diré lo que supiere por moverte | A que ante Apolo su valor alabes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje, 1 (R. 1. 6821)."
+            }
+          ]
         }
       ],
       "subacepciones": [
@@ -186,43 +243,52 @@
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Es de mucho uso tratándose de magistrados, testigos, etc.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Fue empero citado á que pareciese ante el rey en Madrid á responder á la acusación que le ponían.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 46. 7 (R. 30. 4701)."
             },
             {
+              "marca": "",
               "texto_cita": "«Llamóme [el rey] ante sí, preguntóme de qué parte de España era, y qué dineros y qué joyas traía.»",
               "autor": "Quev.",
               "referencia_obra": "Quij. 2. 63 (R. 1. 540)."
             },
             {
+              "marca": "",
               "texto_cita": "«Señor gobernador, yo y este hombre labrador venimos ante vuesa merced ---»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 45 (R. 1. 4972)."
             },
             {
+              "marca": "",
               "texto_cita": "«A vuesa merced suplico por lo que debe á ser caballero sea servido de hacer una declaración ante el alcalde deste lugar, de que vuesa merced no me ha visto en todos los días de su vida hasta ahora.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 72 (R. 1. 5542)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Dónde has visto tú ó leído jamás que caballero andante haya sido puesto ante la justicia por más homicidios que hubiese cometido?»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 10 (R. 1. 2731)."
             },
             {
+              "marca": "",
               "texto_cita": "«Existe en los archivos del cabildo una escritura que otorgó ante el notario Pedro Lidra.»",
               "autor": "Jovell.",
               "referencia_obra": "Mem. del castillo de Bellver, nota 8 (R. 46. 4271)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ofendiéronse todos de la aspereza de las invectivas y más los ministros del rey, que fueron por la tarde á acusar al religioso ante su prelado, y á intimarle que le hiciese retractar.»",
               "autor": "Quint.",
               "referencia_obra": "Las Casas (R. 19. 4391)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -230,26 +296,40 @@
     {
       "id": "b)",
       "definicion": "En ocasiones, más que la presencia material, se sugiere la sujeción al juicio, voto ó dictamen de la persona de que se trata.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«No sólo tiene el mérito de haber sido el primero en la nación que mereciese el título de fabulista, sino de haber sobresalido bastante para que pueda citársele sin desconfianza ante los extranjeros.»",
           "autor": "",
-          "referencia_obra": "M. de la Rosa, Anot. á la Poét. 4. 18 (1. 202). —"
-        },
+          "referencia_obra": "M. de la Rosa, Anot. á la Poét. 4. 18 (1. 202)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Vi uno que públicamente pecó y secretamente hizo penitencia, y habiéndolo yo juzgado por malo, después hallé que ante Dios era inocente.»",
-          "autor": "Gran.",
-          "referencia_obra": "Esc. espir. 10 (R. 11. 3232)."
-        },
-        {
-          "texto_cita": "«Mandad, Señor, pregonar lo que su obediencia, paciencia y caridad os agradó, y lo que vale ante vos.»",
-          "autor": "",
-          "referencia_obra": "Id. Adic. al Mem. 16, § 4 (R. 8. 5572)."
-        },
-        {
-          "texto_cita": "«No hablamos aquí de cualquier manera de oración ó meditación, sino de aquella que está informada con caridad, sin la cual ninguna virtud tiene forma, ni vida, ni merecimiento, ni valor ante Dios.»",
-          "autor": "",
-          "referencia_obra": "Id. Orac. y consid. 3. 1. 1 (R. 8. 1612)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Vi uno que públicamente pecó y secretamente hizo penitencia, y habiéndolo yo juzgado por malo, después hallé que ante Dios era inocente.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. espir. 10 (R. 11. 3232)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Mandad, Señor, pregonar lo que su obediencia, paciencia y caridad os agradó, y lo que vale ante vos.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. 16, § 4 (R. 8. 5572)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«No hablamos aquí de cualquier manera de oración ó meditación, sino de aquella que está informada con caridad, sin la cual ninguna virtud tiene forma, ni vida, ni merecimiento, ni valor ante Dios.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y consid. 3. 1. 1 (R. 8. 1612)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -257,66 +337,90 @@
     {
       "id": "c)",
       "definicion": "met. Esta contraposición del reo al juez, del inferior al superior, ha venido á sugerir un contraste ó comparación desventajosa entre objetos de otro orden.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Es tan soberana y sobrepujante la divina bondad entre todas estas bondades criadas y tan diferente dellas, que en comparación della pierden todo su esplendor, y no lucen más que una candelica pequeña ante el sol de mediodía.»",
           "autor": "Gran.",
           "referencia_obra": "Símb. 5. 3. 6, § 1 (R. 6. 6851)."
         },
         {
+          "marca": "",
           "texto_cita": "«Es tan grande su sabiduría, que todo otro saber ante él es ignorancia.»",
           "autor": "",
           "referencia_obra": "Id. ib. 5. 2. 4 (R. 6. 6182)."
         },
         {
+          "marca": "",
           "texto_cita": "«Ante su rica boca | La lengua de Demóstenes se apoca.»",
           "autor": "León",
           "referencia_obra": ", Poes. 1, A todos los santos (R. 37. 111)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
       "definicion": "Delante de, precediendo á corta distancia. (Casi no se usa sino en estilo elevado.)",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«La Geografía fue siempre ante ellos alumbrándolos en la investigación y conocimiento de la naturaleza.»",
           "autor": "Jovell.",
           "referencia_obra": "Disc. sobre la geogr. hist. (R. 46. 3262)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "4",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "(II)",
       "definicion": "Aplicado al tiempo, Antes de.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Ante toda obra preceda maduro consejo y deliberación»",
           "autor": "Gran.",
           "referencia_obra": "Guía, 2. 15. § 9 (R. 6. 1492)."
         },
         {
+          "marca": "",
           "texto_cita": "«No estaban aún criados los abismos, y ya yo era concebida; aun no habían brotado las fuentes de las aguas; aun no se habían asentado los montes en sus lugares; ante todos los collados ya yo era engendrada.»",
           "autor": "",
           "referencia_obra": "Id. Adic. al Mem. med. 5, § 1 (R. 8. 5132)."
         },
         {
+          "marca": "",
           "texto_cita": "«Claramente señala dos nacimientos deste Señor: uno en tiempo, en el lugar de Bethlehem; y otro ante todo tiempo, que es dende los días de la eternidad, que es propria de solo Dios.»",
           "autor": "",
-          "referencia_obra": "Id. Símb. 4, diál. 2, § 1 (R. 6. 5452). —"
-        },
+          "referencia_obra": "Id. Símb. 4, diál. 2, § 1 (R. 6. 5452)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Pues cuando esta ánima santísima se viese así engrandecida con tantos privilegios y dones ante todo merecimiento, ¿con qué amor amaría al dador de tan grandes bienes?»",
-          "autor": "",
-          "referencia_obra": "Id. ib. 3. 14, § 5 (R. 6. 4231. Esta expresión ocurre repetidas veces en el mismo autor)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Pues cuando esta ánima santísima se viese así engrandecida con tantos privilegios y dones ante todo merecimiento, ¿con qué amor amaría al dador de tan grandes bienes?»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 3. 14, § 5 (R. 6. 4231. Esta expresión ocurre repetidas veces en el mismo autor)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -324,58 +428,72 @@
     {
       "id": "5",
       "definicion": "Tratándose del orden en que se profieren los sonidos ó las voces, Inmediatamente antes de.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Grande pierde también por lo regular su última sílaba cuando precede á los sustantivos; bien que suele no perderla ante aquellos que empiezan por vocal.»",
           "autor": "Jovell.",
           "referencia_obra": "Rudim. de gram. cast. (R. 46. 1071)."
         },
         {
+          "marca": "",
           "texto_cita": "«Horacio notó con razón lo rápido que era el yámbico puro latino por la combinación de una sílaba breve ante otra larga.»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", Anot. á la Poét. 3. 3 (1. 155)."
         },
         {
+          "marca": "",
           "texto_cita": "«Una sílaba breve ante otra larga | Forma el pie yambo.»",
           "autor": "",
           "referencia_obra": "Id. Arte poétic. de Hor. (1. 280.)"
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "6",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "(III)",
       "definicion": "En lugar más importante ó elevalo que.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Otro no hubiera llamado al clero: vo sí; otro acaso no hubiera puesto al párroco ante el comandante de las armas, ante los diputados de la diputación, ante el coronel de milicias: yo sí.»",
           "autor": "Jovell.",
           "referencia_obra": "Corresp. con Posada (R. 50. 1942)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "De aquí la expresión, Ante todo, ante todas cosas, con preferencia á todo, primera, principalmente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pues sepa vuestra merced ante todas cosas que á mí me llaman Lázaro de Tormes.»",
               "autor": "Mend.",
               "referencia_obra": "Lazarill. 1 (R. 3. 781)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se debe ante todas cosas huír de cuanto sea afectado.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Anot. á la Poét. 4. 3 (1. 166)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -383,98 +501,122 @@
     {
       "id": "7",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "(IV)",
       "definicion": "Aplicaciones varias.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "En el siglo XVI se usaba todavía algunas veces como adverbio, en lugar de antes, conforme á la práctica de épocas anteriores.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Traigamos á la memoria la historia de Josef y aquella grande hambre de los siete años de Egipto, ante de la cual dice la Escritura que fue tan grande la abundancia ---»",
           "autor": "Gran.",
           "referencia_obra": "Mem. vida crist. 1. 1, § 3 (R. 8. 2081)."
         },
         {
+          "marca": "",
           "texto_cita": "«¿Morirá Escalante? | — Ya no, porque mucho ante | Pagó la deuda postrera.»",
           "autor": "Castillejo",
           "referencia_obra": ", 1 (R. 32. 1342)."
         },
         {
+          "marca": "",
           "texto_cita": "«Aunque haya tenido ante | Por marido algún escuerzo, | Luégo toma en él esfuerzo | Para ponerle delante ---»",
           "autor": "",
           "referencia_obra": "Id. 2, Condic. de las mujeres (R. 32. 1952)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Usóse también como sust.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "El frente, la parte delantera (raro).",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los aledaños son con quien confina | El ante y retro, el uno y otro lado, | Las cuatro partes de la inmóvil traza | Y el cielo que en su círculo la abraza.»",
               "autor": "Villav.",
               "referencia_obra": "Mosq. 3 (R. 17. 5801)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "El plato ó principio con que se empezaba la comida ó cena.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Siéntase á la abudante mesa, llena | Ya de lo que antes sobre el fuego había, | Y sin hacerle salva al compañero | Por ante se comió un venado entero.»",
               "autor": "Valb.",
               "referencia_obra": "Bern. 21 (R. 17. 3661)."
             },
             {
+              "marca": "",
               "texto_cita": "«De rato en rato le pegaba con la mozuela, diciendo que me había preguntado por él, y que le tenía en el alma, y otras mentiras deste modo, con lo cual llevaba mejor el verme engullir; porque tal destrozo como yo hice en el ante, no lo hiciera una bala en el de un coleto.»",
               "autor": "Quev.",
               "referencia_obra": "Gran Tac. 15 (R. 23. 5121)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los rudimentos de la mesa se han de llamar los antes, y los postres la contera del mascar.»",
               "autor": "",
               "referencia_obra": "Id. Culta latinip. (R. 48. 4221)."
             },
             {
+              "marca": "",
               "texto_cita": "«Miraba yo desde el banco | En los platos relumbrantes | De almendra y pasa los antes, | Los postres de manjar blanco.»",
               "autor": "Alarcón",
               "referencia_obra": ", La cueva de Salamanca, 2 (R. 20. 893)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Cada día en la corte hay nuevo cuento | Desta dama cansada y enfadosa, | Porque son sus melindres postres y antes, | Alivio de cansados caminantes.»",
                   "autor": "Lope",
                   "referencia_obra": ", Los melindres de Belisa, 1. 5 (R. 24. 3191)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si los antes de la culpa | No recogen el metal, | Los postres siempre profesan| De murria y necesidad.»",
                   "autor": "Quev.",
                   "referencia_obra": "musa 6, rom. 67 (R. 69. 2031)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -483,7 +625,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. (A los usos preposicionales reunía los adverbiales y conjuntivos que hoy desempeña antes. Nótense las formas ant, antre (menos común ésta que delantre), y las combinaciones de ante, en ante, con el mismo valor que antes.)\n\n—Siglo XV: «Yo estaba en próposito de le servir --- é agora no estó menos, ante mucho mas.» Crón. Juan II, 1. 6 (R. 68. 2802). «E las batallas ordenadas, el mariscal mandó que como su batalla moviese pie ante pie, que la batalla de los dos mil y quinientos christianos se moviese paso á paso, y fuese á pelear con los moros peones.» lb. 1. 5 (R. 68. 2801). «Yo con buena intencion | E sin punto de malicia --- | Ante con gran amicicia ---| Declaro e manifiesto | Mi simple imaginación.» P. de Guzmán, Prov. 4 (Rim. inéd. 345). «Ante de todos los siglos engendrado.» Mena, Lab. 19 de las añadidas (1021). «La tardanza no habia sido por su daño, ante por su provecho.» Vis. delect. 1. 8 (R. 36. 3501). «Non quiso obedescer por rey al conde de Arbi como los otros del reyno; ante, con el gran pesar que ovo de su mal, facia grand guerra al rey.» Crón. P. Niño, p. 109. «Llegaron las galeras ante la villa de Orán.» lb. p. 78. «Allí sentaron el real ante la villa.» lb. p. 39. «Digagelo él mesmo ante algunos el de que aya verguença, mandandole que por tres dias non paresca antél.» Villena, Arte cis. 17 (104). «Yo vos rrequiero por ante notaryo | Que luego veades el fecho sumario.» Canc. de Baena, p. 469. «Fiz onrra muy de talente | Quanto pude á sus perlados, | Seyendo de mí llamados | Señores ante la gente.» Ib. p 335. «E mando que ssea de gran perfeçion, | Maguer vos, señoras, le distes enante | Todas las noblezas que en el mundo son.» Ib. p. 218. «Pongo esta relaçion | Ante el vestro poderio.» Ib. p. 160.\n\n— Siglo XIV: «E Dios non menospreçia la pobre oraçion, | Mas ante la resçibe e oye a toda sason.» Rim. de Pal. 240 (R. 57. 4321). «Vino por ant Alvar Sanchez de Castellanos, merino por nuestro señor el rey en Asturias, mostró é fizo leer por ant el dicho merino un alvalá del dicho señor rey.» Docum. de 1376 (Esp. sagr. 39. 242). «Como estaba cansado de ante dia, fincó ese dia en Val de Infierno.» Mont. Alf. XI, 3. 9 (Bibl. venat. 2. 150). «Et la razon porque para fallar es buena la lluvia de ante dia, es porque amata los rastros viejos, et fallarán bien el rastro fresco.» Ib. 1. 7 (Bibl. venat. 1. 28). «Et salieron dende ante que amanesciese.» Crón. Alf. XI, 163 (R. 66. 2781). «Aquí ante todos vos llamo mal caballero.» Ib. 102 (R. 66. 2381). «Pidiéndogela algunos de los otros sus hermanos, la quiso dar ante á vos que á ninguno dellos.» Crón. Alf. X, 29 (R. 66. 242). «Ante de las bodas el rey don Alfonso armó caballero á aquel su sobrino Aduarte, que fue despues rey de Inglaterra.» Ib. 18 (R. 66. 131). «E otrosí este rey don Alfonso, seyendo casado, desde ante que finase el rey su padre, con doña Violante --- non avia della fijo.» lb. 2 (R. 66. 42). «Non es dicho amigo el que da mal consejo, | Ante es enemigo et malqueriente sobejo.» Arc. de Hita, 1453 (R. 57. 2731). «El omen muy soberbio et muy denodado --- | Antre muere que otro mas fraco et mas lasrado.» Id. 226 (R. 57. 2341). «Fue de mejor entendimiento et mas apercibido que los que lo fueran ante.» J. Man. C. Luc. 40 (R. 51. 4201). «Se cumplió todo lo que don Pero Nuñez dijiera ante que entrara en el campo; --- pudieron traer los huesos del conde su señor, ya cuanto mas sin la laceria que ante.» Id. ib. 3 (R. 51. 4141). «El soldan aconsejara al conde que le diese á su fija ante que á ninguno de los otros fijos de los reyes.» Id. ib. 6 (R. 51. 3932). «Esperad ante que vos fieran.» Id. Ib. 2 (R. 51. 3841). «Ante que el pleito fuese acabado, entendió él que ya el su pleito era librado.» Id. ib. 13 (R. 51. 3791). «Ante desto, cuando la golondrina vio que non querian poner las aves recabdo en aquel dapno que les venia, fuese para el home.» Id. ib. 27 (R. 51. 3762). «Non se extiende á las cosas pasadas et de ante fechas.» Leyes del est. 200 (O. L. 2. 319). «Estonce pagará estas costas, et las otras, el non ante.» Ib. 113 (O. L. 2. 284). «Si --- ante que le den por fechor paresce antel rey sobre este pleyto.» Ib. 48 (O. L. 2. 256). «Non le puede reptar de cosa que oviese fecho de ante de la tregua.» lb. 42 (O. L. 2. 253). «Ante que me lo ellos pidiesen lo tenia ordenado de lo facer.» Cortes de Medina del Campo, año 1302 (C. de L. y C. 1. 164). «Et que esté a conplir de derecho para ante los juyzes e alcaldes que y ffueren puestos.» Cortes de Zamora, año 1301 (C. de L. y C. 1. 153).\n\n— Siglo XIII: «Como solian seer en tiempo de los otros rreyes que fueron ante que nos.» Cortes de Valladolid, año 1293 (C. de L. y C. 1. 111). «Tenemos por bien gelos demanden para ante nos.» Docum. de 1293 (Mem. Acad. Hist. 8. 64). «Conozca luego de sí o de non ante el alcalde.» Orden. de tafur. 30 (O. L. 2. 225). «Et los personeros de la iglesia respondieron, que los apaniguados de los de la iglesia solian ser emplasados para ante los juises de la villa sobre muerte de ome, ó sobre furto, ó sobre otra cosa criminal.» Docum. de 1269 (Esp. sagr. 35. 447). «Quebrantenle las medidas ante las puertas.» Cortes de Jerez, año 1268 (C. de L. y C. 176). «Si les ficieren demanda delante su maestro, en su escogencia es de responder á ella ante él, ó delante del obispo del logar, ó del juez del fuero qual mas quisiere.» Part. 2. 31. 7 (2. 343). «Nin los deben enajenar ninguna manera en vida nin en muerte á homes de fuera de su señorio --- ante, segunt fuero antiguo de España, si los quisiesen vender ó camiar, débenlo primeramente facer saber al rey.» Part. 2. 18. 1 (2. 148). «Fácele envejecer ante de tiempo et morir ante de sus dias.» Part. 2. 5. 10 (2. 32). «Tal ruego como este non es bueno, nin debe ser cabido en ninguna manera, ante le deben desechar al que lo ficiere como á cobdiciose.» Part. 1. 17. 3 (1. 427). «Bien se puede tornar al sieglo ante que se cumpla el año.» Part. 1. 7. 7 (1. 300). «Mandó que echasen de la casa do yacie muerta todos los que feciesen duelo por ella, et non la quiso de ante resucitar.» Part. 1. 4. 99 (1. 168). «Debe catar el que las leyes feciere lo de ante et lo despues.» Part. 1. 1. 19 (1. 26). «Dixo el rey Salomon --- que quando el rey sobiere en su cátedra de justicia, que ante el su acatamiento serán desatados todos los males.» Part. pról. (1. 4). «El que primeramiente demandare [por omecilio, o por furto], aquel sea ante entregado, maguer que sea dante tenido a alguno de los otros.» Fuero real, 3. 20. 5 (O. L. 2. 114). «Esto podrie seer tan bien en ante que el pleito fuese comenzado por respuesta, como despues.» Espéc. 5. 5. 11 (O. L. 1. 314). «Deve preguntar aquel que los recibe [los testigos] si el amiztad era nuevamiente o si dante.» lb. 4. 7. 18 (O. L. 1. 202). «Pero en ante conviene que digamos qual es aquel derecho.» lb. 2. 16. 2 (O. L. 1. 69). «Et yo ofrézcote mi cuerpo francamente, et cómeme, señor, ante que non mueras de fambre.» Cal. é Dymna (R. 51. 301). «Ante prueba home las cosas que suba á ellas.» Ib. (R. 51. 202). «Piensa de tu alma ante, e adelanta con que adereces el otro mundo.» Boc. de oro, 2 (Knust, 106). «Dios crio los pobres e crio los rricos de un criamiento, é son eguales ant' el.» lb. 2 (Knust, 97). «Que fuesen seguros los unos de los otros despues que se desafiaren a nueve dias; e el que ante que de este termino firiese o matase el un fijodalgo al otro, que fuese por ende alevoso, e quel´ pudiese decir mal ante el emperador o ante el rey.» Fuero viejo, 1. 5. 1 (18). «Faga escripto por su mano daquello quel diere ante dos testimonios ó ante tres.» Fuero Juzgo, 5. 2. 7 (84). «Si la mugier despues de muerte de su marido se casa con otro ante que cumpla el anno --- Se casan ante del anno complido ---» Ib. 3. 2. 1 (50). «Si non sopiere escrivir, ó non pudiere por enfermedad, faga su manda ante sus siervos.» Ib. 2. 5. 12 (41). «Non meta y su sennal por nenguna manera si non leyere ante la carta por sí.» Ib. 2. 5. 2 (39). «El mandado que él da sea firmado por tres testigos, ó por él mismo antel juez.» Ib. 2. 3. 4 (30). «La cosa que era demandada deve ficar con aquel que la tenie ante.» lb. 2. 1. 23 (19). «Puede apellar ante el principe.» lb. 2. 1. 22 (19). «Lo non amonestó ante en bondad de su vida.» lb. 2. 1. 7 (12). «Los meges que son sabidos, ante an cura del mal de la cabeza que de todos los otros miembros del cuerpo.» Ib. 2. 1. 4 (9). «De X. annos los nueue aun non son passados, | Et uos ante con ante sodes desfiuzados.» Alex. 684 (R. 57. 1682). «Ant que lo embiasse Diomedes golpar | Ouo el diablo los oios a encantar.» Ib. 516 (R. 57. 1631). «Todo ffue ante ffecho que fuesen a yantar.» Appoll. 611 (R. 57. 3032). «Aqui ante uos todos quiero que me lo diga.» lb. 599 (R. 57. 3031). «Ante de poccos dias fo Estevan finado.» Berc. Mil. 241 (R. 57. 1111). «Vino ante el obispo el preste peccador.» Id. Ib. 223 (R. 57. 1102). «Los omnes que avien la voz ante oida, | Tan aina vidieron la promessa complida.» Id. Ib. 139 (R. 57. 1081). «Si ante fue en cuita, despues fue mas coitada.» Id. S. Oria, 169 (R. 57. 1422). «Fincó sos ynoios ante todel pueblo.» Cid, 1318 (R. 57. 162). «Ante que anochesca pienssan de caualgar.» lb. 432 (R. 57. 62). «Antel Campeador donna Ximena fincó los ynoios amos.» Ib. 264 (R. 57. 42).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Port., gall. ante; prov. ant; it. ante: del lat. ante. (Las formas que llevan una silbante: prov. anz, ans; fr. ant. ainz; it. anzi, corresponden á antea.) En gr. Vντ\\ vale en frente, contra, en lugar; el sans. anti no aparece como voz independiente, pero en derivados y compuestos da el sentido de contra, ante, á vista de; en las lenguas germánicas le corresponde el gót. and, á lo largo de, contra, que es hoy en al. ant-, ent-. Hállase también en las lenguas léticas y célticas (Curtius, Griech. Etym.4 205). Se supone que pertenece al tema pronominal ana, aquel (Pott, Et. Forsch. 2 1. 260; Vanicek, Gr. lat. Wb. 31).\n\n\u0000",
+  "etimologia": "Etim. Port., gall. <i>ante; </i>prov<i>. ant; </i>it<i>. ante: </i>del lat. <i>ante. </i>(Las formas que llevan una silbante: prov. <i>anz, ans; </i>fr<i>. </i>ant. <i>ainz; </i>it. <i>anzi, </i>corresponden á<i> antea</i>.) En gr. Vντ\\ vale en frente, contra, en lugar; el sans. <i>anti </i>no aparece como voz independiente, pero en derivados y compuestos da el sentido de contra, ante, á vista de; en las lenguas germánicas le corresponde el gót. <i>and, </i>á lo largo de, contra, que es hoy en al. <i>ant-, ent-. </i>Hállase también en las lenguas léticas y célticas (Curtius, <i>Griech. Etym.</i>4 205). Se supone que pertenece al tema pronominal <i>ana, </i>aquel (Pott, <i>Et. Forsch.</i> 2 1<i>. </i>260<i>; </i>Vanicek, <i>Gr. lat. Wb. </i>31).\n\n<i></i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

@@ -6,168 +6,277 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Venir, arribar a un sitio o paraje (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Viendo llegar a pasajeros de a mula que los despartieron, les pidió que le diesen fe de aquella victoria.»",
               "autor": "Quev.",
-              "referencia_obra": "Hora de todos (Cl. Castal. 67. 148). X"
+              "referencia_obra": "Hora de todos (Cl. Castal. 67. 148)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Eso equivale pues a andar y andar sin jamás llegar.»",
               "autor": "",
-              "referencia_obra": "M. F. Suárez, Sueños, 4 (p. 19). X"
+              "referencia_obra": "M. F. Suárez, Sueños, 4 (p. 19)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Llegarían también los que vendían esqueletitos bailadores.»",
               "autor": "Carpentier",
               "referencia_obra": ", El recurso, 3 (p. 151)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para señalar: — el lugar X",
-              "ejemplos_citas": [
+              "definicion": "Con a, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Llegaron a vista del campo del rey de Arcadia.»",
-                  "autor": "Ortúñez de Calahorra",
-                  "referencia_obra": ", Espejo (Cl. C. 196. 136)."
+                  "id_limpio": "—",
+                  "definicion": "el lugar",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Llegaron a vista del campo del rey de Arcadia.»",
+                      "autor": "Ortúñez de Calahorra",
+                      "referencia_obra": ", Espejo (Cl. C. 196. 136)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Algunos arcabuceros llegaron a Lanjarón y entraron en el castillo, que estaba desamparado.»",
+                      "autor": "Mend.",
+                      "referencia_obra": "Guerra de Gran. 1 (R. 21. 792)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Va de viaje: capítulo segundo: | Llegué a Burgos.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "Epíst a Poncio, (R. 46. 482)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Yo le grité que nos esperase en casa de mi prima cuando llegase a Madrid.»",
+                      "autor": "Buero Vallejo",
+                      "referencia_obra": ", El tragaluz (Cl. Castal. 35. 253)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Algunos arcabuceros llegaron a Lanjarón y entraron en el castillo, que estaba desamparado.»",
-                  "autor": "Mend.",
-                  "referencia_obra": "Guerra de Gran. 1 (R. 21. 792)."
+                  "id_limpio": "—",
+                  "definicion": "Además con un predicado referido al sujeto.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Es verdad que el espíritu del hombre llega joven a la tumba a que el cuerpo llega viejo, y que siente en su inmersión en el espíritu universal tan penetrantes y arrebatadores placeres.»",
+                      "autor": "Martí",
+                      "referencia_obra": ", Sus mejores páginas, p. 122."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Va de viaje: capítulo segundo: | Llegué a Burgos.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "Epíst a Poncio, (R. 46. 482). X"
+                  "id_limpio": "—",
+                  "definicion": "Además con otro complemento con a, que señala el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Llegaron a la orilla del mar a la hora de vísperas.»",
+                      "autor": "Cardenal",
+                      "referencia_obra": ", poes. El estrecho, p. 135."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Yo le grité que nos esperase en casa de mi prima cuando llegase a Madrid.»",
-                  "autor": "Buero Vallejo",
-                  "referencia_obra": ", El tragaluz (Cl. Castal. 35. 253). —Además con un predicado referido al sujeto. X"
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para indicar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«¡Cuántos testigos veremos en el día postrero de esto, que sus naos iban ya para se perder, iban a se hacer pedazos, estaban para se hundir, y soplándolos tu soplo fueron salvos, y llegaron con tranquilidad y seguridad al puerto!»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Ven. Esp. Santo, 4 (2. 340)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«A su tumba llegué doliente y mudo, | Con emoción extraña.»",
+                      "autor": "Flórez",
+                      "referencia_obra": ", Obr. poét. p. 383."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Es verdad que el espíritu del hombre llega joven a la tumba a que el cuerpo llega viejo, y que siente en su inmersión en el espíritu universal tan penetrantes y arrebatadores placeres.»",
-                  "autor": "Martí",
-                  "referencia_obra": ", Sus mejores páginas, p. 122. —Además con otro complemento con a, que señala el tiempo. X"
+                  "id_limpio": "—",
+                  "definicion": "Además con en, que indica el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La letra que vuestra señoría me escribió de Córdoba a 23 de agosto me fue gratísima, por avisarme en ella de su buena navegación y de haber llegado en salvamento a su patria.»",
+                      "autor": "",
+                      "referencia_obra": "Simancas, Vida, (NBAE. 2. 1902)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Al comienzo del verano llegó a Takurú-Pukú uno de los dueños de la compañía en visita de inspección.»",
+                      "autor": "Roa",
+                      "referencia_obra": "Bastos, Éxodo, p. 123."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Llegaron a la orilla del mar a la hora de vísperas.»",
-                  "autor": "Cardenal",
-                  "referencia_obra": ", poes. El estrecho, p. 135. — Además con la prep. con, para indicar el modo."
+                  "id_limpio": "—",
+                  "definicion": "Además con entre, que señala el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Entre dos luces llegaron a Valladolid.»",
+                      "autor": "A. Saav.",
+                      "referencia_obra": "Rom. (Cl. C. 9. 104)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¡Cuántos testigos veremos en el día postrero de esto, que sus naos iban ya para se perder, iban a se hacer pedazos, estaban para se hundir, y soplándolos tu soplo fueron salvos, y llegaron con tranquilidad y seguridad al puerto!»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Ven. Esp. Santo, 4 (2. 340). X"
+                  "id_limpio": "—",
+                  "definicion": "La persona hacia quien se dirige.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En esto llegaron a ellos don Quixote y Sancho.»",
+                      "autor": "Avell.",
+                      "referencia_obra": "Quij. 6. 14 (Cl. C. 175. 47)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Porque a mí no llegue, | Agua con la mano | Le arrojo, y deseo | Se acerque otro tanto.»",
+                      "autor": "Iglesias",
+                      "referencia_obra": ", letr. 30 (R. 61. 4201)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«A su tumba llegué doliente y mudo, | Con emoción extraña.»",
-                  "autor": "Flórez",
-                  "referencia_obra": ", Obr. poét. p. 383. —Además con en, que indica el modo. X"
-                },
-                {
-                  "texto_cita": "«La letra que vuestra señoría me escribió de Córdoba a 23 de agosto me fue gratísima, por avisarme en ella de su buena navegación y de haber llegado en salvamento a su patria.»",
-                  "autor": "",
-                  "referencia_obra": "Simancas, Vida, (NBAE. 2. 1902). X"
-                },
-                {
-                  "texto_cita": "«Al comienzo del verano llegó a Takurú-Pukú uno de los dueños de la compañía en visita de inspección.»",
-                  "autor": "Roa",
-                  "referencia_obra": "Bastos, Éxodo, p. 123. —Además con entre, que señala el tiempo. X"
-                },
-                {
-                  "texto_cita": "«Entre dos luces llegaron a Valladolid.»",
-                  "autor": "A. Saav.",
-                  "referencia_obra": "Rom. (Cl. C. 9. 104). — La persona hacia quien se dirige. X"
-                },
-                {
-                  "texto_cita": "«En esto llegaron a ellos don Quixote y Sancho.»",
-                  "autor": "Avell.",
-                  "referencia_obra": "Quij. 6. 14 (Cl. C. 175. 47)."
-                },
-                {
-                  "texto_cita": "«Porque a mí no llegue, | Agua con la mano | Le arrojo, y deseo | Se acerque otro tanto.»",
-                  "autor": "Iglesias",
-                  "referencia_obra": ", letr. 30 (R. 61. 4201). —La finalidad. Siendo el término una prop. infinitiva. X"
-                },
-                {
-                  "texto_cita": "«Por sus jornadas, llegaron a se embarcar en la alta mar.»",
-                  "autor": "Ortúñez de Calahorra",
-                  "referencia_obra": ", Espejo, 1 (Cl. C. 193. 97)."
+                  "id_limpio": "—",
+                  "definicion": "La finalidad. Siendo el término una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Por sus jornadas, llegaron a se embarcar en la alta mar.»",
+                      "autor": "Ortúñez de Calahorra",
+                      "referencia_obra": ", Espejo, 1 (Cl. C. 193. 97)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la expresión junto a, que indica el lugar. X",
+              "definicion": "Con la expresión junto a, que indica el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«A este tiempo llegava la hermosa pastora junto a la fuente, cantando este soneto.»",
                   "autor": "Montem.",
                   "referencia_obra": "Diana, p. 40."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, que señala la compañía. X",
+              "definicion": "Con la prep. con, que señala la compañía.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo llegué con mi hermana.»",
                   "autor": "García Lorca",
                   "referencia_obra": ", Yerma, 3. 2 (p. 87)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con de, que señala el lugar de origen. X",
+              "definicion": "Con de, que señala el lugar de origen.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Poco a poco, los labriegos, que han llegado de los campos lejanos, se han retirado.»",
                   "autor": "Azorín",
                   "referencia_obra": ", La voluntad (Cl. Castal. 3. 136)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con en, que señala; — el tiempo. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, que señala;",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Llegó en aquesto la dama, y dijo: ---.»",
-                  "autor": "Lope",
-                  "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 196). X"
+                  "id_limpio": "—",
+                  "definicion": "el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Llegó en aquesto la dama, y dijo: ---.»",
+                      "autor": "Lope",
+                      "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 196)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Del gran Pompeyo el enemigo fuerte | Llega en oscura noche el pobre techo.»",
+                      "autor": "Arguijo",
+                      "referencia_obra": ", Obra poét. (Cl. Castal. 40. 133)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Del gran Pompeyo el enemigo fuerte | Llega en oscura noche el pobre techo.»",
-                  "autor": "Arguijo",
-                  "referencia_obra": ", Obra poét. (Cl. Castal. 40. 133). — El lugar. Adviértase en este ejemplo la forma compuesta con ser y no con haber. X"
-                },
-                {
-                  "texto_cita": "«Theoduardo fue llegado en la ciudad de Belgrado, era tan grande el desseo que tenía de ver a la princessa que al tercero día que fue venido se quiso partir para el Monesterio de la Ribera.»",
-                  "autor": "Ortúñez de Calahorra",
-                  "referencia_obra": ", Espejo, 1 (Cl. C. 193. 42)."
+                  "id_limpio": "—",
+                  "definicion": "El lugar. Adviértase en este ejemplo la forma compuesta con ser y no con haber.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Theoduardo fue llegado en la ciudad de Belgrado, era tan grande el desseo que tenía de ver a la princessa que al tercero día que fue venido se quiso partir para el Monesterio de la Ribera.»",
+                      "autor": "Ortúñez de Calahorra",
+                      "referencia_obra": ", Espejo, 1 (Cl. C. 193. 42)."
+                    }
+                  ]
                 }
               ]
             }
@@ -176,49 +285,75 @@
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Con hasta. Además con para, y una prop. en infinitivo que señala la finalidad. X",
+          "definicion": "Con hasta. Además con para, y una prop. en infinitivo que señala la finalidad.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Por el río Rhódano arriba llegó hasta la ciudad de Aviñón para verse con el Papa.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 19. 6 (2. 1851)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
               "definicion": "Con sujeto de cosa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Estaba el Duque en Bruselas cuando llegó el aviso de lo que pasaba en Santa Gertruden.»",
                   "autor": "Coloma",
-                  "referencia_obra": ", Guerras de los Est. Bajos, 2 (R. 28. 161). X"
+                  "referencia_obra": ", Guerras de los Est. Bajos, 2 (R. 28. 161)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Llegan ecos de canciones, traqueteos de carros, gritos agudos.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 63). X"
+                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 63)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Llegó ayer tu carta, y la solicitud que devuelvo firmada.»",
                   "autor": "Quiroga",
-                  "referencia_obra": ", Cartas a Delgado, 7 (p. 35). X"
+                  "referencia_obra": ", Cartas a Delgado, 7 (p. 35)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Hasta los nombres de esos individuos llegaron a Bogotá.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 3 (p. 221). — Con a. X"
+                  "referencia_obra": ", Sueños, 3 (p. 221)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con a.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Con frecuencia, sobre todo al pasar grupos de hombres, llegaban a los oídos de don Braulio vagos murmullos lisonjeros.»",
+                      "autor": "Valera",
+                      "referencia_obra": ", Pasarse de listo, 8 (5. p. 105)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Con frecuencia, sobre todo al pasar grupos de hombres, llegaban a los oídos de don Braulio vagos murmullos lisonjeros.»",
-                  "autor": "Valera",
-                  "referencia_obra": ", Pasarse de listo, 8 (5. p. 105). — Con hasta, que señala el límite de la acción. X"
-                },
-                {
-                  "texto_cita": "«Hasta ti llegan| Los latidos de acorde fortaleza | Y las plantas y troncos que renuevan | En trenzada ternura su firmeza.»",
-                  "autor": "Ridruejo",
-                  "referencia_obra": ", Primer libro de amor (Cl. Castal. 73. 54)."
+                  "id_limpio": "—",
+                  "definicion": "Con hasta, que señala el límite de la acción.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hasta ti llegan| Los latidos de acorde fortaleza | Y las plantas y troncos que renuevan | En trenzada ternura su firmeza.»",
+                      "autor": "Ridruejo",
+                      "referencia_obra": ", Primer libro de amor (Cl. Castal. 73. 54)."
+                    }
+                  ]
                 }
               ]
             }
@@ -227,39 +362,69 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. X",
+          "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La bercera, que siempre son desvergonzadas, empezó a dar voces. Llegáronse otras, y con ellas mil pícaros.»",
               "autor": "Quev.",
-              "referencia_obra": "Buscón (Cl. C. 5. 30). X"
+              "referencia_obra": "Buscón (Cl. C. 5. 30)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Llegose y combatió por mar con las galeras, y por tierra con tanta prisa.»",
               "autor": "Mend.",
               "referencia_obra": "Guerra de Gran. (Cl. Castal. 22. 362)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, que señala: — el lugar.",
-              "ejemplos_citas": [
+              "definicion": "Con a, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Cierto día desarmado [el Rey] y con poco recato se llegó mucho a la ciudad. Tiráronle de los adarves una saeta con que le mataron.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 8. 9 (1. 4072). — El tiempo. X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Cierto día desarmado [el Rey] y con poco recato se llegó mucho a la ciudad. Tiráronle de los adarves una saeta con que le mataron.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 8. 9 (1. 4072)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Marcial antes de irse, a Reina, que me ha dicho que me llegue acá mañana a las doce.»",
-                  "autor": "Fern.",
-                  "referencia_obra": "Caball. Lágrimas, p. 64. — Además con en. X"
+                  "id_limpio": "—",
+                  "definicion": "El tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Marcial antes de irse, a Reina, que me ha dicho que me llegue acá mañana a las doce.»",
+                      "autor": "Fern.",
+                      "referencia_obra": "Caball. Lágrimas, p. 64."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Llegaos en silencio | Al tálamo sangriento de la selva.»",
-                  "autor": "Zorrilla",
-                  "referencia_obra": "de S. Martín, Tabaré, 1. 1 (p. 40)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Llegaos en silencio | Al tálamo sangriento de la selva.»",
+                      "autor": "Zorrilla",
+                      "referencia_obra": "de S. Martín, Tabaré, 1. 1 (p. 40)."
+                    }
+                  ]
                 }
               ]
             }
@@ -268,67 +433,96 @@
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Impers. Con a. X",
+          "definicion": "Impers. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pasando el puente del Guáitara y ascendiendo por sendas que discurren entre dehesas, o por camino descansado, se llega a la ciudad de Túquerres.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 4 (p. 40)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. dep. X",
+          "definicion": "Part. dep.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Siendo Diana llegada | Donde sus amores vio | Quiso hablar, mas no habló.»",
               "autor": "Montem.",
               "referencia_obra": "Diana, p. 86."
             },
             {
+              "marca": "",
               "texto_cita": "«Llegado [el general] los venció en muchas batallas.»",
               "autor": "M. de Chaide",
               "referencia_obra": ", Magd. 4. 60 (R. 27. 4001)."
             },
             {
+              "marca": "",
               "texto_cita": "«Va [la víbora] diligente a casarse con la lamprea marina: llegada silba, como dando señas de que está allí.»",
               "autor": "León",
-              "referencia_obra": ", Perf. cas. 4 (4. 442). X"
+              "referencia_obra": ", Perf. cas. 4 (4. 442)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Seáis, señor, bien llegado.»",
               "autor": "Lope",
-              "referencia_obra": ", Servir a señor discreto (Cl. Castal. 68. 212). X"
+              "referencia_obra": ", Servir a señor discreto (Cl. Castal. 68. 212)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Amparándolas con amor paternal del ataque de los recién llegados.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Tónicos de la voluntad, 2 (p. 32)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para señalar: — el lugar. X",
-              "ejemplos_citas": [
+              "definicion": "Con a, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Hermanas,... el Señor os ha enseñado el camino... cómo se han de haber llegadas a esta fuente de agua viva.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Cam. perf (Cl. Esp. 100. 163)."
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hermanas,... el Señor os ha enseñado el camino... cómo se han de haber llegadas a esta fuente de agua viva.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Cam. perf (Cl. Esp. 100. 163)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«No podía ver [Nostogo], como griego, maltratar a los naturales, y las demasías que Roger hacía con ellos; y así, llegado a Constantinopla, quiso que el Emperador le oyese.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ". Exped. 14 (R. 21. 142)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«No podía ver [Nostogo], como griego, maltratar a los naturales, y las demasías que Roger hacía con ellos; y así, llegado a Constantinopla, quiso que el Emperador le oyese.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ". Exped. 14 (R. 21. 142). — La finalidad. El término es una prop. en infinitivo."
-                },
-                {
-                  "texto_cita": "«Llegado Berenguer Estañol a tomar el cargo y gobierno de nuestra gente, tuvo luego guerra con los príncipes comarcanos.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ", Exped. 70 (R. 21. 631)."
+                  "id_limpio": "—",
+                  "definicion": "La finalidad. El término es una prop. en infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Llegado Berenguer Estañol a tomar el cargo y gobierno de nuestra gente, tuvo luego guerra con los príncipes comarcanos.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ", Exped. 70 (R. 21. 631)."
+                    }
+                  ]
                 }
               ]
             }
@@ -338,13 +532,16 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Refrán.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Donde la comida falta, no hay bien que llegue ni mal que no sobre.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 1. 4 (R. 3. 1961)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -352,42 +549,74 @@
     {
       "id": "b)",
       "definicion": "Venir o tocar una cosa o acción a uno (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y os regalará [su Padre], cuidará y os llegará tanto bien, que seáis semejables al unigénito suyo.»",
               "autor": "Ávila",
               "referencia_obra": ", Eucar. 20 (4. 282)."
             },
             {
+              "marca": "",
               "texto_cita": "«Algunos, aunque son muy malos, son por otra parte poderosos --- que no parece les puede llegar el desastre.»",
               "autor": "León",
-              "referencia_obra": ", Expos. de Job, 1. 4 (1. 60). — Además con a, que señala el tiempo. X"
+              "referencia_obra": ", Expos. de Job, 1. 4 (1. 60)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con a, que señala el tiempo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«¡Y pensar que a este hombre no le llega el sueldo al último día del mes! —se dijo a sí misma doña Petra suspirando.»",
+                  "autor": "Clarín",
+                  "referencia_obra": ", Avecilla (Cl. Castal. 69. 142)."
+                }
+              ]
             },
             {
-              "texto_cita": "«¡Y pensar que a este hombre no le llega el sueldo al último día del mes! —se dijo a sí misma doña Petra suspirando.»",
-              "autor": "Clarín",
-              "referencia_obra": ", Avecilla (Cl. Castal. 69. 142). — Además con hacia, para indicar el tiempo."
+              "id_limpio": "—",
+              "definicion": "Además con hacia, para indicar el tiempo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Habíanle llegado al Duque hacia la fin del año de 88 veinte y dos banderas de españoles.»",
+                  "autor": "Coloma",
+                  "referencia_obra": ", Guerras de los Est. Bajos, 1 (R. 28. 62)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Habíanle llegado al Duque hacia la fin del año de 88 veinte y dos banderas de españoles.»",
-              "autor": "Coloma",
-              "referencia_obra": ", Guerras de los Est. Bajos, 1 (R. 28. 62). — Además con por, que señala el medio. X"
-            },
-            {
-              "texto_cita": "«Los folletos insulsos que diaria y profusamente le llegaban por el correo interior y que al principio creyó muestras de una especial deferencia a su persona.»",
-              "autor": "Pereda",
-              "referencia_obra": ", Hombres de pro, 17 (1. p. 171). Además con la expresión de improviso."
-            },
-            {
-              "texto_cita": "«En las adversidades suele también peligrar el valor, porque a casi todos los hombres llegan de improviso.»",
-              "autor": "Saav.",
-              "referencia_obra": "Emp. 33 (R. 25. 861)."
+              "id_limpio": "—",
+              "definicion": "Además con por, que señala el medio.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Los folletos insulsos que diaria y profusamente le llegaban por el correo interior y que al principio creyó muestras de una especial deferencia a su persona.»",
+                  "autor": "Pereda",
+                  "referencia_obra": ", Hombres de pro, 17 (1. p. 171). Además con la expresión de improviso."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«En las adversidades suele también peligrar el valor, porque a casi todos los hombres llegan de improviso.»",
+                  "autor": "Saav.",
+                  "referencia_obra": "Emp. 33 (R. 25. 861)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -395,14 +624,17 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. Con dat. X",
+          "definicion": "Part. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Dados los informes llegados a su eminencia y los deseos expresados por él, la legitimidad de semejante observación era irreprochable.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 3 (p. 268)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -410,77 +642,95 @@
     {
       "id": "c)",
       "definicion": "Verificarse, empezar a correr un cierto tiempo de ser o hacerse una cosa (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Esposo del alma mía! | ¡Que llegó tan dulce día!»",
               "autor": "Lope",
               "referencia_obra": ", Servir a señor discreto, (Cl. Castal. 68. 285)."
             },
             {
+              "marca": "",
               "texto_cita": "«El fin de su cantar y de nuestro camino llegaron juntos.»",
               "autor": "Valb.",
-              "referencia_obra": "Siglo de oro, 9 (p. 185). X"
+              "referencia_obra": "Siglo de oro, 9 (p. 185)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Llegó la hora de despedirme de ella, y salí con don Serafín a la calle.»",
               "autor": "Pereda",
-              "referencia_obra": ", Pedro Sánchez, 1 12 (Cl. C. 144. 121). X"
+              "referencia_obra": ", Pedro Sánchez, 1 12 (Cl. C. 144. 121)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La noche llegará, y con la noche la sedante calma de la sombra.»",
               "autor": "Azorín",
-              "referencia_obra": ", La voluntad (Cl. Castal. 3. 113). X"
+              "referencia_obra": ", La voluntad (Cl. Castal. 3. 113)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Goethe vio llegar la revolución francesa con filosófica indiferencia.»",
               "autor": "",
               "referencia_obra": "Sanín Cano, El humanismo, p. 17."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Raras veces a delitos execrables deja de llegarles, aunque se difiera, el castigo.»",
                   "autor": "Coloma",
                   "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 331)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con a, que señala el tiempo en que se ejecuta la acción. X",
+              "definicion": "Con a, que señala el tiempo en que se ejecuta la acción.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Habiendo llegado al fin el día en que el senado de Wáshington aprobó el tratado de 1914.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 3 (p. 162)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Llegado el momento, me arreglé para llevar a los zanjones unas cargas de alambres rotos, fierros viejos y varillas quebradas.»",
               "autor": "Güiraldes",
               "referencia_obra": ", Don Segundo Sombra, 4 (p. 32)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -488,105 +738,137 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Alcanzar cierto punto o término, realizar una actividad con un propósito determinado (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Era tan curiosa y bien puesto el de su cuerpo, que ayudándose unas prendas a otras, toda en todo, ni el pincel puede llegar, ni la imaginación aventajarse.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 1. 1. 2 (R. 3. 1921)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mira, Elisa, si me ciega | Con razón el sentimiento, | No llegando el sufrimiento | Donde el sentimiento llega.»",
               "autor": "Alarcón",
               "referencia_obra": ", La amistad castigada, 1. 8 (R. 20. 2873)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, que señala el límite de la acción.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tomich historiador Catalán atestigua que llegaron a diez y ocho mil caballos.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 18. 14 (2. 1582)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Por mucha [penitencia] que ella hiciera teniendo salud, no llegara a la que Dios le dio con las enfermedades.»",
                   "autor": "Yepes",
                   "referencia_obra": ", Vida de Sta. Ter. 1. 7 (Míst. 1. 23)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Toda esta gente podía llegar al número de novecientos caballos.»",
                   "autor": "Coloma",
                   "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 301)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Conociendo los indios el poco efecto que hacían sus armas arrojadizas, llegaron brevemente a los chuzos y a las espadas.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 2. 17 (R. 28. 2561)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Establecieron aquella arquitectura del medio tiempo, que aunque distaba mucho de la gótica, no llegaba todavía al gusto y majestad de la griega y romana.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Elog. (3. 155). X"
+                  "referencia_obra": "Elog. (3. 155)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Siente tal satisfacción prodigando el bien en su jornada, que al llegar al término de ella, lejos de haber enflaquecido, ha engruesado de tal modo.»",
                   "autor": "Trueba",
-                  "referencia_obra": ", Breve antol. p. 42. X"
+                  "referencia_obra": ", Breve antol. p. 42."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Al paso que va, señor Pulgar, llegará usted muy tarde al fin de sus sueños internacionales.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 3 (p. 257). — El término es una prop. infinitiva. X"
-                },
+                  "referencia_obra": ", Sueños, 3 (p. 257)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Cuando llegue a estar crecido, | Ha de ser un gran señor.»",
-                  "autor": "Lope",
-                  "referencia_obra": ", Poes. lír. (Cl. C. 68. 69)."
-                },
-                {
-                  "texto_cita": "«Muchos, impacientes, dejaban el estudio, y aunque eran hábiles para las sciencias, tenían tal oposición a la gramática, que se aplicaban a las armas o a las artes mecánicas, sin llegar a ser ciudadanos de aquella república.»",
-                  "autor": "Saav.",
-                  "referencia_obra": "Rep. (R. 25. 3971)."
-                },
-                {
-                  "texto_cita": "«Conténtese el ministro con que las llegue a conocer [las verdades] el príncipe.»",
-                  "autor": "",
-                  "referencia_obra": "Id. Emp. 48 (R. 25. 1241)."
-                },
-                {
-                  "texto_cita": "«Con este artificio llegó a ser muy favorecido Vatinio y también Seyano.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 50 (R. 25. 1312)."
-                },
-                {
-                  "texto_cita": "«Cuando un autor ha llegado a ser farnoso, todo se le aplaude.»",
-                  "autor": "T. Iriarte",
-                  "referencia_obra": ", Fáb. ind. (1. 114)."
-                },
-                {
-                  "texto_cita": "«Pero quiso el destino | Que le llegase a ver desde el molino | La punta de una oreja el molinero.»",
-                  "autor": "Saman.",
-                  "referencia_obra": "Fáb. 5. 5 (R. 61. 3751). X"
-                },
-                {
-                  "texto_cita": "«Durante largas etapas llegó a olvidarse que también debemos mirar a un árbol tras otro para que nuestra visión del bosque no se deshumanice.»",
-                  "autor": "Buero Vallejo",
-                  "referencia_obra": ", El tragaluz (Cl. Castal. 35. 213)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cuando llegue a estar crecido, | Ha de ser un gran señor.»",
+                      "autor": "Lope",
+                      "referencia_obra": ", Poes. lír. (Cl. C. 68. 69)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Muchos, impacientes, dejaban el estudio, y aunque eran hábiles para las sciencias, tenían tal oposición a la gramática, que se aplicaban a las armas o a las artes mecánicas, sin llegar a ser ciudadanos de aquella república.»",
+                      "autor": "Saav.",
+                      "referencia_obra": "Rep. (R. 25. 3971)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Conténtese el ministro con que las llegue a conocer [las verdades] el príncipe.»",
+                      "autor": "",
+                      "referencia_obra": "Id. Emp. 48 (R. 25. 1241)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Con este artificio llegó a ser muy favorecido Vatinio y también Seyano.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 50 (R. 25. 1312)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Cuando un autor ha llegado a ser farnoso, todo se le aplaude.»",
+                      "autor": "T. Iriarte",
+                      "referencia_obra": ", Fáb. ind. (1. 114)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Pero quiso el destino | Que le llegase a ver desde el molino | La punta de una oreja el molinero.»",
+                      "autor": "Saman.",
+                      "referencia_obra": "Fáb. 5. 5 (R. 61. 3751)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Durante largas etapas llegó a olvidarse que también debemos mirar a un árbol tras otro para que nuestra visión del bosque no se deshumanice.»",
+                      "autor": "Buero Vallejo",
+                      "referencia_obra": ", El tragaluz (Cl. Castal. 35. 213)."
+                    }
+                  ]
                 }
               ]
             },
@@ -594,23 +876,28 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con hasta.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Era forzoso conformarse con el tiempo y llegar hasta lo que las cosas deban lugar.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 15. 12 (1. 7611)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Seis mil y quinientos soldados de paga es cierto que llegaron hasta el número de ocho mil con los criados y familia de los capitanes y ricoshombres.»",
                   "autor": "Moncada",
-                  "referencia_obra": ", Exped. 7 (R. 21. 81). X"
+                  "referencia_obra": ", Exped. 7 (R. 21. 81)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Son dos docenas de gargantas que quisieran llenar con sus roncas voces la bóveda del cielo y llegar hasta las llanuras del mar.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 3. 14 (p. 246)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -618,39 +905,48 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Razón será, que los Perlados que vinieren se lleguen a este parecer, pues por tan buenos está determinado.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cam. perf. 5 (1. 423)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con a. X",
+          "definicion": "Part. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Llegados a este punto, deseará acaso el lector que, abandonando el terreno de las generalidades, definamos el tipo de mujer más adecuado al hombre de ciencia.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Tónicos de la voluntad, 6 (p. 128)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "En el siguiente ejemplo, Ponerse en el mismo nivel de alguien. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No se compara [esta mujer] con otra perfección de su género porque no hay otra, y en ella está toda; sino compárase con otras cualidades que caminan a ella y no le llegan.»",
               "autor": "León",
               "referencia_obra": ", Perf. cas. 19 (4. 511)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -658,46 +954,66 @@
     {
       "id": "b)",
       "definicion": "Tocar, alcanzar una cosa (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La piedra que estaba en los arcos debajo del tafetán, quedó negra del humo, y el tafetán, que estaba encima, sin ninguna cosa, más que si no hubiera llegado allí el fuego.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Fund. 26 (2. 397)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, para indicar el límite y con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Y quién es aquel héroe alto de talla | Y de miembros fornido, | Que entre todos | Los Griegos sobresale, y el más alto | Al hombro no le llega.»",
                   "autor": "",
                   "referencia_obra": "Hermosilla, Iliada. 3 (1. 86)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con hasta, que señala el límite. X",
+              "definicion": "Con hasta, que señala el límite.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Dos perchas salientes, de las cuales penden cortinas que llegan hasta el suelo.»",
                   "autor": "",
-                  "referencia_obra": "Tamayo y Baus, Un drama nuevo, p. 209. —Además con la prep. con, que señala la compañía."
-                },
+                  "referencia_obra": "Tamayo y Baus, Un drama nuevo, p. 209."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y teniendo ya su edificio en tal punto, que presto había de llegar con la cumbre hasta la vista clara de Dios, no se olvidó de acudir y reforzar el fundamento de la humildad y propio conocimiento.»",
-                  "autor": "L. Palma",
-                  "referencia_obra": ", Vida de G. de la Palma, p. 61."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, que señala la compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y teniendo ya su edificio en tal punto, que presto había de llegar con la cumbre hasta la vista clara de Dios, no se olvidó de acudir y reforzar el fundamento de la humildad y propio conocimiento.»",
+                      "autor": "L. Palma",
+                      "referencia_obra": ", Vida de G. de la Palma, p. 61."
+                    }
+                  ]
                 }
               ]
             }
@@ -708,34 +1024,51 @@
     {
       "id": "c)",
       "definicion": "Ascender en empleo o dignidad (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y otros imperios que a su vez se elevan, | Crecen, y llegan, y los tragan, y huyen.»",
               "autor": "Quint.",
               "referencia_obra": "poes. a R. Moreno (R. 19. 281)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, que señala el punto al cual se llega. X",
+              "definicion": "Con a, que señala el punto al cual se llega.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Morgan ha obrado en complicidad con las autoridades de Jamaica, es hecho caballero en la corte, y llegará a gobernador de Jamaica y a morir con muchas honras.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 214). — Siendo el término una prop. en infinitivo. Además con la prep. con."
-                },
+                  "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 214)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y [Roger] con la pequeña armada que llevaba a su cargo, impidiendo la libre navegación de los mares y costas de Nápoles, con que llegó a ser vicealmirante.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ", Exped. 3 (R. 21. 52)."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término una prop. en infinitivo. Además con la prep. con.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y [Roger] con la pequeña armada que llevaba a su cargo, impidiendo la libre navegación de los mares y costas de Nápoles, con que llegó a ser vicealmirante.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ", Exped. 3 (R. 21. 52)."
+                    }
+                  ]
                 }
               ]
             }
@@ -746,118 +1079,145 @@
     {
       "id": "3",
       "definicion": "Allegar, acercar, arrimar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No puedo tenerme en pie, | Una silla me llegad.»",
               "autor": "Rojas",
               "referencia_obra": ". El caín de Catal. 1 (R. 54. 2712)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«[El sol] llegándose y desviándose de nosotros, es causa de los cuatro tiempos del año.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 5. 1. 4 (5. 2361)."
             },
             {
+              "marca": "",
               "texto_cita": "«Otros maridos hay jeringas, que apartados atraen, y llegándose apartan.»",
               "autor": "Quev.",
-              "referencia_obra": "Visita (1. 361). X"
+              "referencia_obra": "Visita (1. 361)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo me llegué, y le dije: ---.»",
               "autor": "Espinel",
               "referencia_obra": ", Escud. 1. 7 (Cl. C. 43. 114)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Como yo me llegase más a donde Diana estava vi que ponía los ojos en la clara fuente.»",
                   "autor": "Montem.",
                   "referencia_obra": "Diana, p. 34."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Quién se llegó a ti que no le fuese bien de ello?»",
                   "autor": "Ávila",
                   "referencia_obra": ", Festiv. 4 (5. 128)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Para lo cual todo el Creador les proveyó de tal instinto, que después de los elefantes, no hay animales que más se lleguen a la razón del hombre que estos.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Símb. 5. 1. 5 (5. 2391). X"
+                  "referencia_obra": "Símb. 5. 1. 5 (5. 2391)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Soy yo un hombre que me sabré llegar a otro hombre y meterle dos palmos de daga por las tripas.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Ilustre fregona (Cl. C. 27. 292). X"
+                  "referencia_obra": "Ilustre fregona (Cl. C. 27. 292)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Llegose a él y, poniéndose de rodillas y rodeándole la cintura con sus brazos, le dijo:»",
                   "autor": "",
                   "referencia_obra": "P. Galdós, Lo prohibido (Cl. Castal. 34. 253)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la expresión cerca de. X",
+              "definicion": "Con la expresión cerca de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Alborotada la flota carrozal, llegose cerca de nosotros el autor de la pesadumbre muy ufano de lo que había hecho.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 1. 8 (Cl. C. 43. 136)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "En los siguientes ejemplos, Juntar, reunir. X",
+          "definicion": "En los siguientes ejemplos, Juntar, reunir.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A las buenas ganas que mi madre tuvo, fue llegando leño y leño y de flacas estopas levantó brevemente un terrible fuego.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán (Cl. C. 73. 77)."
             },
             {
+              "marca": "",
               "texto_cita": "«Por esta causa desde Burgos, donde era ido con intento de llegar dinero para la guerra, a grandes jornadas se partió para Córdoba.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 13. 1 (1. 6321)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Loc. Llegar a las manos: X",
+          "definicion": "Loc. Llegar a las manos:",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Más me espanto yo de vuestro seso, señora Agueda, llegar a las manos con semejante persona por cosa que se puede remediar con palabras.»",
               "autor": "",
               "referencia_obra": "L. Rueda, Medora (Cl. C. 181. 99)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -865,7 +1225,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «Fuyendo non fuye la muerte el covarde, | Que más a los viles es sienpre llegada.» Mena, Lab. (Cl. C. 119. 81). X «De parte del austro, vi como se llega la tierra de Egito al Rubro Nereo, de Egito.» Id. ib. (Cl. C. 119. 22). «Aquel día non çesamos | Hasta tanto que llegamos | En un castillo espantoso.» Santill. Canc. (Cl. C. 18. 25).\n\n— Siglo XIV: X «Desque fue el infante a buena hedat llegado.» Arc. de Hita, 133 (Cl. C. 14. 60).\n\n— Siglo XIII: X «Llegaron en çohinos, guiolos el peccado.» Berc. Mil. (Cl. C. 44. 194). X «Mas non podían llegar tantas eran las gentes | Fasíanse batisar los que non eran creyentes.» Vida de S. Ildef. (ICC. 36. 246). X «Sy por alguna guisa al rrey puedo llegar los tuertos que me fyzo cuedo le demandar.» Fern. Gonz. (Cl. C. 128. 91). X «Las gentes afrycanas fueron luego juntadas, al puerto de la mar fueron luego [L] legadas.» ib. (Cl. C. 128. 20).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. plicare ‘plegar’, derivado regresivo de los compuestos applicare, complicare, explicare, implicare, Cat. legar, port. chegar.\n\n\u0000",
+  "etimologia": "Etim. Del lat. <i>plicare</i> ‘plegar’, derivado regresivo de los compuestos <i>applicare</i>,<i> complicare</i>,<i> explicare</i>,<i> implicare</i>, Cat.<i> legar</i>, port.<i> chegar</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",

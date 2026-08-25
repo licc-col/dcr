@@ -6,121 +6,187 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Identificar por sus rasgos o por alguna señal (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿No me conoce vuestra merced? Pues míreme bien; que yo soy aquel mozo Andrés que quitó vuestra merced de la encina donde estaba atado. Reconocióle don Quijote, y asiéndole por la mano, se volvió a los que allí estaban.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 31 (Cl. C. 8. 145). X"
+              "referencia_obra": "Quij. 1. 31 (Cl. C. 8. 145)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tres soldados nuestros movidos de su codicia o quizá de la hermosura y bizarría de la mujer, la fueron siguiendo. Reconoció el marido sus enemigos y el cuidado con que le venían siguiendo.»",
               "autor": "Moncada",
-              "referencia_obra": ", Exped. 1. 43 (Cl. C. 54. 153) X"
+              "referencia_obra": ", Exped. 1. 43 (Cl. C. 54. 153)"
             },
             {
+              "marca": "X",
               "texto_cita": "«Hallábame ocupado en poner a don Alonso una venda en el brazo, cuando sentí que apoyaban una mano en mi hombro; me volví y encaré con un joven alto, embozado en luengo capote azul, y al pronto, como suele suceder no le reconocí.»",
               "autor": "P. Galdós",
-              "referencia_obra": ", Trafalgar, 13 (p 135). X"
+              "referencia_obra": ", Trafalgar, 13 (p 135)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Un amigo de los tiempos heroicos! ¡No me reconoces, Paco! ¡Tanto me ha cambiado la vida! ¡No me reconoces! ¡Soy Máximo Estrella!»",
               "autor": "Valle-Inclán",
-              "referencia_obra": ", Luces de bohemia (Cl. C. 180. 93). X"
+              "referencia_obra": ", Luces de bohemia (Cl. C. 180. 93)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El troglodita me precedió; esa noche concebí el propósito de enseñarle a reconocer, y acaso a repetir, algunas palabras.»",
               "autor": "Borges",
               "referencia_obra": ", El inmortal, 3 (El Aleph, p. 17)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Siendo el sujeto una prop. indicativa. X",
+              "definicion": "Siendo el sujeto una prop. indicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya tu silvo reconoscan | Quantos oy rebaños pazen | En el deforme alimento | De la verdad los ultrajes.»",
                   "autor": "Solís",
                   "referencia_obra": "y Valenzuela, El desierto prodigioso, 1 (ICC. 45. 216)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Siendo el acus. una prop. infinitiva. X",
+              "definicion": "Siendo el acus. una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tal un diente descubierto en el mismo sitio, y remitido al sabio Nicolás de Peireks, que reconoció ser diente molar de un elefante, como el otro de que hemos hablado arriba.»",
                   "autor": "Feijóo",
                   "referencia_obra": ", Teatro crít. 3 (Cl. C. 67. 21)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y de pronto al través de los peñascos | Una brillante luz poco remota | Advierte, y reconoce ser la lumbre | De amigo albergue y conocida choza.»",
                   "autor": "A. Saav.",
-                  "referencia_obra": "Moro expós. 10 (2. 355). — Además con en, para indicar el medio."
-                },
+                  "referencia_obra": "Moro expós. 10 (2. 355)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Hablele, y me respondió, | Y en la voz reconocí | Ser Félix; y despechado | Con la ofensa, le maté.»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", Quien mal anda en mal acaba, 3. 12 (R. 20. 2253)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para indicar el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Hablele, y me respondió, | Y en la voz reconocí | Ser Félix; y despechado | Con la ofensa, le maté.»",
+                      "autor": "Alarcón",
+                      "referencia_obra": ", Quien mal anda en mal acaba, 3. 12 (R. 20. 2253)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, que señala: — el ámbito. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Retirado el sol ateza | El mundo nuevo etiope, | Que en este segundo caos, | El primero reconoce.»",
-                  "autor": "Domínguez Camargo",
-                  "referencia_obra": ", Obr. (ICC. 15. 419). X"
+                  "id_limpio": "—",
+                  "definicion": "el ámbito.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Retirado el sol ateza | El mundo nuevo etiope, | Que en este segundo caos, | El primero reconoce.»",
+                      "autor": "Domínguez Camargo",
+                      "referencia_obra": ", Obr. (ICC. 15. 419)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Es cierto —dijo Larsen; cruzó las piernas y calzó el sombrero en la rodilla— Usted se habrá dado cuenta desde el principio, desde que me reconoció en el teléfono.»",
+                      "autor": "Onetti",
+                      "referencia_obra": ", El astillero, p. 155."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Es cierto —dijo Larsen; cruzó las piernas y calzó el sombrero en la rodilla— Usted se habrá dado cuenta desde el principio, desde que me reconoció en el teléfono.»",
-                  "autor": "Onetti",
-                  "referencia_obra": ", El astillero, p. 155. — El modo. X"
-                },
-                {
-                  "texto_cita": "«Úrsula reconoció en su modo de hablar rebuscado la cadencia lánguida de la gente del páramo, los cachacos.»",
-                  "autor": "García Márquez",
-                  "referencia_obra": ", Cien años de soledad, p. 117."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Úrsula reconoció en su modo de hablar rebuscado la cadencia lánguida de la gente del páramo, los cachacos.»",
+                      "autor": "García Márquez",
+                      "referencia_obra": ", Cien años de soledad, p. 117."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con por, que indica la causa. X",
+              "definicion": "Con por, que indica la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Aunque el mulato me señalaba las sabanetas donde anochecimos la víspera, fueme imposible reconocerlas, por su semejanza con las demás.»",
                   "autor": "Rivera",
-                  "referencia_obra": ", La vorágine, 1 (p. 91). — Además con una prop. indicativa. X"
+                  "referencia_obra": ", La vorágine, 1 (p. 91)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con una prop. indicativa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Uno de aquellos chiquillos, a quien reconocimos porque tres cuadras más abajo, a la entrada del Albaicín, se había arrojado sobre nosotros para pedirnos limosna, le oímos decir, cuando lo increpamos por habernos pedido dos veces: —el otro era mi hermano. Es que somos mellizos.»",
+                      "autor": "Calderón",
+                      "referencia_obra": ", Ancha es Castilla, p. 26."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Uno de aquellos chiquillos, a quien reconocimos porque tres cuadras más abajo, a la entrada del Albaicín, se había arrojado sobre nosotros para pedirnos limosna, le oímos decir, cuando lo increpamos por habernos pedido dos veces: —el otro era mi hermano. Es que somos mellizos.»",
-                  "autor": "Calderón",
-                  "referencia_obra": ", Ancha es Castilla, p. 26. — El lugar. Además con un gerundio. X"
-                },
-                {
-                  "texto_cita": "«Buscándolos vosotros, reconoceréis por todas partes los caminos que anduvieron, las huellas que dejaron estampadas en las vastas regiones del universo.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "Discursos (Cl. C. 129. 121)."
+                  "id_limpio": "—",
+                  "definicion": "El lugar. Además con un gerundio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Buscándolos vosotros, reconoceréis por todas partes los caminos que anduvieron, las huellas que dejaron estampadas en las vastas regiones del universo.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "Discursos (Cl. C. 129. 121)."
+                    }
+                  ]
                 }
               ]
             }
@@ -130,83 +196,102 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Que suele Nuestro Señor traer estos a las manos de quien más persiguieron, para bien de entrambos, para que se ejercite el uno se reconozca el otro.»",
               "autor": "Sig.",
               "referencia_obra": "Vida de S. Jer. 6. 2 (p. 563)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Recípr. X",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El Real Carlos y el San Hermenegildo, viéndose atacados inesperadamente, hicieron fuego; pero se estuvieron batiendo el uno contra el otro, hasta que cerca del amanecer y estando a punto de abordarse se reconocieron y ocurrió lo que tan detalladamente te ha contado Marcial.»",
               "autor": "P. Galdós",
               "referencia_obra": ", Trafalgar, 4 (p. 38)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Sustantivado. X",
+          "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Llega del cansado curso | A la infalible certeza, | Y ardientes suspíros muebe | Al reconocer la meta.»",
               "autor": "Solís",
               "referencia_obra": "y Valenzuela, El desierto prodigioso, 1 (ICC. 45. 68)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Impers. X",
+          "definicion": "Impers.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Tiene usted los nombres de los otros? —Sí señor. —¿Y eran? —Además de Lynch, se ha reconocido a un tal Oliden, a Juan Riglos y al joven Maisson.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 1 (p. 70)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "met. X",
+          "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Hay veces en que no sólo esta engañosa torpeza precede a la ineptitud, sino que la precede también una aversión manifiesta por el género de actividad en que luego la vocación ha de reconocer el campo que le está prevenido.»",
               "autor": "Rodó",
               "referencia_obra": ", Motivos de Proteo, p. 86."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "Conocerse a sí mismo. Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Desembarazada [el alma] de las cosas de fuera, entrase dentro de sí, y puesta allí, conversa solamente consigo y reconócese.»",
               "autor": "León",
-              "referencia_obra": ", Expos. de Job, 1. 4 (1. 65). X"
+              "referencia_obra": ", Expos. de Job, 1. 4 (1. 65)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dios, reconociéndose a sí mismo, conoce a toda criatura.»",
               "autor": "Balmes",
               "referencia_obra": ", Filosof. fund. (BAC. 37. 159)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -214,90 +299,111 @@
     {
       "id": "b)",
       "definicion": "Examinar con cuidado a una persona o cosa para establecer su identidad, naturaleza y circunstancia (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Vanse ya recogiendo a su casa, dexando a los demás ministros en las suyas, mas ni hallarse tan solos bastó para que nos dexassen passar. Quisieron reconocernos, y escusarlo nosotros, temiendo el mal descargo del cargo que llevávamos.»",
               "autor": "Césp. y Men.",
               "referencia_obra": "Sold. Pínd. 1. 14 (Cl. C. 202. 144)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y no me ha de salir ninguno de este aposento hasta reconocerlos a todos.»",
               "autor": "Guev.",
               "referencia_obra": "Diablo coj. 9 (R. 33. 431)."
             },
             {
+              "marca": "",
               "texto_cita": "«Míentras que yo reconozco | La posada donde vive, | Vos esperad aquí un poco.»",
               "autor": "Mto.",
-              "referencia_obra": "El caballero, 3. 11 (R. 39. 3072). X"
+              "referencia_obra": "El caballero, 3. 11 (R. 39. 3072)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Poco después se dedica Zabala a reconocer el estado interior de nuestras provincias y a examinar todos los ramos de la hacienda real.»",
               "autor": "Jovell.",
-              "referencia_obra": "Discursos (Cl. C. 129. 78). X"
+              "referencia_obra": "Discursos (Cl. C. 129. 78)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La multitud invadía el muelle para reconocer los heridos, esperando encontrar al padre, al hermano, al hijo o al marido.»",
               "autor": "",
-              "referencia_obra": "P. Galdós, Trafalgar, 16 (p. 175). X"
+              "referencia_obra": "P. Galdós, Trafalgar, 16 (p. 175)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Mentís! Pero si el oro es legítimo, te lo cambio por monea papel. —No \"le jalo\" —Préstame una libra pa reconocerla.»",
               "autor": "Rivera",
               "referencia_obra": ", La vorágine, 1 (p. 72)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Siendo el acus. una prop. indicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ve en un vuelo | Y reconoce quién es. | —Yo ya he visto, aunque de lejos, | Que el Rey y la Infanta vienen | Y Alvar González con ellos | Y Egas Coello.»",
                   "autor": "Guev.",
-                  "referencia_obra": "Reinar después de morir (Cl. C. 132. 34). X"
+                  "referencia_obra": "Reinar después de morir (Cl. C. 132. 34)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y estas municiones y aparejos de guerra V. S. los visite, y reconozca si son buenos, si van bien acondicionados, si hay hartos.»",
                   "autor": "Cascales",
-                  "referencia_obra": ", Cartas filológ. 1. 3 (Cl. C. 103. 76). X"
+                  "referencia_obra": ", Cartas filológ. 1. 3 (Cl. C. 103. 76)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y que yo de posta al paso | He de estar reconociendo | A cuantos el real camino | De la vida pisen, siendo | Registro suyo hasta ver | Si hay quien o piadoso o cuerdo | Se duela de ti.»",
                   "autor": "Cald.",
                   "referencia_obra": "Autos, 2 (Cl. C. 74. 172)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con desde.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Entró Diego de Ordaz a pedirle licencia para reconocer desde más cerca el volcán.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 3. 4 (R. 28. 2692)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con sin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Al través de las verjas los jardines | Observa y reconoce sin efecto.»",
                   "autor": "A. Saav.",
                   "referencia_obra": "Moro expós. 2 (2. 67)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -305,26 +411,32 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Estos no consideraron sus excelencias [del hombre], su arbitrio y poder sobre las cosas, habiéndole dado [la naturaleza] un entendimiento veloz, ---una razón, que distingue, infiere y concluye; un juicio que reconoce, pondera y decide.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 84 (R. 25. 2251)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Antes de emprendellas [las guerras] conviene que tenga el príncipe reconocidas sus fuerzas.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 81 (R. 25. 2162)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -332,96 +444,119 @@
     {
       "id": "c)",
       "definicion": "Advertir, reparar, observar, notar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En reconociendo los ministros la inclinación del príncipe, le lisonjean.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 7 (R. 25. 242)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Siendo el acus. una prop. indicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Esto sucede de diferentes maneras, las cuales señalaré aquí para que el príncipe esté advertido, y no se deje abrir el pecho y reconocer lo que en él se oculta.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 62 (R. 25. 1722). X"
+                  "referencia_obra": "Emp. 62 (R. 25. 1722)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Qué brutos somos! —exclamó Vidal, deteniéndose —Si nos ve un guardia correr así nos coge —Y si pasamos por el fielato reconocerán lo que llevamos en el lío y nos detendrán —añadió Manuel.»",
                   "autor": "Baroja",
                   "referencia_obra": ", La busca, 3. 4 (p. 158)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En reconociendo los ministros flojedad en el príncipe y que los deja mandar, procuran para sí la mayor autoridad.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 57 (R. 25. 1521)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Reconozco en su real persona virtudes dignas de amor y reverencia.»",
                   "autor": "Melo",
-                  "referencia_obra": ", Guerra de Catal. 3 (R. 21. 4892). X"
+                  "referencia_obra": ", Guerra de Catal. 3 (R. 21. 4892)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero en estos mismos golpes, que constituyen el supremo honor de Virgilio, reconozco aquel furor divino que da el supremo valor a un poerna.»",
                   "autor": "Feijóo",
                   "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 204)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. Siendo el sujeto una prop. infinitiva. X",
+          "definicion": "Pas. refl. Siendo el sujeto una prop. infinitiva.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No para aquí lo más fino de la superchería, sino es que, así por algunos pasajes que claramente hablan con los franceses en particular, como por ser el autor francés, se reconoce ser dirigida la obra y la referida sentencia a ellos y a sus malos predicadores.»",
               "autor": "Isla",
               "referencia_obra": ", Fr. Ger. pról. (Cl. C. 148. 44)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Entre tanta multitud de escritores apenas hay uno cuyo estilo sea tan parecido al de otro, que no se le reconozca alguna diferencia.»",
                   "autor": "Luzán",
                   "referencia_obra": ", Poét. 2. 19 (1. 282)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En medio se abría la puerta, que Festo y Frontino llaman Viminal: todavía se reconocen los vestigios en un terreno cultivado inmediato a las termas de Diocleciano.»",
                   "autor": "Catalina",
                   "referencia_obra": ", Roma, p. 474."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -429,13 +564,16 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Impers. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Al primer choque se reconoció cuán cerca estaban del miedo las afectaciones del valor.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 5. 18 (R. 28. 3722)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -443,220 +581,272 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Aceptar, admitir (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y es buen remate este de la disputa a donde Job es argüido de presunción contra Dios, amonestarle que se humille a él, y reconozca y confiese su culpa.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 2. 34 (2. 200)."
             },
             {
+              "marca": "",
               "texto_cita": "«Reconozco las dificultades y contingencias de tan ardua resolución; pero las grandes hazañas son hijas de los grandes peligros.»",
               "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 3. 18 (R. 28. 2961). X"
+              "referencia_obra": ", Conq. de Méj. 3. 18 (R. 28. 2961)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Lo reconozco, lo confieso de buena fe; fuera necedad negar la excelencia de aquellos grandes modelos.»",
               "autor": "Jovell.",
-              "referencia_obra": "Discursos (Cl. C. 129. 99). X"
+              "referencia_obra": "Discursos (Cl. C. 129. 99)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ellos, en fin, no reconocen más que una ley, la imperiosa ley de la naturaleza que allí los puso, y esa la obedecen.»",
               "autor": "Larra",
-              "referencia_obra": ", Art. polít. y soc. (Cl. C. 77. 260). X"
+              "referencia_obra": ", Art. polít. y soc. (Cl. C. 77. 260)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Lo había hecho, una vez y otra, sin preocupaciones ni problemas, como el patrón que paga un salario; reconociendo su deber, confirmando la sumisión ajena.»",
               "autor": "Onetti",
               "referencia_obra": ", El astillero, p. 59."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Siendo el acus. una prop. indicativa. X",
+              "definicion": "Siendo el acus. una prop. indicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Carlos, yo he reconocido | Que la opinión que yo llevo | Es ir contra la razón.»",
                   "autor": "Mto.",
                   "referencia_obra": "El desdén con el desdén (Cl. Castal. 33. 222)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Reconocía [Hernán Cortés] que Diego Velásquez tenía empleado algún dinero en la primera formación de aquella armada.»",
                   "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 1. 13 (R. 28. 2192). X"
+                  "referencia_obra": ", Conq. de Méj. 1. 13 (R. 28. 2192)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Niño, sé bien hablado! El propio republicanismo reconoce que la propiedad es sagrada.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Luces de bohemia (Cl. C. 180. 37)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Siendo el acus. una prop. subjuntiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Les encargó que trajesen consigo todas sus alhajas y riquezas, reconociendo que si los viese ricos el Rey, sería más liberal con ellos.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 40 (R. 25. 1032)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y la materia del cielo y los cielos mismos le reconoscen ventaja en orden de nascimiento y en grado más subido de origen.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 3, Príncipe (Cl. C. 33. 178)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¡Justo es por cierto reconozcáis vasallage al Príncipe de la tierra y del cielo!»",
                   "autor": "Capm.",
                   "referencia_obra": "Teatro (2. 103)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Abunda de elefantes tan nobles, que les reconocen superioridad los demás, puestos en su presencia.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. (4. 378)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con de, para señalar de quién o de qué procede lo que se admite.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Fue cosa notable el amor y el respeto con que les trataron los naturales, como quien reconocía dellos la libertad y la vida.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 1. 14 (R. 21. 142)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se hizo aclamar Señor de los ejércitos para que supiesen los hombres que sólo deben esperar y reconocer de su altísima disposición las victorias.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 4. 20 (R. 28. 3402)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No reconoce de Dios la corona, y su conservación, ni cree que premia y castiga, el que fía más de tales artes que de su divina providencia.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 18 (R. 25. 501)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En esos documentos reconocí sus dotes, su valor y presteza militar, su actividad y sus proezas en la guerra, su clara visión y conocimiento de los hombres.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 1 (p. 279)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
-          "definicion": "Pas. Con por. Además con a. X",
+          "definicion": "Pas. Con por. Además con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En cuanto al despojo de los derechos de Colombia, él fue terminantemente reconocido por el señor Roosevelt, al declarar con toda frescura que su gobierno había atrapado el canal por considerarlo como obra de utilidad universal.",
               "autor": "",
               "referencia_obra": ""
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Pas. refl. Con un predicado introducido por como. X Se reconoció como título el argumento utilitario del provecho del mundo.» M. F. Suárez, Sueños, 1 (p. 201).",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Siendo el sujeto una prop. indicativa. Además con por, que señala la causa. X",
+              "definicion": "Siendo el sujeto una prop. indicativa. Además con por, que señala la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No favorece a sus propósitos la opinión general, y sensata se arrima a la autoridad de la Academia Española; a virtud de que, ora por razón, ora por instinto, se reconoce que la introducción de reformas generales sólo incumbe a corporaciones como aquélla.»",
                   "autor": "Caro",
                   "referencia_obra": ", Del uso, p. 94."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Siendo el sujeto una prop. subjuntiva. X",
+              "definicion": "Siendo el sujeto una prop. subjuntiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En aquellas naciones que de tiempo atrás conquistaron la unidad política, la capital se considera también como centro o metrópoli de la lengua escrita o literaria, aunque no siempre se reconozca que sea allí donde mejor se habla el idioma, y aunque en una misma capital coexistan, como es natural, diferentes usos.»",
                   "autor": "Caro",
                   "referencia_obra": ", Del uso, p. 88."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. adj. X",
+          "definicion": "Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No se trataba de ofender la dignidad de la nación argentina, ni de querer atentar a ninguno de sus derechos permanentes; que se trataba solamente de obligar a un déspota a respetar principios universalmente reconocidos.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 1 (p. 49)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Part. dep. Con de, por analogía con ser consciente de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Era esta su misma intención del Vélez, reconocido ya de la necesidad del ejército.»",
               "autor": "Melo",
               "referencia_obra": ", Guerra de Catal. 5 (R. 21. 5191)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "En las relaciones internacionales, Aceptar un nuevo estado de cosas. X",
+          "definicion": "En las relaciones internacionales, Aceptar un nuevo estado de cosas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los señores de San Francisco no \"reconocen\" a la nueva China.»",
               "autor": "Neruda",
               "referencia_obra": ", Poes. p. 253."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -664,77 +854,95 @@
     {
       "id": "b)",
       "definicion": "Acatar la autoridad de una persona o aceptarla en determinada condición social, jurídica, etc. (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Quien se aventaja en tirar la barra, y quien no reconoce igual en la lucha.»",
               "autor": "Figueroa",
               "referencia_obra": ", Amarilis, 1 (p. 3)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar la compañía. Además con por. X",
+              "definicion": "Con la prep. con, para indicar la compañía. Además con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sin derramar más sangre que ésta, consigue Cortés que el mismo Motezuma (cuya flaqueza de corazón se aumentaba con la del espíritu y la de su familia) reconozca con todas las clases de sus vasallos a Carlos V por sucesor suyo, y señor legítimo de Méjico y sus provincias.»",
                   "autor": "Cadalso",
                   "referencia_obra": ", Cartas marr. 9 (Cl. C. 112. 97)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con por, para indicar el título o calidad de la persona cuya autoridad se acata.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Así convenía para la honra de Cristo, a quien venían [estos Santos] a reconocer por su Redentor.»",
                   "autor": "Puente",
-                  "referencia_obra": ", Medit. 3. 22 (2. 154). +"
+                  "referencia_obra": ", Medit. 3. 22 (2. 154)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Sin precisa obligación de obedecelle [al rey], todos le reconocieron por cabeza.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 30 (R. 21. 291)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«[Estos son] los que reconoció por señores todo el Nuevo-Mundo.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4722)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La reconoció por heredera de Castilla con exclusión de la princesa Dona Juana.»",
                   "autor": "Acad.",
-                  "referencia_obra": "Hist. ilustr 2 (6. 68). X"
+                  "referencia_obra": "Hist. ilustr 2 (6. 68)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Que el jefe más antiguo de estas tribus le reconozca por tal, a nombre de todos.»",
                   "autor": "M. de la Rosa",
                   "referencia_obra": ", Aben Humeya (Cl. C. 107. 219)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En el siguiente ejemplo, Aceptar como subordinado o vasallo. X",
+          "definicion": "En el siguiente ejemplo, Aceptar como subordinado o vasallo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Le hice traer de Castilla para el entretenimiento de la niñez de vuestra majestad, a quien suplico me reconozca por uno de sus más leales vasallos y parientes, etc., etc. Jullo 15 de 1441. Don Fernando.»",
               "autor": "Tirso",
               "referencia_obra": ", Averígüelo Vargas, 2 (Cl. C. 131. 203)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -742,31 +950,39 @@
     {
       "id": "c)",
       "definicion": "Conceder a uno una cualidad y relación de parentesco que tiene con el que ejecuta este reconocimiento, y los derechos que son consiguientes (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Era hijo bastardo de Gonzalo Pizarro, capitán de Navarra. Nació en Trujillo y echáronlo a la puerta de la iglesia. Mamó una puerca ciertos días, no hallándose quien le quisiese dar leche. Reconociolo después el padre y traíalo a guardar los puercos, y así supo leer.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Estud. mesa redonda, 6 (p. 101)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con para y una prop. infinitiva. X",
+              "definicion": "Con para y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Y tal vez él mismo ha contribuído a mi ruina y ha reconocido a su hijo para verle expirar en un cadalso!»",
                   "autor": "",
                   "referencia_obra": "M. de la Rosa, La conjuración de Venecia, 5 (Cl. C. 107. 396)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -775,43 +991,54 @@
     {
       "id": "d)",
       "definicion": "Juzgar, reputar, considerar, tener por (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con un predicado. X",
+          "definicion": "Con un predicado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Será cierto que me tiene así, por un alma de fuego, tormentosa? ¿Será cierto que me reconoce víctima del capricho de la suerte?»",
               "autor": "Unamuno",
               "referencia_obra": ", Abel Sánchez, 13 (p. 65)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Siendo el acus. una prop. indicativa. X",
+              "definicion": "Siendo el acus. una prop. indicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los cretenses, aun en tiempo de Luciano, fomentaban la vanidad de haber sido Júpiter compatriota suyo, mostrando su sepulcro en aquella isla, sin embarazarse en reconocer mortal a quien adoraban como dios.»",
                   "autor": "Feijóo",
                   "referencia_obra": ", Teatro crít. 3 (Cl. C. 67. 6)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con un predicado precedido de como. X",
+              "definicion": "Con un predicado precedido de como.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Es verdad que la razón por sí sola no especifica ni determina con precisión los actos particulares de este culto exterior; pero porque reconoce a Dios como autor y señor de todo lo criado y como criador y singular bienhechor del hombre, no hay duda sino que dicta ---»",
                   "autor": "Jovell.",
                   "referencia_obra": "Mem. sobre educ. pública (Cl. C. 111. 155)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -819,82 +1046,101 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. Con por, para indicar el agente. Siendo el sujeto una prop. infinitiva.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por todos fue reconocido ser el asalto imposible por falta de escalas y otros instrumentos.»",
               "autor": "Melo",
               "referencia_obra": ", Guerra de Catal. 5 (R. 21. 5312)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. refl. Con un predicado precedido de como. X",
+          "definicion": "Pas. refl. Con un predicado precedido de como.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En la inmortal acta de julio se comenzó invocando el sagrado nombre de Dios; en ella se reconoció la Religión Católica como única verdadera.»",
               "autor": "Carrasquilla",
               "referencia_obra": ", Orac. p. 33."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Refl. Con un predicado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Reconociéndose Salomón ignorante para el gobierno del reino, pidió a Dios un corazón dócil.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 28 (R. 25. 761). X"
+              "referencia_obra": "Emp. 28 (R. 25. 761)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los literatos, los negociantes, los artistas, desnudos de las aficiones de su interés personal, y tocados del deseo del bien común, todos se reúnen, se reconocen ciudadanos, se confiesan miembros de la asociación general antes que de su clase.»",
               "autor": "Jovell.",
               "referencia_obra": "Discursos (Cl. C. 129. 85)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, en función predicativa. +",
+              "definicion": "Con por, en función predicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Es verdad que los príncipes raras veces se reconocen por obligados, y cuando se tienen por tales, aborrecen la persona de quien les tiene obligados.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 27 (R. 21. 261)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Part. Con un predicado precedido de como. Con por, para indicar el agente. X",
+          "definicion": "Part. Con un predicado precedido de como. Con por, para indicar el agente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si tomando en su conjunto de un lado la historia de la pintura y de otro la de la literatura, comparamos el número de obras reconocidas como admirables por los críticos de uno y otro arte, nos hallamos con un hecho bruto que merece alguna justificación, si no ha de quedar incomprensible.»",
               "autor": "Ortega y Gasset",
               "referencia_obra": ", Mocedades, p. 89."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con un predicado introducido con por. Además con en. X",
+              "definicion": "Con un predicado introducido con por. Además con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Aquí puede y debe repetirse la memoria de todos aquellos que se expresaron en el párrafo antecedente, porque todos fueron insignes en la crítica, y por tales están reconocidos en el orbe literario.»",
                   "autor": "Feijóo",
                   "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 212)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -902,13 +1148,16 @@
           "id_marcador_html": "—ζ )",
           "id_limpio": "—ζ )",
           "definicion": "En el siguiente texto, Notorio. Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Respondió Hernán Cortés a todas sus ofertas y proposiciones con reconocida urbanidad.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 5. 1 (R. 28. 3411)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -916,63 +1165,86 @@
     {
       "id": "e)",
       "definicion": "Agradecer (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si hiciérades Señor esto con las criaturas racionales, que pueden reconocer este beneficio y daros gracias por él, no fuera tanto de maravillar.»",
               "autor": "Gran.",
               "referencia_obra": "Simb. 1. 12 (4. 622)."
             },
             {
+              "marca": "",
               "texto_cita": "«Suelen con alegres instrumentos los que cultivan los campos, ofrecer a los templos las más granadas espigas, coronadas de flores, reconociendo a la benignidad del cielo la fertilidad del año.»",
               "autor": "Lope",
               "referencia_obra": ", Filomena, pról. (Obr suelt. 2. 373)."
             },
             {
+              "marca": "",
               "texto_cita": "«Reconocían [ellos] al cielo todo lo que no esperaron de sus fuerzas.»",
               "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 2. 17 (R. 28. 2562). X"
+              "referencia_obra": ", Conq. de Méj. 2. 17 (R. 28. 2562)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Enviándomelo, me hizo Dios un beneficio que no le agradecería bastante si se lo agradeciera con todas las fuerzas de mi ser. A reconocerlo me ha incitado siempre la consideración de lo que les avino a dos de los estudiantes que, al mismo tiempo que yo, cursaban en la Universidad, y que con justicia eran reputados su mejor ornato.»",
               "autor": "Marroquín",
               "referencia_obra": ", Blas Gil, 5 (p. 47)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. refl. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si en esto faltare el respeto, perderán los negocios su autoridad y las mercedes su agradecimiento, y quedará desestimado el príncipe de quien se habían de reconocer.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 57 (R. 25. 1531)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Para recibir beneficios de Dios bástase cualquiera criatura: para reconocérselos es menester ser justa y reconocida criatura.»",
               "autor": "Quev.",
-              "referencia_obra": "Virtud militante (6. 56). — En superlativo absol. X"
-            },
+              "referencia_obra": "Virtud militante (6. 56)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Si el astillero se paraliza una sola hora, ¿qué cosa podré estar defendiendo en las antesalas de esos covachuelistas, esos piojos resucitados? Le estoy muy reconocido.»",
-              "autor": "Onetti",
-              "referencia_obra": ", El astillero, p. 91."
+              "id_limpio": "—",
+              "definicion": "En superlativo absol.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Si el astillero se paraliza una sola hora, ¿qué cosa podré estar defendiendo en las antesalas de esos covachuelistas, esos piojos resucitados? Le estoy muy reconocido.»",
+                  "autor": "Onetti",
+                  "referencia_obra": ", El astillero, p. 91."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -982,106 +1254,131 @@
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Explorar, inspeccionar, registrar, examinar (trans.). ce)",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Descubrieron las Canarias, reconociéronlas todas, informáronse de sus nombres.»",
           "autor": "Mariana",
           "referencia_obra": ", Hist. Esp. 19. 1 (2. 1732)."
         },
         {
+          "marca": "",
           "texto_cita": "«No menor cuidado ha de poner el príncipe en gobernar la nave de su estado ---, reconociendo bien los temporales, para valerse dellos con prudencia y valor.»",
           "autor": "Saav.",
           "referencia_obra": "Emp. 36 (R. 25. 921)."
         },
         {
+          "marca": "",
           "texto_cita": "«Son dignas de alabanza las naciones septentrionales, que no con menos curiosidad que atención salen a reconocer el mundo y a aprender las lenguas, artes y sciencias.»",
           "autor": "",
-          "referencia_obra": "Id. ib. 66 (R. 25. 1801). X"
+          "referencia_obra": "Id. ib. 66 (R. 25. 1801)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Por fin, en los primeros años de la presente centuria, un muy docto agustino, segundo continuador de la España Sagrada, puso mano en la tarea de reunir y depurar las producciones de su ilustre compañero de hábito, para lo cual reconoció gran número de códices, separó con diligencia las obras legítímas de las de autenticidad controvertible, y dio a luz una excelente colección.»",
           "autor": "Menéndez y Pelayo",
           "referencia_obra": ", Horacio en Esp. 1 (p. 68)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Milit. Examinar de cerca un campamento, fortificación o posición militar del enemigo (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Era muy posible que los enemigos, teniendo antevisto este daño, se hubiesen prevenido de estacadas o de otros impedimentos a flor de agua, pareció, a propósito reconocer el río.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 361)."
             },
             {
+              "marca": "",
               "texto_cita": "«La tercera [diligencia] sirvió de algo, porque yendo el comisario general Contreras a reconocer si se movía [Verdugo], topó con una compañía y la deshizo.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 1. 18 (R. 28. 2271)."
             },
             {
+              "marca": "",
               "texto_cita": "«Reconoció personalmente el nuevo Virrey los castillos y puestos fortificados de Nápoles.»",
               "autor": "A. Saav.",
               "referencia_obra": "Masan. 2. 24 (5. 289)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con para y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Fueron [dos capitanes] a reconocer el paso para guiar la infantería.»",
                   "autor": "Coloma",
                   "referencia_obra": ", Guerras de los Est. Bajos, 5 (R. 28. 672)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Recípr. X",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Dejó algunos fuertes guarnecidos, con que le pareció que los de la ciudad no intentarían el salir; pero dos millas lejos, al amanecer se reconocieron de una y otra parte y se pusieron en orden para pelear.»",
               "autor": "Moncada",
               "referencia_obra": ", Exped. 1. 13 (Cl. C. 54. 51)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. +",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Nuestra gente siguió el alcance poco rato, por no tener la tierra conocida, y volvieron aquella misma noche al cabo, por tener el alojamiento reconocido y seguro.»",
               "autor": "Moncada",
               "referencia_obra": ", Exped. 10 (R. 21. 112)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hacíanse las jornadas muy cortas, porque no pareciese que la retirada era por algún temor, caminando por los puestos que tenían ya reconocidos a la ida.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 18 (R. 21. 172)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1089,36 +1386,45 @@
     {
       "id": "c)",
       "definicion": "Practicar un examen médico (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Desnudado con gran trabajo, porque la sangre había pegado al cuerpo sus vestidos, Alcorta pudo al fin reconocer las heridas.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 1 (p. 35.). X"
+              "referencia_obra": ", Amalia, 1 (p. 35.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Algunas horas después llegó el Rey en persona y en su presencia reconocieron la herida todos los médicos.»",
               "autor": "Coloma",
               "referencia_obra": ", Jeromín, 2. 3 (p. 156)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con sin y una prop. infinitiva. X",
+              "definicion": "Con sin y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sí, él se queja de fatiga, de disnea, ¿Será...? —Eso es. Me ha hecho que le reconozca sin saberlo tú, y le he reconocido. Necesita cuidado.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Abel Sánchez, 36 (p. 144)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1127,11 +1433,11 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «Visto e reconocido e por verdad sabydo; mayormente por confisyón della mesma, que se a llamado del universo mundo deesa.» Arc. de Talav. Corbacho (Cl. Castal. 24. 2701). X «E pues ella non reconosce otro superior synón a Dios, sguese que el cuerpo deve reconocer el superior de superior que es el ánima.» Id. ib. (Cl. Castal. 24. 250). X «Non se reconoscía | Destas gentes quál avría | La fortuna favorable.» Santill. Canc. 67 (Cl. Castal. 18. 90).\n\n— Siglo XIV: + «Míos fijos, guardatvos de non fazer querella a ninguno de aquel que vos non quiere reconosçer el don que le dierdes.» Zifar, 162 (p. 352). + «Los malos nunca catan por su señor deque muerto es, e los buenos sy; ca reconosçen bienfecho en vida e en muerte de aquel que gelo faze.» Ib. 132 (p. 277).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. recognoscere 'volver a conocer, conocer de nuevo, volver a hallar'. Cat. reconèixer, fr. reconnaître, gall. recoñecer, it. reconoscere, port. reconhecer.",
+  "etimologia": "Etim. Del lat. <i>recognoscere </i>'volver a conocer, conocer de nuevo, volver a hallar'. Cat. <i>reconèixer, </i>fr. <i>reconnaître, </i>gall. <i>recoñecer, </i>it. <i>reconoscere, </i>port. <i>reconhecer.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
-  "conjugacion": "Conjug. Presenta las siguientes formas irregulares: reconozco; reconozca, -as, -a, -amos, -áis, -an.\n\n\u0000",
+  "conjugacion": "Conjug. Presenta las siguientes formas irregulares: reconozco; reconozca, -as, -a, -amos, -áis, -an.",
   "construccion_sintactica": "",
   "prosodia": "",
   "colocacion_concordancia": ""

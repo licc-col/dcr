@@ -6,181 +6,269 @@
     {
       "id": "a)",
       "definicion": "Hallarse, estar, quedarse en un lugar durante cierto tiempo (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mientras aquí permanezca, combatiré con valor.»",
               "autor": "Valera",
               "referencia_obra": ", Pepita Jiménez, p. 66."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, que expresa el lugar. X",
+              "definicion": "Con a, que expresa el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Eduardo permaneció al lado de Amalia, lo que sólo una vez había hecho en las visitas de Agustina.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 3 (p. 291)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para expresar la compañía. X",
+              "definicion": "Con la prep. con, para expresar la compañía.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Subí y permanecí allí [en el sanatorio] con los dos amigos franceses enamorados de esta nuestra inalterable y casi desconocida España.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Andanzas y visiones esp. p. 19."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, que precisa el lugar. X",
+              "definicion": "Con en, que precisa el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Durante los días que Washington permaneció en Filadelfia, Miranda se sentó a la misma mesa con él.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 4. 23 (p. 372). — Además con para. X"
+                  "referencia_obra": ", Biogr. del Caribe, 4. 23 (p. 372)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con para.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Braulio se acercó a mí y entregándome una corona de rosas y azucenas, obsequio de las hijas de José, permaneció en el mismo sitio como para indicarme que era hora de partir.»",
+                      "autor": "Isaacs",
+                      "referencia_obra": ", María, p. 280."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Braulio se acercó a mí y entregándome una corona de rosas y azucenas, obsequio de las hijas de José, permaneció en el mismo sitio como para indicarme que era hora de partir.»",
-                  "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 280. — También con hasta. X"
+                  "id_limpio": "—",
+                  "definicion": "También con hasta.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Facundo, demasiado penetrante para dejarse alucinar sobre el objeto de la gran expedición, permaneció en San Juan hasta el regreso de las divisiones del interior.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Facundo, 2. 9 (p. 200)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Recordó que la Iglesia festejaba anticipadamente la Resurección y que el cuerpo de Jesús había permanecido en el sepulcro hasta la mañana siguiente.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 160)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Facundo, demasiado penetrante para dejarse alucinar sobre el objeto de la gran expedición, permaneció en San Juan hasta el regreso de las divisiones del interior.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Facundo, 2. 9 (p. 200). X"
+                  "id_limpio": "—",
+                  "definicion": "Además con un gerundio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Como yo estaba demasiado cansado nos limitamos a permanecer un rato en una plaza, conversando; luego Berdriel y yo volvimos hacia el Amstel.»",
+                      "autor": "Mallea",
+                      "referencia_obra": ", Los Rembrandts, p. 129."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Recordó que la Iglesia festejaba anticipadamente la Resurección y que el cuerpo de Jesús había permanecido en el sepulcro hasta la mañana siguiente.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 160). — Además con un gerundio. X"
-                },
-                {
-                  "texto_cita": "«Como yo estaba demasiado cansado nos limitamos a permanecer un rato en una plaza, conversando; luego Berdriel y yo volvimos hacia el Amstel.»",
-                  "autor": "Mallea",
-                  "referencia_obra": ", Los Rembrandts, p. 129. — Con un predicado. Además con otro compl. con en, que indica el tiempo. X"
-                },
-                {
-                  "texto_cita": "«En una cueva del jardín uno de los pacientes eremitas en el siglo pasado, permaneció los años y los años acurrucado.»",
-                  "autor": "Caballero Calderón",
-                  "referencia_obra": ", Ancha es Castilla, p. 272."
+                  "id_limpio": "—",
+                  "definicion": "Con un predicado. Además con otro compl. con en, que indica el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En una cueva del jardín uno de los pacientes eremitas en el siglo pasado, permaneció los años y los años acurrucado.»",
+                      "autor": "Caballero Calderón",
+                      "referencia_obra": ", Ancha es Castilla, p. 272."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con la expresión junto a. Además con un gerundio. X",
+              "definicion": "Con la expresión junto a. Además con un gerundio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ahora que ya no puede hacer las faenas del campo, permanece junto al fuego, haciendo labores de esparto, cuidando de su nieta.»",
                   "autor": "Azorín",
                   "referencia_obra": ", La voluntad (Cl. Castal. 3. 174)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con sin y una prop. infinitiva, para señalar el modo. X",
+              "definicion": "Con sin y una prop. infinitiva, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Largos ratos hemos permanecido sin darnos cuenta de nada, mirando sin ver, allá en lo alto, cómo revolaban los alcotanes en torno a la Giralda.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", El paisaje de Esp. 9 (p. 453). X"
+                  "referencia_obra": ", El paisaje de Esp. 9 (p. 453)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Se sentó [el muchacho] en un banco, cerca de la estatua de Ceres, y permaneció sin hacer nada. abandonado a sus pensamientos.»",
                   "autor": "Sábato",
-                  "referencia_obra": ", Sobre héroes y tumbas, p. 3. — Además con en medio de, que precisa el lugar. X"
-                },
+                  "referencia_obra": ", Sobre héroes y tumbas, p. 3."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y permaneció en medio de la cámara, sin atreverse a dar un paso.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de otoño, p. 28."
+                  "id_limpio": "—",
+                  "definicion": "Además con en medio de, que precisa el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y permaneció en medio de la cámara, sin atreverse a dar un paso.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de otoño, p. 28."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con la combinación tras de, que indica el lugar. X",
+              "definicion": "Con la combinación tras de, que indica el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Felizmente, Amalia entró en el comedor cuando aun no había sido ocupado aquel asiento, y se colocó en él: Daniel y su amigo permanecieron tras de las sillas de ambas jóvenes.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 2 (p. 225)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Aplicado a los animales. Con un predicado. X",
+          "definicion": "Aplicado a los animales. Con un predicado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los parásitos, ---, como no necesitan ni ver ni oír, ni ven ni oyen, sino que convertidos en una especie de saco, permanecen adheridos al ser de quien viven.»",
               "autor": "Unamuno",
               "referencia_obra": ", Del sen. trág. de la vida, 2 (p. 27)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, que precisa el lugar. X",
+              "definicion": "Con en, que precisa el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Detrás, erguido sobre el manubrio de un velocípedo abandonado, un soberbio guacamayo permanecía en medio de la plaza desierta, solo, calentándose al sol.»",
                   "autor": "Carpentier",
                   "referencia_obra": ", Los pasos perdidos, p. 55."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Aplicado a cosas. Con la prep. con, para indicar el modo. Además con por, que precisa el tiempo. X",
+          "definicion": "Aplicado a cosas. Con la prep. con, para indicar el modo. Además con por, que precisa el tiempo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Aquí permanecieron las sagradas Reliquias por muchos siglos con grande veneración de los Fieles, que recibían continuos favores de la dignación divina, por la intercesión de los Santos.»",
               "autor": "Isla",
               "referencia_obra": ", Adic. Año christ. p. 35."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, que indica el lugar. X",
+              "definicion": "Con en, que indica el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Las ricas prendas de los pobres no permanecen largo tiempo en sus casas. porque, o se empeñan, para no quitarse, o se venden, para nunca volverlas a comprar.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Pers. 3. 4 (Cl. Castal, 12. 304). — Además con otro complemento con en, que indica el tiempo. X"
-                },
+                  "referencia_obra": "Pers. 3. 4 (Cl. Castal, 12. 304)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¡Compañeros! Cesen gritos | En tan animada fiesta, | Y en este instante, en los lechos | Vuestros codos permanezcan.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Odas de Horacio (ICC, 5. 47)."
+                  "id_limpio": "—",
+                  "definicion": "Además con otro complemento con en, que indica el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡Compañeros! Cesen gritos | En tan animada fiesta, | Y en este instante, en los lechos | Vuestros codos permanezcan.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Odas de Horacio (ICC, 5. 47)."
+                    }
+                  ]
                 }
               ]
             }
@@ -189,41 +277,59 @@
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Residir, habitar, vivir. X",
+          "definicion": "Residir, habitar, vivir.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Jesús! ¡Dios mío! Yo no hubiera permitido nunca que ustedes permanezcan aquí al saber lo que he sabido. Quiero hablar con el arrendatario. --- A usted y a él les voy a poner de patitas en la calle.»",
               "autor": "Icaza",
               "referencia_obra": ", El chulla Romero y Flores, 3 (p. 91)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. Además con hasta, para expresar el límite en el tiempo. X",
+              "definicion": "Con a. Además con hasta, para expresar el límite en el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Permanecen hasta aora, concluye nuestro Autor, algunos Pueblos de esta Nación al Occidente de la Isla.»",
                   "autor": "Rdgz. Mohedano",
                   "referencia_obra": ", Hist. lit. esp. disert. 5. 1 (p. 403)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, que precisa el lugar. X",
+              "definicion": "Con en, que precisa el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Quién fuesen caballeros, o de qué familia de las muchas que en Cataluña hubo deste apellido, Montaner lo calla, ---: yerro por cierto o descuido muy notable y de grandísimo perjuicio para las casas nobles que hoy permanecen en estos reinos.»",
                   "autor": "Moncada",
-                  "referencia_obra": ", Exped. 1. 59 (Cl. C. 54. 216). — Además con para. X"
-                },
+                  "referencia_obra": ", Exped. 1. 59 (Cl. C. 54. 216)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Mas no tienen tierras propias y separadas de cada uno, ni les es permitido permanecer en un parage más de un año para su habitación.»",
-                  "autor": "Valbuena",
-                  "referencia_obra": ", tr. Los coment. de Julio César, p. 125."
+                  "id_limpio": "—",
+                  "definicion": "Además con para.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Mas no tienen tierras propias y separadas de cada uno, ni les es permitido permanecer en un parage más de un año para su habitación.»",
+                      "autor": "Valbuena",
+                      "referencia_obra": ", tr. Los coment. de Julio César, p. 125."
+                    }
+                  ]
                 }
               ]
             }
@@ -234,394 +340,587 @@
     {
       "id": "b)",
       "definicion": "Mantenerse, continuar una persona en una condición, estado e modo de ser, persistir (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Paresçe ques todo juego e locura, e no pequeña, pensar que ha de permanesçer cosa del suelo.»",
               "autor": "Oviedo",
-              "referencia_obra": ", Quinguag. 1. 28 (1. 328). X"
+              "referencia_obra": ", Quinguag. 1. 28 (1. 328)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si hemos de permanecer, arrimémonos al aforismo que dice: Lo que siempre se hizo, siempre se haga.»",
               "autor": "Quev.",
-              "referencia_obra": "Hora de todos (Cl. Castal. 67. 170). X"
+              "referencia_obra": "Hora de todos (Cl. Castal. 67. 170)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Ay! largo espacio así permanecimos: | Tus brazos me estrechaban ya sin fuerza... | ¡Y me encontré con tu cadáver tibio, | Que al otro día me ocultó la tierra!»",
               "autor": "J. E. Caro",
-              "referencia_obra": ", Poes. complet. p. 44. X"
+              "referencia_obra": ", Poes. complet. p. 44."
             },
             {
+              "marca": "X",
               "texto_cita": "«Este es su gesto, su genialidad, su condición, su sino. Un ansia indomable de permanecer, de no cambiar.»",
               "autor": "",
               "referencia_obra": "Ortega y Gasset, Mocedades, p. 422."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a y una prop. infinitiva. X",
+              "definicion": "Con a y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Permaneció la célebre Toledo, | Al postrarse rendida España toda | Del monarca a los pies, con harto duelo | Comtemplé de mi patria el heroísmo, | Su inevitable destrucción previendo.»",
                   "autor": "M. de la Rosa",
-                  "referencia_obra": ", La viuda de Padilla, 1. 2 (Cl. C. 107. 93). — Además con en. X"
-                },
+                  "referencia_obra": ", La viuda de Padilla, 1. 2 (Cl. C. 107. 93)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«En la batalla en que fue desbaratado el ejército rebelde, Carvajal permaneció al lado de Pizarro.»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 4 (p. 74)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En la batalla en que fue desbaratado el ejército rebelde, Carvajal permaneció al lado de Pizarro.»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños, 4 (p. 74)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, que indica el modo. X",
+              "definicion": "Con la prep. con, que indica el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Daniel sin hablar una sola [palabra], tomó de la mano a su prima, la levantó, y dándole vuelta hacia Mariño, que permanecía con la mano estirada, le dijo con la sonrisa más diplomática del mundo: Está comprometida, señor Mariño.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 2 (p. 221). X"
+                  "referencia_obra": ", Amalia, 2 (p. 221)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El viejo Ceballos permanecía con todo el espíritu enderezado hacia su hijo, y Jaime disimulaba este hecho flagrante clavando la cabeza en el plato.»",
                   "autor": "Fuentes",
                   "referencia_obra": ", Obr. complet. (1. 810)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con una expresión adv. modal encabezada por de. X",
+              "definicion": "Con una expresión adv. modal encabezada por de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Comenzó [Rosas] a pasearse a lo largo de la habitación; mientras los escribientes y el edecán, a quienes no había saludado, permanecían de pie junto a las sillas que un momento antes ocupaban.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 5 (p. 478). X"
+                  "referencia_obra": ", Amalia, 5 (p. 478)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En el coro, mientras el clérigo permanece de rodillas, entonan una salve acompañados de un armonium apagado y meloso.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 77). X"
+                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 77)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En los extremos de la terraza, varios tipos armados permanecían de pie.»",
                   "autor": "Fuentes",
-                  "referencia_obra": ", La reg. más trans. (Obr. 1. 536). — Además con en. X"
+                  "referencia_obra": ", La reg. más trans. (Obr. 1. 536)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y Rosas volvió a sus paseos en la habitación, mientras que el ordenanza permanecía de pie en la puerta con el vaso de agua en la mano.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 5 (p. 485)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Y Rosas volvió a sus paseos en la habitación, mientras que el ordenanza permanecía de pie en la puerta con el vaso de agua en la mano.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 5 (p. 485). — Además con hasta, que expresa el límite en el tiempo. X"
-                },
-                {
-                  "texto_cita": "«Recién me pareció entender que Saleme le dio esa noticia mortuoria, supongo que en voz adecuada, no a gritos, a un caballero que hasta este momento ha preferido permanecer de incógnito.»",
-                  "autor": "Sábato",
-                  "referencia_obra": ", Abaddón, p. 152."
+                  "id_limpio": "—",
+                  "definicion": "Además con hasta, que expresa el límite en el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Recién me pareció entender que Saleme le dio esa noticia mortuoria, supongo que en voz adecuada, no a gritos, a un caballero que hasta este momento ha preferido permanecer de incógnito.»",
+                      "autor": "Sábato",
+                      "referencia_obra": ", Abaddón, p. 152."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, que especifica: — el estado o condición. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, que especifica:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Sin sentido y sin alma estar pareces, | Puesto en un cierto y claro devaneo, | Y de tu misma vida en ti careces, | Que allá se fue a vivir do está el deseo; | Contino en tu mudanza permaneces.»",
-                  "autor": "Aldana",
-                  "referencia_obra": ", Poes. (Cl. C. 143. 93). X"
+                  "id_limpio": "—",
+                  "definicion": "el estado o condición.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Sin sentido y sin alma estar pareces, | Puesto en un cierto y claro devaneo, | Y de tu misma vida en ti careces, | Que allá se fue a vivir do está el deseo; | Contino en tu mudanza permaneces.»",
+                      "autor": "Aldana",
+                      "referencia_obra": ", Poes. (Cl. C. 143. 93)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pero al fin éste es su estado, y en él ha de permanecer, siguiendo el consejo de San Pablo, que cada uno persevere en su vocación y estado.»",
+                      "autor": "Nieremb.",
+                      "referencia_obra": "Epist. 17 (Cl. C. 30. 95)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y si yo Rodrigo Díaz muriere antes que vos mi muger Ximena Díaz; y permanecieres en estado de viuda, gozes de dichas Villas en título, y prohijación.»",
+                      "autor": "Berg.",
+                      "referencia_obra": "Antigüed. 1. 5. 14 (p. 4372)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Yo vivía consumiéndome en deseos de una cosa para mí inasequible, tal como era el casarme con Elisa permaneciendo en mi prístina pobreza.»",
+                      "autor": "Marroquín",
+                      "referencia_obra": ", Blas Gil, 14 (p. 144)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Nunca olvidaría Pinas aquella mirada, directa y fría, aquella boca desagradada, aquel esfuerzo demasiado visible por permanecer en los límites de la mayor fineza. Era una espléndida dueña de casa.»",
+                      "autor": "Mallea",
+                      "referencia_obra": ", El vínculo, p. 37."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Pero al fin éste es su estado, y en él ha de permanecer, siguiendo el consejo de San Pablo, que cada uno persevere en su vocación y estado.»",
-                  "autor": "Nieremb.",
-                  "referencia_obra": "Epist. 17 (Cl. C. 30. 95). X"
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Allí el cuerpo firme y maciço de la Iglesia, que occupó la redondez de la tierra, recibió assiento por mano de Dios en el fundamento no mudable, que es Cristo, en quien permanecerá con eterna firmeza.»",
+                      "autor": "León",
+                      "referencia_obra": ", Nomb. 5, Padre (Cl. C. 28. 247)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Y si yo Rodrigo Díaz muriere antes que vos mi muger Ximena Díaz; y permanecieres en estado de viuda, gozes de dichas Villas en título, y prohijación.»",
-                  "autor": "Berg.",
-                  "referencia_obra": "Antigüed. 1. 5. 14 (p. 4372). X"
+                  "id_limpio": "—",
+                  "definicion": "Además con hasta, que expresa el límite en el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En ese conflicto se halló la mía [mi alma], y en él permaneció hasta que le fue revelado su norte verdadero en la figura de Aquella por quien escribo estas páginas.»",
+                      "autor": "Marechal",
+                      "referencia_obra": ", Adán Buenosayres, 6 (p. 437)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Yo vivía consumiéndome en deseos de una cosa para mí inasequible, tal como era el casarme con Elisa permaneciendo en mi prístina pobreza.»",
-                  "autor": "Marroquín",
-                  "referencia_obra": ", Blas Gil, 14 (p. 144). X"
-                },
-                {
-                  "texto_cita": "«Nunca olvidaría Pinas aquella mirada, directa y fría, aquella boca desagradada, aquel esfuerzo demasiado visible por permanecer en los límites de la mayor fineza. Era una espléndida dueña de casa.»",
-                  "autor": "Mallea",
-                  "referencia_obra": ", El vínculo, p. 37. — Además con la prep. con. X"
-                },
-                {
-                  "texto_cita": "«Allí el cuerpo firme y maciço de la Iglesia, que occupó la redondez de la tierra, recibió assiento por mano de Dios en el fundamento no mudable, que es Cristo, en quien permanecerá con eterna firmeza.»",
-                  "autor": "León",
-                  "referencia_obra": ", Nomb. 5, Padre (Cl. C. 28. 247). — Además con hasta, que expresa el límite en el tiempo. X"
-                },
-                {
-                  "texto_cita": "«En ese conflicto se halló la mía [mi alma], y en él permaneció hasta que le fue revelado su norte verdadero en la figura de Aquella por quien escribo estas páginas.»",
-                  "autor": "Marechal",
-                  "referencia_obra": ", Adán Buenosayres, 6 (p. 437). — El término es una prop. indicativa. X"
-                },
-                {
-                  "texto_cita": "«Noté que ella permaneció en la misma posición y sitio hasta que nos internamos en la cañada de la Honda.»",
-                  "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 102."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. indicativa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Noté que ella permaneció en la misma posición y sitio hasta que nos internamos en la cañada de la Honda.»",
+                      "autor": "Isaacs",
+                      "referencia_obra": ", María, p. 102."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con la expresión en medio de. X",
+              "definicion": "Con la expresión en medio de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Por sentirme sustancia, es decir, permanente en medio de mis cambios, es por lo que atribuyo sustancialidad a la gente que fuera de mí, en medio de sus cambios, permanece.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Del sen. trág. de la vida, 5 (p. 72)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con sin y una prop. infinitiva, que expresa el modo. X",
+              "definicion": "Con sin y una prop. infinitiva, que expresa el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Llegado que fue al estribo, se agarró del muslo de su discípulo y permaneció así dos o tres minutos sin poder hablar; tal era la opresión de sus pulmones.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 1 (p. 141)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con un predicado. X",
+          "definicion": "Con un predicado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pocos instantes más que hubieses permanecido mío, te hubieran dado fama de amigo verdadero.»",
               "autor": "Cadalso",
-              "referencia_obra": ", Noches lúgubres (Cl. C. 152. 39). X"
+              "referencia_obra": ", Noches lúgubres (Cl. C. 152. 39)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mas, mientras gira en torno y a mi lado | El dulce hablar y el dulce sonreír, | Yo permanezco estúpido y callado | Como el que nada tiene que decir.»",
               "autor": "J. E. Caro",
-              "referencia_obra": ", Poes. complet. p. 171. X"
+              "referencia_obra": ", Poes. complet. p. 171."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los que habían permanecido indecisos, esperando que las doctrinas nuevas obraran la regeneración de la humanidad vieron que con esos delirios no había mejorado la suerte de los pueblos.»",
               "autor": "Valencia",
-              "referencia_obra": ", Discursos, 2 (p. 122). X"
+              "referencia_obra": ", Discursos, 2 (p. 122)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Es cierto que ese Dios, que nos da el tiempo y se queda fuera de él, o, dicho de otro modo, que permanece quieto y se entretiene en mover el mundo, es algo no menos inaceptable.»",
               "autor": "Machado",
               "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 219)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, que especifica el modo. X",
+              "definicion": "Con la prep. con, que especifica el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«De pie, Puche, nimbada su cabeza de apóstol por el tibio rayo de sol, permanece inmóvil un momento con los ojos al cielo.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 69). — Además con en, que indica el lugar. X"
-                },
+                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 69)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Pascual ha descubierto que toda la infelicidad de los hombres viene de una sola cosa, que es no saber permanecer quietos en una habitación.»",
-                  "autor": "",
-                  "referencia_obra": "Yáñez, Al filo del agua, p. 102."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, que indica el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pascual ha descubierto que toda la infelicidad de los hombres viene de una sola cosa, que es no saber permanecer quietos en una habitación.»",
+                      "autor": "",
+                      "referencia_obra": "Yáñez, Al filo del agua, p. 102."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, que expresa el estado. X",
+              "definicion": "Con en, que expresa el estado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Dos años que vivió después de la apostasía, permaneció tenaz en ella.»",
                   "autor": "Feijóo",
-                  "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 132). X"
+                  "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 132)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Algunos días después de los que hemos referido, viendo que Quela permanecía firme i constante en su determinación, el tío Juan López se encaminó entre aflijido i abochornado a casa del alcalde.»",
                   "autor": "Fern.",
-                  "referencia_obra": "Caball. Lágrimas, p. 38. X"
+                  "referencia_obra": "Caball. Lágrimas, p. 38."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Me alegraría de que Pepita permaneciese firme en su casta viudez.»",
                   "autor": "Valera",
                   "referencia_obra": ", Pepita Jiménez, p. 47."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con hasta, que precisa el tiempo. X",
+              "definicion": "Con hasta, que precisa el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Víctor Hugo, que hasta entonces había permanecido impertérrito y seguro de sí mismo, pareció vacilar.»",
                   "autor": "",
-                  "referencia_obra": "Ortega y Gasset, Rebel. de las masas, prol. (p. 22). — Además con en, que indica el lugar. X"
-                },
+                  "referencia_obra": "Ortega y Gasset, Rebel. de las masas, prol. (p. 22)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«La figura de Mona Vardiner permaneció estática en la ventana hasta que la señorita de Delft regresó.»",
-                  "autor": "Mallea",
-                  "referencia_obra": ", Los Rembrandts, p. 122."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, que indica el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La figura de Mona Vardiner permaneció estática en la ventana hasta que la señorita de Delft regresó.»",
+                      "autor": "Mallea",
+                      "referencia_obra": ", Los Rembrandts, p. 122."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con para y una prop. infinitiva, que indica la finalidad. X",
+              "definicion": "Con para y una prop. infinitiva, que indica la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El género humano debe permanecer diversificado para mantenerse fuerte y desenvolver una actividad sin cesar renaciente.»",
                   "autor": "Ramón y Cajal",
                   "referencia_obra": ", Tónicos de la voluntad, 3 (p. 69)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Con un gerundio para expresar el modo. Además con la prep. con. X",
+          "definicion": "Con un gerundio para expresar el modo. Además con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Largamente he permanecido mirando mis largas piernas, con ternura infinita y curiosa, con mi acostumbrada pasión.»",
               "autor": "Neruda",
-              "referencia_obra": ", Poes. p. 45. X"
+              "referencia_obra": ", Poes. p. 45."
             },
             {
+              "marca": "X",
               "texto_cita": "«Algunas mujeres permanecían rezando de rodillas bajo el pleno sol, golpeándose duramente el pecho, la cabellera llena de ceniza.»",
               "autor": "Uslar-Pietri",
               "referencia_obra": ", Lanzas coloradas, 5 (p. 60)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, que señala el tiempo. X",
+              "definicion": "Con por, que señala el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Vi en su reposo tan denotada resignación, había tal valor en su calma, que no pude menos de permanecer por mucho espacio contemplándolo.»",
                   "autor": "Isaacs",
                   "referencia_obra": ", María, p. 132."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con un predicado. X",
+              "definicion": "Con un predicado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si es geólogo permanecerá arrobado examinando a la luz polarizada los espléndidos colores mostrados por las secciones de rocas.»",
                   "autor": "Ramón y Cajal",
-                  "referencia_obra": ", Tónicos de la voluntad, 5 (p. 100). X"
+                  "referencia_obra": ", Tónicos de la voluntad, 5 (p. 100)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Abrió Mister Kohgling la ventana y permaneció largo rato pensativo mirando al campo que alimentaba sus rebaños.»",
                   "autor": "Rueda Vargas",
                   "referencia_obra": ", Lentus in umbra, p. 94."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Aplicado a cosas. X",
+          "definicion": "Aplicado a cosas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Aquí, como dize, prosiguiendo, el psalmista, fundó Dios la tierra sobre cimientos firmes, adonde permanesce y nunca se mueve.»",
               "autor": "León",
-              "referencia_obra": ", Nomb. 5, Padre (Cl. C. 28. 246). X"
+              "referencia_obra": ", Nomb. 5, Padre (Cl. C. 28. 246)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ante nosotros pasan las escenas como en un cinematógrafo, pero la cinta permanece una y entera más allá del tiempo.»",
               "autor": "Unamuno",
               "referencia_obra": ", Del sen. Trág. de la vida, 9 (p. 162)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, se expresa: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, se expresa:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Grande fue su asombro al advertir, contra todas sus presunciones (la sal de uranio había permanecido en la obscuridad), intensa impresión en la placa.»",
-                  "autor": "Ramón y Cajal",
-                  "referencia_obra": ", Tónicos de la voluntad, 4 (p. 95). X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Grande fue su asombro al advertir, contra todas sus presunciones (la sal de uranio había permanecido en la obscuridad), intensa impresión en la placa.»",
+                      "autor": "Ramón y Cajal",
+                      "referencia_obra": ", Tónicos de la voluntad, 4 (p. 95)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Nada permanece en absoluto; pero, tampoco, nada que ha prendido una vez con eficacia, muere del todo.»",
+                      "autor": "Rodó",
+                      "referencia_obra": ", Motivos de Proteo, p. 249."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Nada permanece en absoluto; pero, tampoco, nada que ha prendido una vez con eficacia, muere del todo.»",
-                  "autor": "Rodó",
-                  "referencia_obra": ", Motivos de Proteo, p. 249. — El tiempo. X"
-                },
-                {
-                  "texto_cita": "«Somos la estela de la nave, cuya entidad material no permanece la misma en dos momentos sucesivos, porque sin cesar muere y renace de entre las ondas.»",
-                  "autor": "Rodó",
-                  "referencia_obra": ", Motivos de Proteo, p. 18."
+                  "id_limpio": "—",
+                  "definicion": "El tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Somos la estela de la nave, cuya entidad material no permanece la misma en dos momentos sucesivos, porque sin cesar muere y renace de entre las ondas.»",
+                      "autor": "Rodó",
+                      "referencia_obra": ", Motivos de Proteo, p. 18."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con sin y una prop. infinitiva, que expresa el modo. X",
+              "definicion": "Con sin y una prop. infinitiva, que expresa el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Desde la muerte de doña Brianda del Aguila permaneció [el salón] sin abrirse, como esas salas de los cuentos orientales que encierran pavoroso misterio.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 189)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con un predicado. X",
+              "definicion": "Con un predicado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No sabemos, en verdad, cuál sea, en nuestra lógica, la significacion del principio de identidad, por cuanto no podemos probar que nada permanezca idéntico a sí mismo, ni siquiera nuestro pensamiento.»",
                   "autor": "Machado",
-                  "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 196). — Además con a. X"
+                  "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 196)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con a.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Ves cómo las riberas permanecen | Firmes, Pacheco, al ponto embravecido?»",
+                      "autor": "Rioja",
+                      "referencia_obra": ", Versos, p. 330."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Ves cómo las riberas permanecen | Firmes, Pacheco, al ponto embravecido?»",
-                  "autor": "Rioja",
-                  "referencia_obra": ", Versos, p. 330. — Además con ante, para expresar la persona. X"
+                  "id_limpio": "—",
+                  "definicion": "Además con ante, para expresar la persona.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pasan cincuenta años y aquellas figuras, ante las pupilas de nuestros hijos, permanecen mudas, quietas, muertas.»",
+                      "autor": "Ortega y Gasset",
+                      "referencia_obra": ", Mocedades, p. 92."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Pasan cincuenta años y aquellas figuras, ante las pupilas de nuestros hijos, permanecen mudas, quietas, muertas.»",
-                  "autor": "Ortega y Gasset",
-                  "referencia_obra": ", Mocedades, p. 92. — También con para, que precisa el tiempo. X"
-                },
-                {
-                  "texto_cita": "«Cuando hemos amado o sufrido, nos rodean cosas modestas que permanecen para siempre unidas al recuerdo de nuestro placer o nuestro dolor.»",
-                  "autor": "Ortega y Gasset",
-                  "referencia_obra": ", Mocedades, p. 54."
+                  "id_limpio": "—",
+                  "definicion": "También con para, que precisa el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cuando hemos amado o sufrido, nos rodean cosas modestas que permanecen para siempre unidas al recuerdo de nuestro placer o nuestro dolor.»",
+                      "autor": "Ortega y Gasset",
+                      "referencia_obra": ", Mocedades, p. 54."
+                    }
+                  ]
                 }
               ]
             }
@@ -630,94 +929,144 @@
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Aplicado a lo inmaterial. X",
+          "definicion": "Aplicado a lo inmaterial.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Vanidad, vanidad, dolor, miseria...! | Viendo viajeros permanece allí, | Sí, permanece, y sus miserias muestra | Al poderoso, al rico y al feliz.»",
               "autor": "",
               "referencia_obra": "García Gutiérrez, Obr. complet. p. 221."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para expresar: — el estado o condición. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, para expresar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No sabe que de Amor la viva llama | Jamás en un estado permanece, | Que ella misma se apaga, si no crece; | Los medios huye, los extremos ama.»",
-                  "autor": "L. Argens.",
-                  "referencia_obra": "Rimas (Cl. C. 173. 55). X"
+                  "id_limpio": "—",
+                  "definicion": "el estado o condición.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«No sabe que de Amor la viva llama | Jamás en un estado permanece, | Que ella misma se apaga, si no crece; | Los medios huye, los extremos ama.»",
+                      "autor": "L. Argens.",
+                      "referencia_obra": "Rimas (Cl. C. 173. 55)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Dejemos este punto, e infórmame en qué estado permanecen las religiones, y especialmente deseo saber de las militares.»",
+                      "autor": "Torres Villarroel",
+                      "referencia_obra": ", Visiones y visitas (Cl. C. 161. 221)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Dejemos este punto, e infórmame en qué estado permanecen las religiones, y especialmente deseo saber de las militares.»",
-                  "autor": "Torres Villarroel",
-                  "referencia_obra": ", Visiones y visitas (Cl. C. 161. 221). — El lugar. X"
+                  "id_limpio": "—",
+                  "definicion": "El lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En medio de las permutaciones y pérdidas de letras, de las diferentes alteraciones y cambios, que experimentan las palabras latinas al pasar a las lenguas romances, el primitivo acento prosódico, ---, permanece en su lugar en cada voz, y allí vive inalterable.»",
+                      "autor": "Caro",
+                      "referencia_obra": ", Del uso, p. 61."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cuanto más tiempo haya permanecido un hecho en el campo de la conciencia, mejor se lo recuerda.»",
+                      "autor": "Ramón y Cajal",
+                      "referencia_obra": ", El mundo, 1. 4 (p. 47)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«En medio de las permutaciones y pérdidas de letras, de las diferentes alteraciones y cambios, que experimentan las palabras latinas al pasar a las lenguas romances, el primitivo acento prosódico, ---, permanece en su lugar en cada voz, y allí vive inalterable.»",
-                  "autor": "Caro",
-                  "referencia_obra": ", Del uso, p. 61. X"
-                },
-                {
-                  "texto_cita": "«Cuanto más tiempo haya permanecido un hecho en el campo de la conciencia, mejor se lo recuerda.»",
-                  "autor": "Ramón y Cajal",
-                  "referencia_obra": ", El mundo, 1. 4 (p. 47). — La persona. X"
-                },
-                {
-                  "texto_cita": "«Siempre lo que permanece | Más en mí es la religión.»",
-                  "autor": "Cald.",
-                  "referencia_obra": "Autos, 1 (Cl. C. 69. 112)."
+                  "id_limpio": "—",
+                  "definicion": "La persona.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Siempre lo que permanece | Más en mí es la religión.»",
+                      "autor": "Cald.",
+                      "referencia_obra": "Autos, 1 (Cl. C. 69. 112)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con un predicado. X",
+              "definicion": "Con un predicado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Don Quijote sucumbe por falta de adaptación al medio; pero su derrota no es más que aparente, porque su aspiración generosa permanece íntegra, y se verá cumplida en un mundo mejor, como lo anuncia su muerte, tan cuerda y tan cristiana.»",
                   "autor": "Menéndez y Pelayo",
-                  "referencia_obra": ", Estudios, p. 115. X"
+                  "referencia_obra": ", Estudios, p. 115."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El derecho puro permanecía intangible, mas al ser aplicado convertíase en la más peligrosa trampa de suspicacia y tiranía.»",
                   "autor": "Valencia",
-                  "referencia_obra": ", Discursos, 1 (p. 18). — Además con en, que expresa la persona en quien algo se mantiene. X"
-                },
+                  "referencia_obra": ", Discursos, 1 (p. 18)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Larsen comprendió; tal vez no él mismo: su memoria, lo que había permanecido arrinconado y vivo en él.»",
-                  "autor": "Onetti",
-                  "referencia_obra": ", El astillero, p. 163."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, que expresa la persona en quien algo se mantiene.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Larsen comprendió; tal vez no él mismo: su memoria, lo que había permanecido arrinconado y vivo en él.»",
+                      "autor": "Onetti",
+                      "referencia_obra": ", El astillero, p. 163."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con un gerundio. X",
+              "definicion": "Con un gerundio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sólo permanece la angustia, latiendo como una onda entre el corazón y los borbollones del agua.»",
                   "autor": "Barrios",
                   "referencia_obra": ", Gran señor y rajadiablos, p. 52."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "En el siguiente texto, durar. +",
+          "definicion": "En el siguiente texto, durar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«En la ciudad de Arequipa duró [el terremoto] medio cuarto de hora, y donde más permaneció llegó a media hora.»",
               "autor": "Cobo",
               "referencia_obra": ", Hist. Nuevo Mundo, 1. 2. 20 (R. 91. 1022)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -725,11 +1074,11 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «A nosotros conuiene permanecer en nuestra vitoria fasta la acabar o morir.» Pulgar, Clar. var. 18 (Cl. C. 49. 93). X «Podemos claramente veer que esta nobleza que opinamos ninguna fuerça natural tiene que la faga permanecer de unos en otros, sino permanesciendo la virtud, que da la verdadera nobleza.» Id. Letras, 14 (Cl. C. 99. 73). X «Si en esta regla estouire | Con justa y buena intención, | Y en ella permanesciere, | Quiero saber, si muriere, | Qué será mi galardón.» J. Manr. Canc. (Cl. C. 94. 20). X «E byen devería ver qualquiera en esta razón que pues nuestro señor Dios da ser e permanecer e obrar e finir, e da sus costelaciones a las planetas e sygnos, e dél proceden todos los movimientos que fazen e los circuytos e movimientos.» Arc. de Talav. Corbacho (Cl. Castal. 24. 221). X «Pues, sy diminución dello viene, cierto es que el cuerpo e fuerça non pueden estar en su ser buenamente, nin permanescer.» Id. ib. (Cl. Castal. 24. 75).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. permanere ‘perseverar, continuar, durar’ y éste de manere ‘estar, quedar, permanecer’. It. permanere, port. permanecer.",
+  "etimologia": "Etim. Del lat.<i> permanere</i> ‘perseverar, continuar, durar’ y éste de<i> manere</i> ‘estar, quedar, permanecer’. It.<i> permanere,</i> port.<i> permanecer.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
-  "conjugacion": "Conj. Presenta la siguientes formas irregulares: permanezco; permanezca, -as, -a, -amos, -áis, -an.\n\n\u0000",
+  "conjugacion": "Conj. Presenta la siguientes formas irregulares: permanezco; permanezca, -as, -a, -amos, -áis, -an.",
   "construccion_sintactica": "",
   "prosodia": "",
   "colocacion_concordancia": ""

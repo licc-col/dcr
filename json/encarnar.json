@@ -6,62 +6,86 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Revestir de un cuerpo de carne una substancia espiritual. Dícese especialmente del Verbo Divino.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Trans. Dar cuerpo, engendrar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pues que tan alto volastes, | Que distes con Dios abajo | La hora que lo encarnastes.»",
               "autor": "Castillejo",
               "referencia_obra": ", 3 (R. 32. 2481)."
             },
             {
+              "marca": "",
               "texto_cita": "«La siempre humilde María, | Cuando encarnó a su Criador, | Indigna de tanto honor, | Preguntó cómo sería.»",
               "autor": "Jáur.",
               "referencia_obra": "Tanto se levanta al cielo (R. 42. 1312)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "met. Concebir un proyecto o plan.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Este esquelético y miserable plan, aunque descarnado y ayuno, me hizo conocer que, sin muchos buenos libros y noticias, es imposible encarnarle.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Corresp. con Posada (R. 50. 2341)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "met. Representar o significar una idea abstracta mediante algo material, sensible. Con en. x",
+              "definicion": "met. Representar o significar una idea abstracta mediante algo material, sensible. Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Lista fue sin duda quien mejor encarnó en sus obras los ideales de aquel cenáculo.»",
                   "autor": "Cossío",
-                  "referencia_obra": ", El romanticismo, p. 14. x"
+                  "referencia_obra": ", El romanticismo, p. 14."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El autor ha encarnado en ese personaje el conflicto del hombre.»",
                   "autor": "Moliner",
-                  "referencia_obra": ", Dicc. s.v. — Part."
-                },
+                  "referencia_obra": ", Dicc. s.v."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Si ha habido hombre en quien verdaderamente haya estado encarnado el espiritu francés con sus prendas y sus faltas ha sido sin duda alguna el filósofo Voltaire.»",
-                  "autor": "A. Galiano",
-                  "referencia_obra": ", Hist. lit. p. 59."
+                  "id_limpio": "—",
+                  "definicion": "Part.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Si ha habido hombre en quien verdaderamente haya estado encarnado el espiritu francés con sus prendas y sus faltas ha sido sin duda alguna el filósofo Voltaire.»",
+                      "autor": "A. Galiano",
+                      "referencia_obra": ", Hist. lit. p. 59."
+                    }
+                  ]
                 }
               ]
             }
@@ -71,99 +95,130 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl. Tomar carne o cuerpo.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de seguida de un sust. que indica la persona o parte de ella, en la que se produce la acción, o de la que se toma carne. x",
+              "definicion": "Con de seguida de un sust. que indica la persona o parte de ella, en la que se produce la acción, o de la que se toma carne.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y por obra del Espíritu Santo se encarnó de María, la Virgen.»",
                   "autor": "",
-                  "referencia_obra": "Credo de la Misa. — Part. x"
-                },
+                  "referencia_obra": "Credo de la Misa."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Por quien él es se nos mostró encarnado | Del vientre virginal.»",
-                  "autor": "Mendoza",
-                  "referencia_obra": ", Buen placer, fol. Diij vº."
+                  "id_limpio": "—",
+                  "definicion": "Part.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Por quien él es se nos mostró encarnado | Del vientre virginal.»",
+                      "autor": "Mendoza",
+                      "referencia_obra": ", Buen placer, fol. Diij vº."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. +",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Porque el nombre es el hombre | Y es su primer fatalidad su nombre, | Y en él se encarna a su existencia unido.»",
                   "autor": "Espronc.",
                   "referencia_obra": "Diablo Mundo, 3 (R. 72. 1041)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Intrans. Con la misma significación que en el caso anterior. +",
+          "definicion": "Intrans. Con la misma significación que en el caso anterior.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Nosotros a lo más temprano comenzamos a obedescer cuando nascemos, mas el Hijo de Dios antes que nasciese y aun antes que encarnase.»",
               "autor": "Guev.",
-              "referencia_obra": "Oratorio, 42 (p. 682). +"
+              "referencia_obra": "Oratorio, 42 (p. 682)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Antes que encarnases, Señor, y te vistieses de nuestra mortalidad ---, no osaba nadie llegar a tí.»",
               "autor": "Estella",
               "referencia_obra": ", Medit. 26 (p. 128)."
             },
             {
+              "marca": "",
               "texto_cita": "«No consta entre los doctores si el Hijo de Dios encarnara, si el hombre no pecara.»",
               "autor": "Gran.",
-              "referencia_obra": "Orac. y consid. 1, cap. últ. § 2 (R. 8. 921). +"
+              "referencia_obra": "Orac. y consid. 1, cap. últ. § 2 (R. 8. 921)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Quiso el Padre eterno que su Hijo, antes de nacer y de encarnar, enseñase y diese doctrina a los reyes de la tierra.»",
               "autor": "Quev.",
               "referencia_obra": "Polític. 2. 12 (R. 23. 671)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y es singular merced la que Dios hace al hombre para darle mucho, mandarle que no le pida por su voluntad ---. Dime, ¿supiera el hombre pedirle que encarnara? ¿Atreveríase a pedirle que muriera?»",
               "autor": "",
               "referencia_obra": "Id. Cuna y sepult. 5 (R. 48. 921)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En el punto que la Virgen dijo aquellas palabras: He aquí la sierva del Señor, sea hecho en mí según tu palabra; en ese mismo encarnó Dios en sus entrañas.»",
                   "autor": "Gran.",
                   "referencia_obra": "Adic. al Mem., med. 3, § 3 (R. 8. 508 2)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El amor del hombre ya había hecho | llover al Padre Eterno a que enviase | El único engendrado de su pecho, | A que, encarnando en vos, le reparase.»",
                   "autor": "León",
                   "referencia_obra": ", Poes. 1, No viéramos el rostro (4. 355)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de. x",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Encarnó el Verbo divino, tomando nuestra carne, de las purísimas entrañas de la Inmaculada Virgen María, madre de Dios y señora nuestra.»",
                   "autor": "Covarr.",
                   "referencia_obra": "Tes. s. v."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -172,45 +227,56 @@
     {
       "id": "b)",
       "definicion": "Servir de soporte corporal a un espíritu (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "x",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Un macho cabrío que encarnaba al demonio.»",
               "autor": "Moliner",
               "referencia_obra": ", Dicc. s.v."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "met. Servir de soporte a una idea, ser prototipo de ella. x",
+          "definicion": "met. Servir de soporte a una idea, ser prototipo de ella.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Una de las más admirables producciones del teatro cristiano ---, | la que más en concreto parece encarnar la exaltación piadosa de la España del siglo XVII ---.»",
               "autor": "Acad.",
               "referencia_obra": "p. 17."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "met. En el teatro, Representar un personaje. x",
+          "definicion": "met. En el teatro, Representar un personaje.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«[Cepillo] encarnó el Pepet de una manera maravillosa.»",
               "autor": "",
               "referencia_obra": "Schez. Estevan, María Guerrero, p. 129."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -218,50 +284,63 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Introducir un objeto punzante en la carne (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "met. Con en. +",
+          "definicion": "met. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Al fin en Píramo quiso | Encarnar Cupido un chuzo, | El mejor de su armería, | Con su herramienta al uso.»",
               "autor": "Góng.",
               "referencia_obra": "Poes. rom. 57 (R. 32. 5251)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl. Tratándose de muelas o dientes, Agarrarse, sujetarse a la carne. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Proveyó [el Criador] que tuviese cada uno [de los colmillos] tres raíces con que se encarnase en las encías.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 1. 26 (R. 6. 2482)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tanto más suele doler la muela al tiempo de sacarla, cuanto más encarnada estaba en las encías.»",
                   "autor": "Gran.",
                   "referencia_obra": "Orac. y consid. 1, miérc. en la noche (R. 8. 362)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -269,28 +348,34 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Intrans. Pasa a ser sujeto, como en el caso anterior, el objeto introducido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La roja espada en su arrogante mano | Tal relámpago dio y golpe tan fiero, | Que hiciera, a encarnar bien, dos del primero.»",
               "autor": "Valbuena",
               "referencia_obra": ", Bern. 9 (R. 17. 2412)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pudiera por allí salir la vida, | A encarnar más la espada venturosa.»",
               "autor": "",
               "referencia_obra": "Id. ib. 10 (R. 17. 248l)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hizo a soslayo la mortal herida| Golpe sin riesgo, que, a encarnar la espada, | Costara al noble paladín la vida.»",
               "autor": "",
               "referencia_obra": "Id. ib. 22 (R. 17. 3722)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Que al fin te echaron esposas? | ¡Oh hierro dichoso y duro! | --- | ¿No está muy agradecido | De gozar de gloria tal? | Mas no es posible que encarne: | Que, enternecido de tí, | Se habrá recogido en sí | Por no lastimar tu carne.»",
               "autor": "Lope",
               "referencia_obra": ", Los locos de Valencia, 2. 14 (R. 24. 125 2)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -298,80 +383,100 @@
     {
       "id": "b)",
       "definicion": "met. Causar fuerte impresión en el ánimo (Intrans.). Con en.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Y, porque el golpe en ella más encarne, | Esperaré que la piedad primero | Ablande el duro hielo....»",
           "autor": "Jáur.",
           "referencia_obra": "Aminta, pról. (R. 42. 1322)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
-      "definicion": "met. Refl. Incorporarse, mezclarse o unirse a otra cosa. Esta va precedida por con. +",
+      "definicion": "met. Refl. Incorporarse, mezclarse o unirse a otra cosa. Esta va precedida por con.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "+",
           "texto_cita": "«Es esta la más importante propiedad que tiene [el azogue], que con maravilloso afecto se pega al oro ---. Y no sólo esto, mas así se encarna con él y lo junta a sí, que le desnuda y despega de cualesquier otros metales.»",
           "autor": "Acosta",
           "referencia_obra": ", Hist. nat. y mor. de las Ind. 4. 10 (R. 75. 1011)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "4",
       "definicion": "Con la idea de proveer de carne:",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Criar carne. Dícese de las heridas cuando cicatrizan.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Trans. El compl. directo es el sust. herida u otro semejante. +",
+          "definicion": "Trans. El compl. directo es el sust. herida u otro semejante.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Mundifican y encarnan estos polvos toda llaga, aunque sea de las sórdidas o malignas.»",
               "autor": "Cobo",
               "referencia_obra": ", Hist. Nuevo Mundo, 1. 3. 28 (R. 91. 1282)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Absol. +",
+              "definicion": "Absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Si se quema esta piedra, sus polvos mundifican con blandura, y encarnan y aun cicatrizan con moderada desecación.»",
                   "autor": "Cobo",
                   "referencia_obra": ", Hist. Nuevo Mundo, 1. 3. 24 (R. 91. 1271)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Intrans. El acus. Pasa a sujeto. +",
+          "definicion": "Intrans. El acus. Pasa a sujeto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Echados sus polvos en cualquiera llaga cancerosa o pestilencial ---, consumen la malicia, corrigen los humores, desecan y mundifican la llaga de tal manera que después --- encarna y sana con facilidad.»",
               "autor": "Cobo",
               "referencia_obra": ", Hist. Nuevo Mundo, 1. 3. 24 (R. 91. 1271)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aunque encarnó poco [la herida], le fatigaba.»",
               "autor": "",
               "referencia_obra": "Colorna, Guerras de los Est. Bajos, 5 (R. 28. 542)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -379,55 +484,68 @@
     {
       "id": "b)",
       "definicion": "Entre pescadores, Proveer de carnada al anzuelo o aparejo (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "x",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El barco atracó a tierra para tomar agua, pan, vino u otra cosa semejante, que, luego que lo recoge, se alarga a emprender su pesca de Palangre, a cuyo efecto van encarnando sus anzuelos.»",
               "autor": "",
-              "referencia_obra": "Sáñez Reguart, Dicc. Histór. Pesca, t. 1, p. 296. X"
+              "referencia_obra": "Sáñez Reguart, Dicc. Histór. Pesca, t. 1, p. 296."
             },
             {
+              "marca": "X",
               "texto_cita": "«Allí, por tanto, encarnaban los innúmeros anzuelos de sus cordeles besugueros.»",
               "autor": "Pereda",
-              "referencia_obra": ", Obras (ed. 1884-1906), t. 9, p. 250. x"
+              "referencia_obra": ", Obras (ed. 1884-1906), t. 9, p. 250."
             },
             {
+              "marca": "X",
               "texto_cita": "«Su instinto marinero le lleva a distinguir el verdadero del improvisado pescador en el más mínimo detalle. En la manera de encarnar el aparejo.»",
               "autor": "Zunzunegui",
               "referencia_obra": ", Chipichandle, p. 44."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. x",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con aquel pescado cogido en las Nasas de la Andana encarnan o ceban los anzuelos de los Palangres.»",
                   "autor": "",
                   "referencia_obra": "Sáñez Reguart, Dicc. Histór. Pesca, t. 1, p. 90."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Echar carnada a los peces. Con la prep. con, y el acus. es el sust. peces u otro equivalente. x",
+          "definicion": "Echar carnada a los peces. Con la prep. con, y el acus. es el sust. peces u otro equivalente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Lo que pescan con abundancia los Bolantineros son mabras, en ocasiones jurelos, y especialmente bogas: y a semejantes peces calan o encarnan con camarón.»",
               "autor": "",
               "referencia_obra": "Sáñez Reguart, Dicc. Histór. Pesca, t. 1, p. 263."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -435,45 +553,56 @@
     {
       "id": "c)",
       "definicion": "Entre cazadores, Encarnizar, o cebar los perros con desperdicios de carne (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«E Gandalín --- se apeó muy prestamente de su caballo, y encarnó los canes, que muy buenos eran.»",
               "autor": "Am. de Gaula",
-              "referencia_obra": ", 3. 13 (R. 40. 2421). —"
+              "referencia_obra": ", 3. 13 (R. 40. 2421)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "- α α )",
               "id_limpio": "- α α )",
-              "definicion": "Con la prep. con. x",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los perros no muestran ningún ardor por patearle [al lobo] y tienen tal repugnancia a su carne, que es preciso aderezarla y sazonarla quando se les quiere encarnar con ella.»",
                   "autor": "Buffon",
                   "referencia_obra": "(ed. 1787), t. 10, p. 50."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. Cebarse el perro y, en general, cualquier animal carnívoro en su presa. Con en. +",
+          "definicion": "Refl. Cebarse el perro y, en general, cualquier animal carnívoro en su presa. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Pues Antonio de Leiva, que entonces le apuntaba la barba, como un bravo león cuando se encarna en las animalias que topa habiendo gran hambre, se adelantaba entre todos.»",
               "autor": "Crón. Gran Capitán",
               "referencia_obra": ", 6. 9 (NBAE. 10. 3622)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -481,59 +610,88 @@
     {
       "id": "5",
       "definicion": "Dar color de carne a las esculturas (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Con rosa y nácar en jazmín y nieve | Las mejillas encarna [el pintor] dulcemente | Hasta el bello purísimo relieve.»",
               "autor": "Lope",
               "referencia_obra": ", Angél. 4 (Obr. suelt. 2. 60)."
             },
             {
+              "marca": "",
               "texto_cita": "«La imagen es venerable por su antigüedad; el color moreno de rostro y manos téngalo por obra del que la encarnó.»",
               "autor": "Villanueva",
               "referencia_obra": ", Viaje 7, p. 150."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Part. adj. De color de carne, colorado, rojo. +",
+              "definicion": "Part. adj. De color de carne, colorado, rojo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Y, tomándole los cabellos con una cinta encarnada, se los rebolbieron a la cabeça, poniéndole un escofión de redezilla de oro muy subtil.»",
                   "autor": "Montem.",
-                  "referencia_obra": "Diana, 4 (Cl. C. 127.172). +"
+                  "referencia_obra": "Diana, 4 (Cl. C. 127.172)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Labios tendrá cual encarnados lirios, | Que mirra perfectísima derramen, | Olor de gloria y gusto de martirios.»",
                   "autor": "Hojeda",
-                  "referencia_obra": ", Crist. 10 (R. 17. 4311). +"
+                  "referencia_obra": ", Crist. 10 (R. 17. 4311)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Es [la mayhua], desde su pezón, de un color encarnado finísimo.»",
                   "autor": "Cobo",
-                  "referencia_obra": ", Hist. Nuevo Mundo, 1. 4. 42 (R. 91. 1812). — En particular, Ruborizado, avergonzado. +"
+                  "referencia_obra": ", Hist. Nuevo Mundo, 1. 4. 42 (R. 91. 1812)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "En particular, Ruborizado, avergonzado.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Ni me agrada el rodeo de que se vale [el poeta] para decir que la ninfa se puso encarnada.»",
+                      "autor": "M. de la Rosa",
+                      "referencia_obra": ", Anot. a la poét. 4. 4 (1. 171)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Descuide usted, señorita, respondió el comendador, encarándose con doña Clara, que se puso más encarnada aún.»",
+                      "autor": "Valera",
+                      "referencia_obra": ", El Comendador Mendoza, p. 59."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Ni me agrada el rodeo de que se vale [el poeta] para decir que la ninfa se puso encarnada.»",
-                  "autor": "M. de la Rosa",
-                  "referencia_obra": ", Anot. a la poét. 4. 4 (1. 171)."
-                },
-                {
-                  "texto_cita": "«Descuide usted, señorita, respondió el comendador, encarándose con doña Clara, que se puso más encarnada aún.»",
-                  "autor": "Valera",
-                  "referencia_obra": ", El Comendador Mendoza, p. 59. — Sust. +"
-                },
-                {
-                  "texto_cita": "«Mucho le dura la audiencia con su amo y señor, el que se viste de encarnado y negro.»",
-                  "autor": "Calderón",
-                  "referencia_obra": ", Esc. andaluzas (R. 78. 1931)."
+                  "id_limpio": "—",
+                  "definicion": "Sust.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Mucho le dura la audiencia con su amo y señor, el que se viste de encarnado y negro.»",
+                      "autor": "Calderón",
+                      "referencia_obra": ", Esc. andaluzas (R. 78. 1931)."
+                    }
+                  ]
                 }
               ]
             }
@@ -544,7 +702,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: + «Que, si Adán non pecara, | Y nosotros dentro en él; | Si encarnara o no encarnara, | A lo menos no pasara | En la cruz muerte cruel.» Fr. Iñigo de Mendoza, Coplas (NBAE. 19. 991) «El rey, David --- en cuyo linaje el mismo Dios quiso encarnar.» Crón. Álv. de Luna, 80 (205). «Maestro señor, quiero vos preguntar, | Pues es indivisa la Trenidat, | En cómo pudo el Fijo encarnar | E tomar en sý la umanidat.» Canc. de Baena, p. 583. «Sy era Dios bivo ya en trenidat, | Pues que non era el Fijo encarnado» Ib. p. 284. «Deue tener sus dientes mondados e fregados con las cosas que encarna las ensías e los tiene limpios.» Villena, Arte cis. 3 (19).\n\n— Siglo XIV: «Entonce encarna bien tu señuelo de un corpanzo de gallina.» L. de Ayala, Caza, 8 (Bibl. venat. 3. 191). «Pues las rentas de la villa, quando se an de arrendar, | Allí llegan los alcaldes por en ellas encarnar.» Rim. de Pal. 363 (R. 57. 436 2). «Et encarnándolo [el can] el bien desta guisa unas cinco o seis veces, dende adelante poderlo han muy bien soltar.» Mont. Alf. XI, 1. 23 (Bibl. venat. 1. 77). «Et el rastro del oso el muy buen can et bien encarnado ayudará mejor al montero que el montero a él.» Ib. 1. 19 (Bibl. venat. 1. 64). «Si estudiere [el can] muy cansado, que entiendan que non podrá alcanzar, guárdenlo para lo encarnar de trayella.» Ib. 1. 9 (Bibl. venat. 1. 44). «Debe muy bien encarnar el sennuelo et tirar el capirote al falcón.» J. Man. Caza, 6 (Bibl. venat. 3. 45). «Deben encarnar el sennuelo con dos tetiellas o con dos piernas de buena gallina.» Id. ib. 5 (Bibl. venat. 3. 55).\n\n— Siglo XIII: «Búscale el diablo que faga la vida de este mundo, para encarnarle más en los sus fechos.» Cast. e docum. 21 (R. 51. 1372). «Fue Jesucristo encarnado en el su vientre virginal.» Ib. 4 (R. 51. 951). «¿Qué es el ome? Voluntad encarnada.» Crón. gen. 1. 120 (961). «E encarnó de Spiritu Santo.» Fuero juzgo, 12. 3. 14 (195). «Encarna el peccado enno omne mesquino.» Alex. 1648 (R. 57. 1981). «Cuemo eran encarnados, non duldauan morir.» Ib. 1043 (R. 57. 1792). «Todo lo conqueríen quanto delante fallauan, | Quanto más yuan yendo más se encarnauan.» Ib. 730 (R. 57. 1701). «Fueron los aueres e las tiendas dexando, | Troianos mal fadados fuéronse encarnando.» Ib. 706 (R. 57. 1691). «Ca Satanás andaua en él encarnado.» Ib. 152 (R. 57. 1521). «Por esto otro día vendrán más encarnados, | Con amor de ganar serán más denodados.» Ib. 72 (R. 57. 1492). «Sennor, que encarnesti enna Virgo gloriosa.» Berc. Mil. 457 (R. 57. 1172).\n\n— Siglo IX: La forma encarnado con el sentido de ‘rojo, colorado’ aparece ya en el año 896 en un doc. de S. Rosendo (cfr. Corominas, DCEC sb. voc. Carne): «Concedemos --- trece casullas ---la novena de exage encarnada.» (tomada la cita en Sache, Ort und Wort, Festschrift Jakob Jud, p. 709).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. incarnáre ‘encarnar’, compuesto de in y carnem ‘carne’. Fr. incarner, ital. incarnare, cat., gall. y port. encarnar.\n\n\u0000",
+  "etimologia": "Etim. Del lat. <i>incarnáre </i>‘encarnar’, compuesto de <i>in y carnem </i>‘carne’. <i>Fr. incarner, </i>ital. <i>incarnare, </i>cat., gall. y port. <i>encarnar.</i>\n\n<i></i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

@@ -1,91 +1,126 @@
 {
   "lema": "INCLINAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, a) apartar una cosa de su posición perpendicular u horizontal, ladear, torcer (Anochecer: η; Dirigir: θ ), b) poner en lugar más bajo, mover hacia lugar más abajo. Se usa frecuentemente para significar respeto, sumisión (Prestar atención: δ ), c) rebajar;\n\n— 2, a) obrar sobre la voluntad de las personas impulsando o dirigiendo su accionar en determinado sentido, decidir, persuadir, b) someter, c) tender hacia, preferir, tomar partido, decidirse, d) sentir afecto por, ligarse afectivamente con alguien, e) ganar, obtener el afecto de alguien, f) atraer;\n\n— 3, influir en el comportamiento y destino de las personas.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, a) apartar una cosa de su posición perpendicular u horizontal, ladear, torcer (Anochecer: η; Dirigir: θ ), b) poner en lugar más bajo, mover hacia lugar más abajo. Se usa frecuentemente para significar respeto, sumisión (Prestar atención: δ ), c) rebajar;\n\n— 2, a) obrar sobre la voluntad de las personas impulsando o dirigiendo su accionar en determinado sentido, decidir, persuadir, b) someter, c) tender hacia, preferir, tomar partido, decidirse, d) sentir afecto por, ligarse afectivamente con alguien, e) ganar, obtener el afecto de alguien, f) atraer;\n\n— 3, influir en el comportamiento y destino de las personas.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Apartar una cosa de su posición perpendicular u horizontal, ladear, torcer (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En altas nubes desmayó desierto | Ni alzar osando, ni inclinar el vuelo.»",
               "autor": "Herr.",
               "referencia_obra": "1, son. 53 (R. 32. 2651)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cargando [Florencia] a una de las balanzas de Francia o España, inclinaba el fiel de la paz.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 95 (R. 25. 2482)."
             },
             {
+              "marca": "",
               "texto_cita": "«Como la espesa mies violento agita | De impetuoso céfiro el embate, | Las débiles espigas inclinando.»",
               "autor": "",
               "referencia_obra": "Hermosilla, Iliada. 2 (1. 39)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, que señala: — la dirección del movimiento.",
-              "ejemplos_citas": [
+              "definicion": "Con a, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Las hojas ligerísimas --- | Al agua inclinan sus coronas bellas.»",
-                  "autor": "F. de la Torre",
-                  "referencia_obra": ", 3, égl. 5 (p. 119)."
+                  "id_limpio": "—",
+                  "definicion": "la dirección del movimiento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Las hojas ligerísimas --- | Al agua inclinan sus coronas bellas.»",
+                      "autor": "F. de la Torre",
+                      "referencia_obra": ", 3, égl. 5 (p. 119)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«A climas diferentes | La errada proa inclinen | Las poderosas naves | De césares Filipes.»",
+                      "autor": "Lope",
+                      "referencia_obra": ", Dorotea, 3. 1 (Obr. suelt. 7. 171)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y recogiendo velas, a la orilla | Inclinamos las proas.»",
+                      "autor": "T. Iriarte",
+                      "referencia_obra": ", Eneida, 3 (3. 231)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«A climas diferentes | La errada proa inclinen | Las poderosas naves | De césares Filipes.»",
-                  "autor": "Lope",
-                  "referencia_obra": ", Dorotea, 3. 1 (Obr. suelt. 7. 171)."
-                },
-                {
-                  "texto_cita": "«Y recogiendo velas, a la orilla | Inclinamos las proas.»",
-                  "autor": "T. Iriarte",
-                  "referencia_obra": ", Eneida, 3 (3. 231). — La causa."
-                },
-                {
-                  "texto_cita": "«Robusta antigua encina, | Roble que nunca inclina | La altiva rama al cierzo que le toca.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Gal. 3 (R. 1. 421)."
+                  "id_limpio": "—",
+                  "definicion": "La causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Robusta antigua encina, | Roble que nunca inclina | La altiva rama al cierzo que le toca.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Gal. 3 (R. 1. 421)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para expresar el medio. Además con hasta. +",
+              "definicion": "Con la prep. con, para expresar el medio. Además con hasta.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Después de granado el trigo, se asientan [los pájaros] en la espiga y con su peso la inclinan hasta la tierra.»",
                   "autor": "Cobo",
                   "referencia_obra": ", Hist. Nuevo Mundo, 1. 8. 47 (R. 91. 3282)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con para y una prop. infinitiva, que expresa la finalidad. X",
+              "definicion": "Con para y una prop. infinitiva, que expresa la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ella le dijo que estaba bien, y sonrió para demostrarlo, e inclinó la cafetera para llenar con el líquido caliente la taza del joven marido.»",
                   "autor": "Mallea",
                   "referencia_obra": ", La rosa, p. 166."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -93,89 +128,110 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol. Con a, que señala la dirección del movimiento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Este es el camino, andad en él, no inclinéis a la derecha o la izquierda.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 3, Hijo (3. 327)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con hacia, en el mismo sentido anterior. +",
+              "definicion": "Con hacia, en el mismo sentido anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Siendo ya pasada la furia del calor del medio día, de suerte que el sol, inclinando hacia el occidente, no hería ya con sus rayos ---, llegún hombre a caballo.»",
                   "autor": "F. de Mena",
                   "referencia_obra": ", Teágenes y Cariclea, 8 (p. 325)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Donde se escuche el mágico concento, | De secas hojas y sonoros trinos, | Y se inclinen movidas por el viento, | Las verdes ramas de los altos pinos.»",
               "autor": "D. Uribe",
               "referencia_obra": ", Obra poét. p. 3."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, para señalar la dirección.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Paró el agua a su queja, y por oílla | Los sauces se inclinaron a la orilla.»",
                   "autor": "Espinosa",
                   "referencia_obra": ", Fáb. del Jenil (R. 29. 4751)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Refl. Con a, para señalar la dirección. X",
+          "definicion": "Refl. Con a, para señalar la dirección.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La espiga rica en fruto | Se inclina a tierra; | La que no tiene grano, | Se empina tiesa. | Es en su porte | Modesto el hombre sabio, | Y altivo el zote.»",
               "autor": "Hartz.",
               "referencia_obra": "Fáb. 13 (Cl. C. 179. 29)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con hacia, que señala la dirección del movimiento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Cuanto está [el árbol] más cargado de fruto, más se inclina hacia la tierra.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Flos SS. Encarn. (Vida de Cristo, p. 133)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por y una prop. infinitiva. X",
+              "definicion": "Con por y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los viejos se tornan a la edad que dio principio a su ser; la espiga madura y abundante de granos se tuerce e inclina por tornar a la tierra de a do salió, y el aue fénix buelue a morir en las cenizas que dieron principio a su vida.»",
                   "autor": "",
                   "referencia_obra": "Píc. Just. (1. 129)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -183,116 +239,143 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Todos tienen parte en ella [en la caída del privado], unos por amigos, otros por enemigos, procurando que acabe de caer aquella pared ya inclinada.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 50 (R. 25. 1322)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, para señalar el agente. X",
+              "definicion": "Con por, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ninguna de las islas paradisíacas del Pacífico podrá detenernos con sus bosques de palmeras inclinadas por la brisa sobre los lagos interiores.»",
                   "autor": "Zalamea",
                   "referencia_obra": ", Minerva en la rueca, p. 25."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con hacia, que señala la dirección del movimiento. X",
+              "definicion": "Con hacia, que señala la dirección del movimiento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Vemos en él una cabeza juvenil, correcta aunque asimétrica, con la nariz ligeramente inclinada hacia la derecha y la oreja izquierda más despegada que la del otro lado.»",
                   "autor": "Marañón",
                   "referencia_obra": ", Tiberio, 4. 15 (p. 230)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Las ramas del boscaje, inclinadas sobre las aguas y espejándose en la tersa y serena haz; las bandadas de aves acuáticas, revolando blandamente sobre un cielo gris en el que se columbra una hendidura azul.»",
                   "autor": "Azorín",
                   "referencia_obra": ", Paisaje de Esp. 1 (p. 409)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Con la expresión plano inclinado para referirse a una superficie plana, resistente, que forma ángulo agudo con el horizonte, y por medio de la cual se facilita la elevación o el descenso de pesos y otras cosas. X",
+          "definicion": "Con la expresión plano inclinado para referirse a una superficie plana, resistente, que forma ángulo agudo con el horizonte, y por medio de la cual se facilita la elevación o el descenso de pesos y otras cosas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Un momento de pausa desde el vestíbulo de la basílica, una mirada desde la suave altura de aquel magnífico plano inclinado. ¡Qué hermosura de plaza!»",
               "autor": "Catalina",
-              "referencia_obra": ", Roma, p. 109. X"
+              "referencia_obra": ", Roma, p. 109."
             },
             {
+              "marca": "X",
               "texto_cita": "«Corriendo hacia el Magdalena, fertilizarían [las acequias] el plano inclinado donde están el Espinal y algunos caseríos y muchas haciendas.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 3 (p. 17). X"
+              "referencia_obra": ", Sueños, 3 (p. 17)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Un cuadro verdadero se sirve de lo que en él esté expreso como de un plano inclinado para hacernos resbalar y lanzarnos vertiginosamente a un trasmundo donde los dolores duelen más y alegran más las alegrías.»",
               "autor": "Ortega y Gasset",
-              "referencia_obra": ", Mocedades, p. 123. X"
+              "referencia_obra": ", Mocedades, p. 123."
             },
             {
+              "marca": "X",
               "texto_cita": "«La parroquia es un gran plano inclinado en el que van rodando cientos de vidas, con la intervención del albedrío; pero sobre el cual, circunstancias providenciales reparten el acabamiento de la existencia, cuando menos es esperado.»",
               "autor": "",
               "referencia_obra": "Yáñez, Al filo del agua, p. 187."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "En el siguiente ejemplo, Anochecer. Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Oh Amador de las ánimas limpias, que os apacentáis entre lirios mientras dura el día y se inclinan las sombras.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 3. 10 (R. 8. 2611)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
-          "definicion": "En los siguientes ejemplos, Dirigir. Trans. Con hacia, que señala la dirección del movimiento. X",
+          "definicion": "En los siguientes ejemplos, Dirigir. Trans. Con hacia, que señala la dirección del movimiento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Son los príncipes astros que ilustran a los sujetos hacia donde inclinan sus rayos, y cuyo benigno aspecto influye aún en la fortuna de la fama.»",
               "autor": "Feijóo",
               "referencia_obra": ", Teatro crít. (Cl. C. 53. 193)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ven, que ya las dos Osas | Al ocaso avecinan | Su refulgente carro, y presurosas | Las centellantes Pléyades se inclinan.»",
                   "autor": "Quint.",
                   "referencia_obra": "Poes. Al sueño (R. 19. 271)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -301,151 +384,214 @@
     {
       "id": "b)",
       "definicion": "Poner en lugar más bajo, mover hacia lugar más abajo. Se usa frecuentemente para significar respeto, sumisión (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Hallose D. Quijote a pie, su caballo sin freno, su lanza arrimada a un árbol, y finalmente sin defensa alguna, y así tuvo por bien de cruzar las manos e inclinar la cabeza, guardándose para mejor sazón y coyuntura.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 60 (R. 1. 5311)."
             },
             {
+              "marca": "",
               "texto_cita": "«Al subir el duque y la duquesa en el teatro se levantaron D. Quijote y Sancho y les hicieron una profunda humillación, y los duques hicieron lo mismo inclinando algún tanto las cabezas.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 2. 69 (R. 1. 5582). X"
+              "referencia_obra": "Id. ib. 2. 69 (R. 1. 5582)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Sin duda la Marquesa es mexicana? La Niña Chole inclinó los ojos poniéndose encendida: —Sí, Madre Abadesa. —¿Pero de origen español? —Sí, Madre Abadesa.»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Sonata de estío, p. 114."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«",
                   "autor": "",
                   "referencia_obra": ""
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El carro comenzó a caminar, y al pasar la hermosa Dulcinea inclinó la cabeza a los duques y hizo una gran reverencia a Sancho.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 35 (R. 1. 4812)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Estaba retratando al rey Felipe IV Diego Velázquez, con tan airoso movimiento y tal expresión de lo majestuoso y augusto de su rostro, que en mí se turbó el respeto, y le incliné la rodilla y los ojos.»",
                   "autor": "Saav.",
                   "referencia_obra": "Rep. (R. 25. 3932)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Conviene que el semblante del príncipe a quien inclina la rodilla el delincuente, señale a un mismo tiempo lo terrible de la justicia y lo suave de la clemencia.»",
                   "autor": "",
                   "referencia_obra": "Id. Emp. 39 (R. 25. 991)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con hacia, que señala la dirección del movimiento. X",
+              "definicion": "Con hacia, que señala la dirección del movimiento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y pasa un breve minuto en silencio. Don Bernardo inclina la cabeza hacia mí y susurra en voz queda: —Este himno lo he compuesto para que se cante en el Centenario del Quijote.»",
                   "autor": "Azorín",
                   "referencia_obra": ", Ruta de D. Quij. 12 (p. 381)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con hasta, que señala el término del movimiento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Oyendo lo cual Trifaldín, inclinó la rodilla hasta el suelo.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 36 (R. 1. 4831). X"
+                  "referencia_obra": "Quij. 2. 36 (R. 1. 4831)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Daniel! —dijo la misma voz, aproximándose más a la ventana la persona del interior. —Sí, Daniel. Y en el momento, la ventana se abrió, la celosía fue alzada, y una mujer joven y vestida de negro inclinó su cuerpo hasta tocar las rejas con su mano.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 1 (p. 23)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con por, para señalar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El que inclinó por humildad la rodilla, sabrá en la ocasión despreciar el peligro y ofrecer constante la cerviz al cuchillo.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 26 (R. 25. 702)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sobre esta piedra inclino | Gustoso la cabeza, | Aunque cueste un prodigio, | Que produzca piedades una piedra.»",
                   "autor": "Lobo",
-                  "referencia_obra": ", Obr. poét. 2 (p. 113). X"
+                  "referencia_obra": ", Obr. poét. 2 (p. 113)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Lágrimas interrumpen su lamento, | Inclina sobre el pecho su semblante, | Y de ella en derredor susurra el viento | Sus últimas palabras, sollozante.»",
                   "autor": "Espronc.",
                   "referencia_obra": "Estud. de Salam. (Cl. C. 47. 277)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. Con a, para señalar: — la persona u objeto reverenciados con valor de ante.",
-          "ejemplos_citas": [
+          "definicion": "Refl. Con a, para señalar:",
+          "marca": "",
+          "ejemplos_citas": [],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Es Alonso de Salas Barbadillo, | A quien me inclino y sin medida aprecio.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Viaje, 2 (R. 1. 6822)."
+              "id_limpio": "—",
+              "definicion": "la persona u objeto reverenciados con valor de ante.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Es Alonso de Salas Barbadillo, | A quien me inclino y sin medida aprecio.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Viaje, 2 (R. 1. 6822)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Y entre el moreno rostro, que se inclina | Al blanco de que fue su sol testigo ---.»",
+                  "autor": "Lope",
+                  "referencia_obra": ", Angél. 3 (Obr. suelt. 2. 48)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Y entre el moreno rostro, que se inclina | Al blanco de que fue su sol testigo ---.»",
-              "autor": "Lope",
-              "referencia_obra": ", Angél. 3 (Obr. suelt. 2. 48). —La causa."
+              "id_limpio": "—",
+              "definicion": "La causa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Pero no ha de ser el príncipe como el camello que ciegamente se inclina a la carga.»",
+                  "autor": "Saav.",
+                  "referencia_obra": "Emp. 57 (R. 25. 1521)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Pero no ha de ser el príncipe como el camello que ciegamente se inclina a la carga.»",
-              "autor": "Saav.",
-              "referencia_obra": "Emp. 57 (R. 25. 1521). — La dirección."
+              "id_limpio": "—",
+              "definicion": "La dirección.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Pero en el aire | Éste la vio venir [la pica], y evitó el golpe | Inclinándose al suelo.»",
+                  "autor": "",
+                  "referencia_obra": "Hermosilla, Iliada. 22 (2. 328)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Los ojos del prelado estaban llenos de lágrimas. Era afanosa y ronca su voz. Los familiares se congregaban en torno del lecho. Sus frentes inclinábanse al suelo: Todos aparentaban una gran pesadumbre, y parecían de antemano edificados por aquella confesión que intentaba hacer ante ellos el moribundo obispo de Betulia.»",
+                  "autor": "Valle-Inclán",
+                  "referencia_obra": ", Sonata de primavera, p. 17."
+                }
+              ]
             },
             {
-              "texto_cita": "«Pero en el aire | Éste la vio venir [la pica], y evitó el golpe | Inclinándose al suelo.»",
-              "autor": "",
-              "referencia_obra": "Hermosilla, Iliada. 22 (2. 328). X"
-            },
-            {
-              "texto_cita": "«Los ojos del prelado estaban llenos de lágrimas. Era afanosa y ronca su voz. Los familiares se congregaban en torno del lecho. Sus frentes inclinábanse al suelo: Todos aparentaban una gran pesadumbre, y parecían de antemano edificados por aquella confesión que intentaba hacer ante ellos el moribundo obispo de Betulia.»",
-              "autor": "Valle-Inclán",
-              "referencia_obra": ", Sonata de primavera, p. 17. — El motivo. El término es una prop. infinitiva."
-            },
-            {
-              "texto_cita": "«Inclinose a ver el sepulcro, y vio dos ángeles con vestiduras resplandecientes.»",
-              "autor": "Puente",
-              "referencia_obra": ", Medit. 5. 4 (3. 28)."
+              "id_limpio": "—",
+              "definicion": "El motivo. El término es una prop. infinitiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Inclinose a ver el sepulcro, y vio dos ángeles con vestiduras resplandecientes.»",
+                  "autor": "Puente",
+                  "referencia_obra": ", Medit. 5. 4 (3. 28)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -453,124 +599,198 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Inclinósele maese Pedro diciéndole: No esperaba yo menos de la inaudita cristiandad del valeroso D. Quijote de la Mancha.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 26 (R. 1. 4611). — Además con la prep. con, que indica el modo."
+                  "referencia_obra": "Quij. 2. 26 (R. 1. 4611)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, que indica el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Sancho Panza se le inclinó con mucho comedimiento y le besó entrambas las manos.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 46 (R. 1. 3862)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Sancho Panza se le inclinó con mucho comedimiento y le besó entrambas las manos.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 46 (R. 1. 3862). — met."
-                },
-                {
-                  "texto_cita": "«Cuando, a la excelsa Venus semejante, | Salía al campo, los humildes chopos, | El olmo erguido y los ancianos robles | Se le inclinaban.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "oda sáf. Mientras cubierto (R. 46. 222)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Cuando, a la excelsa Venus semejante, | Salía al campo, los humildes chopos, | El olmo erguido y los ancianos robles | Se le inclinaban.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "oda sáf. Mientras cubierto (R. 46. 222)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, que indica el modo. X",
+              "definicion": "Con la prep. con, que indica el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los niños pequeñuelos acuden a verla las pocas veces que sale a la calle y quieren besarle la mano; las mozuelas le sonríen y la saludan con amor; los hombres todos se quitan el sombrero a su paso y se inclinan con la más espontánea reverencia y con la más sencilla y natural»",
                   "autor": "Valera",
-                  "referencia_obra": ", Pepita Jiménez, p. 43. X"
+                  "referencia_obra": ", Pepita Jiménez, p. 43."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo interrumpí un poco impaciente: —¿Monseñor ha sido trasladado al Colegio? —No lo ha consentido la Señora Princesa. Ya os digo que está en trance de muerte. Inclineme con solemne pesadumbre. —Acatemos la voluntad de Dios!»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de primavera, p. 11. X"
+                  "referencia_obra": ", Sonata de primavera, p. 11."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ramiro no quiso acompañar a Beatriz; un movimiento pudoroso le impulsaba a evitar en ese momento la mirada de su madre. Inclinose, pues, con muda reverencia, y se alejó por los corredores.»",
                   "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 194). — Además con hacia, que indica la dirección del movimiento. X"
-                },
+                  "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 194)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Con misterio después ella se inclina | Hacia el cura, que le oye fascinado, | Y prosigue: \"Me ha dicho mi madrina | Que el que bese a mi primo es un pecado, | Y mi primo ha jurado | Que él me habrá de besar, pese a quien pese, | Pues cree que a mí me gusta que me bese.»",
-                  "autor": "Campoamor",
-                  "referencia_obra": ", Poes. (Cl. C. 40. 209)."
+                  "id_limpio": "—",
+                  "definicion": "Además con hacia, que indica la dirección del movimiento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Con misterio después ella se inclina | Hacia el cura, que le oye fascinado, | Y prosigue: \"Me ha dicho mi madrina | Que el que bese a mi primo es un pecado, | Y mi primo ha jurado | Que él me habrá de besar, pese a quien pese, | Pues cree que a mí me gusta que me bese.»",
+                      "autor": "Campoamor",
+                      "referencia_obra": ", Poes. (Cl. C. 40. 209)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con hacia. X",
+              "definicion": "Con hacia.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Larsen sonrió y se puso a maniobrar lentamente para encender un cigarrillo, después se esforzó en mirar con odio la cabeza de pájaro, expectante y fanática, que se inclinaba hacia él, segura de todos los triunfos, segura de que nadie le impediría tener razón hasta el final.»",
                   "autor": "Onetti",
                   "referencia_obra": ", El astillero, p. 146."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con para y una prop. en infinitivo, que expresa la finalidad. X",
+              "definicion": "Con para y una prop. en infinitivo, que expresa la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Era llena de gentileza, con movimientos de pájaro, alegres y ligeros: María Rosario, viéndola llegar, sonreía, cubierto el rostro de rubor y sin secar las lágrimas. Inclinose para besarla, y la niña se le colgó al cuello, hablándole con agasajo al oído.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de primavera, p. 76. X"
+                  "referencia_obra": ", Sonata de primavera, p. 76."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Partiendo una rama, me incliné para barrer con ella las vegetaciones acuátiles, pero don Rafo me detuvo, rápido como el grito de Alicia.»",
                   "autor": "Rivera",
-                  "referencia_obra": ", La vorágine, 1 (p. 23). X"
+                  "referencia_obra": ", La vorágine, 1 (p. 23)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Reprochándome de esta suerte la brutal escena de La Maporita, intentó reír, pero, de repente, convulsionada por los sollozos, cayó a mis pies: —¡Déjate de burlas, mira que somos tan desgraciaos! Casi maquinalmente inclineme para levantarla, con secreta satisfacción de verla rendida.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 3 (p. 247). X"
+                  "referencia_obra": "Id. ib. 3 (p. 247)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Están ahí por nosotros, por vernos, pero no contra nosotros. ¡Ni por qué había de ser contra nosotros! —y se inclinó confiadamente para coger más agua.»",
                   "autor": "Miró",
-                  "referencia_obra": ", Años y leguas, p. 98. — Además con la prep. con, que expresa el modo. X"
+                  "referencia_obra": ", Años y leguas, p. 98."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, que expresa el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Amalia se inclinó con rapidez para alcanzarla [la flor]; pero, más rápida todavía, cruzó una sombra por su imaginación.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 5 (p. 566)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Amalia se inclinó con rapidez para alcanzarla [la flor]; pero, más rápida todavía, cruzó una sombra por su imaginación.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 5 (p. 566). — Además con en, que señala el lugar. X"
-                },
-                {
-                  "texto_cita": "«Luego quedó pálida, pálida como la muerte. Vacilando, se acercó a sus hermanas, y tomó asiento entre ellas, que se inclinaron en sus sillas para interrogarla: Apenas respondía.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de primavera, p. 29."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, que señala el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Luego quedó pálida, pálida como la muerte. Vacilando, se acercó a sus hermanas, y tomó asiento entre ellas, que se inclinaron en sus sillas para interrogarla: Apenas respondía.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de primavera, p. 29."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Después de la primera sorpresa, cuando pudo pensar en lo que había hecho, se inclinó todo trémulo sobre el cuerpo de la inanimada Aurora; advirtió que tenía el rostro ardiendo; los ojos cerrados»",
                   "autor": "Palma",
-                  "referencia_obra": ", Una pascua, 5 (Un siglo, p. 156). X"
+                  "referencia_obra": ", Una pascua, 5 (Un siglo, p. 156)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yuste tira del bolsillo una achatada caja de plata. En la tapa, orlada de finos roleos de oro, un niño se inclina sobre un perro y lo acaricia amorosamente.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 73). X"
+                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 73)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Urania se inclinó sobre las flores de jacinto: y más que con la suavidad de su fragancia, se embelesó en aquellas dos letras, que provocaron en su espíritu la ilusión de una Naturaleza sellada por los signos de la inteligencia.»",
                   "autor": "Rodó",
-                  "referencia_obra": ", Motivos de Proteo, p. 151. — Además con por. X"
-                },
+                  "referencia_obra": ", Motivos de Proteo, p. 151."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«La danza concluía, la rotación era cada vez más lenta. Aixa trababa sus pies, por instantes; su cabeza, cargada quién sabe de qué prodigiosas visiones, se inclinó por fin sobre el hombro.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 93)."
+                  "id_limpio": "—",
+                  "definicion": "Además con por.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La danza concluía, la rotación era cada vez más lenta. Aixa trababa sus pies, por instantes; su cabeza, cargada quién sabe de qué prodigiosas visiones, se inclinó por fin sobre el hombro.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 93)."
+                    }
+                  ]
                 }
               ]
             }
@@ -580,52 +800,64 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part. Con a, que indica la dirección.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Como el mísero doliente, | Que en el lecho fatigado, | A cualquier parte inclinado, | Los mismos dolores siente.»",
               "autor": "Alarcón",
               "referencia_obra": ", Las paredes oyen, 1. 5 (R. 20. 443)."
             },
             {
+              "marca": "",
               "texto_cita": "«Grandes fueron las [virtudes] que resplandecieron en Alejandro Magno, y procuraba el emperador Caracala parecerse solamente a él en llevar inclinada la cabeza al lado izquierdo.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 13 (R. 25. 382)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con hacia, que señala la dirección del movimiento. X",
+              "definicion": "Con hacia, que señala la dirección del movimiento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Porque dice la leyenda de la orden que le oyó con semblante sereno, con los ojos bajos, con las manos debajo del escapulario, con el cuerpo algo inclinado hacia adelante, en postura humilde.»",
                   "autor": "Isla",
                   "referencia_obra": ", Fr. Ger. 2. 4 (Cl. C. 149. 57)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pero vio el aquivo | Venir la pica, y evitó su golpe | Bajándose inclinado hacia adelante.»",
                   "autor": "",
                   "referencia_obra": "Hermosilla, Iliada, 16 (2. 146)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Don Quijote quedose un momento pensativo. \"Mirole Sancho —dice Cervantes— y vio que tenía la cabeza inclinada sobre el pecho, con muestras de estar corrido.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", Ruta de D. Quij. 9 (p. 369). X"
+                  "referencia_obra": ", Ruta de D. Quij. 9 (p. 369)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Este caballero es el Marqués de Bradomín. La Infanta murmuró en voz baja, inclinada la cabeza sobre el hombro de su madre: —¿El que hizo la guerra en México?»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de invierno, p. 111"
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -633,23 +865,28 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "En los siguientes ejemplos, Prestar atención. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Hanos mandado, según hemos oído, que le oyamos y miremos, y le inclinemos nuestra oreja.»",
               "autor": "Ávila",
               "referencia_obra": ", Audi. 82 (2. 56)."
             },
             {
+              "marca": "",
               "texto_cita": "«Muy mejor nos oye Dios, y nos ve, y nos inclina su oreja, que nosotros a él.»",
               "autor": "",
               "referencia_obra": "Id. ib. 87 (2. 93)."
             },
             {
+              "marca": "",
               "texto_cita": "«A estas voces, pues, hermano mío, inclina tus oídos.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 1. 5 (R. 8. 2151)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -657,32 +894,40 @@
     {
       "id": "c)",
       "definicion": "Rebajar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con a, que señala la dirección del movimiento. Además con por.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pues ¿cuál es la bondad de aquel Señor, que así inclinó la alteza de su majestad a tan gran bajeza por hacernos participantes de su gloria?»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 4, diál. 8, §6 (R. 6. 5791)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Qué nos representa el haber bajado del cielo a la tierra, el haber nacido en un establo, y ser inclinado en un pesebre?»",
               "autor": "Gran.",
               "referencia_obra": "Adic. al Mem. med. 14, §1 (R. 8. 5492)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -690,120 +935,169 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Obrar sobre la voluntad de las personas impulsando o dirigiendo su accionar en determinado sentido, decidir, persuadir (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Yo no opondré por mi parte la menor dificultad a los deseos que usted manifiesta; pero tampoco le ayudaré a inclinar la voluntad de mi prima.»",
               "autor": "Mor.",
               "referencia_obra": "Obr. póst. (2. 227)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Si mi dolor y desventura extraña | A lástima y piedad no te inclinaren ---.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 20 (R. 17. 771)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Nunca ni emprende [la mujer], ni alcanza cosa de valor ni de ser, sino es porque la inclina a ello, y la despierta y alienta alguna fuerza de increíble virtud.»",
                   "autor": "León",
                   "referencia_obra": ", Perf. cas. 2 (3. 432)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y sin mirar a otra cosa que aquella a que su gusto le inclinaba --- comenzó a requebrar a Camila.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 33 (R. 1. 3461)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La furia siempre inclina | A daño universal las voluntades.»",
                   "autor": "B. Argens.",
                   "referencia_obra": "canc. Quien vive (R. 42. 3251)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dice que a su muerte violenta | Le inclina su nacimiento.»",
                   "autor": "G. de Castro",
                   "referencia_obra": ", Las mocedades del Cid, 1. 2 (R. 43. 2501)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Llego al altar de la deidad que en medio | Reina ostentando su silvestre pompa, | Y a reverencia y religión me inclina.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Poes. A Cienfuegos (R. 19. 302). — El término es una prop. en infinitivo."
+                  "referencia_obra": "Poes. A Cienfuegos (R. 19. 302)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. en infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y así inclino | A tomar este camino | Mi voluntad sin más ocio.»",
+                      "autor": "Castillejo",
+                      "referencia_obra": ", 3, Vida de corte (R. 32. 2153)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Trataba él con Abén Humeya loando sus buenas partes y conversación [de su mujer], tanto, que a desearla ver le inclinó.»",
+                      "autor": "Mend.",
+                      "referencia_obra": "Guerra de Gran. 3 (R. 21. 1031)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«A mí a quien tus escritos han admirado e inclinado a desear conocerte y servirte, puedes de hoy más tener y tratar como verdadero amigo.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Gal. 2 (R. 1. 231)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Vino a saber el enemigo esta falta; cosa que le acabó de inclinar el ánimo a perseverar.»",
+                      "autor": "Coloma",
+                      "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 861)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Pues que por ley divina | Y humana se concede | La natural defensa | Naturaleza inclina, | En cuanto el hombre puede, | A resistir la ofensa»",
+                      "autor": "Lope",
+                      "referencia_obra": ", Filom. 2 (Obr. póst. 2. 464)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y del amor que me inclina | A vivir en esta aldea, | Quiero que testigo sea | El ser de Flora madrina.»",
+                      "autor": "",
+                      "referencia_obra": "Id. El hijo de los leones, 2. 7 (R. 34. 2251)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«¿No es la instrucción la que enseña a los hombres sus deberes, y la que le inclina a cumplirlos?»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "trat. de enseñ. 1ª cuestión (R. 46. 2312)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Creo que en general producirá esta obra el provecho de inclinar a los jóvenes a no seguir a ciegas el voto común.»",
+                      "autor": "M. de la Rosa",
+                      "referencia_obra": ", Poét. advert. (1. 94)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y lejos de procurar | Inclinarla a ser mi esposa, | Le ofrecéis un rico dote | Si llega a ceñir la toca.»",
+                      "autor": "Hartz.",
+                      "referencia_obra": "El bachiller Mendarias, 1. 1 (p. 119)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Unidos [estos impulsos innatos] con el dolor, con el placer y con la imprevisión, nos inclinan sin embargo a estudiar nuestras facultades intelectuales y físicas.»",
+                      "autor": "Lista",
+                      "referencia_obra": ", Ensayos, 1 (p. 6)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Y así inclino | A tomar este camino | Mi voluntad sin más ocio.»",
-                  "autor": "Castillejo",
-                  "referencia_obra": ", 3, Vida de corte (R. 32. 2153)."
+                  "id_limpio": "—",
+                  "definicion": "Además con desde, que señala el punto de partida del movimiento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Los padres deben tener gran cuenta con inclinar a sus hijos desde niños al temor santo de Dios.»",
+                      "autor": "Rivad.",
+                      "referencia_obra": "Flos SS. Present. (Vida de la Virgen, p. 113)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Trataba él con Abén Humeya loando sus buenas partes y conversación [de su mujer], tanto, que a desearla ver le inclinó.»",
-                  "autor": "Mend.",
-                  "referencia_obra": "Guerra de Gran. 3 (R. 21. 1031)."
-                },
-                {
-                  "texto_cita": "«A mí a quien tus escritos han admirado e inclinado a desear conocerte y servirte, puedes de hoy más tener y tratar como verdadero amigo.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Gal. 2 (R. 1. 231)."
-                },
-                {
-                  "texto_cita": "«Vino a saber el enemigo esta falta; cosa que le acabó de inclinar el ánimo a perseverar.»",
-                  "autor": "Coloma",
-                  "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 861)."
-                },
-                {
-                  "texto_cita": "«Pues que por ley divina | Y humana se concede | La natural defensa | Naturaleza inclina, | En cuanto el hombre puede, | A resistir la ofensa»",
-                  "autor": "Lope",
-                  "referencia_obra": ", Filom. 2 (Obr. póst. 2. 464)."
-                },
-                {
-                  "texto_cita": "«Y del amor que me inclina | A vivir en esta aldea, | Quiero que testigo sea | El ser de Flora madrina.»",
-                  "autor": "",
-                  "referencia_obra": "Id. El hijo de los leones, 2. 7 (R. 34. 2251)."
-                },
-                {
-                  "texto_cita": "«¿No es la instrucción la que enseña a los hombres sus deberes, y la que le inclina a cumplirlos?»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "trat. de enseñ. 1ª cuestión (R. 46. 2312)."
-                },
-                {
-                  "texto_cita": "«Creo que en general producirá esta obra el provecho de inclinar a los jóvenes a no seguir a ciegas el voto común.»",
-                  "autor": "M. de la Rosa",
-                  "referencia_obra": ", Poét. advert. (1. 94)."
-                },
-                {
-                  "texto_cita": "«Y lejos de procurar | Inclinarla a ser mi esposa, | Le ofrecéis un rico dote | Si llega a ceñir la toca.»",
-                  "autor": "Hartz.",
-                  "referencia_obra": "El bachiller Mendarias, 1. 1 (p. 119)."
-                },
-                {
-                  "texto_cita": "«Unidos [estos impulsos innatos] con el dolor, con el placer y con la imprevisión, nos inclinan sin embargo a estudiar nuestras facultades intelectuales y físicas.»",
-                  "autor": "Lista",
-                  "referencia_obra": ", Ensayos, 1 (p. 6). — Además con desde, que señala el punto de partida del movimiento."
-                },
-                {
-                  "texto_cita": "«Los padres deben tener gran cuenta con inclinar a sus hijos desde niños al temor santo de Dios.»",
-                  "autor": "Rivad.",
-                  "referencia_obra": "Flos SS. Present. (Vida de la Virgen, p. 113). — El término es una prop. en indicativo."
-                },
-                {
-                  "texto_cita": "«Y sobre todo me comenzaron a hacer fuerza y a inclinarme a lo que fue, sin yo pensarlo, mi perdición, los juramentos de D. Fernando, los testigos que ponía, las lágrimas que derramaba.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 28 (R. 1. 3272)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. en indicativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y sobre todo me comenzaron a hacer fuerza y a inclinarme a lo que fue, sin yo pensarlo, mi perdición, los juramentos de D. Fernando, los testigos que ponía, las lágrimas que derramaba.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 28 (R. 1. 3272)."
+                    }
+                  ]
                 }
               ]
             },
@@ -811,40 +1105,58 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La pintura sin embargo que hicieron del establecimiento y de la conducta del jefe que le dirigía, empezó a inclinar los ánimos en favor suyo.»",
                   "autor": "Quint.",
                   "referencia_obra": "Balboa (R. 19. 2971)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con hacia, para expresar la dirección del movimiento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Todo esto pudieras hacerlo bien, si el diablo no te inclinara hacia otra parte.»",
                   "autor": "Mor.",
                   "referencia_obra": "Obr. póst. (2. 97)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con por, para expresar el objeto de la inclinación. X",
+              "definicion": "Con por, para expresar el objeto de la inclinación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si hubieras sido deportista, hijo, un verdadero campeón en el deporte que hubieses preferido elegir sin que yo osara, ciertamente, inclinarte por este o por aquel, quizá no pensase ahora como pienso.»",
                   "autor": "Cela",
-                  "referencia_obra": ", Mrs. Caldwell, p. 90. — β Absol."
-                },
+                  "referencia_obra": ", Mrs. Caldwell, p. 90."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Que hay hombres que usan tan mal | De lo libre de su arbitrio, | Que parece que en sus obras | Fuerza, y no inclina, el destino.»",
-                  "autor": "Mto.",
-                  "referencia_obra": "Lo que puede la aprehensión, 1. 1 (R. 39. 1673)."
+                  "id_limpio": "—",
+                  "definicion": "β Absol.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Que hay hombres que usan tan mal | De lo libre de su arbitrio, | Que parece que en sus obras | Fuerza, y no inclina, el destino.»",
+                      "autor": "Mto.",
+                      "referencia_obra": "Lo que puede la aprehensión, 1. 1 (R. 39. 1673)."
+                    }
+                  ]
                 }
               ]
             },
@@ -852,23 +1164,28 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Su voz divina | Algo tiene de angélica sustancia, | Pues a contemplación tan alta inclina.»",
                   "autor": "Lope",
                   "referencia_obra": ", Son. var. 4 (Obr. suelt. 1. 3781)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Es verdad que habrá todavía muchas personas en una situación media; pero siempre pertenecerán a esta o aquella clase, según que su situación incline más o menos a la aplicación o a la ociosidad.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Mem. sobre espect. 2 (R. 46. 4912)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El argumento de esta pieza inclina a sospechar que fuese precisamente una de las muchas que se ejecutaban en el templo.»",
                   "autor": "Mor.",
                   "referencia_obra": "Oríg. disc. hist. (R. 2. 155)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -876,13 +1193,16 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Pas. refl. Con a y una prop. en infinitivo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Aunque no acababa mi voluntad de inclinarse a ser monja, vi era el mejor y más seguro estado.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Vida, 3 (R. 53. 271)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -890,54 +1210,67 @@
     {
       "id": "b)",
       "definicion": "Someter (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La antigua palma y abundante oliva | A ti de hoy más inclinarán su gloria.»",
               "autor": "Arguijo",
               "referencia_obra": ", son. 13 (R. 32. 3932)."
             },
             {
+              "marca": "",
               "texto_cita": "«No inclinó bajamente la autoridad real a la violencia de sus vasallos.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 32 (R. 25. 852)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si vos, señor, por sola esta prenda venís, no la habéis de llevar sino atada con las ligaduras y lazos del matrimonio; que si la virginidad se ha de inclinar, ha de ser a este santo yugo.»",
               "autor": "Cerv.",
               "referencia_obra": "Gitanilla (Cl. C. 27. 39)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a y una prop. en indicativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¡Cuán diferentemente se inclina aquí nuestra voluntad a lo que es la voluntad de Dios!»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Cam. perf. 42 (R. 53. 3741)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mas el buen padre ni con estas razones ni con otras se pudo inclinar a lo que su alteza mandaba.»",
                   "autor": "Gran.",
                   "referencia_obra": "Vida de B. de los Márt. 2 (R. 11. 4331)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -945,13 +1278,16 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Prnl. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Siempre hallará el príncipe muchos votos que le sigan, o por agradalle, o porque fácilmente nos inclinamos al parecer del que manda.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 57 (R. 25. 1532)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -959,42 +1295,60 @@
     {
       "id": "c)",
       "definicion": "Tender hacia, preferir, tomar partido, decidirse (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pasado el primer disgusto, inclinaba [Monteagudo] al bando francés.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 14. 2 (R. 30. 4021)."
             },
             {
+              "marca": "",
               "texto_cita": "«Inclinarían a esto todos los que tenían provincias o otras plazas a su devoción, y algunas ciudades que aspirarían a hacerse repúblicas libres.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 2 (R. 28. 152)."
             },
             {
+              "marca": "",
               "texto_cita": "«Le tenían como en prisión; que no es menos un palacio donde están introducidas las artes de cautivar el albedrío y voluntad del príncipe, conduciéndole adonde quieren sus cortesanos, sin que pueda inclinar a una ni otra parte, como se encamina al agua por ocultos conductos para solo el uso y beneficio de un campo.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 2 (R. 25. 131)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aunque inclinó [el rey] a ello, no faltaron después consejeros que con aparentes razones le disuadieron.»",
               "autor": "",
               "referencia_obra": "Id. ib. 67 (R. 25. 1852)."
             },
             {
+              "marca": "",
               "texto_cita": "«Inclinando mucho el clima de España a la sequedad, son en ella más necesarios los canales de riego.»",
               "autor": "Jovell.",
-              "referencia_obra": "Instrucc. a la Junta de hacienda (R. 50. 781). — Además con en."
-            },
+              "referencia_obra": "Instrucc. a la Junta de hacienda (R. 50. 781)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«A cuya sentencia parece haber inclinado Juan Pierio en sus jeroglíficos.»",
-              "autor": "J. L. Villanueva",
-              "referencia_obra": ", Viaje (2. 33)."
+              "id_limpio": "—",
+              "definicion": "Además con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«A cuya sentencia parece haber inclinado Juan Pierio en sus jeroglíficos.»",
+                  "autor": "J. L. Villanueva",
+                  "referencia_obra": ", Viaje (2. 33)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1003,31 +1357,53 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. refl. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Todo se inclina fácil y dulcemente a su bien.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 2, Príncipe (3. 204)."
             },
             {
+              "marca": "",
               "texto_cita": "«Le dio por suerte Dios [a su Hijo] que los deseos e inclinaciones y aficiones de todos se inclinasen a él.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 3. Amado (3. 334). — El término es una prop. en infinitivo. X"
+              "referencia_obra": "Id. ib. 3. Amado (3. 334)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "El término es una prop. en infinitivo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«La voluntad se inclina a amar adonde tan innumerables cosas y muestras ha visto de amor.»",
+                  "autor": "Sta. Ter.",
+                  "referencia_obra": "Mor. 2. 1. (Cl. C. 1. 28)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Conforme a su natural inconstancia, claramente inclinaba a favorecer a los enemigos.»",
+                  "autor": "Mariana",
+                  "referencia_obra": ", Hist. Esp. 15. 1 (R. 30. 4281)."
+                }
+              ]
             },
             {
-              "texto_cita": "«La voluntad se inclina a amar adonde tan innumerables cosas y muestras ha visto de amor.»",
-              "autor": "Sta. Ter.",
-              "referencia_obra": "Mor. 2. 1. (Cl. C. 1. 28)."
-            },
-            {
-              "texto_cita": "«Conforme a su natural inconstancia, claramente inclinaba a favorecer a los enemigos.»",
-              "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 15. 1 (R. 30. 4281). — Además con por, para señalar la causa."
-            },
-            {
-              "texto_cita": "«Tuvo grande aplauso el parecer de Magiscatzín, y todos los votos se inclinaban a seguirle por aclamación.»",
-              "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 2. 16 (R. 28. 2541)."
+              "id_limpio": "—",
+              "definicion": "Además con por, para señalar la causa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Tuvo grande aplauso el parecer de Magiscatzín, y todos los votos se inclinaban a seguirle por aclamación.»",
+                  "autor": "Solís",
+                  "referencia_obra": ", Conq. de Méj. 2. 16 (R. 28. 2541)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1036,71 +1412,115 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Prnl. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Qué cosa tan espantosa como ver de la manera que estará aquel sumo Dios mirando desde el trono de su gloria un ánima que habrá estado penando millones de años en tan terribles tormentos; y que no por eso se inclinará jamás a compasión della, sino antes holgará que pene, y que esta pena sea sin cabo, y sin término, y sin esperanza de remedio.»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 27, §1 (R. 6. 1022)."
             },
             {
+              "marca": "",
               "texto_cita": "«Torno a decir que si se inclina a cosas del mundo, y no se ve ir aprovechando, que no es para estos monasterios.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cam. perf. 13 (R. 53. 3351)."
             },
             {
+              "marca": "",
               "texto_cita": "«Entre el sí y el no de la duda, cada uno puede inclinarse a la parte que más quisiere.»",
               "autor": "Cerv.",
               "referencia_obra": "Señora Cornelia (R. 1. 2161)."
             },
             {
+              "marca": "",
               "texto_cita": "«Yo tengo más armas que letras, y nací, según me inclino a las armas, debajo de la influencia del planeta Marte.»",
               "autor": "",
               "referencia_obra": "Id. Quij. 2. 6 (R. 1. 4162)."
             },
             {
+              "marca": "",
               "texto_cita": "«Armado allí en su tienda | Siempre al sueño se inclina, | Y de allí podré hurtarle | Vara y escudo.»",
               "autor": "Cald.",
               "referencia_obra": "Judas Macabeo, 2. 10 (R. 7. 3191)."
             },
             {
+              "marca": "",
               "texto_cita": "«Entre estas dos opiniones puede adoptarse la que más acomode a cada lector: nosotros nos inclinamos más a la segunda.»",
               "autor": "Lista",
-              "referencia_obra": ", Ensayos, 2 (p. 11). — Además con desde."
+              "referencia_obra": ", Ensayos, 2 (p. 11)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con desde.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Verdad es que me incliné, | Desde el punto que te vi, | A hacer, Rosaura por ti | (Testigo tu llanto fue) | Cuanto mi vida pudiese.»",
+                  "autor": "Cald.",
+                  "referencia_obra": "La vida es sueño, 3. 8 (R. 7. 151)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Fue ese político el doctor Rafael Núñez, quien contando solo diez y ocho años en 1843 y siendo notado por sus ideas nada dogmáticas, se inclinó desde entonces a los principios cardinales de la reforma política de ese año.»",
+                  "autor": "M. F. Suárez",
+                  "referencia_obra": ", Sueños, 1 (p. 243)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Verdad es que me incliné, | Desde el punto que te vi, | A hacer, Rosaura por ti | (Testigo tu llanto fue) | Cuanto mi vida pudiese.»",
-              "autor": "Cald.",
-              "referencia_obra": "La vida es sueño, 3. 8 (R. 7. 151). X"
+              "id_limpio": "—",
+              "definicion": "Además con en y con, para señalar el tiempo y el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Aunque con esto habría menos religiosos y menos clérigos, serían más constantes en seguir la vocación a que se inclinaron en edad madura y con juicio asentado.»",
+                  "autor": "Navarr.",
+                  "referencia_obra": "Conserv. de mon. 43 (R. 25. 5382)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Fue ese político el doctor Rafael Núñez, quien contando solo diez y ocho años en 1843 y siendo notado por sus ideas nada dogmáticas, se inclinó desde entonces a los principios cardinales de la reforma política de ese año.»",
-              "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 1 (p. 243). — Además con en y con, para señalar el tiempo y el modo."
+              "id_limpio": "—",
+              "definicion": "Además con por, para expresar la causa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Tornaron a tratar de la paz, a que el uno y el otro mucho se inclinaban por estar cansados de los trabajos pasados.»",
+                  "autor": "Mariana",
+                  "referencia_obra": ", Hist. Esp. 14. 14 (R. 30. 4241)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Aunque con esto habría menos religiosos y menos clérigos, serían más constantes en seguir la vocación a que se inclinaron en edad madura y con juicio asentado.»",
-              "autor": "Navarr.",
-              "referencia_obra": "Conserv. de mon. 43 (R. 25. 5382). — Además con por, para expresar la causa."
-            },
-            {
-              "texto_cita": "«Tornaron a tratar de la paz, a que el uno y el otro mucho se inclinaban por estar cansados de los trabajos pasados.»",
-              "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 14. 14 (R. 30. 4241). — El término es una prop. en infinitivo."
-            },
-            {
-              "texto_cita": "«Y pues el Criador que con tanta justicia puede castigar al culpado que le ofendió, se inclina a compadecerse primero que castigue ---.»",
-              "autor": "Ávila",
-              "referencia_obra": ", Epist. 4, Instruc. para jueces, §3 (7. 226)."
-            },
-            {
-              "texto_cita": "«Y así no podía inclinarme a creer que tan gallarda historia hubiese quedado manca y estropeada.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 9 (R. 1. 2712)."
-            },
-            {
-              "texto_cita": "«A imitar con el canto estos modelos | Se inclina el hombre.»",
-              "autor": "T. Iriarte",
-              "referencia_obra": ", Mús. (1. 158)."
+              "id_limpio": "—",
+              "definicion": "El término es una prop. en infinitivo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Y pues el Criador que con tanta justicia puede castigar al culpado que le ofendió, se inclina a compadecerse primero que castigue ---.»",
+                  "autor": "Ávila",
+                  "referencia_obra": ", Epist. 4, Instruc. para jueces, §3 (7. 226)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Y así no podía inclinarme a creer que tan gallarda historia hubiese quedado manca y estropeada.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 1. 9 (R. 1. 2712)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«A imitar con el canto estos modelos | Se inclina el hombre.»",
+                  "autor": "T. Iriarte",
+                  "referencia_obra": ", Mús. (1. 158)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -1108,18 +1528,22 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con hacia. Además con la prep. con, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Cuando una nación, dice cierto filósofo, saliendo de su rudeza, recibe las primeras ideas de orden y comodidad, naturalmente se inclina con preferencia hacia la arquitectura.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Elog. de las bellas artes (R. 46. 3522). X"
+                  "referencia_obra": "Elog. de las bellas artes (R. 46. 3522)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Se habló de los amores de Luisa y el poeta. Pero ella, además, sentía que su corazón se inclinaba con violencia hacia el más apuesto caballero del reino: el duque de Borbón, condestable de Francia.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 1. 7 (p. 113)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1127,104 +1551,135 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Sería yo de parecer que le dejen [al estudiante] seguir aquella ciencia a que más le vieren inclinado.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 16 (R. 1. 4362)."
             },
             {
+              "marca": "",
               "texto_cita": "«Enamorada no estoy. | Pero... —¿Qué? —Estoy inclinada.»",
               "autor": "Tirso",
               "referencia_obra": ", Quien calla, otorga, 1. 10 (R. 5. 952)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿A qué género de poesía es vuestra merced más inclinado, al lírico, al heroico o al cómico?»",
                   "autor": "Cerv.",
                   "referencia_obra": "Adjunta (R. 1. 7002)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ingenios hay inclinados a lo más peligroso.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 79 (R. 25. 2132). X"
+                  "referencia_obra": "Emp. 79 (R. 25. 2132)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El Hombre soy, a astucias inclinado, | Y por serlo hoy Ulises me he nombrado, | Que en griego decir quiere | cauteloso.»",
                   "autor": "Cald.",
-                  "referencia_obra": "Autos (Cl. C. 74. 70). X"
+                  "referencia_obra": "Autos (Cl. C. 74. 70)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Soy igual que era mi padre. Los dos inclinados a la melancolía, apasionados, románticos, amando una sola vez y para toda la vida.»",
                   "autor": "",
-                  "referencia_obra": "J. Poncela, Eloísa, 2 (p. 121). — El término es una prop. en infinitivo."
-                },
+                  "referencia_obra": "J. Poncela, Eloísa, 2 (p. 121)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Hombres infames y bajos, enemigos de piedad, bestias crueles, sin respeto ni vergüenza, inclinados a perseguir a la gente que ven levantarse en actos de virtud.»",
-                  "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 17 (R. 18. 4132). X"
-                },
-                {
-                  "texto_cita": "«Es preciso que mendiguemos algunas noticias de los extranjeros, pero con la cautela de tener por sospechosos maestros de la verdad a muchos de los escritores griegos, inclinados a mentir y muy ignorantes de nuestras cosas.»",
-                  "autor": "Mayáns",
-                  "referencia_obra": ", Oríg. leng. esp. p. 294."
-                },
-                {
-                  "texto_cita": "«Sociedad amable, muy inclinada a merendar, a beber y a reír.»",
-                  "autor": "Mor.",
-                  "referencia_obra": "Obr. póst. (2. 113). X"
-                },
-                {
-                  "texto_cita": "«Se siente uno inclinado a decir que se distingue León de Herrera como Horacio de Píndaro.»",
-                  "autor": "M. de la Rosa",
-                  "referencia_obra": ", Anot. a la Poét. 4. 8 (1. 177). X"
-                },
-                {
-                  "texto_cita": "«Manuela no contaba, en la época que narramos, con otro ser que debiera interesarse por ella, sino su padre; porque su hermano era un bellaco rudo, inclinado al mal.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 4 (p. 413)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. en infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Hombres infames y bajos, enemigos de piedad, bestias crueles, sin respeto ni vergüenza, inclinados a perseguir a la gente que ven levantarse en actos de virtud.»",
+                      "autor": "Espinel",
+                      "referencia_obra": ", Escud. 1. 17 (R. 18. 4132)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Es preciso que mendiguemos algunas noticias de los extranjeros, pero con la cautela de tener por sospechosos maestros de la verdad a muchos de los escritores griegos, inclinados a mentir y muy ignorantes de nuestras cosas.»",
+                      "autor": "Mayáns",
+                      "referencia_obra": ", Oríg. leng. esp. p. 294."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Sociedad amable, muy inclinada a merendar, a beber y a reír.»",
+                      "autor": "Mor.",
+                      "referencia_obra": "Obr. póst. (2. 113)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Se siente uno inclinado a decir que se distingue León de Herrera como Horacio de Píndaro.»",
+                      "autor": "M. de la Rosa",
+                      "referencia_obra": ", Anot. a la Poét. 4. 8 (1. 177)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Manuela no contaba, en la época que narramos, con otro ser que debiera interesarse por ella, sino su padre; porque su hermano era un bellaco rudo, inclinado al mal.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 4 (p. 413)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con desde, que señala el origen o punto de partida. X",
+              "definicion": "Con desde, que señala el origen o punto de partida.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El corazón del hombre está inclinado al mal desde su adolescencia.»",
                   "autor": "Balmes",
-                  "referencia_obra": ", El criterio, p. 48. X"
+                  "referencia_obra": ", El criterio, p. 48."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Inclinado desde su más tierna edad al estudio, pasó sobre los libros los años que otros pasan en cursar la intriga.»",
                   "autor": "Larra",
                   "referencia_obra": ", Artíc. polít. y soc. (Cl. C. 77. 287)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "En comparativo, con valor ponderativo. X",
+              "definicion": "En comparativo, con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y porque yva tan apassionado, que se lo conté todo; y queriendo bolver por mí, supuesto que naturaleza sea tan inclinada al mal, quando le huve de contar el miedo que de la muger tenia ---.»",
                   "autor": "",
                   "referencia_obra": "Cortés de Tolosa, Lazarill. de Manzanares (Cl. C. 186. 140)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El color tan inclinado a la blancura, o tan lejos de la obscuridad, que parecía extranjero entre los de su nación.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 5. 25 (R. 28. 3871)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1233,58 +1688,72 @@
     {
       "id": "d)",
       "definicion": "Sentir afecto por, ligarse afectivamente con alguien (prnl.). Con dat.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Apetecen también a Cristo y se le inclinan amorosamente.»",
           "autor": "León",
           "referencia_obra": ", Nomb. 3, Amado (3. 339)."
         },
         {
+          "marca": "",
           "texto_cita": "«Confieso mi envidia. | —Y yo | Mi envidia y mis celos juntos | Pues en mí crecen por puntos | Los que su talle me dio. | Fuera de que yo entendí | Que se le inclinó Lucrecia.»",
           "autor": "Lope",
           "referencia_obra": ", El dómine Lucas, 1. 2 (R. 24. 451)."
         },
         {
+          "marca": "",
           "texto_cita": "«Y dile en disfraz, Urbán, | Que una dama se le inclina, | Y que la hable tiernamente.»",
           "autor": "",
           "referencia_obra": "Id. La viuda valenciana, 1. 13 (R. 24. 733)."
         },
         {
+          "marca": "",
           "texto_cita": "«Los ojos Blanca le lleva; | No pienso que se me inclina.»",
           "autor": "Alarcón",
           "referencia_obra": ", Siempre ayuda la verdad, 1. 7 (R. 20. 2312)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "e)",
       "definicion": "Ganar, obtener el afecto de alguien (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con la prep. con, para expresar el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ya no están en dos bandos divididos | Los inmortales que el Olimpo habitan, | Porque Juno de todos con sus ruegos | Inclinó el corazón, y a los troyanos | Muchas calamidades amenazan.»",
               "autor": "",
               "referencia_obra": "Hermosilla, Iliada. 2 (1. 33)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con hacia, que señala la dirección del movimiento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Si solo Dios es el que pesa los espíritus y el que escudriña los corazones, ¿quién te dio a ti licencia para tomar ese peso en la mano, y asentarte en esa silla, e inclinar hacia ti esa balanza?»",
                   "autor": "Gran.",
                   "referencia_obra": "Orac. y consid. 2. 5, §6 (R. 6. 1462)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1293,59 +1762,88 @@
     {
       "id": "f)",
       "definicion": "Atraer (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Ya el bullicio no me agrada | Ni la hermosura me inclina.»",
           "autor": "Iglesias",
           "referencia_obra": ", rom. 3 (R. 61. 4322)."
         },
         {
+          "marca": "",
           "texto_cita": "«Si usted no halla en mí prendas que la inclinen, si siente algún otro cuidadillo en su corazón, créame usted, la menor disimulación en esto nos daría a todos muchísimo que sentir.»",
           "autor": "Mor.",
           "referencia_obra": "El sí de las niñas, 2. 5 (R. 2. 4281)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
       "definicion": "Aplicado a los astros, Influir en el comportamiento y destino de las personas (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Desde mis tiernos y primeros años | A aquella parte me inclinó mi estrella, | Y a aquel fiero destino de mis daños.»",
               "autor": "Garcil.",
-              "referencia_obra": "égl. 2 (R. 32. 72). X"
+              "referencia_obra": "égl. 2 (R. 32. 72)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y no fue gran maravilla, porque los influxos de las celestes estrellas tanto a ello le inclinaban, que paresció no ser nascido Syreno sino para Diana ni Diana sino para Syreno.»",
               "autor": "Gil Polo",
-              "referencia_obra": ", Diana (Cl. C. 135. 202). X"
+              "referencia_obra": ", Diana (Cl. C. 135. 202)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No quería decir con esto que estuviese arrepentido de la nobilísima carrera a que le había inclinado su constelación, no, mil veces.»",
               "autor": "Larreta",
-              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 54). — El término es una prop. infinitiva. X"
+              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 54)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "El término es una prop. infinitiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Los astrólogos echan sus juicios, en los cuales sacan en limpio, no lo que el hombre hará (porque esto ni lo dicen ni hay razón para decirlo, porque fuera quitar al hombre el libre albedrío, poniendo en él determinación a una cosa), sino lo que los astros y aspectos de él le inclinan a hacer.»",
+                  "autor": "Rojas",
+                  "referencia_obra": "Villandrando, Viaje entretenido, p. 209."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Que la cortés estrella, que os inclina | A privar sin intento y sin venganza, | Milagro que a la invidia desatina.»",
+                  "autor": "Quev.",
+                  "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 123)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Los astrólogos echan sus juicios, en los cuales sacan en limpio, no lo que el hombre hará (porque esto ni lo dicen ni hay razón para decirlo, porque fuera quitar al hombre el libre albedrío, poniendo en él determinación a una cosa), sino lo que los astros y aspectos de él le inclinan a hacer.»",
-              "autor": "Rojas",
-              "referencia_obra": "Villandrando, Viaje entretenido, p. 209. X"
-            },
-            {
-              "texto_cita": "«Que la cortés estrella, que os inclina | A privar sin intento y sin venganza, | Milagro que a la invidia desatina.»",
-              "autor": "Quev.",
-              "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 123). — El término es una prop. subjuntiva. X"
-            },
-            {
-              "texto_cita": "«Y a tanto vino a llegar | La adversidad de mi estrella, | Que me inclinó que adorase | Con mi humildad tu soberbia.»",
-              "autor": "Quev.",
-              "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 250)."
+              "id_limpio": "—",
+              "definicion": "El término es una prop. subjuntiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Y a tanto vino a llegar | La adversidad de mi estrella, | Que me inclinó que adorase | Con mi humildad tu soberbia.»",
+                  "autor": "Quev.",
+                  "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 250)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1354,30 +1852,37 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No digo yo que fuerzan las estrellas; | Que inclinan digo; pero tú no quieres | Por tu elección, ni porque inclinan ellas.»",
               "autor": "Lope",
               "referencia_obra": ", Rim. de Burg. son. 98 (Obr. suelt. 19. 98)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y cuando se conocieran distintamente las virtudes y naturalezas de los astros, si éstos inclinan y no fuerzan, ¿cómo se puede hacer juicio por ellos que no sea temerario?»",
               "autor": "Saav.",
               "referencia_obra": "Rep. (R. 25, 4072)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mi estrella | Que aunque no fuera, Beatriz, | Inclina con tal violencia, | Que en mí apenas se distingue | La inclinación de la fuerza, | Me rindió a sus muchas partes.»",
                   "autor": "Cald.",
                   "referencia_obra": "Mañana será otro día, 1. 4 (R. 7. 5222)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1385,13 +1890,16 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Yo, inclinado de mi estrella, voy por la angosta senda de la caballería andante.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 32 (R. 1. 4712)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1399,12 +1907,12 @@
   ],
   "periodo_anteclasico": "Per. antecl.\n\n— Siglo XV: «E floresció su fama por la gran copia de gente que de continuo era inclinado de mantener.» Pulgar, Clar. var. 11 (p. 86). «Era hombre muy agudo e muy discreto e inclinado a justicia.» Id. ib. 8 (p. 71). «Damos gracias a aquel verdadero escogedor que te dio gracia para elegir aquello a que desde tu niñez te vimos inclinada.» Id. Letras, 23 (p. 247). «Dexado el camino de la clara virtud, se inclinan a los vicios e máculas del camino errado.» Id. ib. 14 (p. 218). «A cruel muerte me inclino.» Canc. de Stúñ. p. 393. «A una liviana e pobre mujer ansí como Leonor López, e a un pequeño e raez hombre, Hernán López de Saldaña, ansí se sometían e inclinaban.» P. de Guzmán, Gener. 30 (R. 68. 7111). «Naturalmente fue inclinado a las sciencias.» Id. ib. 7 (R. 68. 7031). «Todo contrito e lloroso | El noble rey se levanta, | Una soga a la garganta, | Inclinado e humildoso.» Id. ib. 312 (Rim. inéd. 318). «Mas el noble rey llegando, | Las cabeças inclinando, | Fue Córdoba sojuzgada.» Id. ib. 278 (Rim. inéd. 313). «Fizo a Dios tal oración | Ante la cruz inclinado.» Id. ib. 200 (Rim. inéd. 302). «E desque ya era inclinado el día, el rey se tornó a su palacio.» Crón. Álv. de Luna, 106 (p. 279). «Algunas cosas, a las cuales la ira e el deseo de la venganza las inclina ---.» Ib. 104 (p. 273). «E si aquesto sea dañoso e peligroso entre qualesquier personas e gentes, muy mucho mayor peligro suele traer e trae acerca de los reyes, e príncipes, e grandes señores, en ellos dar orejas a malinas personas e inclinarse a creer los dichos de aquéllas.» Ib. 100 (p. 260). «E si aquello es lo que mucho les conviene, es cosa muy complidera e facedera a los que son cercanos a los reyes, atraerlos e inclinarlos para cuantas partes e rodeos pudieren, a que lo pongan en efecto e por obra.» Ib. 84 (p. 217). «¿Quién sería aquel --- que aunque fuesse enemigo non se le inclinasse por reverencia, e le fuesse omilde?» Ib. 28 (p. 92). «Inclinose el alcayde por le facer reverencia e le besar la mano.» Ib. 28 (p. 92). «Nunca fue inclinado por cobdicia a facer ninguna fealdad, antes tovo siempre el corazón muy grande e generoso, e inclinado más a la honra que a la cobdicia.» Id. 7 (p. 19). «El humilde que se inclina | Es planta que se traspone, | Quanto más fonda se pone | Tanto crece más ayna.» Mena, Vicios y virt. p. 241. «Passé por aquella compaña feroçe, | Non muy orgulloso, el viso enclinado.» Santill. p. 245. «Mas vi sus cabeças al suelo inclinadas | Gimiendo tan tristes.» Id. p. 243. «El rey envió en pos dellos a facerlos tornar --- e inclináronse a su mandado.» Crón. P. Niño, p. 25. «Y a todas las señoras, inclinándolas e benivolencia, dijo ---.» Vis. delect. 1. 7 (R. 36. 3492). «Allí el exordio, que inclinaba el ánimo del auditor a benivolencia.» Ib. 1. 3 (R. 36. 3472). «Ante vos mi gesto enclino | Con reverencia e sabor | Que tengo de vos servir.» Canc. de Baena, p. 163. «Por las cuales dos cosas [oración y limosna] se enclina la piedad de Dios a recebir la penitencia al tiempo de la muerte.» Libro de enxemplos, 62 (R. 51. 4631). «Sienpre deue el consegero desir al rey verdat | E sienpre lo inclinar a faser piedat.» Rim. de Pal. 275 (R. 57. 4332). «Ficiéronle su reverencia que era ésta: fincar el finojo derecho en tierra, e poner los brazos en cruz ante los pechos, y enclinar la cabeza.» Gonz. Clav. p. 170. «E como los dichos embajadores entraron, enclinóse a ellos e fizoles asentar acerca de sí.» Id. p. 93.\n\n— Siglo XIV: «Signos de penitençia de los ojos llorando, | Do mas faser non puede, la cabeza inclinando.» Arc. de Hita, 1113 (R. 57. 2622). «Al pobre e al menguado e la poble mesquina, | El rico los quebranta, su soberbia los enclina.» Id. 794 (R. 57. 2521). «Más aparejada e inclinada es [la natura humana] al mal que al bien.» Id. preámb. (R. 57. 2261).\n\n— Siglo XIII: «Ca non puede ir a ninguna parte [el alma] sinon a do la inclina el amor.» Cast. e docum. 61 (R. 51. 1882). «Otrosí porque se demuestre por ellos en cómo deben ser primeramente inclinados a Dios, cuyo logar tienen ---.» Ib. 16 (R. 51. 1231). «Credía en la Gloriosa de toda voluntad | Siempre se inclinaba contra la su figura.» Berc. Mil. 145 (R. 57. 1081). «Enclina la cabeça ant el cuerpo sagrado.» Id. Sacrif. 205 (R. 57. 871). «E esto semeja a la vida que está parada en el sol, que si la irguieren acrescerá su sombra, et si más de su derecho la enclinares, menguará su sombra.» Cal. e Dymna (R. 51. 472). «Era él mi mayor cuidado, a lo que más me yo inclinaba, et de lo que más me trabajaba.» Ib. (R. 51. 151). «Enclinose la duenya, començó de llorar.» Appoll. 381 (R. 57. 2961).\n\n— Siglo XII: «Enclinaron las caras de suso de los arzones.» Cid, 717 (R. 57. 101). Item, 3617 (R. 57. 371). «Enclinó las manos en la su barba velida.» Ib. 274 (R. 57. 42).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. inclinare ‘apartar de la posición vertical; bajar, hacer descender’, derivado de clinare. Cat. y port. inclinar, fr. incliner, it. inclinare.",
+  "etimologia": "Etim. Del lat. <i>inclinare</i> ‘apartar de la posición vertical; bajar, hacer descender’, derivado de <i>clinare</i>. Cat. y port. <i>inclinar</i>, fr. <i>incliner</i>, it. <i>inclinare</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 1, α, ζ - 1, β, α - 1, χ, α - 2, α, α - 2, β, α - 2, χ, α - 2, ε, α - 2, φ - 3, α.\n\n— Aβσολ.: 1, α, β - 2, α, β - 3, β.\n\n— Pασ.: 1, χ, β.\n\n— Pασ. ρεφλ.: 1, α, γ - 1, α, η - 2, α, γ - 2, β, β - 2, χ, β.\n\n— Rεφλ.: 1, α, δ - 1, α, θ, α α - 1, b, β.\n\n— Pρνλ.: 2, β, γ - 2, χ, γ - 2, δ, α.\n\n— Pαρτ.: 1, α, ε - 1, β, γ - 2, χ, δ - 3, γ.\n\n— Cον δατ.: 1, β, α, α α -1, b, β, α α - 1, b, δ.\n\n— Cον α: εν γενεραλ.\n\n— Cον λα πρεπ. χον: εν γενεραλ.\n\n— Cον δε: 3, γ.\n\n— Cον δεσδε: 2, α, α, α α - 2, c, γ - 2, χ, δ, β β.\n\n— Con en: 1, b, β, δ δ - 1, c, β - 2, α, α, β β - 2, c, α - 2, χ, γ.\n\n— Cον ηαχια: εν γενεραλ.\n\n— Cον ηαστα: 1, β, α, γ γ.\n\n— Con para: 1, a, α, γ γ - 1, b, β, δ δ.\n\n— Con por: 1, a, δ, β β - 1, a, ε, α α - 1, b, α, δ δ - 1, c, α - 2, α, α, δ δ - 2, c, β - 2, χ, γ.\n\n— Cον σοβρε: 1, α, ε, γ γ - 1, b, α, ε ε - 1, b, β, ε ε - 1, b, γ, β β.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 1, α, ζ - 1, β, α - 1, χ, α - 2, α, α - 2, β, α - 2, χ, α - 2, ε, α - 2, φ - 3, α.\n\n— Aβσολ.: 1, α, β - 2, α, β - 3, β.\n\n— Pασ.: 1, χ, β.\n\n— Pασ. ρεφλ.: 1, α, γ - 1, α, η - 2, α, γ - 2, β, β - 2, χ, β.\n\n— Rεφλ.: 1, α, δ - 1, α, θ, α α - 1, b, β.\n\n— Pρνλ.: 2, β, γ - 2, χ, γ - 2, δ, α.\n\n— Pαρτ.: 1, α, ε - 1, β, γ - 2, χ, δ - 3, γ.\n\n— Cον δατ.: 1, β, α, α α -1, b, β, α α - 1, b, δ.\n\n— Cον α: εν γενεραλ.\n\n— Cον λα πρεπ. χον: εν γενεραλ.\n\n— Cον δε: 3, γ.\n\n— Cον δεσδε: 2, α, α, α α - 2, c, γ - 2, χ, δ, β β.\n\n— Con en: 1, b, β, δ δ - 1, c, β - 2, α, α, β β - 2, c, α - 2, χ, γ.\n\n— Cον ηαχια: εν γενεραλ.\n\n— Cον ηαστα: 1, β, α, γ γ.\n\n— Con para: 1, a, α, γ γ - 1, b, β, δ δ.\n\n— Con por: 1, a, δ, β β - 1, a, ε, α α - 1, b, α, δ δ - 1, c, α - 2, α, α, δ δ - 2, c, β - 2, χ, γ.\n\n— Cον σοβρε: 1, α, ε, γ γ - 1, b, α, ε ε - 1, b, β, ε ε - 1, b, γ, β β.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

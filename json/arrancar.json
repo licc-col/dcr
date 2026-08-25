@@ -1,77 +1,101 @@
 {
   "lema": "ARRANCAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen así:\n\n— 1, a) sacar de raíz, b) aplicado á lo moral;\n\n— 2, sacar con violencia;\n\n— 3, a) quitar con violencia, b) obtener con violencia, fraude, etc., c) denotando la acción de una pasión vehemente;\n\n— 4, a) hacer salir con violencia ó astucia, b) met.;\n\n— 5, despedir con fuerza, a) flemas, b) la voz, los suspiros;\n\n— 6, a) empezar á andar, b) partir de carrera, c) principiar, empezar á tomar tal dirección, d) met., e) náut., f) partir ó salir de alguna parte.",
+  "introduccion": "Las acepciones se distribuyen así:\n\n— 1, a) sacar de raíz, b) aplicado á lo moral;\n\n— 2, sacar con violencia;\n\n— 3, a) quitar con violencia, b) obtener con violencia, fraude, etc., c) denotando la acción de una pasión vehemente;\n\n— 4, a) hacer salir con violencia ó astucia, b) met.;\n\n— 5, despedir con fuerza, a) flemas, b) la voz, los suspiros;\n\n— 6, a) empezar á andar, b) partir de carrera, c) principiar, empezar á tomar tal dirección, d) met., e) náut., f) partir ó salir de alguna parte.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Sacar de raíz (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Se volvió loco, arrancó los árboles, enturbió las aguas de las claras fuentes.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 1. 25 (R. 1. 3132)."
         },
         {
+          "marca": "",
           "texto_cita": "«La ínsula que yo os he prometido no es movible ni fugitiva, raíces tiene tan hondas, echadas en los abismos de la tierra, que no la arrancarán ni mudarán de donde está á tres tirones.»",
           "autor": "",
           "referencia_obra": "Id. ib. 2. 41 (R. 1. 4882)."
         },
         {
+          "marca": "",
           "texto_cita": "«Ya se ve cuán dificultoso será arrancar el árbol que con tantas raíces está preso.»",
           "autor": "Gran.",
           "referencia_obra": "Adic. al Mem. 2. 11 (R 8. 4552)."
         },
         {
+          "marca": "",
           "texto_cita": "«Mira diligentemente no arranques la buena hierba por arrancar la mala.»",
           "autor": "",
           "referencia_obra": "Id. Esc. espir. 28, § 1 (R. 11. 3702)."
         },
         {
+          "marca": "",
           "texto_cita": "«Como en la cultura del campo primero arranca el labrador las hierbas dañosas, y después planta las buenas, ansí nosotros agora desarraiguemos primero ese error, para dejar después su campo libre y desembarazado á la verdad.»",
           "autor": "León",
           "referencia_obra": ", Nomb. 2, Brazo (R. 37. 1141)."
         },
         {
+          "marca": "",
           "texto_cita": "«Arrancamos con tiempo las hierbas infructuosas que nacen entre las mieses.»",
           "autor": "Saav.",
           "referencia_obra": "Emp. 7 (R. 25. 231)."
         },
         {
+          "marca": "",
           "texto_cita": "«Todo lo coge, lleva y va esparciendo,| Y arranca aquel furioso movimiento | Los arraigados troncos de su asiento.»",
           "autor": "Erc.",
           "referencia_obra": "Arauc. 22 (R. 17. 831)."
         },
         {
+          "marca": "",
           "texto_cita": "«Cuando su arista el grano rubio ofrece, | La arrancan de raíz, porque la siesta,| Pálida ya la aprieta y endurece.»",
           "autor": "B. Argens.",
           "referencia_obra": "epíst. No te pienso pedir (R. 42. 3161)."
         },
         {
+          "marca": "",
           "texto_cita": "«Arranca el airado viento | Todo un roble en la montaña, | Y por humilde la caña | Burla su impulso violento.»",
           "autor": "Mto.",
           "referencia_obra": "La misma conciencia acusa, 1. 8 (R. 39. 1042)."
         },
         {
+          "marca": "",
           "texto_cita": "«Podrá expresar al rápido torrente, | Cuando precipitándose y cayendo, | Los árboles arranca ferozmente.»",
           "autor": "Quint.",
-          "referencia_obra": "Reglas del drama, 2 (R. 19. 772). —"
-        },
+          "referencia_obra": "Reglas del drama, 2 (R. 19. 772)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Bien sabe mi Señor que no pretendo otra cosa en esto, sino que sea alabado y engrandecido un poquito, de ver que en un muladar tan sucio y de mal olor hiciese huerto de tan suaves flores. Plega á su Majestad que por mi culpa no las torne yo á arrancar.»",
-          "autor": "Sta. Ter.",
-          "referencia_obra": "Vida, 10 (R. 53. 432 )."
-        },
-        {
-          "texto_cita": "«Su Majestad arranca las malas hierbas, y ha de plantar las buenas.»",
-          "autor": "",
-          "referencia_obra": "Ead. ib. 11 (R. 53. 442)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Bien sabe mi Señor que no pretendo otra cosa en esto, sino que sea alabado y engrandecido un poquito, de ver que en un muladar tan sucio y de mal olor hiciese huerto de tan suaves flores. Plega á su Majestad que por mi culpa no las torne yo á arrancar.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 10 (R. 53. 432 )."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Su Majestad arranca las malas hierbas, y ha de plantar las buenas.»",
+              "autor": "",
+              "referencia_obra": "Ead. ib. 11 (R. 53. 442)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -79,51 +103,63 @@
     {
       "id": "b)",
       "definicion": "met. Dícese en lo moral, por extirpar y quitar cualquier cosa que podemos figurarnos asegurada con raíces.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si la elocuencia es poderosa para persuadir lo que quiere y arrancar de raíz las opiniones falsas, ninguno hubo en Atenas ---que fuese más elocuente que él.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 2. 30 (R. 6. 3842)."
             },
             {
+              "marca": "",
               "texto_cita": "«Verdad es que no podemos estar sin ellas [sin faltas]; mas siquiera múdense, porque no echen raíces, que serán más malas de arrancar, y aun podrían venir dellas á nacer otras muchas.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Conc. 2 (R. 53. 3941)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y una falsa opinión que tanto dura | No se puede mudar tan de corrida, | Ni del rudo común mal informado | Arrancar un error tan arraigado.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 32 (R. 17. 1191)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Por qué este porfioso desvarío | No extirpas, rey ingrato, y de mi pecho | No arrancas este rey indigno dolor mío?»",
               "autor": "Herr.",
               "referencia_obra": "1, eleg. 15 (R. 32. 2882)."
             },
             {
+              "marca": "",
               "texto_cita": "«Recobrará su juicio, y de la mente | Arrancará el frenético deseo | De una muerte famosa.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Arte poétic.de Hor. (1. 289)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Veis aquí, pastoras, en qué ha parado el fruto de mis lágrimas y sospiros; veis aquí ya arrancada de raíz toda mi esperanza.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Gal. 6 (R. 1. 961)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -132,66 +168,81 @@
     {
       "id": "2",
       "definicion": "Sacar ó quitar con violencia lo que está puesto ó asegurado en su lugar, ó, en general, lo que está firme y prendido (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El fruto ya maduro y con sazón se cayó del árbol que lo traía, y no había necesidad de arrancar con fuerza lo que de su voluntad se nos ofrecía.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 6. 5, § 3 (R. 8. 3391)."
             },
             {
+              "marca": "",
               "texto_cita": "«Fue tan grande su sentimiento que rasgó sus vestiduras, hasta la misma camisa, y arrancó los cabellos de su cabeza, y mesó los pelos de su barba.»",
               "autor": "",
               "referencia_obra": "Id. Serm. contra escánd. § 1 (R. 11. 441)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Quién podrá, juntas las cerdas, arrancar la cola de un caballo ó romper un manojo de saetas?»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 89 (R. 25. 2351)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Cómo no rompo estos hierros? | ¿Cómo estas rejas no arranco?»",
               "autor": "Tirso",
               "referencia_obra": ", El condenado por desconfiado, 3. 3 (R. 5. 1982)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si arranco la cerradura | Con la daga, soy perdido.»",
               "autor": "",
               "referencia_obra": "Id. Desde Toledo á Madrid, 1. 1 (R. 5. 4822)."
             },
             {
+              "marca": "",
               "texto_cita": "«Oigámosle á él --- en la epístola que desde la nave escribió á la santa virgen Asela, antes que arrancasen áncoras y desplegasen velas.»",
               "autor": "T. Iriarte",
               "referencia_obra": ", Eneida, 3 (3. 176)."
             },
             {
+              "marca": "",
               "texto_cita": "«Las gentes del país arrancan pedazos de sus paredes, que se labran en Nápoles, y tienen la dureza y brillantez del mármol.»",
               "autor": "Mor.",
               "referencia_obra": "Obr. póst. 1, p. 411."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ella sacó aquella lengua que siempre se ocupaba en las alabanzas divinas, la cual fue luégo cortada y los dientes arrancados.»",
                   "autor": "Gran.",
                   "referencia_obra": "Símb. 2. 21 (R. 6. 3352)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿No hubiera alguna espada aquí de cuantas | Contra mi se arrancaron á porfía, | Que, usada á nuestras míseras gargantas, | Cercenara de un golpe aquesta mía?»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 34 (R. 17. 1271)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -199,46 +250,64 @@
           "id_marcador_html": "—β )",
           "id_limpio": "—β )",
           "definicion": "Con dat. de pers.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Estábase todo este tiempo Sancho sobre la cuesta mirando las locuras que su amo hacía, y arrancábase las barbas, maldiciendo la hora y el punto en que la fortuna se le había dado á conocer.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 18 (R. 1. 2921)."
             },
             {
+              "marca": "",
               "texto_cita": "«Sin más ni más se echó entrambos puños á las barbas, y se arrancó la mitad dellas.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 26. (R. 1. 3182)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aunque él quisiera sentarse y ponerse en la silla, no podía sino estar en pie ó arrancarse la mano.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 43 (R. 1. 3782)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se lamenta, y se arranca de pesar sus hermosos cabellos.»",
               "autor": "",
               "referencia_obra": "Id. Ib. 2. 26 (R. 1. 4592)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y luégo le cortaron las orejas y le arrancaron los dientes.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 5. 2. 20, § 2 (R. 6. 6491)."
             },
             {
+              "marca": "",
               "texto_cita": "«Buitres que á pobres y ricos | Arrancan los corazones.»",
               "autor": "Castillejo",
               "referencia_obra": ", 2, Condic. de las mujeres (R. 32. 1972)."
             },
             {
+              "marca": "",
               "texto_cita": "«No hallando armas á la mano, se ha arrancado los ojos en el delirio de su furor.»",
               "autor": "M. de la Rosa",
-              "referencia_obra": ", Anot. á la Poét. 5. 15 (1. 237). —"
-            },
+              "referencia_obra": ", Anot. á la Poét. 5. 15 (1. 237)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«No me repliquéis palabra, que os arrancaré el alma.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 35 (R. 1. 4801)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«No me repliquéis palabra, que os arrancaré el alma.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 2. 35 (R. 1. 4801)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -247,36 +316,59 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con de, para señalar el lugar donde se halla la cosa que se quita.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Vive Dios, que es gran milagro éste, las barbas le ha derribado y arrancado del rostro, como si las quitaran aposta.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 29 (R. 1. 3321)."
             },
             {
+              "marca": "",
               "texto_cita": "«Vieron al pobre caballero pugnando con todas sus fuerzas por arrancar el gato de su rostro.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 46 (R. 1. 5001)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y á vueltas un granizo y lluvia espesa | De lanzas y saetas arrojaban, | Peñas, tablas, maderas que a gran priesa | De los muros y techos arrancaban.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 18 (R. 17. 692)."
             },
             {
+              "marca": "",
               "texto_cita": "«Por su mano arrancó del pecho abierto | El tierno corazón enamorado.»",
               "autor": "Valb.",
-              "referencia_obra": "Bern. 22 (R. 17. 3741). —"
+              "referencia_obra": "Bern. 22 (R. 17. 3741)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Clodoveo, que peleaba en el primer escuadrón, se fue para él, y de un encuentro y bote de lanza le arrancó del caballo.»",
+                  "autor": "Mariana",
+                  "referencia_obra": ", Hist. Esp. 5. 6 (R. 30. 1302)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Clodoveo, que peleaba en el primer escuadrón, se fue para él, y de un encuentro y bote de lanza le arrancó del caballo.»",
-              "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 5. 6 (R. 30. 1302). —"
-            },
-            {
-              "texto_cita": "«¡Tal escucho, | Sin que dolor tan extraño | Arranque un alma tan triste | De un pecho tan desdichado!»",
-              "autor": "Alarcón",
-              "referencia_obra": ", La industria y la suerte, 3. 15 (R. 20. 411)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«¡Tal escucho, | Sin que dolor tan extraño | Arranque un alma tan triste | De un pecho tan desdichado!»",
+                  "autor": "Alarcón",
+                  "referencia_obra": ", La industria y la suerte, 3. 15 (R. 20. 411)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -284,13 +376,16 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«De los cascos los ojos arrancados.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 6 (R. 17. 262)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -298,39 +393,56 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Por analogía con asir, aferrar, se halla construído con de (ant.). —",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«E arrancó de una espada que tenía á la cabecera.»",
               "autor": "Comend. Griego",
               "referencia_obra": ", Lab. 102 (342)."
             },
             {
+              "marca": "",
               "texto_cita": "«E arrancó de una espada, e cortóle la lengua.»",
               "autor": "",
               "referencia_obra": "Id. ib. 103 (351)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Refl. Desprenderse ó separarse violentamente. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Viera luégo la piedra arrancarse de lo alto y caer en tierra.»",
               "autor": "Gran.",
               "referencia_obra": "Vida de S. J. Clím. (R. 11. 2861)."
             },
             {
+              "marca": "",
               "texto_cita": "«Le causó tanto dolor, que creyó ó que la muñeca le cortaban, ó que el brazo se le arrancaba, porque él quedó tan cerca del suelo, que con los extremos de las puntas de los pies besaba la tierra.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 4. 3 (R. 1. 3792). —"
-            },
+              "referencia_obra": "Quij. 1. 4. 3 (R. 1. 3792)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Vino á ser el martirio tan fuerte, que por la grandeza de los dolores, sin llaga mortal, se arrancó aquel ánima santísima del cuerpo.»",
-              "autor": "",
-              "referencia_obra": "Gran. Orac. y Consid. 1. 11, § 1 (R. 6. 911)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Vino á ser el martirio tan fuerte, que por la grandeza de los dolores, sin llaga mortal, se arrancó aquel ánima santísima del cuerpo.»",
+                  "autor": "",
+                  "referencia_obra": "Gran. Orac. y Consid. 1. 11, § 1 (R. 6. 911)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -340,73 +452,90 @@
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Quitar con violencia (trans.). Con dat. de pers.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "—α )",
           "id_limpio": "—α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Sácale, infame [el acero], ó yo mesmo | Te le arrancaré, y será | Para matarte primero.»",
               "autor": "Mto.",
               "referencia_obra": "Primero es la honra, 3. 6 (R. 39. 2443)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Cómo arrancar la tímida paloma | Podrá su presa al águila valiente?»",
               "autor": "Quint.",
               "referencia_obra": "A Guzmán el Bueno (R. 19. 131)."
             },
             {
+              "marca": "",
               "texto_cita": "«Poco el salir me embaraza| Como estoy, sin un acero :| Se le arrancaré al primero | Que atraviese por la plaza.»",
               "autor": "Hartz.",
               "referencia_obra": "Alfonso el Casto, 2. 10 (68)."
             },
             {
+              "marca": "",
               "texto_cita": "«A buen seguro que cuando vuestro dueño llegue á ser emperador, que lo será sin duda, según van encaminadas sus cosas, que no se lo arranquen como quiera, y que le duela y le pese en la mitad del alma del tiempo que hubiere dejado de serlo.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 42 (R. 1. 4912)."
             },
             {
+              "marca": "",
               "texto_cita": "«Decía expresamente que el rey para mandar mejor debería mandar menos, y que si la nación tenía la fortuna de vencer en la guerra y de arrancarlo al tirano que le había puesto en cautiverio, debía salírsele á recibir con una constitución en la mano para que la jurase á su entrada.»",
               "autor": "Quint.",
               "referencia_obra": "Obr. inéd. p. 180."
             },
             {
+              "marca": "",
               "texto_cita": "«A pesar de su esfuerzo, viose arrancar la victotoria que ya tenía, y precisado á entregarse prisionero al arbitrio de su rival.»",
               "autor": "Cid",
               "referencia_obra": "(R. 19. 2041). En vano el injuriado Jucef intentó por dos veces arrancarle la conquista enviando ejércitos numerosos á destruírle.» Id. ib. (R. 19. 2092)."
             },
             {
+              "marca": "",
               "texto_cita": "«El, viéndose arrancar de las manos la victoria, redobló su esfuerzo y osadía, y atacó con los que le acompañaban el batallón en que estaba su padre.»",
               "autor": "Viana",
               "referencia_obra": "(R. 19. 2372)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se propuso, no sólo sostenerse contra las grandes fuerzas que venían sobre él, sino repelerlas y arrancarles la victoria.»",
               "autor": "",
               "referencia_obra": "Id. Obr. inéd. p. 128."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "—β )",
           "id_limpio": "—β )",
           "definicion": "Con de y un nombre de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¡Oh confusión! ¿Quién de las manos mías | Ha arrancado el alfanje?»",
               "autor": "Quint.",
               "referencia_obra": "Pelayo, 5. 4 (R. 19. 722)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -414,74 +543,91 @@
     {
       "id": "b)",
       "definicion": "met. Hacer que una persona diga ó conceda algo, empleando para conseguirlo la violencia, la importunación, el fraude, etc. (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A fuerza de importunaciones ha logrado arrancar mi tardío consentimiento.»",
               "autor": "Mor.",
               "referencia_obra": "Hamlet, 1. 4 (R. 2. 4811)."
             },
             {
+              "marca": "",
               "texto_cita": "«El pretexto de falta de salud, apoyado con dictamen del médico, suele arrancar muchas veces estas licencias, cediendo de ordinario los facultativos á impulsos de piedad.»",
               "autor": "Jovell.",
               "referencia_obra": "Regl. col. de Calatr. 1. 5 (R. 46. 1901)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se ha querido también ocurrir á la subida de las ventas manteniendo los colonos en sus arriendos, y una razón de equidad momentánea arrancó en su favor esta providencia, tantas veces solicitada en vano.»",
               "autor": "",
               "referencia_obra": "Id. Ley agraria, 1ª clase (R. 50. 941)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con dat. de pers.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ni la arrogancia ni la crueldad pudieron arrancar nada, á unos porque lo ignoraban, á otros porque fueron más fuertes que sus verdugos.»",
               "autor": "Quint.",
               "referencia_obra": "Pizarro (R. 19. 3351)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y si aun negáis lo que saber deseo, | La muerte y los tormentos os lo arrancan.»",
               "autor": "",
               "referencia_obra": "Id. Pelayo, 4. 4 (R. 19. 701)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se obliga á hacer, para decoro de la obra, diferentes ornatos --- que usted habrá visto en el texto de la escritura, que con su versión castellana me arrancó tanto tiempo ha.»",
               "autor": "Jovell.",
               "referencia_obra": "Descr. de la lonja de Palma (R. 46. 4431)."
             },
             {
+              "marca": "",
               "texto_cita": "«Menos humillado el partido de las ciudades, conservó todavía el derecho de concurrir con su voto al otorgamiento de las contribuciones; arrancó á uno de los monarcas más absolutos y poderosos la confesión explícita de ser indispensable este requisito ---»",
               "autor": "",
               "referencia_obra": "M. de la Rosa, Esp. del siglo, 1. 10 (5. 39)."
             },
             {
+              "marca": "",
               "texto_cita": "«Desconfía de Dios y pretende arrancarle el secreto de su destino, como si la fe en lo revelado no le asegurase que el premio y castigo será según las obras del hombre.»",
               "autor": "A. Durán",
               "referencia_obra": "(R. 5. 7221)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El secreto del dinero que tiene, es el último que se arranca á un codicioso.»",
                   "autor": "",
                   "referencia_obra": "M. De la Rosa, Anot. á la Poét. 5. 23 (1. 249)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -489,13 +635,16 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Instó con ahinco el gobierno francés hasta arrancar del gabinete de Madrid una providencia, que aun cuando diese sobrados indicios de obsequiosa debilidad, es probable que no satisficiese cumplidamente los deseos del directorio.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Esp. del siglo, 7. 19 (6. 201)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -503,62 +652,76 @@
     {
       "id": "c)",
       "definicion": "met. Empléase para significar que se da ó se consigue alguna cosa en fuerza del entusiasmo, adimiración ú otro afecto vehemente que se siente ó se inspira.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tan viva su imagen nos presenta | Que con tierno placer arranca el llanto.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Poét. 5 (1. 111)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con dat. de pers.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Echase de ver que tuvo gran fuerza en el corazón de nuestro Redentor este pensamiento, pues le arrancó las lágrimas en medio del mayor aplauso que jamás se hizo á príncipe ni señor en el mundo.»",
               "autor": "Capm.",
               "referencia_obra": "Teatro, 4. 126)."
             },
             {
+              "marca": "",
               "texto_cita": "«Colón debió arrancar á sus contemporáneos aquel tributo de respeto y benevolencia que es la más infalible, así como la más sabrosa recompensa del heroísmo.»",
               "autor": "Jovell.",
               "referencia_obra": "Introd. á un escrito forense (R. 46. 4481)."
             },
             {
+              "marca": "",
               "texto_cita": "«Arrancó á la opinión pública el título de primer arquitecto de su tiempo, y fijó en él la época más brillante de la arquitectura española.»",
               "autor": "",
               "referencia_obra": "Id. Elog. de V. Rodr. (R. 46. 3691)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Cuánto valor no daremos á los mismos testimonios que nos arranquen estas virtudes!»",
               "autor": "",
               "referencia_obra": "Id. Mem. sobre admisión de señoras en la Soc. Econ. (R. 50. 551)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los aplausos del mundo literario --- han respondido harto decisivamente á la crítica injusta y ligera que el despecho de ser vencido arrancó entonces á Iriarte.»",
               "autor": "Quint.",
               "referencia_obra": "Meléndez (R. 19. 1121)."
             },
             {
+              "marca": "",
               "texto_cita": "«Te contaré la dolorosa historia | De nuestros males, que arrancar pudiera | Llanto y piedad á las encinas duras.»",
               "autor": "",
               "referencia_obra": "Id. Poes. Past. Fido, 2 (R. 19. 212)."
             },
             {
+              "marca": "",
               "texto_cita": "«La sensación que experimenta le causa una pena tan profunda, que le arranca una exclamación dolorosa antes de proseguir.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Anot. á la Poét. 2. 9 (1. 135)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -566,79 +729,98 @@
     {
       "id": "4",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Separar con violencia ó astucia una persona de alguna parte (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con de, para expresar el punto que se deja.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Dígote en fin, bárbaro discreto, que la persecución de los que llaman inquisidores en España, me arrancó de mi patria; que cuando se sale por fuerza della, antes se puede llamar arrancada, que salida.»",
               "autor": "Cerv.",
               "referencia_obra": "Pers. 2. 9 (R. 1. 6022)."
             },
             {
+              "marca": "",
               "texto_cita": "«Apolo le arrancó de Guatimala, | Y le trujo en su ayuda para ofensa | De la canalla el todo extremo mala.»",
               "autor": "",
               "referencia_obra": "Id. Viaje, 7 (R. 1. 6952)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pero el soberbio bárbaro impaciente, | Viendo que un nuestro á ciento resistía, | Con diabólica furia y movimento | Arranca á los cristianos del asiento.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 2 (R. 17. 112)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Ay! en tan dulce y noble compañía | ¿Por qué no se halla el triste de Jovino? | ¿Quién le arrancó de tan feliz morada? | ¿Quién le privó de tan cabal ventura?»",
               "autor": "",
               "referencia_obra": "Jovell A sus amigos de Sev. (R. 46. 401)."
             },
             {
+              "marca": "",
               "texto_cita": "«De tu seno y de mi hogar | Mi dura estrella me arranca.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Abén Humeya, 3. 1 (3. 345)."
             },
             {
+              "marca": "",
               "texto_cita": "«Sucesos que yo no podía sospechar que sobreviniesen, me han arrancado de mi retiro.»",
               "autor": "A. Galiano",
               "referencia_obra": ", Hist. liter. p. 5.-"
             },
             {
+              "marca": "",
               "texto_cita": "«Vuelves los ojos | Al sitio mismo en que arrancar la viste | De la rápida rueda, que, sonando, | Tu pecho aun más que el pavimento hería.»",
               "autor": "Quint.",
               "referencia_obra": "Poes. A Fileno (R. 19.152)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Arránqueme pues de los brazos de aquellos buenos amigos, acompañado de mis particulares favorecedores.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Def. de la Junta Central, 2. 1 (R. 46. 5361)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Sin precedente culpa, juicio ni sentencia, me vi de repente arrancado de mi casa.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Def. de la Junta Central, 2, preámb. (R. 46. 5342)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -646,18 +828,22 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con á, para señalar el lugar de donde se separa á alguien. Este uso adolece de impropiedad cuando no hay una personificación que haga aparecer el lugar como en el cierto modo sensible á la separación.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los pobres españoles se han visto, sin poderlo resistir, arrancados de repente á sus asientos y llevados acá y allá como por un incontrastable torbellino.»",
               "autor": "Quint.",
               "referencia_obra": "Vidas, 3. pról. (R. 19. 367)."
             },
             {
+              "marca": "",
               "texto_cita": "«Maldiciendo afligido aquel momento | Que te arrancó á tu albergue.»",
               "autor": "Jovell.",
               "referencia_obra": "(R. 19. 251)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -665,59 +851,73 @@
     {
       "id": "b)",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tal vez el tierno interés de su corazón, unido á las luces de su espíritu, arrancándolos del camino de las pasiones, los pondrá en el buen sendero de la virtud.»",
               "autor": "Jovell.",
               "referencia_obra": "Trat. de enseñ. (R. 46. 2362)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con á.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ninguno de nuestros personajes, por grandes que se les suponga, se ha encontrado en la situación de --- Licurgo, arrancando de un golpe á la molicie los ciudadanos de Esparta.»",
               "autor": "Quint.",
               "referencia_obra": "Vidas, pról. (R. 19. 200)."
             },
             {
+              "marca": "",
               "texto_cita": "«La áspera mano de Napoleón vino, con aquel sacudimiento terrible, á arrancarnos á esta indolencia.»",
               "autor": "",
               "referencia_obra": "Id. Cartas á L. Holland, 1 (R. 19. 5342)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aquellos que al silencio en que yacías, | Sangrienta, encadenada, te arrancaron.»",
               "autor": "",
               "referencia_obra": "Id. Poes. (R. 19. 51)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No bien fueron terminadas las solemnidades de aquel nuevo himeneo, cuando el condestable, arrancándose á los halagos de su bella desposada, y dando de mano á las intrigas y solicitudes de la corte, quiso ir al instante á Andalucía.»",
                   "autor": "Quint.",
                   "referencia_obra": "D. Álv. de Luna (R. 19. 3992)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El duque de Alba, ansioso de señalarse, se arrancó de pronto á las delicias de la corte, donde se hacía notar igualmente por su gala y bizarría que por su gravedad y compostura, y voló al servicio de la guerra.»",
                   "autor": "",
                   "referencia_obra": "Id. Obr. inéd. p. 122."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -726,22 +926,36 @@
     {
       "id": "5",
       "definicion": "Despedir con fuerza.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Arrojar flemas por la boca.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«¿Cómo se pudiera arrancar la flema del pecho, si no ayudara la lengua?»",
           "autor": "Espinel",
-          "referencia_obra": ", Escud. 1. 18 (R. 18. 4151). — A esta acepción alude el pasaje siguiente:"
-        },
+          "referencia_obra": ", Escud. 1. 18 (R. 18. 4151)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Pára como los tahures | De boca, que es bendición; | Y arranca como gargajo | Con dificultad y tos.»",
-          "autor": "Quev.",
-          "referencia_obra": "Musa 6, rom. 30 (R. 69. 1752)."
+          "id_limpio": "—",
+          "definicion": "A esta acepción alude el pasaje siguiente:",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Pára como los tahures | De boca, que es bendición; | Y arranca como gargajo | Con dificultad y tos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, rom. 30 (R. 69. 1752)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -749,107 +963,140 @@
     {
       "id": "b)",
       "definicion": "Dícese de la voz, los suspiros, etc., como si se sacaran con violencia de lo hondo del pecho (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«No dijo más Teodolinda, porque la infinidad de lágrimas que le vinieron á los ojos, y los sospiros que del alma arrancaba, impidieron el oficio á la lengua.»",
           "autor": "Cerv.",
           "referencia_obra": "Gal. 6 (R. 1. 962)."
         },
         {
+          "marca": "",
           "texto_cita": "«De cuando en cuando arrojaba un suspiro que parecía que lo arrancaba de lo profundo de sus entrañas.»",
           "autor": "",
           "referencia_obra": "Id. Quij. 1. 17 (R. 1. 2891)."
         },
         {
+          "marca": "",
           "texto_cita": "«Desencajó y arrancó del ancho y dilatado pecho una voz grave y sonora.»",
           "autor": "",
           "referencia_obra": "Id. ib. 2. 36 (R. 1. 4822)."
         },
         {
+          "marca": "",
           "texto_cita": "«La primera voz que de aquel tan angustiado y cansado pecho arrancó, fue pedir al Padre eterno perdón para sus crucificadores.»",
           "autor": "Gran.",
           "referencia_obra": "Doct. crist. 2. 6 (R. 11. 1061)."
         },
         {
+          "marca": "",
           "texto_cita": "«Otros vi estar allí asentados en tierra, tristes, abajados los ojos, y meneando muchas veces las cabezas, y arrancando gemidos y bramidos.»",
           "autor": "",
           "referencia_obra": "Id. Esc. espir. 5 (R. 11. 3092)."
         },
         {
+          "marca": "",
           "texto_cita": "«Su grave desventura contemplando, | Con lágrimas regando el verde suelo, | Tan ardientes suspiros arrancando, | Que encendieran al más helado hielo.»",
           "autor": "Figueroa",
           "referencia_obra": ", est. Sobre nevados riscos (Fern. 31)."
         },
         {
+          "marca": "",
           "texto_cita": "«Tan graves quejas de su pecho arranca.»",
           "autor": "T. Iriarte",
           "referencia_obra": ", Eneida, 4 (3. 314)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "6",
       "definicion": "Empléase para significar el esfuerzo por el cual empieza á moverse el que estaba quieto y, como si se dijera, fijo y plantado en el suelo.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Tratándose de carruajes, Empezar á andar (intrans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Túvome mi diligencia | Dentro de un carro embutido, | Y cuando quiso arrancar, | Vi á un carretero cargado | De cartas, recién llegado, | Que se acercó á preguntar.»",
           "autor": "Tirso",
           "referencia_obra": ", No hay peor sordo, 3. 12 (R. 5. 2832)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Partir de carrera para proseguir corriendo (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Salió confuso ejército á ladralle, | Chusma de gozques, negra, roja y blanca, | Como de aldea furibunda arranca | Para seguir al lobo en monte ó valle.»",
               "autor": "Lope",
               "referencia_obra": ", Rim. de Burg. son. 77 (Obr. suelt. 19. 77)."
             },
             {
+              "marca": "",
               "texto_cita": "«Galán me pienso poner. | Hoy en el overo arranco.»",
               "autor": "",
               "referencia_obra": "Id. El testimonio vengado, 1. 6 (R. 41. 4061)."
             },
             {
+              "marca": "",
               "texto_cita": "«Carlos que vio la grita y tabahola, | Y que Oliveros agarró una tranca --- | Mandó escurrir á Galalón, la bola, | Que á toda furia por la puerta arranca.»",
               "autor": "Quev.",
               "referencia_obra": "Musa 3, Neced. de Orl. 1 (R. 69. 2911)."
             },
             {
+              "marca": "",
               "texto_cita": "«Arrancó el tiro á un galope de más de tres leguas por hora.»",
               "autor": "Cadalso",
               "referencia_obra": ", Cart. marr. 64 (2. 260)."
             },
             {
+              "marca": "",
               "texto_cita": "«Le dio tal vuelco el corazón, al ver la buena dicha del Abencerraje, que, ciego de enojo y trémulo de ira, arrancó con más furia que la vez primera; y sin ser poderoso á ensartar la sortija, dio con el hierro en el cuello del cisne.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Is. de Solís, 2. 6 (4. 326)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y con los ojos fijos en la prenda | Y la mano en el cuello de la lanza, | Con despejo y con noble gallardía | A escape, y sin temor de nuevo arranca.»",
               "autor": "A. Saav.",
-              "referencia_obra": "Moro expós. 1 (2. 28). —"
-            },
+              "referencia_obra": "Moro expós. 1 (2. 28)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Llegó en fin la señal esperada; y á un mismo tiempo arrancaron todas cuatro barcas, que no por el agua, sino por el viento parecía que volaban.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Pers. 2. 11 (R. 1. 6061)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Llegó en fin la señal esperada; y á un mismo tiempo arrancaron todas cuatro barcas, que no por el agua, sino por el viento parecía que volaban.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Pers. 2. 11 (R. 1. 6061)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -858,61 +1105,74 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Se ha dicho arrancar á correr, como echar á correr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Aguarda, espera, mi dolor no temas. | — ¿Qué llamas esperar? A huír arranco.»",
               "autor": "",
               "referencia_obra": "Mto. S. Franco de Sena, 2. 14 (R. 39. 1343)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aquí no hay otro remedio | Sino arrancar á correr.»",
               "autor": "",
               "referencia_obra": "Id. El lindo D. Diego, 3. 1 (R. 39. 3651)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Júntase con las preposiciones que de ordinario acompañan á verbos de significación análoga.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Furioso un toro de la puerta arranca, | Bajando el cuello y erizando el cerro.»",
               "autor": "Lope",
               "referencia_obra": ", Angél. 1 (Obr. suelt. 2. 11)."
             },
             {
+              "marca": "",
               "texto_cita": "«Un bellaco, viéndome cubierto y que no tenía en la cara cosa, arrancó hacia mí, diciendo ---»",
               "autor": "Quev.",
               "referencia_obra": "Gran Tac. 5 (R. 23. 4932)."
             },
             {
+              "marca": "",
               "texto_cita": "«Arrancaron tras el pícaro y asiéronle.»",
               "autor": "",
               "referencia_obra": "Id. ib. 21 (R. 23. 5221)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cual suelen escapar de los monteros | Dos grandes jabalís fieros, cerdosos, | --- Y salen en su alcance los ligeros | Lebreles irlandeses generosos, | Con no menor codicia y pies livianos | Arrancan tras los míseros cristianos.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 3 (R. 17. 152)."
             },
             {
+              "marca": "",
               "texto_cita": "«Con el estoque desnudo| Arranco tras la visión.»",
               "autor": "Hartz.",
               "referencia_obra": "Honoria, 5. 4 (254)."
             },
             {
+              "marca": "",
               "texto_cita": "«Movido Finees de un gran dolor causado de tan exorbitante insolencia, arrancó contra entrambos con sentimiento y coraje varonil, y matóles de una estocada.»",
               "autor": "Capm.",
               "referencia_obra": "Teatro, 4. 141)."
             },
             {
+              "marca": "",
               "texto_cita": "«Contra el gran Fifolgel furioso arranca, | Sin temor de su fuerte lancizanca.»",
               "autor": "Villav.",
               "referencia_obra": "Mosq. 11 (R. 17. 6142)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -920,74 +1180,92 @@
     {
       "id": "c)",
       "definicion": "Sosteniendo la metáfora que representa como si estuviesen corriendo, los objetos que se extienden por más ó menos trecho (la costa, la cordillera corre), se dice que arrancan cuando principian ó empiezan á tomar tal dirección, tal forma. Hablándose del arco ó bóveda, vale en especial Empezar á formar su curvatura sobre el salmer ó la imposta (intrans.). Con de, para expresar el punto en que principia el objeto.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«De entre una y otra [la puerta Monaica y la de Elvira] parece que arrancaba la antigua muralla, de que aun se ven no pocos vestigios.»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", Is. de Solís, 2. 31 (4. 392)."
         },
         {
+          "marca": "",
           "texto_cita": "«Los moradores de las sierras que arrancando del Pirineo se derraman por lo interior de nuestro continente --- sintieron la necesidad de congregarse.»",
           "autor": "Jovell.",
           "referencia_obra": "Ley agraria, 1ª clase (R. 50. 962)."
         },
         {
+          "marca": "",
           "texto_cita": "«Es un paralelogramo, de la mitad de cuyos ángulos arrancan cuatro arcos, que vienen á posar en una sola columna, colocada en el centro.»",
           "autor": "",
           "referencia_obra": "Id. Mem. sobre los conv. de S. Dom. y S. Franc. (R. 46. 4312)."
         },
         {
+          "marca": "",
           "texto_cita": "«A estas peanas viene á morir, y al mismo tiempo de ellas nace y arranca aquella muchedumbre de arcos.»",
           "autor": "",
           "referencia_obra": "Id. Descr. del castillo de Bellver (R. 46. 3941)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Elige acertadarnente un punto adelantado de donde arranque [la epopeya], y después en el mismo curso de la acción, busca y aprovecha las ocasiones oportunas de ir dando á conocer los antecedentes necesarios.»",
           "autor": "",
           "referencia_obra": "M. de la Rosa, Arte poétic. de Hor. nota 15 (1. 300)."
         },
         {
+          "marca": "",
           "texto_cita": "«Son menester motivos que, arrancando de más alto origen, ejerzan más eficaz influencia.»",
           "autor": "Balmes",
           "referencia_obra": ", Protest. 14 (2. 78)."
         },
         {
+          "marca": "",
           "texto_cita": "«Sucede muy á menudo que admitimos principios cuyas consecuencias rechazamos, y que damos por buena una línea de conducta sin advertir las máximas inmorales de donde arranca.»",
           "autor": "",
           "referencia_obra": "Id. ib. 55 (4. 34)."
         },
         {
+          "marca": "",
           "texto_cita": "«Arrancando [la religión católica] del mismo cielo, se extiende como la luz del sol sobre todas las cosas.»",
           "autor": "",
           "referencia_obra": "Id. ib. 61 (4. 101)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "e)",
       "definicion": "Náut.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Empezar á moverse el buque (intrans.).",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Adquirir el buque mayor velocidad de la que llevaba (intrans.). — Véanse otras aplicaciones en el Dicc. Marít.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -995,49 +1273,57 @@
     {
       "id": "f)",
       "definicion": "En general, Partir ó salir de alguna parte (intrans.). Es de mucho uso en el lenguaje familiar.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Sospecho que el nuevo prelado sea por su poca edad, sea por otras causas, se detuvo en Aragón antes de arrancar para venir á su iglesia.»",
           "autor": "Mariana",
           "referencia_obra": ", Hist. Esp. 13.16 (R. 30. 3932)."
         },
         {
+          "marca": "",
           "texto_cita": "«¿Va por ahí un hombre, hermano? Ahí adelante; que aquí me pisó, loado sea el Señor. Arrancaron con esto, y fuéronse. Quev. Gran Tac. 6 (R. 23. 4962).",
           "autor": "",
           "referencia_obra": ""
         },
         {
+          "marca": "",
           "texto_cita": "«Arranca con su gente el gran caudillo, | La muerte amenazando á la contraria.»",
           "autor": "Villav.",
           "referencia_obra": "Mosq. 11 (R. 17. 6162)."
         },
         {
+          "marca": "",
           "texto_cita": "«Dispuestas así las cosas, todavía se detuvo algún tanto en arrancar con su gente.»",
           "autor": "",
           "referencia_obra": "Quint. Pizarro (R. 19. 3182)."
         },
         {
+          "marca": "",
           "texto_cita": "«Al paso que se acerca el tiempo de marchar, se me hace más duro el arrancar de aquí.»",
           "autor": "Mor.",
           "referencia_obra": "Obr. póst. 2, p. 172."
         },
         {
+          "marca": "",
           "texto_cita": "«No hay más medios de vernos que el de arrancar yo de aquí á fines de marzo, si es que para entonces tengo concluídas mis cosas.»",
           "autor": "",
           "referencia_obra": "Id. ib. 2, p. 296."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. (Nótese la forma rancar, y la acepción Vencer, desenterrada por Jovellanos en alusión á aquellos tiempos: «Ya me figuro á una parte á los ancianos caballeros, tan venerables por sus canas como por las cicatrices ganadas en la guerra, hablando de las batallas arrancadas y peligrosos fechos de armas de un buen tiempo pasado.» Descr. del castillo de Bellver (R. 46. 3952). La forma arrincar, vulgar hoy en algunas provincias de España, fue de uso más extenso, y aun se halla en Gabriel Alonso de Herrera: «Porque no yerren arrincando el cogollo del almendra pensando que es hierba.» Agric. gen. 3. 9 (2. 107). «Onde los traspusieren, no vayan hondos, porque al tornar á arrincarlos para poner á cada uno con su vid, no sean penosos de arrincar.» Ib. 3. 16 (2. 150).)\n\n— Siglo XV «Lo arrancó de la silla é cayeron ambos en el suelo abrazados.» Am. de Gaula, 1. 41 (R. 40. 971). «Çerca de Ronçesvalles fue arrancado el emperador Carlo Magno de las gentes del rey don Alonso el Casto.» Santill. p. 500. «Dicen que Diomedes un dia, seyendo arrancados los suyos de la gente de Ector que en ellos feria ---» Id. p. 496. «La batalla fue muy ferida de amas las partes, é arrancaban ya los flamencos á los franceses, ca eran gente sin cuenta.» Crón. P. Niño, p. 127. «Despues tornaban rabiosos como leones, e arrancaban á los cristianos, fasta que á algunos los facian lanzar á la mar.» Ib. p. 77. «Arrancando el uno contra el otro, el caballo de don Juan non corría.» Passo honroso, 71 (601). «Los dichos jueces mandaron --- que las lanzas se corriessen arrancando los caballeros con ellas puestas en ristre é non sobre el musso [?].» Ib. 13 (112). «Dende abrir el ala --- teniendo firme fasta que se aparten el braçuelo con el ala, que es dicha aquella parte del cuerpo media, bien ayuso, quedando poco por arrincar.» Villena, Arte cis.7 (52). «Otra ves e otras probé arrincar daquellos rramos tenptando las causas escondidas de tal emanación sanguinea.» Id. (Arte cis. LXVII).\n\n— Siglo XIV: «La su fuerça con fanbre séra adelgasada --- | La fiusia de su casa del todo arrincada.» Rim. de Pal. 1096 (R. 57. 4612). «Si vieres que la uña quiere salir del dedo del falcon et está aun trabada en aquel lugar que non es del todo arrincada, derríbalo luego et córtale la dicha uña.» L. de Ayala, Caza, 25 (Bibl. venat. 3. 363). «Todos fueron adelante, | En los moros bien feriendo; | Arrancosse el infante, | Con ssus moros fue foyendo.» Alf. XI, 694 (R. 57. 4981). «E estando fablando con él, levantóse un viento é tormenta muy grande, é arrancaron las áncoras de las naves.» Crón. Alf. X, 72 (R. 66. 571). «Denos Dios atal esfuerzo, tal ayuda, et tal ardid, | Que venzamos los pecados et arranquemos la lid.» Arc. de Hita, 1579 (R. 57. 2771). «A la muela pesada de la penna mayor | Maestria e arte la arrancan mejor.» Id. 591 (R. 57. 2452). «A la penna pesada non la muebe vna palanca, | Con cueros et almadanas poco á poco se arranca.» Id. 491 (R. 57. 2422). «Les consejaba que antes quel lino nasciese, que fuesen allá et que lo arrancasen.» J. Man. C. Luc. 27 (R. 51. 3762).\n\n— Siglo XIII: «Taje [el rey] los malos del regno con la espada de la justicia, et arranque los torticeros echándolos de la tierra porque non fagan daño en ella.» Part. 2. 10. 3 (2. 89). «Todas las otras órdenes de qual manera quier que sean deben dar diezmo de todas las heredades que hobieren, fueras ende de aquellas que comenzaren á labrar nuevamente derrompiendo los montes et arrancándolos et metiéndolos en labor.» Part. 1. 20. 4 (1. 456). «La eglesia non defienda robador conoscido, nin home que de noche quemare mieses, o destrujiere viñas o arboles, o arrancare los moiones de las heredades.» Fuero real, 1. 5. 8 (O. L. 2. 15). «Ayuntémonos todas en uno, é quizá arrancaremos la red, é librarnos hemos las unas á las otras.» Cal. é Dymna (R. 51. 412). «Si dos erederos que son aldeanos uno cerca del otro, viene el un eredero a derramar los moiones, e toma de la eredat del otro --- non gana tenencia por arrancar los moiones, ca a pena por ello.» Fuero viejo, 4. 4. 7 (112). «Quien allana los fitos por enganno, ó los arranca, que non parezcan, por cada un fito peche treinta sueldos.» Fuero Juzgo, 10. 3. 2 (170). «De vinna taiada, ó arrancada, ó de los panes.» Ib. 8. 3. 5 (138). «Somos tenudos de arrancar las cosas que son mal tomadas fasta aqui contra justicia, como es, cosas agenas robar.» Cortes de León, año 1189 (?) (C. de L. y C. 1. 52). «Quando ovyeres tu, el buen conde, el campo arrancado,| Vengate en mientes que somos convento lacerado, | E no se te oluide el pobre ospedado.» Fern. Gonz. 245 (R. 57. 3962). «Semeiauan moçuelos de çepos arrancados.» Alex. 2070 (R. 57. 2102). «Feritlos, caualleros, ca auedes rancado.» Ib. 995 (R. 57. 1781). «Meior es que en campo ranquemos o morramos.» Ib. 631 (R. 57. 1671). «Pero ellos nin ellos rancar non se dexauan.» Ib. 531 (R. 57. 1632). «El rey por la veste mandó ferir pregones | Que rancassen las tiendas é alçassen los pendones.» Ib. 409 (R. 57. 1601). «Cuemo sabial falso que se fues arrancado | Nol ualdrie todol mundo que non fues iustiçiado.» Ib. 152 (R. 57. 1521) .«Ouo el rey Fhilippo este manto ganado | Otro tiempo quando ouo a Susis arrancado.» Ib. 93 (R. 57. 1501). «Quando Dios quisier que la lide fuer rancada, | Parte bien la ganançia con tu gente lazdrada.» lb. 71 (R. 57. 1492). «Quando entran en campo non se quieren rancar.» Ib. 54 (R. 57. 1491). «Cavaron en la uerta de la sancta mongía, | Mas rancar non pudieron puerro ni chirivia.» Bere. S. Dom. 378 (R. 57. 521). «Ovose de las cuevas por esso arrancar, | Ca non querie al so grado el voto quebrantar.» Id. S. Mill. 46 (R. 57. 662). «La fazienda rancada, los moros enzalzados [encalzados],| Tornaron a sues tiendas los varones onrrados.» Id. ib. 457 (R. 57. 782). «Fue con los azadones la çerraia rancada, | Desquizadas las puertas, la eglesia robada.» Id. Mil. 877 (R. 57. 1301). «Madre, agora somos en ora de rancar | Qua ia los enemigos quieren cuestas parar.» Id. Duelo, 89 (R. 57. 1341). «Mandó Myo Çid el que en buen ora násco, | Desta batalla que han arrancado, | Que todos prisiessen so derecho contado.» Cid, 2485 (R. 57. 272). «Tanta cuerda de tienda y veriedes quebrar, | Arrancar-se las estacas e acostar-se a todas partes los tendales.» Ib. 1142 (R. 57. 142). «Grado a Dios aquel que está en alto, | Quando tal batalla auemos arancado.» Ib. 793 (R. 57. 111). «Voluio la rienda por yrsele del campo:| Por aquel colpe rancado es el fonssado.» Ib. 764 (R. 57. 102).\n\n— «Per la calomnia que arancaren per iudicio uel per carta, los fiadores non solten de illo nada.» Fuero de Madrid, año 1202 (Mem. Acad. Hist. 8. 42). «Todo omme qui arancado houiere por iudicio de alcaldes ad uso contendor et despues gelo negaret, pectet II m.º, sil firmaret.» Ib. (ib. 35).",
   "testimonios_latino_hispanicos": "Test. lat. hist. «Era MCVI, die, IV feria XIV Kal. Augusti miserunt, bellum duo fratres filii Fredenandi regis: majoris nomen rex Sancius, et minoris rex Aldefonsus, adunati super ripam Pisoricæ, fluvii secus villam Plantada vocitatam, et fuit arrancatus rex Aldefonsus cum suo exercitu.» Ann. Complut. (Esp. sagr. 23. 314). Véase Ducange, sb. voc.",
-  "etimologia": "Etim. Port. arrancar; cat. arrancar, arrencar; prov. mod. arranca, aranca, arancha, arrenca, arrinca, arringar (Mistral); prov. ant. arrancar, arancar; it. ant. arrancare, que se conserva hoy en napolitano; piam. ranche; gen. arrancà; sardo arrancai; el it. tiene además dirancare. Ducange trae arrancare, arancare, arrencare. Las etimologías latinas son inaceptables, en cuanto no satisfacen las exigencias de la fonología romance, pues ni por eradicare ni por eruncare pueden explicarse las formas mencionadas; arrincar no puede venir de eruncare, y eradicare, cuyo simple radicare ya dio otros derivados (raigar, arraigar; en prov. araigar, araizar, arrancar), no hubiera convertido uniformemente su d en n, desapareciendo la i larga, ni daría la clave para la gradación de la serie vocal en las varias formas. Lo mismo cabe decirse del otro compuesto irradicare que aparece puesto en el siguiente pasaje con visible intención de dar la forma latina correspondiente á arrancar: «Siquis vero de meo vel alieno genere contra istam cartam venire presumpserit, vel moiones istos irradicaverit, sit maledictus et excommunicatus.» Docum. de 1208 (Mem. Acad. Hist. 8. 54). Es pues necesario acudir con Diez á un origen germánico. El anglosajón vringan, torcer, retorcer, representa una raíz que tiene en algunos dialectos cognados la significación de Tirar retorciendo, arrancar: ing. wrench (wrench his sword from him, arrancadle la espada), al. medio renken, tirar torciendo, bávaro renken, tirar. En el pasaje de Moratín citado en 3, b, α, corresponde á nuestro verbo en el original el cognado to wring. De suerte que el vocablo español pertenece al mismo grupo que renco, rengo (it. ranco), rincón, antiguamente rencón, rancón (Diez, Wb.; Diefenbach, Goth. Wb. 1. 237; Pott, WWb. 3. 651; Schade, Altdeutsches Wb. 1202). Aunque la misma raíz ofrece el sentido de luchar, disputar, parece que la acepción antigua de Vencer se tomó del sacar á alguno con violencia de sus posiciones, «arrancarle de su asiento,» como dice Ercilla; y es metáfora tan natural, que, olvidado ya el uso antiguo, se viene como de suyo á la imaginación en el pasaje siguiente: «Comenzaron á batir la casa de que se había apoderado el enemigo, y arremetiendo vivamente á ella, arrancaron á los herejes, y con muerte de muchos los echaron fuera.» Coloma, Guerras de los Est. Bajos, 2 (R. 28. 202).",
+  "etimologia": "Etim. Port. <i>arrancar</i>; cat. <i>arrancar, arrencar; </i>prov. mod. <i>arranca, aranca, arancha, arrenca, arrinca, arringar </i>(Mistral); prov. ant. <i>arrancar, arancar</i>; it<i>. </i>ant. <i>arrancare, </i>que se conserva hoy en napolitano; piam<i>. ranche; </i>gen. <i>arrancà; </i>sardo<i> arrancai</i>; el it. tiene además <i>dirancare. </i>Ducange trae <i>arrancare, arancare, arrencare. </i>Las etimologías latinas son inaceptables, en cuanto no satisfacen las exigencias de la fonología romance, pues ni por <i>eradicare </i>ni por<i> eruncare </i>pueden explicarse las formas mencionadas<i>; arrincar </i>no puede venir de <i>eruncare, </i>y<i> eradicare, </i>cuyo simple <i>radicare </i>ya dio otros derivados (<i>raigar, arraigar; en prov. araigar, araizar, </i>arrancar), no hubiera convertido uniformemente su <i>d</i> en <i>n</i>, desapareciendo la <i>i</i> larga, ni daría la clave para la gradación de la serie vocal en las varias formas. Lo mismo cabe decirse del otro compuesto <i>irradicare </i>que aparece puesto en el siguiente pasaje con visible intención de dar la forma latina correspondiente á <i>arrancar</i>: «Siquis vero de meo vel alieno genere contra istam cartam venire presumpserit, vel moiones istos irradicaverit, sit maledictus et excommunicatus.» <i>Docum. de </i>1208 (<i>Mem. Acad. Hist. </i>8<i>. </i>54). Es pues necesario acudir con Diez á un origen germánico. El anglosajón <i>vringan, </i>torcer, retorcer, representa una raíz que tiene en algunos dialectos cognados la significación de Tirar retorciendo, arrancar: ing. <i>wrench </i>(<i>wrench his sword from him, </i>arrancadle la espada), al. medio <i>renken, </i>tirar torciendo, bávaro<i> renken, </i>tirar. En el pasaje de Moratín citado en 3, b, α, corresponde á nuestro verbo en el original el cognado <i>to wring</i>. De suerte que el vocablo español pertenece al mismo grupo que <i>renco, rengo </i>(it. <i>ranco</i>)<i>, rincón, </i>antiguamente <i>rencón, rancón </i>(Diez, <i>Wb.; </i>Diefenbach, <i>Goth. Wb. </i>1. 237<i>; </i>Pott,<i> WWb. </i>3. 651; Schade, <i>Altdeutsches Wb. </i>1202).<i> </i>Aunque la misma raíz ofrece el sentido de luchar, disputar, parece que la acepción antigua de Vencer se tomó del sacar á alguno con violencia de sus posiciones, «arrancarle de su asiento,» como dice Ercilla; y es metáfora tan natural, que, olvidado ya el uso antiguo, se viene como de suyo á la imaginación en el pasaje siguiente: «Comenzaron á batir la casa de que se había apoderado el enemigo, y arremetiendo vivamente á ella, arrancaron á los herejes, y con muerte de muchos los echaron fuera.» Coloma, <i>Guerras de los Est. Bajos, </i>2 (R. 28. 202).",
   "nota": "",
   "forma": "",
   "ortografia": "Ortogr. La c se convierte en qu antes de e: arranquéis, arranque.",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Intrans.: 2, δ - 6.\n\n— Refl.: 2, ε - 4, α, α, α α - 4, b, β, α α.\n\n— Part.: 1, b, α, α α - 2, γ, α α - 4, a, α, β β.\n\n— Con á: 2, β - 4, α, β - 4, β, β - 6, β, β.\n\n— Contra: 6, b, γ.\n\n— De: 2, γ, δ - 3, a, β - 3, β, γ - 4, α, α - 4, β, α - 6, β, γ - 6, χ - 6, δ - 6, φ.\n\n— Hacia: 6, b, γ.\n\n— Tras: 6, b, γ.\n\n— Con dat. de pers.: 2, β - 3, α, α - 3, β, β - 3, χ, β.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Intrans.: 2, δ - 6.\n\n— Refl.: 2, ε - 4, α, α, α α - 4, b, β, α α.\n\n— Part.: 1, b, α, α α - 2, γ, α α - 4, a, α, β β.\n\n— Con á: 2, β - 4, α, β - 4, β, β - 6, β, β.\n\n— Contra: 6, b, γ.\n\n— De: 2, γ, δ - 3, a, β - 3, β, γ - 4, α, α - 4, β, α - 6, β, γ - 6, χ - 6, δ - 6, φ.\n\n— Hacia: 6, b, γ.\n\n— Tras: 6, b, γ.\n\n— Con dat. de pers.: 2, β - 3, α, α - 3, β, β - 3, χ, β.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

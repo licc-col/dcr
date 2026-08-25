@@ -6,28 +6,44 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Dicho de personas y sus facultades, Apto, idóneo, capaz.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si se crían [los príncipes] entre los armiños y las delicias, que ni los visite el sol ni el viento, ni sientan otra aura que la de los perfumes, salen achacosos e inútiles para el gobierno, como al contrario robusto y hábil quien se entrega a las fatigas y trabajos.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 3 (Cl. C. 76. 37). — En grado comparativo. X"
-            },
+              "referencia_obra": "Emp. 3 (Cl. C. 76. 37)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«El arte más sublime, la industria más hábil y los objetos de valor histórico, despojos que se le caen a la historia en su marcha, serían para que tú jugaras con ellos.»",
-              "autor": "P. Galdós",
-              "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 141)."
+              "id_limpio": "—",
+              "definicion": "En grado comparativo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«El arte más sublime, la industria más hábil y los objetos de valor histórico, despojos que se le caen a la historia en su marcha, serían para que tú jugaras con ellos.»",
+                  "autor": "P. Galdós",
+                  "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 141)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -35,73 +51,126 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No desespere ninguno por haber dilatado la confesión hasta la hora postrera ---. Está hábil a poder nuevamente confiarse de Dios y encomendarse a los méritos de su sagrada pasión.»",
                   "autor": "Venegas",
-                  "referencia_obra": ", Agonía, 2. 18 (Míst. 3. 39). — En superlativo relativo. X"
-                },
+                  "referencia_obra": ", Agonía, 2. 18 (Míst. 3. 39)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Para enseñarse a ser marineros en las armadas de V. M., escogiendo los más hábiles e inclinados a ello.»",
-                  "autor": "Herr.",
-                  "referencia_obra": "Amparo de pobres (Cl. C. 199. 97)."
+                  "id_limpio": "—",
+                  "definicion": "En superlativo relativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Para enseñarse a ser marineros en las armadas de V. M., escogiendo los más hábiles e inclinados a ello.»",
+                      "autor": "Herr.",
+                      "referencia_obra": "Amparo de pobres (Cl. C. 199. 97)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con para. X",
+              "definicion": "Con para.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se alcanza el espíritu de la devoción esencial, que nos hace prontos y hábiles para todo bien.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Guía (Cl. C. 97. 137). X"
+                  "referencia_obra": "Guía (Cl. C. 97. 137)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pretende alcanzar y conservar siempre aquella soberana virtud de la devoción, y que siendo una sola virtud hace al hombre hábil y pronto para toda virtud.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. (Cl. C. 97. 219). — Además con de, para indicar el modo. X"
+                  "referencia_obra": "Id. ib. (Cl. C. 97. 219)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con de, para indicar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Que no todas las imaginaciones son hábiles de su natural para esto, mas todas las almas lo son para amar.»",
+                      "autor": "",
+                      "referencia_obra": "Sta. Ter. Fund. (Cl. C. 115. 139)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Que no todas las imaginaciones son hábiles de su natural para esto, mas todas las almas lo son para amar.»",
-                  "autor": "",
-                  "referencia_obra": "Sta. Ter. Fund. (Cl. C. 115. 139). — Siendo el término una prop. infinitiva."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Las otras dos potencias ayudan a la voluntad para que vaya haciéndose hábil para gozar de tanto bien.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Vida, 14 (R. 53. 511)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Están [las potencias] como absortas, y no hábiles para concertar razones.»",
+                      "autor": "",
+                      "referencia_obra": "Ead. ib. 25 (R. 53. 772)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Respondió --- que por ser tan muchacha no se sentía hábil para poder llevar la carga del matrimonio.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 12 (R. 1. 2771)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ni los que son hábiles para domar y gobernar con las riendas un caballo, podrán un ejército.»",
+                      "autor": "Saav.",
+                      "referencia_obra": "Emp. 52 (R. 25. 1401)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Las otras dos potencias ayudan a la voluntad para que vaya haciéndose hábil para gozar de tanto bien.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Vida, 14 (R. 53. 511)."
+                  "id_limpio": "—",
+                  "definicion": "En grado comparativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ella [el alma] así como la va gustando [la dulzura de Dios], ansí la va deseando más, y con el deseo se hace a sí misma más hábil para gustarla.»",
+                      "autor": "León",
+                      "referencia_obra": ", Nomb. 2, Esposo (3. 261)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Con la experiencia que dan los años, estará [Sancho] más idóneo y más hábil para ser gobernador, que no está ahora.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 2. 3 (R. 1. 4102)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Están [las potencias] como absortas, y no hábiles para concertar razones.»",
-                  "autor": "",
-                  "referencia_obra": "Ead. ib. 25 (R. 53. 772)."
-                },
-                {
-                  "texto_cita": "«Respondió --- que por ser tan muchacha no se sentía hábil para poder llevar la carga del matrimonio.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 12 (R. 1. 2771)."
-                },
-                {
-                  "texto_cita": "«Ni los que son hábiles para domar y gobernar con las riendas un caballo, podrán un ejército.»",
-                  "autor": "Saav.",
-                  "referencia_obra": "Emp. 52 (R. 25. 1401). — En grado comparativo."
-                },
-                {
-                  "texto_cita": "«Ella [el alma] así como la va gustando [la dulzura de Dios], ansí la va deseando más, y con el deseo se hace a sí misma más hábil para gustarla.»",
-                  "autor": "León",
-                  "referencia_obra": ", Nomb. 2, Esposo (3. 261)."
-                },
-                {
-                  "texto_cita": "«Con la experiencia que dan los años, estará [Sancho] más idóneo y más hábil para ser gobernador, que no está ahora.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 3 (R. 1. 4102). — Siendo el término una prop. subjuntiva. X"
-                },
-                {
-                  "texto_cita": "«Y por mucha que sea [esta agua] no puede haber demasía en cosa suya; porque si da mucho, hace hábil el alma para que sea capaz de beber mucho.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Cam. perf. 148 (Cl. C. 98. 21)."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término una prop. subjuntiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y por mucha que sea [esta agua] no puede haber demasía en cosa suya; porque si da mucho, hace hábil el alma para que sea capaz de beber mucho.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Cam. perf. 148 (Cl. C. 98. 21)."
+                    }
+                  ]
                 }
               ]
             }
@@ -111,25 +180,31 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "En los siguientes textos, Dispuesto. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por nacer de madre pasible y mortal, nació él semejantemente hábil a padecer y morir.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 1, Padre (3. 117)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con para. X",
+              "definicion": "Con para.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y tan predispuesto nace | El hombre para el pesar, | Que imbécil para gozar, | Y hábil para padecer.»",
                   "autor": "Pombo",
                   "referencia_obra": ", Antol. poética, p. 91."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -138,93 +213,123 @@
     {
       "id": "b)",
       "definicion": "Respecto de actividades y ejercicios materiales, Agil, diestro.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«EI cual gallardo sobre todos, menos | Turno, se ostenta, y de otro rango dino; | Hábil jinete y cazador de fieras.»",
               "autor": "Caro",
-              "referencia_obra": ", Obr. de Virgilio (2. 305). X"
+              "referencia_obra": ", Obr. de Virgilio (2. 305)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No veo inconvenientes — exclamó Petrus con excitación. Abrió el portafolios de cuero con un movimiento pausado y hábil que hizo sonar gravemente la escala de la cremallera.»",
               "autor": "Onetti",
               "referencia_obra": ", El astillero, p. 150."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo absol. X",
+              "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Por algo todos los grandes observadores son habilísimos dibujantes.»",
                   "autor": "Ramón y Cajal",
                   "referencia_obra": ", Tónicos de la voluntad, 7 (p. 137)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En superlativo relativo. X",
+              "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El Curioso Parlante se podrá comparar al cazador que ha de tirar al vuelo, cazador, sin duda, el más hábil.»",
                   "autor": "Larra",
-                  "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 222). X"
+                  "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 222)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Salió al campo una mañana | Un experto cazador, | El más hábil y mejor | Alumno que tuvo Diana.»",
                   "autor": "Marroquín",
-                  "referencia_obra": ", La perrilla (Nuevo lector col. p. 147). X"
+                  "referencia_obra": ", La perrilla (Nuevo lector col. p. 147)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Luego de cubrir sus raspaduras con aguardiente, fue proclamado el más hábil montador de la región. Horas más tarde continuaba trasegando con el animal.»",
                   "autor": "H. Sánchez",
                   "referencia_obra": ", Los desheredados, p. 386."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con para. En comparativo, con valor ponderativo. X",
+          "definicion": "Con para. En comparativo, con valor ponderativo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si Dado y otros que, como él (Lugones, por ejemplo), tienen una digitación tan hábil para ese tecleo de la técnica.»",
               "autor": "Nervo",
               "referencia_obra": ", Est. lit. 4 (Obr. complet. 2. 46)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Se aplica a las manos y otras partes del cuerpo. X",
+          "definicion": "Se aplica a las manos y otras partes del cuerpo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Zapata era el jefe de la orquesta y tocaba una de las arpas; la otra estaba en las hábiles manos de un negro joven discípulo de Zapata.»",
               "autor": "Palacios",
-              "referencia_obra": ", El Alférez real, 22 (p. 235). X"
+              "referencia_obra": ", El Alférez real, 22 (p. 235)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La fuerza, da a la popa, al irse, un tiento, | Y la despide, como astil que pasa, | Por hábil mano disparado, al viento.»",
               "autor": "Caro",
-              "referencia_obra": ", Obr. de Virgilio (2. 408). — met. X"
-            },
+              "referencia_obra": ", Obr. de Virgilio (2. 408)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Acallaron por breve plazo los remordimientos de don Sancho IV y se convirtieron en tela de oro bajo la hábil e ingeniosa mano de don Juan Manuel, prudente entre prudentes.»",
-              "autor": "Menéndez y Pelayo",
-              "referencia_obra": ", Discursos (Cl. C. 140. 123)."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Acallaron por breve plazo los remordimientos de don Sancho IV y se convirtieron en tela de oro bajo la hábil e ingeniosa mano de don Juan Manuel, prudente entre prudentes.»",
+                  "autor": "Menéndez y Pelayo",
+                  "referencia_obra": ", Discursos (Cl. C. 140. 123)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -232,26 +337,32 @@
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Dicho de los animales, Industrioso. En grado superlativo. X",
+          "definicion": "Dicho de los animales, Industrioso. En grado superlativo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Sacan de una colmena vieja el cadáver de una abeja mui hábil y laboriosa, la hacen unas grandes exequias.»",
               "autor": "Forner",
               "referencia_obra": ", Los gramáticos (Cl. C. 168. 134)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Conocedor. Con en. X",
+              "definicion": "Conocedor. Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ello es que hay animales muy científicos En mirarse con varios específicos, | Y en conservar su construcción orgánica, | Como hábiles que son en la botánica, | Pues conocen las hierbas.»",
                   "autor": "",
                   "referencia_obra": "T. Iriarte, Fáb. (Cl. C. 65. 225)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -260,99 +371,122 @@
     {
       "id": "c)",
       "definicion": "Predicado de las personas que ejercen una profesión u oficio, Ducho, experto.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«San Juan ha perdido en él un médico hábil.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Prov. p. 117. X"
+              "referencia_obra": ", Recuerdos de Prov. p. 117."
             },
             {
+              "marca": "X",
               "texto_cita": "«Efectivamente, el vapor, conducido por un hábil práctico, había entrado en la pequeña ensenada.»",
               "autor": "Fern.",
-              "referencia_obra": "Caball. Lágrimas, p. 106. X"
+              "referencia_obra": "Caball. Lágrimas, p. 106."
             },
             {
+              "marca": "X",
               "texto_cita": "«Nuevamente en las sombras infernales | Hundido, aunque probó con el escudo | Arrebatado al templo, que cual hábil | Guerrero luchó en Troya.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Odas de Hor. (ICC. 5. 49). X"
+              "referencia_obra": ", Odas de Hor. (ICC. 5. 49)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Podría ser de gran interés para el lector corriente si un editor hábil pudiera reducirla a una cuarta parte de su extensión sin sacrificar el vuelo arrebatado de la inspiración de Mármol.»",
               "autor": "Alegría",
-              "referencia_obra": ", Hist. nov. hispan. 1. 3 (p. 41). X"
+              "referencia_obra": ", Hist. nov. hispan. 1. 3 (p. 41)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ofrecemos los servicios de nuestros hábiles y experimentados escuchadores, que oirán todo lo que usted quiera decir, sin interrumpirlo, por un moderado estipendio.»",
               "autor": "Sábato",
               "referencia_obra": ", Abaddón, p. 418."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo absol. X",
+              "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En ese tiempo había venido --- un agrónomo inglés muy hábil y que por varios años había estado al frente de las plantaciones del gobierno británico.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 3 (p. 114)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En comparativo, con valor ponderativo. X",
+              "definicion": "En comparativo, con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y a propósito del Gran Capitán, ¡lástima es que tan hábil guerrero peque de avariento y ambicioso!»",
                   "autor": "Tam. y Baus",
-                  "referencia_obra": ", La locura de amor, p. 99. X"
+                  "referencia_obra": ", La locura de amor, p. 99."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Con la monarquía de Julio ¿se ha cerrado la sima de las revoluciones? La muerte de Luis Felipe, la falta de tan hábil piloto, ¿no se hará sentir lastimosamente en la combativa nave?»",
                   "autor": "Balmes",
                   "referencia_obra": ", Escritos polít. (Obr. 23. 220)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con en. X",
+          "definicion": "Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Yo tengo barruntos, según lo que he oído decir, que es muy calificado y generoso, y además hábil en el oficio.»",
               "autor": "Cerv.",
               "referencia_obra": "Rinconete (Cl. C. 27. 157)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo absol. X",
+              "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ha llegado pocos días ha del Japón un mancebo brillante, expedito, profundo, habilísimo en lenguas y poeta a las mil maravillas.»",
                   "autor": "Forner",
-                  "referencia_obra": ", Los gramáticos (Cl. C. 168. 22). X"
+                  "referencia_obra": ", Los gramáticos (Cl. C. 168. 22)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Aunque mi nuevo estilo de trabajar no fuera muy ortodoxo, resultaba yo demasiado hábil aún en el oficio como para que se alarmara la Compañía.»",
                   "autor": "Marechal",
                   "referencia_obra": ", Adán Buenosayres, 5. 12 (p. 756)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -361,85 +495,113 @@
     {
       "id": "d)",
       "definicion": "Predicado de las personas que se ocupan del gobierno y de la política, Perspicaz, sagaz.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Lecciones de este género no son inútiles para las ciudades, y el hábil político que en Buenos Aires ha elevado a sistema estos procedimientos los ha refinado y hecho producir efectos maravillosos.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Facundo, 2. 2 (p. 104). X"
+              "referencia_obra": ", Facundo, 2. 2 (p. 104)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El porvenir de aquellas hermosas provincias ---, podría convertirse en diez años en otros tantos focos de civilización y riqueza, si pudiesen, favorecidas por un gobierno hábil, consagrarse a allanar los ligeros obstáculos.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 2. 8 (p. 193). X"
+              "referencia_obra": "Id. ib. 2. 8 (p. 193)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La tradición de conquista y el interés de un caudillo hábil, no está tan cercana aún a los ojos del más espantadizo, que no dé tiempo a la prueba de altivez, continua y discreta, con que se la pudiera encarar y desviarla.»",
               "autor": "Martí",
-              "referencia_obra": ", Sus mejores páginas, p. 155. X"
+              "referencia_obra": ", Sus mejores páginas, p. 155."
             },
             {
+              "marca": "X",
               "texto_cita": "«Apareció el soldado infatigable, valiente y previsor; el jefe experto, --- el orador de excelsitud subyugadora; el político hábil, de intuición prodigiosa hasta cristalizar en unos cuantos aforismos la evolución sociológica de los pueblos indolatinos.»",
               "autor": "Valencia",
-              "referencia_obra": ", Discursos, 1 (p. 57). X"
+              "referencia_obra": ", Discursos, 1 (p. 57)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Era [Torres] también el hábil político que asociaba el virrey en aquel plan osado y trascendente.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 1 (p. 135). — En superlativo relativo. X"
-            },
+              "referencia_obra": "Id. ib. 1 (p. 135)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«El más consumado y perito en el arte de reinar que se conoció en aquel y en otros siglos y a quien reputan comúnmente por el gran maestro de la política, en cuya escuela estudiaron todos los príncipes más hábiles que después acá tuvo Europa.»",
-              "autor": "Feijóo",
-              "referencia_obra": ", Teatro crít. (Cl. C. 53. 157)."
+              "id_limpio": "—",
+              "definicion": "En superlativo relativo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«El más consumado y perito en el arte de reinar que se conoció en aquel y en otros siglos y a quien reputan comúnmente por el gran maestro de la política, en cuya escuela estudiaron todos los príncipes más hábiles que después acá tuvo Europa.»",
+                  "autor": "Feijóo",
+                  "referencia_obra": ", Teatro crít. (Cl. C. 53. 157)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Antonio Ulloa no es propiamente hombre hábil en la política.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 3. 17 (p. 302)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Por metonimia. X",
+              "definicion": "Por metonimia.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero éstos hacen desaparecer esos temores con una política que no deja de ser hábil y conducente.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 4 (p. 367)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con para y una prop. infinitiva. En grado comparativo. X",
+              "definicion": "Con para y una prop. infinitiva. En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Aristóteles en su \"Política\" dice, los experimentados más idóneos y hábiles son para obrar que los letrados sin experiencia.»",
                   "autor": "P. Mexía",
-                  "referencia_obra": ", Coloq. 1 (p. 48). X"
+                  "referencia_obra": ", Coloq. 1 (p. 48)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Podemos decir y firmar que los hombres cortesanos son más hábiles para gobernar pueblos que no otros ningunos.»",
                   "autor": "Guev.",
                   "referencia_obra": "Epíst. p. 405."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -448,98 +610,129 @@
     {
       "id": "e)",
       "definicion": "Entendido, astuto, en actividades que así lo requieren.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Determináronse, pues, a esto, y los numerosos agentes de Orange, ayudados por los de la Reina de Inglaterra, derramáronse por todo el país esparciendo, para preparar el terreno, hábiles calumnias contra D. Juan de Austria que interpretaban aviesamente todos sus actos.»",
               "autor": "Coloma",
-              "referencia_obra": ", Jeromín, 4. 16 (p. 511). X"
+              "referencia_obra": ", Jeromín, 4. 16 (p. 511)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡A ver! ¡A ver! Dame esa carta... (dijo en seguida). ¡Tú eres demasiado hábil, y lograrías hacerme ver lo blanco negro!... Me conviene más oír los aullidos del monstruo... ¡El y yo podemos engañarnos!»",
               "autor": "Alarcón",
-              "referencia_obra": ", El escándalo (Cl. C. 178. 246). X"
+              "referencia_obra": ", El escándalo (Cl. C. 178. 246)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Arrunte, a quien por suyo el hado sella, | Ganándola de mano, hábil espía | Con dardo apuntó a la veloz doncella.»",
               "autor": "Caro",
-              "referencia_obra": ", Obr. de Virgilio (2. 482). X"
+              "referencia_obra": ", Obr. de Virgilio (2. 482)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La gracia del proteísmo simulado y hábil fue en este griego [Alcibiades], como una alegre invención de la Naturaleza.»",
               "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 162. X"
+              "referencia_obra": ", Motivos de Proteo, p. 162."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se necesita que un abogado hábil e inteligente se encargue de la investigación — opinó el magistrado —. Me parece que convendría que fuera godo, en vez de liberal.»",
               "autor": "Caballero Calderón",
-              "referencia_obra": ", Siervo, 2. 9 (p. 148). X"
+              "referencia_obra": ", Siervo, 2. 9 (p. 148)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Las colonias de Inglaterra, Francia, España, la naciente república de los Estados Unidos, no pueden defenderse de los temerarios y hábiles negociantes que se deslizan por los canales del Misissippi.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 4. 20 (p. 349)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con en. X",
+          "definicion": "Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La Picha, aunque hábil en todo linaje de industrias cortesanas, y a pesar de tratarse de visitante novicio, temiendo ver descubiertos sus amaños no se atrevió a ofrecer a Rosina como virginidad incólume.»",
               "autor": "Pz. de Ayala",
               "referencia_obra": ", Tinieblas (Cl. Castal. 36. 151)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo absol. X",
+              "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Debo decir que en vida de mi madre había sido muy hábil, y decoroso mi padre en sus trapicheos, y por esta razón los disgustos que dio a su señora no fueron extremados.»",
                   "autor": "P. Galdós",
                   "referencia_obra": ", Lo prohibido (Cl. C. 34. 107)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En grado comparativo. X",
+              "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Poco diestro en doctrina, menos hábil en las artes de la intriga.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 2 (p. 206)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Con para. X",
+          "definicion": "Con para.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Allí los cavalleros muestran que son tan hábiles para las burlas, quanto determinados para las veras.»",
               "autor": "Cortés de Tolosa",
-              "referencia_obra": ", Lazarill. de Manzanares (Cl. C. 186. 73). — Siendo el término una prop. infinitiva. X"
-            },
+              "referencia_obra": ", Lazarill. de Manzanares (Cl. C. 186. 73)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«He faltado al respeto que merece este rebaño de hipócritas, bastante hábiles para ocultar al vulgo sus corrupciones y hacerse pasar por seres con alma y conciencia.»",
-              "autor": "P. Galdós",
-              "referencia_obra": ", Familia de L. Roch. 2. 9 (1. 278)."
+              "id_limpio": "—",
+              "definicion": "Siendo el término una prop. infinitiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«He faltado al respeto que merece este rebaño de hipócritas, bastante hábiles para ocultar al vulgo sus corrupciones y hacerse pasar por seres con alma y conciencia.»",
+                  "autor": "P. Galdós",
+                  "referencia_obra": ", Familia de L. Roch. 2. 9 (1. 278)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -547,14 +740,17 @@
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Sustantivado. Con de para indicar la materia. X",
+          "definicion": "Sustantivado. Con de para indicar la materia.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y si para los hábiles de la intriga y del favor se crean sinecuras y se acumulan espléndidos medios materiales, ¿cómo les serán éstos negados a maestros esclarecidos?»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Tónicos de la voluntad, 6 (p. 115)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -562,66 +758,90 @@
     {
       "id": "f)",
       "definicion": "En actividades intelectuales, Inteligente, ingenioso.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Me quedan muchas cosas que decir, y en las galeras de España hay más sosiego de aquel que sería menester, aunque no es menester mucho más para lo que yo tengo de escribir, porque me lo sé de coro. — Hábil pareces — dijo don Quijote.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 22 (Cl. C. 6. 218). X"
+              "referencia_obra": "Quij. 1. 22 (Cl. C. 6. 218)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo apuesto al doble por mí, don Antonio de Solís, como se ponga en manos de hábiles y desapasionados críticos la decisión.»",
               "autor": "Feijóo",
               "referencia_obra": ", Teatro crít. (Cl. C. 53. 209)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pero ha de procurar el hábil artista que el resultado de su plan y el efecto de su obra sea hacernos odioso el crimen, ridículo el vicio, temibles las pasiones.»",
               "autor": "Lista",
               "referencia_obra": ", Ensayos, 1 (p. 171)."
             },
             {
+              "marca": "",
               "texto_cita": "«Eran imposibles ciertas cacerías por no haber tigres, como dijo el otro. Pero en cambio, el hábil jesuíta tendrá trabajo seguido.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 2 (p. 40). X"
+              "referencia_obra": ", Sueños, 2 (p. 40)."
             },
             {
+              "marca": "X",
               "texto_cita": "«A Pinas le pareció que, para sus fines, o sea para la exploración hábil de su verdadero estado de espíritu, lo mejor era llevar la conversación al campo de los más viejos recuerdos.»",
               "autor": "Mallea",
               "referencia_obra": ", El vínculo, p. 65."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Bien sabemos que en los más hábiles escritores hay algunas cosas no tan buenas como otras.»",
                   "autor": "T. Iriarte",
                   "referencia_obra": ", Donde las dan las toman (6. 174)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "En grado comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Aquí está el entendimiento más vivo y las potencias más hábiles.»",
                   "autor": "Sta. Ter.",
-                  "referencia_obra": "Mor. 2. 1 (R. 53. 4402). — Con valor ponderativo. X"
-                },
+                  "referencia_obra": "Mor. 2. 1 (R. 53. 4402)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Todos los meses sacaba dos o tres comedias. ¡Como es tan hábil!»",
-                  "autor": "Mor.",
-                  "referencia_obra": "Obr. (Acad. Hist. 2. 115)."
+                  "id_limpio": "—",
+                  "definicion": "Con valor ponderativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Todos los meses sacaba dos o tres comedias. ¡Como es tan hábil!»",
+                      "autor": "Mor.",
+                      "referencia_obra": "Obr. (Acad. Hist. 2. 115)."
+                    }
+                  ]
                 }
               ]
             }
@@ -630,26 +850,32 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con de. met. En superlativo absol. X",
+          "definicion": "Con de. met. En superlativo absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Tendremos presente que el hecho nuevo lo descubre, no el que lo ve primeramente, sino quien, merced a una técnica habilísima, supo mostrarlo con entera evidencia, logrando llevar la convicción al ánimo de todos.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Tónicos de la voluntad, 7 (p. 138)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo relativo. X",
+              "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«De todas las reacciones posibles ante una injuria, la más hábil y económica es el silencio.»",
                   "autor": "Ramón y Cajal",
                   "referencia_obra": ", Charlas de café, 1 (p. 23)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -657,109 +883,142 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los del cuarto [clima], sujeto al Sol, que pasa por la isla de Rodas, y por en medio de Grecia, letrados, elocuentes, poetas y hábiles en todas artes.»",
               "autor": "Saav.",
               "referencia_obra": "Emp, 81 (R. 25. 2171)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En grado comparativo, con valor ponderativo. X",
+              "definicion": "En grado comparativo, con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Salió tan hábil, así en letras como del arte de caballería, que fue cosa de espanto.»",
                   "autor": "Timoneda",
                   "referencia_obra": ", El Patrañuelo, 5 (Cl. C. 101. 61)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Con para. X",
+          "definicion": "Con para.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Dejaban el estudio, i aunque hábiles para las sciencias, tenían tal oposición a la gramática, que aplicauan a las armas o a las artes mecánicas.»",
               "autor": "Saav.",
-              "referencia_obra": "Rep. (Cl. C. 46. 44). X"
+              "referencia_obra": "Rep. (Cl. C. 46. 44)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Carga es de los hombres hábiles para escribir.»",
               "autor": "Zabaleta",
               "referencia_obra": ", Errores celebr. (Cl. C. 169. 217)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "met. En superlativo absol. X",
+              "definicion": "met. En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sino también un golpe habilísimo para conquistar a favor suyo todo el terreno perdido por la Francia en países tan llenos de porvenir como los del Plata.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 5 (p. 574)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En comparativo, con valor ponderativo. X",
+              "definicion": "En comparativo, con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Miren qué hombre tan hábil para traer autoridades de Séneca.»",
                   "autor": "Mor.",
                   "referencia_obra": "Obr. (Acad. Hist. 2. 20)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Sustantivado. Con de. X",
+          "definicion": "Sustantivado. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Una de las mejores [novelas] de Galdós, no sólo porque está escrita con más pausa y aliño que otras, sino por la gravedad del pensamiento --- por lo hábil e inesperado del desenlace.»",
               "autor": "Menéndez y Pelayo",
               "referencia_obra": ", Discursos (Cl. C. 140. 45)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
       "id": "2",
-      "definicion": "Der. Que reúne las condiciones requeridas para el ejercicio de un derecho. Con para y un infinitivo. X",
+      "definicion": "Der. Que reúne las condiciones requeridas para el ejercicio de un derecho. Con para y un infinitivo.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Me separé voluntaria, espontánea y libremente sin perder mi carácter oficial y quedando hábil para recuperar el puesto el día que quisiese.»",
           "autor": "M. F. Suárez",
-          "referencia_obra": ", Sueños, 3 (p. 44). X"
+          "referencia_obra": ", Sueños, 3 (p. 44)."
         },
         {
+          "marca": "X",
           "texto_cita": "«No son hábiles para testar: 1.— El impúber. 2.— El que se hallare en interdicción. 3.— El que actualmente no se hallare en su sano juicio.»",
           "autor": "",
-          "referencia_obra": "Código civiI col. Art. 151. X"
+          "referencia_obra": "Código civiI col. Art. 151."
         },
         {
+          "marca": "X",
           "texto_cita": "«Toda persona, que según las leyes comunes, tenga capacidad para contratar y obligarse, es hábil para ejercer el comercio.»",
           "autor": "",
-          "referencia_obra": "Código de com. col. Art. 234. — met."
-        },
+          "referencia_obra": "Código de com. col. Art. 234."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«El cristiano se hace particionero de los méritos de la Pasión sacratísima de nuestro redentor Jesucristo, y por consiguiente se hace hábil heredero del cielo.»",
-          "autor": "Venegas",
-          "referencia_obra": ", Agonía, 1. 4 (Míst. 3. 6)."
+          "id_limpio": "—",
+          "definicion": "met.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«El cristiano se hace particionero de los méritos de la Pasión sacratísima de nuestro redentor Jesucristo, y por consiguiente se hace hábil heredero del cielo.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía, 1. 4 (Míst. 3. 6)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -767,47 +1026,57 @@
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
-      "definicion": "Aplicado al tiempo significa el disponible y apto para ciertas actividades. X",
+      "definicion": "Aplicado al tiempo significa el disponible y apto para ciertas actividades.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«El secreto está en el método de trabajo: en aprovechar para la labor todo el tiempo hábil; en no entregarse al diario descanso sin haber consagrado dos o tres horas por lo menos a la tarea.»",
           "autor": "",
           "referencia_obra": "Ramón y Cajal, Tónicos de la voluntad, 3 (p. 58)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
-      "definicion": "Der. Los días y las horas en los que puede ejecutarse un acto judicial. X",
+      "definicion": "Der. Los días y las horas en los que puede ejecutarse un acto judicial.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Las actuaciones judiciales (...) deben realizarse en días y horas hábiles, excepto cuando hay norma expresa que establezca lo contrario.»",
           "autor": "",
-          "referencia_obra": "Código civil col. Art. 118. X"
+          "referencia_obra": "Código civil col. Art. 118."
         },
         {
+          "marca": "X",
           "texto_cita": "«Los (plazos) de meses y años se computan según el Calendario; pero si el último día fuere feriado o de vacante, se extenderá el plazo hasta el primer día hábil.»",
           "autor": "",
-          "referencia_obra": "Código de régimen polít. Art. 62. X"
+          "referencia_obra": "Código de régimen polít. Art. 62."
         },
         {
+          "marca": "X",
           "texto_cita": "«Todas las asignaturas se organizarán semestralmente cada semestre tendrá diez y ocho semanas hábiles.»",
           "autor": "",
           "referencia_obra": "Código educ. col. Art. 190."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «Aunque fuese hábile para facer fazaña, no era aún capaz para la inventar, ni para imaginar dolo.» Pulgar, Letras, 28 (p. 291). «El grand exercicio que avía e veía en los otros, le facía hábile e diestro en ellas [en las armas].» Id. Clar. var. 13 (p. 92). «Fue hábil [ el marqués de Santillana] para recibir todo uso de virtud, e refrenar sin gran pena qualquier tentación de pecado.» Id. ib. 4 (p. 43). «Vemos los rústicos --- aborrescer las habitaciones de las ciudades et hábiles cortesías.» Vis. delect. 1. 8 (R. 36. 3512).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. habilis ‘apto, conveniente, propio’ y éste de habere. Prov. habil, habili, cat. hábil, fr. habile, it. ábil.\n\n\u0000",
+  "etimologia": "Etim. Del lat.<i> habilis</i> ‘apto, conveniente, propio’ y éste de<i> habere.</i> Prov.<i> habil</i>,<i> habili</i>, cat.<i> hábil</i>, fr.<i> habile</i>, it.<i> ábil.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

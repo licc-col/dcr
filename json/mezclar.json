@@ -1,263 +1,338 @@
 {
   "lema": "MEZCLAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, juntar o unir dos o más cosas o sustancias o, intercalar unos objetos en otros, a) de cosas materiales, sustancias físicas (Llorar al mismo tiempo: ζ ), b) de entidades abstractas, inmateriales;\n\n— 2, referido a personas, a) incluirse, inmiscuirse en alguna entidad, asunto o acontecimiento, b) confundirse, juntarse (Pelear cuerpo a cuerpo: δ ), c) tratar con personas diferentes, d) referido a familias, linajes, enlazar unos con otros.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, juntar o unir dos o más cosas o sustancias o, intercalar unos objetos en otros, a) de cosas materiales, sustancias físicas (Llorar al mismo tiempo: ζ ), b) de entidades abstractas, inmateriales;\n\n— 2, referido a personas, a) incluirse, inmiscuirse en alguna entidad, asunto o acontecimiento, b) confundirse, juntarse (Pelear cuerpo a cuerpo: δ ), c) tratar con personas diferentes, d) referido a familias, linajes, enlazar unos con otros.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "Juntar o unir dos o más cosas o sustancias, o intercalar unos objetos en otros.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "De cosas materiales, sustancias físicas (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La tarde nos reconciliaba con el cielo | Mezclando el humo de nuestros hogares.»",
               "autor": "Maya",
               "referencia_obra": ", Obra poétic. 2 (p. 146)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. Además con hasta y una prop. infinitiva. X",
+              "definicion": "Con dat. Además con hasta y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mientras reanudaba la conversación sobre las Palmas, le mezcló dulce raspao hasta espesarlo, y se apercibió a bogar.»",
                   "autor": "Carrasquilla",
                   "referencia_obra": ", Frutos, 4. 2 (p. 65)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se inclina... y ve las ondas procelosas | Que amenazantes a su nave avanzan, | Mira el abismo... y a sus aguas turbias | Mezcla una lágrima.»",
                   "autor": "García Gutiérrez",
-                  "referencia_obra": ", Obr. complet. p. 231. X"
+                  "referencia_obra": ", Obr. complet. p. 231."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En la altura los cuervos graznaban, | Los deudos gemían en torno del muerto, | Y las ondas airadas mezclaban | Sus bramidos al triste concierto.»",
                   "autor": "R. de Castro",
-                  "referencia_obra": ", En las orillas del Sar (Cl. Castal. 90. 157). X"
+                  "referencia_obra": ", En las orillas del Sar (Cl. Castal. 90. 157)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sus mugidos | Mezcla el ganado al rumoroso chorro | Del grano de la siembra.»",
                   "autor": "Pombo",
                   "referencia_obra": ", Antol. poética, p. 327."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Llegó a su choça el inuentor famoso | Del arte de las Áticas colmenas, | Y derribando el corcho artificioso | Los panales mezcló con las arenas.»",
                   "autor": "",
-                  "referencia_obra": "Montalbán, Orfeo (BALH. 14. 58). X"
+                  "referencia_obra": "Montalbán, Orfeo (BALH. 14. 58)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y ésta fue la primera vez | Que mezcló el agua con vino.»",
                   "autor": "T. Iriarte",
-                  "referencia_obra": ", Poes. (Cl. C. 136. 138). X"
+                  "referencia_obra": ", Poes. (Cl. C. 136. 138)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Vives en la tierra de tu predilección, esperas mezclar tus cenizas con las cenizas de tus padres.»",
                   "autor": "M. de la Rosa",
-                  "referencia_obra": ", Abén Humeya, 1 (Cl. C. 107. 190). X"
+                  "referencia_obra": ", Abén Humeya, 1 (Cl. C. 107. 190)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿O, al contrario, te manda el buen día | Que en sus hornos de barro poroso | Cuece el pan de la muerte, mezclando | Vino y hiel con el trigo sabroso?»",
                   "autor": "Maya",
-                  "referencia_obra": ", Obra poétic. 3 (p. 191). — Además con en. X"
+                  "referencia_obra": ", Obra poétic. 3 (p. 191)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Libra al céfiro su manto, | Que veloz lo desenvuelve, | Mezclando en el horizonte | La púrpura con la nieve.»",
+                      "autor": "Mel.",
+                      "referencia_obra": "Poes. (Cl. C. 64. 214)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Libra al céfiro su manto, | Que veloz lo desenvuelve, | Mezclando en el horizonte | La púrpura con la nieve.»",
-                  "autor": "Mel.",
-                  "referencia_obra": "Poes. (Cl. C. 64. 214). — met. X"
-                },
-                {
-                  "texto_cita": "«Existen también apologistas sensibles y sinceros que mezclan la tinta con las lágrimas.»",
-                  "autor": "Ramón y Cajal",
-                  "referencia_obra": ", Charlas de café, 4 (p. 83)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Existen también apologistas sensibles y sinceros que mezclan la tinta con las lágrimas.»",
+                      "autor": "Ramón y Cajal",
+                      "referencia_obra": ", Charlas de café, 4 (p. 83)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Armas del pueblo! ¡Aquí! ¡La amenaza, el asedio | Aún derraman la tierra mezclándola de muerte, | Áspera de aguijones!»",
                   "autor": "Neruda",
                   "referencia_obra": ", Poes. (9. 98)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con en, para indicar el sitio. X",
+              "definicion": "Con en, para indicar el sitio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sangre, leche, grana y nieve | el cielo quiso mezclar | En estas manos.»",
                   "autor": "M. de Amescua",
-                  "referencia_obra": ", El esclavo del demonio, 2 (Cl. C. 70. 141). X"
+                  "referencia_obra": ", El esclavo del demonio, 2 (Cl. C. 70. 141)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo diré cómo el arte gracias nuevas | Da al césped, a la flor, la áspera roca, | El parlero cristal; y en la animada | Tabla del suelo luces mezcla y sombras; | Sabe sitio elegir.»",
                   "autor": "Bello",
-                  "referencia_obra": ", Poes. p. 103. X"
+                  "referencia_obra": ", Poes. p. 103."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tío Marko, silbando entre dientes, mezcla el polvo y la cola en un bote de pintura.»",
                   "autor": "Casona",
                   "referencia_obra": ", La barca sin pescador, p. 138."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Bajo el polo antártico en altura | De veinte y siete grados prolongado, | Hasta do el mar Océano y chileno | Mezclan sus aguas por angosto seno.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 1 (R. 17. 41)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cada uno de los presentes echó un puñado de tierra del suelo de donde venía, de forma que todas las tierras se mezclaran y confundieran.»",
               "autor": "Catalina",
               "referencia_obra": ", Roma, p. 305."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se pudiera extraer con la máquina neumática todo el aire y cuerpecillos extraños que se mezclan en el agua, y entonces apenas quedaría en todo el río la bastante para llenar una vinagrera.»",
                   "autor": "Isla",
                   "referencia_obra": ", Fr. Ger. 1 (Cl. C. 148. 69)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con para y una prop. infinitiva, que expresa la finalidad. X",
+              "definicion": "Con para y una prop. infinitiva, que expresa la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Copa donde se mezclan dos vinos para mitigar los humos del más fuerte.»",
                   "autor": "Rodó",
                   "referencia_obra": ", Motivos de Proteo, p. 19."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refl. Con a. X",
+          "definicion": "Refl. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«De minuto en minuto caían al suelo o al mar multitud de hombres llenos de vida; las blasfemias de los combatientes se mezclaban a los lamentos de los heridos.»",
               "autor": "",
-              "referencia_obra": "P. Galdós, Trafalgar, 11 (p. 108). X"
+              "referencia_obra": "P. Galdós, Trafalgar, 11 (p. 108)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los arbustos trepidaban bajo su azote produciendo un rumor sordo y vasto, al que se mezclaba el silbido agudo de los pajonales.»",
               "autor": "Alegría",
-              "referencia_obra": ", El mundo es ancho y ajeno, 8 (p. 329). X"
+              "referencia_obra": ", El mundo es ancho y ajeno, 8 (p. 329)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Al estampido de la pólvora se mezclan los gritos de ¡Perros ingleses! ¡Piratas bandidos! ¡Cochinos protestantes!»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 217). X"
+              "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 217)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Al centro, los condados mineros e industriales, con el desolado panorama de sus comarcas leprosas e indeciblemente sucias en que la lividez caliza y el orín ferruginoso de las tierras se mezclan a la ceniza y al polvillo del carbón que todo lo marchita y mancilla.»",
               "autor": "Zalamea",
               "referencia_obra": ", Minerva en la rueca, p. 72."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los suspiros se atropellan en la boca; y al salir de tropel, mezclándose con las lágrimas, turban la vista, sin dejarla percebir más que objetos melancólicos y tristes.»",
                   "autor": "Isla",
                   "referencia_obra": ", Fr. Ger. 3. 2 (Cl. C. 149. 229)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En la declinación del siglo XIV solían ya mezclarse los duros ejercicios de la caballería con otros más apacibles.»",
                   "autor": "Clem.",
-                  "referencia_obra": "Coment. 1. 23 (2. 238). X"
+                  "referencia_obra": "Coment. 1. 23 (2. 238)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ávido el moribundo en su agonía | Disputando el festín, y sus gemidos | Se mezclan con los fúnebres graznidos.»",
                   "autor": "Espronc.",
-                  "referencia_obra": "Pelayo (Cl. C. 47. 92). X"
+                  "referencia_obra": "Pelayo (Cl. C. 47. 92)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La sangre de Alamín se mezcló con el agua de los surtidores, y su tesoro, custodiado por negros gigantes, partió en una nave.»",
                   "autor": "Marañón",
-                  "referencia_obra": ", Tiempo viejo, p. 14. X"
+                  "referencia_obra": ", Tiempo viejo, p. 14."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Un corredor ancho, una familia acogedora, mucho ajetreo de campo, un olorcillo apetitoso que viene del interior a mezclarse con la esencia fuerte de tamo seco y majada resecada por el sol.»",
                   "autor": "Rueda Vargas",
-                  "referencia_obra": ", Lentus in umbra, p. 62. X"
+                  "referencia_obra": ", Lentus in umbra, p. 62."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y la fragancia se mezcla con el perfume agridulce de la manzanilla en el invierno.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 129."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. Además con dat. met. X",
+              "definicion": "Con en. Además con dat. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Porque luego | Se les mezcla en el sosiego | Una yerba desabrida | Que es pensar en la partida | Que ha de partirles del juego | De aquel plazo.»",
                   "autor": "Castillejo",
                   "referencia_obra": ", Serm. de amores (Cl. C. 72. 83)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -265,113 +340,147 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ansí como dos cosas que son contrarias, aunque se junten, no se pueden mezclar; ansí no es posible que se anude con paz el reino, cuyas partes están tan opuestas entre sí.»",
               "autor": "León",
-              "referencia_obra": ", Nomb. 2. 2 (3. 180). X"
+              "referencia_obra": ", Nomb. 2. 2 (3. 180)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En lucha amiga, y tan fiel, | Se precipitan conformes, | Que si las ondas se mezclan, | ¿Se respetan los colores?»",
               "autor": "Domínguez Camargo",
-              "referencia_obra": ", Obr. (ICC. 15. 418). X"
+              "referencia_obra": ", Obr. (ICC. 15. 418)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sin duda, al entrar en íntimo contacto mezcláronse sus savias y fundiéronse sus cortezas.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Charlas de café, 7 (p. 144)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se produce entonces el fenómeno que los pintores llaman empastelamiento, y al destruirse la perspectiva pictórica o social, se apelmaza la composición del cuadro, las figuras se mezclan las unas con las otras anulándose entre sí.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 122."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y para aumentar aquella baraúnda turbadora de voces y de gritos, dos organillos llenaban el aire con el campanilleo alegre de sus notas, mezcladas y entrecruzadas.»",
               "autor": "Baroja",
-              "referencia_obra": ", La busca, 3. 4 (p. 151). X"
+              "referencia_obra": ", La busca, 3. 4 (p. 151)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero a la plaza no llegan sino potros desmontados, con la sangre fresca en la silla: la del amo y la del enemigo, mezcladas.»",
               "autor": "Uslar-Pietri",
               "referencia_obra": ", Lanzas coloradas, 12 (p. 159)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y aspiraba esos olores | Mezclados a esos sonidos; | Y ese aire que los vestidos | Les salpicaba de flores.»",
                   "autor": "Pombo",
-                  "referencia_obra": ", Antol. poétic. p. 163. X"
+                  "referencia_obra": ", Antol. poétic. p. 163."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Se oía el resonar de los caracoles marinos mezclados al de las ranas.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Por tierras de Port. y Esp. p. 167."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Es la vida de Eduardo y de Amalia que peligran en este momento; pero la sangre de ellos no puede correr sino mezclada con la mía.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 1 (p. 131). X"
+                  "referencia_obra": ", Amalia, 1 (p. 131)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En calientes hornos | Queman ladrillos que de barro labran; | Por argamasa con betún los mezclan; | Y murallones y columnas alzan.»",
                   "autor": "E. Mejía",
-                  "referencia_obra": ", Obr. complet. p. 189. X"
+                  "referencia_obra": ", Obr. complet. p. 189."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Jaime aprieta las facciones; las heridas mezcladas con tierra le arden, y cae arañando el zaguán sobre las baldosas brillantes bajo el farol.»",
                   "autor": "Fuentes",
                   "referencia_obra": ", Obr. complet. p. 784."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y yo envidiar pudiera tu fortuna, | Mas he llorado en ti lágrimas tantas, | --- Que mezclada en tus aguas pudo alguna | De Lucinda tocar las tiernas plantas | Y convertirse en tus arenas de oro.»",
                   "autor": "Lope",
-                  "referencia_obra": ", Poes. lír. (Cl. C. 68. 120). X"
+                  "referencia_obra": ", Poes. lír. (Cl. C. 68. 120)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Otra vez ardía la lamparilla votiva, aunque con un chisporroteo continuo, de aceite y agua mezclados en la mecha.»",
                   "autor": "Gallegos",
-                  "referencia_obra": ", Doña Bárbara, p. 276. — met. X"
-                },
+                  "referencia_obra": ", Doña Bárbara, p. 276."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Porque el fuego y la nieve dulcemente | En tu rostro mezclados, ¿qué otra cosa | Son que una breve flor?»",
-                  "autor": "Rioja",
-                  "referencia_obra": ", Versos, p. 336."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Porque el fuego y la nieve dulcemente | En tu rostro mezclados, ¿qué otra cosa | Son que una breve flor?»",
+                      "autor": "Rioja",
+                      "referencia_obra": ", Versos, p. 336."
+                    }
+                  ]
                 }
               ]
             }
@@ -380,19 +489,23 @@
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Loc. Mezclar lágrimas: llorar al mismo tiempo. X",
+          "definicion": "Loc. Mezclar lágrimas: llorar al mismo tiempo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Abrazó a su padre, mezclando sus lágrimas con las suyas.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 63 (Cl. C. 22. 178). X"
+              "referencia_obra": "Quij. 2. 63 (Cl. C. 22. 178)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Y por qué hemos de llorar? —Porque amarse un momento es haber mezclado lágrimas.»",
               "autor": "Gómez de la Serna",
               "referencia_obra": ", Cab. del hongo gris, p. 137."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -400,174 +513,213 @@
     {
       "id": "b)",
       "definicion": "De entidades abstractas, inmateriales (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Asimismo mezclaba algo de sus merecimientos, parte de su calidad y mucho de sus pretensiones, hacienda y esperanzas.»",
               "autor": "Césp. y Men.",
-              "referencia_obra": "Hist. (Cl. Castal. 23. 85). X"
+              "referencia_obra": "Hist. (Cl. Castal. 23. 85)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pésames y parabienes | Tan cortésmente mezclasteis, | Que no sé a qué responderos.»",
               "autor": "Cald.",
               "referencia_obra": "La dama duende, 2 (Cl. C. 137. 46)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, para indicar la cosa a la que se une algo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Quién mezcló a vuestro acíbar mi contento?»",
                   "autor": "Valb.",
-                  "referencia_obra": "Siglo de oro, 9 (p. 178). X"
+                  "referencia_obra": "Siglo de oro, 9 (p. 178)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Fadrique dixo: ¿Vos no auéys oýdo dezir mezclar a lo sacro lo profano?»",
                   "autor": "L. Pinciano",
-                  "referencia_obra": ", Philosophia (BALH. 20. 94). X"
+                  "referencia_obra": ", Philosophia (BALH. 20. 94)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Que el Marqués, si amante humilde, | Conquistador arrogante, | Mezclaba --- | Las amenazas crueles | A las promesas süaves.»",
                   "autor": "Alarcón",
                   "referencia_obra": ", Ganar amigos, 1 (Cl. C. 147. 144)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La lectura se hará siempre en obras provechosas y convenientes al instituto del Colegio, mezclando el deleite a la utilidad.»",
                   "autor": "",
-                  "referencia_obra": "Jovell. Plan de instr. públ. (4. 77). X"
+                  "referencia_obra": "Jovell. Plan de instr. públ. (4. 77)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y así se le veía en las circunstancias más difíciles, en los trances más apurados, mezclar a lo serio la ironía, a lo triste la risa.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 2 (p. 168). X"
+                  "referencia_obra": ", Amalia, 2 (p. 168)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y en el sarcasmo con que el poeta maldecidor mezcla el agrio de su ofensa al regocijo de la burla: en todos estos casos, los dos polos de la sensibilidad se tocan y unimisman.»",
                   "autor": "Rodó",
-                  "referencia_obra": ", Motivos de Proteo, p. 255. X"
+                  "referencia_obra": ", Motivos de Proteo, p. 255."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mi fantasía empezó a trabajar, animada por una fuerza nueva, y mi pensamiento mezcló una alegría a las vastas meditaciones nacidas de la pampa.»",
                   "autor": "Güiraldes",
-                  "referencia_obra": ", Don Segundo Sombra, 10 (p. 63). X"
+                  "referencia_obra": ", Don Segundo Sombra, 10 (p. 63)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Lo que perseguía Pinas hasta el desagrado, mezclando a sus ideas una especie de vaga aprensión física, era el modo como él, ahora, parecía superarlo todo.»",
                   "autor": "Mallea",
                   "referencia_obra": ", El vínculo, p. 66."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Antes que acabe la razón que comienza, la mezcla con otras razones.»",
                   "autor": "León",
                   "referencia_obra": ", dedic. Obr. Sta. Ter. (4. 210)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Me hará cargo de las malas circunstancias que mezclé con mis buenas obras.»",
                   "autor": "Puente",
                   "referencia_obra": ", Medit. 1. 9 (1. 100)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Todavía la calamidad de aquellos siglos mezclaba con lo listo y justo condiciones indignas.»",
                   "autor": "Césp. y Men.",
                   "referencia_obra": "Sold. Pínd. 2. 9 (R. 18. 3391)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Seyano fabricó su valimiento mezclando con grandes virtudes sus malas costumbres.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 18 (R. 25. 502)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Con gran prudencia y política supo [el rey don Fernando] mezclar la liberalidad con la parsimonia.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 40 (R. 25. 1031)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mantenga [el príncipe] modesta su familia, mezcle la majestad con el agrado y la justicia con la clemencia.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 59 (R. 25. 1612)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El bien con el mal mezcló [la fortuna].»",
                   "autor": "Mto.",
                   "referencia_obra": "No puede ser, 1. 1 (R. 39. 1872)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Aquí entra el buen gusto y la fina discreción del escritor, para distinguir las cosas --- y el modo con que ha de mezclar lo útil con lo dulce.»",
                   "autor": "Capm.",
                   "referencia_obra": "Filosof. eloc. 1 (p. 131)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Lo contrario ---, causa una continua confusión que mezcla mucha amargura con lo dulce de la sociedad.»",
                   "autor": "Cadalso",
                   "referencia_obra": ", Cartas marr. 60 (2. 241)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La presencia de la Reina ahuyenta el desorden ---; y mezclando prudentemente la clemencia con la severidad, consigue reprimir los crímenes y ganar al mismo paso los corazones.»",
                   "autor": "Acad.",
                   "referencia_obra": "Hist. 6. 9)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ignoran a Dios, cuyo sabor escondido mezcló en sus obras un olor dulcísimo de sí mismo.»",
                   "autor": "M. de Chaide",
-                  "referencia_obra": ", Magd. 3. 55 (R. 27. 3942). X"
+                  "referencia_obra": ", Magd. 3. 55 (R. 27. 3942)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Lo contrario, que es lo que se practica, causa una continua confusión, que mezcla mucha amargura en lo dulce de la sociedad.»",
                   "autor": "Cadalso",
-                  "referencia_obra": ", Cartas marr. 60 (Cl. C. 112. 206). X"
+                  "referencia_obra": ", Cartas marr. 60 (Cl. C. 112. 206)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El dulce sabor acibarado para siempre, acibarado por el despecho; despecho, amor y muerte mezclan sus venenos en fulminante narcótico, que fosiliza las últimas capas de blandura.»",
                   "autor": "",
                   "referencia_obra": "Yáñez, Al filo del agua, p. 432."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con entre. met. X",
+              "definicion": "Con entre. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y quedará satisfecho, | Mezclando entre mis agravios | Esta leche de mis labios | Y esa sangre de tu pecho.»",
                   "autor": "Cid",
                   "referencia_obra": ", 1. 1 (Cl. C. 15. 40)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con para y una prop. infinitiva, que expresa la finalidad. X",
+              "definicion": "Con para y una prop. infinitiva, que expresa la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y guerra y paz mezclando, para salvar la vida | Aceptó en cautiverio, cobarde, su destino.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Odas de Horacio (ICC. 5. 121)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -575,46 +727,65 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La lengua que hoy se habla en Castilla, aunque es mezclada de otras, la mayor y más principal parte que tiene es de la lengua latina.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. (Mayáns, Oríg. leng. esp. p. 19)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si se contentara con decir que en casi todos los tratados de ella se mezclan cuestiones inútiles que pudieran y aún debieran ahorrarse.»",
               "autor": "Isla",
               "referencia_obra": ", Fr. Ger. 2. 7. (Cl. C. 149. 125)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La religión y hasta la teología escolástica se mezclan también a tales proezas.»",
                   "autor": "Gil y Zárate",
                   "referencia_obra": ", Resum. histór. 3. 11 (p. 572). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Tiene don Luis de Góngora un extraño soneto en que lo irreal se mezcla a lo misterioso.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", Trasuntos de Esp. p. 114. — Además con en, para expresar el lugar. ´"
-                },
+                  "referencia_obra": ", Trasuntos de Esp. p. 114."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y como un hilo de misterios, debajo de los nombres conocidos de antaño, la lengua de los indios se mezcla a la europea en el catálogo de los pueblos.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Estud. mesa redonda, 3 (p. 56)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para expresar el lugar. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y como un hilo de misterios, debajo de los nombres conocidos de antaño, la lengua de los indios se mezcla a la europea en el catálogo de los pueblos.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Estud. mesa redonda, 3 (p. 56)."
+                    }
+                  ]
                 }
               ]
             },
@@ -622,35 +793,43 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y después dos causas principales les acabaron de establecer: la galantería, que comenzó a mezclarse en todas las acciones de los hombres, y el no haberse desdeñado los Reyes mismos algunas veces de dejar el cetro para empuñar el rejoncillo.»",
                   "autor": "Larra",
                   "referencia_obra": ", Artíc. de cost. (Cl. C. 45. 27). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Él fue quien primero trató de impulsar la marina mercante a mezclarse en las navegaciones trasatlánticas.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 1. 8 (p. 128). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La tercera de estas tres Marías condensa en su obra las mejores cualidades de su generación: visión novelística sin fronteras, manejo sutil de un lenguaje en que se mezclan la carga cotidiana de la realidad más inmediata y la presencia poética de los mitos y de los monstruos sexuales de la vida contemporánea.»",
                   "autor": "Alegría",
                   "referencia_obra": ", Poes. chilena siglo XX, 1 (p. 73)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con para y una prop. infinitiva, que expresa finalidad. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Digo que la historia de la épica y la ficción se deue mezclar juntame[n]te para hazer el argume[n]to della.»",
                   "autor": "",
                   "referencia_obra": "L. Pinciano, Philosophia (BALH. 21. 171)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -658,48 +837,67 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Refl. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No os esconderé que mi alma apenas acierta a resistir aquella inocente vanidad que alguna vez se mezcla al ejercicio de la beneficencia pública.»",
               "autor": "Jovell.",
               "referencia_obra": "Discursos (2. 160)."
             },
             {
+              "marca": "",
               "texto_cita": "«Escucha, empero, los aplausos míos, | Que vuelan a mezclarse a la alabanza | Con que tu siglo ensalzará tu nombre.»",
               "autor": "Quint.",
               "referencia_obra": "poes. A R. Moreno (R. 19. 282 ). ´"
             },
             {
+              "marca": "",
               "texto_cita": "«Rabiosa fruición de tortura se mezclaba ahora a todas sus caricias.»",
               "autor": "Larreta",
               "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 101). ´"
             },
             {
+              "marca": "",
               "texto_cita": "«Desnuda y vencida, deshecho su orgullo, ante él victorioso. Ira y dolor se le mezclaban. Comenzó a llorar desesperadamente.»",
               "autor": "Uslar-Pietri",
               "referencia_obra": ", Lanzas coloradas, 7 (p. 79). ´"
             },
             {
+              "marca": "",
               "texto_cita": "«En su semblante, el asombro se mezclaba ahora a una placidez casi risueña.»",
               "autor": "Roa",
               "referencia_obra": "Bastos, Hijo de hombre, p. 312."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Para obligarte, en vano | Mezclarme quise al alborozo insano | Del ruidoso festín.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Poes. Al sueño (R. 19. 271 ). — Además con en. ´"
-                },
+                  "referencia_obra": "Poes. Al sueño (R. 19. 271 )."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«En esta resolución del egregio presidente se mezclaron los planes de su política y de su partido, contrarios a los del señor Roosevelt.»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 1 (p. 204),"
+                  "id_limpio": "—",
+                  "definicion": "Además con en. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«En esta resolución del egregio presidente se mezclaron los planes de su política y de su partido, contrarios a los del señor Roosevelt.»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños, 1 (p. 204),"
+                    }
+                  ]
                 }
               ]
             },
@@ -707,41 +905,65 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, para indicar el elemento al que se une algo. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Famosos pastores, si por ventura las niñerías de amor no se mezclaran con las veras de vuestros celebrados escriptos.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Gal. 1 (Cl. C. 154. 162)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«A los Españoles por la mayor parte no parecía muy grave de sufrir, como quiera que no hagan caso ordinariamente los hombres de los daños públicos, cuando no se mezclan con sus particulares intereses.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 1. 18 (1. 382 ), ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mientras vivimos en él [el sueño] no hay hora de placer que no se mezcle con mil de pesares.»",
                   "autor": "Rojas",
                   "referencia_obra": "Villandrando, Viaje entretenido, p. 273. ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Tristezas que se mezclan con sus placeres, | Que dan a sus amores ansias secretas, | Suspiran en los labios de sus mujeres, | Sollozan en los versos de sus poetas.»",
                   "autor": "Jaimes Freyre",
-                  "referencia_obra": ", Poem. p. 79. — Además con en, para expresar la situación o el lugar. ´"
+                  "referencia_obra": ", Poem. p. 79."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para expresar la situación o el lugar. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Mientras Manuel dormitaba en el coche de tercera se amontonaban en su imaginación mil recuerdos; los hechos sucedidos la vispera en casa de sus tíos se mezclaban en su cerebro con fugaces impresiones de Madrid, ya medio olvidadas.»",
+                      "autor": "Baroja",
+                      "referencia_obra": ", La busca, 1. 2 (p. 35). ´"
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Una indefinible emoción en que se mezcla mi sorpresa con la munificencia de vuestros dones, inhibe casi en mí la expresión del agradecimiento.»",
+                      "autor": "Valencia",
+                      "referencia_obra": ", Discursos, 1 (p. 86)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Mientras Manuel dormitaba en el coche de tercera se amontonaban en su imaginación mil recuerdos; los hechos sucedidos la vispera en casa de sus tíos se mezclaban en su cerebro con fugaces impresiones de Madrid, ya medio olvidadas.»",
-                  "autor": "Baroja",
-                  "referencia_obra": ", La busca, 1. 2 (p. 35). ´"
-                },
-                {
-                  "texto_cita": "«Una indefinible emoción en que se mezcla mi sorpresa con la munificencia de vuestros dones, inhibe casi en mí la expresión del agradecimiento.»",
-                  "autor": "Valencia",
-                  "referencia_obra": ", Discursos, 1 (p. 86). —Además con sin, para indicar modo. ´"
-                },
-                {
-                  "texto_cita": "«Nuevo motivo para que se manifestara la creciente zozobra colectiva que ahora se mezcla, sin confundirse, con el crónico temor de las Postrimerías.»",
-                  "autor": "",
-                  "referencia_obra": "Yáñez, Al filo del agua, p. 381."
+                  "id_limpio": "—",
+                  "definicion": "Además con sin, para indicar modo. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Nuevo motivo para que se manifestara la creciente zozobra colectiva que ahora se mezcla, sin confundirse, con el crónico temor de las Postrimerías.»",
+                      "autor": "",
+                      "referencia_obra": "Yáñez, Al filo del agua, p. 381."
+                    }
+                  ]
                 }
               ]
             },
@@ -749,30 +971,37 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en, para expresar situación. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La hermosa joven, --- se sintió atraída hacia él por un afecto en que se mezclaban la simpatía, la codicia y la vanidad como un punzante y sabroso filtro.»",
                   "autor": "Altamirano",
                   "referencia_obra": ", El zarco, 6 (p. 72). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Vas llenando el espacio de un resplandor sereno | En que se mezclan todas | Las absortas miradas de las vírgenes blancas.»",
                   "autor": "Maya",
                   "referencia_obra": ", Obra poét. 2 (p. 121)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con entre. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¡Cómo se mezclan | Entre las mayores dichas, | Los cuidados y las penas!»",
                   "autor": "Mor.",
                   "referencia_obra": "El barón, 1 (p. 296)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -780,42 +1009,52 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Recípr. ´",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Como mezcla de vino y agua se mezclan sus amores, más inseparables que la claridad y el resplandor, más que la esencia y el ser.»",
               "autor": "Menéndez y Pelayo",
               "referencia_obra": ", Estudios, p. 47."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Así juegan con el mundo la fortuna y el tiempo, y así se sucede o se mezclan con perpetua alteración los bienes y los males.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 1. 3 (R. 28. 2092)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Querellas y Suspiros | Cantando en flébil tono | Hacen variados giros, | Y mézclanse en la Danza | Consuelo y Esperanza.»",
                   "autor": "Bello",
                   "referencia_obra": ", Poes. p. 284. ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Llegaba ella un poco tarde, cuando en la Península reinaban dos estilos ---, que comenzaban a mezclarse e interferirse, sobre todo en la decoración de las construcciones románicas.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 215."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -823,121 +1062,148 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No es durable la monarquía que no está mezclada y consta de la aristocracia y la democracia.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 41 (R. 25. 1051)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Aunque en vuestras razones se conoce | La mucha que es seguir su dulce acento, | Ni el tiempo quiere, ni mi honor, que goce | El de un tan acertado pensamiento; | Que el bien mezclado al mal se desconoce.»",
                   "autor": "Valb.",
                   "referencia_obra": "Bern. 4 (R. 17. 1832). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Era el dejo axilar, mezclado a un perfume de jazmín y de algalia.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 88). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Junto a la visión plástica, el paisaje, la vida exterior, se nos llega mezclado a sensaciones táctiles, olfativas, acústicas.»",
                   "autor": "Díaz-Plaja",
                   "referencia_obra": ", Concepto de la lit. esp. p. 69."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mi triste vivir amargo, | Mezclado con mi pesar, | Me fuerça que ande a buscar | Quien quiera tenerme en cargo.»",
                   "autor": "Castillejo",
                   "referencia_obra": ", Obr. de amores (Cl. C. 79. 52)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La verdadera caridad nunca tiene por ganancia propia la que está mezclada con pérdida ajena.»",
                   "autor": "Gran.",
                   "referencia_obra": "Mem. vida crist. 6 (3. 991). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y esta justicia mezclada con el rigor y gravedad de la pena induze aquel horror y compassión que es necessario en la tragedia.»",
                   "autor": "Cascales",
                   "referencia_obra": ", Tablas poét. 3 (Cl. C. 207. 187)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Alguna severidad grave es menester que halle el súbdito en la frente del príncipe, y algo ---, que señale la potestad suprema, mezclada de tal suerte la severidad con el agrado, que obren afectos de amor y respeto.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 39 (R. 25. 1001). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La vista del sobrescrito, cuya letra reconoció al punto, le llenó de contento, mezclado con alguna inquietud y extrañeza.»",
                   "autor": "Valera",
                   "referencia_obra": ", Pasarse de listo, 19 (5. 215). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No le pidamos ternuras ni misticismos; si algún rasgo elegante y gracioso se le ocurre, siempre irá mezclado con imágenes de martirio.»",
                   "autor": "Menéndez y Pelayo",
                   "referencia_obra": ", Estudios, p. 34. ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Había conseguido unir a sus súbditos en un sentimiento común respecto a él; un sentimiento de odio mezclado con desprecio.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Por tierras de Port. y Esp. p. 31. ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Manuel sentía por ella un anhelo doloroso de posesión, mezclado con una gran tristeza y hasta con odio, al ver que la Justa se reía de él.»",
                   "autor": "Baroja",
                   "referencia_obra": ", La busca, 3. 7 (p. 178)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "—γ γ )",
               "id_limpio": "—γ γ )",
               "definicion": "Con de. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Los transeúntes nos cedían el paso desde lejos, y luego se paraban a contemplarla con cierto asombro mezclado de codicia.»",
                   "autor": "Pereda",
                   "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 193). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El pobre señor sentía un profundísimo respeto, mezclado de admiración, por su sobrina Gertrudis.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", La tía Tula, 1 (p. 29). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Apenas y muy a flor de alma deslizábase a ratos una sombra de angustia, pero mezclada de placer apasionante.»",
                   "autor": "Gallegos",
                   "referencia_obra": ", Cantaclaro, p. 87. ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Cree en la vida, sin darse cuenta, con una fe mezclada de odio y de indignación.»",
                   "autor": "",
                   "referencia_obra": "Torres, Dostojevsky (Tres inventores, p. 188)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Más guerras han nacido de las promesas hechas y no cumplidas que de las injurias, porque en las injurias no siempre va mezclado el interés, como en lo prometido.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 11 (Cl. C. 76. 115)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -945,28 +1211,34 @@
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "Part. adj. ´",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Estos no son sepulcros. Son osarios, donde, mezclados y revueltos, duermen el comercio, la industria, la buena fe, el negocio.»",
               "autor": "Larra",
               "referencia_obra": ", Artíc. polít. y soc. (Cl. C. 77. 262). ´"
             },
             {
+              "marca": "",
               "texto_cita": "«Son las dichas, exentas de cuidados, | De nuestra alma ilusiones engañosas; | La fe, la duda y el amor, mezclados, | Son el fondo entrañable de las cosas.»",
               "autor": "Campoamor",
               "referencia_obra": ", Poes. (Cl. C. 40. 175). ´"
             },
             {
+              "marca": "",
               "texto_cita": "«Los vicios i el crimen, calumnia i mentira... | Mezclados se observan allá en la ciudad, | I en este recinto tan sólo se mira | Emblema siniestro de eterna verdad.»",
               "autor": "",
               "referencia_obra": "Garífa Gutiérrez, Obr. complet. p. 352. ´"
             },
             {
+              "marca": "",
               "texto_cita": "«Sin embargo, no es difícil hallar —aun en los períodos más iconoclastas y mezclados— las huellas de los polos históricos que acabamos de estudiar.»",
               "autor": "Díaz-Plaja",
               "referencia_obra": ", Concepto de la lit. esp. p. 22."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -974,107 +1246,140 @@
     {
       "id": "2",
       "definicion": "Referido a personas.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Incluirse, inmiscuirse en alguna entidad, asunto o acontecimiento (refl.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Que un poder aquí supremo, | Invisible se ha mezclado, | Poder que siento y no temo, | A llevar determinado | Esta aventura al extremo.»",
               "autor": "Espronc.",
               "referencia_obra": "Estud. de Salam. (Cl. C. 47. 325)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, para expresar la entidad o asunto en que se introduce. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Nada más trágico que estas decisiones en estas buenas mujeres que no se han mezclado jamás a los rebullicios y bataholas del mundo.»",
                   "autor": "Azorín",
                   "referencia_obra": ", El paisaje de Esp. 4 (p. 430). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si Boves vence, la República se pierde. Lo sabe, pero no puede mezclarse a la batalla; algo lo sujeta inmóvil.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 12 (p. 159). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«A los diecisiete años, Raleigh se mezcla a un ejército de voluntarios. Va a pelear a Francia, con los hugonotes, contra los católicos.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 1. 9 (p. 164). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El mandamiento cristiano de sepultar a los muertos y cierto anhelo romántico de mezclarse al misterio de",
                   "autor": "",
                   "referencia_obra": ""
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«la señorita del caserón\" ---.»",
                   "autor": "Barrios",
                   "referencia_obra": ", Gran señor y rajadiablos, p. 125."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en, para expresar el asunto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Todos, así Eclesiásticos como seglares, se mezclaban en esta trama.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 12. 11 (1. 6071)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ya hoy con aplausos del sosiego público vemos ejecutadas las buenas máximas políticas en aquella república, y que atiende ---, sin haberse querido rendir a las continuas instancias de Francia ni mezclarse en las guerras presentes.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 85 (R. 25. 2062)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Rehusó [Augusto] de dar a su hija a caballero romano que pudiese causar inconvenientes, y trató de dalla a Próculo y a otros de conocida quietud y que no se mezclaban en los negocios de la república.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 100 (R. 25. 2622). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En todas partes se introduce, se para en los cantones, mézclase en las pláticas, ingiérese en los corrillos sin dejar caer sus orejas palabra alguna de la boca de los circunstantes.»",
                   "autor": "Torres Villarroel",
                   "referencia_obra": ", Visiones y visitas (Cl. C. 161. 169)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Con tal que las comedias no perturben el orden público --- el gobierno no debe mezclarse en si observan o no las reglas del arte.»",
                   "autor": "Clem.",
                   "referencia_obra": "Coment. 1. 48 (3. 411). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y en cosas de cada uno nadie tiene que mezclarse; siempre tuve mis opiniones como mis vestidos.»",
                   "autor": "Larra",
                   "referencia_obra": ", Artíc. polít. y soc. (Cl. C. 77. 43). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Cervantes prefirió mezclarse en las tropas y correr mundo antes que reducirse al silencio de la Universidad.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Estud. mesa redonda, 5 (p. 86). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Usted sabe cuán grave pecado es el mezclarse en asuntos de conciencia sin estar autorizado para ello?»",
                   "autor": "",
-                  "referencia_obra": "Yáñez, Al filo del agua, p. 272. — Además con la expresión a título de. ´"
-                },
+                  "referencia_obra": "Yáñez, Al filo del agua, p. 272."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Tendencia natural de todos los gobiernos ha sido siempre --- la de mezclarse y entrometerse en los negocios de los particulares a título de protección y amparo.»",
-                  "autor": "Martínez Silva",
-                  "referencia_obra": ", Ensayos, p. 139."
+                  "id_limpio": "—",
+                  "definicion": "Además con la expresión a título de. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Tendencia natural de todos los gobiernos ha sido siempre --- la de mezclarse y entrometerse en los negocios de los particulares a título de protección y amparo.»",
+                      "autor": "Martínez Silva",
+                      "referencia_obra": ", Ensayos, p. 139."
+                    }
+                  ]
                 }
               ]
             }
@@ -1084,30 +1389,37 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part. Con a. ´",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Las primeras cartas, cartas de hombre privado, que van desde la que en marzo de 1799 dirige en el puerto de Veracruz, a su tío, don Pedro Palacios, hasta las primeras que como hombre mezclado al movimiento político, aparecen en la colección con una nota protocolaria.»",
               "autor": "Rueda Vargas",
               "referencia_obra": ", Lentus in umbra, p. 11."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No me ha preguntado usted por qué estoy aquí mezclado en esta aventura insensata —prosiguió—; pero voy a explicárselo.»",
                   "autor": "Gallegos",
                   "referencia_obra": ", Cantaclaro, p. 224. ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Lucía ---, aceptó su condición a riesgo de que Rigoberto, el traidor, anduviese también mezclado en la guerra y esta intervención atrajese mayores dificultades.»",
                   "autor": "Osorio Lizarazo",
                   "referencia_obra": ", El camino en la sombra, p. 113."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1116,86 +1428,121 @@
     {
       "id": "b)",
       "definicion": "Confundirse, juntarse (refl.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Americanos, ingleses, franceses, criollos se mezclaban, rubios pálidos, bronceados.»",
               "autor": "Uslar-Pietri",
               "referencia_obra": ", Lanzas coloradas, 4 (p. 51),"
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Comprendió o vio que asentía con la cabeza, y fue como si ella lo renegara. La sintió mezclarse a los otros, tomar su consistencia y naturaleza. Hacérsela enemiga.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 9 (p. 116). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Cuando no podamos pasear por el campo, peregrinemos por las calles. Mezclémonos a la multitud y vayamos indicando en los rostros de los transeúntes sus cuitas y sus afanes.»",
                   "autor": "Azorín",
                   "referencia_obra": ", Trasuntos de Esp. p. 149."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Los moros se començaron a retraer dentro de la cibdad, y muchos buenos cavalleros se mezclaron con ellos.»",
                   "autor": "",
                   "referencia_obra": "Tirante el Blanco, 2 (Cl. C. 189.91). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ya está dicho que éssos no son malos, pero que en la heroyca conuiene no sean ansí todos, sino que se mezclen con los peregrinos, de los quales viene la grandeza a la oración.»",
                   "autor": "L. Pinciano",
                   "referencia_obra": ", Philosophia (BALH. 21. 199). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pero aquel estrado revelaba que los hombres no podían acercarse públicamente a las jóvenes, conversar libremente, y mezclarse con ellas, como lo autorizan nuestras nuevas costumbres.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Recuerdos de Prov. p. 107. ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Sólo quedaron adentro las gentes en pie. Entre ellos el capitán y Bernardo, que tuvieron buen cuidado de abandonar el banco y mezclarse con los otros.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 10 (p. 139). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Al fin nos mezclamos con la muchedumbre, que avanza como un río por el desfiladero de la calle.»",
                   "autor": "Mallea",
                   "referencia_obra": ", Los Rembrandts, p. 98. ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Yo hubiera querido mezclarme mejor con la tripulación, comiendo del matalotaje que creen demasiado tosco para paladares finos.»",
                   "autor": "Carpentier",
                   "referencia_obra": ", Los pasos perdidos, p. 121. ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Sus compañeras de clase se sorprendieron de que la tuvieran apartada, en una silla de espaldar muy alto, y de que ni siquiera se mezclara con ellas durante el recreo.»",
                   "autor": "García Márquez",
-                  "referencia_obra": ", Cien años de soledad, p. 192. — Además con para y una prop. infinitiva. ´"
+                  "referencia_obra": ", Cien años de soledad, p. 192."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con para y una prop. infinitiva. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«En la casa de sus huéspedes, jamás se consiguió sentarlo a la mesa común; en la escuela era altivo, huraño y solitario; no se mezclaba con los demás niños sino para encabezar actos de rebelión.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Facundo, 21 (p. 83)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«En la casa de sus huéspedes, jamás se consiguió sentarlo a la mesa común; en la escuela era altivo, huraño y solitario; no se mezclaba con los demás niños sino para encabezar actos de rebelión.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Facundo, 21 (p. 83). — Además con por, para expresar el sitio. ´"
-                },
-                {
-                  "texto_cita": "«Don Luis... Dispondréis criados de confianza que se mezclen por los mercados con los correos del pueblo y digan cómo esto no es prisión, sino guarda y reclusión de la persona del Príncipe.»",
-                  "autor": "Pemán",
-                  "referencia_obra": ", Felipe II, 1. 12 (p. 88)."
+                  "id_limpio": "—",
+                  "definicion": "Además con por, para expresar el sitio. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Don Luis... Dispondréis criados de confianza que se mezclen por los mercados con los correos del pueblo y digan cómo esto no es prisión, sino guarda y reclusión de la persona del Príncipe.»",
+                      "autor": "Pemán",
+                      "referencia_obra": ", Felipe II, 1. 12 (p. 88)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1203,43 +1550,61 @@
               "id_marcador_html": "—γ γ )",
               "id_limpio": "—γ γ )",
               "definicion": "Con en. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El chico estaba envanecido; llegó a Madrid; sus amigotes le llevaron a La Fontana; habló; a la mañana siguiente se mezcló en el tumulto de la procesión del retrato de Riego.»",
                   "autor": "P. Galdós",
                   "referencia_obra": ", La fontana de oro, 20 (p. 188). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Poco después se separó de mí para mezclarse en cada uno de los grupos.»",
                   "autor": "Nervo",
                   "referencia_obra": ", Obr. p. 9."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "—δ δ )",
               "id_limpio": "—δ δ )",
               "definicion": "Con entre. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y esto, y lo que en este discurso dijere, no se entiende de todos los que piden limosna, que entre ellos habrá buenos, virtuosos y ciertos, sino de los que, por no trabajar y andar perdidos, se mezclan entre ellos.»",
                   "autor": "Herr.",
                   "referencia_obra": "Amparo de pobres (Cl. C. 199. 25). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Nada me debéis, pues fue | Capricho el que me mezclara | entre los vuestros.»",
                   "autor": "Cañizares",
                   "referencia_obra": ", Picarillo en Esp. (Dramát. post. a Lope, p. 531). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Entre ellos se mezclaban llaneros ágiles, tomaban una mujer a la fuerza y la metían en el vértigo de sus danzas furiosas.»",
                   "autor": "Uslar-Pietri",
-                  "referencia_obra": ", Lanzas coloradas, 10 (p. 140). — Además con la prep. con. ´"
-                },
+                  "referencia_obra": ", Lanzas coloradas, 10 (p. 140)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Lo común era que observasen desde andamios, alzados al propósito, las suertes y lances de la caza, sin que fuese raro ver a las más varoniles y arriscadas bajar de sus catafalcos a lanzar los halcones, o tal vez a mezclarse, con su venablo en mano, entre los cazadores y las fieras.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "Mem. sobre espect. (Cl. C. 110. 241)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Lo común era que observasen desde andamios, alzados al propósito, las suertes y lances de la caza, sin que fuese raro ver a las más varoniles y arriscadas bajar de sus catafalcos a lanzar los halcones, o tal vez a mezclarse, con su venablo en mano, entre los cazadores y las fieras.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "Mem. sobre espect. (Cl. C. 110. 241)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1249,16 +1614,28 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Recípr. Con en, para señalar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En la llanura | Aquivos y Troyanos se mezclaban | Unos con otros.»",
               "autor": "",
-              "referencia_obra": "Hermosilla, Iliada, 7 (1. 217). — Además con sin."
-            },
+              "referencia_obra": "Hermosilla, Iliada, 7 (1. 217)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Se apearon y acercaron ambas comitivas, mezclándose sin recelo y con notable cordialidad.»",
-              "autor": "A. Saav.",
-              "referencia_obra": "Masan. 2. 21 (5. 271)."
+              "id_limpio": "—",
+              "definicion": "Además con sin.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Se apearon y acercaron ambas comitivas, mezclándose sin recelo y con notable cordialidad.»",
+                  "autor": "A. Saav.",
+                  "referencia_obra": "Masan. 2. 21 (5. 271)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1267,76 +1644,94 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part. ´",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Estaban allí, reunidos y mezclados, el negro y el mulato, el indio y el blanco, --- resueltos también entre pasiones, hábitos, preocupaciones y esperanzas diferentes.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 3 (p. 273). ´"
             },
             {
+              "marca": "",
               "texto_cita": "«Desde la conquista, iban en los ejércitos mezclados poetas y militares, y hasta los que parecían apenas trashumantes desheredados de la cultura hacían brillar de pronto la chispa de su ingenio.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Estud. mesa redonda, 4 (p. 74). ´"
             },
             {
+              "marca": "",
               "texto_cita": "«Es clásica la observación de que la vida de un barco establece las diferencias sociales con una irritante nitidez. En la vida de tierra vivimos todos mezclados.»",
               "autor": "Marañón",
               "referencia_obra": ", Tiempo viejo, p. 37."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. Con. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Chanfaina seguia mezclado con los acompañantes de la banda del Carampangue, no lejos del ñato y de su comitiva de chiquillos.»",
                   "autor": "Blest Gana",
                   "referencia_obra": ", El loco Estero, p. 107. ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En el fondo de sus espíritus se revolvían las herencias contrarias; los abuelos heroicos mezclados con los malos hombres, los religiosos con los locos.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 2 (p. 27)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«A este género, fiel representación de la vida, en que se hallan mezclados como en el mundo reyes y vasallos, grandes y pequeños, intereses públicos y privados, pertenece La Conjuración de Venecia.»",
                   "autor": "Larra",
                   "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 144)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con entre. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Contamos más de treinta adultos mezclados entre la imberbe turba, tanta era la novedad que causaba aquella inusitada muchedumbre.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Recuerdos de Prov. p. 119."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con por, para expresar el sitio. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Don Fadrique, escapad: no puedo guardar más vuestra persona; andan los nuestros y los imperiales mezclados por las calles.»",
                   "autor": "A. Saav.",
                   "referencia_obra": "Don Álvaro, 4 (Cl. C. 206. 107)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1344,13 +1739,16 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "En el siguiente texto, Pelear cuerpo a cuerpo. Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No rehusaron ellos la pelea, y mezclándose los escuadrones, se herían cruelmente.»",
               "autor": "Capm.",
               "referencia_obra": "Teatro (4. 404)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1358,27 +1756,42 @@
     {
       "id": "c)",
       "definicion": "Tratar con personas diferentes (refl.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con la prep. con. ´",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Iríamos a mezclarnos con los O’Farrilles, Urquijos y Morlas; con los Caballeros, Arribas y Marquinas, para ser, como ellos, insultados y despreciados por los insolentes?»",
               "autor": "Jovell.",
               "referencia_obra": "Def. de la Junta Central, 1 (Cl. C. 111. 187). ´"
             },
             {
+              "marca": "",
               "texto_cita": "«!Juyero, juyero¡¿No sabés quénes tan aquí? ¿Querés que te saquemos a palos? ¿Por qué te mezclás con estos cabayeros, que son mis clientes y amigos queríos?»",
               "autor": "Rivera",
-              "referencia_obra": ", La vorágine, 1 (p. 75). — Además con en, para indicar el sitio."
-            },
+              "referencia_obra": ", La vorágine, 1 (p. 75)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Fue el primero [Juan de la Cueva] que mezcló en el teatro los reyes y los príncipes con las personas ordinarias.»",
-              "autor": "Quint.",
-              "referencia_obra": "Poes. épica cast. (R. 19. 1641)."
+              "id_limpio": "—",
+              "definicion": "Además con en, para indicar el sitio.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Fue el primero [Juan de la Cueva] que mezcló en el teatro los reyes y los príncipes con las personas ordinarias.»",
+                  "autor": "Quint.",
+                  "referencia_obra": "Poes. épica cast. (R. 19. 1641)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1388,67 +1801,83 @@
     {
       "id": "d)",
       "definicion": "Referido a familias, linajes, Enlazar unos con otros (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con la prep. con. ´",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y si te parece que has de aniquilar tu sangre por mezclarla con la mía, considera que pocas o ninguna nobleza hay en el mundo que no haya corrido por este camino.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 36 (Cl. C. 8. 289)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl. Con la prep. con. ´",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pasaron al grande esplendor conque su sangre se había mezclado con todos los monarcas y reyes de Europa en los repetidos casamientos con Francia.»",
               "autor": "Quev.",
               "referencia_obra": "Hora de todos (Cl. Castal. 67. 136). ´"
             },
             {
+              "marca": "",
               "texto_cita": "«Jamás se mezcla su raza | Con más raza que la suya, | Y no hay poder que destruya | Su raza y su religión.»",
               "autor": "Zorrilla",
               "referencia_obra": ", Poes. (Cl. C. 63. 82)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Prnl. ´",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Sean cuales fueren los cruces de razas, sea cual fuere la sangre material que a la primitiva se mezcle, mientras un pueblo hable en español, pensará y sentirá en español también.»",
               "autor": "Unamuno",
               "referencia_obra": ", Por tierras de Port. y Esp. p. 113. ´"
             },
             {
+              "marca": "",
               "texto_cita": "«Vivían aquellos pueblos de la pesca en las lagunas de Huanacache en cuyas orillas permanecen aún reunidos y sin mezclarse sus descendientes, los laguneros; de la siembra del maíz.»",
               "autor": "D. F. Sarmiento",
               "referencia_obra": ", Recuerdos de Prov. p. 23."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a. Además con para y una prop. infinitiva, que expresa la finalidad. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y los escoceses acaban mezclándose a la población de Jamaica para formar uno de los mejores grupos de la colonia.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 2. 13 (p. 252)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1456,62 +1885,77 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Recípr. ´",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cada señor feudal aspiraba a coronarse rey, y cada rey a ceñirse la corona de Constantino. En el vaivén de razas que se mezclan.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 204."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Part. ´",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ya están mezclados | Linajes y costumbres.»",
               "autor": "Jáur.",
               "referencia_obra": "Aminta (Cl. C. 183. 121)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Probablemente las dos eran familias mezcladas de nobleza goda e hispana.»",
                   "autor": "Mndz. Pidal",
                   "referencia_obra": ", Miscelánea hist.-lit. p. 49."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por esta senda sube [el gentil Toscano] al alto assiento | Lasso, gloria inmortal de toda España, | Mesclado en el sagrado ayuntamiento.»",
                   "autor": "Herr.",
                   "referencia_obra": "Poes. égl. 1 (Cl. C. 26. 61)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con entre. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Considerando él que con la hermosura de ella había querido disimular su veneno y afrentar la sangre de Venus, de que se hizo, y que mezclada entre otras pudiera haber hecho a los dioses el daño que la guirnalda de Cleopatra a Marco Antonio.»",
                   "autor": "Lope",
                   "referencia_obra": ", Arcadia (Cl. Castal. 63. 117)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1520,12 +1964,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: ´ «Es un xarope mezclado | De un plazer y mil tristuras, | Desleído con cuidado.» Encina, Poes. lír. (Cl. Castal. 62. 133). ´ «Era cauallero esforçado, e ante de la fazienda cuerdo y templado, e puesto en ella, era ardid e osado; e ni su osadía era sin tiento, ni en su cordura se mescló jamás punto de couardía.» Pulgar, Clar. var. 4 (Cl. C. 49. 39). ´ «Alli es mesclada grand parte de echino, | El qual, aunque sea muy pequeño pez, | Muchas vegadas e non una vez | Retiene las fustas que van su camino.» Mena, Lab. (Cl. C. 119. 125). ´ «Por ende, monarca, señor valeroso, | El regio çeptro de vuestra potençia | Fiera mesclando rigor con clemençia.» Id. ib. (Cl. C. 119. 63). ´ «Mezclan en ello almisque e algalia, clavo de girofre, remojados dos días en agua de hazaar, o flor de azahar con ello mesclado.» Arc. de Talav. Corbacho (Cl. Castal. 24. 134).\n\n— Siglo XIV: ´ «Los que quieren partirnos, como fecho lo han, | Mescláronme con ella, dixiéronle de plan | Que me loava della como buena caça, | E porfaçaba della si fues’ çaraça.» Arc. de Hita, 93 (Cl. C. 14. 44).\n\n— Siglo XIII: ´ «A los que andaban mezclando a otros nos habíe sabor de los oír, et queríelos mal por ellos, et tollíelos muy de grado de las honras en que eran tanto que fallaban razón porqué.» Alf. X, Antol. p. 34. ´ «Et por tal encubierta fueron los homnes engañados, e dieron los castiellos et las fortalezas de las villas; et fincaron los cristianos mezclados con los alárabes, et aquellos hobieron nombre dallí adelante mozárabes.» Id. ib. p. 108. ´ «El obrar por el saber es conoscer las cosas e departir las cosas, e obrar por la nescedat es mesclar las cosas e dexar-las en dubda.» Boc. de oro, p. 74. ´ «Començaron el pl[e]ito do lo avýan dexado, | Llamado ‘Santyago?, el apóstol onrrado; | Las fazes fueron vueltas, el torneo mesclado, | Byen avýan castellanos aquel mester usado.» Fern. Gonz. 19 (Cl. C. 128. 150). ´ «En tal hora hi fue entrada, | Que toda la villa fue mesclada, | E tanta sangre fue derramada, | Que toda la villa fue menguada, | E las villas de enderredor | Todas eran en grant error.» S. M. Egipc. p. 115.\n\n— Siglo XII: ´ «De parte de los moros dos señas ha cabdales, | E los pendones mezclados, ¿quí los podrié contar? | Las azes de los moros yas mueven adelant, | Por a mío Çid e a los sos a manos los tomar.» Cid, 699 (Cl. C. 24. 147).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del bajo lat. misculare. Cat. y port. mesclar, fr. mêler, mélonger, it. mescolare, mischiare.",
+  "etimologia": "Etim. Del bajo lat.<i> misculare</i>. Cat. y port.<i> mesclar</i>, fr.<i> mêler</i>,<i> mélonger</i>, it.<i> mescolare</i>,<i> mischiare</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 1, β, α - 2, δ, α.\n\n— Pασ.: 1, β, β.\n\n— Pασ. ρεφλ.: 1, α, β - 1, β, γ.\n\n— Rεφλ.: 1, α, γ - 1, β, γ - 2, α, α - 2, β, α - 2, χ, α - 2, δ, β.\n\n— Rεχíπρ.: 1, α, δ - 1, β, ε - 2, β, β - 2, β, δ - 2, δ, δ.\n\n— Pρνλ.: 2, δ, γ.\n\n— Pαρτ.: 1, a, ε - 1, β, ζ - 2, α, β - 2, β, γ - 2, δ, ε.\n\n— Pαρτ. adj. : 1, b, η.\n\n— Cον δατ.: 1, α, α, α α - 1, a, γ, β β - 1, b, δ.\n\n— Cον α: εν γενεραλ.\n\n— Cον λα πρεπ. χον: εν γενεραλ.\n\n— Cον δε: 1, α, α, δ δ - 1, b, β - 1, β, ζ, γ γ - 2, d, ε, α α.\n\n— Con en: en general.\n\n— Con entre: 1, b, α, δ δ - 1, b, δ, δ δ - 2, b, α, δ δ - 2, b, γ, γ γ - 2, d, ε, γ γ.\n\n— Con hasta: 1, a, α, α α.\n\n— Con para: 1, a, β, β β - 1, b, α, ε ε -1, b, γ, γ γ - 2, b, α, β β - 2, d, γ, α α.\n\n— Con por: 1, a, α, ζ ζ - 2, b, α, β β - 2, b, γ, δ δ.\n\n— Con sin: 1, b, δ, β β - 2, b, β.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 1, β, α - 2, δ, α.\n\n— Pασ.: 1, β, β.\n\n— Pασ. ρεφλ.: 1, α, β - 1, β, γ.\n\n— Rεφλ.: 1, α, γ - 1, β, γ - 2, α, α - 2, β, α - 2, χ, α - 2, δ, β.\n\n— Rεχíπρ.: 1, α, δ - 1, β, ε - 2, β, β - 2, β, δ - 2, δ, δ.\n\n— Pρνλ.: 2, δ, γ.\n\n— Pαρτ.: 1, a, ε - 1, β, ζ - 2, α, β - 2, β, γ - 2, δ, ε.\n\n— Pαρτ. adj.: 1, b, η.\n\n— Cον δατ.: 1, α, α, α α - 1, a, γ, β β - 1, b, δ.\n\n— Cον α: εν γενεραλ.\n\n— Cον λα πρεπ. χον: εν γενεραλ.\n\n— Cον δε: 1, α, α, δ δ - 1, b, β - 1, β, ζ, γ γ - 2, d, ε, α α.\n\n— Con en: en general.\n\n— Con entre: 1, b, α, δ δ - 1, b, δ, δ δ - 2, b, α, δ δ - 2, b, γ, γ γ - 2, d, ε, γ γ.\n\n— Con hasta: 1, a, α, α α.\n\n— Con para: 1, a, β, β β - 1, b, α, ε ε -1, b, γ, γ γ - 2, b, α, β β - 2, d, γ, α α.\n\n— Con por: 1, a, α, ζ ζ - 2, b, α, β β - 2, b, γ, δ δ.\n\n— Con sin: 1, b, δ, β β - 2, b, β.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

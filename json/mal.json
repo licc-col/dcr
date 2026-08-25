@@ -6,95 +6,133 @@
     {
       "id": "(I)",
       "definicion": "sust.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "1",
       "definicion": "Dolencia, falta de salud o bienestar.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Referente a lo somático, Enfermedad.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El aceite de enebro, propiamente | Para curar el mal a las ovejas, | Aquí sirve de oficio diferente.»",
               "autor": "",
-              "referencia_obra": "L. Argens, Rimas (Cl. C. 173. 101). X"
+              "referencia_obra": "L. Argens, Rimas (Cl. C. 173. 101)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sé que Doña Estefanía | Todas las veces que os ve, | Del mal que la desatina | Se aligera, y que los dos | Entendiéndose, halla en vos | Su médico y medicina.»",
               "autor": "Tirso",
-              "referencia_obra": ", Amor médico, 3 (Cl. C. 131. 113). X"
+              "referencia_obra": ", Amor médico, 3 (Cl. C. 131. 113)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hice una promesa | A mi hermana y al virrey. | Para atajar estos males | Me lo ordena un padre viejo, | Después de oír el consejo | De personas principales. | A disculpar mi locura | (Dirigiéndose a Bernarda) | Vengo, cual si no bastara | A excusarla, de tu cara | la tentadora hermosura.»",
               "autor": "García Gutiérrez",
               "referencia_obra": ", Juan Lorenzo, 1 (Cl. C. 65. 183)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de sujetivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mucha pena me da el mal de esa priora. Hágala vuestra paternidad tratar bien, y que tomase algunas cosas para esa calentura contina.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Cartas, 119 (R. 55. 1091)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de determinativo. X",
+              "definicion": "Con de determinativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y poniendo agora ejemplo en las enfermedades corporales, vemos que hay un mal de ojos, otro de oídos, otro de corazón, otro de estómago, otro de vientre, y así otros desta cualidad.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Guía, 1. 5 (Cl. C. 97. 48). X"
+                  "referencia_obra": "Guía, 1. 5 (Cl. C. 97. 48)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Uno de los remedios que el Cura y el Barbero dieron, por entonces, para el mal de su amigo fue que le murasen y tapiasen el aposento de los libros, porque cuando se levantase no los hallase.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 7 (Cl. C. 4. 176)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Que si el mal del hígado, que de ordinario le aflige, no es mucho, no dejará de continuar lo que ayer dejó comenzado.»",
                   "autor": "",
                   "referencia_obra": "J. de los Ángeles, Conq. reino de Dios, 6 (p. 210)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Expresiones. — Mal de la muerte: última enfermedad que alguien padece.",
-              "ejemplos_citas": [
+              "definicion": "Expresiones.",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«A poco después cae enfermo en la cama del mal de la muerte.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Festiv. 11 (5. 342). — Mal de ojo: maleficio que, según vanamente se cree, puede una persona ejercer sobre otra mirándola de cierta manera. X"
+                  "id_limpio": "—",
+                  "definicion": "Mal de la muerte: última enfermedad que alguien padece.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«A poco después cae enfermo en la cama del mal de la muerte.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Festiv. 11 (5. 342)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«En las viejas de esta tribu | Supone el vulgo villano | Misterioso, sobrehumano | Y satánico poder: | Atribuye a su mirada | Facultad de hacer mal-de-ojo, | Y a su envidia y a su enojo | Maleficios qué temer.»",
-                  "autor": "Zorrilla",
-                  "referencia_obra": ", Poes. (Cl. C. 63. 80). X"
-                },
-                {
-                  "texto_cita": "«Pero Nasha todavía era insustituible tratándose de curar a los niños del mal de ojo que les ocasionaran personas mal intencionadas o el espanto proveniente de ver al duende en las quebradas y arroyos boscosos.»",
-                  "autor": "Alegría",
-                  "referencia_obra": ", EI mundo es ancho y ajeno, 7 (p. 271)."
+                  "id_limpio": "—",
+                  "definicion": "Mal de ojo: maleficio que, según vanamente se cree, puede una persona ejercer sobre otra mirándola de cierta manera.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En las viejas de esta tribu | Supone el vulgo villano | Misterioso, sobrehumano | Y satánico poder: | Atribuye a su mirada | Facultad de hacer mal-de-ojo, | Y a su envidia y a su enojo | Maleficios qué temer.»",
+                      "autor": "Zorrilla",
+                      "referencia_obra": ", Poes. (Cl. C. 63. 80)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pero Nasha todavía era insustituible tratándose de curar a los niños del mal de ojo que les ocasionaran personas mal intencionadas o el espanto proveniente de ver al duende en las quebradas y arroyos boscosos.»",
+                      "autor": "Alegría",
+                      "referencia_obra": ", EI mundo es ancho y ajeno, 7 (p. 271)."
+                    }
+                  ]
                 }
               ]
             }
@@ -105,83 +143,102 @@
     {
       "id": "b)",
       "definicion": "Referente a lo psíquico, Tristeza, sufrimiento.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Ay, que el mal que ha consumido | La alma, que apenas sostengo, | Nasce del passado olvido, | Y la culpa que he tenido | Causó la pena que tengo!»",
               "autor": "Gil Polo",
               "referencia_obra": ", Diana (Cl. C. 135. 18)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cuantas estrellas tiene el firmamento, | La selva flores y el Euxino arenas, | Tantas y más son, Titino, | Si yo me entrendo con el mal que siento. | Bien es que la ocasión de mi tormento | Tiene principio de las más serenas | Lumbres del cielo.»",
               "autor": "F. de la Torre",
-              "referencia_obra": ", 2, son. 16 (p. 47). X"
+              "referencia_obra": ", 2, son. 16 (p. 47)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y lo que digo | Has de escucharme primero; | Testigo del mal que muero | Será Antonio. | — Buen testigo. | — Con él descansé mi pecho, | Cansado de tus desdenes.»",
               "autor": "G. de Castro",
-              "referencia_obra": ", Los mal casados (Cl. Castal. 76. 178). X"
+              "referencia_obra": ", Los mal casados (Cl. Castal. 76. 178)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Debeisme mucho estimar | Este prudente cuidado | Que un amor mal premiado | Gran sacrificio es callar | Mas ya que tengo de hablar | La pluma hacer lengua quiero | Porque el mal de que yo muero | El tiempo no le consuma, | Que en la lengua de la pluma | Eterno le considero.»",
               "autor": "Salas Barbadillo",
-              "referencia_obra": ", El sagaz Estacio, 2 (Cl. C. 57. 155). X"
+              "referencia_obra": ", El sagaz Estacio, 2 (Cl. C. 57. 155)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Qué Dionisio atormentó | Con celos, mal de que muero, | Que a Nerón, por ser más fiero | Tormento, se le olvidó?»",
               "autor": "Guev.",
               "referencia_obra": "El diablo está en Cantillana, 1 (Cl. C. 132. 106)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con un posesivo. X",
+              "definicion": "Con un posesivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Comenzáronles unos ímpetus grandes de deseo del Señor, que no se podían valer.---. Vino tanto a crecer esta su pena que si no las comulgaban cada día, parecía que se iban a morir: Los confesores, como vían tales almas, y con tan grandes deseos —aunque el uno era bien espiritual— pareciole convenía este remedio para su mal.»",
                   "autor": "Sta. Ter.",
-                  "referencia_obra": "Fund. (Cl. C. 115. 156). X"
+                  "referencia_obra": "Fund. (Cl. C. 115. 156)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Vengo por vuestro consuelo, | Enviada desde el cielo; | Llámome Consolación. | Mi comisión es poner | En vuestro mal medicina.»",
                   "autor": "Castillejo",
-                  "referencia_obra": ", Obr. mor. (Cl. C. 88. 67). X"
+                  "referencia_obra": ", Obr. mor. (Cl. C. 88. 67)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Déjeme en paz con mi mal | Sin darme muerte de celos. --- Quiero sufrir y callar. | ¡Ah, ingrata! De celos muero.»",
                   "autor": "",
-                  "referencia_obra": "M. de Amescua, El esclavo del demonio, 2 (Cl. C. 70. 164). X"
+                  "referencia_obra": "M. de Amescua, El esclavo del demonio, 2 (Cl. C. 70. 164)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Dime tus penas amargas; | Que soy Vargas, y es razón | Que en aquesa confusión | Averigüe tu mal Vargas.»",
                   "autor": "Tirso",
-                  "referencia_obra": ", Averígüelo Vargas, 2 (Cl. C. 131. 217). X"
+                  "referencia_obra": ", Averígüelo Vargas, 2 (Cl. C. 131. 217)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo juzgaba estos días | Pasados, que eran tus melancolías | Vivir de Porcia ausente. | --- No creo ni imagino | Que sea la causa ella, | [Pues que favorecido de tu estrella,] | Con la seña que tienes, | A aquestas rejas cada noche vienes, | Y tu mal no mejora.»",
                   "autor": "Cald.",
                   "referencia_obra": "El pintor de su deshonra, 2 (Cl. C. 142. 177)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Loc. Mal de amores: sufrimiento que ocasiona el estar enamorado. X",
+              "definicion": "Loc. Mal de amores: sufrimiento que ocasiona el estar enamorado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«O tenedes mal de amores, | O estáis loca sandía | — Ni yo tengo mal de amores, | Ni estoy loca sandía.»",
                   "autor": "Rom. viejos",
                   "referencia_obra": "(Cl. Ebro, 9. 93)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -190,221 +247,271 @@
     {
       "id": "2",
       "definicion": "Problema, dificultad.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Sei ya contenta, Fortuna, | Ten ya segura tu rueda; | Cesa ya, pues no me queda | Bien ni esperança alguna, | Ni mal que venir me pueda. | De bienes me has despojado, | Y de males rodeado.»",
               "autor": "Castillejo",
               "referencia_obra": ", Obr. mor. (Cl. C. 88. 50)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Por qué si tan grande mal es carecer del favor y providencia del Señor; cuánto mayor le será haber convertido contra sí las armas desta mesma Providencia?»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 13. 2 (1. 921)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los soldados aflojaban enfadados con la tardanza, y cansados con los males.»",
               "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 18. 12 (2. 1511). X"
+              "referencia_obra": ", Hist. Esp. 18. 12 (2. 1511)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Matadme, señor; matadme! | ¡Blanca en Palacio y yo vivo! | Agravios, honor, pesares, | ¿Cómo, si sois tantos juntos, | No me acaban tantos males?»",
               "autor": "Rojas",
-              "referencia_obra": ", Del rey abajo ninguno (Cl. Castal. 38. 165). X"
+              "referencia_obra": ", Del rey abajo ninguno (Cl. Castal. 38. 165)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Muchas veces he admirado como un error en que han caído aun las gentes más cuerdas y avisadas de este país, el lastimarse de tales emigraciones como de un mal grave y digno de remedio, y más aún que se tratase seriamente de buscar alguno que las disminuyese o evitase del todo.»",
               "autor": "Jovell.",
-              "referencia_obra": "Cartas (Cl. C. 129. 222). X"
+              "referencia_obra": "Cartas (Cl. C. 129. 222)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La Sociedad, examinando este nuevo mal a la luz de sus principios, presentará a vuestra alteza sus largas consecuencias como un efecto de la desigualdad con que las leyes han dispensado su protección.»",
               "autor": "",
               "referencia_obra": "Id. Ley agraria (Cl. C. 110. 143)."
             },
             {
+              "marca": "",
               "texto_cita": "«Manifiesta al rey con nobleza y energía los males que aquejan al reino.»",
               "autor": "",
               "referencia_obra": "M. de la Rosa, Trag. esp. (1. 1121)."
             },
             {
+              "marca": "",
               "texto_cita": "«En medio de tamaños males, ---, estuvo cerrado el teatro por algunos años.»",
               "autor": "",
-              "referencia_obra": "Id. Com. esp. (1. 2001). X"
+              "referencia_obra": "Id. Com. esp. (1. 2001)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Es ese un error profundo | Que nos traerá grandes males: | No son esos dos metales | únicos dueños del mundo, | Ni tan inflexibles son | Que otro poder no los tuerza.»",
               "autor": "García Gutiérrez",
               "referencia_obra": ", Juan Lorenzo (Cl. C. 65. 202)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de sujetivo. X",
+              "definicion": "Con de sujetivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El mal de la situación está, señor, en las desconfianzas que hacen nacer, que acrecen y emponzoñan los aspirantes desesperados y aquellos a quienes la paz desaloja; porque la paz, como la gravitación, impele cada elemento hacia su centro respectivo.»",
                   "autor": "S. Pérez",
                   "referencia_obra": ", Selec. escr. disc. p. 204."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con un posesivo. X",
+              "definicion": "Con un posesivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Que el rey Abies de Irlanda me guerrea, y es con todo su poder en mi tierra ---. Languines le dijo: \" Hermano, mucho me pesa de vuestro mal, e yo vos faré ayuda como mejor pudiere \".»",
                   "autor": "",
-                  "referencia_obra": "Am. de la Gaula (Cl. Ebro, 62. 28). X"
+                  "referencia_obra": "Am. de la Gaula (Cl. Ebro, 62. 28)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Naufragio, no te quejes de Fortuna; | Si de prosapia generosa vienes, | Entiende que sus males y sus bienes | Estables nunca son en parte una.»",
                   "autor": "Timoneda",
-                  "referencia_obra": ", El Patrañuelo, 11 (Cl. C. 101. 118). X"
+                  "referencia_obra": ", El Patrañuelo, 11 (Cl. C. 101. 118)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Dime tu mal, | Y advierte que te oigo bien; | Porque el pobre para mí | Tiene cartas de favor.»",
                   "autor": "Lope",
-                  "referencia_obra": ", El mejor alcalde, el rey, 3 (Cl. C. 39. 243). X"
+                  "referencia_obra": ", El mejor alcalde, el rey, 3 (Cl. C. 39. 243)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Qué fantasma, en la noche temerosa, | El corazón del sueño me desata? | ¿Quién te venga de mí, divina ingrata, | Más por mi mal que por tu bien hermosa?»",
                   "autor": "Quev.",
                   "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 159)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En los siguientes ejemplos toma el sentido de, Daño, perjuicio, ofensa. X",
+          "definicion": "En los siguientes ejemplos toma el sentido de, Daño, perjuicio, ofensa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«E como él es muy benigno, y tiene tal virtud en sí que de su boca jamás sale sino gracia y perdón; e jamás haze minción de ningún mal ni daño que le hagan.»",
               "autor": "",
-              "referencia_obra": "Tirante el Blanco, 2 (Cl. C. 189. 368). X"
+              "referencia_obra": "Tirante el Blanco, 2 (Cl. C. 189. 368)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Ay, triste! | ¿Por qué tanto mal me hiciste?»",
               "autor": "M. de Amescua",
               "referencia_obra": ", El esclavo del demonio, 3 (Cl. C. 70. 221)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Refrán Su afrenta lleva consigo quien mal al bueno desea: algún problema tiene quien le desea daño a una persona honorable. X",
+              "definicion": "Refrán Su afrenta lleva consigo quien mal al bueno desea: algún problema tiene quien le desea daño a una persona honorable.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo, Floro, por muchos modos | Tengo de hacer bien a todos, | Y esto me habrá de guardar. | Su afrenta lleva consigo | Quien mal al bueno desea.»",
                   "autor": "M. de Amescua",
                   "referencia_obra": ", El ejemplo mayor de la desdicha, 1 (Cl. C. 82. 156)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Loc. Volver mal por mal: corresponder de la misma manera negativa a una acción. X",
+          "definicion": "Loc. Volver mal por mal: corresponder de la misma manera negativa a una acción.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El mundo todo contra mí conspira, | Y todo me aborrece mortalmente; | Yo vuelvo mal por mal, guerra por guerra.»",
               "autor": "",
-              "referencia_obra": "Marchena, Epist. de Abelardo (Poesía Siglo XVIII; Cl. Castal. 65. 347). X"
+              "referencia_obra": "Marchena, Epist. de Abelardo (Poesía Siglo XVIII; Cl. Castal. 65. 347)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Luego nunca debe cometerse injusticia ni volver mal por mal, sea lo que se quiera lo que se nos haya hecho.»",
               "autor": "Azorín",
               "referencia_obra": ", La voluntad (Cl. Castal. 3. 116)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Expresiones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "¡Mal haya o mal hayas!: exclamación imprecatoria. X",
+              "definicion": "¡Mal haya o mal hayas!: exclamación imprecatoria.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mal hayan las totolillas, | Mal haya el tronco y el olmo | De do salieron las varas | Que el vulgo ha tirado al toro.»",
                   "autor": "Lope",
-                  "referencia_obra": ", Poes. lír. (CI.C. 68. 31). X"
+                  "referencia_obra": ", Poes. lír. (CI.C. 68. 31)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A la fe, que no se alaben | De aquesta fiesta los mozos. | ¡Oh, mal hayas, el novillo!»",
                   "autor": "",
-                  "referencia_obra": "Id. Peribáñez, 1 (Cl. C. 159. 15). X"
+                  "referencia_obra": "Id. Peribáñez, 1 (Cl. C. 159. 15)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Mal haya yo si jamás | Diera nada!»",
                   "autor": "M. de Amescua",
-                  "referencia_obra": ", Pedro Telonario (Cl. C. 70. 252). X"
+                  "referencia_obra": ", Pedro Telonario (Cl. C. 70. 252)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Enone te dio la mano de esposa: mal hayan pechos ingratos que con fortunas se mudan.»",
                   "autor": "Lozano",
                   "referencia_obra": ", Hist. y Ley. 16 (Cl. C. 120. 162)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Para su mal: en contra de su beneficio. X",
+              "definicion": "Para su mal: en contra de su beneficio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«O tu que estás sepultado | En el sueño del olvido, | Si para tu bien dormido, | Para tu mal desvelado, | Dexa el letargo pessado | Despierta un poco advierte.»",
                   "autor": "Solís",
-                  "referencia_obra": "y Valenzuela, El desierto prodigioso, 1 (ICC. 45. 120). X"
+                  "referencia_obra": "y Valenzuela, El desierto prodigioso, 1 (ICC. 45. 120)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Para tu mal lo he mirado. | Ya no mía, del bagaje | Del ejército has de ser.»",
                   "autor": "Lope",
-                  "referencia_obra": ", Fuente Ovejuna (Cl. Castal. 10. 112). X"
+                  "referencia_obra": ", Fuente Ovejuna (Cl. Castal. 10. 112)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Para mal de México, se entronizó desde la caída de Madero otra vez el régimen de la fuerza.»",
                   "autor": "Vasconcelos",
                   "referencia_obra": ", Educación (Indología, p. 155)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Por su mal: con el mismo sentido anterior. X",
+              "definicion": "Por su mal: con el mismo sentido anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Allí estuve mucho tiempo capitán de las villas y fortalezas que el rey tiene en aquella costa, teniendo mi propio assiento en la villa de Ceuta, donde fue el principio de mi desventura. Allí, por mi mal, había un noble y señalado caballero, nombrado Eugerio.»",
                   "autor": "Gil Polo",
-                  "referencia_obra": ", Diana (Cl. C. 135. 42). X"
+                  "referencia_obra": ", Diana (Cl. C. 135. 42)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Aun vives? —Por mi mal; el hado adverso | Me ha negado aplacarte con mi sangre.»",
                   "autor": "M. de la Rosa",
                   "referencia_obra": ", La viuda de Padilla, 5. 2 (Cl. C. 107. 149)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -413,39 +520,48 @@
     {
       "id": "3",
       "definicion": "En lo moral o religioso, Lo contrario a las normas o preceptos.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y parecíame nunca había tenido mal.»",
               "autor": "Yepes",
-              "referencia_obra": ", Vida de Sta. Ter. 2. 29 (Míst. 1. 238). X"
+              "referencia_obra": ", Vida de Sta. Ter. 2. 29 (Míst. 1. 238)."
             },
             {
+              "marca": "X",
               "texto_cita": "«“Dos cosas te rogué, no me las niegues antes que me muera”. Destas dos cosas tan deseadas deste sabio, la una es que le aparte Dios de un mal y es el que v. md. tanto ama; la otra, que le conceda un bien, y es el que v. md. tanto aborrece. La primera petición es: Haz lejos de mi la vanidad y las palabras mentirosas.»",
               "autor": "Nieremb.",
-              "referencia_obra": "Epíst. 73 (Cl. C. 30. 237). X"
+              "referencia_obra": "Epíst. 73 (Cl. C. 30. 237)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La inocencia es tan tarda en sospechar el mal, como pronta y franca en decirle.»",
               "autor": "Jovell.",
-              "referencia_obra": "Cartas (Cl. C. 129. 237). X"
+              "referencia_obra": "Cartas (Cl. C. 129. 237)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dios mismo se nos ofrecerá como un monstruo de crueldad y tiranía si, haciendo abstracción de su bondad, de su sabiduría, de su justicia, no entendemos a otra cosa que a los males que presenciamos en un mundo creado por su poder y sujeto a su providencia.»",
               "autor": "Balmes",
-              "referencia_obra": ", Protest. (BALH. 48. 327). X"
+              "referencia_obra": ", Protest. (BALH. 48. 327)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Te daremos bellas teorías para tu tranquilidad. La lucha por la vida... El mal inevitable para llegar al bien necesario... La caridad bien entendida...»",
               "autor": "Buero Vallejo",
               "referencia_obra": ", El tragaluz (Cl. Castal. 35. 257),"
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -453,97 +569,120 @@
     {
       "id": "(II)",
       "definicion": "adv. Señala en general una carencia, falla o deficiencia en la acción o estado a que se aplica.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "4",
-      "definicion": "Referente a los estados de los objetos físicos. X",
+      "definicion": "Referente a los estados de los objetos físicos.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«En los tiempos antiguos y antes de la invención de la imprenta, la Historia, viviendo a la ventura de rebuscos o de eventuales hallazgos, más se podía considerar como un espejo mal azogado, que sólo representaba a trozos objetos informes.»",
           "autor": "Larra",
-          "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 245). X"
+          "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 245)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Yo no necesito | Corazas de ese valor. | La de mal curtido cuero | Que llevo, y ¡sin espaldar! | No la ha podido horadar | Villano ni caballero.»",
           "autor": "García Gutiérrez",
           "referencia_obra": ", Venganza catal. 4 (Cl. C. 65. 127)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "5",
-      "definicion": "Referido a acciones corporales de los seres animados. X",
+      "definicion": "Referido a acciones corporales de los seres animados.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«De cuatro rayos con crines, | Generación española, | De unos cometas con cola, | O aves, y al fin rocines, | Que andan bien y vuelan mal.»",
           "autor": "Rojas",
           "referencia_obra": ", Del rey abajo ninguno (Cl. Castal. 38. 86)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "6",
       "definicion": "Tocante a operaciones de la mente o del ánimo.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Basta, que vienen todos los cristianos. | Mal hice en presumir de un hombre noble | Una bajeza igual.»",
               "autor": "Lope",
               "referencia_obra": ", El remedio en la desdicha, 2 (Cl. C. 39. 124)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Aplicado a lo inmaterial. X",
+          "definicion": "Aplicado a lo inmaterial.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Asmo pensáys... ¿cudás yo | Soy tan ruyn como pensáys? | Pues aun mal lo ymagináys.»",
               "autor": "Fernández",
-              "referencia_obra": ", Farsas y égl. (Cl. Castal. 72. 92). X"
+              "referencia_obra": ", Farsas y égl. (Cl. Castal. 72. 92)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo, como ruin, heme sabido mal defender.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cam. perf. (Cl. Espasa, 98. 5)."
             },
             {
+              "marca": "",
               "texto_cita": "«Solamente me recelo de unos, que quieren guiar por sí a todas, y que aprueban mal lo que no ordenan ellos.»",
               "autor": "León",
-              "referencia_obra": ", dedic. Obr. Sta. Ter. (4. 214). X"
+              "referencia_obra": ", dedic. Obr. Sta. Ter. (4. 214)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dice Cerda que el épico debe dar fin trágico a su poema, y que, de no hacerlo, es digno de reprehensión; --- en que dice haber pecado Homero y Ariosto, por haber mal cumplido esta parte.»",
               "autor": "Cascales",
               "referencia_obra": ", Cartas filológ. 2 (Cl. C. 117. 32)."
             },
             {
+              "marca": "",
               "texto_cita": "«No llegaban a penetrar las dudas del ánimo, mal persuadidos de la apariencia.»",
               "autor": "Melo",
-              "referencia_obra": ", Guerra de Catal. 2 (R. 21. 4772). X"
+              "referencia_obra": ", Guerra de Catal. 2 (R. 21. 4772)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se dejan de traducir muchas cosas buenas porque suenan mal a quien emprendiera de buena gana la traducción si le sonasen bien.»",
               "autor": "Cadalso",
-              "referencia_obra": ", Cartas marr. 52 (Cl. C. 112. 189). X"
+              "referencia_obra": ", Cartas marr. 52 (Cl. C. 112. 189)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hay, sin embargo, continúa, una fórmula de este célebre principio, puramente formal y desprovisto de contenido, fórmula que encierra una síntesis, confundida mal a propósito con el principio mismo y sin la menor necesidad.»",
               "autor": "Balmes",
               "referencia_obra": ", Filosof. fund. (BAC. 37. 103)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -551,52 +690,65 @@
     {
       "id": "7",
       "definicion": "De las relaciones sociales.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Impropia, inadecuada o incorrectamente.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Tal vez encubre el nombre, como quando, yendo por la vía sacra, le salió al encuentro un conocido suyo, cuyo nombre dissimula, en el cual pinta un hombre mal considerado. ¡Quán astutamente narra las murmuraciones que dél proprio se hazían, porque era hijo de padre libertino.»",
               "autor": "Cascales",
-              "referencia_obra": ", Tablas poétic. 2 (Cl. C. 207. 182). X"
+              "referencia_obra": ", Tablas poétic. 2 (Cl. C. 207. 182)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Válgame Dios!, ¡qué mal hice | En esconder a Gutierre!»",
               "autor": "Cald.",
-              "referencia_obra": "El médico de su honra, 3 (Cl. C. 142. 95). X"
+              "referencia_obra": "El médico de su honra, 3 (Cl. C. 142. 95)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esto la hizo a esta dama profanar el recato, usar mal del matrimonio y tratar de divertirse con advertimiento que sus empleos fuesen de gusto y provecho.»",
               "autor": "Solórzano",
-              "referencia_obra": ", La Garduña de Sevilla, 1 (Cl. C. 42. 40). X"
+              "referencia_obra": ", La Garduña de Sevilla, 1 (Cl. C. 42. 40)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Nadie uso indigno de sus fuerzas haga, | O sepa, si obra mal, que al fin se paga.»",
               "autor": "Hartz.",
               "referencia_obra": "Fáb. 72. 73 (Cl. C. 179. 94)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con sin, que señala carencia. X",
+              "definicion": "Con sin, que señala carencia.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y una mujer principal | Parece en la corte mal | Sin padres y sin marido.»",
                   "autor": "Alarcón",
                   "referencia_obra": ", El examen de maridos, 1. 1 (Cl. C. 146. 115)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -604,53 +756,66 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Se usa con algunos participios como prefijo formando a veces una sola palabra los dos elementos.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Mal casada: que falta a los deberes que le impone el matrimonio. X",
+              "definicion": "Mal casada: que falta a los deberes que le impone el matrimonio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Que aunque la canción, por hablar de mal casadas, era de Diana, la glossa della, por tener quexas del Amor, era común a cuantos dél estaban atormentados.»",
                   "autor": "Gil Polo",
                   "referencia_obra": ", Diana (Cl. C. 135. 140)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Mal intencionado. X",
+              "definicion": "Mal intencionado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Oh canalla! —gritó a esta sazón Sancho—. ¡Oh encantadores aciagos y mal intencionados, y quién os viera a todos ensartados por las agallas, como sardinas en lercha!»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 10 (Cl. 13. 195)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Mal nacido: aquel que en sus acciones manifiesta su oscuro y bajo nacimiento, o su condición aviesa. X",
+              "definicion": "Mal nacido: aquel que en sus acciones manifiesta su oscuro y bajo nacimiento, o su condición aviesa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Que en fin el mal nacido abencerraje | Se casó con Jarifa? Pues di, perro, | ¿Quién le dijo que no era hermano suyo?»",
                   "autor": "Lope",
-                  "referencia_obra": ", El remedio en la desdicha, 3 (Cl. C. 39. 169). X"
+                  "referencia_obra": ", El remedio en la desdicha, 3 (Cl. C. 39. 169)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A un morito mal nacido | Me dicen que le enseñaste | La trenza de los cabellos | Que te puse en el turbante.»",
                   "autor": "Lope",
-                  "referencia_obra": ", Poes. lír. (Cl. Ebro, 2. 33). X"
+                  "referencia_obra": ", Poes. lír. (Cl. Ebro, 2. 33)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Otro tanto creo les ha de suceder a estos mal nacidos Polifemos, humosos y negros.»",
                   "autor": "Cascales",
                   "referencia_obra": ", Cartas filológ. 1. 8 (Cl. C. 103. 189)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -658,52 +823,64 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Aplicado a lo inmaterial.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cuanto mayor era el cuidado de encubrir estos deseños, tanto mal enfrenada la fama se aumentaba más.»",
               "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 14. 1 (1. 6812). X"
+              "referencia_obra": ", Hist. Esp. 14. 1 (1. 6812)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Con buena voz, unas cuantas | Monerías a la moda, | Al compás de una guitarra | No me hubiera ido mal.»",
               "autor": "",
-              "referencia_obra": "R. de la Cruz, Sainetes (Cl. Ebro, 37. 67). X"
+              "referencia_obra": "R. de la Cruz, Sainetes (Cl. Ebro, 37. 67)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y hoy el bravo Ducazcal | Os anuncia en su cartel | Que he de hacer aquí un papel, | Que tengo que hacer ya mal.»",
               "autor": "Zorrilla",
               "referencia_obra": ", Poes. (Cl. C. 63. 162)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Modificado por un adv. de modo. X",
+              "definicion": "Modificado por un adv. de modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pilita, porque las leyes de la buena cortesía se ajustaban muy mal en aquella ocasión a las de mi deseo.»",
                   "autor": "Pereda",
-                  "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 84). X"
+                  "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 84)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Explíquemelo usted... | — Si yo lo sé contar muy mal... | — No importa.»",
                   "autor": "Mihura",
                   "referencia_obra": ", Tres sombreros de copa (Cl. Castal. 80. 80)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En el comparativo se dice más mal o peor (véase éste vocablo). X",
+              "definicion": "En el comparativo se dice más mal o peor (véase éste vocablo).",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Según se emplea de mal el tiempo ordinariam[n]te, yo, a lo menos, que no será éste el más mal empleado, porque, al fin en el teatro nos enseñan muchas cosas de que somos ignora[n]tes, que, como nos las dan con voz viua, hacen más impressió[n] que si en casa se leyeran.»",
                   "autor": "L. Pinciano",
                   "referencia_obra": ", Philosophia (BALH. 20. 260)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -712,100 +889,123 @@
     {
       "id": "b)",
       "definicion": "En el trato de las personas, Con falta de consideración o respeto.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Mandó pena de la vida ---; que ninguno de los españoles tratase mal con las obras o con las palabras a los indios confederados.»",
           "autor": "Solís",
           "referencia_obra": ", Conq. de Méj. 5. 9 (R. 28. 3571)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Con relación a preceptos morales o religiosos, De modo contrario a ellos. Modificado por un adv. de cantidad.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Y hablando [Moysén] de aqueste, mismo becerro, de que hablamos, tan mal adorado, se lo profetiza.»",
           "autor": "León",
           "referencia_obra": ". Nomb. 2 (3. 151)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "8",
       "definicion": "Aplicado a procesos o estados de valoración positiva, Insuficientemente,",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Aunque hasta allí lo huviesse querido mal por el grande amor que a su hijo Meridián tenía, aviéndole visto aquel día las grandes maravillas que avía hecho, avíale cobrado grande amor, y por muy dichosa en cobrar tal hijo se tenía.»",
               "autor": "Ortúñez de Calahorra",
               "referencia_obra": ", Espejo (Cl. C. 196. 287)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mas el pueblo, acostumbrado ya a hacerse juez, culpábale de mal sufrido en palabras y obras.»",
               "autor": "Mend.",
-              "referencia_obra": "Guerra de Gran. 3 (R. 21. 982). X"
+              "referencia_obra": "Guerra de Gran. 3 (R. 21. 982)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero Gil, cuando se enhornan, | Se hacen los panes tuertos, | Y cocidos mal se adoban.»",
               "autor": "Tirso",
               "referencia_obra": ", Poes. (Cl. Castal. 17. 88)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ocio a los Dioses, pide | Pálido, con helada voz e incierta, | El que en mal firme nave | Áspero mira el campo del Egeo.»",
               "autor": "Rioja",
               "referencia_obra": ", Silvas, 8 (Fern. 18. 54)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si no se lograse la ventaja de asaltarlos dormidos, se conseguiría por lo menos la de hallarlos mal despiertos y en el preciso embarazo de la primera turbación.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 4. 10 (R. 28. 3182)."
             },
             {
+              "marca": "",
               "texto_cita": "«Llegaron ellos confusos y temerosos con señas de ánimo abatido y mal dispuesto a recibir el castigo, que, según su costumbre, tenían por irremisible.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 5. 13 (R. 28. 3632). X"
+              "referencia_obra": "Id. ib. 5. 13 (R. 28. 3632)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De orden del Ministro se recogieron todos los ejemplares y al historiador se le hizo salir de Inglaterra mal satisfecho.»",
               "autor": "",
               "referencia_obra": "Feijoo, Teatro crít. 2 (Cl. C. 53. 59)."
             },
             {
+              "marca": "",
               "texto_cita": "«Irritado [el Rey] de la entrada de los franceses en España y mal contento del rigor y dureza de su hermano, le envió a decir que pusiese en sus manos la querella.»",
               "autor": "Quint.",
               "referencia_obra": "Prínc. de Viana (1. 80)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Modificado por advs. de modo o cantidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tenga vusía, y advierta | Que habla del rey don Pedro, | Que es su rey; y aunque no fuera | Su rey, es tan mal sufrido, | Que le cortara la lengua. | A saber cómo habla dél.»",
                   "autor": "Mto.",
-                  "referencia_obra": "El valiente justiciero, 1. 11 (R. 39. 3361). X"
+                  "referencia_obra": "El valiente justiciero, 1. 11 (R. 39. 3361)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sepan ustedes que no oye muy mal. | [pues sabe bailar].»",
                   "autor": "León",
-                  "referencia_obra": "Marchante, Pares al río (Ramillete de entremeses; Cl. Castal. 21. 266). X"
+                  "referencia_obra": "Marchante, Pares al río (Ramillete de entremeses; Cl. Castal. 21. 266)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Hace tiempo, muchos meses, que no es lo que era. Anda caviloso..., a lo mejor habla solo; apenas come, duerme muy mal.»",
                   "autor": "Pereda",
                   "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 74)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -814,66 +1014,81 @@
     {
       "id": "9",
       "definicion": "Con apreciaciones negativas intensifica éstas.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mal engañados estáis.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 1. 13 (1. 215)."
             },
             {
+              "marca": "",
               "texto_cita": "«El que se atreviere a tocarlo, si pensaba poder algo, quedará mal burlado.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 40 (2. 308)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y así como el amor es mal sufrido, no curó María que el Señor pasase adelante en hablalla.»",
               "autor": "M. de Chaide",
               "referencia_obra": ", Magd. serm. (R. 27. 4161)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se puso [el Rey] en tres días en Toledo mal enojado en gran manera.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 9. 17 (1. 4562)."
             },
             {
+              "marca": "",
               "texto_cita": "«Finalmente mal enojado se partió de Francia.»",
               "autor": "",
               "referencia_obra": "Id. ib. 13. 22 (1. 6802)."
             },
             {
+              "marca": "",
               "texto_cita": "«El Duque de Benavente se salió de Madrid mal enojado.»",
               "autor": "",
               "referencia_obra": "Id. ib. 19. 3 (2. 1751)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mal enojado de que no se siguiese su dictamen ---, se volvió a las piedras con las que se había señalado el término del campo.»",
               "autor": "Quint.",
-              "referencia_obra": "Gran Capitán (1. 126). X"
+              "referencia_obra": "Gran Capitán (1. 126)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mal revuelto y andrajoso, | Entre harapos | Del lujo sátira soy.»",
               "autor": "Espronc.",
               "referencia_obra": "Poes. 1 (Cl. C. 47. 139)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con un intensificador.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se vino [D. Lope] y se metió en aquella ciudad por estar muy mal enojado con D. Sancho y con el Rey de Castilla.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 14. 4 (1. 6921)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -881,13 +1096,16 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "En el siguiente ejemplo toma el sentido de Gravemente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y mal heridos casi todos, los despojaron de las armas.»",
               "autor": "Capm.",
               "referencia_obra": "Teatro (4. 393)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -895,310 +1113,379 @@
     {
       "id": "10",
       "definicion": "La falla o insuficiencia para ejecutar algo lleva al sentido Difícilmente.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Mal puede juzgar el ciego | La gracia de los colores.»",
           "autor": "Castillejo",
           "referencia_obra": ", Diál. entre verdad y lisonja, 3 (Fern. 13. 258)."
         },
         {
+          "marca": "",
           "texto_cita": "«Muy bien se defiende la ciudad antes de ser entrada de los enemigos: mas después de ya entrados y apoderados de ella, mal se pueden echar fuera.»",
           "autor": "Gran.",
           "referencia_obra": "Mem. vida crist. 4. 10 (2. 5042)."
         },
         {
+          "marca": "",
           "texto_cita": "«Aun a maridos que les muestran los dientes no obedecen; y mal podrá roer (si ella es vieja, o flaca) tanto hueso un hombre sin dientes.»",
           "autor": "Quev.",
           "referencia_obra": "Pregmática (2. 72)."
         },
         {
+          "marca": "",
           "texto_cita": "«Mal podrá amar quien corazón no tiene.»",
           "autor": "Valb.",
           "referencia_obra": "Siglo de oro, 7 (p. 148)."
         },
         {
+          "marca": "",
           "texto_cita": "«Mal puede un capitán conservar un ejército con puntual y estrecha obediencia si el poder y fuerzas con que los ha de castigar le dan ellos mismos.»",
           "autor": "Moncada",
           "referencia_obra": ", Exped. 12 (R. 21131)."
         },
         {
+          "marca": "",
           "texto_cita": "«Para en alguna parte, que mal podré saltando retratarte.»",
           "autor": "Lope",
           "referencia_obra": ", Dorotea 4. 3 (Obr. suelt. 7. 325)."
         },
         {
+          "marca": "",
           "texto_cita": "«Porque mal se podrá amar lo que no conoce.»",
           "autor": "Nieremb.",
           "referencia_obra": "Hermosura de Dios, 1. 2 (p. 28)."
         },
         {
+          "marca": "",
           "texto_cita": "«Habiendo [España] adoptado su religión, sus leyes y costumbres [de los romanos], mal rehusaría los usos y estilos que de ordinario introduce la moda.»",
           "autor": "Jovell.",
           "referencia_obra": "Mem. (2. 244; Cl. C. 110. 224)."
         },
         {
+          "marca": "",
           "texto_cita": "«Empeñada una guerra a muerte, que absorbía la atención y el solícito anhelo de todos los gobiernos del continente, mal podían pensar en otro asunto.»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", Espír. del siglo, 7. 16 (5. 188)."
         },
         {
+          "marca": "",
           "texto_cita": "«Con la espada tan solo a los tiranos | Decir se debe la verdad: los ruegos | Mal su implacable corazón ablandan.»",
           "autor": "Gil y Zárate",
           "referencia_obra": ", Blanca de Borbón, 1. 1 (p. 842)."
         },
         {
+          "marca": "",
           "texto_cita": "«Que bienhechores y amigos como lo fueron para nosotros ---, mal pueden hallarse en otra tierra alguna.»",
           "autor": "",
           "referencia_obra": "A. Galiano, Recuerdos, 15 (p. 518)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "11",
       "definicion": "Locuciones.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Decir o habIar mal: hablar con mordacidad, denigrar, criticar. X",
+          "definicion": "Decir o habIar mal: hablar con mordacidad, denigrar, criticar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y de aquí adelante andad más atentado en vuestras alabanzas y vituperios, y no digáis mal de aquesa señora Tobosa, a quien yo no conozco si no es para servilla.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 30 (Cl. C. 8. 124). X"
+              "referencia_obra": "Quij. 1. 30 (Cl. C. 8. 124)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y nadie diga mal de las dueñas, y más de las antiguas y doncellas; que aunque yo no lo soy, bien se me alcanza y se me trasluce la ventaja que hace una dueña doncella a una dueña viuda.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 2. 37 (Cl. C. 19. 23). X"
+              "referencia_obra": "Id. ib. 2. 37 (Cl. C. 19. 23)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No me entiendo con octavas ni con esotras historias, ni se hallará que haya dicho mal de otro poeta.»",
               "autor": "Quev.",
-              "referencia_obra": "Obr. sat. y festiv. (Cl. C. 56. 230). X"
+              "referencia_obra": "Obr. sat. y festiv. (Cl. C. 56. 230)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Tenéis por cierto que se pueda ser un excelente soldado sin haber visto más fuego que el de una chimenea; y que sólo baste llevar la vuelta de la manga muy estrecha, hablar mal de cuantos generales que no dan buena mesa, decir que desde Felipe II acá no han hecho nada nuestros ejércitos.»",
               "autor": "Cadalso",
-              "referencia_obra": ", Cartas marr. 82 (Cl. C. 112. 271). X"
+              "referencia_obra": ", Cartas marr. 82 (Cl. C. 112. 271)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No puedo hablar mal con nadie del último artículo de un amigo... ¿Qué hacer?»",
               "autor": "Azorín",
               "referencia_obra": ", La voluntad (Cl. Castal. 3. 259)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Ir de mal en peor: cada vez más desacertada e infaustamente. X",
+          "definicion": "Ir de mal en peor: cada vez más desacertada e infaustamente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«He aquí cómo va el pecador de bien a mal y de mal en peor.»",
               "autor": "M. de Chaide",
               "referencia_obra": ", Magd. 2. 11 (Cl. C. 104. 270)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y no sólo no acaban sus competencias bien, mas va de mal en peor.»",
               "autor": "",
               "referencia_obra": "Sig. Vida de S. Jer. 5. 11 (p. 535)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Echar a mal: desperdiciar, malgastar o emplear mal una cosa. X",
+          "definicion": "Echar a mal: desperdiciar, malgastar o emplear mal una cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No hubo en todos los ciento | Azote que echar a mal; | Pero a traición me los dieron: | No me pueden agraviar.»",
               "autor": "Quev.",
               "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 345)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Hacérsele a uno de mal una cosa: serle enojoso emprenderla o ejecutarla. X",
+          "definicion": "Hacérsele a uno de mal una cosa: serle enojoso emprenderla o ejecutarla.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cuando se me ofrece alguna cosa que con la espiriencia quiere el Señor que haya entendido, háceseme de mal no lo advertir.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Fund. (Cl. C. 115. 276)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pero llegando aquí hízoseme muy de mal pasar adelante sin contar otras visiones maravillosas.»",
               "autor": "Yepes",
               "referencia_obra": ", Vida de Sta. Ter. 1. 18 (Míst. 1. 83)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Llevar uno a mal una cosa: resentirse, formar queja de ella. X",
+          "definicion": "Llevar uno a mal una cosa: resentirse, formar queja de ella.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No hay cosa en su comento de v. m. que no admire, aunque, como soy tan aficionado a Virgilio, padre verdadero de la poesía épica, llevo mal que nadie le toque en la fimbria de su ropa, y quisiera yo ser un centímano Tucca o Mecio para su defensa; pero ostentaré brío, si fuerzas no puedo.»",
               "autor": "Cascales",
-              "referencia_obra": ", Cartas filológ. 2. 2 (Cl. C. 117. 25). X"
+              "referencia_obra": ", Cartas filológ. 2. 2 (Cl. C. 117. 25)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tuya debe ser la bella, | Pues yo he muerto para ella, | Y tú por ella te mueres. — | Ni tu cambio llevo a mal, | Jacinta.»",
               "autor": "Bretón",
               "referencia_obra": ", Muérete y verás, 4 (Cl. C. 92. 115)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Llevarse, estar, ponerse mal con alguien: estar reñido, no tener buenas relaciones. X",
+          "definicion": "Llevarse, estar, ponerse mal con alguien: estar reñido, no tener buenas relaciones.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Pues ven acá, majadero! ¿Tal mal te llevas con tu vida que quieres más un vestido que un “Dios te guarde”?»",
               "autor": "",
-              "referencia_obra": "Salas Barbadillo, El sagaz Estacio, 2 (Cl. C. 57. 160). X"
+              "referencia_obra": "Salas Barbadillo, El sagaz Estacio, 2 (Cl. C. 57. 160)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esperanza entretenida, | Mal nos llevamos los dos; | No hay quien lleve como vos | Hasta la muerte la vida.»",
               "autor": "Lope",
               "referencia_obra": ", El remedio en la desdicha, 2 (Cl. C. 39. 113)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Por qué no habla esa dama? — Porque está mal con los hombres.»",
               "autor": "Lope",
-              "referencia_obra": ", Dorotea, 4. 1 (Obr. suelt. 7. 266). X"
+              "referencia_obra": ", Dorotea, 4. 1 (Obr. suelt. 7. 266)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si le sucedía algún contratiempo por parte de César, nadie creería haberse trazado sin su consentimiento, teniendo él tan buen lugar en su amistad, y que de aquí resultaría ponerse mal con él toda la Francia.»",
               "autor": "Valbuena",
               "referencia_obra": ", tr. Los coment. de Julio César, p. 23."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
-          "definicion": "Mal de su grado: contra su voluntad. X",
+          "definicion": "Mal de su grado: contra su voluntad.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Fue tanta la conversación de Fabio con su hermana Fabela, que se enamoró della, y a mal de su grado cumplió su carnal apetito y la hizo preñada.»",
               "autor": "Timoneda",
-              "referencia_obra": ", El Patrañuelo, 5 (Cl. C. 101. 57). X"
+              "referencia_obra": ", El Patrañuelo, 5 (Cl. C. 101. 57)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Nuestra posición nos impone, sin embargo, el deber de entrar en pormenores, mal nuestro grado.»",
               "autor": "Larra",
               "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 44)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
           "definicion": "Parar en mal: tener un fin desgraciado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Todas vemos, que el malo para siempre en mal, y que cual siembra tal siega.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 1. 4 (1. 60)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ι )",
           "id_limpio": "— ι )",
-          "definicion": "Pensar mal: desconfiar. X",
+          "definicion": "Pensar mal: desconfiar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Yo soy tonto, lo confieso, | Y seré grande ignorante | En todo; pero a lo menos | Tendrán cuatro cosas buenas | Mis juicios: conocimiento | De las partes; darles muchas | Vueltas para resolverlos; | Pensar siempre mal de quien | Me regale, o busque empeños.»",
               "autor": "R. de la Cruz",
               "referencia_obra": ", La viuda y avarienta, p. 3."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— κ )",
           "id_limpio": "— κ )",
-          "definicion": "Si mal no me acuerdo: si no me engaño o equivoco, si no estoy trastocado. X",
+          "definicion": "Si mal no me acuerdo: si no me engaño o equivoco, si no estoy trastocado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y quién sois vos, hermano, que así sabéis el nombre de mi padre? Porque yo, hasta ahora, | Si mal no me acuerdo, en todo el discurso del | cuento de mi desdicha no le he nombrado.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 29 (Cl. C. 8. 79). X"
+              "referencia_obra": "Quij. 1. 29 (Cl. C. 8. 79)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuando piden limosna, más la sacan con invenciones y chocarrerías, que con devociones; y a título que no hay quien se fíe dellas, no sirven, y dan en ser holgazanas; y pocas o ninguna vez he visto, si mal no me acuerdo, ninguna gitana a pie de altar comulgando.»",
               "autor": "",
               "referencia_obra": "Id. Coloq. 2 (Cl. C. 36. 314)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— λ )",
           "id_limpio": "— λ )",
-          "definicion": "Tener a mal: mal interpretar. X",
+          "definicion": "Tener a mal: mal interpretar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cosa nueva es para mí, no lo que toca a las historias, sino lo que dezís que la lengua castellana tenga tanto de la griega, y, si no me lo tuviéssedes a mal, no lo querría creer hasta ver primero cómo lo prováis.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. (Cl. C. 86. 23)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— μ )",
           "id_limpio": "— μ )",
-          "definicion": "Traer a uno a mal traer: maltratarle o molestarle mucho en cualquier concepto. X",
+          "definicion": "Traer a uno a mal traer: maltratarle o molestarle mucho en cualquier concepto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Como era aquel mancebo su pariente, | Sobrino de Alda bella, y le traía | A mal traer el Tártaro inclemente, | Y las plegarias de su dama oía, | Quiso librar el pleito a un gran fendiente | Sobre el testuz del rey de Tartaría.»",
               "autor": "Bello",
               "referencia_obra": ", Poes. p. 569."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ν )",
           "id_limpio": "— ν )",
-          "definicion": "Venir en mal: perjudicar. X",
+          "definicion": "Venir en mal: perjudicar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Esto le acaecía tan a menudo, que si no lo remediara, creo viniera en mucho mal.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Fund. (Cl. C. 115. 158)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ξ )",
           "id_limpio": "— ξ )",
-          "definicion": "Venir mal: no tener acogida. X",
+          "definicion": "Venir mal: no tener acogida.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pero él tuvo la bondad de incluirme en las nóminas de la casa real, y gracias a ese empleo pude defenderme los primeros años... (Ríe) Bueno, aún lo cobro, y no viene mal ¡Dios bendiga a nuestro Rey!»",
               "autor": "Buero Vallejo",
               "referencia_obra": ", Concierto (Cl. Castal. 35. 96)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1206,7 +1493,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «El que rige y el regido | Sin saber | Mal regidos pueden ser.» Encina, Poesía lír. (Cl. Castal. 62. 100). X «Mas si el mal que va conmigo | A vos es muy enemigo, | Razón es | Que por mí y por vos lloréys.» D. de S. Pedro, Poes. amor. (Cl. C. 33. 132). X «Dizes, Lucenda, que de mi mal te pesó; pero que con las palabras dizes lo que con las obras niegas, si tú de mí te dolieses, farías lo que dizes, pero non farías lo que fazes.» Id. Tract. de amor (Cl. C. 133. 58). X «Si pudiese remediar su mal sin amanzillar mi onrra, no con menos afición que tú lo pides yo lo haría.» Id. Cárcel de amor (Cl. C. 133. 136). X «Entre bien y mal doblado | Pasa vn gran río caudal; | Yo estó en cabo del mal | Y el río no tiene vado.» J Manr. Canc. (Cl. C. 94. 74). X «Pues en este tan grant mal cayó un omne sabidor, que llamavan Elbidio.» Arc. de Talav. Vida de S. lldef. 11 (Cl. C. 134. 41). X «Ruego vos, señores e hermanos mucho amados, que ayades entre vos caridat e non dedes mal por mal.» Id. ib. (Cl. C. 134. 148). X «Amor cruel e bryoso, | Mal aya la tu alteza, | Pues no fazes igualeza, | Seyendo tan poderoso.» Santill. (Cl. C. 18. 136).\n\n— Siglo XIV: X «De toda esta laseria e todo este coxixo | Fiz’ cantares caçurros de quanto mal me dixo.» Arc. de Hita, 947 (Cl. C. 17. 27).\n\n— Siglo Xlll: X «Si oviesse su lengua un poco retenido, | Non sería enna ira del Criador caído, | Ond dubdamos que es, mal peccado, perdido.» Berc, Mil. 1 (Cl. C. 44. 19). X «En los omes ha de ver por fuerça bien e mal. Pues bien aventurado es aquel por quien resciben bien, e mal aventurado es aquel por quien resciben mal.» Boc. de oro, p. 14. X «Por fer mal a Casty[e]lla e destruyr castellanos, | Feziste te amigo de los pueblos paganos, | Feziste guerra mala a los pueblos cristianos, | Por que non queríen [ellos] meter se en las tus manos.» Fern. Gonz. 12 (Cl. C. 28. 87).\n\n— Siglo Xll: X «Don Elvira e doña Sol, cuydado non ayades, | Quando vos sodes sanas e bivas e sin otro mal. » Cid, 2866 (Cl. C. 24. 256). X «A los de Valençia escarmentados los han, | Non osan fueras exir nin con él se ajuntar; | Tajávales las huertas e fazíales grand mal, | En cada uno destos años Mío Çid les tollió el pan. » Ib. 1173 (Cl. C. 24. 172).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. male. Cat., fr. y port. mal, it. male.\n\n\u0000",
+  "etimologia": "Etim. Del lat. <i>male</i>. Cat., fr. y port. <i>mal</i>, it. <i>male</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",

@@ -1,219 +1,340 @@
 {
   "lema": "HABLAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, utilizar la facultad del lenguaje, a) proferir, pronunciar palabras para darse a entender (Expresarse, comunicarse por medios distintos al de la palabra: γ; Referido a animales, en especial a ciertas aves, Articular sonidos a imitación de los humanos: δ ), b) decir una cosa, c) conversar, platicar, d) dirigir la palabra a alguien, e) enamorar, f) convenir, concertar algo, g) murmurar, criticar, opinar acerca de las personas y sus actos, h) pronunciar discursos, predicar, i) referir, j) exponer, tratar de algo (Tratar de algo por escrito: ε ), k) manifestarse con elocuencia, dar a entender algo de algún modo, l) representar, interceder, rogar por alguien o por algo;\n\n— 2, emplear una u otra lengua.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, utilizar la facultad del lenguaje, a) proferir, pronunciar palabras para darse a entender (Expresarse, comunicarse por medios distintos al de la palabra: γ; Referido a animales, en especial a ciertas aves, Articular sonidos a imitación de los humanos: δ ), b) decir una cosa, c) conversar, platicar, d) dirigir la palabra a alguien, e) enamorar, f) convenir, concertar algo, g) murmurar, criticar, opinar acerca de las personas y sus actos, h) pronunciar discursos, predicar, i) referir, j) exponer, tratar de algo (Tratar de algo por escrito: ε ), k) manifestarse con elocuencia, dar a entender algo de algún modo, l) representar, interceder, rogar por alguien o por algo;\n\n— 2, emplear una u otra lengua.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "Utilizar la facultad del lenguaje.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Proferir, pronunciar palabras para darse a entender (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si el hombre tiene en sí al Espíritu Santo y habla, se dice hablar el Espíritu Santo. Lo que habláredes, dijo Cristo, no tengáis cuidado de ello.»",
               "autor": "Ávila",
               "referencia_obra": ", Ven. Espír. Santo, 3 (2. 302)."
             },
             {
+              "marca": "",
               "texto_cita": "«Entre muchos, siempre hablar poco.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Avisos (R. 53. 285)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y háblese más comedidamente, que para haberse criado vuestra merced entre caballeros andantes, que son la misma cortesía, no me parecen muy concertadas esas palabras.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 13 (R. 1. 4291)."
             },
             {
+              "marca": "",
               "texto_cita": "«Toledanos puede haber que no las corten en el aire en esto del hablar polido.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 19 (R. 1. 4441)."
             },
             {
+              "marca": "",
               "texto_cita": "«Bien confesarás que ni has visto ni oído decir jamás que haya hablado ningún elefante, perro, caballo o mona.»",
               "autor": "",
               "referencia_obra": "Id. Coloq. (R. 1. 2271)."
             },
             {
+              "marca": "",
               "texto_cita": "«Que hable dolorido, | Y barbe a lo cuerdo, | Porque ha de faltarme | Plaza, si me pelo.»",
               "autor": "Quev.",
               "referencia_obra": "Musa 6, rom. 96 (R. 69. 2321)."
             },
             {
+              "marca": "",
               "texto_cita": "«Porque el hombre no habla sólo cuado habla exteriormente, sino que habla también cuando interiormente discurre.»",
               "autor": "",
               "referencia_obra": "Jovell, Instrucc. a un teólogo, (R. 46. 2781)."
             },
             {
+              "marca": "",
               "texto_cita": "«Al contrario, una mujer que no habla es un tesoro.»",
               "autor": "Mor.",
-              "referencia_obra": "El médico a palos, 2. 5 (R. 2. 467). X"
+              "referencia_obra": "El médico a palos, 2. 5 (R. 2. 467)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Es mejor vivir una hora hablando que dos días más en silencio.»",
               "autor": "Unamuno",
-              "referencia_obra": ", La tía Tula, 23 (p. 123). X"
+              "referencia_obra": ", La tía Tula, 23 (p. 123)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Ah, excelentísimo señor presidente! ¡Cómo agradezco a usted que me quite la mordaza y que me restablezca en el uso de la palabra, devolviéndome el derecho de hablar!»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 4 (p. 321). — met."
-            },
+              "referencia_obra": ", Sueños, 4 (p. 321)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Si ya quisiera la suerte que los animales hablaran --- departiera yo con mi jumento lo que me viniera en gana.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 25 (R. 1. 3122)."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Si ya quisiera la suerte que los animales hablaran --- departiera yo con mi jumento lo que me viniera en gana.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 1. 25 (R. 1. 3122)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la expresión a la boca, que señala el modo de dirigirse al oyente. X",
+              "definicion": "Con la expresión a la boca, que señala el modo de dirigirse al oyente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Observó de buena nota Andrenio que los más hablaban a la boca, y no al oído.»",
                   "autor": "Gracián",
                   "referencia_obra": ", El criticón, 1. 6 (Cl. C. 165, 82)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con ante. X",
+              "definicion": "Con ante.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si es que los afligidos tienen licencia para hablar ante los venturosos, concédaseme a mí por esta vez.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 1. 14 (Cl. Castal. 12. 117)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, para señalar: — la persona a quien se habla. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Veo cosas que no son realidad; hablo con seres que me rodean, siento, gozo o sufro según las impresiones que me dominan.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 2 (p. 149). — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "la persona a quien se habla.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Veo cosas que no son realidad; hablo con seres que me rodean, siento, gozo o sufro según las impresiones que me dominan.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 2 (p. 149)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Quién es el que con tanta arrogancia | Se atreve a hablar?»",
-                  "autor": "Lope",
-                  "referencia_obra": ", Caballero (Cl. Castal. 19. 68). X"
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Quién es el que con tanta arrogancia | Se atreve a hablar?»",
+                      "autor": "Lope",
+                      "referencia_obra": ", Caballero (Cl. Castal. 19. 68)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Entró un chirimía de la bellota, digo un porquero: conocile por el —hablando con acatamiento— cuerno que traía en la mano.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Buscón (Cl. C. 5. 133)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡Yo no puedo ya habitar en Barracas sin comprometerla! —dijo Eduardo poniendo el codo sobre la mesa, reclinada su frente en la palma de su mano. —Eso es hablar con juicio, Eduardo.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 3 (p. 329)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Tal vez hablaría con más propiedad si dijese que sentí lo que debería haber sentido si hubiera reflexionado.»",
+                      "autor": "Marroquín",
+                      "referencia_obra": ", Blas Gil, 1 (p. 4)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Entró un chirimía de la bellota, digo un porquero: conocile por el —hablando con acatamiento— cuerno que traía en la mano.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Buscón (Cl. C. 5. 133). X"
-                },
-                {
-                  "texto_cita": "«¡Yo no puedo ya habitar en Barracas sin comprometerla! —dijo Eduardo poniendo el codo sobre la mesa, reclinada su frente en la palma de su mano. —Eso es hablar con juicio, Eduardo.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 3 (p. 329). X"
-                },
-                {
-                  "texto_cita": "«Tal vez hablaría con más propiedad si dijese que sentí lo que debería haber sentido si hubiera reflexionado.»",
-                  "autor": "Marroquín",
-                  "referencia_obra": ", Blas Gil, 1 (p. 4). — El motivo."
-                },
-                {
-                  "texto_cita": "«Andaba este clérigo de unos religiosos en otros, y no dejando hombre grave en Sevilla que no hablase con título de preguntar el caso, infamaba la virtud de la santa madre y de sus monjas.»",
-                  "autor": "Yepes",
-                  "referencia_obra": ", Vida de Sta. Ter. 2. 27 (Míst. 1. 230)."
+                  "id_limpio": "—",
+                  "definicion": "El motivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Andaba este clérigo de unos religiosos en otros, y no dejando hombre grave en Sevilla que no hablase con título de preguntar el caso, infamaba la virtud de la santa madre y de sus monjas.»",
+                      "autor": "Yepes",
+                      "referencia_obra": ", Vida de Sta. Ter. 2. 27 (Míst. 1. 230)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con desde, para señalar el lugar de donde. X",
+              "definicion": "Con desde, para señalar el lugar de donde.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Lo cierto es que el criado sacó una luz, y me hallé de repente, como por máquina, entre él y su amo, sin poder escapar ni saber qué disculpa darles ---. —Ellos eran sin duda... Aquí estarían cuando yo hablé desde la ventana...»",
                   "autor": "Mor.",
                   "referencia_obra": "El sí de las niñas, p. 256."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con en, con el sentido de a favor de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Haré que en vuestra gloria soberana | Siempre Talía hable.»",
                   "autor": "Herr.",
-                  "referencia_obra": "2, canc. 8 (R. 32. 326). — Con el sentido de entre. X"
+                  "referencia_obra": "2, canc. 8 (R. 32. 326)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con el sentido de entre.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Luego que vida os llamé | A pediros me atreví, | Porque el regalo sentí, | Y en vuestros brazos hablé.»",
+                      "autor": "Lope",
+                      "referencia_obra": ", Poes. lír. (Cl. Ebro, 2. 93)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Luego que vida os llamé | A pediros me atreví, | Porque el regalo sentí, | Y en vuestros brazos hablé.»",
-                  "autor": "Lope",
-                  "referencia_obra": ", Poes. lír. (Cl. Ebro, 2. 93). — Para expresar: — el modo. Nótese el uso coloquial del gerundio en diminutivo. X"
+                  "id_limpio": "—",
+                  "definicion": "Para expresar:",
+                  "marca": "",
+                  "ejemplos_citas": []
                 },
                 {
-                  "texto_cita": "«Factótum de alta privanza | En domésticos aprietos, | Siempre acertando en secretos, | Siempre hablandito en confianza.»",
-                  "autor": "Pombo",
-                  "referencia_obra": ", Antol. poética, p. 48. — El medio. X"
+                  "id_limpio": "—",
+                  "definicion": "el modo. Nótese el uso coloquial del gerundio en diminutivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Factótum de alta privanza | En domésticos aprietos, | Siempre acertando en secretos, | Siempre hablandito en confianza.»",
+                      "autor": "Pombo",
+                      "referencia_obra": ", Antol. poética, p. 48."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Se inclinó para escribir, muy lentamente, dibujando cada letra. Un altoparlante de propaganda comenzó a hablar en el silencio, incomprensible, y alejándose.»",
-                  "autor": "Onetti",
-                  "referencia_obra": ", El astillero, p. 151."
+                  "id_limpio": "—",
+                  "definicion": "El medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Se inclinó para escribir, muy lentamente, dibujando cada letra. Un altoparlante de propaganda comenzó a hablar en el silencio, incomprensible, y alejándose.»",
+                      "autor": "Onetti",
+                      "referencia_obra": ", El astillero, p. 151."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con hacia, que denota la dirección. X",
+              "definicion": "Con hacia, que denota la dirección.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Petrus lo miró un momento; después habló hacia los papeles y el cartapacio.»",
                   "autor": "Onetti",
                   "referencia_obra": ", El astillero, p. 151."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Con para y una prop. subjuntiva que señala la finalidad. X",
+              "definicion": "Con para y una prop. subjuntiva que señala la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Como estoy solo, tengo que hablar únicamente para que me oigan los afectos que me guarda el tiempo pasado y los que me puedan sobrevivir.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 2 (p. 207)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— θ θ )",
               "id_limpio": "— θ θ )",
-              "definicion": "Con por, que señala: — el instrumento. +",
-              "ejemplos_citas": [
+              "definicion": "Con por, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No se desprecia de tomar por instrumento de tan gloriosa cosa a una cosa tan baja, y hablar, siendo Dios, por una lengua de carne.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Epíst. 1. 1 (1. 257). — La finalidad. X"
+                  "id_limpio": "—",
+                  "definicion": "el instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«No se desprecia de tomar por instrumento de tan gloriosa cosa a una cosa tan baja, y hablar, siendo Dios, por una lengua de carne.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Epíst. 1. 1 (1. 257)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Propusieron a Hernán Cortés, grande amigo de los dos, alabándole con moderación por no hacer sospechoso el consejo, y dando a entender que hablaban por el acierto de la elección más que por la conveniencia de su amigo.»",
-                  "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 1. 9 (R. 28. 2162)."
+                  "id_limpio": "—",
+                  "definicion": "La finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Propusieron a Hernán Cortés, grande amigo de los dos, alabándole con moderación por no hacer sospechoso el consejo, y dando a entender que hablaban por el acierto de la elección más que por la conveniencia de su amigo.»",
+                      "autor": "Solís",
+                      "referencia_obra": ", Conq. de Méj. 1. 9 (R. 28. 2162)."
+                    }
+                  ]
                 }
               ]
             },
@@ -221,74 +342,99 @@
               "id_marcador_html": "— ι ι )",
               "id_limpio": "— ι ι )",
               "definicion": "Con sin y una prop. infinitiva que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Nunca hablar sin pensarlo bien.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Avisos (R. 53. 2851)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— κ κ )",
               "id_limpio": "— κ κ )",
               "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Amor solo, dijo Damón, es el solo maestro de su ciencia, él solo se interpreta y explica; así sobre tal supuesto hablará cualquiera corto, frío, y con lengua perezosa.»",
                   "autor": "Figueroa",
                   "referencia_obra": ", Amarilis, 1 (p. 6)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— λ λ )",
               "id_limpio": "— λ λ )",
-              "definicion": "Con un gerundio que indica el modo. X",
+              "definicion": "Con un gerundio que indica el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con la sonrisa en los labios llegué hasta donde la noble señora hablaba suspirando.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de primavera, p. 68. X"
+                  "referencia_obra": ", Sonata de primavera, p. 68."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Hablaba torpemente, rellenando sus frases con barbaridades y blasfemias.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, 2. 4 (p. 81). — Además con la prep. con. X"
-                },
+                  "referencia_obra": ", La busca, 2. 4 (p. 81)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«La madre de Ramiro acababa de penetrar en la estancia. Parecía más animada que de costumbre. Habló casi con júbilo, empleando uno que otro gracejo místico al suplicar a su hijo que no hiciese esperar demasiado al Señor.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 145)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La madre de Ramiro acababa de penetrar en la estancia. Parecía más animada que de costumbre. Habló casi con júbilo, empleando uno que otro gracejo místico al suplicar a su hijo que no hiciese esperar demasiado al Señor.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 145)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— μ μ )",
               "id_limpio": "— μ μ )",
-              "definicion": "Sunstantivado. +",
+              "definicion": "Sunstantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
-                  "texto_cita": "«Indicio es de mucha cordura el poco hablar y indicio es de mucha locura el mucho hablar. Guev. Oratorio, 21 (p. 576). +",
+                  "marca": "+",
+                  "texto_cita": "«Indicio es de mucha cordura el poco hablar y indicio es de mucha locura el mucho hablar. Guev. Oratorio, 21 (p. 576).",
                   "autor": "",
                   "referencia_obra": ""
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Tornando a la materia del hablar, digo que en las conversaciones hase de dar lugar a que hable el que habla.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 2. 1 (Cl. C. 51. 18). X"
+                  "referencia_obra": ", Escud. 2. 1 (Cl. C. 51. 18)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En los quince años corridos hasta el de 1529 en que le invitó Pizarro a tomar parte en la conquista del Perú, adquirió don Sebastián aquel dominio de sí mismo, parsimonia en el hablar, serenidad en el peligro, presteza de ánimo ---.»",
                   "autor": "Valencia",
-                  "referencia_obra": ", Discursos, 1 (p. 9). X"
+                  "referencia_obra": ", Discursos, 1 (p. 9)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Filático denota el afectado en el hablar.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 3 (p. 199)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -296,409 +442,547 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Hablar al aire: hablar sin fundamento y lo que no viene a propósito. X",
+              "definicion": "Hablar al aire: hablar sin fundamento y lo que no viene a propósito.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No se puede decir que es mejor esta [lengua] que aquella, o essotra, sin especificar y probar en qué es mejor, y todo lo demás es hablar al aire.»",
                   "autor": "",
                   "referencia_obra": "P, Sáinz, Apol. castell. sig. Oro (Cl. Olv. 19. 160)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Hablar a coro: hablar varios simultáneamente. X",
+              "definicion": "Hablar a coro: hablar varios simultáneamente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y las dos legas, hablando a coro, mostrábanme el angelote desnudo, que enredador y tronera vertía el agua en el tazón de alabastro por su menuda y cándida virilidad.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de estío, p. 115."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Hablar al corazón: hablar de manera que se conmueva el oyente. +",
+              "definicion": "Hablar al corazón: hablar de manera que se conmueva el oyente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Poco aprovecha, hermanos míos, que nos hable Dios a la oreja para oírle --- si no nos habla al corazón para amarle.»",
                   "autor": "Guev.",
                   "referencia_obra": "Oratorio, 1 (p. 461)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Él les habla al corazón, dándoles sentimientos de las cosas divinas.»",
                   "autor": "Roa",
                   "referencia_obra": ", Vida de Dª Ana Ponce de León, 1. 6 (p. 34)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Hablar a gritos, a voces: hablar en alta voz. X",
+              "definicion": "Hablar a gritos, a voces: hablar en alta voz.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«De tal manera el mesmo espíritu que habla, hace parar todos los otros pensamientos y advertir a lo que se dice, que en alguna manera me parece, y creo es ansí, que sería más posible no entender a una persona que hablase muy a voces a otra que oyese muy bien.»",
                   "autor": "Sta. Ter.",
-                  "referencia_obra": "Mor. 6. 3 (Cl. C. 1. 144). X"
+                  "referencia_obra": "Mor. 6. 3 (Cl. C. 1. 144)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A solas con su sombra y su locura | Va el loco, hablando a gritos.»",
                   "autor": "Machado",
-                  "referencia_obra": ", Poes. complet. p. 100. X"
+                  "referencia_obra": ", Poes. complet. p. 100."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La mujer, la sucia mujer de la que hablaba a gritos la muchacha, no podría ser otra, por todo lo que sé, ahora no importa decirlo, que la mujer de Gálvez, que andaría entonces por los nueve meses de embarazo.»",
                   "autor": "Onetti",
                   "referencia_obra": ", El astillero, p. 116."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Hablarle al oído: hablar en voz baja. met. En los siguientes textos, Persuadir.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El Conde-Duque, aconsejado de aquella altivez que siempre le habló al oído ---.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal. 2 (R. 21. 4772)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ninguno entonces conoció otra voz que la de su miedo o antojo, que le hablaba al oído.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 5 (R. 21. 5331)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Hablar a medias palabras: Hablar de manera que no se entienda lo que se dice. X",
+              "definicion": "Hablar a medias palabras: Hablar de manera que no se entienda lo que se dice.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Por los desmontes trajinaban los golfos de un lado para otro; hablaban a voces y a medias palabras, tan confusas a veces que más de la mitad ni se les entendía.»",
                   "autor": "Cela",
                   "referencia_obra": ", Nuevas andanzas, p. 191."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Hablar bajo (quedo): hablar en voz baja, discretamente. X",
+              "definicion": "Hablar bajo (quedo): hablar en voz baja, discretamente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Habla bajo, que hay escuchas!»",
                   "autor": "Lope",
-                  "referencia_obra": ", La dama boba, 3 (Cl. C. 159. 245). X"
+                  "referencia_obra": ", La dama boba, 3 (Cl. C. 159. 245)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Decid que hablen más bajo.»",
                   "autor": "Cáncer",
-                  "referencia_obra": ", La visita de cárcel (Cl. Castal. 21. 304). X"
+                  "referencia_obra": ", La visita de cárcel (Cl. Castal. 21. 304)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La tarugo, que era una malagueña gorda y agitanada, se sentó al lado de Leandro, y se pusieron los dos a hablar bajo.»",
                   "autor": "Baroja",
                   "referencia_obra": ", La busca, 2. 7 (p. 104)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— θ θ )",
               "id_limpio": "— θ θ )",
-              "definicion": "Hablar bien, bien hablado: — ser cortés y comedido en lo que se habla. X",
-              "ejemplos_citas": [
+              "definicion": "Hablar bien, bien hablado:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Creo que no hay más baxo estado en la vida que el de las mugeres, porque si os hablan bien, pensáis que están muertas de amores; si no os hablan, creéis que de alteradas y fantásticas lo hazen.»",
-                  "autor": "Montem.",
-                  "referencia_obra": "Diana, p. 44."
+                  "id_limpio": "—",
+                  "definicion": "ser cortés y comedido en lo que se habla.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Creo que no hay más baxo estado en la vida que el de las mugeres, porque si os hablan bien, pensáis que están muertas de amores; si no os hablan, creéis que de alteradas y fantásticas lo hazen.»",
+                      "autor": "Montem.",
+                      "referencia_obra": "Diana, p. 44."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«¡Qué rico, qué gentil hombre, qué bien hablado, que afable! no le falta cosa, dirá el otro.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Eucar. 27 (4. 402)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Digo esto por ver al señor licenciado tan conversable y bien hablado.»",
+                      "autor": "J. de Pineda",
+                      "referencia_obra": ", Agr. crist. 9. 28 (R. 162. 2592)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Los labios delgados son señal de hombres discretos y bien hablados, y de dulce y graciosa conversación.»",
+                      "autor": "León",
+                      "referencia_obra": ", Cantares, 4. 3 (4. 65)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Quiere parecer graciosa, hermosa, bien hablada, amiga de donaires y buena conversación.»",
+                      "autor": "Rivad.",
+                      "referencia_obra": "Trib. 1. 19 (R. 60. 3941)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«El cura, que era hombre bien hablado --- se llegó a él y con breves aunque discretas razones, le rogó y persuadió ---.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 27 (R. 1. 320)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Se fue a buscar al bachiller Sansón Carrasco, pareciéndole que por ser bien hablado y amigo fresco de su señor le podría persuadir a que dejase tan desvariado propósito.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 2. 7 (R. 1. 417)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¡Qué rico, qué gentil hombre, qué bien hablado, que afable! no le falta cosa, dirá el otro.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Eucar. 27 (4. 402). +"
-                },
-                {
-                  "texto_cita": "«Digo esto por ver al señor licenciado tan conversable y bien hablado.»",
-                  "autor": "J. de Pineda",
-                  "referencia_obra": ", Agr. crist. 9. 28 (R. 162. 2592)."
-                },
-                {
-                  "texto_cita": "«Los labios delgados son señal de hombres discretos y bien hablados, y de dulce y graciosa conversación.»",
-                  "autor": "León",
-                  "referencia_obra": ", Cantares, 4. 3 (4. 65). +"
-                },
-                {
-                  "texto_cita": "«Quiere parecer graciosa, hermosa, bien hablada, amiga de donaires y buena conversación.»",
-                  "autor": "Rivad.",
-                  "referencia_obra": "Trib. 1. 19 (R. 60. 3941)."
-                },
-                {
-                  "texto_cita": "«El cura, que era hombre bien hablado --- se llegó a él y con breves aunque discretas razones, le rogó y persuadió ---.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 27 (R. 1. 320)."
-                },
-                {
-                  "texto_cita": "«Se fue a buscar al bachiller Sansón Carrasco, pareciéndole que por ser bien hablado y amigo fresco de su señor le podría persuadir a que dejase tan desvariado propósito.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 2. 7 (R. 1. 417). — Hablar con corrección."
-                },
-                {
-                  "texto_cita": "«Muy diferentes cosas son en castellano en cualquier otro lenguaje hablar bien y hablar con afectación, y en todos el hablar bien es diferente del común.»",
-                  "autor": "A. Mor.",
-                  "referencia_obra": "Pról. al Diál. de la dignidad del hombre (R. 65. 380)."
-                },
-                {
-                  "texto_cita": "«Unos hablan cosas buenas por parecer discretos, otros por venderse por agudos y bien hablados.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Guía, 2. 15, §4 (R. 6. 1462)."
-                },
-                {
-                  "texto_cita": "«Hallela encantada y convertida de princesa en labradora --- de olorosa en pestífera, de bien hablada en rústica.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 32 (R. 1. 473)."
-                },
-                {
-                  "texto_cita": "«Lo que ha dicho Valdepeñas | Ha sido muy bien jablado.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Musa 5, jác. 13 (R. 69. 112)."
-                },
-                {
-                  "texto_cita": "«En otros siglos pudo ser pecado | Severo estudio, y la verdad desnuda, | Y romper el silencio el bien hablado.»",
-                  "autor": "",
-                  "referencia_obra": "Id. Musa 2, epíst. satír. (R. 69. 36)."
+                  "id_limpio": "—",
+                  "definicion": "Hablar con corrección.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Muy diferentes cosas son en castellano en cualquier otro lenguaje hablar bien y hablar con afectación, y en todos el hablar bien es diferente del común.»",
+                      "autor": "A. Mor.",
+                      "referencia_obra": "Pról. al Diál. de la dignidad del hombre (R. 65. 380)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Unos hablan cosas buenas por parecer discretos, otros por venderse por agudos y bien hablados.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Guía, 2. 15, §4 (R. 6. 1462)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Hallela encantada y convertida de princesa en labradora --- de olorosa en pestífera, de bien hablada en rústica.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 2. 32 (R. 1. 473)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Lo que ha dicho Valdepeñas | Ha sido muy bien jablado.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Musa 5, jác. 13 (R. 69. 112)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«En otros siglos pudo ser pecado | Severo estudio, y la verdad desnuda, | Y romper el silencio el bien hablado.»",
+                      "autor": "",
+                      "referencia_obra": "Id. Musa 2, epíst. satír. (R. 69. 36)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ι ι )",
               "id_limpio": "— ι ι )",
-              "definicion": "Hablar de corazón, con el corazón en la mano: hablar sinceramente, sin reservas. +",
+              "definicion": "Hablar de corazón, con el corazón en la mano: hablar sinceramente, sin reservas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«A los otros que son absolutos en lo que dicen y disolutos en lo que hacen, ni de corazón el señor los habla ni aún con buenos ojos los mira.»",
                   "autor": "Guev.",
-                  "referencia_obra": "Oratorio, 1 (p. 461). X"
+                  "referencia_obra": "Oratorio, 1 (p. 461)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿El mismo plan de hablar con el corazón en la mano, es decir, en forma sana y sincera, sin rastros de segundas intenciones ni de otros intentos que los de la equidad y mutua conveniencia, ha prevalecido también nuestras relaciones.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 3 (p. 309)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— κ κ )",
               "id_limpio": "— κ κ )",
               "definicion": "Hablar de imaginación: hablar sin conocimiento de un asunto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Así los que dicen --- muy gravemente se engañan y dan testimonio que hablan de imaginación, y no de experiencia, ni según la fe.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Audi. 23 (Míst. 3. 173)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— λ λ )",
               "id_limpio": "— λ λ )",
-              "definicion": "Hablar en necio: hablar a la manera del necio. X",
+              "definicion": "Hablar en necio: hablar a la manera del necio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con los discretos hablo bien; y con los necios hablo en necio, para que me entiendan.»",
                   "autor": "",
                   "referencia_obra": "Píc. Just. 17 (Dicc. Autor.)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El pueblo era el único protector de los teatros: el premio que obtenían los poetas, los actores y los músicos se cobraba en cuartos a la puerta; no es mucho que unos y otros procurasen agradar exclusivamente a quien los pagaba, y hablarle en necio para asegurar sus aplausos.»",
                   "autor": "Mor.",
                   "referencia_obra": "Com. disc. prel. (R. 2. 310)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— μ μ )",
               "id_limpio": "— μ μ )",
-              "definicion": "Hablar en verdad: hablar con franqueza. X",
+              "definicion": "Hablar en verdad: hablar con franqueza.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Hablándote en verdad, no eras el mejor de los acomodos para una mujer del rumbo de mi hija.»",
                   "autor": "Pereda",
                   "referencia_obra": ", Pedro Sánchez (Cl. C. 145. 218)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ν ν )",
               "id_limpio": "— ν ν )",
-              "definicion": "Hablar hasta por los codos: hablar en demasía. X",
+              "definicion": "Hablar hasta por los codos: hablar en demasía.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Bebían el mejor vino rubio y miraban a las mejores mujeres de uno u otro color, tragó y habló hasta por los codos, ebrio, Heliogábalo en acción.»",
                   "autor": "Mallea",
                   "referencia_obra": ", El vínculo, p. 82."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ξ ξ )",
               "id_limpio": "— ξ ξ )",
-              "definicion": "Hablar mal, mal hablar, mal hablado: expresarse incorrectamente, proferir dicterios y palabras gruesas y mal sonantes. X",
+              "definicion": "Hablar mal, mal hablar, mal hablado: expresarse incorrectamente, proferir dicterios y palabras gruesas y mal sonantes.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mal hablar | No se puede colorar | Con elocuencia ninguna.»",
                   "autor": "Castillejo",
-                  "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 114). X"
+                  "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 114)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ese Sancho no eres tú —dijo don Quijote—; porque no sólo no eres buen callar, sino mal hablar y mal porfiar.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 43 (Cl. C. 19. 120)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mal hablado llaman al que habla mal, habiéndole de llamar mal hablador.»",
                   "autor": "Quev.",
                   "referencia_obra": "Cuento de cuentos, dedic. (R. 48. 400)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Para ser bien quisto habéis de ser mal hablado y pródigo.»",
                   "autor": "",
                   "referencia_obra": "Id. Entremetido (R. 23. 363)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dile a la mal hablada de tu abuela que los descalzos se van más fácilmente a la gloria que los calzados.»",
                   "autor": "Fern.",
                   "referencia_obra": "Caball. Cuentos populares (1. 551)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ο ο )",
               "id_limpio": "— ο ο )",
-              "definicion": "Hablar por hablar: decir una cosa sin fundamento, sin venir al caso. X",
+              "definicion": "Hablar por hablar: decir una cosa sin fundamento, sin venir al caso.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ahí ves tú por qué te lo decía, que yo no hablo por hablar, ni aconsejo para que se me respete, como hacen los señores.»",
                   "autor": "Cela",
-                  "referencia_obra": ", Nuevas andanzas, p. 79. X"
+                  "referencia_obra": ", Nuevas andanzas, p. 79."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Le dije que qué cosa tenía, y él me contó entonces que no hablaba por hablar.»",
                   "autor": "Delibes",
                   "referencia_obra": ", Diario de un cazador, p. 69."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— π π )",
               "id_limpio": "— π π )",
               "definicion": "Hablárselo todo: hablar tanto que no se deja lugar para que hablen los demás.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En las conversaciones hase de dar lugar a que hable el que habla, y él ha de ser tan remirado, que no se derrame ni divierta, ni quiera hablárselo todo; que ha de dar lugar a la respuesta.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 3 2. 1 (R. 18. 4272)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Por extensión, Expresarse, comunicarse por medios distintos al de la palabra. X",
+          "definicion": "Por extensión, Expresarse, comunicarse por medios distintos al de la palabra.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Ha de hablar la mano? | Sí. | Bien podéis, mano querida.»",
               "autor": "Lope",
-              "referencia_obra": ", El remedio en la desdicha, 1 (Cl. C. 39. 66). X"
+              "referencia_obra": ", El remedio en la desdicha, 1 (Cl. C. 39. 66)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La explosión del entusiasmo fue espontánea. No hubo gritos: no hubo vivas, pero las fisonomías hablaban, y los abrazos pronunciaron discursos y juramentos.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 2 (p. 205)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. Además con en, que señala el modo. X",
+              "definicion": "Con dat. Además con en, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Precisamente en el momento en que los ojos de Gregoria, haciendo traición a la reserva y timidez de la soltera, principian a hablarme en el dulce estilo que me hablarán los de la casada.»",
                   "autor": "Alarcón",
-                  "referencia_obra": ", El escándalo, 2 (Cl. C. 178. 72). — Además con la prep. con, que indica el instrumento. X"
-                },
+                  "referencia_obra": ", El escándalo, 2 (Cl. C. 178. 72)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Yo te hablaba con banderas, | Hija de la panadera, | La que siempre eras de pan | Entre la grey marinera.»",
-                  "autor": "Alberti",
-                  "referencia_obra": ", Marinero (Cl. Castal. 48. 127)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, que indica el instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Yo te hablaba con banderas, | Hija de la panadera, | La que siempre eras de pan | Entre la grey marinera.»",
+                      "autor": "Alberti",
+                      "referencia_obra": ", Marinero (Cl. Castal. 48. 127)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo esperaré a que tú te canses de hablar con el rostro pálido...»",
                   "autor": "Mihura",
                   "referencia_obra": ", Tres sombreros de copa (Cl. Castal. 80. 79)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Recípr. Con la prep. con, que señala el medio. X",
+              "definicion": "Recípr. Con la prep. con, que señala el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Daniel y Eduardo se miraban, se hablaban con las miradas, y la expresión del horror quedó en relieve sobre sus expresivos semblantes.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 5 (p. 515)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Locuciones. — Hablar con las manos: hacer demostraciones elocuentes con ellas. +",
-              "ejemplos_citas": [
+              "definicion": "Locuciones.",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«A otras noticias se alargaron los escritores; pero no parece posible que se adquiriesen entonces, ni fue poco percibir esto donde se hablaba con las manos y se entendía con los ojos.»",
-                  "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 1. 7 (R. 28. 2142). — Hablar con los ojos: dar a entender con alguna mirada o seña de ojo, lo que se quiere decir a otro. X"
+                  "id_limpio": "—",
+                  "definicion": "Hablar con las manos: hacer demostraciones elocuentes con ellas.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«A otras noticias se alargaron los escritores; pero no parece posible que se adquiriesen entonces, ni fue poco percibir esto donde se hablaba con las manos y se entendía con los ojos.»",
+                      "autor": "Solís",
+                      "referencia_obra": ", Conq. de Méj. 1. 7 (R. 28. 2142)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Ella también qual matutina estrella | Su rostro buelto al Rey claro, y ardiente | Hablole con los ojos, de manera, | Que al más elado risco enterneciera.»",
-                  "autor": "Aldana",
-                  "referencia_obra": ", Obr. complet. (BALH. 22. 54). X"
+                  "id_limpio": "—",
+                  "definicion": "Hablar con los ojos: dar a entender con alguna mirada o seña de ojo, lo que se quiere decir a otro.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ella también qual matutina estrella | Su rostro buelto al Rey claro, y ardiente | Hablole con los ojos, de manera, | Que al más elado risco enterneciera.»",
+                      "autor": "Aldana",
+                      "referencia_obra": ", Obr. complet. (BALH. 22. 54)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pensó con lo dicho el hombre | Sujetar la mujercilla ---| Hablándole con los ojos.»",
+                      "autor": "Góng.",
+                      "referencia_obra": "(Gran encicl. Larousse)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El alma que hablar puede con los ojos | También puede besar con la mirada.»",
+                      "autor": "Bécquer",
+                      "referencia_obra": ", Rimas, p. 43."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Pensó con lo dicho el hombre | Sujetar la mujercilla ---| Hablándole con los ojos.»",
-                  "autor": "Góng.",
-                  "referencia_obra": "(Gran encicl. Larousse). X"
-                },
-                {
-                  "texto_cita": "«El alma que hablar puede con los ojos | También puede besar con la mirada.»",
-                  "autor": "Bécquer",
-                  "referencia_obra": ", Rimas, p. 43. — Hablar por señas: expresar con ademanes y gestos lo que se quiere dar a entender. X"
-                },
-                {
-                  "texto_cita": "«La glossa en griego quiere decir lengua, porque el texto que declara: es como hombre mudo que habla por señas.»",
-                  "autor": "",
-                  "referencia_obra": "P. Sáinz, Apol. castell. sig. Oro, p. 21."
+                  "id_limpio": "—",
+                  "definicion": "Hablar por señas: expresar con ademanes y gestos lo que se quiere dar a entender.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La glossa en griego quiere decir lengua, porque el texto que declara: es como hombre mudo que habla por señas.»",
+                      "autor": "",
+                      "referencia_obra": "P. Sáinz, Apol. castell. sig. Oro, p. 21."
+                    }
+                  ]
                 }
               ]
             }
@@ -707,31 +991,38 @@
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Referido a animales, en especial a ciertas aves, Articular sonidos a imitación de los humanos. X",
+          "definicion": "Referido a animales, en especial a ciertas aves, Articular sonidos a imitación de los humanos.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Hallaron otros papagayos todos colorados, con algunas plumas en las alas todas azules y algunas negras, pero no hablan ni tienen más que la vista.»",
               "autor": "Herr.",
-              "referencia_obra": "Hist. Ind. 1. 3. 10 (Dicc. Autor.). X"
+              "referencia_obra": "Hist. Ind. 1. 3. 10 (Dicc. Autor.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hasta en las aves sólo padecen prisión y jaula las que hablan y chirrean, y, cuanto mejor y más claro, más bien cerrada y cuidadosa.»",
               "autor": "Quev.",
               "referencia_obra": "La hora de todos, 2 (Cl. C. 34. 203)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, que señala la causa. X",
+              "definicion": "Con por, que señala la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ella es maestra de todas las cosas, invencionera sutil, por quien hablan los tordos, picazas, grajos y papagayos.»",
                   "autor": "Alemán",
                   "referencia_obra": ", Gúzman, 1. 2 (Cl. C. 83. 10)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -739,18 +1030,22 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Referido a cosas, en especial a instrumentos musicales, forma la expresión Hacerlo hablar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Añadiósele a estas arrogancias ser un poco músico y tocar una guitarra a lo rasgado, de manera que decían algunos que la hacía hablar.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 51 (R. 1. 397)."
             },
             {
+              "marca": "",
               "texto_cita": "«Canta como una calandria, y toca una guitarra que la hace hablar.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 19 (R. 1. 443)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -758,133 +1053,163 @@
     {
       "id": "b)",
       "definicion": "Decir una cosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si un hombre bueno no habla palabras ociosas, menos las hablará el Señor.»",
               "autor": "Ávila",
               "referencia_obra": ", Audi. 52 (Míst. 3. 230)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y pues ella calló sus sentimientos ¿quién podrá hablarlos?»",
               "autor": "Roa",
               "referencia_obra": ", Vida de Dª Ana Ponce de León, 3. 5 (p. 132)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cuando alguno hablare cosas espirituales, óyalas con humildad.»",
               "autor": "Sta. Ter.",
-              "referencia_obra": "Avisos (R. 53. 2852). X"
+              "referencia_obra": "Avisos (R. 53. 2852)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sin hablar palabra ninguna, se comenzaron a pasear por el patio.»",
               "autor": "Cerv.",
-              "referencia_obra": "Rinconete (Cl. C. 27. 163). X"
+              "referencia_obra": "Rinconete (Cl. C. 27. 163)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sentáronse y para preguntar quién era yo, no hablaron palabra, sino el uno miró a Matorrales, y abriendo la boca y empujando hacia mí el labio de abajo, me señaló.»",
               "autor": "Quev.",
-              "referencia_obra": "Buscón. (Cl. C. 5. 264). X"
+              "referencia_obra": "Buscón. (Cl. C. 5. 264)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No hable más palabra, pues lo digo, | Que no soy yo en la Corte mal amigo.»",
               "autor": "Cáncer",
-              "referencia_obra": ", El cortesano (Cl, Castal. 21. 283). X"
+              "referencia_obra": ", El cortesano (Cl, Castal. 21. 283)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si no ha visto | Más mundo que el costurero, | La cocina, el tocador, | El estrado y el paseo, | ¿No ha de hablar mil desatinos?»",
               "autor": "Gonz. del Castillo",
-              "referencia_obra": ", La madre hipócr. (Cl. Esp. 3. 78). X"
+              "referencia_obra": ", La madre hipócr. (Cl. Esp. 3. 78)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ya estoy sentado otra vez. Habla todo lo que quieras.»",
               "autor": "Gallegos",
               "referencia_obra": ", Doña Bárbara, p. 108."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Desta manera nos dio el Criador facultad para hablar, y comunicar nuestros pensamientos y conceptos a otros hombres.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Símb. 1. 26, §4 (Dicc. Autor.). X"
+                  "referencia_obra": "Símb. 1. 26, §4 (Dicc. Autor.)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El qual, sin embargo desta acogida, no le quiso hablar ni responder palabra.»",
                   "autor": "Puente",
-                  "referencia_obra": ", Meditit. 4. 33. 2 (Dicc. Autor.). X"
+                  "referencia_obra": ", Meditit. 4. 33. 2 (Dicc. Autor.)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En darnos, como nos dio, a su Hijo, que es su más soberana palabra, nos lo habló todo junto, de una vez, y no tiene más que hablar.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 149)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, que señala el tiempo. X",
+              "definicion": "Con en, que señala el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Vamos, Jandro, ¿qué te pasa? No has hablado nada en toda la noche. Estás muy serio.»",
                   "autor": "Sastre",
                   "referencia_obra": ", La mordaza (Cl. Castal. 61. 137)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Dezía vn discreto: las mugeres, ¿por qué pensáys que hablan delgado y sutil, y escriuen gordo, tarde y malo?; Yo os lo diré: es, porque lo que se habla es de repente y, para de repente, son agudas y subtiles.»",
               "autor": "Píc. Just.",
               "referencia_obra": "(1. 196)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. adj. X",
+          "definicion": "Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si la elocuencia escrita es estática, la elocuencia hablada es dinámica.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Charlas de café, 9 (p. 197)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Por sinécdoque. X",
+          "definicion": "Por sinécdoque.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y maldad én un instante, | Aplicando su semblante | A la fraude y al engaño, | Remelando | Con él y representando | Con muy fácil movimiento | Cualquier caso o pensamiento, | Que la lengua va hablando | Falsamente.»",
               "autor": "Castillejo",
-              "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 229). +"
+              "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 229)."
             },
             {
+              "marca": "+",
               "texto_cita": "«La lengua a de ser ajena de hablar vanidades; las orejas de oírlas.»",
               "autor": "Ávila",
               "referencia_obra": ", Epist. 1. 38 (1. 467)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -892,174 +1217,270 @@
     {
       "id": "c)",
       "definicion": "Conversar, platicar (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Hincan las cabezas en las rejas, y apúntanse los requiebros por las troneras: aman al escondite. ¿Y verlos hablar queditos y rezando?»",
               "autor": "Quev.",
-              "referencia_obra": "Buscón (Cl. C. 5. 254). X"
+              "referencia_obra": "Buscón (Cl. C. 5. 254)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Una noche, después de comer, mientras Manuel recogía de la mesa los cubiertos, los platos y copas, hablaban don Telmo y Roberto.»",
               "autor": "Baroja",
-              "referencia_obra": ", La busca, 1. 4 (p. 48). X"
+              "referencia_obra": ", La busca, 1. 4 (p. 48)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pidieron bistecs a la chorrillana y una docena de cervezas. Tobías dispuso tres botellas para cada uno de los competidores y las demás para el resto. Comieron hablando apenas.»",
               "autor": "Vargas Llosa",
               "referencia_obra": ", Día domingo, p. 127."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. Además con de, que señala el tema de conversación. X",
+              "definicion": "Con dat. Además con de, que señala el tema de conversación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Veíanse con frecuencia y hablaba cada uno al otro de los progresos que en sus respectivos estudios hacían.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Abel Sánchez, 1 (p. 15)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "con la prep. con, para señalar: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "con la prep. con, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Con misterio hablan las dos: | Me holgara de conocerlas.»",
-                  "autor": "Hartz.",
-                  "referencia_obra": "La jura en Santa Gadea, 1. 5 (Cl. C. 113. 150). — El instrumento. Además con la expresión a solas. X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Con misterio hablan las dos: | Me holgara de conocerlas.»",
+                      "autor": "Hartz.",
+                      "referencia_obra": "La jura en Santa Gadea, 1. 5 (Cl. C. 113. 150)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«En el salón o en el comedor había siempre a su lado un asiento esperándome, y un tablero de damas o los naipes nos servían de pretexto para hablar a solas, menos con palabras que con miradas y sonrisas.»",
-                  "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 116. — Además con hasta. X"
+                  "id_limpio": "—",
+                  "definicion": "El instrumento. Además con la expresión a solas.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En el salón o en el comedor había siempre a su lado un asiento esperándome, y un tablero de damas o los naipes nos servían de pretexto para hablar a solas, menos con palabras que con miradas y sonrisas.»",
+                      "autor": "Isaacs",
+                      "referencia_obra": ", María, p. 116."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Calamocha se encamina a la puerta del foro y vuelve; se acerca a Don Carlos y hablan con reserva hasta el fin de la escena, en que Calamocha se adelanta a saludar a Simón.»",
-                  "autor": "Mor.",
-                  "referencia_obra": "El sí de las niñas (Cl. Ebro, 39. 64)."
+                  "id_limpio": "—",
+                  "definicion": "Además con hasta.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Calamocha se encamina a la puerta del foro y vuelve; se acerca a Don Carlos y hablan con reserva hasta el fin de la escena, en que Calamocha se adelanta a saludar a Simón.»",
+                      "autor": "Mor.",
+                      "referencia_obra": "El sí de las niñas (Cl. Ebro, 39. 64)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por, que señala el medio, y a el destino. X",
+              "definicion": "Con por, que señala el medio, y a el destino.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Esta tarde la voy a dedicar a mandar telegramas y hablar por teléfono a Buenos Aires.»",
                   "autor": "Onetti",
                   "referencia_obra": ", El astillero, p. 40."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con sin. X",
+              "definicion": "Con sin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No quería sino saber d’ella si es confesa, porque hablaríamos sin miedo.»",
                   "autor": "Delicado",
-                  "referencia_obra": ", La Lozana (Cl. Castal. 13. 51). El término es una prop. infinitiva. X"
+                  "referencia_obra": ", La Lozana (Cl. Castal. 13. 51). El término es una prop. infinitiva."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Siguieron hablando, sin prestar atención a los pasos de la vieja que iban de un lado a otro apresuradamente.»",
                   "autor": "",
-                  "referencia_obra": "Blasco Ibáñez, Cañas y barro, 8 (p. 193). X"
+                  "referencia_obra": "Blasco Ibáñez, Cañas y barro, 8 (p. 193)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El descubierto placer de reunirse y hablar sin sentir el paso del tiempo ni los toques de ánimas y de queda.»",
                   "autor": "",
                   "referencia_obra": "Yáñez, Al filo del agua, p. 375."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con la prep. con, adquiere sentido recíproco. X",
+          "definicion": "Con la prep. con, adquiere sentido recíproco.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Iban su camino hablando el uno con el otro. Y debió alguno dellos de mover la plática y decir.»",
               "autor": "",
               "referencia_obra": "Vásquez, Sermones (Cl. C. 123. 24)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Piensas, Lenio, por ventura, que siempre estás hablando con el simple Erasto, que no sabe contradecir tus opiniones?»",
               "autor": "Cerv.",
-              "referencia_obra": "Gal. 4 (R. 1. 542). X"
+              "referencia_obra": "Gal. 4 (R. 1. 542)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hablaba tan quedo Selenisa con Radirobanes, que no pudo Argenis percebir nada de lo que se trataba.»",
               "autor": "",
-              "referencia_obra": "Corr. Argens. 4. 183 (Dicc. Autor.). X"
+              "referencia_obra": "Corr. Argens. 4. 183 (Dicc. Autor.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Anoche nos dirigíamos mi compañero y yo al paraje donde tenemos ya costumbre de hablar con nuestro repúblico Grocio.»",
               "autor": "",
-              "referencia_obra": "M. F. Suárez, Sueños, 1 (p. 192). X"
+              "referencia_obra": "M. F. Suárez, Sueños, 1 (p. 192)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Todo sigue en silencio: muchos hablan con las estrellas.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Biogr. del Caribe, 1. 2 (p. 31). — Además con de, en, o sobre, que señalan el tema de conversación."
+              "referencia_obra": ", Biogr. del Caribe, 1. 2 (p. 31)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con de, en, o sobre, que señalan el tema de conversación.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«No digo nada de ello, porque hablo con monjas --- en cosa tan sabida.»",
+                  "autor": "Sta. Ter.",
+                  "referencia_obra": "Cam. perf. 18 (R. 53. 340²)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Ni jamás hablé con ella | De amor ni de casamiento.»",
+                  "autor": "Lope",
+                  "referencia_obra": ", La discreta enamorada, 3. 3 (R. 24. 172¹)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Quisiera hablar contigo unos instantes... sobre un asunto que me importa mucho.»",
+                  "autor": "",
+                  "referencia_obra": "M. de La Rosa, La conjuración de Venecia, 3 (Cl. C. 107. 357)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Aquella beata Catalina Tomás, la valldemosina que hablaba con los ángeles del cielo mallorquín, con los espíritus cristianos de las rocas, de los árboles, de las calas, de las cuevas de Mallorca.»",
+                  "autor": "Unamuno",
+                  "referencia_obra": ", Andanzas y visiones esp. p. 119."
+                }
+              ]
             },
             {
-              "texto_cita": "«No digo nada de ello, porque hablo con monjas --- en cosa tan sabida.»",
-              "autor": "Sta. Ter.",
-              "referencia_obra": "Cam. perf. 18 (R. 53. 340²)."
+              "id_limpio": "—",
+              "definicion": "Además con por, que señala el medio.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«¿Qué ha pasado? — Tu hermano hablaba con Juan por teléfono y me hizo salir.»",
+                  "autor": "Buero Vallejo",
+                  "referencia_obra": ", El tragaluz (Cl. Castal. 35. 241)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Ni jamás hablé con ella | De amor ni de casamiento.»",
-              "autor": "Lope",
-              "referencia_obra": ", La discreta enamorada, 3. 3 (R. 24. 172¹). X"
+              "id_limpio": "—",
+              "definicion": "Además con entre y en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Era de ver la formalidad con que hablábamos, ya entre nosotros solos, ya en presencia de profanos, de todo lo atañero a nuestro Instituto.»",
+                  "autor": "Marroquín",
+                  "referencia_obra": ", Blas Gil, 6 (p. 50)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Quisiera hablar contigo unos instantes... sobre un asunto que me importa mucho.»",
-              "autor": "",
-              "referencia_obra": "M. de La Rosa, La conjuración de Venecia, 3 (Cl. C. 107. 357). X"
+              "id_limpio": "—",
+              "definicion": "Con la expresión en voz alta.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Le estaba yo contando la reciente escaramuza de mi padrino con el pulpero, cuando un desconocido se nos acercó, me dio la mano y comenzó a hablar en voz alta con todo el mundo.»",
+                  "autor": "Güiraldes",
+                  "referencia_obra": ", Don Segundo Sombra, 23 (p. 160)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Aquella beata Catalina Tomás, la valldemosina que hablaba con los ángeles del cielo mallorquín, con los espíritus cristianos de las rocas, de los árboles, de las calas, de las cuevas de Mallorca.»",
-              "autor": "Unamuno",
-              "referencia_obra": ", Andanzas y visiones esp. p. 119. — Además con por, que señala el medio. X"
-            },
-            {
-              "texto_cita": "«¿Qué ha pasado? — Tu hermano hablaba con Juan por teléfono y me hizo salir.»",
-              "autor": "Buero Vallejo",
-              "referencia_obra": ", El tragaluz (Cl. Castal. 35. 241). — Además con entre y en. X"
-            },
-            {
-              "texto_cita": "«Era de ver la formalidad con que hablábamos, ya entre nosotros solos, ya en presencia de profanos, de todo lo atañero a nuestro Instituto.»",
-              "autor": "Marroquín",
-              "referencia_obra": ", Blas Gil, 6 (p. 50). — Con la expresión en voz alta. X"
-            },
-            {
-              "texto_cita": "«Le estaba yo contando la reciente escaramuza de mi padrino con el pulpero, cuando un desconocido se nos acercó, me dio la mano y comenzó a hablar en voz alta con todo el mundo.»",
-              "autor": "Güiraldes",
-              "referencia_obra": ", Don Segundo Sombra, 23 (p. 160). — En los siguientes ejemplos, Clem. dice: \"La construcción debiera ser con que o con quien hablamos.\" Coment. 4 (p. 444)."
-            },
-            {
-              "texto_cita": "«Aquellas mismas labradoras que venían con ella, que hablamos a la salida del Toboso.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 23 (R. 1. 453)."
-            },
-            {
-              "texto_cita": "«Aquella dama que hablando | Estabais, cuando llegó | Hoy mi criado ---.»",
-              "autor": "Cald.",
-              "referencia_obra": "Mañana será otro dia, 3. 16 (R. 7. 543²)."
+              "id_limpio": "—",
+              "definicion": "En los siguientes ejemplos, Clem. dice: \"La construcción debiera ser con que o con quien hablamos.\" Coment. 4 (p. 444).",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Aquellas mismas labradoras que venían con ella, que hablamos a la salida del Toboso.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 2. 23 (R. 1. 453)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Aquella dama que hablando | Estabais, cuando llegó | Hoy mi criado ---.»",
+                  "autor": "Cald.",
+                  "referencia_obra": "Mañana será otro dia, 3. 16 (R. 7. 543²)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1067,124 +1488,153 @@
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Recípr. Con la expresión en voz baja. X",
+          "definicion": "Recípr. Con la expresión en voz baja.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las otras hijas de la princesa, que sentadas en rueda bordaban el manto de Santa Margarita de Ligura, habláronse en voz baja juntando las cabezas, y salieron de la estancia con alegre murmullo.»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Sonata de primav. p. 44."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con entre que señala el medio. X",
+              "definicion": "Con entre que señala el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Creéis acaso que dos hombres puedan deveras entenderse, no digo ya comprenderse, cuando se hablan entre el rumor, que de todas partes les llega, de la muchedumbre, entre el zumbido del enjambre humano atareado o alborotado?»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Andanzas y visiones esp. p. 19."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la expresión a medida que. X",
+              "definicion": "Con la expresión a medida que.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando levanto los ojos hasta los peñascos de la ribera, que asoman la tostada cabeza entre las olas, distingo grupos de muchachos desnudos que se arrojan desde ellos y nadan grandes distancias, hablándose a medida que se separan y lanzando gritos.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de estío, p. 87."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Trans. Adquiere el sentido de cambiar, cruzar palabra. Con la prep. con en sentido recíproco. X",
+          "definicion": "Trans. Adquiere el sentido de cambiar, cruzar palabra. Con la prep. con en sentido recíproco.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Señor Conde, yo me atrevo, | En fe de vuestro ualor | Que me aguardéis un momento | Junto a aquel coche, entretanto | Que con aquel caballero | Hablo dos palabras solas.»",
               "autor": "Lope",
               "referencia_obra": ", Las bizarrías de Belisa, 1 (Cl. C. 157. 152)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Oliendo la estufa, dijo: \"Dejen eso, que después de cenar se hablará, que se enfria\".»",
               "autor": "Quev.",
               "referencia_obra": "Buscón, 4 (Cl. C. 5. 52)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Está advertido de aquí adelante en una cosa para que te abstengas y reportes en el hablar demasiado conmigo.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 20 (R. 1. 299)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Hablando se entiende la gente fr. fam. con que se denota la buena inteligencia que se logra dialogando. X",
+              "definicion": "Hablando se entiende la gente fr. fam. con que se denota la buena inteligencia que se logra dialogando.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Por mí pienso que un arreglo no debía de ser difícil, que hablando se entienden las gentes y preguntando se llega a Roma.»",
                   "autor": "Cela",
                   "referencia_obra": ", Nuevas andanzas, p. 81."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Hablar entre sí consigo mismo: hablar uno, como si conversara con otro. X",
+              "definicion": "Hablar entre sí consigo mismo: hablar uno, como si conversara con otro.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Estava Rosicler tan maravillado de todo lo que’l sabio dezía, que muy confuso y turbado, entre sí mesmo se hablava, entendiendo bien todo quanto le avía dicho.»",
                   "autor": "Ortúñez de Calahorra",
-                  "referencia_obra": ", Espejo, 1 (Cl. C. 193. 271). X"
+                  "referencia_obra": ", Espejo, 1 (Cl. C. 193. 271)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ahora me acuerdo haberle oído decir muchas veces, hablando entre sí, que quería hacerse caballero andante, e irse a buscar las aventuras por esos mundos.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 5 (Cl. C. 4. 140)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Comenzó a hacer un gran montón de discursos, y hablando consigo mismo decía...»",
                   "autor": "",
-                  "referencia_obra": "Id. Celoso extremeño, 7 (R. 1. 173¹). X"
+                  "referencia_obra": "Id. Celoso extremeño, 7 (R. 1. 173¹)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Vi venir hacia mí una cosa que parecía hombre sobre una mula, hablando entre sí a solas.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 1. 18 (Cl. C. 43. 227)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1193,113 +1643,159 @@
     {
       "id": "d)",
       "definicion": "En particular, Dirigir la palabra a alguien (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con dat. X",
+          "definicion": "Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Lycio mucho más le hablara, | Y tenía más que hablalle, | Si ella no se lo estorbara, | que con desdeñosa cara | Al triste dize que calle.»",
               "autor": "Gil Polo",
-              "referencia_obra": ", Diana (Cl. C. 135. 133). X"
+              "referencia_obra": ", Diana (Cl. C. 135. 133)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Para mental no es este tiempo en ninguna manera, porque no están las potencias para ello. Antes hace mayor daño la soledad, con que es otro tormento por sí estar con naide, ni que la hablen.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Mor. 6. 1 (Cl. C. 1. 26)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si me hablan, no hago más de oír sin ningún trabajo.»",
               "autor": "",
               "referencia_obra": "Ead. Vida, 25 (R. 53. 77²)."
             },
             {
+              "marca": "",
               "texto_cita": "«Allí decía cuán diferente cosa es hablar a estos padres descalzos, digo al padre maestro Gracián y a Mariano, de lo que por allá yo oya.»",
               "autor": "",
               "referencia_obra": "Ead. Cartas, 1. 13 (R. 55. 60¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«A mí me hubiera pesado que él la hubiera hablado, que quizá la alborotara.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 41 (R. 1. 368²)."
             },
             {
+              "marca": "",
               "texto_cita": "«Para que te acredites mayormente | Con estudiantes, llega ahora y háblalos.»",
               "autor": "Lope",
               "referencia_obra": ", El bobo del colegio, 2. 12 (R. 24. 191¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Que ciertos vienen al puesto! --- | A hablar ninguno me atrevo.»",
               "autor": "",
               "referencia_obra": "Id. La noche toledana, 3. 17 (R. 24. 221²)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Que haya quien quiera a estos mandrias! | ¡Que haya mujer que los hable!»",
               "autor": "Rojas",
-              "referencia_obra": ", Donde hay agravios no hay celos, 3 (R. 54. 166¹). X"
+              "referencia_obra": ", Donde hay agravios no hay celos, 3 (R. 54. 166¹)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Turbome y alentome igualmente tan impensado encuentro, y el primer movimiento lo atribuyó a prodigio y milagro; hablé y llamé por sus nombres a unos y a otros.»",
               "autor": "Césp. y Men.",
-              "referencia_obra": "Sold. Pind. (Cl. C. 203. 52). X"
+              "referencia_obra": "Sold. Pind. (Cl. C. 203. 52)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hablar a los animales fue una insensatez que jamás volví a hacer en mis días.»",
               "autor": "Cela",
               "referencia_obra": ", Nuevas andanzas, p. 123."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, que señala: — una actitud del sujeto.",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Siempre hablaba a su señor con la gorra en la mano.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 20 (R. 1. 299¹). — El modo."
+                  "id_limpio": "—",
+                  "definicion": "una actitud del sujeto.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Siempre hablaba a su señor con la gorra en la mano.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 20 (R. 1. 299¹)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Hablar a todos con alegría moderada.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Avisos, (R. 53. 285¹). X"
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Hablar a todos con alegría moderada.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Avisos, (R. 53. 285¹)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cierra un claro anochecer | Lentos ojos de amatista, | Y ella al caminante chista | O habla con voz de mujer.»",
+                      "autor": "Lugones",
+                      "referencia_obra": ", El libro de los paisajes, p. 157."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Cierra un claro anochecer | Lentos ojos de amatista, | Y ella al caminante chista | O habla con voz de mujer.»",
-                  "autor": "Lugones",
-                  "referencia_obra": ", El libro de los paisajes, p. 157. — La persona. +"
-                },
-                {
-                  "texto_cita": "«No es fuera de propósito lo que digo, si hablo con todos.»",
-                  "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 12 (1. 158)."
-                },
-                {
-                  "texto_cita": "«Pero dirán por ventura las señoras delicadas de agora, que esta pintura es grosera, y que aquesta casada es mujer de algún labrador, que hila y teje, y mujer de estado diferente del suyo, y que ansí no habla con ellas.»",
-                  "autor": "León",
-                  "referencia_obra": ", Perf. cas. 5 (3. 445)."
-                },
-                {
-                  "texto_cita": "«Usted es chusco, y con la gente | De ese humor yo no me hablo.»",
-                  "autor": "R. de la Cruz",
-                  "referencia_obra": ", El mago de repente (2. 215)."
+                  "id_limpio": "—",
+                  "definicion": "La persona.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«No es fuera de propósito lo que digo, si hablo con todos.»",
+                      "autor": "Oviedo",
+                      "referencia_obra": ", Quinquag. 1. 12 (1. 158)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Pero dirán por ventura las señoras delicadas de agora, que esta pintura es grosera, y que aquesta casada es mujer de algún labrador, que hila y teje, y mujer de estado diferente del suyo, y que ansí no habla con ellas.»",
+                      "autor": "León",
+                      "referencia_obra": ", Perf. cas. 5 (3. 445)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Usted es chusco, y con la gente | De ese humor yo no me hablo.»",
+                      "autor": "R. de la Cruz",
+                      "referencia_obra": ", El mago de repente (2. 215)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por, con el sentido de “en lugar de”. +",
+              "definicion": "Con por, con el sentido de “en lugar de”.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Me dio [la señora] la bien venida, de que yo quedé dudoso y confuso, entendiendo que realmente me hablaba por otro.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 3. 8 (Cl. C. 51. 186)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1307,102 +1803,125 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Tnans. Con en, que señala el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Yo hablé dos [monjas] en Toledo, y veo que son buenas, y como van, van bien.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cartas, 4. 4 (R. 53. 45¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Recípr. +",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Ni se podían los egipcios oír, aunque se llamaban, ni entender, aunque se hablaban.»",
               "autor": "Guev.",
-              "referencia_obra": "Oratorio, 20 (p. 571). X"
+              "referencia_obra": "Oratorio, 20 (p. 571)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ninguno de estos dos personajes se hablaba una palabra.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 3 (p. 266). X"
+              "referencia_obra": ", Amalia, 3 (p. 266)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De una orilla a la otra se hablan los de oriente y occidente, los del norte y los del sur.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 1 (p. 16)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Impers. Con dat. y con la prep. con. X",
+          "definicion": "Impers. Con dat. y con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A los primeros se les habla con el sombrero en la mano, y se les trata con respeto; a los segundos se les oye o se les manda con la gorra calada, y se les trata de tú.»",
               "autor": "Isla",
               "referencia_obra": ", Fr. Ger. pról. (Cl. C. 148. 4)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando se habla directamente a la persona se dice vuestra santidad que bendiga, vuestra excelencia puede mandarme, vuestra señoria será obedecido, vuestra merced me permita.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 3 (p. 231)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Trans. Con acus. de cosa y dat. de persona. X",
+          "definicion": "Trans. Con acus. de cosa y dat. de persona.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mirábame con un gesto airado, y de rabia no podía hablarme palabra.»",
               "autor": "Gil Polo",
-              "referencia_obra": ", Diana (Cl. C. 135. 55). X"
+              "referencia_obra": ", Diana (Cl. C. 135. 55)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Él se encerró en un aposento y por los agujeros de la cerradura estuvo mirando y escuchando lo que los dos trataban, y vio que en más de media hora Lotario no habló palabra a Camila, ni se la hablara si allí estuviera un siglo.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 33 (Cl. C. 8. 208). X"
+              "referencia_obra": "Quij. 1. 33 (Cl. C. 8. 208)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Llegaron ambos --- a la deseada puerta de la casa de Japelín, de la qual salía acaso una criada que, viéndole, bolvió corriendo, sin hablarle palabra, la escalera arriba dando una mano con otra, con muestras de regocijo.»",
               "autor": "",
-              "referencia_obra": "Avell, Quij. 6. 15 (Cl. C. 175. 61). X"
+              "referencia_obra": "Avell, Quij. 6. 15 (Cl. C. 175. 61)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Zorriándose en su lenguaje, al parecer razonamientos coléricos, el que tomó el antojo, con él en la mano izquierda, habló al olandés estas palabras.»",
               "autor": "Quev.",
               "referencia_obra": "La hora de todos, 2 (Cl. C. 34. 215)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar el modo. X",
+              "definicion": "Con la prep. con, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ella, --- le recibía cada vez más apasionada, más deseosa, más enferma de ansia, como si toda su alma presintiera el alejamiento y quisiese adherirse al objeto de su amor, ---. Ya no le hablaba con aquel acento superior y feliz.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 101)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1411,68 +1930,84 @@
     {
       "id": "e)",
       "definicion": "Enamorar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Yo nunca tu hermana hable.»",
               "autor": "Lope",
               "referencia_obra": ", El bobo del colegio, 1. 6 (R. 24. 183³)."
             },
             {
+              "marca": "",
               "texto_cita": "«Fulgencia ¿pudo querer | Ni hablar ningún hombre allí?»",
               "autor": "",
               "referencia_obra": "Id. ib. 3. 2 (R. 24. 195²)."
             },
             {
+              "marca": "",
               "texto_cita": "«Él ha de hablar cuantas damas | Le ofrecieren sus personas.»",
               "autor": "",
               "referencia_obra": "Id. La noche toledana, 2. 5 (R. 24. 212³)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hemos de mudar de traje. | —Quiero hablar mi bien ansí | —¿Quién es tu bien? — Mi ángel es.»",
               "autor": "Tirso",
               "referencia_obra": ", La villana de la Sagra, 2. 7 (R. 5. 315¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«En fin, Estrella, ¿podré | Esta noche hablar mi amante?»",
               "autor": "Rojas",
               "referencia_obra": ", No hay amigo para amigo, 2 (R. 54. 89²)."
             },
             {
+              "marca": "",
               "texto_cita": "«Vos habláis damas de tan alta esfera | Que la tercer palabra es la pollera.»",
               "autor": "Mto.",
               "referencia_obra": "De fuera vendrá, 1. 1 (R. 39. 57²)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, que señala el tiempo, además con por. X",
+              "definicion": "Con a, que señala el tiempo, además con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La muchacha se remató, codiciosa de marido tan rico, y trató de que la fuese a hablar, a la una de la noche, por un corredor que está a un tejado, donde estaba la ventana de su aposento.»",
                   "autor": "Quev.",
                   "referencia_obra": "Buscón (Cl. C. 5. 199)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con desde. X",
+              "definicion": "Con desde.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Es verdad que como vive | Tan cerca, que sus ventanas | Dan enfrente de las nuestras, | Desde aquí puedes hablarla | Todos los días.»",
                   "autor": "Mor.",
                   "referencia_obra": "El viejo y la niña, 1 (p. 34)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1481,36 +2016,45 @@
     {
       "id": "f)",
       "definicion": "Convenir, concertar algo (part).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pero otro sirviente, que debía de estar hablado, acudió y preguntome qué la quería.»",
               "autor": "Espinel",
-              "referencia_obra": ", Escud. 3. 9 (R. 18. 457²). X"
+              "referencia_obra": ", Escud. 3. 9 (R. 18. 457²)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Al otro dia ya estaba comprada cartilla y hablado al maestro. Fui a la escuela; recibiome muy alegre; dijome que tenía cara de hombre agudo y buen entendimiento.»",
               "autor": "Quev.",
               "referencia_obra": "Buscón, 2 (Cl. C. 5. 22)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No puede ser, no, Costanza: | Hablada vienes sin duda | De mi padre, y en su ayuda | Solicitas mi mudanza.»",
                   "autor": "Alarcón",
                   "referencia_obra": ", No hay mal que por bien no venga, 2. 1 (R. 20. 183¹)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1519,59 +2063,81 @@
     {
       "id": "g)",
       "definicion": "Murmurar, criticar, opinar acerca de las personas y sus actos (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con contra. X",
+          "definicion": "Con contra.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No se puede hablar contra la guerra porque ésta supone el bien de la patria, la libertad de los pueblos, la felicidad, el aniquilamiento de los enemigos odiados.»",
               "autor": "Marañón",
               "referencia_obra": ", Tiempo viejo, p. 66."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, para señalar el asunto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Hablan después del triunfo en la molesta | Guerra, del enemigo ya seguros, | Y entre sí coronados hacen fiesta.»",
                   "autor": "",
                   "referencia_obra": "B. Argens. canc. A la fuente anheló (R. 42. 330¹)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Advierte pues que de hoy más | No hables de mí ni conmigo.»",
                   "autor": "Lope",
                   "referencia_obra": ", La hermosura aborrecida, 1. 6 (R. 34. 97³)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Hable más de tu olor y de tu fuego | Aquel a quien invidias de favores | No alteran el sosiego.»",
                   "autor": "Rioja",
                   "referencia_obra": ", silva 2 (R. 32. 382¹)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mentís —¿Qué es esto?— Mentís, | Mal hablado; que en ausencia | De mujeres que engañastes, | No es bien hecho hablar mal dellas.»",
                   "autor": "Tirso",
                   "referencia_obra": ", Mari-Hernández, 3. 15 (R. 5. 124)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pues hablar de ti, señor, | Determina.»",
                   "autor": "T. Naharro",
-                  "referencia_obra": ", Com. Trofea (Propal. 1. 259). +"
+                  "referencia_obra": ", Com. Trofea (Propal. 1. 259)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Tan oculto como vivo, y, sin embargo, hay quien habla de mi»",
                   "autor": "Ganiv.",
-                  "referencia_obra": "Pío Cid, 3 (1. 238). — Además con la prep. con. X"
-                },
+                  "referencia_obra": "Pío Cid, 3 (1. 238)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Todas aquellas gentes vivian encerradas en su casa el año íntegro, y el día que salían a tomar refrescos en casa de un amigo hablaban con odio del mundo.»",
-                  "autor": "Uslar-Pietri",
-                  "referencia_obra": ", Lanzas coloradas, 3 (p. 35)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Todas aquellas gentes vivian encerradas en su casa el año íntegro, y el día que salían a tomar refrescos en casa de un amigo hablaban con odio del mundo.»",
+                      "autor": "Uslar-Pietri",
+                      "referencia_obra": ", Lanzas coloradas, 3 (p. 35)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1579,18 +2145,22 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En el alcázar mañana, | Amigo, en esa mujer | Hablaremos.»",
                   "autor": "Lope",
                   "referencia_obra": ", La estrella de Sevilla, 2. 2 (R. 24. 142³)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En este punto las dos | En vos hablábamos.»",
                   "autor": "Cald.",
                   "referencia_obra": "Hombre pobre todo es trams. 2. 2 (R. 7. 510¹)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1598,23 +2168,28 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Impers. Con de, que señala el asunto o tema.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Moriría, | Y así me acabaría [la fatiga], sin que de mí en el mundo se hablase.»",
               "autor": "Garcil.",
-              "referencia_obra": "canc. 4 (R. 32. 30²). X"
+              "referencia_obra": "canc. 4 (R. 32. 30²)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Cuál se hablaría en la corte | De Isabell y ¡qué denuestos | Los ricoshombres no haría | Al hijo y la madre a un tiempo.»",
               "autor": "Mel.",
-              "referencia_obra": "Poes. (Cl. C. 64. 239). X"
+              "referencia_obra": "Poes. (Cl. C. 64. 239)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Me hallé poco ha en una concurrencia en que se hablaba de un hombre que se deleitaba en fomentar cizaña en las familias, suscitar pleitos entre los vecinos, sorprender doncellas inocentes.»",
               "autor": "Cadalso",
               "referencia_obra": ", Cartas marr. 37 (Cl. C. 112. 160)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1622,105 +2197,130 @@
     {
       "id": "h)",
       "definicion": "Pronunciar discursos, predicar (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Habló Manuel Deulofeu, lleno de fuego criollo, con su alma rica en bondad. Habló Francisco María González, clarín del entusiasmo y la belleza, y hermoso corazón cubano.»",
               "autor": "Martí",
-              "referencia_obra": ", Sus mejores páginas, p. 213. X"
+              "referencia_obra": ", Sus mejores páginas, p. 213."
             },
             {
+              "marca": "X",
               "texto_cita": "«El mozo que ahora se levanta es el último europeo de nuestro convite. Luego, no hablarán sino americanos que sueñan con el alma puesta sobre la teoría de sus patrias.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Estud. mesa redonda, 5 (p. 77)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. +",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Habló [el nigromántico] con el familiar con una arenga muy larga.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 3. 4 (Cl. C. 52. 152)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la expresión en nombre de. X",
+              "definicion": "Con la expresión en nombre de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Aceptad de muy buen grado la comisión de hablar en nombre y representación del gobierno en la inauguración del monumento.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 2 (p. 284)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por, que señala el lugar. Además con la expresión en su descargo. X",
+              "definicion": "Con por, que señala el lugar. Además con la expresión en su descargo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se reputava Anselmo, la general estimación de estudioso, de cuerdo, de afable, de apacible, de humilde y cortesano, hablava en su descargo por las calles y plaças.»",
                   "autor": "Césp. y Men.",
                   "referencia_obra": "Sold. Pínd. (Cl. C. 203. 137)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Trans. X",
+          "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Por Dios, que les es ganancia | Ser vos su procurador | Y que sois buen orador, | Si tal fuese la sustancia | Que tratáis; | Y Ojalá lo que habláis | Tuviese alguna, Fileno.»",
               "autor": "Castillejo",
-              "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 162). +"
+              "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 162)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Dios es el que abre la boca de los que hablan sus palabras diuinas.»",
               "autor": "Oviedo",
               "referencia_obra": ", Quinquag, 1. 2 (1. 23)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con de, que señala el agente. Además con sobre. +",
+          "definicion": "Part. Con de, que señala el agente. Además con sobre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«He recebido mala espina de la sanctidad de algunos monasterios de religiosos, cuyos mozos de servicio hallaba de malas costumbres --- y, aún hablados de mi sobre ello, decían que no era maravilla.»",
               "autor": "",
               "referencia_obra": "J. de Pineda, Agr. crist. 6. 12 (R. 162. 26²)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Por sinécdoque.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mirad, señora, a esta gente --- y dadles el conocimiento de los deseos de vuestro corazón, sin mirar la indignidad de mi lengua que los ha de hablar.»",
               "autor": "Ávila",
               "referencia_obra": ", Festiv. 10 (5. 290)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1728,61 +2328,75 @@
     {
       "id": "i)",
       "definicion": "Referirse (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con la prep. con. +",
+          "definicion": "Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Como quiera que estas palabras apostólicas se dirijan a todos los fieles cristianos, empero, más particularmente hablan con los varones recogidos y perfectos.»",
               "autor": "Guev.",
-              "referencia_obra": "Oratorio, 22 (p. 580). +"
+              "referencia_obra": "Oratorio, 22 (p. 580)."
             },
             {
+              "marca": "+",
               "texto_cita": "«No he podido excusar estos advertimientos, porque si bien habla con vuestra alteza este libro, también habla con los demás príncipes que son y serán.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 5 (R. 25. 20²)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los elogios que se escriben en las urnas no hablan con el que fue sino con los que son.»",
               "autor": "",
               "referencia_obra": "Id. ib. 16 (R. 25. 45¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Todo esto habla con quien desea ocupaciones públicas, no con quien, desengañado, procura retirarse a vivir para sí.»",
               "autor": "",
               "referencia_obra": "Id. ib. 23 (R. 25. 65²)."
             },
             {
+              "marca": "",
               "texto_cita": "«Habla también con los reyes justos la ruina de los tiranos.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. dedic. (R. 28. 205)."
             },
             {
+              "marca": "",
               "texto_cita": "«Que de nada habían servido las [leyes] promulgadas en materia de trajes por los Reyes Católicos y sus cuatro sucesores. Pero que sobre todo habían sido claramente despreciadas las que hablaban con las mujeres.»",
               "autor": "Jovell.",
               "referencia_obra": "Voto sobre la introd. de muselinas (R. 50. 47)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si esto sucedió con las leyes suntuarias que hablaban derechamente con los hombres, ¿cuánto más sucederá con aquellas que dirigen a las mujeres?»",
               "autor": "",
               "referencia_obra": "Id. ib. (R. 50. 48¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de. +",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«¡Quién sabe si más adelante --- volveremos a ser lo que éramos! Yo hablo de ahora, y ahora no quiero que pongas más los pies en mi casa.»",
                   "autor": "Ganiv.",
                   "referencia_obra": "Pío Cid, 5 (2. 168)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1791,95 +2405,117 @@
     {
       "id": "j)",
       "definicion": "Exponer, tratar de algo (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con de, para señalar el asunto. X",
+          "definicion": "Con de, para señalar el asunto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si dar a la verdad su lugar | Queréis, sin tocar extremos, | De lo general hablemos, | Dejad lo particular.»",
               "autor": "Castillejo",
               "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 120)."
             },
             {
+              "marca": "",
               "texto_cita": "«Conviene mucho para guardar la gracia de Dios hablar poco de ella y obrar mucho con ella.»",
               "autor": "Ávila",
               "referencia_obra": ", Epist. 1. 22 (6. 99)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y porque para vosotras no es menester, no hay que hablar dello.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cam. perf. 18 (R. 53. 340²)."
             },
             {
+              "marca": "",
               "texto_cita": "«Calla, | O habla de otra cosa, si pretendes | Que te responda.»",
               "autor": "Jáur.",
               "referencia_obra": "Aminta, 1 (R. 42. 133)."
             },
             {
+              "marca": "",
               "texto_cita": "«Esto todo era público y notorio en toda la ciudad, y todos hablaban dello.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 28 (R. 1. 328²)."
             },
             {
+              "marca": "",
               "texto_cita": "«De sus culpas y fallas hablaba muchas veces.»",
               "autor": "L. Palma",
-              "referencia_obra": ", Vida de G. de la Palm., p. 57. X"
+              "referencia_obra": ", Vida de G. de la Palm., p. 57."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los más celosos de su nacionalidad, como el cantor de Ituzaingó por ejemplo, hablaban sin reserva de la audacia extranjera.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 1 (p. 48). X"
+              "referencia_obra": ", Amalia, 1 (p. 48)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ya está ahi la fábula de las Amazonas; él habla muy seguro de la isla que sólo habitan estas hembras belicosas.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 2 (p. 32)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿De qué proyecto me habláis? | —Muy flaco sois de memoria: | ¿No os acordáis de aquel día | Que partisteis a Segovia?»",
                   "autor": "V. de la Vega",
-                  "referencia_obra": ", Don Fernando, 2. 9 (p. 227). +"
+                  "referencia_obra": ", Don Fernando, 2. 9 (p. 227)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Pudo tanto [en Diego Velázquez] el hablarle a propósito de lo que temía, que el despreciar al astrólogo fue principio de creer a los demás.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 1. 11 (R. 28. 218²)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, que señala el modo. X",
+              "definicion": "Con la prep. con, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Don Alonso, viéndose ante un público numeroso, comenzó a hablar con volubilidad de los Estados Unidos, de Méjico y de las Repúblicas sudamericanas.»",
                   "autor": "Baroja",
                   "referencia_obra": ", La busca, 2, 9 (p. 115)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por, que señala el lugar. X",
+              "definicion": "Con por, que señala el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Hablan por las esquinas de yerbas venenosas y bocados que le llevarán a la muerte.»",
                   "autor": "Pemán",
                   "referencia_obra": ", Felipe II, 1. 14 (p. 94)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1887,231 +2523,318 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con en, para denotar el objeto con respecto al cual se expresa un pensamiento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tornemos a hablar en la que comencé a deciros esta mañana.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. (Mayáns, 1)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ríome de ver cuán contra vuestra voluntad os hacemos hablar en estas niñerías.»",
               "autor": "Mayáns",
               "referencia_obra": ", 42)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se volvieron a Alora, hablando en la valentía y buenas maneras del abencerraje.»",
               "autor": "Montem.",
-              "referencia_obra": "Diana, 4 (p. 158). +"
+              "referencia_obra": "Diana, 4 (p. 158)."
             },
             {
+              "marca": "+",
               "texto_cita": "«En lo que más cada uno ama, en aquello más que en otra cosa habla.»",
               "autor": "Guev.",
               "referencia_obra": "Oratorio, 21 (p. 576)."
             },
             {
+              "marca": "",
               "texto_cita": "«Solía hablar en vanidades y --- ahora me ha dado el Señor que no quería sino hablar en él.»",
               "autor": "Sta. Ter.",
-              "referencia_obra": "Vida, 10 (R. 53. 42²). +"
+              "referencia_obra": "Vida, 10 (R. 53. 42²)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Pues habláis en comida y se llega la hora, hacedme merced de que vaya un mozo de esos a avisar a los que nos esperan.»",
               "autor": "",
               "referencia_obra": "J, de Pineda, Agr. crist. 8. 11 (R. 162. 170)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y hablando en la pasada aventura siguieron el camino de Puerto Lápice.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 8 (R. 1. 269²)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se fue a comer, --- quedándose en la mesa los duques y D. Quijote, hablando en muchas y diversas cosas.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 32 (R. 1. 473¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Siempre costaba un disgusto | Hablar en el casamiento.»",
               "autor": "Mto.",
               "referencia_obra": "El valiente justiciero, 1. S (R. 39. 334)."
             },
             {
+              "marca": "",
               "texto_cita": "«No hablemos más en esto; y si os preguntan lo que significa, decid ---.»",
               "autor": "Mor.",
               "referencia_obra": "Hamlet, 4. 13 (R. 2. 530)."
             },
             {
+              "marca": "",
               "texto_cita": "«No sólo aprobó [la corte] el repartimiento hecho, sino que suplió de poderío real los defectos que en él hubiese, e impuso silencio a los que quisiesen hablar más en ello.»",
               "autor": "Quint.",
               "referencia_obra": "Las Casas (R. 19. 440¹)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Assí, que pues tan abiertamente os he declarado cuán poco remedio avrá mi pena con el remedio que me avéis dado, yo os ruego mucho que no me habléis más en ello.»",
                   "autor": "Ortúñez de Calahorra",
                   "referencia_obra": ", Espejo (Cl. C. 196. 81)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No dejó de admirarse algún tanto, y más cuando oyó que le habían hablado en su negocio como en cosa sabida.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 27 (R. 1. 320²)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¡Ojalá fuera yo capaz de ayudar en algo a su buen despacho! Pero ya me guardaré de hablar a nadie en ello para no hacerle mal. Esperaré el estado de gracia para servir a mis amigos.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Corresp. con Posada (R. 50. 172)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Es cosa para burlarse deste siglo, la facilidad con que muchos hablan en lo que no entienden.»",
                   "autor": "Lope",
                   "referencia_obra": ", epíst. 9, dedic. (Obr. suelt. 1. 401)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Con sobre. X",
+          "definicion": "Con sobre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Un sencillo labrador, un modesto artesano, que conocen bien los objetos de su profesión, piensan y hablan mejor sobre ellos que un presuntuoso filósofo que en encumbrados conceptos y altisonantes palabras quiere darles lecciones sobre lo que no entiende.»",
               "autor": "Balmes",
-              "referencia_obra": ", El criterio, p. 2. X"
+              "referencia_obra": ", El criterio, p. 2."
             },
             {
+              "marca": "X",
               "texto_cita": "«Con las finas manos juntas, con las mejillas artificiosamente amapoladas, yace una niña de quince años. Hombres y mujeres hablan tranquilamente sobre el modo de enterrarla.»",
               "autor": "Azorín",
               "referencia_obra": ", La voluntad (Cl. Castal. 3. 182)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Impers. X",
+          "definicion": "Impers.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La caridad | A todos es agradable, | Que se escriba o que se hable.»",
               "autor": "Lope",
               "referencia_obra": ", La dama boba, 1 (Cl. C. 159. 170)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, que introduce el asunto. X",
+              "definicion": "Con de, que introduce el asunto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No se habla allí sino de muertes, cadenas, flechas, venenos, llamas, y otras cosas que no sirven sino para dar tormento, cuando se emplean, y temor, cuando se nombran.»",
                   "autor": "Gil Polo",
                   "referencia_obra": ", Diana (Cl. C. 135. 28)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en, en el mismo sentido.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No quiso [Tiberio] que se hablase en el caso.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 22 (R. 25. 60²)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se dudaba si eran islas; pero se hablaba en sus riquezas con la misma certidumbre que si se hubieran visto.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 1. 5 (R. 28. 212¹)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "En particular, Tratar de algo por escrito. Con dat, además en, que señala el lugar en que consta lo aludido. X",
+          "definicion": "En particular, Tratar de algo por escrito. Con dat, además en, que señala el lugar en que consta lo aludido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Basta que oí del papel | De aquella primera dama | El estado de mi fama; | Bien claro me hablaba en él.»",
               "autor": "Lope",
-              "referencia_obra": ", El castigo sin venganza (Cl. Castal. 25. 242). — Además con de. X"
+              "referencia_obra": ", El castigo sin venganza (Cl. Castal. 25. 242)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con de.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Lázaro, en el tratado IX de su relato, nos habla de que pone punto a la primera parte de sus andanzas.»",
+                  "autor": "Cela",
+                  "referencia_obra": ", Nuevas andanzas, p. 197."
+                }
+              ]
             },
             {
-              "texto_cita": "«Lázaro, en el tratado IX de su relato, nos habla de que pone punto a la primera parte de sus andanzas.»",
-              "autor": "Cela",
-              "referencia_obra": ", Nuevas andanzas, p. 197. — Además con por, que señala el medio. X"
-            },
-            {
-              "texto_cita": "«Bien consideraron estos peligros los emperadores romanos cuando introdujeron que les hablasen por memoriales y respondían por escrito, para tomar tiempo, y que fuese más considerada la respuesta.»",
-              "autor": "Saav.",
-              "referencia_obra": "Emp. 11 (R. 25. 35¹). +"
-            },
-            {
-              "texto_cita": "«Seyano, aunque tan valido de Tiberio, le hablaba por memorial; pero hay negocios de tal calidad, que es mejor tratallos que escribillos.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 11 (R. 25. 35 )."
+              "id_limpio": "—",
+              "definicion": "Además con por, que señala el medio.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Bien consideraron estos peligros los emperadores romanos cuando introdujeron que les hablasen por memoriales y respondían por escrito, para tomar tiempo, y que fuese más considerada la respuesta.»",
+                  "autor": "Saav.",
+                  "referencia_obra": "Emp. 11 (R. 25. 35¹)."
+                },
+                {
+                  "marca": "+",
+                  "texto_cita": "«Seyano, aunque tan valido de Tiberio, le hablaba por memorial; pero hay negocios de tal calidad, que es mejor tratallos que escribillos.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 11 (R. 25. 35 )."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para señalar el tema. X",
+              "definicion": "Con de, para señalar el tema.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Aunque la canción, por hablar de mal casadas, era de Diana, la glossa della, por tener quexas del amor, era común a cuantos dél estaban atormentados.»",
                   "autor": "Gil Polo",
                   "referencia_obra": ", Diana (Cl. C. 135. 140)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«De las palabras de la divina Escritura que hablan de este dulcísimo misterio de Jesucristo --- sacan perversos entendimientos.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Audi. 88 (2. 94)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No hablo de otros lugares teológicos como menos principales.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Instrucc. a un teólogo (R. 46. 277²). — Además con la prep. con, que señala: — el medio. X"
+                  "referencia_obra": "Instrucc. a un teólogo (R. 46. 277²)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, que señala:",
+                  "marca": "",
+                  "ejemplos_citas": []
                 },
                 {
-                  "texto_cita": "«Veamos lo que la Sancta Escriptura dize cuando habla con palabras llanas y senzillas de Cristo.»",
-                  "autor": "León",
-                  "referencia_obra": ", Nomb. 5, Monte (Cl. C. 28. 161). — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Veamos lo que la Sancta Escriptura dize cuando habla con palabras llanas y senzillas de Cristo.»",
+                      "autor": "León",
+                      "referencia_obra": ", Nomb. 5, Monte (Cl. C. 28. 161)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Fuera de la moral, el derecho y un poco de literatura necesaria para hablar con decoro de las cosas santas, sólo parece plausible y deseable el esfuerzo para conservar la pureza del dogma y la imposición, mediante la guerra, de la unidad religiosa a todas las naciones.»",
-                  "autor": "Ramón y Cajal",
-                  "referencia_obra": ", Tónicos de la voluntad, 10 (p. 196)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Fuera de la moral, el derecho y un poco de literatura necesaria para hablar con decoro de las cosas santas, sólo parece plausible y deseable el esfuerzo para conservar la pureza del dogma y la imposición, mediante la guerra, de la unidad religiosa a todas las naciones.»",
+                      "autor": "Ramón y Cajal",
+                      "referencia_obra": ", Tónicos de la voluntad, 10 (p. 196)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Pas. reg. Con dat. Además con en. X",
+              "definicion": "Pas. reg. Con dat. Además con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Esposas de espiritu, castísimas, como aquella Abisag, la sulamita de que se nos habla en el capitulo I de los Reyes.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", La tía Tula, pról. (p. 22)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -2119,111 +2842,138 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Hablar a la mano: interrumpir el discurso. X",
+              "definicion": "Hablar a la mano: interrumpir el discurso.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Enojeme de que a tan mal tiempo y en tan mala sazón, como era al punto que tomaua la pluma en la mano para sacar mis partos a la luz me hablassen a la mano.»",
                   "autor": "Píc. Just.",
                   "referencia_obra": "25 (p. 61)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Hablar (yo) para mañana: reconvenir a uno después que ha explicado una circunstancia que antes omitió y era necesaria.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Suplico a vuestra merced --- me ayude a salir de debajo desta mula, que me tiene tomada una pierna entre el estribo y la silla. Hablara yo para mañana, dijo D. Quijote: ¿y hasta cuándo aguardábades a decirme vuestro afán?»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 19 (R. 1. 294²)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dije yo, que no tienen de cuanto tiene el mundo. ¡Hablara yo para mañana! dijo el diablo. Si lo que condena a los hombres es lo que tienen del mundo, y ésos no tienen nada, ¿cómo se condenan?»",
                   "autor": "Quev.",
                   "referencia_obra": "Alguacil (R. 23. 306²)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Diole al sacristán la mayor risa del mundo y dijo: Hablara yo para mañana. Por Dios, que entendí que hablaba conmigo, y es sólo contra los poetas hebenes.»",
                   "autor": "",
                   "referencia_obra": "Id. Buscón, 10 (R. 23. 502)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Luego con su muerte gana | Mi deshonra mi opinión? | —Así habrá satisfacción. | Hablara para mañana.»",
                   "autor": "Rojas",
                   "referencia_obra": ", No hay amigo para amigo, 3 (R. 54. 95³)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Hablar en números: argumentar con las cifras. X",
+              "definicion": "Hablar en números: argumentar con las cifras.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Hablando en números Nueva Orleans tiene 3.000 habitantes, y Luisiana toda 13.000.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 3. 17 (p. 304)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Hablar sin tono ni son: hablar sin orden, concierto o sensatez. X",
+              "definicion": "Hablar sin tono ni son: hablar sin orden, concierto o sensatez.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Así supe cómo las dueñas de acá son ranas del infierno, que eternamente como ranas están hablando, sin tono ni son, húmedas y en cieno, y son propiamente ranas infernales.»",
                   "autor": "Quev.",
                   "referencia_obra": "Sueños, 1 (Cl. C. 31. 126)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Ni hablar: denota el rechazo a una propuesta. X",
+              "definicion": "Ni hablar: denota el rechazo a una propuesta.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Me dijo Melecio que le acompañara al café, que ibamos a reírnos un rato. Respondí que ni hablar y me pidió que le explicara.»",
                   "autor": "Delibes",
                   "referencia_obra": ", Diario de un cazador, p. 48."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "No hay que hablar: indica que es superfluo o inútil referirse o tratar de algo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«De árboles no hay que hablar --- | A quien los planta le apellidan loco: | los habrá, dicen, cuando venga el riego.»",
                   "autor": "Jovell.",
                   "referencia_obra": "epíst. a Poncio (R. 46. 48¹)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
               "definicion": "No se hable más en esto (ello): se dice para dar fin a una discusión o asunto desagradable.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Basta, dijo D. Fernando, y no se hable más en esto.»",
                   "autor": "",
                   "referencia_obra": "Cav. Quij. 1. 37 (R. 1. 359¹)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No se jable más en eso, | Dijo Andrés: ya está acabado.»",
                   "autor": "Quev.",
                   "referencia_obra": "Musa 5, jác. 13 (R. 69. 112)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -2232,55 +2982,76 @@
     {
       "id": "k)",
       "definicion": "met. Manifestarse con elocuencia, dar a entender algo de algún modo (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con de, que señala el asunto. X",
+          "definicion": "Con de, que señala el asunto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Hablen los nunca sepultados huesos | Que en las playas blanquean, | De tantos que por falta de sustento | Al mar rindieron el vital aliento.»",
               "autor": "Rioja",
-              "referencia_obra": ", Versos, p. 316. X"
+              "referencia_obra": ", Versos, p. 316."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡En el jardín que se tiene ante la vista todo habla de la inmortalidad del espiritu, todo murmura palabras de esperanza.»",
               "autor": "Alarcón",
-              "referencia_obra": ", El escándalo, 2 (Cl. C. 178. 168). — Además con dat. X"
-            },
+              "referencia_obra": ", El escándalo, 2 (Cl. C. 178. 168)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Hubiera preferido para aquella empresa un cielo en que sólo brillasen las constelaciones hablando al espíritu de los muertos tutelares, del amor, del glorioso destino.»",
-              "autor": "Larreta",
-              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 104)."
+              "id_limpio": "—",
+              "definicion": "Además con dat.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Hubiera preferido para aquella empresa un cielo en que sólo brillasen las constelaciones hablando al espíritu de los muertos tutelares, del amor, del glorioso destino.»",
+                  "autor": "Larreta",
+                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 104)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. +",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«En un pueblo de cuatro vecinos, en que usted es el amo no habla [el triunfo] muy en favor de usted.»",
                   "autor": "Ganiv.",
                   "referencia_obra": "Pío Cid, 4 (2. 142)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Recípr. Con la prep. con, que señala el instrumento. X",
+          "definicion": "Recípr. Con la prep. con, que señala el instrumento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ecos oye de luz, en los que Europa | Faroles le responde, con que luego | Mudos se hablan con la voz del fuego.»",
               "autor": "Domínguez Camargo",
               "referencia_obra": ", Obr. (ICC. 15. 392)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2288,75 +3059,93 @@
     {
       "id": "l)",
       "definicion": "Representar, interceder, rogar por alguien o por algo (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con un dat. X",
+          "definicion": "Con un dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y como ésta pida a su hija hable a la hermana del Fraile, que hable a su hermano, que hable al Confessor, y el Confessor a la Monja, y la Monja guste de dar un billete para el Corregidor... sin duda alguna se podrá esperar buen sucesso.»",
               "autor": "Cerv.",
               "referencia_obra": "Ilustre fregona (Dicc. Autor.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, que señala la persona por quien se intercede. X",
+              "definicion": "Con de, que señala la persona por quien se intercede.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya que el padre murió, quiere marido; | Porque si le perdió, con él le gana. | Iréis con poca gente y sin ruido | Luego a hablalle a la fuerza de Triana.»",
                   "autor": "Tirso",
                   "referencia_obra": ", El burlador de Sevilla (Cl. C. 2. 279)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con por, con el mismo sentido anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Derramaré desde aqui | Mis lágrimas no hablando; | Por que quien muere callando | Tiene quien hable por sí.»",
                   "autor": "Garcil.",
-                  "referencia_obra": "canc. Yo dejaré (R. 32. 37¹). +"
+                  "referencia_obra": "canc. Yo dejaré (R. 32. 37¹)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Un príncipe que ha menester que otro hable por él, más es estatua de la majestad que principe.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 4 (R. 25. 19¹). +"
+                  "referencia_obra": "Emp. 4 (R. 25. 19¹)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Si el pícaro habla, por todos habla.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 8 (Cl. C. 43. 129). X"
+                  "referencia_obra": ", Escud. 1. 8 (Cl. C. 43. 129)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En trance tan decisivo: | Habla tú por el cautivo; | Yo por la reina hablaré.»",
                   "autor": "Hartz.",
                   "referencia_obra": "Los amantes de Teruel (Cl. C. 113. 50)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nada pudieron decirme, lo que me explico por la gravedad del asunto y por el peligro que implica hablar, así no más, en nombre de un partido.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 2 (p. 168). X"
+                  "referencia_obra": ", Sueños, 2 (p. 168)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«De modo que yo me digo: si callo, nadie hablará en mi favor y confirmaré el propósito del vulgo que me hiere; si hablo, él me seguirá persiguiendo, pero las prendas que tengo en el corazón recibirán un recurso y un tributo.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 3 (p. 313)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -2364,31 +3153,39 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Hablar de hilván: razonar atropelladamente, hablar a prisa. X",
+              "definicion": "Hablar de hilván: razonar atropelladamente, hablar a prisa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Unos hablan de hilván, otros a borbotones, otros a chorretadas.»",
                   "autor": "Quev.",
                   "referencia_obra": "Visitas (Dicc. Autor.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Hablar a destajo: hablar mucho, y sin reparo en lo que se dice. X",
+              "definicion": "Hablar a destajo: hablar mucho, y sin reparo en lo que se dice.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya no quiero callar, como hasta aquí he hecho; mas por ver que no dexas hacer baza, y que hablas a destajo, quiero decirlo.»",
                   "autor": "",
                   "referencia_obra": "Plc. Just. 78 (Dicc. Autor.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -2397,132 +3194,170 @@
     {
       "id": "2",
       "definicion": "Emplear una u otra lengua (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ya en Italia assí entre damas como entre cavalleros se tiene por gentileza y galanía saber hablar castellano.»",
               "autor": "Valdés",
-              "referencia_obra": ", Diál. (Cl. C. 86. 6). +"
+              "referencia_obra": ", Diál. (Cl. C. 86. 6)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Pedro de Ebano, conciliador, dice de una mujer rústica que, cayendo en un frenesi, habló latín.»",
               "autor": "J. de Pineda",
               "referencia_obra": ", Agr. crist. 10. 21 (R. 162. 306¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Dijo en lengua de Yucatán a Jerónimo de Aguilar, que aquellos indios hablaban la mejicana.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 1. 21 (R. 28. 231¹)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y rabie Garcilaso enhorabuena, | Que si él hablaba lengua castellana, | Yo hablo la lengua que me da la gana.»",
               "autor": "T. Iriarte",
-              "referencia_obra": ", epíst. 2 (R. 63. 25²). X"
+              "referencia_obra": ", epíst. 2 (R. 63. 25²)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entiéndese por uso más comúnmente, la forma que toma una lengua y el curso que lleva en boca de las gentes que la hablan.»",
               "autor": "Caro",
-              "referencia_obra": ", Del uso, p. 48. X"
+              "referencia_obra": ", Del uso, p. 48."
             },
             {
+              "marca": "X",
               "texto_cita": "«EL hecho de hablar lengua diferente ha venido a ser —no siempre— un pretexto invocado por el odio.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Charlas de café, 10 (p. 234)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con un dat. X",
+              "definicion": "Con un dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Enfurecido y relinchando clarines y resollahdo fuegos, quiso [el caballo de Nápoles] ser caballo de Troya, y, a corcovos y manotadas, asolar la ciudad. Al ruido entraron los sexos de Nápoles, y, arrojándole una toga en la cara, le taparon los ojos, y con halagos, hablándole calabrés cerrado, le pusieron maneotas y cabestro.»",
                   "autor": "Quev.",
                   "referencia_obra": "La honra de todos, 2 (Cl. C. 34. 154)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¡Con qué gracia hablaste la lengua portuguesa!»",
                   "autor": "Lope",
                   "referencia_obra": ", Dorotea, 2, 2 (Obr. suelt. 7. 82)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La lengua castellana se habla no solamente por toda Castilla.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. (Cl. C. 86. 35)."
             },
             {
+              "marca": "",
               "texto_cita": "«Después de haberse hecho señores [los romanos] quisieron que en toda ella se hablase la lengua romana.»",
               "autor": "Mayáns",
               "referencia_obra": ", 18)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "intrans. Con en, que señala la lengua.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El que habla en lengua ajena, siempre usa algunos vocablos dela suya propia y algunas maneras de decir.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. (Mayáns, 20)."
             },
             {
+              "marca": "",
               "texto_cita": "«Para entendernos, hablamos todos en latín.»",
               "autor": "Espinel",
-              "referencia_obra": ", Escud. 3. 3 (R. 18. 449¹). — Además con dat."
-            },
+              "referencia_obra": ", Escud. 3. 3 (R. 18. 449¹)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Los que me encontraban me hablaban en vascuense.»",
-              "autor": "Espinel",
-              "referencia_obra": ", Escud. 1. 21 (R. 18. 420¹)."
-            },
-            {
-              "texto_cita": "«Estas [lenguas] no se le han de enseñar con preceptos que confundan la memoria, sino teniendo a su lado meninos de diversas naciones, que cada uno le hable en su lengua.»",
-              "autor": "Saav.",
-              "referencia_obra": "Emp. 5 (R. 25. 20¹)."
+              "id_limpio": "—",
+              "definicion": "Además con dat.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Los que me encontraban me hablaban en vascuense.»",
+                  "autor": "Espinel",
+                  "referencia_obra": ", Escud. 1. 21 (R. 18. 420¹)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Estas [lenguas] no se le han de enseñar con preceptos que confundan la memoria, sino teniendo a su lado meninos de diversas naciones, que cada uno le hable en su lengua.»",
+                  "autor": "Saav.",
+                  "referencia_obra": "Emp. 5 (R. 25. 20¹)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mirando a las estrellas, començó a dar espantosos bramidos o, hablar en su lenguaje, desabridos rebuznos.»",
                   "autor": "Césp. y Men.",
-                  "referencia_obra": "Sold. Pínd. (Cl. C. 203. 173). +"
+                  "referencia_obra": "Sold. Pínd. (Cl. C. 203. 173)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Éste [Juan Millán], inducido de los demás, le dijo [a Diego Velázquez], con grandes prevenciones del secreto, algunas palabras misteriosas de la incierta inseguridad de aquella armada, dándole a entender que hablaban en su lengua las estrellas.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 1. 11 (R. 28. 218²)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -2530,65 +3365,77 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Hablar en (buen) romance, hablar (en) cristiano: hablar en forma inteligible en español.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Dicen que no hablo en romance porque no hablo desacertadamente y sin orden.»",
                   "autor": "León",
-                  "referencia_obra": ", Nomb. 3, introd. (3. 276). X"
+                  "referencia_obra": ", Nomb. 3, introd. (3. 276)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Por su silencio imaginaron que, sin duda alguna, debía de ser mora y que no sabía hablar cristiano.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 37 (Cl. C. 8. 314). X"
+                  "referencia_obra": "Quij. 1. 37 (Cl. C. 8. 314)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Lo primero, | Con dieta flemagoga | Y algo colagoga, enfrene | Cualidades licenciosas. | —Dotor, habladme en romance.»",
                   "autor": "Tirso",
-                  "referencia_obra": ", Amor médico (Cl. C. 131. 71). X"
+                  "referencia_obra": ", Amor médico (Cl. C. 131. 71)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Hablando en buen romance, es así como los reyes ponen al diablo a hacer hostias.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 1. 2 (p. 40)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Hablar en griego: hablar de materia superior a la inteligencia del que oye o de modo que no comprenda. X",
+              "definicion": "Hablar en griego: hablar de materia superior a la inteligencia del que oye o de modo que no comprenda.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Confusas estaban la ventera y su hija y la buena de Maritornes oyendo las razones del andante caballero, que así las entendían como si hablara en griego.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 16 (Cl. C. 6. 35). X"
+                  "referencia_obra": "Quij. 1. 16 (Cl. C. 6. 35)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿La hago entrar aquí? —preguntó Fermín, como dudando.— Aquí, mi casto señor don Fermín. Me parece que no hablo en griego, Aqui, en mi alcoba.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 1 (p. 108)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
       ]
     }
   ],
-  "periodo_anteclasico": "Per. antecl. Siglo XV: «Por ende cumple que al médico como al confesor se hable toda verdad abiertamente.» Celest. 10 (R. 3. 45¹). «Que aunque yo sé poco de música, parece que hace aquella vihuela hablar.» Ib. 4 (R. 3. 25¹). «El rey ovo mucho plascer con él, quando le vido así vivo e gracioso e bien fablado.» Crón. Álv. de Luna, 66 (p. 175). «Avía en la galera del capitán omes que fablaban e entendían arábigo de aquella tierra.» Crón. P. Niño, p. 65. «Y por tanto a las personas religiosas no les han de hablar como a las públicas.» Vis. delect. 1. 3 (R. 36. 347¹). «Habla [Dios] con ellos mediante la lumbre intelectual la cual es llamada visión; e bien creo que el hablar de Dios con Adán fue en esta manera.» Ib. 1. 1 (R. 36. 343¹). «Yerran los que dicen que dejando el hombre solo desde la creación suya, que hablaría caldeo.» Ib. 1. 1 (R. 36. 343¹). «E luego yo cataba alguna compannia | Do fabulase en burlas por pasar aquel día.» Rim. de Pal. 163 (R. 57. 430²).\n\n— Siglo XIV: «Fablarme ha buena fabla, non burlas nin picannas.» Arc. de Hita, 1467 (R. 57. 273²). «Quien mucho fabla, yerra, díselo el derecho.» Id. 707 (R. 57. 249¹). «Et los darías palabras, que fabrasen meiores.» Id. preámb. (R. 57. 225¹). «Sus tachas contaremos | Loando el fablar.» San Tob, 571 (R. 57. 366¹). «De los reyes amos fablemos | Que están en la frontera.» Alf. XI, 1301 (R. 57. 516²). «Así commo fablaré | En el cuento adelante ---.» Ib. 884 (R. 57. 504¹). «Contra el rey sse fablaron | Tres omnes de Castella.» Ib. 528 (R. 57. 493¹). «E començáronse de preguntar e de fablar de su fasienda.» Plácidas (p. 150). «Que deje pasar todos los canes ante sí porque non los destorbe, et des hi vaya en pos dellos fablándoles porque alcancen.» Mont. Alf. XI, 1. 12 (Bibl. venat. 1. 51). «Et después deseñe al cabo do fuere o a do se ladrare; et que nunca fablen al venado entre el venado et las armadas.» Ib. 1. 9 (Bibl. venat. 1. 40). «Mas si viere que el armada es estrecha, paréscenos que mejor es fablarle, et tañerle la bocina.» Ib. 1. 6 (Bibl. venat. 1. 26). «Ellos dijeron que por qué hablaba así en ello.» J. Man. C. Luc. 39 (R. 51. 416²). «Quería que se las mostrase todas tres, et que le dexase fablar con cada una dellas.» Id. ib. 5 (R. 51. 397¹). «Et dígole que --- ante que fablase más en el pleito, que le quería contar algo de su facienda.» Id. ib. 5 (R. 57. 397¹). «Cuando muchos homes de buen entendimiento fablan en un fecho, mejor et más aína fablan et acuerdan en lo que conviene en aquel pleito.» Id. Libro de los est. 1. 17 (R. 51. 288¹). «Non las oyó [las cosas espirituales] nin fabló en ellas tantas vegadas, porque complidamente las pudiese entender.» Id. Caball. e escud. 32 (R. 51. 241¹).\n\n— SigloXIII: «Asi aquellas pasiones son virtudes; mas en quanto pueden declinar o declinan a los extremos sobredichos, asi son pasiones fablando propiamente.» Cast. e docum. 67 (R. 51. 196¹). «Le son perdonados los fablares vanos.» Ib. 4 (R. 51. 94²). «Los moros quando esto vieron fueron mucho espantados e afirmaron por ende mano a mano luego el preyto que y auíen fabrado de poner con él e de lo que le cumplíe.» Crón. gen. 4. 3 (p. 315¹). «Callad vos desta razón e non fabledes y más, ca vos non creeremos y más cosa que digades.» Ib. 3. 21 (p. 259²). «El su nomre sea maldicho siempre de quantos dél fablaren.» Ib. 2. 55 (p. 202¹). «E fizo después penitencia, e lo que peccara fablando enmendolo callando.» Ib. 1. 147 (p. 138²). «Mas agora dexa la estoria de fablar desto.» Ib. 1. 92 (p. 52²). «Mas porque esto non conuiene en los fechos de España dexamos de fablar dello.» Ib. 1. 7 (p. 7¹). «Et desi fablaremos de las acusaciones.» Part. 4, proem. (3. 2). «En un otro miraclo vos querría fablar.» Berc. Mil. 500 (R. 57. 119¹). «El que fabla mucho en Dios es sennal que poco lo conosce.» Boc. de oro, 9 (Knust, 134). «Aún non te prescié tanto que yo dexase una de tres cosas por fablar de ti.» Buenos proverbios (Knust, 31). «La materia lo manda e quiero ende faular.» Alex 2170 (R. 57. 214¹). «Serie grant marauija faular de su bondat.» Ib. 1399 (R. 57. 190²). «Auíe un suyo ombre e mal fablado --- | Tersistes auíe nombre.» Ib. 399 (R. 57. 159²). «Qviero uos sobre París un poquillo faular.» Ib. 323 (R. 57. 157²). «Tanto pudo el rey las cosas afficar | Fasta que ovo el aruol a faular.» Ib. 304 (R. 57. 157¹). «Aun abes faulaua ya lo yuan temiendo.» Ib. 12 (R. 57. 147²). «Fabló un corderuelo que era reziente nado.» Ib. 10 (R. 57. 147²). «Nengún non favle nen consele de su muerte.» Fuero Juzgo, preámb. 17 (p. 14). «El fazedor de las leyes deve fablar poco e bien.» Ib. 1. 1. 6 (p. 3).\n\n— Siglo XII: «Ffabló Ferán González e fizo callar la cort.» Cid, 2558 (R. 57. 28¹). «A estas palabras fabló Ferán Gonzalez.» Ib. 2527 (R. 57. 27²). «Sonrrisós Mýo Çid, estáualos fablando.» Ib. 154 (R. 57. 3¹). «Fabló Mýo Çid bien e tan mesurado.» Ib. 7 (R. 57. 1¹).",
+  "periodo_anteclasico": "Per. antecl. Siglo XV: «Por ende cumple que al médico como al confesor se hable toda verdad abiertamente.» Celest. 10 (R. 3. 45¹). «Que aunque yo sé poco de música, parece que hace aquella vihuela hablar.» Ib. 4 (R. 3. 25¹). «El rey ovo mucho plascer con él, quando le vido así vivo e gracioso e bien fablado.» Crón. Álv. de Luna, 66 (p. 175). «Avía en la galera del capitán omes que fablaban e entendían arábigo de aquella tierra.» Crón. P. Niño, p. 65. «Y por tanto a las personas religiosas no les han de hablar como a las públicas.» Vis. delect. 1. 3 (R. 36. 347¹). «Habla [Dios] con ellos mediante la lumbre intelectual la cual es llamada visión; e bien creo que el hablar de Dios con Adán fue en esta manera.» Ib. 1. 1 (R. 36. 343¹). «Yerran los que dicen que dejando el hombre solo desde la creación suya, que hablaría caldeo.» Ib. 1. 1 (R. 36. 343¹). «E luego yo cataba alguna compannia | Do fabulase en burlas por pasar aquel día.» Rim. de Pal. 163 (R. 57. 430²).\n\n— Siglo XIV: «Fablarme ha buena fabla, non burlas nin picannas.» Arc. de Hita, 1467 (R. 57. 273²). «Quien mucho fabla, yerra, díselo el derecho.» Id. 707 (R. 57. 249¹). «Et los darías palabras, que fabrasen meiores.» Id. preámb. (R. 57. 225¹). «Sus tachas contaremos | Loando el fablar.» San Tob, 571 (R. 57. 366¹). «De los reyes amos fablemos | Que están en la frontera.» Alf. XI, 1301 (R. 57. 516²). «Así commo fablaré | En el cuento adelante ---.» Ib. 884 (R. 57. 504¹). «Contra el rey sse fablaron | Tres omnes de Castella.» Ib. 528 (R. 57. 493¹). «E començáronse de preguntar e de fablar de su fasienda.» Plácidas (p. 150). «Que deje pasar todos los canes ante sí porque non los destorbe, et des hi vaya en pos dellos fablándoles porque alcancen.» Mont. Alf. XI, 1. 12 (Bibl. venat. 1. 51). «Et después deseñe al cabo do fuere o a do se ladrare; et que nunca fablen al venado entre el venado et las armadas.» Ib. 1. 9 (Bibl. venat. 1. 40). «Mas si viere que el armada es estrecha, paréscenos que mejor es fablarle, et tañerle la bocina.» Ib. 1. 6 (Bibl. venat. 1. 26). «Ellos dijeron que por qué hablaba así en ello.» J. Man. C. Luc. 39 (R. 51. 416²). «Quería que se las mostrase todas tres, et que le dexase fablar con cada una dellas.» Id. ib. 5 (R. 51. 397¹). «Et dígole que --- ante que fablase más en el pleito, que le quería contar algo de su facienda.» Id. ib. 5 (R. 57. 397¹). «Cuando muchos homes de buen entendimiento fablan en un fecho, mejor et más aína fablan et acuerdan en lo que conviene en aquel pleito.» Id. Libro de los est. 1. 17 (R. 51. 288¹). «Non las oyó [las cosas espirituales] nin fabló en ellas tantas vegadas, porque complidamente las pudiese entender.» Id. Caball. e escud. 32 (R. 51. 241¹).\n\n— Siglo XIII: «Asi aquellas pasiones son virtudes; mas en quanto pueden declinar o declinan a los extremos sobredichos, asi son pasiones fablando propiamente.» Cast. e docum. 67 (R. 51. 196¹). «Le son perdonados los fablares vanos.» Ib. 4 (R. 51. 94²). «Los moros quando esto vieron fueron mucho espantados e afirmaron por ende mano a mano luego el preyto que y auíen fabrado de poner con él e de lo que le cumplíe.» Crón. gen. 4. 3 (p. 315¹). «Callad vos desta razón e non fabledes y más, ca vos non creeremos y más cosa que digades.» Ib. 3. 21 (p. 259²). «El su nomre sea maldicho siempre de quantos dél fablaren.» Ib. 2. 55 (p. 202¹). «E fizo después penitencia, e lo que peccara fablando enmendolo callando.» Ib. 1. 147 (p. 138²). «Mas agora dexa la estoria de fablar desto.» Ib. 1. 92 (p. 52²). «Mas porque esto non conuiene en los fechos de España dexamos de fablar dello.» Ib. 1. 7 (p. 7¹). «Et desi fablaremos de las acusaciones.» Part. 4, proem. (3. 2). «En un otro miraclo vos querría fablar.» Berc. Mil. 500 (R. 57. 119¹). «El que fabla mucho en Dios es sennal que poco lo conosce.» Boc. de oro, 9 (Knust, 134). «Aún non te prescié tanto que yo dexase una de tres cosas por fablar de ti.» Buenos proverbios (Knust, 31). «La materia lo manda e quiero ende faular.» Alex 2170 (R. 57. 214¹). «Serie grant marauija faular de su bondat.» Ib. 1399 (R. 57. 190²). «Auíe un suyo ombre e mal fablado --- | Tersistes auíe nombre.» Ib. 399 (R. 57. 159²). «Qviero uos sobre París un poquillo faular.» Ib. 323 (R. 57. 157²). «Tanto pudo el rey las cosas afficar | Fasta que ovo el aruol a faular.» Ib. 304 (R. 57. 157¹). «Aun abes faulaua ya lo yuan temiendo.» Ib. 12 (R. 57. 147²). «Fabló un corderuelo que era reziente nado.» Ib. 10 (R. 57. 147²). «Nengún non favle nen consele de su muerte.» Fuero Juzgo, preámb. 17 (p. 14). «El fazedor de las leyes deve fablar poco e bien.» Ib. 1. 1. 6 (p. 3).\n\n— Siglo XII: «Ffabló Ferán González e fizo callar la cort.» Cid, 2558 (R. 57. 28¹). «A estas palabras fabló Ferán Gonzalez.» Ib. 2527 (R. 57. 27²). «Sonrrisós Mýo Çid, estáualos fablando.» Ib. 154 (R. 57. 3¹). «Fabló Mýo Çid bien e tan mesurado.» Ib. 7 (R. 57. 1¹).",
   "testimonios_latino_hispanicos": "Test. latin. hisp. «Venerunt in Penna et fabulaverunt ex verbo regis ad dominum Berila, ut dedisset fratres in ipsum monasterium.» Docum. de 934 (Esp. sagrada, 40. 400).",
-  "etimologia": "Etim. Del lat. fam. fabulari ‘conversar, hablar’, derivado de fabula ‘conversación, relato sin garantía histórica, cuento’. Del castell. pasó al fr. el despectivo habler ‘parlar, charlar’. Cat. fabelar, port. falar.",
+  "etimologia": "Etim. Del lat. fam.<i> fabulari</i> ‘conversar, hablar’, derivado de<i> fabula</i> ‘conversación, relato sin garantía histórica, cuento’. Del castell. pasó al fr. el despectivo<i> habler</i> ‘parlar, charlar’. Cat.<i> fabelar,</i> port.<i> falar.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Intrans.: en general.\n\n— Trans.: 1, b, α - 1, χ, δ - 1, δ, β - 1, δ, ε - 1, ε, α - 1, η, β - 2, α.\n\n— Pασ. ρεφλ.: 1, β, β - 1, χ, ε - 1, j, ε, β β - 2, β.\n\n— Rεχíπρ.: 1, α, γ, γ γ - 1, c, γ - 1, δ, γ - 1, κ, β.\n\n— Iμπερσ.: 1, δ, δ - 1, γ, β - 1, η, δ.\n\n— Pαρτ.: 1, f, α - 1, η, γ.\n\n— Pαρτ. adj.: 1, b, γ.\n\n— Cον δατ.: εν γενεραλ.\n\n— Cον α: 1, δ, δ, α α - 1, e, α, α α.\n\n— Con ante: 1, a, α, β β.\n\n— Con la prep. con: en general.\n\n— Con contra: 1, g, α.\n\n— Cον δε: εν γενεραλ.\n\n— Cον δεσδε: 1, α, α, δ δ - 1, e, α, β β.\n\n— Con en: en general.\n\n— Con entre: 1, c, β - 1, χ, γ, α α.\n\n— Con hacia; 1, a, α, ζ ζ..\n\n— Con hasta: 1, c, α, β β.\n\n— Con para: 1, a, α, η η.\n\n— Con por: 1, a, α, θ θ - 1, a, δ, α α - 1, c, α, γ γ -1, c, β - 1, δ, α, β β -1, h, α, γ γ - 1, j, α, γ γ -1, j, ε - 1, λ, α, β β.\n\n— Con sin:1, a, α, ι ι - 1, c, α, δ δ.\n\n— Con sobre: 1, a, α, κ κ - 1, c, β - 1, η, γ.\n\n— Con un gerundio: 1, a, α, λ λ.\n\n— Con sujeto de cosa: 1, k, α.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Intrans.: en general.\n\n— Trans.: 1, b, α - 1, χ, δ - 1, δ, β - 1, δ, ε - 1, ε, α - 1, η, β - 2, α.\n\n— Pασ. ρεφλ.: 1, β, β - 1, χ, ε - 1, j, ε, β β - 2, β.\n\n— Rεχíπρ.: 1, α, γ, γ γ - 1, c, γ - 1, δ, γ - 1, κ, β.\n\n— Iμπερσ.: 1, δ, δ - 1, γ, β - 1, η, δ.\n\n— Pαρτ.: 1, f, α - 1, η, γ.\n\n— Pαρτ. adj.: 1, b, γ.\n\n— Cον δατ.: εν γενεραλ.\n\n— Cον α: 1, δ, δ, α α - 1, e, α, α α.\n\n— Con ante: 1, a, α, β β.\n\n— Con la prep. con: en general.\n\n— Con contra: 1, g, α.\n\n— Cον δε: εν γενεραλ.\n\n— Cον δεσδε: 1, α, α, δ δ - 1, e, α, β β.\n\n— Con en: en general.\n\n— Con entre: 1, c, β - 1, χ, γ, α α.\n\n— Con hacia; 1, a, α, ζ ζ..\n\n— Con hasta: 1, c, α, β β.\n\n— Con para: 1, a, α, η η.\n\n— Con por: 1, a, α, θ θ - 1, a, δ, α α - 1, c, α, γ γ -1, c, β - 1, δ, α, β β -1, h, α, γ γ - 1, j, α, γ γ -1, j, ε - 1, λ, α, β β.\n\n— Con sin:1, a, α, ι ι - 1, c, α, δ δ.\n\n— Con sobre: 1, a, α, κ κ - 1, c, β - 1, η, γ.\n\n— Con un gerundio: 1, a, α, λ λ.\n\n— Con sujeto de cosa: 1, k, α.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

@@ -6,55 +6,83 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Estar al servicio de otro (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los que pequeños, y los que altos fueron, | Mezclados allí son confusamente:| No tienen amo allí los que sirvieron.»",
               "autor": "León",
-              "referencia_obra": ", Expos. de Job, 1. 3 (1. 52). X"
+              "referencia_obra": ", Expos. de Job, 1. 3 (1. 52)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Don Luis, que notó su solicitud, pareciole servirse dél en ministerios de casa, en especial del jardín. Preguntole si dello se le entendía; dijo que un poco; mas que el deseo de acertarle a servir haría que con brevedad supiese mucho.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 1. 1. 8 (Cl.C. 73. 187)."
             },
             {
+              "marca": "",
               "texto_cita": "«Señora, este mozuelo es oficial de un barbero, y como sirve, no puede siempre estar desocupado.»",
               "autor": "Espinel",
               "referencia_obra": ", Escud. 1. 2 (R. 18. 3812)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para precisar: — el lugar. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, para precisar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y si por mis grandes maldades me mandares vender, como el de los diez mil talentos, cómprame tú clamentísimo Señor, y yo serviré en tu casa, que en las casas de los señores hay hijos y esclavos.»",
-                  "autor": "M. de Chaide",
-                  "referencia_obra": ", Magd. 3. 13 (Cl. C. 105. 94). X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y si por mis grandes maldades me mandares vender, como el de los diez mil talentos, cómprame tú clamentísimo Señor, y yo serviré en tu casa, que en las casas de los señores hay hijos y esclavos.»",
+                      "autor": "M. de Chaide",
+                      "referencia_obra": ", Magd. 3. 13 (Cl. C. 105. 94)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Acordáisos de Costancica, la que servía en el mesón hace veinticinco años?»",
+                      "autor": "Azorín",
+                      "referencia_obra": ", Trasuntos de Esp. p. 121."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Acordáisos de Costancica, la que servía en el mesón hace veinticinco años?»",
-                  "autor": "Azorín",
-                  "referencia_obra": ", Trasuntos de Esp. p. 121. — La ocasión. X"
-                },
-                {
-                  "texto_cita": "«Los cocineros y los músicos y los criados todos dijeron lo mismo: que no servirían esta noche en la fiesta si no les pagáis por adelantado.»",
-                  "autor": "Benavente",
-                  "referencia_obra": ", Intereses creados, 1. 2. 1 (p. 64)."
+                  "id_limpio": "—",
+                  "definicion": "La ocasión.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Los cocineros y los músicos y los criados todos dijeron lo mismo: que no servirían esta noche en la fiesta si no les pagáis por adelantado.»",
+                      "autor": "Benavente",
+                      "referencia_obra": ", Intereses creados, 1. 2. 1 (p. 64)."
+                    }
+                  ]
                 }
               ]
             }
@@ -64,61 +92,75 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Jacob sirvió catorce años a su suegro Labam.»",
               "autor": "Ávila",
-              "referencia_obra": ", Ven. Espír. Santo, 3 (2. 283). X"
+              "referencia_obra": ", Ven. Espír. Santo, 3 (2. 283)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No os alborote, señores, quienquiera que seáis, nuestra improvista llegada, pues sólo venimos a serviros.»",
               "autor": "Cerv.",
-              "referencia_obra": "Pers. (Cl. Castal. 12. 258). X"
+              "referencia_obra": "Pers. (Cl. Castal. 12. 258)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Di orden para que se aumentase el número de esclavas que le servían; hice colocarla en una pieza más cómoda, a lo que ella se había opuesto humildemente, y se mandó por el sacerdote al pueblo.»",
               "autor": "Isaacs",
               "referencia_obra": ", María, p. 169."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con una expresión encabezada por de. X",
+              "definicion": "Con una expresión encabezada por de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Y que les sirvamos de rodillas!... ¡Esa es la formalidá que les encontrás! ¡A mí me tienen tan jaita, tan desesperada estos malditos!.»",
                   "autor": "Carrasquilla",
                   "referencia_obra": ", Frutos, 1 (p. 7)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para indicar el tiempo. X",
+              "definicion": "Con en, para indicar el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Una negra que lo había servido en su infancia, se presenta a ver a su Facundo.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Facundo, 2. 4 (p. 134)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refrán. Ninguno puede servir a dos señores: frase proverbial tomada del Evangelio, con que se significa que no se cumple bien una obligación cuando hay que atender a otra. X",
+          "definicion": "Refrán. Ninguno puede servir a dos señores: frase proverbial tomada del Evangelio, con que se significa que no se cumple bien una obligación cuando hay que atender a otra.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A mi ver, | No pueden juntos comer | Dos caballos rifadores; | Y aun diz que no puede ser | Servir uno a dos señores.»",
               "autor": "T. Naharro",
               "referencia_obra": ", Com. (Cl. Castal. 51. 161)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -126,49 +168,69 @@
     {
       "id": "b)",
       "definicion": "Ejercer un empleo o cargo propio o en lugar de otro (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Don Juan de Lara era General de la frontera contra los Moros, y no podía servir ambos cargos.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 15. 8 (1. 7481)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, para indicar el empleo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Siete años de Pastor servía | Al padre de Raquel.»",
                   "autor": "Quev.",
                   "referencia_obra": "Musa 7, soneto 50 (9. 69)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Al gran archiduque Alberto | Entré de paje a servir.»",
                   "autor": "Alarcón",
                   "referencia_obra": ", El semejante a sí mismo, 2. 13 (R. 20. 732)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Yo, que conozco las veredas todas | De esta comarca, os serviré de guía.»",
                   "autor": "A. Saav.",
-                  "referencia_obra": "Moro expós. 10 (2. 368). X"
+                  "referencia_obra": "Moro expós. 10 (2. 368)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El ilustre marqués de Mondéjar me envía cerca de vos y de estos pueblos... y antes de servir de intérprete a tan digno caudillo, omito, como inútil, recordaros cuán acreedor es a vuestra veneración, a vuestra confianza y, aun puedo decirlo sin recelo, a vuestra gratitud.»",
                   "autor": "M. de la Rosa",
-                  "referencia_obra": ", Abén Humeya, 2 (Cl. C. 107. 242). — El término es una prop. infinitiva. X"
-                },
+                  "referencia_obra": ", Abén Humeya, 2 (Cl. C. 107. 242)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Señor caballero, este muchacho que estoy castigando es un mi criado, que me sirve de guardar una manada de ovejas que tengo en estos contornos.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 4 (Cl. C. 4. 115)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Señor caballero, este muchacho que estoy castigando es un mi criado, que me sirve de guardar una manada de ovejas que tengo en estos contornos.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 4 (Cl. C. 4. 115)."
+                    }
+                  ]
                 }
               ]
             },
@@ -176,13 +238,16 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en, para especificar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Don Antonio, hombre prevenido (dicen que con orden de don Juan), dejó la gente antes que llegase el Marqués, y volvió a servir su cargo en Granada.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Gran. 3 (R. 21. 1021)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -190,23 +255,28 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Trans. Con de, para especificar el cargo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tenía nuestro aposento u calabozo tres o cuatro ventanas, desde adonde los presos matraqueaban los del patio, y principalmente a un negro muy gracioso que servía de una de las velas y guardas de la cárcel.»",
               "autor": "Césp. y Men.",
               "referencia_obra": "Sold. Pínd. 11 (R. 18. 2952)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Quién hace tan sabio a un hombre solo, que sin conocimiento de causa, sin admitir defensa, haga el cargo, juzgue y ejecute, especialmente en la persona real, y a un mismo tiempo sirva de fiscal?»",
               "autor": "Coloma",
-              "referencia_obra": ", Guerras de los Estados Bajos, 2 (R. 28. 241). X"
+              "referencia_obra": ", Guerras de los Estados Bajos, 2 (R. 28. 241)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pues ahora que estamos solos, es mano. Y yo mesmo sirvo de testigo, que estas cosas siempre es bueno quialguno de juera las presencé.»",
               "autor": "Carrasquilla",
               "referencia_obra": ", Frutos, 2. 5 (p. 33)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -214,65 +284,95 @@
     {
       "id": "c)",
       "definicion": "Milit. Prestar el servicio militar (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«[Resolvieron] que se publicasen bandos para que los hombres que algunas veces hubiesen recibido sueldo real acudiesesn a servir.»",
               "autor": "Melo",
               "referencia_obra": ", Guerra de Catal. 2 (R. 21. 4841)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, para especificar la compañía.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Yo soy un oficial inglés. — ¿Y anda sirviendo con los insurgentes? —Iba a hacerlo, señor, pero una enfermedad me lo ha impedido.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 10 (p. 140)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para precisar: — el lugar. Además con por, que señala el tiempo.",
-              "ejemplos_citas": [
+              "definicion": "Con en, para precisar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Salió la gente con honestas condiciones respeto al término tan peligroso en que se hallaban, pues fue la peor obligarse a no servir en Frisa por el espacio de seis meses.»",
-                  "autor": "Coloma",
-                  "referencia_obra": ", Guerra de los Est. Bajos, 5 (R. 28. 661). — La institución. X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar. Además con por, que señala el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Salió la gente con honestas condiciones respeto al término tan peligroso en que se hallaban, pues fue la peor obligarse a no servir en Frisa por el espacio de seis meses.»",
+                      "autor": "Coloma",
+                      "referencia_obra": ", Guerra de los Est. Bajos, 5 (R. 28. 661)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«No hay un millar que haya servido en el ejército de línea fuera de la República.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Facundo, 1. 4 (p. 74). X"
-                },
-                {
-                  "texto_cita": "«Muchos de ellos apenas sabían castellano; hasta uno que ha servido en el Ejército, en el Ferrol lo hablaba pésimamente y acabará casi por olvidarlo.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Por tierras de Port. y Esp. p. 137."
+                  "id_limpio": "—",
+                  "definicion": "La institución.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«No hay un millar que haya servido en el ejército de línea fuera de la República.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Facundo, 1. 4 (p. 74)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Muchos de ellos apenas sabían castellano; hasta uno que ha servido en el Ejército, en el Ferrol lo hablaba pésimamente y acabará casi por olvidarlo.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Por tierras de Port. y Esp. p. 137."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por, que indica el tiempo. X",
+              "definicion": "Con por, que indica el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Estos sirvientes han sido muchachos de la campaña que con engaños y promesas se reclutan en Europa para servir gratuitamente por tres años; terminado el servicio se les pagan cinco o diez libras y se les deja libres.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 2. 10 (p. 202)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -280,18 +380,22 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Forma la expresión Servir un arma: ejecutar las operaciones necesarias para su funcionamiento y empleo en el combate.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Su embajada [de Cortés] era pacífica, y aquellas armas que la acompañaban servían más a la autoridad que a la fuerza.»",
               "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 2. 5 (R. 28. 2521). X"
+              "referencia_obra": ", Conq. de Méj. 2. 5 (R. 28. 2521)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Como una estampa típica de estos días, siempre se recordará a Magdalena Valence, la hija de Guillermo de Orange, que servía uno de los cañones de su padre con más ardor y eficacia que ningún otro artillero.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 2. 12 (p. 228)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -299,70 +403,102 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Valer, ser útil para determinado fin o para determinada función, contribuir (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Puede interuenir [el laud sin tapadero], o no seyendo acabado de hazer el laud, o, después de aver seydo fecho e siruiendo, averse quebrado la tapa.»",
               "autor": "Oviedo",
-              "referencia_obra": ", Quinquag, 1. 20 (1. 243). X"
+              "referencia_obra": ", Quinquag, 1. 20 (1. 243)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Calle usté a ver si yo... Yo no tengo más que doce pesetas treinta y cinco céntimos.... ¿si sirven? —¡Ay, cómo nó!...»",
               "autor": "Arniches",
-              "referencia_obra": ", Es mi hombre, 3 (p. 184). X"
+              "referencia_obra": ", Es mi hombre, 3 (p. 184)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No cometer el viejo pecado de desligar de la Universidad al graduado, que saliendo al mundo va a comprobar si lo que estudió en la Facultad servía.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Estud. mesa redonda, 15 (p. 223)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. +",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Si el agua nos sirve y da sus peces ---, todo es para cumplir el mandamiento de amor.»",
                   "autor": "Estella",
-                  "referencia_obra": ", Medit. 1 (p. 60). — Además con de. X"
+                  "referencia_obra": ", Medit. 1 (p. 60)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ansí hizo que, en llegando una noche a Talavera un lugar que no está lejos de aquí, me apeé en un mesón que no me sirvió de mesón, sino de sepultura, pues en él hallé la de mi honra.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Pers. 3. 6 (Cl. Castal. 12. 321)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Servía [el castillo] de hospital y cárcel a castellanos y catalanes.»",
+                      "autor": "Melo",
+                      "referencia_obra": ", Guerra de Catal. 5 (R. 21. 5212)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Servíanos de comedor la sala, cuyo ajuste estaba reducido a varios canapés de vaqueta y algunos retablos quiteños que representaban santos, colgados en lo alto de las paredes no muy blancas, y dos mesitas adornadas con fruteros y loros de yeso.»",
+                      "autor": "Isaacs",
+                      "referencia_obra": ", María, p. 59."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Ansí hizo que, en llegando una noche a Talavera un lugar que no está lejos de aquí, me apeé en un mesón que no me sirvió de mesón, sino de sepultura, pues en él hallé la de mi honra.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Pers. 3. 6 (Cl. Castal. 12. 321)."
-                },
-                {
-                  "texto_cita": "«Servía [el castillo] de hospital y cárcel a castellanos y catalanes.»",
-                  "autor": "Melo",
-                  "referencia_obra": ", Guerra de Catal. 5 (R. 21. 5212). X"
-                },
-                {
-                  "texto_cita": "«Servíanos de comedor la sala, cuyo ajuste estaba reducido a varios canapés de vaqueta y algunos retablos quiteños que representaban santos, colgados en lo alto de las paredes no muy blancas, y dos mesitas adornadas con fruteros y loros de yeso.»",
-                  "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 59. — Además con como, para especificar el modo. X"
-                },
-                {
-                  "texto_cita": "«Aquella conversación ligera le serviría como narcótico, o más bien se embriagaría con ella.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 21 (p. 89). X"
-                },
-                {
-                  "texto_cita": "«Ama el ladrón la sociedad de otro ladrón, porque le servirá como concausa o instrumento para hurtar.»",
-                  "autor": "Feijóo",
-                  "referencia_obra": ", Teatro crít. 3 (Cl. C. 67. 150)."
+                  "id_limpio": "—",
+                  "definicion": "Además con como, para especificar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Aquella conversación ligera le serviría como narcótico, o más bien se embriagaría con ella.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Abel Sánchez, 21 (p. 89)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ama el ladrón la sociedad de otro ladrón, porque le servirá como concausa o instrumento para hurtar.»",
+                      "autor": "Feijóo",
+                      "referencia_obra": ", Teatro crít. 3 (Cl. C. 67. 150)."
+                    }
+                  ]
                 }
               ]
             },
@@ -370,31 +506,46 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con a, para expresar la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Traía [Motezuma] sobre sí diferentes joyas de oro, perlas y piedras preciosas, en tanto número, que servían más al peso que al adorno.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 3. 10 (R. 28. 2802)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Servirán [los monumentos] a un mismo tiempo a la instrucción de los artistas, ---, y a la ilustración de su historia.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Informes (7. 8)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Así los defectos del Quijote, partiendo, como parten, del exceso mismo de su fuerza, en vez de consolar a la flaqueza humana, no sirven a otra cosa que a confundirla y a deseperarla.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Cerv. (R. 19. 932). — El término es una prop. infinitiva."
-                },
+                  "referencia_obra": "Cerv. (R. 19. 932)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No hay en todo el título de los caballeros ley alguna que no pueda servir a demostrar nuestra proposición.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "Discursos (2. 73)."
-                },
-                {
-                  "texto_cita": "«Esta clase de desvaríos, al paso que sirven a pintar la índole del corazón humano y las costumbres del tiempo, podrán también servir de consuelo a los que, ---, se vean atacados tan indignamente como él.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Las Casas, 3 (34. 208)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«No hay en todo el título de los caballeros ley alguna que no pueda servir a demostrar nuestra proposición.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "Discursos (2. 73)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Esta clase de desvaríos, al paso que sirven a pintar la índole del corazón humano y las costumbres del tiempo, podrán también servir de consuelo a los que, ---, se vean atacados tan indignamente como él.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Las Casas, 3 (34. 208)."
+                    }
+                  ]
                 }
               ]
             },
@@ -402,92 +553,143 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de, para señalar la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Trató de recogerse luego, y caminando a la ciudad, aquella misma diligencia que pudiera salvarle vino a servir de su mayor daño.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal. 2 (R. 21. 4741)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Descubríanse a largo trecho sus edificios sobre una eminencia de peñascos, que al parecer servían de muralla.»",
                   "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 2. 9 (R. 28. 2431). X"
+                  "referencia_obra": ", Conq. de Méj. 2. 9 (R. 28. 2431)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Recuerdo que al tercer día ya tuteaba un príncipe napolitano, y no hubo entonces damisela mareada a cuya pálida y despeinada frente no sirviese mi mano de reclinatorio.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de estío, p. 85. — El término es una prop. infinitiva."
-                },
+                  "referencia_obra": ", Sonata de estío, p. 85."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Decir que hay bebedizos o bocados para amar, es falso, o lo tal sólo sirve de trocar el juicio, quitar la vida, solicitar la memoria, causar enfermeades y graves accidentes.»",
-                  "autor": "Alemán",
-                  "referencia_obra": ", Guzmán, 1. 1. 2 (R. 3. 1932)."
-                },
-                {
-                  "texto_cita": "«Eran Sacamuelas: el oficio más maldito del mundo, pues no sirven sino de despoblar bocas.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Visita (1. 338)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Decir que hay bebedizos o bocados para amar, es falso, o lo tal sólo sirve de trocar el juicio, quitar la vida, solicitar la memoria, causar enfermeades y graves accidentes.»",
+                      "autor": "Alemán",
+                      "referencia_obra": ", Guzmán, 1. 1. 2 (R. 3. 1932)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Eran Sacamuelas: el oficio más maldito del mundo, pues no sirven sino de despoblar bocas.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Visita (1. 338)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, para especificar la situación. +",
+              "definicion": "Con en, para especificar la situación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Sirven [los árboles] en los enmaderamientos de los edificios, en fábricas de navíos y en otros usos deste género.»",
                   "autor": "Cobo",
                   "referencia_obra": ", Hist. Nuevo Mundo, 1. 4. 1 (R. 91. 1562)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No se debe callar en la historia lo que se tuviese por culpable, ni omitir lo que fuere digno de reprensión; pues sirven tanto en ella los ejemplos que hacen aborrecible el vicio como los que persuaden a la imitación de la virtud.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 1. 13 (R. 28. 2201)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con para, que expresa la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Este conocimiento sirve para la admiración y reverencia de tan grande majestad.»",
                   "autor": "Gran.",
                   "referencia_obra": "Símb. (4. 6)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Los que son buenos para un ejercicio público, no son siempre buenos para otros; ni las experiencias de la mar siven para las obras de la tierra.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 52 (R. 25. 1401). X"
+                  "referencia_obra": "Emp. 52 (R. 25. 1401)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y he dicho posible, porque este medio de adquirir la verdad será todavía imperfecto, pues que tanto puede servir para la comunicación de la verdad como para la del error.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Mem. sobre educ. pública (Cl.C. 111. 59). — Siendo el término una prop. subjuntiva. X"
-                },
+                  "referencia_obra": "Mem. sobre educ. pública (Cl.C. 111. 59)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Los muros del palacio y del templo incaicos formaban una calle angosta que desemboca en la plaza. —No hay ninguna puerta en esta calle —dijo mi padre—. Está igual que cuando los incas. Sólo sirve para que pase la gente. ¡Acércate! Avancemos.»",
-                  "autor": "Arguedas",
-                  "referencia_obra": ", Ríos prof. 1 (p. 9)."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el término una prop. subjuntiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Los muros del palacio y del templo incaicos formaban una calle angosta que desemboca en la plaza. —No hay ninguna puerta en esta calle —dijo mi padre—. Está igual que cuando los incas. Sólo sirve para que pase la gente. ¡Acércate! Avancemos.»",
+                      "autor": "Arguedas",
+                      "referencia_obra": ", Ríos prof. 1 (p. 9)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con por: — que indica el modo. +",
-              "ejemplos_citas": [
+              "definicion": "Con por:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Sirva por único ejemplo el siguiente pedazo de la famosa escena del Cinna.»",
-                  "autor": "Arteaga",
-                  "referencia_obra": ", Belleza ideal, 5 (Cl.C. 122. 62). — Con el sentido de como. +"
+                  "id_limpio": "—",
+                  "definicion": "que indica el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Sirva por único ejemplo el siguiente pedazo de la famosa escena del Cinna.»",
+                      "autor": "Arteaga",
+                      "referencia_obra": ", Belleza ideal, 5 (Cl.C. 122. 62)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Políclito dice de una fuente de Solos, ciudad de Cilicia, que manaba tal agua que servía por aceite.»",
-                  "autor": "J. de Pineda",
-                  "referencia_obra": ", Agr. crist. 10. 33 (R. 162. 3262)."
+                  "id_limpio": "—",
+                  "definicion": "Con el sentido de como.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Políclito dice de una fuente de Solos, ciudad de Cilicia, que manaba tal agua que servía por aceite.»",
+                      "autor": "J. de Pineda",
+                      "referencia_obra": ", Agr. crist. 10. 33 (R. 162. 3262)."
+                    }
+                  ]
                 }
               ]
             }
@@ -497,46 +699,71 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Sírvase su Magestad de todo, que si algo bueno va aquí, bien creeréis que no es mío.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Concep. 7 (2. 576)."
             },
             {
+              "marca": "",
               "texto_cita": "«Para quitar se sirvió del pincel.»",
               "autor": "Rivad.",
-              "referencia_obra": "Trib. 1. 3 (p. 16). X"
+              "referencia_obra": "Trib. 1. 3 (p. 16)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Época personificada en el Góetz de Berchingen de Goethe, ese héroe de la edad media llamado el de la mano de hierro, porque habiendo perdido la una se servía de otra de este metal con la misma facilidad que con la suya.»",
               "autor": "Fern.",
               "referencia_obra": "Caball. Lágrimas, p. 125."
             },
             {
+              "marca": "",
               "texto_cita": "«Tello amigo, si le tienes, | Sírvete deste diamante.»",
               "autor": "Alarcón",
               "referencia_obra": ", Siempre ayuda la verdad, 1. 4 (R. 20. 2301)."
             },
             {
+              "marca": "",
               "texto_cita": "«El emperador Carlos V aconsejó a Felipe II que no se sirviese largo tiempo de un ministro en los cargos.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 54 (R. 25. 1441). — Además con para, que expresa la finalidad."
+              "referencia_obra": "Emp. 54 (R. 25. 1441)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con para, que expresa la finalidad.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«De la mar se sirven [ellos] para sus gulas, de la hermosura de las criaturas para sus lujurias.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "Guía, 1. 1. 3 (1. 341)."
+                }
+              ]
             },
             {
-              "texto_cita": "«De la mar se sirven [ellos] para sus gulas, de la hermosura de las criaturas para sus lujurias.»",
-              "autor": "Gran.",
-              "referencia_obra": "Guía, 1. 1. 3 (1. 341). — Además con en."
-            },
-            {
-              "texto_cita": "«Sólo ingenio me dio [Dios] a mí; | Pues en las cosas de ingenio | Te sirves de mí, y de otros | En las que piden esfuerzo.»",
-              "autor": "Alarcón",
-              "referencia_obra": ", Los pechos privilegiados, 3. 3 (R. 20. 4273)."
-            },
-            {
-              "texto_cita": "«Pasó [el conde Carlos] a Bruselas, y de allí, algunos meses después, a Praga, a instancia del emperador Rodolfo II, que deseaba servirse de su persona en la guerra contra el turco Amurates.»",
-              "autor": "Coloma",
-              "referencia_obra": ", Guerras de los Est. Bajos, 7 (R. 28. 952)."
+              "id_limpio": "—",
+              "definicion": "Además con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Sólo ingenio me dio [Dios] a mí; | Pues en las cosas de ingenio | Te sirves de mí, y de otros | En las que piden esfuerzo.»",
+                  "autor": "Alarcón",
+                  "referencia_obra": ", Los pechos privilegiados, 3. 3 (R. 20. 4273)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Pasó [el conde Carlos] a Bruselas, y de allí, algunos meses después, a Praga, a instancia del emperador Rodolfo II, que deseaba servirse de su persona en la guerra contra el turco Amurates.»",
+                  "autor": "Coloma",
+                  "referencia_obra": ", Guerras de los Est. Bajos, 7 (R. 28. 952)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -544,41 +771,59 @@
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Con sujeto de persona. X",
+          "definicion": "Con sujeto de persona.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Si el rey me da poder, y me envía mil hombres, descubriré todo eso. Mil hombres de Santo Domingo —advierte—, porque los de Castilla no sirven: no están hechos al cima.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 4 (p. 71)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. Además con en, para expresar la situación. X",
+              "definicion": "Con dat. Además con en, para expresar la situación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Había en el país de Chartrain un sugeto de mucha distinción llamado Tasgecio, cuyos antepasados tuvieron en otro tiempo el gobierno del estado, a quien César había restituído su antigua dignidad por su virtud, por el amor que le tenía, y por lo mucho que le había servido en las guerras anteriores.»",
                   "autor": "Valbuena",
                   "referencia_obra": ", tr. Los coment. de Julio César, p. 184."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de y una prop. infinitiva, para expresar la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pero haré vuestro gusto, y aun Sabino podrá servir de acordármelos [los Salmos], si yo me olvidare.»",
                   "autor": "León",
-                  "referencia_obra": ", Nomb. 1. 7 (3. 88). — Además con en, para precisar el lugar. X"
-                },
+                  "referencia_obra": ", Nomb. 1. 7 (3. 88)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No, señora, no; por mi vida nadie se inquiete, porque el hombre que tengo en casa dice que está mal con las mujeres que se arriman a báculos vivos, opinión que a mí pudiera tenerme entre los muertos, aunque, pues soy tan de mármol en el sufrir, podré servir de bulto en los sepulcros, ya que no merezco aposentarme en ellos.»",
-                  "autor": "Salas Barbadillo",
-                  "referencia_obra": ", El sagaz Estacio, 2 (Cl. C. 57. 187)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para precisar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«No, señora, no; por mi vida nadie se inquiete, porque el hombre que tengo en casa dice que está mal con las mujeres que se arriman a báculos vivos, opinión que a mí pudiera tenerme entre los muertos, aunque, pues soy tan de mármol en el sufrir, podré servir de bulto en los sepulcros, ya que no merezco aposentarme en ellos.»",
+                      "autor": "Salas Barbadillo",
+                      "referencia_obra": ", El sagaz Estacio, 2 (Cl. C. 57. 187)."
+                    }
+                  ]
                 }
               ]
             },
@@ -586,74 +831,91 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con por, que señala la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Más sirven los hombres por lo que esperan que por lo que han recibido.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 24 (R. 25. 642)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Tratándose de un animal. X",
+          "definicion": "Tratándose de un animal.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Pobre vaca! Como yo: quiere y no puede... Pero ella es vieja; ya sirvió; ya trabajó... y yo... yo...»",
               "autor": "Clarín",
               "referencia_obra": ", Teresa (Cl. Castal. 69. 83)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "El sujeto es una prop. infinitiva. Con dat. Además con de, para expresar la finalidad.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pregunto: ¿de qué les siruió a las palomas el honrarlas los poetas con dezir que son abuelas de Eneas y madres o hijas de Venus?»",
               "autor": "",
-              "referencia_obra": "Píc. Just. p. 76. X"
+              "referencia_obra": "Píc. Just. p. 76."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿De qué me hubiera servido tenerla delante, si había de atarme las manos la misma hidalga reflexión que me impidió matarla en su aposento?»",
               "autor": "Pereda",
-              "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 232). X"
+              "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 232)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿De qué nos serviría haber probado del fruto de la ciencia del bien y del mal sino no era para liberamos de éste?»",
               "autor": "Unamuno",
               "referencia_obra": ", Abel Sánchez, 35 (p. 141)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para señalar la finalidad. X",
+              "definicion": "Con de, para señalar la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mas ¿de qué sirve informarme? | Pues esto no se dijera | De un hijo, cuando no fuera| Verdad que pudo infamarme.»",
                   "autor": "Lope",
                   "referencia_obra": ", El castigo sin venganza (Cl. Castal. 25. 348)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con para, que indica la finalidad. X",
+              "definicion": "Con para, que indica la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Que sirviese para esta ceguedad y sordez el hablarles Dios en figuras y en parábolas, manifiéstalo Cristo, diziendo: ---.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 1, Braço (Cl. C. 33. 61)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -661,28 +923,34 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Forma la expresión No servir (de, en) nada: resultar inútil.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mas si, como decís, soy malo, nada | Me servirá el rogar.»",
               "autor": "León",
               "referencia_obra": ", Poes. Expos. de Job, 9 (Fern. 10. 324)."
             },
             {
+              "marca": "",
               "texto_cita": "«Las demás fábricas suntuosas de los sepulcros, de nada sirven al triste cuerpo.»",
               "autor": "Puente",
               "referencia_obra": ", Medit. 1. 10 (1. 107)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los ministros reales deseaban que su nombre fuese olvidado de todos; no podían servir en nada.»",
               "autor": "Melo",
-              "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4711). X"
+              "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4711)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Así el ave en la selva que a sus tiernos polluelos cobija | Teme más a la sierpe cuando el nido caliente abandona | Aunque el la bien comprende que su pico de nada le sirve.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Odas de Horacio (ICC. 5. 209)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -690,107 +958,147 @@
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Mirar por alguna persona, cuidar de ella, atender (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Esta [la casada] ha de tratar con Cristo para alcanzar de El gracia y favor con que acierte a criar el hijo, ---, y a servir como es debido al marido.»",
               "autor": "León",
-              "referencia_obra": ", Perf. cas. introd. (4. 425). X"
+              "referencia_obra": ", Perf. cas. introd. (4. 425)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Salió a servirlos una hija suya, vestida en traje morisco, y en él tan hermosa, que las más gallardas cristianas tuvieron a ventura el parecerla.»",
               "autor": "Cerv.",
-              "referencia_obra": "Pers. 3. 11 (Cl. Castal. 12. 354). X"
+              "referencia_obra": "Pers. 3. 11 (Cl. Castal. 12. 354)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Por Dios, que es muy honrado y muy cortés, pues trata de partirse por no cansar más los que le sirven!»",
               "autor": "",
-              "referencia_obra": "Salas Barbadillo, El sagaz Estacio (Cl. C. 57. 167). X"
+              "referencia_obra": "Salas Barbadillo, El sagaz Estacio (Cl. C. 57. 167)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Y yo, decidme, que gasté lo que no tenía y aun hube de empeñarme por servirle como creí correspondía a su calidad?»",
               "autor": "Benavente",
               "referencia_obra": ", Intereses creados, 2. 3. 8 (p. 121)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¿No basta, pues, escuchallo | Aquí de mí, si hasta agora | La he servido con secreto, | Justo y forzoso respeto | Del que estima a la que adora?»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", El examen de maridos, 1. 16 (Cl. C. 146. 139). — El medio. Además con hasta, para señalar el límite en el tiempo. X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿No basta, pues, escuchallo | Aquí de mí, si hasta agora | La he servido con secreto, | Justo y forzoso respeto | Del que estima a la que adora?»",
+                      "autor": "Alarcón",
+                      "referencia_obra": ", El examen de maridos, 1. 16 (Cl. C. 146. 139)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Y acabar allí mis días... Sirviéndoos hasta el final con mi silencio... Descuidad... ¡Con mi silencio!»",
-                  "autor": "Pemán",
-                  "referencia_obra": ", Felipe II, 2. 17 (p. 194)."
+                  "id_limpio": "—",
+                  "definicion": "El medio. Además con hasta, para señalar el límite en el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y acabar allí mis días... Sirviéndoos hasta el final con mi silencio... Descuidad... ¡Con mi silencio!»",
+                      "autor": "Pemán",
+                      "referencia_obra": ", Felipe II, 2. 17 (p. 194)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para indicar el lugar. X",
+              "definicion": "Con en, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y en ella hay también junto a la Inés de Castro, que aquí es Teresa Clementina de Albulquerque, una especie de Constanza, Mariana, que no siendo ni esposa de Simón Botelho, el enamorado de Teresa, le acompaña y le sirve en su prisión.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Por tierras de Port. y Esp. p. 10."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con por, que indica la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El que sirva al pobre por amor de Dios, no sirve tanto al pobre cuanto a Dios.»",
                   "autor": "Gran.",
                   "referencia_obra": "Guía, 1. 1. 5 (1. 442)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. Con la prep. con, para indicar el modo. Además con en, para especificar el lugar. X",
+          "definicion": "Pas. Con la prep. con, para indicar el modo. Además con en, para especificar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Con esto debes conocer que te pusieron en mi casa para que fueses en ella servida con todo cuidado y diligencia en cuanto fuese tu voluntad y que debo dar de ti la cuenta conforme a la confianza que de mí se hizo.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 1. 1. 8 (Cl. C. 73. 193)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Dadnos, señor español —respondió Periandro—, alguna muestra de lo que pedís, por quien nos guiemos, que en lo demás, seréis servido como nuestros ingenios lo alcanzaren.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 4. 1 (Cl. Castal. 12. 416)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -798,62 +1106,76 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part. Con de, para señalar el agente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¡Oh maravillosa y nueva virtud, lo que no hiciste desde el cielo, servido de Ángeles, hiciste desde la Cruz acompañado de ladrones!»",
               "autor": "Ávila",
-              "referencia_obra": ", Eucar. 1 (3. 20). X"
+              "referencia_obra": ", Eucar. 1 (3. 20)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Nunca fuera caballero | De damas tan bien servido | Como fuera don Quijote | Cuando de su aldea vino:| Doncellas curaban dél; | Princesas, del su rocino.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 2 (Cl.C. 4. 84)."
             },
             {
+              "marca": "",
               "texto_cita": "«La Reina a caballo, servida del Rey su marido y acompañada de su hija Doña Isabel, dio gallarda muestra de sí a los ojos y más todavía a los corazones castellanos.»",
               "autor": "Clem.",
               "referencia_obra": "Elog. de Is. la Cat. (Mem. Acad. Hist. 6. 17)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con como, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Usted, amigo don Bartolo, estará en mi casa obsequiado y servido como un príncipe.»",
                   "autor": "Mor.",
                   "referencia_obra": "El médico a palos, 3. 1 (R. 2. 4682)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. adj. En superlativo absol. +",
+          "definicion": "Part. adj. En superlativo absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Envió [el Gran Capitán] luego a don Diego de Mendoza con cierta gente de armas y caballos ligeros a Roma, y que trujese con mucha guarda y muy servida a la Princesa de Squilache para le entregar su principado.»",
               "autor": "",
               "referencia_obra": "Crón. Gran Capitán, 7. 17 (NBAE. 10. 3842)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Forma la expresión Para servirle: expresión de cortesía con que se ofrece uno a la disposión u obsequio de otro. X",
+          "definicion": "Forma la expresión Para servirle: expresión de cortesía con que se ofrece uno a la disposión u obsequio de otro.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Si no fuera doña Ana!... Decidle que está aquí para servirle don Juan de Escobedo, el secretario de mi señor don Juan de Austria...»",
               "autor": "Pemán",
               "referencia_obra": ", Felipe II, 2. 1 (p. 134)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -861,30 +1183,38 @@
     {
       "id": "b)",
       "definicion": "Obsequiar a uno o hacer una cosa en su favor, beneficio o utilidad (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "",
           "id_limpio": "",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar el medio. +",
+              "definicion": "Con la prep. con, para señalar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Si tú quieres algún panal de nuestras colmenas, o algunas aceitunas de nuestras olivas ---, podrémoste con algo de esto servir y a tus oficiales lo entregar.»",
                   "autor": "Guev.",
                   "referencia_obra": "Oratorio, 27 (p. 607)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Al Alcaide del castillo sirvió al Rey con vituallos.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 12. 17 (1. 6232)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -892,52 +1222,64 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part. adj. Con de, para señalar el agente. En superlativo absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los emperadores Diocleciano y Maximiano se dieron por muy servidos de un gobernador de provincia porque había gastado en reforzar los muros el dinero destinado para levantar un anfiteatro.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 82 (R. 25. 2232)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "En los siguientes ejemplos, Ofrecer o dar voluntariamente dinero al gobierno para alguna necesidad. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pidió el Rey de Francia al reino que le sirviesen con dineros para hacer guerra a los Ingleses.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 16. 20 (2. 552)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Absol. Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se reformaron los gastos públicos, y las ciudades, sirvieron con gran suma de dineros.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 15. 6 (1. 7422)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "En el siguiente texto, Suministrar. Pas. Con dat. X",
+          "definicion": "En el siguiente texto, Suministrar. Pas. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En estas bibliotecas le será servido todo cuanto desee.»",
               "autor": "Azorín",
               "referencia_obra": ", Trasuntos de Esp. pról. p. 11."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -945,80 +1287,99 @@
     {
       "id": "c)",
       "definicion": "Retribuir, pagar (trans.)",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mas podría ser que algún tiempo se ofreciese ocasión en que se conociese la voluntad que de servir tan señalada merced tenemos.»",
               "autor": "",
               "referencia_obra": "Montem, Diana, 2 (p. 71)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Cuándo, señor, | Serviré tanta merced?»",
               "autor": "Alarcón",
               "referencia_obra": ", Los favores del mundo, 1. 9 (R. 20. 52)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Que ya no nos falta nada, sino ser muy santos, y servir a Dios estas mercedes.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Cartas, 394 (R. 55. 3311)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Así, Señor, os servimos vuestras mercedes, dejándoos a vos por ellas.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Eucar. 24 (4. 357)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, para indicar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No puedo alcanzar, discreta señora, con qué palabras podría encarecer, ni con qué obras podría servir la merced que de vos recibo.»",
                   "autor": "Montem.",
                   "referencia_obra": "Diana, 5 (p. 166)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. Con en, para indicar el medio. X",
+          "definicion": "Absol. Con en, para indicar el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Más, Clori, que he tejido | Jazmines al cabello desatado,| Y más besos te pido | Que abejas tuvo el escuadrón armado; | Lisonjas son iguales | Servir yo en flores, pagar tú en panales.»",
               "autor": "Góng.",
               "referencia_obra": "Poes. (Cl. Ebro, 11. 61)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Pas. refl. Con la prep. con, para expresar el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pues con qué se podía pagar, ni servir esta merced?»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Fund. 5 (2. 264)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1026,73 +1387,90 @@
     {
       "id": "d)",
       "definicion": "Cortejar o enamorar a una dama (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Amigo, decí a su Alteza | Que si caballero moro | Hubiere que lo merezca, | Que por servir a las damas | Me venga a echar de la Vega—.»",
               "autor": "Rom. viejos",
-              "referencia_obra": "(Cl. Ebro, 9. 81). X"
+              "referencia_obra": "(Cl. Ebro, 9. 81)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El conde de Estremoz sirve y merece | A doña Serafina: yo he sabido | Que el duque sus intentos favorece, | Y hacerla esposa suya ha prometido.»",
               "autor": "Tirso",
               "referencia_obra": ", El vergonzoso en palacio, 2 (Cl. C. 2. 70)."
             },
             {
+              "marca": "",
               "texto_cita": "«Poco antes de lo cual serviréis una doncella, que se ha de inclinar, a vuestra fama y persona, con quien os casaréis.»",
               "autor": "Lope",
-              "referencia_obra": ", Dorotea, 5. 8 (Obr. suelt. 7. 427). X"
+              "referencia_obra": ", Dorotea, 5. 8 (Obr. suelt. 7. 427)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pero permíteme, amigo | Que pueda pedirte cuenta | De aquel tu pasado amor | Con cierta madamisela | Que servisteis en Amberes.»",
               "autor": "Cañizares",
               "referencia_obra": ", El Dómine Lucas, 1 (R. 49. 5052)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para expresar el modo. X",
+              "definicion": "Con la prep. con, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Servimos a las reinas | De nuestros corazones | Cantando en puros sones | Su gracia, su beldad.»",
                   "autor": "Pombo",
                   "referencia_obra": ", Antol. poét. p. 570."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Siete años de pastor Jacob servía... | Con esperanza al fin de poseella, | Si mil sirviera y más, muy poco hacia. | Al fin llegó, sirviendo, a merecella.»",
               "autor": "Alarcón",
               "referencia_obra": ", La industria y la suerte, 2. 8 (R. 20. 331)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "En el siguiente ejemplo, Festejar, admirar. Pas. Con de, para señalar el agente. X",
+          "definicion": "En el siguiente ejemplo, Festejar, admirar. Pas. Con de, para señalar el agente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Discretas damas hermosas, | Devotas, castas honestas, | En quien están todas estas | Y otras mil gracias y cosas | Ecelentes manifiestas; | Virtudes tan escogidas | De todos cuantos miráis.»",
               "autor": "Castillejo",
               "referencia_obra": ", Obr. de amores (Cl. C. 79. 54)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1100,41 +1478,51 @@
     {
       "id": "e)",
       "definicion": "Teol. Dar culto o adoración a Dios o a los santos, o emplearse en los ministerios de su gloria y veneración (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si él con su misericordia nos os da luz para conocerla, y fuerzas para servirla, vos no lo podréis hacer.»",
               "autor": "Ávila",
               "referencia_obra": ", Epíst. 2 (6. 276)."
             },
             {
+              "marca": "",
               "texto_cita": "«No podré yo explicar con palabras la alegría y paz de mi corazón y deseo que tengo que servir a nuestro Señor.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. del crist. 63 (6. 1901)."
             },
             {
+              "marca": "",
               "texto_cita": "«Todas las habilidades que los Dioses le dieron para servirlos, todas las empleó en ofenderlos.»",
               "autor": "Capm.",
               "referencia_obra": "Teatro (2. 101)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. +",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«No creen a la pobre alma, como la han visto ruin, y tan presto la ven pretender cosas tan animosas; porque luego da en no se contentar con servir en poco al Señor, sino en lo más que ella puede.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Vida, 20 (R. 53. 671)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1142,26 +1530,32 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Pas. Con sobre, para señalar el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Porque Dios es bueno merece ser servido y obedecido y amado sobre todas las cosas.»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 3. 27 (1. 1821)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Impers. Con a y de, para expresar el modo. X",
+          "definicion": "Impers. Con a y de, para expresar el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El santo Francisco de Sales dijo que a Dios se le servía a la manera humana y de acuerdo con el tiempo, en espera de que algún día se le podría servir a la manera divina y de acuerdo con la eternidad.»",
               "autor": "Fuentes",
               "referencia_obra": ", Obr. compl. p. 803."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1169,80 +1563,107 @@
     {
       "id": "f)",
       "definicion": "Asistir a la mesa suministrando o trayendo los manjares o las bebidas (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La noche que llegamos nos señaló nuestro aposento, y nos hizo una plática corta, que aun por no gastar tiempo, no duró más. Díjones lo que habíamos de hacer; estuvimos ocupados en esto hasta la hora de comer. Fuimos allá; comían los amos primero y servíamos los criados.»",
               "autor": "Quev.",
-              "referencia_obra": "Buscón, 3 (Cl. C. 5. 37). X"
+              "referencia_obra": "Buscón, 3 (Cl. C. 5. 37)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Al volver las trenzas a la espalda, de donde rodeaban al inclinarse ella a servir, admiré el envés de sus brazos deliciosamente torneados, y sus manos cuidadas como las de una reina.»",
               "autor": "",
               "referencia_obra": "lsaacs, María, p. 14."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. Además con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En ciertos días daba de comer a doscientos pobres antes que él comisese y él mismo les servía a la mesa.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Símb. 3. 3. 4 (4. 5401). — Además con en, para indicar el instrumento. X"
-                },
+                  "referencia_obra": "Símb. 3. 3. 4 (4. 5401)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El antiguo criado del hotel de Cap recibe al delegado de Leclerc en su palacio, que es toda una señorial mansión. Le festeja en su mesa, sirviéndole en vajilla de oro.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 3. 19 (p. 335)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para indicar el instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El antiguo criado del hotel de Cap recibe al delegado de Leclerc en su palacio, que es toda una señorial mansión. Le festeja en su mesa, sirviéndole en vajilla de oro.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Caribe, 3. 19 (p. 335)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con a. +",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Otro día fue llevado [Teágenes] por Aquémenes para que sirviese a la mesa.»",
                   "autor": "F. de Mena",
                   "referencia_obra": ", Teágenes y Clariclea, 7 (p. 291)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. Con la prep. con, para señalar el medio. X",
+          "definicion": "Pas. Con la prep. con, para señalar el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Oy se casa el monarca con su marca, | No quede pollo a vida, ni comida | Con que no sea seruida mi querida; | Llamadla en la comarca, polliparca.»",
               "autor": "",
               "referencia_obra": "Píc. Just. p. 183."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. adj. X",
+          "definicion": "Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La gran variedad de postres que no podían faltar sobre una mesa bien servida, en aquel tiempo de robusto apetito y de más sólidos estómagos que los de las presentes generaciones.»",
               "autor": "Blest Gana",
               "referencia_obra": ", El loco Estero, p. 162."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1250,141 +1671,182 @@
     {
       "id": "g)",
       "definicion": "Poner comida o bebida en el plato de alguien que ha de tomarla (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Los verdugos --- sirvieron [al Señor] vinagre mezclado con hiel.»",
               "autor": "Gran.",
-              "referencia_obra": "Mem. del crist. 53 (R. 11. 2172). X"
+              "referencia_obra": "Mem. del crist. 53 (R. 11. 2172)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Por si por acá no había | Quien sirviese los manjares, | Traigo ese criado.»",
               "autor": "Zamora",
-              "referencia_obra": ", No hay plazo, 3 (R. 49. 4331). +"
+              "referencia_obra": ", No hay plazo, 3 (R. 49. 4331)."
             },
             {
+              "marca": "+",
               "texto_cita": "«¿Dejarán la mesa pronto? | —No sé | —Desde aquí descubro... | Los postres sirven. —No acaban | Ni en veinticinco minutos.»",
               "autor": "Bretón",
-              "referencia_obra": ", Muérete y verás, 4. 4 (Cl. C. 92. 100). X"
+              "referencia_obra": ", Muérete y verás, 4. 4 (Cl. C. 92. 100)."
             },
             {
+              "marca": "X",
               "texto_cita": "«(Tembloroso y dando al momento gran interés, sirve dos copas de vino, ofrece una a Marcos y aproxima su silla a la del interlocutor).»",
               "autor": "Arniches",
               "referencia_obra": ", Es mi hombre, 3 (p. 177)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Huésped, yo os lo serviré?»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Lab. de amor, 3 (Com. 2. 170). X"
+                  "referencia_obra": "Lab. de amor, 3 (Com. 2. 170)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Más de una vez se me entró para servirme la cena una doncellita nueva, desconocida y sonriente...»",
                   "autor": "Pemán",
                   "referencia_obra": ", Felipe II, 1. 5 (p. 44)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para especificar el modo. X",
+              "definicion": "Con la prep. con, para especificar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Acibaroso le mordió a su hermano | El de Loyola destinado techo, | Que al santo impulso achaca un tigre hircano | Y un dragón atribuye al sacro pecho, | Cuando negado advierte su honor vano, | Que en opulenta mesa, en blando lecho, | Con esplendor sirviera, con decoro,| Costosos platos y columnas de oro.»",
                   "autor": "Domínguez Camargo",
                   "referencia_obra": ", Obr. (ICC. 15. 329)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, para expresar el lugar. X",
+              "definicion": "Con en, para expresar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Y quién le ha dicho a vuestra paternidad —replicó fray Gerundio— que en las cofradías no sirven muy buenos platos, y que a los frailes no les dan extraordinarios muy delicados?»",
                   "autor": "Isla",
                   "referencia_obra": ", Fr. Ger. 3. 4 (Cl. C. 149. 270)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. Con dat. Además con la prep. con. X",
+          "definicion": "Pas. Con dat. Además con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La cantidad de fresas fue asombrosa para lo temprano de la estación, y nos fueron servidas con leche de algunas cabras que Pepita también posee.»",
               "autor": "Valera",
               "referencia_obra": ", Pepita Jiménez, p. 33."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. refl. Con dat. X",
+          "definicion": "Pas. refl. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El señor acaba de llegar; avisa dentro para que se le sirva.»",
               "autor": "Isaacs",
-              "referencia_obra": ", María, p. 131. X"
+              "referencia_obra": ", María, p. 131."
             },
             {
+              "marca": "X",
               "texto_cita": "«A ver, que se me sirva una copa de lo más fuerte que haya... ‘‘Whisky’’... A ver, ¡un ‘‘whisky’’!»",
               "autor": "Arniches",
               "referencia_obra": ", Es mi hombre, 2 (p. 171)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Creció su admiración cuando, sirviéndose a la mesa una cazuela de liebre guisada, oyó a fray Gerundio prorrumpir en esta definitiva sentencia --»",
                   "autor": "Isla",
                   "referencia_obra": ", Fr. Ger. 3. 4 (Cl.C. 149. 270)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Allá cambiaremos pastas por vino. Ella apenas se atrevía a mirarlo, y notando que el almuerzo estaba servido, dijo levantándose: —Ya está la mesa puesta, señor. —Y dirigiéndose a Emma—: Dejemos a Estéfana lo que falta; ella lo hará bien.»",
               "autor": "Isaacs",
-              "referencia_obra": ", María, p. 128. X"
+              "referencia_obra": ", María, p. 128."
             },
             {
+              "marca": "X",
               "texto_cita": "«Un negro apareció en la puerta | —El almuerzo está servido.»",
               "autor": "Uslar-Pietri",
-              "referencia_obra": ", Lanzas coloradas, 6 (p. 68). — met. Con dat. X"
-            },
+              "referencia_obra": ", Lanzas coloradas, 6 (p. 68)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Pisó su umbral y en la pared venera | Una cruz, de los mármoles guardada, | Que en las cenizas salamandra era, | De aquella de los siglos abrasada | Ruina: de donde a la celeste esfera, | De alado amor divino arrebatada | El alma, Ganímedes, entre tanto, | Le sirve a Dios la copa de su llanto.»",
-              "autor": "Domínguez Camargo",
-              "referencia_obra": ", Obr. (ICC. 15. 358)."
+              "id_limpio": "—",
+              "definicion": "met. Con dat.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Pisó su umbral y en la pared venera | Una cruz, de los mármoles guardada, | Que en las cenizas salamandra era, | De aquella de los siglos abrasada | Ruina: de donde a la celeste esfera, | De alado amor divino arrebatada | El alma, Ganímedes, entre tanto, | Le sirve a Dios la copa de su llanto.»",
+                  "autor": "Domínguez Camargo",
+                  "referencia_obra": ", Obr. (ICC. 15. 358)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1394,91 +1856,112 @@
     {
       "id": "4",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Querer o tener a bien hacer alguna cosa (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Prnl. Con de y una prop. infinitiva. +",
+          "definicion": "Prnl. Con de y una prop. infinitiva.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Suplico a vuesa merced se sirva de no llevar a la cárcel a estos miserables.»",
               "autor": "Espinel",
               "referencia_obra": ", Escud. 1. 12 (Cl. C. 43. 172)."
             },
             {
+              "marca": "",
               "texto_cita": "«Excusado será agora, | Cuando en vos mis ojos ven | Tanta hermosura, pediros | Que de decirme os sirváis | ¿Cómo en la corte os halláis?»",
               "autor": "Alarcón",
               "referencia_obra": ", Mudarse por mejorarse, 1. 4 (R. 20. 1022)."
             },
             {
+              "marca": "",
               "texto_cita": "«Así les oiga, si aun se sirve de oirles; así les responda, si aun se sirve de responderles.»",
               "autor": "Melo",
-              "referencia_obra": ", Guerra de Catal. 2 (R. 21. 4831). X"
+              "referencia_obra": ", Guerra de Catal. 2 (R. 21. 4831)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Fuese a Júpiter, y suplicole se sirviese de darla alguna luz de lo que había de pasar en el discurso de su vida.»",
               "autor": "Gracián",
               "referencia_obra": ", Agudeza (Cl. Castal. 15. 204)."
             },
             {
+              "marca": "",
               "texto_cita": "«Dispusieron enviarle mensajeros, participándole su casamiento e informándole menudamente del modo y condiciones con que se había hecho para que se sirviese de aprobarlo.»",
               "autor": "Acad.",
               "referencia_obra": "Hist. Ilustr. 2 (6. 92)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Suele usarse en frases imperativas, con tono muy cortés. X",
+          "definicion": "Suele usarse en frases imperativas, con tono muy cortés.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A lanzar iba la primera palabra, cuando el presidente, pluma en mano, me interrumpió diciéndome: —Sírvase declarar su nombre el ciudadano que va a hablar.»",
               "autor": "Pereda",
-              "referencia_obra": ", Pedro Sánchez, 2 (Cl.C. 145. 126). X"
+              "referencia_obra": ", Pedro Sánchez, 2 (Cl.C. 145. 126)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ahora sírvase indicamos algunas especies sobre los nombres vulgares del maíz, y de los principales objetos relacionados con este vegetal.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 2 (p. 111). X"
+              "referencia_obra": ", Sueños, 2 (p. 111)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Chac! ¡Chac! El que tenga de ustedes mejor vista, sírvase documentarse y decirme qué tropa es aquélla.»",
               "autor": "Valle-Inclán",
               "referencia_obra": ", Tirano Banderas, 7. 1. 4 (p. 171)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Forma la expresión Ser uno servido: querer o gustar de una cosa conformándose con la súplica o pretensión que se hace.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pídale Vmd. que por aquella agonía en que entonces estaba, sea servido darle fuerzas para decir la misma palabra con todo su corazón.»",
               "autor": "Ávila",
               "referencia_obra": ", Epíst. 4 (7. 438)."
             },
             {
+              "marca": "",
               "texto_cita": "«Fue el Señor servido remediar gran parte de mi trabajo.»",
               "autor": "Sta. Ter.",
-              "referencia_obra": "Vida, 30 (1. 244). X"
+              "referencia_obra": "Vida, 30 (1. 244)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vuestra merced sea servido de mostramos algún retrato de esa señora, aunque sea tamaño como un grano de trigo; que por el hilo se sacará el ovillo, y quedaremos con esto satisfechos y seguros, y vuestra merced quedará contento y pagado.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 4 (Cl.C. 4. 128)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1486,11 +1969,11 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «Es de dichosa ventura | El que sirve en tal lugar: | No hay quien la pueda tomar.» Encina, Poes. lír. (Cl. Castal. 62. 151). X «Dixe que la tercera parte de mi sermón sería vn consejo para que las señoras que son seruidas remedien a quien las sirue.» D. de S. Pedro, Serm. 3 (Cl. C. 133. 107). + «Con esta virtud de liberalidad que touo [Enrique IV], fue bien seruido de los suyos.» Pulgar, Clar. var. 6 (Cl. C. 49. 58). X «Si mi seruir de sus penas | Algún galardón espera, | Venga agora por estrenas | —Pues mis cuytas son ya llenas— | Antes que del todo muera.» J. Manr. Canc. (Cl. C. 94. 21). + «Sirvieron aquel día a la mesa grandes honbres, e ovieron mucha fiesta e plazer.» Crón. Álv. de Luna, 17 (p. 69).\n\n— Siglo XIV: + «Comió en la posada de Don Joan ---, et sirvieron ante el Rey amos a dos D. Joan et D. Joan.» Crón. Alf. XI, 109 (p. 203). + «Johan Niño fue llamado | Que el rey muy bien servió.» Alf. XI, 2153 (p. 599). + «Que los escriuanos que sean delas villas e sabidores, e que siruan los ofiçios por sus personas e non por escusadores.» Cortes de Valladolid, año 1351 (C. de L. y C. 2. 31). + «Señor, nin Garfín nin yo non vos podríemos seruir quantas merçedes nos auedes fecho.» Zifar, 103 (p. 210). + «Es grant derecho, que quien al diablo sirue e cree, mal galardón prende.» Ib. 59 (p. 127).\n\n— Siglo XIII: + «Ffazíanle [los antiguos a Júpiter] sacriffiçio de bestias blancas e de color rruçio, tan bien de las que sse siruyen como de las brauas, e ffazíenle ssuffumerios.» Alf. X, Seten. ley 31 (p. 62). X «Fijo bien la servirel con pura devoción | Guardarvos ha Dios por ella, darvos ha gualardón |, Ca Dios en este mundo da gracia e devoción.» Vida de S. Ildef. (Cl. C. 36. 206). X «Da me, Sennor, esfuerço, seso e [buen] sentydo, | Que yo tome venganga del pueblo descreydo,| E cobren castellanos algo de lo perdido, | E te tengas de mi en algo por seruido.» Fern. Gonz. 7 (Cl. C. 128. 57).\n\n— Siglo XII: X «Saliolos recebir con grandes avorozes; | Dios, que bien los sirvió a todo so sabor!» Cid, 2650 (Cl. C. 24. 246).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. servire ‘ser esclavo, hacer de esclavo’. Cat. fr. y port. servir, it. servire.",
+  "etimologia": "Etim. Del lat. <i>servire </i>‘ser esclavo, hacer de esclavo’. Cat. fr. y port. <i>servir</i>, it. <i>servire</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",
-  "conjugacion": "Conjug. Presenta las siguientes formas irregulares: sirvo, - es, -e, -en; -sirvió, -eron; -sirva, -as, -a, -amos, -áis, -an; sirviera, -as, -a, -amos, -ais, -an; -sirviere, -es, -e, -emos, -eis, -en; -sirve (tú); sirviendo.\n\n\u0000",
+  "conjugacion": "Conjug. Presenta las siguientes formas irregulares: sirvo, - es, -e, -en; -sirvió, -eron; -sirva, -as, -a, -amos, -áis, -an; sirviera, -as, -a, -amos, -ais, -an; -sirviere, -es, -e, -emos, -eis, -en; -sirve (tú); sirviendo.",
   "construccion_sintactica": "",
   "prosodia": "",
   "colocacion_concordancia": ""

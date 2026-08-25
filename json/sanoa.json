@@ -6,141 +6,181 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Que no tiene ninguna lesión o enfermedad y funciona normalmente, bien sea el individuo o parte de él.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y es esta gente muy amigable | Tiene castillos y muchas ciubdades | Biuen sanos sin enfermedades | O gran misterio muy admirable.»",
               "autor": "Figueroa",
-              "referencia_obra": ", Alcázar imperial (BALH. 18. 66). X"
+              "referencia_obra": ", Alcázar imperial (BALH. 18. 66)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Dónde os azotaré, pues no hay parte sana en vosotros?»",
               "autor": "M. de Chaide",
-              "referencia_obra": ", Magd. 2. 11 (Cl. C. 104. 267). X"
+              "referencia_obra": ", Magd. 2. 11 (Cl. C. 104. 267)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Viniendo, como venís, de tierra tan estraña como es Roma, y habiendo pasado mar tan peligroso como es el golfo de Narbona, no quiero preguntaros si venís sano, sin dar gracias a Dios, pues venís vivo.»",
               "autor": "Guev.",
-              "referencia_obra": "Epíst. p. 139. X"
+              "referencia_obra": "Epíst. p. 139."
             },
             {
+              "marca": "X",
               "texto_cita": "«Alá te guarde, mi hijo, | Mahoma vaya en tu guarda, | Y te vuelva de Jaén | Libre, sano y con ventaja. | Y te dé paz con tu tío, | Señor de Guadix y Baza.»",
               "autor": "",
-              "referencia_obra": "Romances viejos (Cl. Ebro, 9. 68). X"
+              "referencia_obra": "Romances viejos (Cl. Ebro, 9. 68)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y más que, si es cierta la opinión de algunos médicos, que lo tienen por enfermedad, ¿quién puede juzgar si mi padre no estaba sano?»",
               "autor": "Alemán",
-              "referencia_obra": ", Guzmán, 1. 1. 1 (Cl. C. 73. 68). X"
+              "referencia_obra": ", Guzmán, 1. 1. 1 (Cl. C. 73. 68)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ya que me tienes preso, i tan herido, | Qu'e en mi pecho no hallas lugar sano | No m'acabes, mi cruel, en duro olvido.»",
               "autor": "Herr.",
-              "referencia_obra": "Poes. 2 (Cl. C. 26. 69). X"
+              "referencia_obra": "Poes. 2 (Cl. C. 26. 69)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los venden en público mercado como jumentos, a más precio los mozos sanos y robustos, y a mucho más las infelices mujeres que se hallan con otro fruto de miseria dentro de sí mismas.»",
               "autor": "Cadalso",
-              "referencia_obra": ", Cartas marr. 9 (Cl. C. 112. 92). X"
+              "referencia_obra": ", Cartas marr. 9 (Cl. C. 112. 92)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dos heridos, batallando | Con las últimas congojas; | Vivo y sano, sólo yo.»",
               "autor": "Hartz.",
-              "referencia_obra": "La jura en Santa Gadea, 2. 9 (Cl. C. 113. 194). X"
+              "referencia_obra": "La jura en Santa Gadea, 2. 9 (Cl. C. 113. 194)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Siempre hemos odiado nuestra época y hemos admirado esta generación nueva, fuerte, sana, valiente y llena de bondad...»",
               "autor": "Mihura",
-              "referencia_obra": ", Maribel (Cl. Castal. 80. 136). — En grado comparativo. X"
-            },
+              "referencia_obra": ", Maribel (Cl. Castal. 80. 136)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Yo, villano, | Vivo más tiempo, y más sano | Y alegre todos mis días, | Y vivo como cristiano, | Por aquestas manos mías.»",
-              "autor": "T. Naharro",
-              "referencia_obra": ", Comedias (Cl. Castal. 51. 53)."
+              "id_limpio": "—",
+              "definicion": "En grado comparativo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Yo, villano, | Vivo más tiempo, y más sano | Y alegre todos mis días, | Y vivo como cristiano, | Por aquestas manos mías.»",
+                  "autor": "T. Naharro",
+                  "referencia_obra": ", Comedias (Cl. Castal. 51. 53)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para indicar el órgano o parte saludable. X",
+              "definicion": "Con de, para indicar el órgano o parte saludable.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Soy sano de mis miembros y no tengo sordez, ni cataratas, tos, ni reumas.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "La elec. de los Alcaldes (NBAE. 17. 132). X"
+                  "referencia_obra": "La elec. de los Alcaldes (NBAE. 17. 132)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Así, en Lo prohibido, verbigracia, Camila, la mujer sana de cuerpo y alma, se contrapone física y moralmente al neurótico y degenerado protagonista.»",
                   "autor": "Menéndez y Pelayo",
                   "referencia_obra": ", Discursos (Cl. C. 140. 99)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "met. X",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Luego que por Oriente | Muestra su blanca frente | El alba que a porfía | Sano nos muestra el día | Y a la tarde doliente.»",
                   "autor": "Villegas",
                   "referencia_obra": ", Eróticas, Cant. 19 (Cl. C. 21. 214)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Sustantivado. X",
+          "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Dilo, dilo, ¡Dios te praga! | Que ño ay mejor çurujano | Qu'el herido qu'es ya sano, | Para bien curar la llaga.»",
               "autor": "Fernández",
-              "referencia_obra": ", Farsas y égl. (Cl. Castal. 72. 156). X"
+              "referencia_obra": ", Farsas y égl. (Cl. Castal. 72. 156)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuanto contento encierra | Contar su herida el sano | Y en la patria su cárcel el cautivo | Entre la paz y guerra.»",
               "autor": "Lope",
-              "referencia_obra": ", Poes. lír. (Cl. C. 75. 31). X"
+              "referencia_obra": ", Poes. lír. (Cl. C. 75. 31)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y el alegría en el enfermo es el mejor jarabe y cordial epíctima, y así es bien procurársela y, cuando alegre lo vieres, cuéntalo por sano.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 1. 1. 8 (Cl. c. 73. 183)."
             },
             {
+              "marca": "",
               "texto_cita": "«Fueron tantos los heridos, que apenas había en su campo cinco mil sanos.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 5 (R. 28. 652)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "En el siguiente texto, Invulnerable. Con a. X",
+          "definicion": "En el siguiente texto, Invulnerable. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Advierte | Que soy un sano a la muerte, | Y que remedios me pones.»",
               "autor": "Lope",
               "referencia_obra": ", Peribáñez, 3 (Cl. C. 159. 95)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -148,92 +188,113 @@
     {
       "id": "b)",
       "definicion": "Recuperado de alguna dolencia o mal.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mauro (del gran Terrones digno hermano) | Que de un mal, que seis lustros padecía, | Quedó con ver los santos huesos sano.»",
               "autor": "",
-              "referencia_obra": "Argens. Rimas (Cl. C. 173. 129). X"
+              "referencia_obra": "Argens. Rimas (Cl. C. 173. 129)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Fue a su romería, y volvió de allí a veinte días, ya casi sana, porque poco a poco se iba quitando del artificio con que después de parida se mostraba hidrópica.»",
               "autor": "Cerv.",
-              "referencia_obra": "La ilustre fregona, 1 (Cl. C. 27. 305). X"
+              "referencia_obra": "La ilustre fregona, 1 (Cl. C. 27. 305)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Quien primero se desveló fue doña Ángela, que aún no tenía sana la llaga.»",
               "autor": "Cortés de Tolosa",
-              "referencia_obra": ", Nov. (Cl. C. 187. 144). X"
+              "referencia_obra": ", Nov. (Cl. C. 187. 144)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dió su limosnero tres cuartos de escudo por la llegada, y uno cada semana, hasta que fui sano, sin llegar a pies reales.»",
               "autor": "",
-              "referencia_obra": "Esteb. Gonz. 1. 5 (Cl. C. 108. 211). X"
+              "referencia_obra": "Esteb. Gonz. 1. 5 (Cl. C. 108. 211)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Señor, no soy digno que entréis en mi casa, pero decid un palabra y estará sano mi criado.»",
               "autor": "Nieremb.",
               "referencia_obra": "Epíst. 69 (Cl. C. 30. 225)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En comparativo con valor ponderativo. X",
+              "definicion": "En comparativo con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y como huvo un poco reposado con ella se sintió tan sano de las heridas que los tres cavalleros le havían hecho.»",
                   "autor": "Montem.",
                   "referencia_obra": "Diana, p. 307."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de, para señalar el mal del cual se recupera.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Cobraba mejoría [el lisiado], | Y de su enfermedad quedaba sano.»",
                   "autor": "León",
                   "referencia_obra": ", Poes. Salmo 1 (Fern. 10. 267)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Vino don Alonso Portocarrero con mil soldados, ya sano de sus heridas.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Granad. 2 (R. 21. 822)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Acordó en persona pasar a la Corte de aquel Rey, que aun no estaba del todo sano de su enfermedad.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 19. 8 (2. 1882). X"
+                  "referencia_obra": ", Hist. Esp. 19. 8 (2. 1882)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En qué puedo, señor Fabío, | Serviros. | — Viendo que ya | Estáis (a Dios gracias) sano | De aquella pasada herida...»",
                   "autor": "Zamora",
                   "referencia_obra": ", No hay plazo, 2 (R. 49. 4222)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Con la exp. adv. del todo: X",
+          "definicion": "Con la exp. adv. del todo:",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En resolución, dentro de quince días estuvo fuera de peligro el herido, y a los veinte declaró el cirujano que estaba del todo sano.»",
               "autor": "Cerv.",
               "referencia_obra": "La ilustre fregona, 1 (Cl. C. 27. 261)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -241,53 +302,66 @@
     {
       "id": "c)",
       "definicion": "Que es bueno para la salud.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Uno sana y otro enferma ayunando; a uno es sano un manjar y a otro le causa enfermedades.»",
               "autor": "A. de Valdés",
-              "referencia_obra": ", Diál. de Merc. y Carón, 2 (Cl. C. 96. 254). X"
+              "referencia_obra": ", Diál. de Merc. y Carón, 2 (Cl. C. 96. 254)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mujeres, leyes, traje, instituciones, | Ciencia, arte, religión y hasta agua sana | Y pan todo soberbia y holgazana.»",
               "autor": "Zorrilla",
               "referencia_obra": ", Poes. (Cl. C. 63. 173)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El cielo y aire de España y Francia son muy sanos.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 11. 22 (1. 5692). X"
+                  "referencia_obra": ", Hist. Esp. 11. 22 (1. 5692)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mas ternéis | Que si en tinelo coméis | Es una vida muy sana, | Vuestro antepasto ternéis | Tres días en la semana.»",
                   "autor": "T. Naharro",
                   "referencia_obra": ", Comedias (Cl. Castal. 51. 162)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En comparativo. X",
+              "definicion": "En comparativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y aunque hay algunos que dicen | Que no es sano [el puerco], es desconcierto, | Que yo digo y probaré | Que es más sano que el carnero.»",
                   "autor": "Rojas",
                   "referencia_obra": "Villandrando, Viaje entretenido, p. 473."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -296,78 +370,96 @@
     {
       "id": "d)",
       "definicion": "Expresiones y Locuciones.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Cortar por lo sano: resolver un asunto de plano y sin miramiento, ni consideraciones. X",
+          "definicion": "Cortar por lo sano: resolver un asunto de plano y sin miramiento, ni consideraciones.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Algunas tardes podía visitarla., siempre a las horas en que Medina estaba, y nada más, nada más... Esto se llamaba cortar por lo sano.»",
               "autor": "P. Galdós",
               "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 351)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "No tener hueso sano: extenderse la dolencia por todo el cuerpo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Dadme siquiera una mano. | Y muy bien los ha menester | Porque no vuelva a caer; | Que no tiene hueso sano.»",
               "autor": "Lope",
               "referencia_obra": ", Audencias del Rey don Pedro, 450 (Vocab. de Lope)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "No dejar hueso (libro) sano a alguien: murmurar, criticar o descubrir todos los defectos a alguien. X",
+          "definicion": "No dejar hueso (libro) sano a alguien: murmurar, criticar o descubrir todos los defectos a alguien.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Unos dicen: \"Loco, pero gracioso\"; otros, \"Valiente, pero desgraciado\"; otros, \"Cortés, pero impertinente\"; y por aquí van discurriendo en tantas cosas, que ni a vuesa merced ni a mí nos dejan hueso sano.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 2 (Cl. C. 13. 60). X"
+              "referencia_obra": "Quij. 2. 2 (Cl. C. 13. 60)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y los buenos de los diaristas que persiguieron de muerte a todos los escritores de su tiempo; que no dejaron libro sano a ninguno, tratándolos de bárbaros, de pedantes, de rudos.»",
               "autor": "Forner",
               "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 112)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Sano y salvo o Bueno y sano: sin lesión, enfermedad ni peligro. X",
+          "definicion": "Sano y salvo o Bueno y sano: sin lesión, enfermedad ni peligro.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Día vendrá (y no sabes cuándo si hoy, si, mañana) en el cual tú mismo, que estás agora leyendo esta escriptura sano y bueno de todos sus miembros y sentidos. --- te has de ver en una cama.»",
               "autor": "Gran.",
-              "referencia_obra": "Guía, 1. 1 (Cl. C. 97. 19). X"
+              "referencia_obra": "Guía, 1. 1 (Cl. C. 97. 19)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo te traere el hijo tuyo | Sano y salvo.»",
               "autor": "Lope",
-              "referencia_obra": ", La hist. de Tobías, 114 (Vocab. de Lope). X"
+              "referencia_obra": ", La hist. de Tobías, 114 (Vocab. de Lope)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Aunque esta vez le vieron apretado, | Sano y salvo salió, gracias a Cristo: | Que Vergel contra cuernos es hadado.»",
               "autor": "Villamediana",
-              "referencia_obra": ", Obr. (Cl. Castal. 8. 274). X"
+              "referencia_obra": ", Obr. (Cl. Castal. 8. 274)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿No estás bueno? ¿No estás sano? | Con no volver, claro ha sido | Que sano y bueno has salido.»",
               "autor": "Cald.",
               "referencia_obra": "El médico de su honra, 2 (Cl. C. 142. 61)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -375,107 +467,133 @@
     {
       "id": "2",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
-      "definicion": "Tratándose de vegetales o similares, Que se encuentran en buen estado, sin daño. X",
+      "definicion": "Tratándose de vegetales o similares, Que se encuentran en buen estado, sin daño.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«El sobervio es como una manzana, la cual de fuera está sana y hermosa y dentro está toda podrida.»",
           "autor": "Gran.",
           "referencia_obra": "Esc. esp. 22 (6. 4091)."
         },
         {
+          "marca": "",
           "texto_cita": "«Señora la caña está sana; la caña está sana.»",
           "autor": "",
-          "referencia_obra": "Id. Símb. 2. 29 (4. 3602). X"
+          "referencia_obra": "Id. Símb. 2. 29 (4. 3602)."
         },
         {
+          "marca": "X",
           "texto_cita": "«La mejor de ustedes non| Vale las once castañas. | Venga mi cuarto | — Ven. Yo | Doy nueve; las cuatro sanas | Y cinco podridas.»",
           "autor": "R. de la Cruz",
           "referencia_obra": ", Sainetes (Cl. Ebro, 37. 40)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
-      "definicion": "Dicho de cosas, Entero, que no está roto ni estropeado. X",
+      "definicion": "Dicho de cosas, Entero, que no está roto ni estropeado.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Y fue lo bueno que al ventero se le apagó el candil, y, como quedaron a escuras, dábanse tan sin compasión, todos a bulto, que a doquiera que ponían la mano no dejaban cosa sana.»",
           "autor": "Cerv.",
-          "referencia_obra": "Quij. 1. 16 (Cl. C. 6. 46). X"
+          "referencia_obra": "Quij. 1. 16 (Cl. C. 6. 46)."
         },
         {
+          "marca": "X",
           "texto_cita": "«No uvo vidriera en los templos y casas que no se hiziesse piegas; hasta las puertas y ventanas con solo el ayre compelido se rompieron y abrieron, y en los texados, frisos y chapiteles aun no quedaron sanos los ladrillos y tejas.»",
           "autor": "Césp.",
-          "referencia_obra": "Men. Sold. Pínd. 2 (Cl. C. 203. 201). X"
+          "referencia_obra": "Men. Sold. Pínd. 2 (Cl. C. 203. 201)."
         },
         {
+          "marca": "X",
           "texto_cita": "«No hay pieza en el arnés que sana sea; | No hay carne que no duela magullada; | Salta la malla en leves piezas rota. | Y rojo humor de cuando en cuando brota.»",
           "autor": "Bello",
-          "referencia_obra": ", Poes. p. 29. X"
+          "referencia_obra": ", Poes. p. 29."
         },
         {
+          "marca": "X",
           "texto_cita": "«Haz siquiera que al Tibre laurentino | Estos últimos restos lleguen sanos.»",
           "autor": "Caro",
           "referencia_obra": ", Obr. de Virgilio (2. 222)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Recto, honrado, sincero.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Dicho de personas. X",
+          "definicion": "Dicho de personas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Son ucedes cortesanos? | — Sanos sí, pero no cortos. | — Lindo equívoco | — Extremado. | — Gallegos honrados somos.»",
               "autor": "Diamante",
-              "referencia_obra": ", El fogonero (Ramillete de entrem. (Cl. Castal. 21. 352). X"
+              "referencia_obra": ", El fogonero (Ramillete de entrem. (Cl. Castal. 21. 352)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y en los rasgos de su cara cierta dulzura astuta, cierta bondad perfectamente estudiada, que no son aquella bondad y aquella dulzura que resplandecen en otras caras apacibles, verdaderos espejos de almas sanas.»",
               "autor": "Catalina",
               "referencia_obra": ", Roma, p. 415."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo relativo. X",
+              "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«A Alejandro nombró por Pontífice la mayor y más sana parte de los Cardenales.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 10. 9 (1. 5371)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Añadía que el casamiento con el príncipe Don Fernando fue con acuerdo y consejo de la mayor y más sana parte de los grandes del reino.»",
                   "autor": "Acad.",
-                  "referencia_obra": "Hist. ilustr. 2 (6. 101). X"
+                  "referencia_obra": "Hist. ilustr. 2 (6. 101)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando se interesa la gloria de la nación propia, apenas se halla un historiador cabalmente sincero. Plutarco fue uno de los escritores más sanos de la antiguedad.»",
                   "autor": "Feijóo",
                   "referencia_obra": ", Teatro crít. 2 (Cl. C. 53. 55)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -484,111 +602,137 @@
     {
       "id": "b)",
       "definicion": "Que tiene buenos principios, exento de vicios y malicia.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Iba de un hora en otra la estrecheza | Haciéndose mayor, acompañada | De un amor sano y lleno de pureza.»",
               "autor": "Garcil.",
-              "referencia_obra": "Obr. 2 (Cl. C. 3. 36). X"
+              "referencia_obra": "Obr. 2 (Cl. C. 3. 36)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Crea no está desasida, no está sana; no terná libertad de espíritu, no terná entera paz.»",
               "autor": "Sta. Ter.",
-              "referencia_obra": "Cam. perf. 12 (Cl. C. 98. 9). X"
+              "referencia_obra": "Cam. perf. 12 (Cl. C. 98. 9)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El virtuoso trabaja y no siente necessidad; tiene templança y viue sano; es alabado por la virtud y honrado por la felicidad.»",
               "autor": "",
-              "referencia_obra": "L. Pinciano, Philosophia (BALH. t. 19. 30). X"
+              "referencia_obra": "L. Pinciano, Philosophia (BALH. t. 19. 30)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Reincorporóse y redujóse el renegado con la Iglesia, y de miembro podrido, volvió limpio y sano con la penitencia y el arrepentimiento.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 65 (Cl. C. 22. 202). X"
+              "referencia_obra": "Quij. 2. 65 (Cl. C. 22. 202)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pues yo Orden Sacerdotal, | Acudiré a todos hasta | Que, sano el Hombre, vea el mundo | Cómo a su prójimo ama.»",
               "autor": "Cald.",
               "referencia_obra": "Autos, 2 (Cl. C. 74. 203)."
             },
             {
+              "marca": "",
               "texto_cita": "«No admite duda que la sana crítica y el cultivo de las ciencias eclesiásticas debieron también por su parte desterrar al cabo un gran número de preocupaciones.»",
               "autor": "",
-              "referencia_obra": "M. de la Rosa, Espír. del siglo, 1. 7 (4. 24). X"
+              "referencia_obra": "M. de la Rosa, Espír. del siglo, 1. 7 (4. 24)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Las nieblas de la Edad Media íbanse remontando y desvaneciendo al calor y al influjo de los rayos purísimos de la ciencia sana, y de la verdadera civilización, que de Roma partían como de centro luminoso.»",
               "autor": "Catalina",
               "referencia_obra": ", Roma, p. 86."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo absol. X",
+              "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Julián, con sanísimas entrañas y sin caer en malicia ninguna ni en algún engaño, cuando hablaba con el Rey desviaba cuanto era posible su rostro.»",
                   "autor": "Timoneda",
                   "referencia_obra": ", El Patrañuelo, 17 (Cl. C. 101. 190)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En superlativo relativo. X",
+              "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se disipó como por encanto ante la clásica serenidad y la benévola ironía del más sano y equilibrado de los ingenios del Renacimiento.»",
                   "autor": "Menéndez y Pelayo",
                   "referencia_obra": ", Discursos (Cl. C. 140. 154)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "En comparativo con valor ponderativo. X",
+              "definicion": "En comparativo con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Qué simplicidad tan sana! | Guárdeos Dios.»",
                   "autor": "Rojas",
                   "referencia_obra": ", Del rey abajo ninguno (Cl. Castal, 38. 88)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con la expresión prep. de natural. X",
+              "definicion": "Con la expresión prep. de natural.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Es mi hijo, | Don Félix, Lorenzo; es sano | De natural, y se explica | Sin cultura y sin ornato | Pero con buen corazón.»",
                   "autor": "Cañizares",
                   "referencia_obra": ", El honor da entendimiento, 1 (R. 49. 5731)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En el siguiente texto, tranquilo. X",
+          "definicion": "En el siguiente texto, tranquilo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Diga usté sin cortedá | Cualquier recado que traiga, | Que nada le turba a quien | Tiene la conciencia sana.»",
               "autor": "R. de la Cruz",
               "referencia_obra": ", Sainetes (CI. Ebro, 37. 50)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -596,100 +740,131 @@
     {
       "id": "c)",
       "definicion": "Tratándose de consejos, criterios o decisiones, Sensato, razonable.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Volved, volved, gritaba... pero en vano, | Que a nadie pareció el consejo sano.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 7 (R. 17. 282)."
             },
             {
+              "marca": "",
               "texto_cita": "«No somos [los ancianos] en el mundo provechosos | Mas de para decir consejos sanos.»",
               "autor": "",
               "referencia_obra": "Id. ib. 8 (R. 17. 321)."
             },
             {
+              "marca": "",
               "texto_cita": "«Osaste alzar el peligroso vuelo, | Icaro, vanamente confiado | En mal seguras alas, y olvidado | Del sano aviso, te acercaste al cielo.»",
               "autor": "Arguijo",
               "referencia_obra": ", son. 50 (R. 32. 4002)."
             },
             {
+              "marca": "",
               "texto_cita": "«No era sano acuerdo abrir los cimientos a un tan costoso edificio sin haber dado fin a la primera obra.»",
               "autor": "Melo",
-              "referencia_obra": ", Guerra de Catal. 4 (R. 21. 5182). X"
+              "referencia_obra": ", Guerra de Catal. 4 (R. 21. 5182)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y entre tanto | Vejete que se juntaba, | Ninguno hubo que dijese: | Don Roque: ved que no es sana | Determinación casaros.»",
               "autor": "Mor.",
-              "referencia_obra": "El viejo y la niña, 1 (p. 13). X"
+              "referencia_obra": "El viejo y la niña, 1 (p. 13)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entonces necesitaba de la linterna de Diógenes para buscar un hombre y un dato, y ahora necesita de todas las linternas del buen gusto y del sano criterio para desechar hombres datos.»",
               "autor": "Larra",
               "referencia_obra": ", Crít. lit. y artist. (Cl. C. 52. 248)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo absol. X",
+              "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Vuestro consejo tengo por muy sano | De no mirar, pensar ni amar en vano.»",
                   "autor": "Gil Polo",
                   "referencia_obra": ", Diana (Cl. C. 135. 142)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En superlativo relativo. X",
+              "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«A hurto sirve Hurtado | Por la ventana trasera; | Mas sana cosa le fuera | Un privilegio rodado.»",
                   "autor": "Castillejo",
-                  "referencia_obra": ", Obr. de amores (Cl. C. 79. 43). X"
+                  "referencia_obra": ", Obr. de amores (Cl. C. 79. 43)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Assí, ni más ni menos, el dolor y aflicción, siendo comunicado, se alivian algún tanto, porque suele el que lo oye, como desapasionado, dar el consejo que es más sano y seguro al remedio de la persona afligida.»",
                   "autor": "Avell.",
-                  "referencia_obra": "Quij. 5. 2 (Cl. C. 174. 40). X"
+                  "referencia_obra": "Quij. 5. 2 (Cl. C. 174. 40)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Como ningún remedio es mejor que la abstinencia y buen gobierno, dejando obrar a la naturaleza, así en los achaques del valimiento el más sano consejo es no curallos, sino servir al príncipe con buena y recta intención, libre de intereses y pasiones, dejando que obre el mérito y la verdad.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 2 (Cl. C. 81. 262). — En comparativo con valor ponderativo. X"
-                },
+                  "referencia_obra": "Emp. 2 (Cl. C. 81. 262)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Mas ni tan sano acuerdo fue de importacia, porque ni la prudencia ni sufrimiento de su santa mujer, ni los consejos de sus deudos y amigos, bastaron a que en convaleciendo don Diego, se excusase de volver a su amoroso tema.»",
-                  "autor": "Césp.",
-                  "referencia_obra": "Men. Hist. (Cl. Castal. 23. 201)."
+                  "id_limpio": "—",
+                  "definicion": "En comparativo con valor ponderativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Mas ni tan sano acuerdo fue de importacia, porque ni la prudencia ni sufrimiento de su santa mujer, ni los consejos de sus deudos y amigos, bastaron a que en convaleciendo don Diego, se excusase de volver a su amoroso tema.»",
+                      "autor": "Césp.",
+                      "referencia_obra": "Men. Hist. (Cl. Castal. 23. 201)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Juicio (seso) sano: entendimiento claro y cabal. X",
+              "definicion": "Juicio (seso) sano: entendimiento claro y cabal.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«O, no llores, mi pastor, | Que son lágrimas en vano, | Y no está el seso muy sano | De aquél, que llora el dolor, | Si el remedio está en su mano.»",
                   "autor": "",
-                  "referencia_obra": "Montem, Diana, p. 91. X"
+                  "referencia_obra": "Montem, Diana, p. 91."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Porque con juicio más sano | No quiero que el pueblo hispano | De su fe con vilipendio | Con el cañón y el incendio | Se eche aprobar que es cristiano.»",
                   "autor": "Zorrilla",
                   "referencia_obra": ", Poes. (Cl. C. 63. 225)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -698,104 +873,129 @@
     {
       "id": "d)",
       "definicion": "Seguro, sin riesgo.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con dat. X",
+          "definicion": "Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Esa dama no es tuya, sino mía, | Y serte ha sano que dejarla quieras; | Donde no, vida y dama todo junto | Has de dejar en este mismo punto.»",
               "autor": "Bello",
               "referencia_obra": ", Poes. p. 412."
             },
             {
+              "marca": "",
               "texto_cita": "«A Juan de Gudiel no le fue sano | El tenerse en la lucha por maestro.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 3 (R. 17. 151)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo relativo. X",
+              "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Poco después de aquesto se casó en Portugal, si no con muchos bienes, con sujeto de calidad y deudos que, por materia de interesses y hazienda, le movieron en pocos días tan graves inquietudes, que tuvo por más sano dexarlas todas, y con sola su esposa mudar casa y assiento.»",
                   "autor": "Césp. y Men.",
                   "referencia_obra": "Sold. Pínd. 1. 1 (Cl. C. 202. 29)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pensó el Duque remediar algo con su autoridad y con el amor que el pueblo le tenía; pero, viéndole sordo y sin freno, determinó ir a lo sano y procurarlo conservar.»",
                   "autor": "Coloma",
                   "referencia_obra": ", Guerras de los Est. Bajos, 7 (R. 28. 951)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En el siguiente ejemplo, A salvo. Con de. X",
+          "definicion": "En el siguiente ejemplo, A salvo. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Sobre un tostado palafrén volvía | Astolfo, y, aunque sano de la tumba, | Sin armas, no creyendo que este día | Mostrarse en ellas otra vez le incumba, | Del cortesano y del galante hacía, | Con ciertas damas que le daban zumba.»",
               "autor": "Bello",
               "referencia_obra": ", Poes. p. 394."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
       "id": "e)",
-      "definicion": "Aplicado a actitudes, Reconfortante, beneficioso. X",
+      "definicion": "Aplicado a actitudes, Reconfortante, beneficioso.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«La guerra sana y vigorosa desde el nacer con que hoy reanuda Cuba, con todas las ventajas de su experiencia, y la victoria asegurada a las determinaciones finales.»",
           "autor": "Martí",
-          "referencia_obra": ", Sus mejores páginas, p. 238. X"
+          "referencia_obra": ", Sus mejores páginas, p. 238."
         },
         {
+          "marca": "X",
           "texto_cita": "«Si la literatura castelliana joven está enferma, y no de modernismo, que ya se ha visto que éste, desbastado de sus malezas, resulta sano, vigoroso, cristalino, en un Rubén Darío, en un Eduardo Marquina, en un Eugenio De Castro.»",
           "autor": "Nervo",
-          "referencia_obra": ", Obr. 2 (p. 122). X"
+          "referencia_obra": ", Obr. 2 (p. 122)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Hubo una Verbena de la Paloma, una Fiesta de San Antón...: pero ¡qué poco relieve tienen estos sanos intentos, entre el número de inepcias, entre la prodigalidad de piezas nauseabundas o anodinas!»",
           "autor": "Nervo",
           "referencia_obra": ", Obr. 2 (p. 107)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "",
           "id_limpio": "",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En superlativo. X",
+              "definicion": "En superlativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero aora ya en la ley de gracia, que en muriendo el cuerpo puede veer el alma a Dios, más sano es querer viuir poco y morir por verle.»",
                   "autor": "",
                   "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 86)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -804,7 +1004,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «Si tu quieres ser sana, y que te descubra la punta de mi sutil aguja sin temor, haz para tus manos y pies una ligadura de sosiego.» Celest. 9 (R. 3. 452). X «Y avnque el gruante estaua sano, | Fue la causa dél tan rota. | Que por correrme temprano | Anduuo de mano en mano | Como si fuera pelota.» D. de S. Pedro. Poes. amor (Cl. C. 33. 223). X «Muerto pero de tal mano| Que aun teniendo buena vida, | Era razón Perdella, y estando sano | Buscar alguna herida | Al coraçón.» J. Manr. Canc. (Cl. C. 94. 40). X «E díxole sant Eugenio: \"Amigo, bien sé que con sana mente dizes todas aquestas cosas poniendo en culpa al abbad e a sus canónigos porque fezieron lo que eran tenidos de fazer\".» Arc. de Talav. Vida de S. Ildef. 6 (Cl. C. 134. 28). X «Vi los que sano consejo tovieron, | | E los que conponen en guerra las pazes, | E vimos a muchos fuera destas fazes, | Que justas ganançias mercando quisieron.» Mena, Lab. (Cl. C. 119. 49). X «Pero en su casa e fazienda nigligente e de poca aministraçión; non muy franco; plazianle armas e cauallos; cauallero de sana condiçión e sin hufana.» Pz. de Guzmán, Gener. (Cl. C. 61. 87). X «Buen señor, de llano en llano | Le dixe, como mandades | Faré, pues me consejades | Consejo seguro e sano.» Santill. Canc. y decires (Cl. C. 18. 73).\n\n— Siglo XIV: X «Señor, dizen los clérigos, non quieras vestir lana, | Astragaríe un monje quanto el convento gana, | La su casa vasía non es para ty sana; | Tyenen grand la galleta e chica la canpana.» Arc. de Hita, (Cl. C. 17. 152).\n\n— Siglo XIII: X «End a poco de tiempo murió el sacristano, | Murió de fin qual de Dios a tot cristiano, | Issió de mal ivierno, entró e buen verano, | Fo pora paraiso do será siempre sano.» Berc. Mil. 12 (Cl. C. 44. 76). X «A parientes del ome de la vida lazrada, | Que ge lo aduxiessen fasta la su posada | Podrié seer bien lieve, sano a la tornada.» Id. S. Dom. (Cl. Castal. 49. 140). X «Quien con el se encontrava non yva[se] del sano | Otrros y vn rryco omne que dezían don Velasco.» Fern. Gonz. 10 (Cl. C. 128. 79). X «Por que el tiempo es sano e el mismo sepalo ganar | Tu has buen comienzo, Dios te lo quiso dar | Vete para él luego, non lo quieras tardar. | E quanto pudieres piensa de los remembrar.» Vida de S. Ildef. (36. 132). X «Tú non podrás con ellos hir, | Quando pasara la quarentena | Verná el día de la çena, | Tú serás sano, como yo cuydo.» S. M. Egipc. 143.",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. sanus, 'sano, robusto, sensato'. Cat. sa, fr. sain, it. sano, port. so, rum. sanatos.\n\n\u0000",
+  "etimologia": "Etim. Del lat. <i>sanus</i>, 'sano, robusto, sensato'. Cat. <i>sa</i>, fr. <i>sain</i>, it. <i>sano</i>, port. <i>so</i>, rum. <i>sanatos</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",

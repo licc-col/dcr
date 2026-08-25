@@ -1,47 +1,65 @@
 {
   "lema": "INGRATITUD.",
   "categoria_gramatical": "s. f.",
-  "introduccion": "s. f. Desagradecimiento, olvido de los beneficios recibidos.",
+  "introduccion": "Desagradecimiento, olvido de los beneficios recibidos.",
   "acepciones": [
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No, ni Dios tal quiera; antes creo que de haber sido yo ingrato a Lelia, --- ha permitido Dios que yo sea pagado con la misma ingratitud.»",
               "autor": "",
               "referencia_obra": "L. Rueda, Los engañados (Cl. C. 181. 33)."
             },
             {
+              "marca": "",
               "texto_cita": "«De gente bien nacida es agradecer los beneficios que reciben, y uno de los pecados que más a Dios ofende, es la ingratitud.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 22 (R. 1. 3052)."
             },
             {
+              "marca": "",
               "texto_cita": "«La ingratitud es hija de la soberbia, y uno de los mayores pecados que se sabe.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 2. 51 (R. 1. 5122). X"
+              "referencia_obra": "Id. ib. 2. 51 (R. 1. 5122)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No ha sido ingratitud, desdicha ha sido; | Que nunca a mi me falta alguna pena | Entre las pajas de mi pobre nido.»",
               "autor": "Lope",
-              "referencia_obra": "(Pagés, Dicc.). X"
+              "referencia_obra": "(Pagés, Dicc.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los españoles decían --- que las salinas se ejugaban y las minas se desvanecían cuando en vez de agradecerlas al Dador, eran correspondidas con ingratitud y blasfemias.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 1 (p. 180). — met. X"
-            },
+              "referencia_obra": ", Sueños, 1 (p. 180)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«La ingratitud estaba en un gran horno, haciendo de una masa de soberbia y odio demonios nuevos cada momento.»",
-              "autor": "Quev.",
-              "referencia_obra": "Sueños, 1 (Cl. C. 31. 219)."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«La ingratitud estaba en un gran horno, haciendo de una masa de soberbia y odio demonios nuevos cada momento.»",
+                  "autor": "Quev.",
+                  "referencia_obra": "Sueños, 1 (Cl. C. 31. 219)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -49,92 +67,144 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Después de dada la ley, la quebrantan por la gravedad que se le pega del estado, por la ingratitud al beneficio recibido, por la fe y juramento quebrantado.»",
                   "autor": "Sig.",
                   "referencia_obra": "Vida de S. Jer. 1. 3 (p. 39)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Fundan en la corte sus casas y mayorazgos, olvidando y desamparando los lugares donde son originarios y donde nacieron; cosa que siempre se tuvo por ingratitud a la patria.»",
                   "autor": "Navarr.",
-                  "referencia_obra": "Conserv. de mon. 15 (R. 25. 4762). — Además con un posesivo."
-                },
+                  "referencia_obra": "Conserv. de mon. 15 (R. 25. 4762)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y así la pasión que ofusca la razón al pecador no le deja conocer --- ni la majestad de aquel a quien ofende, ni su ingratitud a la infinita bondad de un Dios tan misericordioso.»",
-                  "autor": "Scío",
-                  "referencia_obra": ", S. Pablo, 5. 2, nota."
+                  "id_limpio": "—",
+                  "definicion": "Además con un posesivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y así la pasión que ofusca la razón al pecador no le deja conocer --- ni la majestad de aquel a quien ofende, ni su ingratitud a la infinita bondad de un Dios tan misericordioso.»",
+                      "autor": "Scío",
+                      "referencia_obra": ", S. Pablo, 5. 2, nota."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de sujetivo. X",
+              "definicion": "Con de sujetivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡O bestial ingratitud de los hijos de Adán!»",
                   "autor": "Gran.",
-                  "referencia_obra": "Guía, 3. 1 (Dicc. Autor.). X"
+                  "referencia_obra": "Guía, 3. 1 (Dicc. Autor.)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Que el agradecer el amor y las buenas obras es de pechos nobles, y la ingratitud de tiranos.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 8 (Cl. C. 43. 124). — Además, con a."
+                  "referencia_obra": ", Escud. 1. 8 (Cl. C. 43. 124)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además, con a.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Represéntasele --- la ingratitud de muchos a tanto beneficio.»",
+                      "autor": "",
+                      "referencia_obra": "J. de los Ángeles, Conq. del reino de Dios, 6. 8 (p. 234)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Represéntasele --- la ingratitud de muchos a tanto beneficio.»",
-                  "autor": "",
-                  "referencia_obra": "J. de los Ángeles, Conq. del reino de Dios, 6. 8 (p. 234). — met. X"
-                },
-                {
-                  "texto_cita": "«Pero la ingratitud de la Naturaleza está allí más que compensada por la constante laboriosidad del hombre.»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", Hist. p. 149."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pero la ingratitud de la Naturaleza está allí más que compensada por la constante laboriosidad del hombre.»",
+                      "autor": "Alarcón",
+                      "referencia_obra": ", Hist. p. 149."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de, para señalar el beneficio que se olvida. X",
+              "definicion": "Con de, para señalar el beneficio que se olvida.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sírvale, pues, la excusa lo mismo que le sirvió de objeto y culpa: la furia de su amor, el incendio de su alma, las llamas vivas de sus deseos crueles y finalmente, la yesca, el incentivo poderoso de los desprecios y desdenes de su dama, la ingratitud de sus buenas obras, el olvido de tan grandes beneficios.»",
                   "autor": "Césp. y Men.",
                   "referencia_obra": "Hist. (Cl. Castal. 23. 182)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con un posesivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Fuera menester otro entendimiento que el mío, para saber encarecer lo que en este caso le debo, y mi gran ingratitud y maldad, pues todo esto olvidé.»",
                   "autor": "Sta. Ter.",
-                  "referencia_obra": "Vida, 4 (R. 53. 292). X"
+                  "referencia_obra": "Vida, 4 (R. 53. 292)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Verdad es que he visto por mis ojos mil esperiencias, y plegue a Dios, como se lo ruego, no la haga su divina justicia en vuestra ingratitud.»",
                   "autor": "Avell.",
-                  "referencia_obra": "Quij. 6 (Cl. C. 175. 56). X"
+                  "referencia_obra": "Quij. 6 (Cl. C. 175. 56)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Hizo grandes juntas de gentes, asi de naturales como de extrañas, para echarles por fuerza de su Estado, pudiéndolo hacer con menos gasto, menos peligro y menos nota de su ingratitud.»",
                   "autor": "Moncada",
-                  "referencia_obra": ", Exped. 1. 64 (Cl. C. 54. 227). X"
+                  "referencia_obra": ", Exped. 1. 64 (Cl. C. 54. 227)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Veamos, dijo, de Ifis desdichado, | El miserable entierro, ya traída | A pagar Anaxarte con la vida | La que su ingratitud había quitado.»",
                   "autor": "Arguijo",
-                  "referencia_obra": ", Obra poétic. (Cl. Castal. 40. 89). — Además con para. X"
-                },
+                  "referencia_obra": ", Obra poétic. (Cl. Castal. 40. 89)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No más pelear inútilmente. Conozco mi ingratitud para con el mejor de los hombres.»",
-                  "autor": "Tam. y Baus",
-                  "referencia_obra": ", Un drama nuevo, p. 172."
+                  "id_limpio": "—",
+                  "definicion": "Además con para.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«No más pelear inútilmente. Conozco mi ingratitud para con el mejor de los hombres.»",
+                      "autor": "Tam. y Baus",
+                      "referencia_obra": ", Un drama nuevo, p. 172."
+                    }
+                  ]
                 }
               ]
             }
@@ -143,31 +213,38 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En plural y en sentido concreto, Actos por los cuales se muestra el desagradecimiento. X",
+          "definicion": "En plural y en sentido concreto, Actos por los cuales se muestra el desagradecimiento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Yo expié mi culpa: de hoy más no lloraré torpes ingratitudes.»",
               "autor": "Tam. y Baus",
               "referencia_obra": ", Locura de amor, p. 124."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de sujetivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ha puesto en justo olvido | Las necias sinrazones | Celos y ingratitudes de Leonarda.»",
                   "autor": "Lope",
-                  "referencia_obra": ", Porfiando vence amor, 3. 1 (R. 41. 2493). X"
+                  "referencia_obra": ", Porfiando vence amor, 3. 1 (R. 41. 2493)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Cómo tuviste la magnanimidad y paciencia que hubiste menester para soportar desconfianzas, desvíos e ingratitudes de los que no te comprendieron ni correspondieron»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 2 (p. 268)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -176,7 +253,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. (Nótense las formas ingratidón, engratidón). Siglo XV: «Roma le fue tan ingrata, que por su ingratitud este Cornelio Çipión aflcano se retraxo a vn apartado castillo suyo.» J. Manr. Canc. 1 (p. 227). «Al amado, ingratitud | Lo deshonra en mucho grado.» Canc. de Stúñ. p. 388. «¡Oh males mal despendidos, | Oh malvada ingratitud!» Ib. p, 17. «Ningund pecado hay de que más enojo resciba Dios, segund lo dicen los que algo saben, que la ingratitud e desconoscimiento.» Crón. Álv. de Luna, 121 (p. 341). «Por sobervia e ingratidón | Luçifer fue condenado.» Canc. de Baena, p. 329. «Engratidón e grant cruesa | E sobervia e grant sisania.» Ib. p. 329. «Bolviendo su pico contra el aquilón | Por esta sobervia con ingratidón | Batiendo las a tierra toda vía.» Ib. p. 322.",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. ingratitudo, -inis, ‘ingratitud, desagradecimiento’. Cat. y prov, ingratitud, fr. ingratitude, it. ingratitudine.\n\n\u0000",
+  "etimologia": "Etim. Del lat.<i> ingratitudo, -inis,</i> ‘ingratitud, desagradecimiento’. Cat. y prov,<i> ingratitud,</i> fr.<i> ingratitude,</i> it.<i> ingratitudine.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

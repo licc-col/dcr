@@ -6,45 +6,65 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Mover algo con fuerza de una a otra parte, hacer balancear, temblar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Un poco de viento le transforma; la ola mansa que golpea el buque con blando azote, se trueca en montaña líquida que le quebranta y le sacude.»",
               "autor": "P. Galdós",
-              "referencia_obra": ", Trafalgar, 14 (p. 148). X"
+              "referencia_obra": ", Trafalgar, 14 (p. 148)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La avalancha irrumpe por todos lados y cierra sobre el cuadrángulo de la plaza. Arriba, los cañones sacuden el aire claro.»",
               "autor": "Uslar-Pietri",
               "referencia_obra": ", Lanzas coloradas, 12 (p. 157)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar: el medio. X",
+              "definicion": "Con la prep. con, para indicar: el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Representaré a Neptuno, que con su tridente sacude los hondos quicios de la antigua Troya y menea los fundamentos del globo terráqueo.»",
                   "autor": "Arteaga",
-                  "referencia_obra": ", Belleza ideal, 11 (Cl. C. 122. 138). — El modo. X"
-                },
+                  "referencia_obra": ", Belleza ideal, 11 (Cl. C. 122. 138)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y a los altivos montes ¿quién acude, | Si, pasando su sombra, los sacude [el mar] | Con hórrido temblor?»",
-                  "autor": "Arolas",
-                  "referencia_obra": ", Poes. (Cl. C. 95. 3 l)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y a los altivos montes ¿quién acude, | Si, pasando su sombra, los sacude [el mar] | Con hórrido temblor?»",
+                      "autor": "Arolas",
+                      "referencia_obra": ", Poes. (Cl. C. 95. 3 l)."
+                    }
+                  ]
                 }
               ]
             }
@@ -53,71 +73,95 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El jueves santo, 26 de marzo de 1812, a las cuatro y siete minutos de la tarde, a lo largo del sistema de montañas que va desde la costa hasta los Andes, toda la tierra se sacudió y tembló profundamente. Fue como una ola del mar.»",
               "autor": "Uslar-Pietri",
               "referencia_obra": ", Lanzas coloradas, 5 (p. 57)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con por. X",
+          "definicion": "Part. Con por.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El cielo del Plata estaba argentado con toda su magnífica pedrería; y la luna, como una perla entre un círculo de diamantes, alumbraba con su luz de plata las olas alborotadas del gran río, sacudido pocas horas antes por las poderosas alas del pampero.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 3 (p. 239). — Además con en. X"
-            },
-            {
-              "texto_cita": "«Doscientos bajeles se balanceaban dentro del ancho puerto de Montevideo, imitando un vasto y espeso bosque de palmeras, sacudidas en una noche del otoño por vientos que las azotan y despojan.»",
-              "autor": "Mármol",
               "referencia_obra": ", Amalia, 3 (p. 239)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Doscientos bajeles se balanceaban dentro del ancho puerto de Montevideo, imitando un vasto y espeso bosque de palmeras, sacudidas en una noche del otoño por vientos que las azotan y despojan.»",
+                  "autor": "Mármol",
+                  "referencia_obra": ", Amalia, 3 (p. 239)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con desde. X",
+              "definicion": "Con desde.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El invierno, viejo fuerte, se acerca. Su impetuoso resuello llega en ráfagas largas al ambiente de esta tarde de otoño, y roba a todo lo que hay de movible en el paisaje, su quietud o la suave ondulación con que se adormecía. Ahora se inquieta, como malcontento de su lugar, cuanto es capaz de movimiento: las ramas, sacudidas desde su raíz.»",
                   "autor": "Rodó",
                   "referencia_obra": ", Motivos de Proteo, p. 282."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "met. X",
+          "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las provincias del reino se dan sus gobiernos respectivos, o más bien, se gobiernan como pueden entre la tormenta que les sacudía.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 4 (p. 407)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Tratándose de un arma, Blandir. X",
+          "definicion": "Tratándose de un arma, Blandir.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Y qué era ver la bella cazadora | Venablos impeler con breve mano, | O en torno de las sienes zumbadora | El honda sacudir, y al cisne cano | O ya la grulla derribar que mora | Orillas de Estrimón!»",
               "autor": "Caro",
               "referencia_obra": ", Obr. de Virgilio 2 (p. 472)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -125,192 +169,237 @@
     {
       "id": "2",
       "definicion": "Referido a los animales y al hombre.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Mover el cuerpo o una parte de él (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y entre chillido y suspiro remata sacudiendo los huesos a manera de temblor.»",
               "autor": "Quev.",
-              "referencia_obra": "Obr. sat. Jestiv. (Cl. C. 56. 203). X"
+              "referencia_obra": "Obr. sat. Jestiv. (Cl. C. 56. 203)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Solos quedaron jumento y Rocinante, Sancho y don Quijote; el jumento, cabizbajo y pensativo, sacudiendo de cuando en cuando las orejas.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 22 (Cl. C. 6. 229). X"
+              "referencia_obra": "Quij. 1. 22 (Cl. C. 6. 229)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Déjame, tahur —dijo León con ira, sacudiendo el brazo en que hacía presa su amigo—. No tengo humor de bromas ni intención de prestarte más dinero.»",
               "autor": "P. Galdós",
-              "referencia_obra": ", Familia de L. Roch. 11. 7 (1. 59). X"
+              "referencia_obra": ", Familia de L. Roch. 11. 7 (1. 59)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Maclovia, en medio de la plaza, dio gritos inarticulados, la sacudieron convulsiones tan fuertes que tres hombres robustos no la podían contener.»",
               "autor": "",
-              "referencia_obra": "Yáñez, Al filo del agua, p. 259. X"
+              "referencia_obra": "Yáñez, Al filo del agua, p. 259."
             },
             {
+              "marca": "X",
               "texto_cita": "«El perro del suelo se estiró estremecido y sacudió la cola.»",
               "autor": "Onetti",
               "referencia_obra": ", El astillero, p. 73."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y luego, en vez de meterse en su casa, desde cuya ventana la llamaba la madre, se encaminó resueltamente hacia la de Gobierno, sacudiéndole el paso enérgico la rubia melena alborotada.»",
                   "autor": "Gallegos",
                   "referencia_obra": ", El forastero, 2. 3 (p. 159)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Platero la miraba fijamente y sacudía, con un duro ruido blando, una oreja. Me miraba absorto, y sacudía la otra...»",
                   "autor": "J. R. Jiménez",
-                  "referencia_obra": ", Platero y yo, 10 (p. 24). X"
+                  "referencia_obra": ", Platero y yo, 10 (p. 24)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Entonces entraron al cuarto de José Arcadio Buendía, lo sacudieron con todas sus fuerzas, le gritaron al oído, le pusieron un espejo frente a las fosas nasales, pero no pudieron despertarlo.»",
                   "autor": "García Márquez",
                   "referencia_obra": ", Cien años de soledad, p. 132."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con sobre. met. X",
+              "definicion": "Con sobre. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Esa túnica de bruma, | Que el viento prende o arranca, | Es el peplo de la muerte y es el alma de la espuma | Que sacude sobre el mundo su eucarística ala blanca.»",
                   "autor": "Herr.",
                   "referencia_obra": "y Reissig, Poes. y Prosa p. 106."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Qué hace ése?... (Llamándole) Menéndez... (Mas fuerte) ¡Menéndez! —(Despertando) ¿Eeeh?... | — No sacudas, que note pico. | — ¡Caramba, señor Córcoles! Hubiera jurado que era un moscón (Se despereza). | — Pues soy yo.»",
               "autor": "Arniches",
               "referencia_obra": ", La Srta. de Trevélez, 1 (p. 24)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Parece que los miembros ejercito. Según que sacudiéndome tirito | Con la lengua y la voz chisporroteo.»",
               "autor": "Bello",
-              "referencia_obra": ", Poes. p. 690. X"
+              "referencia_obra": ", Poes. p. 690."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sus brazos y sus piernas se sacudieron un instante, y su cabeza, sin vida, se dobló, se acostó de lado, sobre la piedra.»",
               "autor": "Larreta",
-              "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 231). X"
+              "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 231)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Un mozo flaco salió apresuradamente y vino a ver tener las riendas de las bestias, que relinchaban y se sacudían libres del peso de los jinetes.»",
               "autor": "Uslar-Pietri",
               "referencia_obra": ", Lanzas coloradas, 8 (p. 96)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con bajo. X",
+              "definicion": "Con bajo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Entre el ruido de las monedas en el estadio, entre la ovación palmoteada que hizo la gente cuando vio rodar al canaguay con el cráneo abierto, sacudiéndose bajo la pata del vencedor, que, erguido sobre el moribundo, saludó la victoria con un clarineo triunfal.»",
                   "autor": "Rivera",
                   "referencia_obra": ", La vorágine, 1 (p. 73)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con para y una prop. en inf. X",
+              "definicion": "Con para y una prop. en inf.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y al replicar, así, ásperamente, como no solía ser su trato con aquel ayuda de su pensamiento solitario, se sacudió cual para quitarse de encima al que viajara en la grupa, pegado a su espalda.»",
                   "autor": "Gallegos",
                   "referencia_obra": ", Cantaclaro, p. 34."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Se despierta el león noble, y de su melena, robustamente sacudida, caen pensamientos como copos de oro.»",
               "autor": "Martí",
               "referencia_obra": ", Sus mejores páginas, p. 118."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "met. X",
+          "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«De la fatalidad la áspera mano | Su corazón sacude que dormía | De muelle vida en el tapiz liviano, | De solio de oro y púrpura cercano, | Entre idilios de loca fantasía.»",
               "autor": "Núñez",
-              "referencia_obra": ", Poes. p. 140. X"
+              "referencia_obra": ", Poes. p. 140."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sacudamos el cerebro del interlocutor, a fin de ver si suelta necedades o frutos sabrosos. Y ajustemos nuestra conducta al valor del fruto recogido.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Charlas de café, 1 (p. 20)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Forma la expresión, Sacudir la cadera: bailar. X",
+          "definicion": "Forma la expresión, Sacudir la cadera: bailar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Parece que se van a comer el mundo, pero cuando repica el pandero, ni les da de sí el aliento ni saben sacudir cadera y mandil al \"son de arriba\".»",
               "autor": "Casona",
               "referencia_obra": ", La dama del alba, p. 90."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -318,80 +407,99 @@
     {
       "id": "b)",
       "definicion": "Sufrir una fuerte impresión síquica, a veces acompañada de movimientos del cuerpo (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Tú sabes que Martín te quiere?... ¡No!... —Yo sí, lo sé desde hace tiempo... El primer día que se lo vi en los ojos sentí como un escalofrío que me sacudía toda, y se me crisparon los dedos.»",
               "autor": "Casona",
               "referencia_obra": ", La dama del alba, p. 79."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ocurriome un caso que me sacudió las entrañas.»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 8 (p. 43). X"
+                  "referencia_obra": ", Abel Sánchez, 8 (p. 43)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Aquel hombre mozo y audaz había sido proclamado solemnemente libertador. El Libertador. Un hondo estremecimiento le sacudía el cuerpo.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 5 (p. 63)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y, ciego, insano, con mortal angustia, | En balde me sacudo; de mi vida | El sol funéreo a su zenit ya llega, | Su ojo de sangre ya encendido brilla.»",
               "autor": "J. E. Caro",
               "referencia_obra": ", Poes. complet. p. 39."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con por. X",
+          "definicion": "Part. Con por.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El indio, sacudido por la fiebre, | Siente que ya su cuerpo | Va a desplomarse, pues sus piernas trémulas | Se doblan a su peso.»",
               "autor": "Zorrilla",
-              "referencia_obra": "de S. Martín, Tabaré, 2. 4 (p. 99). X"
+              "referencia_obra": "de S. Martín, Tabaré, 2. 4 (p. 99)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sentí más honda mi miseria ante su cuerpo, todo amor, sacudido por los sollozos de su dicha muerta. Sin darme cuenta casi, me detuve.»",
               "autor": "Quiroga",
               "referencia_obra": ", Cuentos de amor, p. 47."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sueña que el hisopazo del robusto | Reverendo el testuz le descalabra; | Y como sacudido con el susto | De la visión tamaños ojos abra, | De Cunefate ve el cercano busto, | El cual, sin proferir una palabra, | Con rostro imperturbable le propina | La acostumbrada taza matutina.»",
                   "autor": "Bello",
                   "referencia_obra": ", Poes. p. 593."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -400,137 +508,178 @@
     {
       "id": "3",
       "definicion": "Con la idea de mover o desplazar objetos.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Mover con fuerza en el aire un objeto por causas naturales o humanas (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Que sobre nubes altas conducido | Y de las tempestades precedido | Domina al Aquilón, | Sopla desolaciones plañideras | Y sacude cual frágiles mimbreras | Cipreses de Sión.»",
               "autor": "Arolas",
-              "referencia_obra": ", Poes. (Cl. C. 95. 40). X"
+              "referencia_obra": ", Poes. (Cl. C. 95. 40)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Como no tengo siquiera un cuarto | Que, al sacudirla, suene en mi bolsa, | Y nadie presta sino al que paga, | Y nadie fía sino al que compra.»",
               "autor": "J. E. Caro",
-              "referencia_obra": ", Poes. complet. p. 58. X"
+              "referencia_obra": ", Poes. complet. p. 58."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Ese es, pues, el dulce nombre! | i Dulce, si más que el perfume | Que se exhala de las rosas | Cuando el aura las sacude.»",
               "autor": "",
-              "referencia_obra": "Id. Ib. p. 117. X"
+              "referencia_obra": "Id. Ib. p. 117."
             },
             {
+              "marca": "X",
               "texto_cita": "«Con el vivo temor que nos aguija, | Al sacudir el cable, al dar la vela, | Torcemos a do el viento nos dirija, | Y a do el viento sopló, la nave vuela.»",
               "autor": "Caro",
-              "referencia_obra": ", Obr. de Virgilio, 2 (p. 148). X"
+              "referencia_obra": ", Obr. de Virgilio, 2 (p. 148)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El viento sacude el plumaje de los árboles que dejan caer sus flores como pájaros.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 1 (p. 19)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en. met. X",
+              "definicion": "Con en. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Todo agonizaba. La Muerte sacudía su gran ala lívida en los ventanales del castillo.»",
                   "autor": "Herr.",
                   "referencia_obra": "y Reissig, Poes. y prosa, p. 361."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con para y una prop. subjuntiva. X",
+              "definicion": "Con para y una prop. subjuntiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tomaba [el secretario] con sus manos heladas la jarra del veredicto y la sacudía para que golpeasen contra las paredes los votos y las habas, como huesos de ajusticiado.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Estud. mesa redonda, 7 (p. 112)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. | Contrastados también los altos pinos, | Sacudirse y bramar.» Quint. Poes. Al mar (R. 19. 201). X",
+          "definicion": "Pas. refl. | Contrastados también los altos pinos, | Sacudirse y bramar.» Quint. Poes. Al mar (R. 19. 201).",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y en todas partes la cañabrava se sacude y da a los vientos la blonda cabellera; y en todas, esa flora anónima tupe los claros, enlaza las frondas, tapiza los bordes que le cedió el cultivo; y en todas, trabajo, movimiento, vida.»",
               "autor": "Carrasquilla",
               "referencia_obra": ", Frutos, 26. 1 (p. 278)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con la prep. con. X",
+          "definicion": "Part. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mas pierde el equilibrio — y se despeña — Del caballo don Álvaro rendido — Que en el arzón con furia sacudido — Cede como la encina al huracán.»",
               "autor": "Arboleda",
               "referencia_obra": ", Gonz. de Oyón, 12 (p. 81)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, para indicar: el agente. X",
+              "definicion": "Con por, para indicar: el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Qué horrendo ruido hacen las hojas de las árboles sacudidas por sus manos violentas.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 1. 2 (p. 38). — La causa. X"
-                },
+                  "referencia_obra": ", Biogr. del Caribe, 1. 2 (p. 38)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Un día, empero, cuando las revocaciones del permiso dado habían perdido todo prestigio, oyóse el golpe mate del hacha en el tronco añoso del árbol, y el temblor de las hojas sacudidas por el choque, como los gemidos lastimeros de la víctima.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Prov. p. 111."
+                  "id_limpio": "—",
+                  "definicion": "La causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Un día, empero, cuando las revocaciones del permiso dado habían perdido todo prestigio, oyóse el golpe mate del hacha en el tronco añoso del árbol, y el temblor de las hojas sacudidas por el choque, como los gemidos lastimeros de la víctima.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Recuerdos de Prov. p. 111."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con ante. met. X",
+              "definicion": "Con ante. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El doloroso recuerdo, que él creía inhumado para siempre, aparecía ahora evocado por aquella mujer, extendido, sacudido ante sus ojos, cual emocionante ropaje de otros tiempos.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 102)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la expresión de pronto. X",
+              "definicion": "Con la expresión de pronto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Aixa golpeó entonces las losas con los pies, haciendo repiquetear el oro y el marfil que recargaban sus tobillos, y, con los ojos abstraídos, giró sobre sí misma, esparciendo perfumada frescura, cual húmeda flor sacudida de pronto.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 93)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -539,123 +688,167 @@
     {
       "id": "b)",
       "definicion": "Golpear a alguien o a algo. (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "El acus. es el golpe mismo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Levantan otra vez las duras manos, | Y los azotes otra vez sacuden, | Y a los lugares que descubren sanos | Del noble cuerpo, con rigor acuden.»",
               "autor": "Hojeda",
-              "referencia_obra": ", Crist. 8 (R. 17. 4632). — Además con dat."
+              "referencia_obra": ", Crist. 8 (R. 17. 4632)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con dat.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Y cuando os sacudieron el golpe, humillados debajo de la poderosa mano de Dios, conociendoos por digna de mayor tormento.»",
+                  "autor": "Ávila",
+                  "referencia_obra": ", Epist. 2 (6. 420)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Y cuando os sacudieron el golpe, humillados debajo de la poderosa mano de Dios, conociendoos por digna de mayor tormento.»",
-              "autor": "Ávila",
-              "referencia_obra": ", Epist. 2 (6. 420). — met. X"
-            },
-            {
-              "texto_cita": "«Yacía, herida la orgullosa frente, | En medio el hondo abismo el ángel fiero, | Después que el Hacedor del brazo ardiente | Airado sacudió el rayo primero.»",
-              "autor": "",
-              "referencia_obra": "Reynoso, La inocencia perdida p. 2."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Yacía, herida la orgullosa frente, | En medio el hondo abismo el ángel fiero, | Después que el Hacedor del brazo ardiente | Airado sacudió el rayo primero.»",
+                  "autor": "",
+                  "referencia_obra": "Reynoso, La inocencia perdida p. 2."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. Además con la prep. con. X",
+              "definicion": "Con dat. Además con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Qué escusa tendré para huyr de su andantesca cólera, para que no me sacuda con ella las costillas con algún ñudoso roble?»",
                   "autor": "Avell.",
                   "referencia_obra": "Quij. 5. 11 (Cl. C. 174. 219)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por X",
+              "definicion": "Con por",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El Viejo era imperioso; pero yo le hubiera sacudido por la espalda. Y tal vez no habría caído, porque parecía pesar mucho, como si fuera de acero; andaba con gran energía.»",
                   "autor": "Arguedas",
                   "referencia_obra": ", Ríos prof. 1 (p. 15)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la expresión adv. de firme. X",
+              "definicion": "Con la expresión adv. de firme.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Aquello de pegamos los dos tan sin ton ni son, no me pareció un disparate. Yo también quería sacudirle de firme o que él me sacudiera a mí.»",
                   "autor": "P. Galdós",
                   "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 418)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. Con en. Además con la prep. con. X",
+          "definicion": "Absol. Con en. Además con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los vientos por todas partes la nave combatían, las ondas con terribles golpes en ella sacudiendo, las más enteras y mejor clavadas tablas hundían y desbarataban.»",
               "autor": "Gil Polo",
               "referencia_obra": ", Diana, 1 (NBAE. 7. 2. 4192)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Recípr. El acusativo es el golpe mismo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¡Oh que terribles golpes se sacuden, | Tales que a todas las catervas fuerzan | A que el sitio sin tardar se muden, | Y los intentos comenzados tuerzan.»",
               "autor": "Villav.",
               "referencia_obra": "Mosq. 12 (R. 17. 6211)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Antigua, y empinada roca, donde | Quiebra la mar su ímpetu, refrena la sobervia marina, levantando | Su sacudida frente.»",
               "autor": "Quev.",
               "referencia_obra": "Oda 4 (Poes. 2. 39)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Agarrar con fuerza y hacer mover el cuerpo de una persona. X",
+          "definicion": "Agarrar con fuerza y hacer mover el cuerpo de una persona.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ya yo estoy | Con la hojarasca en la mano | i Sacúdelos! — i Deteneos! | — i Mi bien, por amor de Dios! | — Aquí vinimos los dos, | No con lascivos deseos, | Sino a que nos escribiese | Unos papeles...»",
               "autor": "Tirso",
-              "referencia_obra": ", El condenado por desconfiado (CI. Ebro, 1. 37). X"
+              "referencia_obra": ", El condenado por desconfiado (CI. Ebro, 1. 37)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Piedad, piedad! — En pie, miserable, en pie —dijo Daniel, sacudiendo a Gaete y arrimándolo contra la pared.»",
               "autor": "Mármol",
               "referencia_obra": ", Amalia, 2 (p. 160)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -663,68 +856,84 @@
     {
       "id": "c)",
       "definicion": "Animar, reavivar, hacer reaccionar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Se disponía [los Grandes] a favorecer el partido portugués y a sacudir la funesta antorcha de la guerra civil.»",
               "autor": "Clem.",
-              "referencia_obra": "Elog. de Is. la Cat. (Mem. Acad. Hist. 6. 7). X"
+              "referencia_obra": "Elog. de Is. la Cat. (Mem. Acad. Hist. 6. 7)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No bien se sintieron llegadas a la edad en que la mujer siente que su existencia está vinculada a la sociedad, que tiene objeto y fin esa existencia empezaron a aspirar las partículas de ideas nuevas, de belleza, de gusto, de confortable, que traía hasta ellas la atmósfera que había sacudido y renovado la revolución.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Prov. p. 107. X"
+              "referencia_obra": ", Recuerdos de Prov. p. 107."
             },
             {
+              "marca": "X",
               "texto_cita": "«Logró sacurdir, [Feijóo] tal como si su pluma fuera un látigo, el alma de los españoles, no siempre permeables al puro pensamiento.»",
               "autor": "Marañón",
               "referencia_obra": ", Tiempo viejo, p. 74."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. X",
+          "definicion": "Pas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y en cuanto a la virtud de las maravillas del arte sobre los espíritus en quienes una facultad superior espera sólo ser llamada y sacudida, hable Italia, que sabe de esto.»",
               "autor": "Rodó",
               "referencia_obra": ", Motivos de Proteo, p. 177."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refl. Con la prep. con. X",
+          "definicion": "Refl. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En realidad, es una dicha que haya muerto Carlos II. España va a sacudirse con el entusiasmo de un renacimiento.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 3. 15 (p. 276)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "En el siguiente texto, Llevar a cabo, motivar. Pas. Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ocuparon los vientos sus lugares, | Y a correr cañas con furor acuden, | Y a la par con denuedos singulares | Encuentros rigurosos se sacuden.»",
               "autor": "Villav.",
               "referencia_obra": "Mosq. 5 (R. 17. 5891)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -732,61 +941,84 @@
     {
       "id": "d)",
       "definicion": "Limpiar, quitar de una superficie objetos varios golpeando o agitando en el aire (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La sacudimos [la capa] y doblamos muy limpíamente.»",
               "autor": "",
-              "referencia_obra": "Lazar 3 (R. 3. 841). X"
+              "referencia_obra": "Lazar 3 (R. 3. 841)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vete... | ¡Ah! mira: sacude aquella | Ropa, y avisar al sastre.»",
               "autor": "Mor.",
               "referencia_obra": "El barón, p. 295."
             },
             {
+              "marca": "",
               "texto_cita": "«Y en medio de las ruinas del mundo se han de sacudir [los justos] la capa del polvo, por el testimonio de la buena conciencia.»",
               "autor": "Capm.",
-              "referencia_obra": "Teatro (4. 168). X"
+              "referencia_obra": "Teatro (4. 168)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Muy zonzo, el hijo del panadero se quedaba en la sacristía después del rosario, comidiéndose a sacudir, a barrer, a cerrar la parroquia, a apagar las lámparas, menesteres que le permitían entrar y salir al curato, espiando cuidadosamente la ocasión de que nadie lo viera.»",
               "autor": "",
               "referencia_obra": "Yáñez, Al filo del agua, p. 342."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Quitele la bacía, sacudile los dedos, y limpiándole más de dos libras de natas o requesones frescos, le volví de blanco alemán en tostado africano.»",
                   "autor": "",
                   "referencia_obra": "Esteb. Gonz. 13 (Cl. 108. 129)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con dat. refl. X",
+              "definicion": "Con dat. refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya lo veo tendido en las hojarascas, sacudiéndose los moscones, que no lo dejan agonizar.»",
                   "autor": "Rivera",
-                  "referencia_obra": ", La vorágine, 3 (p. 176). — Con de, para expresar el lugar. X"
-                },
+                  "referencia_obra": ", La vorágine, 3 (p. 176)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Don Alejo entró corriendo al correo, seguido de sus cuatro perros negros. Se sacudió el agua de la manta y del sombrero.»",
-                  "autor": "Donoso",
-                  "referencia_obra": ", El lugar, 3 (p. 38)."
+                  "id_limpio": "—",
+                  "definicion": "Con de, para expresar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Don Alejo entró corriendo al correo, seguido de sus cuatro perros negros. Se sacudió el agua de la manta y del sombrero.»",
+                      "autor": "Donoso",
+                      "referencia_obra": ", El lugar, 3 (p. 38)."
+                    }
+                  ]
                 }
               ]
             },
@@ -794,26 +1026,40 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Extendió [el ave] sus alas, y las sacudió del agua.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 3. 1 (3. 330)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Nace el rosado día; | De las pintadas alas el rocío | Sacude el ave y por la selva gira.»",
                   "autor": "Lista",
-                  "referencia_obra": ", Poes. El desengaño (R. 67. 3292). X"
+                  "referencia_obra": ", Poes. El desengaño (R. 67. 3292)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La lluvia en Alemania no debe ser como la que cae por estas tierras, no debe formar lodo ni llegar al suelo, porque él viene sacudiendo el agua del capote y con las botas llenas de polvo.»",
                   "autor": "Larra",
-                  "referencia_obra": ", Crít. lit. y artist. (Cl. C. 52. 12). — met."
-                },
+                  "referencia_obra": ", Crít. lit. y artist. (Cl. C. 52. 12)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Formábase este círculo sobre cuatro ángulos, en los cuales se ofrecían resalidos los cuatro vientos principales. El Euro entre blancas nubes ---, y el Aquilón sacudiendo de su escuro manto nieve y granizo.»",
-                  "autor": "Saav.",
-                  "referencia_obra": "Rep. (R. 25. 3952)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Formábase este círculo sobre cuatro ángulos, en los cuales se ofrecían resalidos los cuatro vientos principales. El Euro entre blancas nubes ---, y el Aquilón sacudiendo de su escuro manto nieve y granizo.»",
+                      "autor": "Saav.",
+                      "referencia_obra": "Rep. (R. 25. 3952)."
+                    }
+                  ]
                 }
               ]
             }
@@ -822,70 +1068,95 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. Con la prep. con. X",
+          "definicion": "Refl. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No sé lo que será— contestó Pío Cid sacudiéndose con un pañuelo y agradeciendo en su interior aquel aviso, que le libraba de una gresca con Martina.»",
               "autor": "Ganiv.",
               "referencia_obra": "Pío Cid, 6 (2. 575)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Locución. Sacudirse del polvo:",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Alzarse con esfuerzo del suelo",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Lo uno y lo otro significó el profeta Isaías cuando dijo: Sacúdete del polvo: levántate y asiéntate Jerusalén.»",
                   "autor": "Gran.",
                   "referencia_obra": "Guía. 2. 2. 28 (1. 3072 )."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Dar una paliza. X",
+              "definicion": "Dar una paliza.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Dionos una rociada de leña, sacudiéndonos el polvo del hatillo, de manera que nos levantó ronchas por todo el cuerpo.»",
                   "autor": "Alemán",
-                  "referencia_obra": ", Guzmán. 1. 2. 5 (Dicc. Autor.) X"
+                  "referencia_obra": ", Guzmán. 1. 2. 5 (Dicc. Autor.)"
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pues a la sombra de él sacude valientemente el polvo el referido autor, en la bella comedia de Las mujeres sabias, a todos los preciados de ingenios por cuatro equivoquillos de cajón y media docena de dichicos sin sustancia, con que espolvorean las conversaciones, acechando la más remota y muchas veces la más importuna ocasión para encajarlos.»",
                   "autor": "Isla",
                   "referencia_obra": ", Fr. Ger. pról. (Cl. C. 148. 20)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Sacudir el polvo: quitarlo. X",
+              "definicion": "Sacudir el polvo: quitarlo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuentan que un viajero llegó un día a Caracas al anochecer, y sin sacudirse el polvo del camino no preguntó dónde se comía ni se dormía, sino cómo se iba a donde estaba la estatua de Bolívar.»",
                   "autor": "Martí",
-                  "referencia_obra": ", Sus mejores páginas, p. 143. X"
+                  "referencia_obra": ", Sus mejores páginas, p. 143."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya mis primeras pruebas estaban hechas y, aunque sería ése mi estreno de domador, me sacudiría el polvo sobre los bastos, como si fuese acostumbrado.»",
                   "autor": "Güiraldes",
-                  "referencia_obra": ", Don Segundo Sombra, 22 (p. 152). — met. Purificarse."
-                },
+                  "referencia_obra": ", Don Segundo Sombra, 22 (p. 152)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Primero es menester sacudir de sí el polvo de las cosas terrenas.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Adic. al Mem. 2. 20 (3. 3271)."
+                  "id_limpio": "—",
+                  "definicion": "met. Purificarse.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Primero es menester sacudir de sí el polvo de las cosas terrenas.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Adic. al Mem. 2. 20 (3. 3271)."
+                    }
+                  ]
                 }
               ]
             }
@@ -896,92 +1167,114 @@
     {
       "id": "e)",
       "definicion": "Quitar, remover un cuerpo (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Con el habano entre el pulgar y el índice, y el meñique de la misma mano muy tieso y orondo, para mostrar mejor un diamante descomunal que le estrangulaba la falange y, de paso, sacudir la ceniza.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 252."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Las aves libres cantan, | Desátase la yerba del rocío, | Las fieras se levantan, | Baja el pastor de la montaña al río | Y las cabras gozosas | Sacuden el aljófar a las rosas.»",
                   "autor": "Lope",
                   "referencia_obra": ", Poes. lír. (Cl. C. 75. 54)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Sacudiendo de la frente la celada, se rompió desesperado la cabeza contra el mástil del navío y murió al otro día.»",
                   "autor": "Quint.",
                   "referencia_obra": "R. de Lauría (1. 60)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con dat. refl. Además con la prep. con. X",
+              "definicion": "Con dat. refl. Además con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ni siquiera me fijé en aquel desconocido que asistía a la ceremonia desde lejos, sacudiéndose con la fusta el polvo de las botas.»",
                   "autor": "Casona",
-                  "referencia_obra": ", La dama del alba, p. 67. X"
+                  "referencia_obra": ", La dama del alba, p. 67."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Se incorporó, se sacudió con las manos la tierra que tenía en la ropa, dio las gracias y salió con ellos hasta el patio.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 8 (p. 102)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "met. X",
+          "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El Tiempo, con su mano cansada sacudió del Libro Eterno, polvo de ruinas, y le mostró a Bolívar; su mismo aquilino perfil; su misma tez morena, labrada por los surcos profundos del pensamiento.»",
               "autor": "Valencia",
-              "referencia_obra": ", Discursos, 1 (p. 46). X"
+              "referencia_obra": ", Discursos, 1 (p. 46)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Rayo de sol, penetra. | Sacude de mi frente | El polvo de las hojas, tiende un hilo | De tu rubia madeja | A través de mis sueños, pon de nuevo | Tu venda transparente | En mis ojos cansados.»",
               "autor": "Maya",
               "referencia_obra": ", Obra poétic. 1 (p. 5 3)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Loc. Sacudir el polvo de los zapatos o de los pies: apartarse de un lugar digno de castigo y aborrecimiento. X",
+          "definicion": "Loc. Sacudir el polvo de los zapatos o de los pies: apartarse de un lugar digno de castigo y aborrecimiento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Sintió tanto (S. Pablo) dexar a los judíos en la esclavitud de su pecado, y en la pertinacia de su error, que sacudiendo él y Bernabé el polvo de los pies contra ellos, se fueron a la ciudad de Iconia.»",
               "autor": "Quev.",
               "referencia_obra": "Vida de S. Pablo, (Dicc. Autor.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -989,54 +1282,75 @@
     {
       "id": "f)",
       "definicion": "Apartar, rechazar, arrojar. (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Dicho de cosas. X",
+          "definicion": "Dicho de cosas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Garrotazo viene, | Garrotazo va; | Si tal vez sacude | A la enfermedad, | Se acredita el ciego | De lince sagaz; | Mas si, por desgracia, el enfermo da, | el ciego no es menos | Que un topo brutal.»",
               "autor": "T. Iriarte",
               "referencia_obra": ", Poes. (Cl. C. 136. 94)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y con fuga veloz, del cerviguillo | Sacude la segur poco certera.»",
               "autor": "T. Iriarte",
               "referencia_obra": ", Eneida, 2 (3. 110)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Parecen [algunas yerbas] muy hermosas y llegandoos a ellas y tocándolas con las manos, dan de sí tan mal olor, que las sacude el hombre de sí.»",
                   "autor": "Gran.",
                   "referencia_obra": "Guía, 1. 3. 29 (1. 2141)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No le pesó a Albo Hacen deshacerse de un testigo importuno, [... ] (cosa pesada siempre, y más para un rey, y sobretodo si no puede sacudir de los hombros la carga)»",
                   "autor": "M. de la Rosa",
-                  "referencia_obra": ", Is. de Solis. 1. 14 (3. 239). — Ademós con dat. refl. X"
-                },
+                  "referencia_obra": ", Is. de Solis. 1. 14 (3. 239)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¿Que quién fue ese que ha muerto? Pues lo sabe toda la tierra, Fue un hombre que se halló vivo, se sacudió de los hombros todos esos mantos y de los ojos todas esas vendas, que los tiempos pasados echan sobre los hombres.»",
-                  "autor": "Martí",
-                  "referencia_obra": ", Páginas escogidas, p. 142. - p) Tratándose de personas. Con de."
-                },
-                {
-                  "texto_cita": "«Mas, viendo que de veras la desecha, | La sacude de sí [el moro a la vieja], huye y aparta.»",
-                  "autor": "Valb.",
-                  "referencia_obra": "Bern. 7 (R. 17. 2142). X"
-                },
-                {
-                  "texto_cita": "«¿Qué mucho que la España de entonces trocase su libertad interior por el dominio en lo exterior, si hemos visto en los tiempos modernos a una gran nación que se decía harto más adelantada, a una nación que parecía haber sacudido para siempre toda especie de tiranos por medio de la más sangrienta revolución?.»",
-                  "autor": "Larra",
-                  "referencia_obra": ", Crít. lit. y artist. (Cl. C. 52. 160)."
+                  "id_limpio": "—",
+                  "definicion": "Ademós con dat. refl.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Que quién fue ese que ha muerto? Pues lo sabe toda la tierra, Fue un hombre que se halló vivo, se sacudió de los hombros todos esos mantos y de los ojos todas esas vendas, que los tiempos pasados echan sobre los hombres.»",
+                      "autor": "Martí",
+                      "referencia_obra": ", Páginas escogidas, p. 142. - p) Tratándose de personas. Con de."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Mas, viendo que de veras la desecha, | La sacude de sí [el moro a la vieja], huye y aparta.»",
+                      "autor": "Valb.",
+                      "referencia_obra": "Bern. 7 (R. 17. 2142)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Qué mucho que la España de entonces trocase su libertad interior por el dominio en lo exterior, si hemos visto en los tiempos modernos a una gran nación que se decía harto más adelantada, a una nación que parecía haber sacudido para siempre toda especie de tiranos por medio de la más sangrienta revolución?.»",
+                      "autor": "Larra",
+                      "referencia_obra": ", Crít. lit. y artist. (Cl. C. 52. 160)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1046,106 +1360,130 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Tratándose de lo inmaterial.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mas dirás: Qué remedio para sacudir estos cuidados que tan fuertemente se nos pegan?»",
               "autor": "Gran.",
               "referencia_obra": "Orac. y medit. 2. 3 (2. 2172)."
             },
             {
+              "marca": "",
               "texto_cita": "«Por eso lo más presto que pudieres, sacude la pereza y pesadumbre.»",
               "autor": "",
               "referencia_obra": "Id. Imit. 4. 10 (6. 5672)."
             },
             {
+              "marca": "",
               "texto_cita": "«Comenzaron a tratar y consultar entre sí del remedio de la república y de sacudir la pesada servidumbre de los Moros.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 8. 1 (1. 3711)."
             },
             {
+              "marca": "",
               "texto_cita": "«Tú poderosamente | El sueño sacudiste, | En que siempre yacieron.»",
               "autor": "D. Gonz.",
-              "referencia_obra": "Égl. (R. 61. 1891). X"
+              "referencia_obra": "Égl. (R. 61. 1891)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pugné por sacudir la pereza y escribir una página, pero el lápiz se me escurría de los dedos.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 240."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Todo esto es amor— Amor | Quiere, quiere que se le sacuda. | Llegue, que el amor y el polvo | Dicen que a palos se curan.»",
                   "autor": "Tirso",
                   "referencia_obra": ", La elección por la virtud (NBAE. 4. 350)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con dat. refl. X",
+              "definicion": "Con dat. refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Hizose grave, mostrósela severa y hablóla con imperio; pero Ingundis al mismo tenor supo sacudirse.»",
                   "autor": "Lozano",
-                  "referencia_obra": ", Hist. y ley. 2 (Cl. C. 120. 17). X"
+                  "referencia_obra": ", Hist. y ley. 2 (Cl. C. 120. 17)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y se sacudía así las pequeñeces de la mente vulgar, como se sacude un león, tábanos.»",
                   "autor": "Martí",
-                  "referencia_obra": ", Sus mejores páginas, p. 115. X"
+                  "referencia_obra": ", Sus mejores páginas, p. 115."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La masa inculta es perezosa, y tímida en las cosas de la inteligencia, y quiere que la gobiernen bien; pero si el gobierno le lastima, se lo sacude y gobierna ella.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. p. 151."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Al caballo con ánimo hiriendo, | Sin más les persuadir rompe la vía, | De los miembros el miedo sacudiendo, | Le sigue la esforzada compañía.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 3 (R. 17. 131)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La vejez de aquellos que gastaron la mocedad en vicios, suele ser muchas veces amancillada con las disoluciones de aquella edad pasada; aunque la presente la rehuse y la mesma naturaleza las sacuda de sí.»",
                   "autor": "Gran.",
                   "referencia_obra": "Guía, 1. 3. 25 (1. 1681)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si tomas mucha pena por no morir, como murieron otros Emperadores en Roma, parece que debes de tí sacudir esta tristeza.»",
                   "autor": "Capm.",
                   "referencia_obra": "Teatro (2. 95)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mas es fuerza | Sacudir de su pecho aquese indigno | Amor.»",
                   "autor": "Quint.",
                   "referencia_obra": "El duque de Viseo, 1. 5 (R. 19. 461)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La primera cosa que hacían era despedir de sí todas sus haciendas y bienes temporales, para sacudir juntamente con ellos la solicitud y cuidado de gobernarlos.»",
                   "autor": "Gran.",
                   "referencia_obra": "Doctr. crist. 4. 2. 5 (5. 1391)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1153,76 +1491,93 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Refl. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ea, Señora, levántese del polvo de la tristeza, y sacúdase de lo que nuestro enemigo le trae.»",
               "autor": "Ávila",
               "referencia_obra": ", Espit. 3 (7. 132)."
             },
             {
+              "marca": "",
               "texto_cita": "«No se sabe sacudir de los negocios y personas cuando es menester.»",
               "autor": "Gran.",
-              "referencia_obra": "Mem. vida crist. 4. 5 (2. 5391). X"
+              "referencia_obra": "Mem. vida crist. 4. 5 (2. 5391)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Era el ansia pauliniana de libertad, de sacudirse de la ley externa, que era bien dura, y, como decía el Maestro Fray Luis León, bien cabezuda entonces.»",
               "autor": "Unamuno",
               "referencia_obra": ", Del sen. trág. de la vida, 11 (p. 228)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Part. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por esto conviene que sacudida de nuestro ánimo toda pereza y negligencia, nos armemos de un muy fuerte y denodado propósito para acometer esta empresa.»",
               "autor": "Gran.",
               "referencia_obra": "Orac. y medit. 2. 2 (2. 1852)."
             },
             {
+              "marca": "",
               "texto_cita": "«Le abrió [el tiempo] puerta a lo que siempre había deseado, que era verse en religión, sacudida y libre de los inconvenientes y obligaciones del siglo.»",
               "autor": "Valb.",
               "referencia_obra": "Siglo de oro, introd. p. 17."
             },
             {
+              "marca": "",
               "texto_cita": "«El sueño de sus miembros sacudido, | Gallardo el joven su persona ostenta.»",
               "autor": "Góng.",
               "referencia_obra": "Polif. (R. 32. 4612)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Aspero, indócil, intratable. Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«i Válame Dios, y qué ingrata | Muchacha, y qué sacudida.»",
               "autor": "Cerv.",
               "referencia_obra": "Pedro de Urdemalas, 3 (Com. 2. 292)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En comparativo con valor ponderativo. X",
+              "definicion": "En comparativo con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No ha de ser el marido tan desabrido, ni tan sacudido, a que cuando los parientes de su muger vinieren a casa, los dexe hablar, y se descuide de los convidar, porque sería para ella muy grande afrenta, y cahería él en muy mala crianza.»",
                   "autor": "Guev.",
                   "referencia_obra": "Epist. (Cl. Esp. p. 387)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Era tan descortés y sacudida, [Doña Mergelina] que todos lo iban de sus repuestas, y ella lo quedaba de mis reprensiones.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 1. 2 (R. 18. 3811)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1230,81 +1585,100 @@
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "En el siguiente texto, Inquietar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Llegó a sacudir esta preocupación de tal modo, que según escribe Jovio en el elogio de Lebrija, no era tenido por noble el que mostraba aversión a las letras y a los estudios.»",
               "autor": "Acad.",
               "referencia_obra": "Hist. ilustr. 16 (6. 402)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Sacudir uno el yugo: librarse de la opresión o de dominio molesto o afrentoso.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Gracias al cielo doy que ya del cuello | Del todo el grave yugo he sacudido.»",
                   "autor": "Garcil.",
                   "referencia_obra": "Son. 34 (p. 202)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Sacudamos de nuestras cervices este nuevo yugo que nos quieren poner.»",
                   "autor": "Gran.",
                   "referencia_obra": "Doctr. crist. 5. 2. 25 (5. 3302)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Había por aquel paraje algunas provincias que deseaban sacudir el yugo de su dominio [de Motezuma].»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 2. 6 (R. 28. 2392)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El del yugo detestado, | Sacudiendo la cerviz, | De mi vivirá olvidado.»",
                   "autor": "Hartz.",
-                  "referencia_obra": "Primero yo, 3. 7 (p. 110). X"
+                  "referencia_obra": "Primero yo, 3. 7 (p. 110)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Los colonos quieren gobernar ellos mismos la isla, como lo dijo Clugny, y, sacudir el yugo de una burocracia escogida por el rey.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 3. 18 (p. 315)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Sacudir la pereza: vencerla. X",
+              "definicion": "Sacudir la pereza: vencerla.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los negros boquimorados sacudían su pereza incorregible, para coger unas cuantas mazorcas de cacao, elaborar aguardiente clandestino, y arriar sus mujeres hacia los tabacales, obligándolas a cosechar hojas de calidad con el objeto de venderlas en los mercados del puerto.»",
                   "autor": "",
                   "referencia_obra": "Arias Trujillo, Risaralda, 4 (p. 18)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Sacudir las cadenas: librarse de una sujeción de cualquier clase. X",
+              "definicion": "Sacudir las cadenas: librarse de una sujeción de cualquier clase.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nosotros, ansiosos de sacudir las cadenas políticas y literarias, nos pusimos pretamente a la cabeza de todo lo que se presentó marchando bajo la enseña del movimiento.»",
                   "autor": "Larra",
-                  "referencia_obra": ", Crít. lit. y artist. (Cl. C. 52. 228). X"
+                  "referencia_obra": ", Crít. lit. y artist. (Cl. C. 52. 228)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El pueblo ha empezado a sacudir las cadenas, sabe cómo se hace la guerra.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 4 (p. 343)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1313,7 +1687,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV. X «Sacudir otra vez: recutio, -is.» Nebr. Vocab. X «Sacudir de alguna cosa: excutio, -is.» Id. ib. X «Sacudir en diversas partes: discutio, -is.» Id. ib. X «Sacudir: concutio, -is; quatio, -is.» Id. ib. X «Sacudir de abaxo arriba: succutio, -is.» Id. ib. X «Elidere sacudir tentar excludir» Pal. Univ. vocab. 130b. X «Dexad, pues, por Dios, señor, a los subiectos de los príncipes, no los alborotés, no los leuantés, no los mostrés sacudir de sí el yugo de la obediencia, la cual es más acebtable a Dios que el sacrificio.» Pulgar, Letras, 3 (Cl. C. 99. 19).\n\n— Siglo XIV. X «El terçero andava los jentenos trayendo, | Trigo e todos panes en las eras tendiendo, | Estava de los árboles las frutas sacodiendo, | El távano al asno yvalo malmordiendo.» Arc. de Hita, 1292 (Cl. C. 17. 164).\n\n— Siglo XIII. X «Señor —dixo el preso— ¿cómo puedo exir | Cuando en mí non puedo los fierros sagudir?.» Berc. S. Dom. (Cl. Castal. 49. 189).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. succutére, 'sacudir por debajo, golpear, remover'. Port sacudir, fr. sacover.\n\n\u0000",
+  "etimologia": "Etim. Del lat. <i>succutére, </i>'sacudir por debajo, golpear, remover'. Port <i>sacudir</i>, fr. <i>sacover</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",

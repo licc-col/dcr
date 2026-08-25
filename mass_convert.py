@@ -6,6 +6,7 @@ y los convierte a una estructura JSON organizada, preservando el formato
 original y manejando casos complejos de sub-acepciones marcadas con símbolos griegos.
 """
 
+import argparse
 import os
 import json
 import re
@@ -58,6 +59,22 @@ def balance_tags(text):
             pass
     return text
 
+def drop_orphan_closers(text, tags):
+    """Elimina las etiquetas de cierre que no tienen apertura previa."""
+    abiertas = {t: 0 for t in tags}
+    def visor(match):
+        nombre = match.group(2).lower()
+        if nombre not in abiertas:
+            return match.group(0)
+        if match.group(1):
+            if abiertas[nombre] == 0:
+                return ''
+            abiertas[nombre] -= 1
+        else:
+            abiertas[nombre] += 1
+        return match.group(0)
+    return re.sub(r'<(/?)([a-zA-Z]+)[^>]*>', visor, text)
+
 def clean_structural_tags(text):
     """
     Limpia etiquetas de bloque (<p>, <br>) al inicio y final de los textos.
@@ -69,22 +86,35 @@ def clean_structural_tags(text):
 
 import html
 
-def strip_html_tags(text):
+def strip_html_tags(text, keep=()):
     """
-    Elimina todas las etiquetas HTML y decodifica entidades HTML.
-    Normaliza los espacios en blanco.
+    Elimina las etiquetas HTML y decodifica entidades HTML.
+    Normaliza los espacios en blanco y descarta caracteres de control
+    (el HTML del CD-ROM arrastra un NUL de fin de fichero).
+
+    `keep` es una tupla de nombres de etiqueta que se conservan (ej. ('i',))
+    para no perder las cursivas significativas de la etimología.
     """
     if not text:
         return ""
-    # Eliminar cualquier etiqueta HTML
-    clean = re.sub(r'<[^>]+>', '', text)
+    if keep:
+        keep_re = '|'.join(keep)
+        clean = re.sub(r'<(?!/?(?:' + keep_re + r')\b)[^>]+>', '', text, flags=re.IGNORECASE)
+    else:
+        clean = re.sub(r'<[^>]+>', '', text)
     # Decodificar entidades HTML
     clean = html.unescape(clean)
+    # Eliminar caracteres de control residuales de la digitalización
+    clean = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', clean)
     # Normalizar espacios
     clean = re.sub(r'\s+', ' ', clean).strip()
+    if keep:
+        # La fuente anida mal <p> e <i>, dejando cierres sin apertura
+        clean = drop_orphan_closers(clean, keep).strip()
+        clean = balance_tags(clean)
     return clean
 
-def clean_and_preserve_paragraphs(text):
+def clean_and_preserve_paragraphs(text, keep=()):
     """
     Separa el texto mediante etiquetas de párrafo o salto de línea,
     limpia cada párrafo de HTML y los une con saltos de línea dobles.
@@ -94,10 +124,69 @@ def clean_and_preserve_paragraphs(text):
     paragraphs = re.split(r'</p>|<p[^>]*>|<br\s*/?>', text, flags=re.IGNORECASE)
     cleaned_paras = []
     for p in paragraphs:
-        clean_p = strip_html_tags(p)
+        clean_p = strip_html_tags(p, keep=keep)
         if clean_p:
             cleaned_paras.append(clean_p)
     return "\n\n".join(cleaned_paras)
+
+
+def normalizar_espacios(text):
+    """
+    Corrige separaciones perdidas en la digitalización, como el "SigloXV" de las
+    cabeceras de período anteclásico, y colapsa espacios sobrantes.
+    """
+    if not text:
+        return ""
+    text = re.sub(r'\b(Siglos?)(?=[IVXL]{1,4}\b)', r'\1 ', text)
+    text = re.sub(r'[ \t]{2,}', ' ', text)
+    text = re.sub(r'[ \t]+([,;:])', r'\1', text)
+    return text.strip()
+
+
+# --- Marcas de autoría de los ejemplos (ver ayuda/presenta/Signos.htm del CD-ROM) ---
+# En la fuente, la marca ANTECEDE al ejemplo que introduce:
+#   X : va dentro del run azul (#000080) que abre la cita.
+#   + : va al final del run negro previo, o como <font face="symbol">+</font>.
+# Al partir el texto por «, ambas quedaban pegadas al final del campo anterior.
+BLUE_RUN_OPEN = re.compile(r'<font[^>]*#000080[^>]*>', re.IGNORECASE)
+MARCA_CRUZ = re.compile(r'\+\s*(?:<[^>]*>\s*)*$')
+MARCA_EQUIS = re.compile(r'(?:^|[\s>])([Xx])\s*(?:<[^>]*>\s*)*$')
+
+def extract_trailing_marca(chunk):
+    """
+    Separa del final de `chunk` la marca (X o +) que en realidad abre el ejemplo
+    siguiente. Devuelve (chunk_sin_marca, marca).
+    """
+    if not chunk:
+        return chunk, ""
+    m = MARCA_CRUZ.search(chunk)
+    if m:
+        return chunk[:m.start()], "+"
+    # La X sólo cuenta como marca si está dentro de un run azul; así no se
+    # confunde con un numeral romano de una referencia bibliográfica.
+    m = MARCA_EQUIS.search(chunk)
+    if m:
+        # Es marca si va dentro del run azul de la cita, o si el run azul se
+        # abre justo después; así no se confunde con un numeral romano suelto.
+        fonts = re.findall(r'<font[^>]*>', chunk[:m.start(1)], flags=re.IGNORECASE)
+        # Sin ninguna etiqueta <font> por delante, la cita anterior y la marca
+        # comparten el mismo run azul heredado del bloque.
+        en_run_azul = '#000080' in fonts[-1] if fonts else True
+        abre_cita = bool(BLUE_RUN_OPEN.search(chunk[m.end(1):]))
+        if en_run_azul or abre_cita:
+            return chunk[:m.start(1)], "X"
+    return chunk, ""
+
+
+# Subacepción de tercer nivel: un <p> cuyo primer carácter visible es un guion
+# largo que NO va seguido de letra griega (esos son los niveles 1 y 2).
+TERCER_NIVEL_RE = re.compile(
+    r'((?:<p[^>]*>\s*)(?:<(?!/?p\b)[^>]*>\s*)*[—–]\s*(?!(?:<[^>]*>\s*)*[α-ωΑ-Ω]))',
+    re.IGNORECASE)
+
+def split_tercer_nivel(block):
+    """Parte un bloque en [contenido, marcador, contenido, marcador, contenido...]."""
+    return TERCER_NIVEL_RE.split(block or "")
 
 
 def get_section_key(header_text):
@@ -165,6 +254,144 @@ def split_subacepciones(block):
     # re.split keeps the capturing group in the list of results.
     parts = re.split(marker_regex, block, flags=re.IGNORECASE)
     return parts
+
+def _protect_parenthesis_quotes(t):
+    if not t:
+        return ""
+    def replace_parens(match):
+        inner = match.group(0)
+        if '«' in inner or '»' in inner:
+            inner = inner.replace('«', '@@@LQUOT@@@').replace('»', '@@@RQUOT@@@')
+        return inner
+    return re.sub(r'\([^)]*\)', replace_parens, t)
+
+def _restore_parenthesis_quotes(t):
+    if not t:
+        return ""
+    return t.replace('@@@LQUOT@@@', '«').replace('@@@RQUOT@@@', '»')
+
+def process_citas(text):
+    """
+    Parte un bloque en su definición y sus citas.
+    Devuelve (definicion, citas, marca_final); `marca_final` es una X o + que
+    quedó al final del bloque sin ejemplo que introducir.
+    """
+    protected_text = _protect_parenthesis_quotes(text)
+    segments = re.split(r'«', protected_text)
+
+    # La marca que cierra un segmento pertenece al ejemplo que abre el siguiente.
+    marcas = [""] * len(segments)
+    for i in range(len(segments) - 1):
+        segments[i], marca = extract_trailing_marca(segments[i])
+        marcas[i + 1] = marca
+    segments[-1], marca_final = extract_trailing_marca(segments[-1])
+
+    def_text = strip_html_tags(segments[0]).strip()
+    # Clean leading dot and space
+    def_text = re.sub(r'^\s*\.\s*', '', def_text).strip()
+    if not re.search(r'\w', def_text):
+        def_text = ""
+    def_text = _restore_parenthesis_quotes(def_text)
+
+    citas_list = []
+    for idx, c in enumerate(segments[1:], start=1):
+        qp = re.split(r'»', c, maxsplit=1)
+        texto_cita = "«" + strip_html_tags(qp[0]) + ("»" if len(qp) > 1 else "")
+        texto_cita = _restore_parenthesis_quotes(texto_cita)
+        autor_raw = ""
+        ref_raw = ""
+        if len(qp) > 1:
+            remainder = qp[1].strip()
+            m_autor = re.search(r'<dicautor>(.*?)</dicautor>', remainder, flags=re.IGNORECASE)
+            if m_autor:
+                autor_raw = strip_html_tags(m_autor.group(1))
+                ref_raw = strip_html_tags(remainder[m_autor.end():])
+            else:
+                ref_raw = strip_html_tags(remainder)
+        ref_raw = _restore_parenthesis_quotes(ref_raw)
+        citas_list.append({
+            "marca": marcas[idx],
+            "texto_cita": texto_cita,
+            "autor": autor_raw,
+            "referencia_obra": ref_raw
+        })
+    return def_text, citas_list, marca_final
+
+
+def fill_node(node, block):
+    """
+    Rellena definición, ejemplos y subacepciones de tercer nivel (—) de un nodo.
+    """
+    partes = split_tercer_nivel(block)
+    definicion, citas, marca = process_citas(partes[0])
+    node["definicion"] = definicion
+    node["marca"] = marca
+    node["ejemplos_citas"] = citas
+
+    hijos = []
+    for k in range(1, len(partes), 2):
+        cuerpo = partes[k + 1] if k + 1 < len(partes) else ""
+        def3, citas3, marca3 = process_citas(cuerpo)
+        if not def3 and not citas3:
+            continue
+        hijos.append({
+            "id_limpio": "—",
+            "definicion": def3,
+            "marca": marca3,
+            "ejemplos_citas": citas3
+        })
+    node["subsubsubacepciones"] = hijos
+    return node
+
+
+def build_subacepciones(acepcion, subparts):
+    """
+    Recorre los marcadores griegos de un bloque y cuelga las subacepciones
+    (1 griega) y subsubacepciones (2 griegas) de la acepción dada.
+    """
+    current_sub_acep = None
+    for j in range(1, len(subparts), 2):
+        marker = subparts[j].strip()
+        clean_marker = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', marker).strip())
+
+        greek_letters = "".join(c for c in clean_marker if 'Ͱ' <= c <= 'Ͽ')
+        if not greek_letters:
+            stripped = re.sub(r'[\s—\-‑\)]', '', clean_marker)
+            level = len(stripped) if stripped else 1
+        else:
+            level = len(greek_letters)
+
+        content_sub = subparts[j + 1] if j + 1 < len(subparts) else ""
+
+        nodo = {
+            "id_marcador_html": strip_html_tags(marker),
+            "id_limpio": clean_marker,
+            "definicion": "",
+            "marca": "",
+            "ejemplos_citas": [],
+            "subsubsubacepciones": []
+        }
+        if level == 1:
+            nodo["subsubacepciones"] = []
+        fill_node(nodo, content_sub)
+
+        if level == 1:
+            acepcion["subacepciones"].append(nodo)
+            current_sub_acep = nodo
+        else:
+            if current_sub_acep is None:
+                current_sub_acep = {
+                    "id_marcador_html": "",
+                    "id_limpio": "",
+                    "definicion": "",
+                    "marca": "",
+                    "ejemplos_citas": [],
+                    "subsubsubacepciones": [],
+                    "subsubacepciones": []
+                }
+                acepcion["subacepciones"].append(current_sub_acep)
+            current_sub_acep["subsubacepciones"].append(nodo)
+
 
 def parse_html_to_json(filepath):
     try:
@@ -250,193 +477,57 @@ def parse_html_to_json(filepath):
     else:
         pos_normal_end = len(content)
 
-    def process_citas(text):
-        def protect_parenthesis_quotes(t):
-            if not t:
-                return ""
-            def replace_parens(match):
-                inner = match.group(0)
-                if '«' in inner or '»' in inner:
-                    inner = inner.replace('«', '@@@LQUOT@@@').replace('»', '@@@RQUOT@@@')
-                return inner
-            return re.sub(r'\([^)]*\)', replace_parens, t)
-
-        def restore_parenthesis_quotes(t):
-            if not t:
-                return ""
-            return t.replace('@@@LQUOT@@@', '«').replace('@@@RQUOT@@@', '»')
-
-        citas_list = []
-        protected_text = protect_parenthesis_quotes(text)
-        citas_split = re.split(r'«', protected_text)
-        def_text = strip_html_tags(citas_split[0]).strip()
-        # Clean leading dot and space
-        def_text = re.sub(r'^\s*\.\s*', '', def_text).strip()
-        if not re.search(r'\w', def_text):
-            def_text = ""
-        def_text = restore_parenthesis_quotes(def_text)
-
-        for c in citas_split[1:]:
-            qp = re.split(r'»', c, maxsplit=1)
-            texto_cita = "«" + strip_html_tags(qp[0]) + ("»" if len(qp) > 1 else "")
-            texto_cita = restore_parenthesis_quotes(texto_cita)
-            autor_raw = ""
-            ref_raw = ""
-            if len(qp) > 1:
-                remainder = qp[1].strip()
-                m_autor = re.search(r'<dicautor>(.*?)</dicautor>', remainder, flags=re.IGNORECASE)
-                if m_autor:
-                    autor_raw = strip_html_tags(m_autor.group(1))
-                    ref_raw = strip_html_tags(remainder[m_autor.end():])
-                else:
-                    ref_raw = strip_html_tags(remainder)
-            ref_raw = restore_parenthesis_quotes(ref_raw)
-            citas_list.append({
-                "texto_cita": texto_cita,
-                "autor": autor_raw,
-                "referencia_obra": ref_raw
-            })
-        return def_text, citas_list
-
     if not real_acep_matches:
         # Lemma has no main alphabetical acep (e.g. abominar, abusar)
         block = content[pos_gram_end:pos_normal_end].strip()
-        acep_def = ""
-        
+
         acepcion = {
             "id": "",
             "definicion": "",
+            "marca": "",
             "ejemplos_citas": [],
+            "subsubsubacepciones": [],
             "subacepciones": []
         }
-        
+
         subparts = split_subacepciones(block)
-        intro_def, intro_citas = process_citas(subparts[0])
-        data['introduccion'] = intro_def
-        acepcion['ejemplos_citas'] = intro_citas
-        
-        current_sub_acep = None
-        for j in range(1, len(subparts), 2):
-            marker = subparts[j].strip()
-            clean_marker = re.sub(r'<[^>]+>', '', marker).strip()
-            clean_marker = re.sub(r'\s+', ' ', clean_marker)
-            
-            greek_letters = "".join([c for c in clean_marker if '\u0370' <= c <= '\u03ff'])
-            if not greek_letters:
-                stripped = re.sub(r'[\s—\-‑\)]', '', clean_marker)
-                level = len(stripped) if stripped else 1
-            else:
-                level = len(greek_letters)
-                
-            content_sub = subparts[j+1] if j+1 < len(subparts) else ""
-            sub_def, sub_citas = process_citas(content_sub)
-            
-            if level == 1:
-                sub_acep = {
-                    "id_marcador_html": strip_html_tags(marker),
-                    "id_limpio": clean_marker.strip(),
-                    "definicion": sub_def,
-                    "ejemplos_citas": sub_citas,
-                    "subsubacepciones": []
-                }
-                acepcion["subacepciones"].append(sub_acep)
-                current_sub_acep = sub_acep
-            else:
-                # Level 2 (sub-subacepción)
-                subsub_acep = {
-                    "id_marcador_html": strip_html_tags(marker),
-                    "id_limpio": clean_marker.strip(),
-                    "definicion": sub_def,
-                    "ejemplos_citas": sub_citas
-                }
-                if current_sub_acep is not None:
-                    current_sub_acep["subsubacepciones"].append(subsub_acep)
-                else:
-                    implicit_sub = {
-                        "id_marcador_html": "",
-                        "id_limpio": "",
-                        "definicion": "",
-                        "ejemplos_citas": [],
-                        "subsubacepciones": [subsub_acep]
-                    }
-                    acepcion["subacepciones"].append(implicit_sub)
-                    current_sub_acep = implicit_sub
+        fill_node(acepcion, subparts[0])
+        # Sin acepción alfabética maestra, la cabecera del bloque es la introducción.
+        data['introduccion'] = acepcion['definicion']
+        acepcion['definicion'] = ""
+
+        build_subacepciones(acepcion, subparts)
         data["acepciones"].append(acepcion)
     else:
         # Standard alphabetical acepciones exist
         data['introduccion'] = clean_and_preserve_paragraphs(content[pos_gram_end:real_acep_matches[0].start()])
-        
+
         for i in range(len(real_acep_matches)):
             start_idx = real_acep_matches[i].end()
             if i + 1 < len(real_acep_matches):
                 end_idx = real_acep_matches[i+1].start()
             else:
                 end_idx = pos_normal_end
-            
+
             block = content[start_idx:end_idx].strip()
             acep_html_id = real_acep_matches[i].group(1).strip()
             acepcion_id = strip_html_tags(acep_html_id).strip()
             acepcion_id = re.sub(r'\.$', '', acepcion_id).strip()
-            
+
             acepcion = {
                 "id": acepcion_id,
                 "definicion": "",
+                "marca": "",
                 "ejemplos_citas": [],
+                "subsubsubacepciones": [],
                 "subacepciones": []
             }
-            
+
             subparts = split_subacepciones(block)
-            acep_def, acep_citas = process_citas(subparts[0])
-            acepcion['definicion'] = acep_def
-            acepcion['ejemplos_citas'] = acep_citas
-            
-            current_sub_acep = None
-            for j in range(1, len(subparts), 2):
-                marker = subparts[j].strip()
-                clean_marker = re.sub(r'<[^>]+>', '', marker).strip()
-                clean_marker = re.sub(r'\s+', ' ', clean_marker)
-                
-                greek_letters = "".join([c for c in clean_marker if '\u0370' <= c <= '\u03ff'])
-                if not greek_letters:
-                    stripped = re.sub(r'[\s—\-‑\)]', '', clean_marker)
-                    level = len(stripped) if stripped else 1
-                else:
-                    level = len(greek_letters)
-                    
-                content_sub = subparts[j+1] if j+1 < len(subparts) else ""
-                sub_def, sub_citas = process_citas(content_sub)
-                
-                if level == 1:
-                    sub_acep = {
-                        "id_marcador_html": strip_html_tags(marker),
-                        "id_limpio": clean_marker.strip(),
-                        "definicion": sub_def,
-                        "ejemplos_citas": sub_citas,
-                        "subsubacepciones": []
-                    }
-                    acepcion["subacepciones"].append(sub_acep)
-                    current_sub_acep = sub_acep
-                else:
-                    # Level 2 (sub-subacepción)
-                    subsub_acep = {
-                        "id_marcador_html": strip_html_tags(marker),
-                        "id_limpio": clean_marker.strip(),
-                        "definicion": sub_def,
-                        "ejemplos_citas": sub_citas
-                    }
-                    if current_sub_acep is not None:
-                        current_sub_acep["subsubacepciones"].append(subsub_acep)
-                    else:
-                        implicit_sub = {
-                            "id_marcador_html": "",
-                            "id_limpio": "",
-                            "definicion": "",
-                            "ejemplos_citas": [],
-                            "subsubacepciones": [subsub_acep]
-                        }
-                        acepcion["subacepciones"].append(implicit_sub)
-                        current_sub_acep = implicit_sub
+            fill_node(acepcion, subparts[0])
+            build_subacepciones(acepcion, subparts)
             data["acepciones"].append(acepcion)
+
 
     # Extract and assign tail sections
     for i in range(len(unique_candidates)):
@@ -446,7 +537,10 @@ def parse_html_to_json(filepath):
         block = content[pos:next_pos].strip()
         key = get_section_key(text)
         if key:
-            cleaned_block = clean_and_preserve_paragraphs(block)
+            # La etimología conserva sus cursivas: en el original sólo van en
+            # cursiva las formas citadas, no el bloque entero.
+            keep = ('i',) if key == 'etimologia' else ()
+            cleaned_block = normalizar_espacios(clean_and_preserve_paragraphs(block, keep=keep))
             if key in data:
                 if data[key]:
                     data[key] += "\n\n" + cleaned_block
@@ -498,11 +592,26 @@ def parse_html_to_json(filepath):
         if is_invalid:
             data['introduccion'] = ""
 
+    # La categoría gramatical no debe repetirse al inicio de la introducción
+    if data['introduccion'] and data['categoria_gramatical']:
+        cat = data['categoria_gramatical'].strip()
+        if cat and data['introduccion'].startswith(cat):
+            data['introduccion'] = data['introduccion'][len(cat):].lstrip(' .,;:').strip()
+
+    data['introduccion'] = normalizar_espacios(data['introduccion'])
+
     return data
 
 def main():
-    html_dir = r'd:\ICC-2026\pasantía\cuervo\CD-ROM\html'
-    json_dir = r'd:\ICC-2026\pasantía\cuervo\json'
+    parser = argparse.ArgumentParser(description='Convierte el HTML del CD-ROM del DCR a JSON.')
+    parser.add_argument('--src', default='/core_dataset/dcr/cuervo/html',
+                        help='Directorio con los .htm del CD-ROM')
+    parser.add_argument('--out', default=os.path.join(os.path.dirname(os.path.abspath(__file__)), 'json'),
+                        help='Directorio de salida de los .json')
+    args = parser.parse_args()
+
+    html_dir = args.src
+    json_dir = args.out
     os.makedirs(json_dir, exist_ok=True)
     
     files = glob.glob(os.path.join(html_dir, '*.htm'))

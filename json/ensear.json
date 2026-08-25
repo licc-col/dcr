@@ -1,259 +1,322 @@
 {
   "lema": "ENSEÑAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nEl sentido originario es ‘marcar, designar', de donde se pasó fácilmente al de 'mostrar' y de aquí al de 'instruir'. Las aceps. se agrupan, pues, en dos grandes apartados:\n\n— 1, con el sentido de 'mostrar': a) mostrar, poner a la vista una cosa; b) dejar ver una cosa involuntariamente; c) dar indicios o señales de algo.\n\n— 2, con el sentido de 'instruir, hacer que alguien aprenda algo': a) comunicar a otro algo para que lo aprenda; b) transmitir conocimientos de orden científico o artístico; c) adoctrinar, preceptuar; d) acostumbrar, habituar.",
+  "introduccion": "El sentido originario es ‘marcar, designar', de donde se pasó fácilmente al de 'mostrar' y de aquí al de 'instruir'. Las aceps. se agrupan, pues, en dos grandes apartados:\n\n— 1, con el sentido de 'mostrar': a) mostrar, poner a la vista una cosa; b) dejar ver una cosa involuntariamente; c) dar indicios o señales de algo.\n\n— 2, con el sentido de 'instruir, hacer que alguien aprenda algo': a) comunicar a otro algo para que lo aprenda; b) transmitir conocimientos de orden científico o artístico; c) adoctrinar, preceptuar; d) acostumbrar, habituar.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Mostrar, poner a la vista una cosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Así que nos muestra Iriarte al Mono del titiritero, que, hallándose ausente su amo, quiere remedarle, y enseña como él la linterna mágica.»",
               "autor": "M. de la Rosa",
-              "referencia_obra": "Anot. a la Poét. 4. 18 (1. 202). +"
+              "referencia_obra": "Anot. a la Poét. 4. 18 (1. 202)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Si de su puño | Enseñase yo una carta ---»",
               "autor": "Bretón",
-              "referencia_obra": ", Muérete y verás, 4. 4 (Cl. C. 92. 102). x"
+              "referencia_obra": ", Muérete y verás, 4. 4 (Cl. C. 92. 102)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Colocaba tres naipes sobre una tablita; uno de éstos lo mostraba; luego cambiaba de lugar los otros dos muy despacio, dejando quieta la carta que había enseñado, y ponía encima de los tres naipes un palito, y apostaba a que no se indicaba cuál era la que había enseñado.»",
               "autor": "Baroja",
-              "referencia_obra": ", La busca, 2. 8 (p. 109). x"
+              "referencia_obra": ", La busca, 2. 8 (p. 109)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y entonces Mrs. Sherwood abría el bolso y enseñaba una foto de la señorita Dolores Fragoso, dedicada.»",
               "autor": "Cela",
-              "referencia_obra": ", Mrs. Caldwell, p. 92. x"
+              "referencia_obra": ", Mrs. Caldwell, p. 92."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo he publicado poesías, señora, y guardo entre mis papeles una carta de Mr. T. S. Eliot, que algún día enseñaré, felicitándome por unos versos que dediqué a la primavera.»",
               "autor": "",
               "referencia_obra": "Id. ib. p. 102."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El licenciado le dijo que le daría [por guía] a un primo suyo ---, que le enseñaría las lagunas de Ruidera.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 22 (R. 1. 4501)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pidiéronle a Sancho Panza que les enseñase la carta que llevaba a la señora Dulcinea del Toboso.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 1. 26 (R. 1. 3182). +"
+                  "referencia_obra": "Id. ib. 1. 26 (R. 1. 3182)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Porque el mismo rey tártaro en persona, | En rompiendo la fuerte infantería, | Entrará con seiscientos caballeros | Enseñando a los piojos sus aceros.»",
                   "autor": "Villav.",
-                  "referencia_obra": "Mosq. 11 (R. 17. 6161). +"
+                  "referencia_obra": "Mosq. 11 (R. 17. 6161)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Vellido Dolfos --- ganó la confianza del Rey, y, sacándole un día para enseñarle una parte del muro ---, halló modo de atravesarle con su mismo venablo, y huyó a toda carrera de Zamora.»",
                   "autor": "Quint.",
-                  "referencia_obra": "El Cid (R. 19. 2042). x"
+                  "referencia_obra": "El Cid (R. 19. 2042)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Las colonias americanas habían sido establecidas en la época en que las bellas artes españolas enseñaban con orgullo a la Europa los pinceles de Murillo, Velázquez, Zurbarán, a par de las espadas del duque de Alba, del Gran Capitán y de Cortés.»",
                   "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Provincia, p. 108. x"
+                  "referencia_obra": ", Recuerdos de Provincia, p. 108."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Es Byron, loco, es Byron, le dijo Eduardo, enseñando a Florencia el retrato de la hija del poeta.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 3 (p. 293). x"
+                  "referencia_obra": ", Amalia, 3 (p. 293)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Cumplíame señalarle a Carlos cuál de los asientos vacantes debía ocupar. A tiempo de enseñárselo, María, sin mirarme, apoyó una mano en la silla.»",
                   "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 86. x"
+                  "referencia_obra": ", María, p. 86."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Ah!... Yo esperaba aquí, para enseñarle su habitación al Señor Marqués.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de otoño, p. 24. x"
+                  "referencia_obra": ", Sonata de otoño, p. 24."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y Concha me enseñó su falda donde se deshojaban las rosas, todavía cubiertas de rocío.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 31. x"
+                  "referencia_obra": "Id. ib. p. 31."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ayer he recibido una carta. Tengo que enseñártela.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 43. x"
+                  "referencia_obra": "Id. ib. p. 43."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Nos enseñó el hábito de María Rosario: Iba a mandárselo para que lo probase.»",
                   "autor": "",
-                  "referencia_obra": "Id. Sonata de primav. p. 43. x"
+                  "referencia_obra": "Id. Sonata de primav. p. 43."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ven a enseñármela [la muñeca].»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 76. x"
+                  "referencia_obra": "Id. ib. p. 76."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Éste quería que supiese la Milagros cómo había estado allí con una dama, y fue acompañando a Fanny y enseñándola los cuchitriles del Corralón.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, 2. 5 (p. 86). x"
+                  "referencia_obra": ", La busca, 2. 5 (p. 86)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Llamó el empresario a uno de policía; le enseñé yo a éste el contrato, y me dio la razón.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 2. 6 (p. 99). x"
+                  "referencia_obra": "Id. ib. 2. 6 (p. 99)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Enséñale lo que tenemos en el rincón.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 3. 4 (p. 150). x"
+                  "referencia_obra": "Id. ib. 3. 4 (p. 150)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y dirigiéndose a uno de los canónigos (que ya tenía que ser por lo menos octogenario), le enseñó el lienzo.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 71). x"
+                  "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 71)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Por qué no recoge usted todas esas observaciones dispersas, todas esas notas y apuntes que me ha enseñado y escribe un libro?»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 24 (p. 102). x"
+                  "referencia_obra": ", Abel Sánchez, 24 (p. 102)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Me ha enseñado él mismo tu carta.»",
                   "autor": "",
-                  "referencia_obra": "Id. La tía Tula, 8 (p. 61). x"
+                  "referencia_obra": "Id. La tía Tula, 8 (p. 61)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando yo era niño —supongo que ahora pasa lo mismo— me interesaban mucho los relojes; mi padre o alguno de mis tíos solían enseñarme el suyo.»",
                   "autor": "",
-                  "referencia_obra": "Id. Cómo se hace una novela, p. 179. x"
+                  "referencia_obra": "Id. Cómo se hace una novela, p. 179."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El cuartito en que murió Quevedo, allá en Villanueva de los Infantes; una vieja, vestida de negro, nos lo enseña y suspira.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", El paisaje de España, 5 (p. 431). x"
+                  "referencia_obra": ", El paisaje de España, 5 (p. 431)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mamá, dice Juanita por segunda vez, enseñándole los claveles a doña Isabel.»",
                   "autor": "",
-                  "referencia_obra": "Id. Trasuntos de Esp. p. 44. x"
+                  "referencia_obra": "Id. Trasuntos de Esp. p. 44."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Aquí hay unas chuletas, Azorín —me dice enseñándome un plato—; ¿quiere usted que las asemos?»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 68. x"
+                  "referencia_obra": "Id. ib. p. 68."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo no quería creerlo, pero él me enseñó la escritura de venta que yo había hecho; pero yo no había hecho ninguna escritura.»",
                   "autor": "",
-                  "referencia_obra": "Id. Ruta de D. Quijote, 6 (p. 354). x"
+                  "referencia_obra": "Id. Ruta de D. Quijote, 6 (p. 354)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La niña Griselda, entusiasmada porque Alicia le ofrecía ser su maestra de corte, se zafó de la pretina las llaves y, abriendo el baúl, nos enseñó unas telas de colores vivos.»",
                   "autor": "Rivera",
-                  "referencia_obra": ", La vorágine, 1 (p. 28). x"
+                  "referencia_obra": ", La vorágine, 1 (p. 28)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y si usté hubiera perdío, ¿con qué había pagao? Enséñeme las libritas que trujo.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 1 (p. 67). x"
+                  "referencia_obra": "Id. ib. 1 (p. 67)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y levantándome la camisa, le enseñé mis carnes laceradas.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 2 (p. 156). x"
+                  "referencia_obra": "Id. ib. 2 (p. 156)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En cambio, yo sí puedo enseñarle mis huellas en el camino, porque, si son efímeras, al menos no se confunden con las demás.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 3 (p. 225). x"
+                  "referencia_obra": "Id. ib. 3 (p. 225)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y en la clara tarde | Me enseñó sus lágrimas.»",
                   "autor": "Machado",
-                  "referencia_obra": ", Poesías completas, p. 45. x"
+                  "referencia_obra": ", Poesías completas, p. 45."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡A enseñarle viene nuestras cartas y a perdernos!»",
                   "autor": "Pemán",
-                  "referencia_obra": ", Felipe II, 2. 7 (p. 160). x"
+                  "referencia_obra": ", Felipe II, 2. 7 (p. 160)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Don Eugenio, que es el nombrado, me enseñó las riquezas de su iglesia parroquial.»",
                   "autor": "Caballero Calderón",
-                  "referencia_obra": ", Ancha es Castilla, p. 87. x"
+                  "referencia_obra": ", Ancha es Castilla, p. 87."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En la iglesia románica de Guetaria se conserva amorosamente uno de los cuadros del maestro. El alcalde de ese pueblo, que era hombre simpático, me lo enseñó alguna vez.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 163. x"
+                  "referencia_obra": "Id. ib. p. 163."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«No podré olvidar la impresión de tristeza que me produjeron las palabras de un guía que me enseñaba las riquezas de la catedral de Chartres.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 211. x"
+                  "referencia_obra": "Id. ib. p. 211."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Su madre, una vieja mora, nos enseñó el bello traje que había vestido el día de su matrimonio.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 224. x"
+                  "referencia_obra": "Id. ib. p. 224."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ha despertado la admiración de sus tropas enseñándoles ciudades de piedra que emergen del fondo de los lagos.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Estud. mesa redonda, 6 (p. 103). x"
+                  "referencia_obra": ", Estud. mesa redonda, 6 (p. 103)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero yo, hijo mío querido, conozco a varios que no les fue posible disimular. Si tuviera ocasión, te los enseñaría cuando van por la calle a llevar a sus niños pequeños al colegio.»",
                   "autor": "Cela",
                   "referencia_obra": ", Mrs. Caldwell, p. 121."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, para indicar el instrumento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El viejo noble enseña con la mano | El muro de su patria envuelta en fuego.»",
                   "autor": "Jáur.",
                   "referencia_obra": "Vivos los cuerpos ves (R. 42. 1111)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "met. x",
+              "definicion": "met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Siempre enseña la misma cara porque es constante, es fiel. No sabemos cómo será por el otro lado..., cuál será su otra cara.»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", La tía Tula, 11 (p. 74). — En la frase Enseñarle a uno los dientes, Resistir, amenazar. x"
-                },
+                  "referencia_obra": ", La tía Tula, 11 (p. 74)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«La vieja desenganchó los dos borricos del carrito y soltó al perro, que se puso a ladrar y a jugar de contento; ladró a los burros, uno negro y otro rucio, que volvieron la cabeza para mirarle y le enseñaron los dientes.»",
-                  "autor": "",
-                  "referencia_obra": "P. Barola, La busca, 3. 6 (p. 167)."
+                  "id_limpio": "—",
+                  "definicion": "En la frase Enseñarle a uno los dientes, Resistir, amenazar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La vieja desenganchó los dos borricos del carrito y soltó al perro, que se puso a ladrar y a jugar de contento; ladró a los burros, uno negro y otro rucio, que volvieron la cabeza para mirarle y le enseñaron los dientes.»",
+                      "autor": "",
+                      "referencia_obra": "P. Barola, La busca, 3. 6 (p. 167)."
+                    }
+                  ]
                 }
               ]
             }
@@ -263,31 +326,39 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y después, una vez que el Señor hizo merced a Molsén de se le enseñar y pasar delante de él, estuvo Moisés metido en un agujero de una peña.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Eucar. 13 (3. 335)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "met. Con un predicado nominal. x",
+              "definicion": "met. Con un predicado nominal.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El Genil, que pasa moviendo los molinos del pan, se enseña turbio y ancho, aunque no lleno.»",
                   "autor": "Cela",
                   "referencia_obra": ", Obr. complet. (ed. 1968, t. 4, p. 205)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -296,42 +367,52 @@
     {
       "id": "b)",
       "definicion": "Dejar ver una cosa involuntariamente (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "x",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Luego se puso a hablar, enseñando los raigones de los dientes amarillos, sin que se le entendiera nada.»",
               "autor": "Baroja",
-              "referencia_obra": ", La busca, 2. 5 (p. 89). x"
+              "referencia_obra": ", La busca, 2. 5 (p. 89)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Al hablar enseñaba los dientes azulados, que contrastaban con la blancura de su cara empolvada.»",
               "autor": "",
               "referencia_obra": "Id. ib. 3. 5 (p. 162)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "met. x",
+          "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Dos horas después, la higuera yacía por tierra enseñando su copa blanquecina.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Provincia, p. 111. x"
+              "referencia_obra": ", Recuerdos de Provincia, p. 111."
             },
             {
+              "marca": "X",
               "texto_cita": "«Él ha visto las hojas otoñales, | Amarillas, rodar, las olorosas | Ramas del eucalipto, los rosales | Que enseñan otra vez sus blancas rosas.»",
               "autor": "Machado",
               "referencia_obra": ", Poesías completas, p. 18."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -339,68 +420,84 @@
     {
       "id": "c)",
       "definicion": "Con aplicación a lo inmaterial, Indicar, señalar, o dar indicios o señales de una cosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Protestó [Francisco de Tamarit] por los daños comunes, y con brío no desigual al comedimiento enseñó, como desde lejos, algunas misteriosas razones, que todas se aplicaban a mostrar la gran autoridad de la unión y poder público.»",
               "autor": "Melo",
               "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4672)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con un compl. circunst. con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No dejarías venirnos males, sino para sacar de ellos mayores bienes, enseñando tu misericordia en nuestra miseria.»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Audi, 82 (2. 61). x"
+                  "referencia_obra": ", Audi, 82 (2. 61)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En cada página, en cada día de esa época funesta, enseñan [los documentos] en progreso la degradación del pueblo sometido a Rosas.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 4 (p. 358)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con dat. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Cuando me enseñan mis mayores un disfavor y me da pena, he de pensar que así lo sienten los sujetos a mí conmigo.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Epist. 4. 1 (7. 274)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Intentaban con esto los catalanes detener algún espacio la furia de las armas, enseñándoles aquella distante esperanza de concordia para ganar tiempo.»",
                   "autor": "Melo",
-                  "referencia_obra": ", Guerra de Catal. 3 (R. 21. 4992). x"
+                  "referencia_obra": ", Guerra de Catal. 3 (R. 21. 4992)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En aquel discurso, al que debo lo más de mi reputación, nos enseñaste, me enseñaste a mí al menos, el alma de Caín.»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 16 (p. 77). x"
+                  "referencia_obra": ", Abel Sánchez, 16 (p. 77)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Si sabemos mirarla, toda realidad nos enseñará su defecto y su norma, su pecado y su deber.»",
                   "autor": "Ortega y Gasset",
-                  "referencia_obra": ", Esp. invertebr. p. 98. x"
+                  "referencia_obra": ", Esp. invertebr. p. 98."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Granada y los moros me enseñaron su abolengo ilustre. También me enseñó Granada su extraordinaria supervivencia.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 250."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -408,53 +505,66 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Actuando como compl. directo una oración.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En el siguiente texto la oración que hace de acus. se expresa en estilo directo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Nuestro capitán pregunta lo que se ha de hacer, pero enseña preguntando: ya no es posible retirarnos sin perdernos.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 2. 19 (R. 28. 2591)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con infinitivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mientras más frío padece [el Niño Dios] por nos, más amor enseña tenernos.»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Epist. 2. 67 (6. 478; ed. Balust, 1. 565). +"
+                  "referencia_obra": ", Epist. 2. 67 (6. 478; ed. Balust, 1. 565)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Miraba [el Virrey], y revolvía en su imaginación los daños y procuraba su remedio; aquel último esfuerzo de su actividad estaba enseñando ser el fin de sus acciones.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4711)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "La oración que sirve de acus. puede ir también en indicativo con la conj. que, y dat. de persona. x",
+              "definicion": "La oración que sirve de acus. puede ir también en indicativo con la conj. que, y dat. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Bebamos —dijo— por el héroe americano que está enseñando a la Europa que para nada necesitaremos de ella.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 2 (p. 227). x"
+                  "referencia_obra": ", Amalia, 2 (p. 227)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La vida me ha hecho ver que Dios nos concede a veces lo que le pedimos... para enseñarnos que es Él el que sabe mejor nuestra conveniencia.»",
                   "autor": "Pemán",
                   "referencia_obra": ", Felipe II, 1. 13 (p. 92)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -463,180 +573,248 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "En general, Comunicar a otro una cosa para que la aprenda (trans.). Puede llevar sujeto de persona o cosa.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Siendo acus. la cosa que ha de aprenderse.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La experiencia ensefia muchos medios para sosegar las alteraciones y disensiones de los reinos.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 73 (R. 25. 1992). x"
+              "referencia_obra": "Emp. 73 (R. 25. 1992)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Jamás pudo esperarse que los pocos kilómetros abandonados en la selva se quedaran así no más y no sirvieran de base a demandas cuantiosas, que por fas o por nefas se hacen efectivas, como lo enseña la experiencia.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 271). x"
+              "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 271)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No hay esfuerzo sincero encaminado a la verdad que no enseñe algo sobre ella.»",
               "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 285. x"
+              "referencia_obra": ", Motivos de Proteo, p. 285."
             },
             {
+              "marca": "X",
               "texto_cita": "«Es que vamos para viejos, hijo —le respondió Joaquín—, y la vejez enseña mucho.»",
               "autor": "Unamuno",
               "referencia_obra": ", Abel Sánchez, 36 (p. 143)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "La persona que aprende se expresa en dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El mismo san Pedro, que nos avisó el peligro y combate, nos enseña el remedio para no ser vencido.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Cart. suelt. (5. 380)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Lo cual, aunque muchas veces lo habían oído, nunca lo habían entendido hasta que la experiencia se lo enseñó.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Trib. 1. 7 (R. 60. 3701)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y la niña era de tan buen natural, que con facilidad aprendía todo cuanto le enseñaban.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 4 (R. 1. 1452)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Rogó al cura que, cuando tuviese lugar, le enseñase aquel ensalmo.»",
                   "autor": "",
                   "referencia_obra": "Id. Quij. 1. 29 (R. 1. 3321)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Respondíle en breves palabras que así lo haría, y que tuviese cuidado de encomendarnos a Lela Marien con todas aquellas oraciones que la cautiva le había enseñado.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 1. 40 (R. 1. 3681). +"
+                  "referencia_obra": "Id. ib. 1. 40 (R. 1. 3681)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Él fue el primero que a la humana gente | Les enseñó, para coger el fruto, | El modo y lugar propio y conveniente | Donde pueda labrar el pueblo astuto.»",
                   "autor": "Mosq.",
-                  "referencia_obra": "8 (R. 17. 6031). x"
+                  "referencia_obra": "8 (R. 17. 6031)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El cura Castro, acaso con el Emilio escondido bajo la sotana, enseñaba a las madres la manera de criar a los niños.»",
                   "autor": "",
-                  "referencia_obra": "D. F. Sarmiento, Recuerdos de Provincia, p. 97. x"
+                  "referencia_obra": "D. F. Sarmiento, Recuerdos de Provincia, p. 97."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y es por eso por que me quejo de tener que enseñarle todo.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 1 (p. 72). x"
+                  "referencia_obra": ", Amalia, 1 (p. 72)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Bien: hágase usted cargo de que le he enseñado un trozo de verso, y despidámonos.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 1 (p. 113). x"
+                  "referencia_obra": "Id. ib. 1 (p. 113)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Él le enseñaba las danzas de su tierra natal, los amorosos y sentidos cantares del país de Bambuk.»",
                   "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 170. x"
+                  "referencia_obra": ", María, p. 170."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Enseñáronme muhas cosas que no sabía, y, como me tomaran cariño, al poco tiempo adquirí la plaza de paje del señor don Alonso.»",
                   "autor": "P. Galdós",
-                  "referencia_obra": ", Trafalgar, 1 (p. 20). x"
+                  "referencia_obra": ", Trafalgar, 1 (p. 20)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Todo su empeño era que le enseñase palabras de español, y sobre todo algunas de esta nuestra graciosa Andalucía.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 7 (p. 68). x"
+                  "referencia_obra": "Id. ib. 7 (p. 68)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Buscó baraja para enseñarle el tute y la Cargalaburra.»",
                   "autor": "Carrasquilla",
-                  "referencia_obra": ", Frutos, 26. 3 (p. 296). x"
+                  "referencia_obra": ", Frutos, 26. 3 (p. 296)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sin saber cómo, surgió en mi memoria cierta canción americana que Nieves Agar, la amiga querida de mi madre, me enseñaba hace muchos años.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de estío, p. 97. x"
+                  "referencia_obra": ", Sonata de estío, p. 97."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Nos hemos olvidado de aquello que el padre José Francisco de Isla, pensador y escritor consumado, nos enseñó hace pocos años con muy buen acuerdo y con excelente fruto.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 21). x"
+                  "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 21)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Esta enfermedad de Abel me ha enseñado mucho, pero mucho...»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 6 (p. 37). x"
+                  "referencia_obra": ", Abel Sánchez, 6 (p. 37)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo sé que las cosas que te enseñó tu madre, las que yo enseñaré a nuestra hija...»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 15 (p. 73). x"
+                  "referencia_obra": "Id. ib. 15 (p. 73)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Aunque el Pipa les enseñó cuidadosamente los precios razonables, sucumbieron a su ignorancia y la avilantez de los explotadores volvió a enriquecerse con el engaño.»",
                   "autor": "Rivera",
-                  "referencia_obra": ", La vorógine, 2 (p. 110). x"
+                  "referencia_obra": ", La vorógine, 2 (p. 110)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La humildad y miseria del troglodita me trajeron la memoria la imagen de Argos, el viejo perro moribundo de la Odisea, y así le puse el nombre de Argos y traté de enseñárselo.»",
                   "autor": "Borges",
-                  "referencia_obra": ", El inmortal, 3 (El Aleph, p. 18). x"
+                  "referencia_obra": ", El inmortal, 3 (El Aleph, p. 18)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Puede suministrar al hombre vivencias y experiencias que ninguna ciencia puede enseñarle.»",
                   "autor": "Calderón",
-                  "referencia_obra": ", Ancha es Castilla, p. 275. — Siendo acus. una prop. de relativo."
+                  "referencia_obra": ", Ancha es Castilla, p. 275."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Siendo acus. una prop. de relativo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«En esa jornada que tiene vuestra merced comenzada le enseñaré no lo que me enseñó a mí la experiencia pasada, porque es ajena de mi profesión, sino lo que he aprendido en las sagradas letras, que es enseñanza del Espíritu Santo.»",
+                      "autor": "León",
+                      "referencia_obra": ", Perf. cas. introd. (3. 420)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Desde niño he enseñado lo que yo sabía a cuantos he podido inducir a aprender.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Reuerdos de Provincia, p. 168."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Cómo enseñarte lo que no sé?»",
+                      "autor": "Isaacs",
+                      "referencia_obra": ", María, p. 143."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Todo lo que mi ciencia no me enseñó me enseñaba el terrible poema de aquel gran odiador que fue lord Byron.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Abel Sánchez, 12 (p. 61)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«En esa jornada que tiene vuestra merced comenzada le enseñaré no lo que me enseñó a mí la experiencia pasada, porque es ajena de mi profesión, sino lo que he aprendido en las sagradas letras, que es enseñanza del Espíritu Santo.»",
-                  "autor": "León",
-                  "referencia_obra": ", Perf. cas. introd. (3. 420). x"
+                  "id_limpio": "—",
+                  "definicion": "Actuando como acus. una prop. infinit. Hoy no se usa esta construcción, que se ha sustituido por infinitivo con a.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Sabe que el tiempo largo enseña al hombre | Poner freno al león y tigre hircana.»",
+                      "autor": "Jáur.",
+                      "referencia_obra": "Aminta, 1 (R. 42. 1351)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Desde niño he enseñado lo que yo sabía a cuantos he podido inducir a aprender.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Reuerdos de Provincia, p. 168. x"
+                  "id_limpio": "—",
+                  "definicion": "Con una prop. indic. como compl. directo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Años de soledad le habían enseñado que los días, en la memoria, tienden a ser iguales.»",
+                      "autor": "Borges",
+                      "referencia_obra": ", La espera (El Aleph, p. 143)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Cómo enseñarte lo que no sé?»",
-                  "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 143."
-                },
-                {
-                  "texto_cita": "«Todo lo que mi ciencia no me enseñó me enseñaba el terrible poema de aquel gran odiador que fue lord Byron.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 12 (p. 61). — Actuando como acus. una prop. infinit. Hoy no se usa esta construcción, que se ha sustituido por infinitivo con a."
-                },
-                {
-                  "texto_cita": "«Sabe que el tiempo largo enseña al hombre | Poner freno al león y tigre hircana.»",
-                  "autor": "Jáur.",
-                  "referencia_obra": "Aminta, 1 (R. 42. 1351). — Con una prop. indic. como compl. directo. x"
-                },
-                {
-                  "texto_cita": "«Años de soledad le habían enseñado que los días, en la memoria, tienden a ser iguales.»",
-                  "autor": "Borges",
-                  "referencia_obra": ", La espera (El Aleph, p. 143). — Pas. refl."
-                },
-                {
-                  "texto_cita": "«El hablar | Se enseña en modos suaves | A los hombres y a las aves.»",
-                  "autor": "Lope",
-                  "referencia_obra": ", Lo cierto por lo dudoso, 1. 9 (R. 24. 4583)."
+                  "id_limpio": "—",
+                  "definicion": "Pas. refl.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«El hablar | Se enseña en modos suaves | A los hombres y a las aves.»",
+                      "autor": "Lope",
+                      "referencia_obra": ", Lo cierto por lo dudoso, 1. 9 (R. 24. 4583)."
+                    }
+                  ]
                 }
               ]
             },
@@ -644,64 +822,87 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "met. En el siguiente texto el dat. es un nombre de cosa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Gócela [la ocasión] con las cautelas que enseña el acaso a la prudencia.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 41 (R. 25. 1042)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Desde allí oyen el canto no enseñado de las avecillas.»",
                   "autor": "",
                   "referencia_obra": "Oliva (Capm. Filosof. eloc. 254)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Siendo acus. la persona que aprende. En este caso, la cosa aprendida o no se expresa o pasa a compl. con prep.; si no se expresa, la construcción resultante podría interpretarse con frecuencia como absol., ya que existe la tendencia a seguir sintiendo como dat. la persona que aprende, tendencia que se manifiesta en el uso de le o les por parte de escritores no leístas, de suerte que, por ejemplo, Le enseñó, aunque admite la pasiva (Él fue enseñado o Ella fue enseñada), podría considerarse como resultado de una transformación de Le enseñó algo. La tendencia, por lo demás, sigue dándose en la actualidad, cuando la cosa aprendida es una prop. de infinitivo precedida por a, quizás por contaminación de los casos en que la cosa aprendida es acus. y la persona que aprende va en dat. (así, Le enseñó esto + Lo enseñó a andar ® Le enseñó a andar). x",
+          "definicion": "Siendo acus. la persona que aprende. En este caso, la cosa aprendida o no se expresa o pasa a compl. con prep.; si no se expresa, la construcción resultante podría interpretarse con frecuencia como absol., ya que existe la tendencia a seguir sintiendo como dat. la persona que aprende, tendencia que se manifiesta en el uso de le o les por parte de escritores no leístas, de suerte que, por ejemplo, Le enseñó, aunque admite la pasiva (Él fue enseñado o Ella fue enseñada), podría considerarse como resultado de una transformación de Le enseñó algo. La tendencia, por lo demás, sigue dándose en la actualidad, cuando la cosa aprendida es una prop. de infinitivo precedida por a, quizás por contaminación de los casos en que la cosa aprendida es acus. y la persona que aprende va en dat. (así, Le enseñó esto + Lo enseñó a andar ® Le enseñó a andar).",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Así no, mis hijas!... ¡Imposible que piquen los pollos, si no los saben llamar!... Espérense y verán, yo les enseño.»",
               "autor": "Carrasquilla",
-              "referencia_obra": ", Frutos, 4. 1 (p. 58). x"
+              "referencia_obra": ", Frutos, 4. 1 (p. 58)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Me enseña? ¿No es verdá que me enseña? Pa eso compré máquina.»",
               "autor": "Rivera",
-              "referencia_obra": ", La vorágine, 1 (p. 28). x"
+              "referencia_obra": ", La vorágine, 1 (p. 28)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Poco a poco, porque sólo llevo enseñándole desde este al mediodía, por si al señor no le gustaba, y como la cosa no es fácil...»",
               "autor": "J. Poncela",
               "referencia_obra": ", Eloísa, 1 (p. 68)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "La cosa aprendida pasa a compl. con de, construcción hoy inusitada. Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Iban a ella [a la Virgen] así por deseo de verla, como por ser enseñados de sus dudas.»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Festiv. 11 (5. 333). — Absol."
-                },
+                  "referencia_obra": ", Festiv. 11 (5. 333)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Dice san Juan: Que la unción enseña de todas cosas.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Audi, 54 (Mist. 3. 233)."
+                  "id_limpio": "—",
+                  "definicion": "Absol.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Dice san Juan: Que la unción enseña de todas cosas.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Audi, 54 (Mist. 3. 233)."
+                    }
+                  ]
                 }
               ]
             },
@@ -709,96 +910,131 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con a seguida de una prop. infinit., para indicar la cosa aprendida. RAE",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Enséñalos a bolar, yendo ella con ellos.»",
                   "autor": "",
                   "referencia_obra": "D. Funes, Hist. gral. aves, 215."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La historia es muestra de la verdadera política y quien mejor enseñará a reinar al príncipe.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 4 (R. 25. 191)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Aprende a amar | O enséñame a aborrecer; | Enséñarne tú rigores, | Yo te enseñaré finezas.»",
                   "autor": "Cald.",
-                  "referencia_obra": "La dama duende, 2. 4 (R. 7. 1753). +"
+                  "referencia_obra": "La dama duende, 2. 4 (R. 7. 1753)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Luego que al pie del altar | Me digas: soy tu mujer, | Tú me enseñarás a hablar; | Yo te enseñaré a querer.»",
                   "autor": "Bretón",
-                  "referencia_obra": ", El pelo de la dehesa, 2. 11 (Cl. C. 92. 177). x"
+                  "referencia_obra": ", El pelo de la dehesa, 2. 11 (Cl. C. 92. 177)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Faltaban veinte años de administración de Rosas, para enseñar a los pueblos a comprender adónde conduce el sistema iniciado por Artigas.»",
                   "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Provincia, p. 65. x"
+                  "referencia_obra": ", Recuerdos de Provincia, p. 65."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Hallé hombres a los que, niños antes, me habían enseñado a poner trampas a las chilacoas y guatines en la espesura de los bosques.»",
                   "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 18. x"
+                  "referencia_obra": ", María, p. 18."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Y si no se la doy, lo enseño a buscarla, como te enseñé a ti, so sinvergüenza!»",
                   "autor": "Carrasquilla",
-                  "referencia_obra": ", Frutos, 19 (p. 215). x"
+                  "referencia_obra": ", Frutos, 19 (p. 215)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Aquí, en esta misma Universidad, junto a la cual estoy escribiendo, hay una fachada del siglo XVI, que se les invita y enseña a admirar a los visitantes y artistas.»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Andanzas y visiones esp. p. 87. x"
+                  "referencia_obra": ", Andanzas y visiones esp. p. 87."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo te enseñaré a rezar por tus abuelos y Dios te oirá.»",
                   "autor": "Sánchez",
-                  "referencia_obra": ", 35 (p. 141). x"
+                  "referencia_obra": ", 35 (p. 141)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Al menos le he enseñado a mirar.»",
                   "autor": "",
-                  "referencia_obra": "Id. La tía Tula, 20 (p. 112). x"
+                  "referencia_obra": "Id. La tía Tula, 20 (p. 112)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Era una estancia olvidada | Donde hoy Miguel se aposenta. | Y era allí donde los padres | Veían en primavera | El huerto en flor, y en el cielo | De mayo, azul, la cigüeña | --- | Que enseñaba a sus hijuelos | A usar de las alas lentas.»",
                   "autor": "Machado",
-                  "referencia_obra": ", Poesías completas, p. 125. x"
+                  "referencia_obra": ", Poesías completas, p. 125."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ha sido el realismo histórico quien me ha enseñado a ver que la unidad de Europa como sociedad no es un ‘Ideal’, sino un hecho de muy vieja cotidianeidad.»",
                   "autor": "Ortega y Gasset",
-                  "referencia_obra": ", Rebel. de las masas, pról. (p. 28). x"
+                  "referencia_obra": ", Rebel. de las masas, pról. (p. 28)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El troglodita me precedió; esa noche concebí el propósito de enseñarle a reconocer, y acaso a repetir, algunas palabras.»",
                   "autor": "Borges",
-                  "referencia_obra": ", El inmortal, 3 (El Aleph p. 17). — Absol."
+                  "referencia_obra": ", El inmortal, 3 (El Aleph p. 17)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Absol.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Aficionóse más particularmente a la astrología y a la alquimia, que enseña la una a adevinar lo venidero, la otra mudar por arte los metales.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 18. 11 (R. 31. 182)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«",
+                      "autor": "",
+                      "referencia_obra": ""
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«La zorra un tiempo puso escuela de enseñar a cazar.»",
+                      "autor": "Espinel",
+                      "referencia_obra": ", Escud. 1. 7 (R. 18. 3931; Cl. C. 43. 109)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Hay semblantes y modos de negociar tan ásperos, que enseñan a negar.»",
+                      "autor": "Saav.",
+                      "referencia_obra": "Emp. 30 (R. 25. 801)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Aficionóse más particularmente a la astrología y a la alquimia, que enseña la una a adevinar lo venidero, la otra mudar por arte los metales.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 18. 11 (R. 31. 182)."
-                },
-                {
-                  "texto_cita": "«",
-                  "autor": "",
-                  "referencia_obra": ""
-                },
-                {
-                  "texto_cita": "«La zorra un tiempo puso escuela de enseñar a cazar.»",
-                  "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 7 (R. 18. 3931; Cl. C. 43. 109)."
-                },
-                {
-                  "texto_cita": "«Hay semblantes y modos de negociar tan ásperos, que enseñan a negar.»",
-                  "autor": "Saav.",
-                  "referencia_obra": "Emp. 30 (R. 25. 801). — met. x"
-                },
-                {
-                  "texto_cita": "«Toma una lengua balbuciente, y como sentándola sobre sus rodillas, la enseña a vincular los vocablos, a modularlos, a discernirlos.»",
-                  "autor": "Rodó",
-                  "referencia_obra": ", Motivos de Proteo, p. 70."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Toma una lengua balbuciente, y como sentándola sobre sus rodillas, la enseña a vincular los vocablos, a modularlos, a discernirlos.»",
+                      "autor": "Rodó",
+                      "referencia_obra": ", Motivos de Proteo, p. 70."
+                    }
+                  ]
                 }
               ]
             }
@@ -808,31 +1044,39 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Refl. Aprender, adquirir conocimiento o destreza.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a seguida de una prop. infinit. +",
+              "definicion": "Con a seguida de una prop. infinit.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Notable cosa matarle, | Oh Laura, la vez primera | Que te enseñas a matar.»",
                   "autor": "Lope",
                   "referencia_obra": ", Pobreza no es vileza, 3. 10 (R. 52. 2502)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con un compl. circunst. con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Enséñanse los barberos | En los frailes a rapar.»",
                   "autor": "Lope",
                   "referencia_obra": ", Amar sin saber a quién, 2. 4 (R. 34. 4512)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -841,178 +1085,241 @@
     {
       "id": "b)",
       "definicion": "En particular, Transmitir conocimientos de orden científico o artístico (trans.). Puede decirse, por ejemplo, de un libro, pero muy especialmente de un profesor o maestro respecto a sus discípulos.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Siendo acus. el conocimiento transmitido. +",
+          "definicion": "Siendo acus. el conocimiento transmitido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Dijeron y enseñaron [algunos sabios de la antigüedad] muy mayores cosas por señas que no otros por palabras.»",
               "autor": "Guev.",
-              "referencia_obra": "Oratorio, 20 (p. 572). +"
+              "referencia_obra": "Oratorio, 20 (p. 572)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Doy os por consejo que, cuando viéredes predicar a los fariseos y viéredes enseñar la ley a los escribanos, hagáis todo lo que ellos os dijeren.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 44 (p. 690). +"
+              "referencia_obra": "Id. ib. 44 (p. 690)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Las sagradas letras llaman al maestro padre, como a Tubal porque enseñaba la música.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 1 (R. 25. 101). x"
+              "referencia_obra": "Emp. 1 (R. 25. 101)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Su hermano don Saturnino ha continuado por largos años estudiando por vocación las matemáticas, enseñándolas por necesidad.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Provincia, p. 116. x"
+              "referencia_obra": ", Recuerdos de Provincia, p. 116."
             },
             {
+              "marca": "X",
               "texto_cita": "«Interesante facultad accesoria de la sabiduría en determinado género de ciencia, es el don de enseñarla.»",
               "autor": "Rodó",
-              "referencia_obra": ", Motivos de Proteo, p. 216. x"
+              "referencia_obra": ", Motivos de Proteo, p. 216."
             },
             {
+              "marca": "X",
               "texto_cita": "«Gorgias ha enseñado, en la ciudad que fue su cuna, nueva filosofía.»",
               "autor": "",
-              "referencia_obra": "Id. ib. p. 237. x"
+              "referencia_obra": "Id. ib. p. 237."
             },
             {
+              "marca": "X",
               "texto_cita": "«Son éstas las que enseñan la doctrina —contestó el de la gorra—; de vez en cuando regalan sábanas y camisas a las mujeres y a los hombres.»",
               "autor": "Baroja",
-              "referencia_obra": ", La busca, 2. 3 (p. 76). x"
+              "referencia_obra": ", La busca, 2. 3 (p. 76)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entonces debiera examinarse previamente si en Colombia no hay persona capaz de enseñar la materia.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 185). x"
+              "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 185)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿O es que crees que sólo los libros que hablan de lo que hay dentro del cuerpo, esos libros tuyos con esas láminas feas, son los que enseñan la verdad?»",
               "autor": "Unamuno",
-              "referencia_obra": ", Abel Sánchez, 27 (p. 113). x"
+              "referencia_obra": ", Abel Sánchez, 27 (p. 113)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se representaron a mi sImplicidad como términos de nigromancia, que enseñaba aquel sacristán en la encantada --- cueva de Salamanca.»",
               "autor": "Azorín",
-              "referencia_obra": ", Riofrío, 8 (p. 126). x"
+              "referencia_obra": ", Riofrío, 8 (p. 126)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Dos veces fue acusado José Celestino Mutis, a cuyo alrededor se agrupaba la juventud independiente de Nueva Granada, por enseñar el sistema de que la tierra se mueve alrededor del sol.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Estud. mesa redonda, 8 (p. 124)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Vi que Antonio de Lebrija, Manuel Alvarez y otros enseñaban a la juventud la gramática.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Rep. (R. 25. 3971). x"
+                  "referencia_obra": "Rep. (R. 25. 3971)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo tuve que enseñarle toda la lira: Verso por verso, los treinta y dos sonetos de Pietro Aretino. Aquel capullo blanco de niña desposada apenas sabía murmurar el primero.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de otoño, p. 38. x"
+                  "referencia_obra": ", Sonata de otoño, p. 38."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Manuel recordaba que el maestro de la escuela y organista del pueblo, un vejete medio dómine que enseñaba latín a los dos hermanos, aseguraba que Juan llegaría a ser algo.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca, 1. 2 (p. 35). x"
+                  "referencia_obra": ", La busca, 1. 2 (p. 35)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Don José, el presbítero, llevóme de la escuela a su lado, enseñóme el latín.»",
                   "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Provincia, p. 39. x"
+                  "referencia_obra": ", Recuerdos de Provincia, p. 39."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Era yo el ciudadano, y sabiendo la gramática castellana y comparando con ella la latina, me iba enseñando las diferencias.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 40. x"
+                  "referencia_obra": "Id. ib. p. 40."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Se había obstinado en casarse con una muchacha lindísima y blanca, a quien yo enseñaba el deletreo.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 45. x"
+                  "referencia_obra": "Id. ib. p. 45."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El clérigo Oro, al enseñarme el latín, que no sé, rne había dotado de una máquina sencilla de aprender idiomas, que he aplicado con suceso a los pocos que conozco.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. p. 126. x"
+                  "referencia_obra": "Id. ib. p. 126."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«No quería que su hija tratase con nadie. La llevó una maestra particular a casa, y él mismo, en ratos de ocio, le enseñaba algo.»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 19 (p. 85). x"
+                  "referencia_obra": ", Abel Sánchez, 19 (p. 85)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y de entre las cosas que aprendió con su sobrino y para enseñárselas, pocas le interesaron más que la geometría.»",
                   "autor": "",
-                  "referencia_obra": "Id. La tía Tula, 19 (p. 107). x"
+                  "referencia_obra": "Id. La tía Tula, 19 (p. 107)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Este griego [Aristóteles], manantial de toda filosofía, había sido otorgado a los hombres para enseñarles todo lo que se puede saber.»",
                   "autor": "Borges",
-                  "referencia_obra": ", La busca de Av. (El Aleph, p. 94). x"
+                  "referencia_obra": ", La busca de Av. (El Aleph, p. 94)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Se sabe usted los principales trayectos ferroviarios de España? --- Hoy empezaré a enseñárselos, señor.»",
                   "autor": "J. Poncela",
-                  "referencia_obra": ", Eloísa, 1 (p. 68). — Con en, para indicar el lugar. x"
-                },
+                  "referencia_obra": ", Eloísa, 1 (p. 68)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«¡El marqués de Bradomín aún se acuerda de cuando le enseñaba latín en el Monasterio de Sobrado!»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de invier. p. 97. x"
-                },
-                {
-                  "texto_cita": "«Alicia encuentra distracción en practicar lo que le enseñaron en el colegio.»",
-                  "autor": "Rivera",
-                  "referencia_obra": ", La vorágine, 1 (p. 47)."
+                  "id_limpio": "—",
+                  "definicion": "Con en, para indicar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡El marqués de Bradomín aún se acuerda de cuando le enseñaba latín en el Monasterio de Sobrado!»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de invier. p. 97."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Alicia encuentra distracción en practicar lo que le enseñaron en el colegio.»",
+                      "autor": "Rivera",
+                      "referencia_obra": ", La vorágine, 1 (p. 47)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con una prop. indicat. como compl. directo. x",
+              "definicion": "Con una prop. indicat. como compl. directo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los dos atestiguaron la ortodoxia de la Topographia christiana de Cosmas, que enseña que la tierra es cuadrangular, como el tabernáculo hebreo.»",
                   "autor": "Borges",
-                  "referencia_obra": ", Los teólogos (El Aleph, p. 42). — Con en, para indicar el lugar. x"
-                },
+                  "referencia_obra": ", Los teólogos (El Aleph, p. 42)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Perduró casi intacto el libro duodécimo de la Civitas Dei, que narra que Platón enseñó en Atenas que, al cabo de los siglos, todas las cosas recuperarán su estado anterior.»",
-                  "autor": "Borges",
-                  "referencia_obra": ", Los teólogos (El Aleph, p. 37)."
+                  "id_limpio": "—",
+                  "definicion": "Con en, para indicar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Perduró casi intacto el libro duodécimo de la Civitas Dei, que narra que Platón enseñó en Atenas que, al cabo de los siglos, todas las cosas recuperarán su estado anterior.»",
+                      "autor": "Borges",
+                      "referencia_obra": ", Los teólogos (El Aleph, p. 37)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Pas. refl. Con dat. de persona. +",
+              "definicion": "Pas. refl. Con dat. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Al hijo del caballero hánsele de enseñar con las letras juntamente virtudes.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 7 (Cl. C. 43. 109). x"
+                  "referencia_obra": ", Escud. 1. 7 (Cl. C. 43. 109)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Dios mismo, para ser Padre, se nos enseña que tuvo que ser Hijo, y para sentirse nacer como Padre bajó a morir como Hijo.»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Cómo se hace una novela, p. 174. — Con en, para indicar el lugar. x"
-                },
+                  "referencia_obra": ", Cómo se hace una novela, p. 174."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«La Edad Media se parapetaba en los numerosos claustros, y desde allí, lanzando sus guerrilleros calzados o descalzos, de blanco o de negro uniforme, traía turbadas las familias y las conciencias, espantadas como estaban de que en un colegio se enseñase francés.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Provincia, p. 78."
+                  "id_limpio": "—",
+                  "definicion": "Con en, para indicar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La Edad Media se parapetaba en los numerosos claustros, y desde allí, lanzando sus guerrilleros calzados o descalzos, de blanco o de negro uniforme, traía turbadas las familias y las conciencias, espantadas como estaban de que en un colegio se enseñase francés.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Recuerdos de Provincia, p. 78."
+                    }
+                  ]
                 }
               ]
             }
@@ -1022,66 +1329,98 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Siendo acus. la persona que recibe el conocimiento. En este caso hay que tener también en cuenta lo observado en α, β.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con una prop. infinit. precedida de a, para indicar el conocimiento transmitido.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La enseñaron a leer y escribir más que medianamente.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 4 (R. 1. 1452)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Esta necesidad de escribir obligó a la chacha Victoria a hacerse letrada. El amor fue su maestro de escuela, y le enseñó a trazar unos garrapatos anárquicos y misteriosos.»",
                   "autor": "Valera",
-                  "referencia_obra": ", Comend. Mendoza, P. 11. x"
+                  "referencia_obra": ", Comend. Mendoza, P. 11."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y con todas las penitencias no logró usted enseñarme a escribir, que es lo peor que pudo sucederme, mi querido señor don Cándido.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 1 (p. 114). x"
+                  "referencia_obra": ", Amalia, 1 (p. 114)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Era aquella la tierra de los molinos del Campo de Montiel, que conocía íntimamente a través de los caminos polvorientos de los libros que me enseñaron a amarla.»",
                   "autor": "Caballero Calderón",
-                  "referencia_obra": ", Ancha es Castilla, p. 8 — Con el sentido factitivo de Hacer que alguien reciba los conocimientos impartidos por otra persona. x"
-                },
+                  "referencia_obra": ", Ancha es Castilla, p. 8"
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Siempre he lamentado que mis padres no me enseñaran a bordar, pero los pobrecillos no veían más allá de sus narices.»",
-                  "autor": "J. Poncela",
-                  "referencia_obra": ", Eloísa, 1 (p. 69)."
+                  "id_limpio": "—",
+                  "definicion": "Con el sentido factitivo de Hacer que alguien reciba los conocimientos impartidos por otra persona.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Siempre he lamentado que mis padres no me enseñaran a bordar, pero los pobrecillos no veían más allá de sus narices.»",
+                      "autor": "J. Poncela",
+                      "referencia_obra": ", Eloísa, 1 (p. 69)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de seguida del sust. que indica la ciencia o arte. Pas. +",
+              "definicion": "Con de seguida del sust. que indica la ciencia o arte. Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Pytágoras ---, deseoso de aprender, fue a Egipto, e de allí a Babilonia, donde fue enseñado de astrología.»",
                   "autor": "Oviedo",
                   "referencia_obra": ", Quinquag. 1. 1 (1. 18)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Pas. refl. Con en, para indicar aquello acerca de lo cual se transmiten conocimientos.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En tu sabiduría se enseñaban | Los rústicos pastores.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Gal. 6 (R. 1. 842). — d d) Impers. refl. Nótese que la forma le puede interpretarse como acus., pero también como dat. (Se le enseñase [algo]). +"
-                },
+                  "referencia_obra": "Gal. 6 (R. 1. 842)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Me había entregado [el turco] su hijo para que se le enseñase.»",
-                  "autor": "Espinel",
-                  "referencia_obra": ", Escud. 2. 9 (Cl. C. 51. 71)."
+                  "id_limpio": "—",
+                  "definicion": "d d) Impers. refl. Nótese que la forma le puede interpretarse como acus., pero también como dat. (Se le enseñase [algo]).",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Me había entregado [el turco] su hijo para que se le enseñase.»",
+                      "autor": "Espinel",
+                      "referencia_obra": ", Escud. 2. 9 (Cl. C. 51. 71)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1089,97 +1428,120 @@
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«De allí podrá [el maestro] tomar lo que le pareciere más fácil y más acomodado a la capacidad del enseñado.»",
                   "autor": "Gran.",
                   "referencia_obra": "Modo de cateq. 7, § 1 (R. 8. 6071)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Part. adj. Docto, conocedor, sabedor. Con un compl. con en, para indicar la ciencia, arte, etc. +",
+              "definicion": "Part. adj. Docto, conocedor, sabedor. Con un compl. con en, para indicar la ciencia, arte, etc.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«El marqués dio desde Berja noticia al rey; pero a don Juan, poca y tarde: hombre preciado de las manos más que de la escriptura, o quería darlo a entender, seyendo enseñado en letras y estudioso.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Granad. 5 (p. 113)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Absol. Ejercer magisterio o función docente. x",
+          "definicion": "Absol. Ejercer magisterio o función docente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Toda persona competente debe ser admitida a enseñar.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Estud. mesa redonda, 1 (p. 19). x"
+              "referencia_obra": ", Estud. mesa redonda, 1 (p. 19)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sólo la muchacha ha mirado hacia el futuro; sólo ciertos maestros excepcionales, que han desdeñado formulismos de cartón y conservado en la cátedra el espíritu inquisitivo del estudiante: los que han sido libres: los pocos que estudiando han enseñado.»",
               "autor": "",
               "referencia_obra": "Id. ib. 5 (p. 81)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el modo. x",
+              "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No se trataba de un profesor competente y nada más, sino de un científico de primer orden, muy estimado en su patria y muy honrado por su gobierno. Enseñó y trabajó con mucho éxito y dejó empezados trabajos de grande aliento.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 282)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con en, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Doña Luisa de Medrano, que enseñaba en Salamanca, como después en Alcalá Francisca de Lebrija.»",
                   "autor": "Clem.",
-                  "referencia_obra": "Elog. de Is. la Cat. (Mem. Acad. Hist. 6. 48). x"
+                  "referencia_obra": "Elog. de Is. la Cat. (Mem. Acad. Hist. 6. 48)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«De manera que por eso se dijo muy bien que don Andrés nació en Venezuela, enseñó en Chile, y lo aprendieron en Colombia.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños de L. Pulgar, 1 (p. 166)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con para. x",
+              "definicion": "Con para.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ni aun se contenta Aristóteles con enseñar para la más noble raza del mundo: la férula de su enseñanza sobrevive a dioses que caducan en imperios que se desmoronan.»",
                   "autor": "Rodó",
                   "referencia_obra": ", Motivos de Proteo (p. 75)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con por. x",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Aquellos ciudadanos beneméritos, [los profesores de la Universidad] continuaban enseñando por patriotismo y sin remuneración alguna.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Recuerdos de Provincia, p. 168."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1188,159 +1550,219 @@
     {
       "id": "c)",
       "definicion": "Adoctrinar, preceptuar, dar normas de vida o conducta mediante el ejemplo o la palabra (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con acus. de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Serían incultas y fieras [las naciones] sin la comunicación de la navegación, con que se hacen comunes las lenguas, como lo enseñó la antigüedad, fingiendo que hablaba el timón de la nave Argo.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 68 (R. 25. 1862)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. de persona. +",
+              "definicion": "Con dat. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Criábalas [la madre a las hijas] muy honestamente, enseñándolas todas las cosas de virtud.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Fund. 20 (Cl. C. 115. 288)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pueden [los españoles], dijo el padre, enseñar cortesía a todas las naciones del mundo.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 2. 8 (R. 18. 4352)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Lo primero que ha de enseñar el maestro al príncipe es el temor de Dios.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 4 (R. 25. 182). +"
+                  "referencia_obra": "Emp. 4 (R. 25. 182)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«¡Cómo se echa de ver --- que no estás orientado en las máximas del gran mundo! Pero, pues me toca enseñártelas, has de saber que ---.»",
                   "autor": "Mesonero",
-                  "referencia_obra": ", Mis ratos perdidos, 1 (R. 199. 52). x"
+                  "referencia_obra": ", Mis ratos perdidos, 1 (R. 199. 52)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«A los dieciséis años de mi vida entré en la cárcel, y salí de ella con opiniones políticas, lo contrario de Silvio Pellico, a quien las prisiones enseñaron la moral de la resignación y del anonadamiento.»",
                   "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Provincia, p. 130. x"
+                  "referencia_obra": ", Recuerdos de Provincia, p. 130."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Esta espada es toda España; esta espada es toda el alma de la raza; esta espada nos enseña la entereza, el valor, la dignidad, el desdén por lo pequeño, la audacia, el sufrimiento silencioso, altanero.»",
                   "autor": "",
-                  "referencia_obra": "Azorin, Trasuntos de Esp. p. 76. x"
+                  "referencia_obra": "Azorin, Trasuntos de Esp. p. 76."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Me parece justo dar crédito más a este experimentado que a otro, sea quien fuere, que no lo sea. El Ilmo. Cano, así nos lo enseña.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", Riofrío, 8 (p. 142). x"
+                  "referencia_obra": ", Riofrío, 8 (p. 142)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Qué salaces depravaciones, qué voluptuosos refinamientos le habría enseñado!»",
                   "autor": "Rivera",
-                  "referencia_obra": ", La vorágine, 2 (p. 121). x"
+                  "referencia_obra": ", La vorágine, 2 (p. 121)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En la muerte viene pensando desde cuando el filósofo cordobés enseñaba en sus cartas el arte de morir y despreciar la muerte a su discípulo Lucilio.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 277."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con una prop. infinit. como compl. directo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«San Clemente enseña ofrecer el sacrificio de la misa por los que ya son muertos en el Señor.»",
                   "autor": "Rivad.",
-                  "referencia_obra": "Flos. SS. Comem. de los dif. (Vida de la Virgen, 406). — Con dat. de persona."
-                },
+                  "referencia_obra": "Flos. SS. Comem. de los dif. (Vida de la Virgen, 406)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Para esto sufrió --- para que Dios humillado enseñase al hombre no ser soberbio.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Símb. 3. 16 (R. 6. 4272)."
-                },
-                {
-                  "texto_cita": "«El Espíritu Santo, que enseñaba al Apóstol comenzar sus cartas declarando la memoria y el cuidado y amor que tenía a aquellos a quien escribía, enseñó a este su imitador y discípulo a hacer lo mismo.»",
-                  "autor": "",
-                  "referencia_obra": "Id. Vida de Áv., 2, § 4 (R. 11. 4552)."
-                },
-                {
-                  "texto_cita": "«Hubo quien impíamente enseñó a su príncipe disimular y fingir la religión.»",
-                  "autor": "Saav.",
-                  "referencia_obra": "Emp. 24 (R. 28. 662)."
-                },
-                {
-                  "texto_cita": "«Aunque la costumbre militar nos enseñe ser provechosas las razones del caudillo antes del acometimiento, yo no veo que ahora pueda ser necesario.»",
-                  "autor": "Melo",
-                  "referencia_obra": ", Guerra de Catal. 5 (R. 21. 5272)."
+                  "id_limpio": "—",
+                  "definicion": "Con dat. de persona.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Para esto sufrió --- para que Dios humillado enseñase al hombre no ser soberbio.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Símb. 3. 16 (R. 6. 4272)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«El Espíritu Santo, que enseñaba al Apóstol comenzar sus cartas declarando la memoria y el cuidado y amor que tenía a aquellos a quien escribía, enseñó a este su imitador y discípulo a hacer lo mismo.»",
+                      "autor": "",
+                      "referencia_obra": "Id. Vida de Áv., 2, § 4 (R. 11. 4552)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Hubo quien impíamente enseñó a su príncipe disimular y fingir la religión.»",
+                      "autor": "Saav.",
+                      "referencia_obra": "Emp. 24 (R. 28. 662)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Aunque la costumbre militar nos enseñe ser provechosas las razones del caudillo antes del acometimiento, yo no veo que ahora pueda ser necesario.»",
+                      "autor": "Melo",
+                      "referencia_obra": ", Guerra de Catal. 5 (R. 21. 5272)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con una prop. de relativo como compl. directo, y dat. de persona. +",
+              "definicion": "Con una prop. de relativo como compl. directo, y dat. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«A los hombres naturalmente libres el tiempo y la necesidad les enseña lo que han de hacer.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 2. 9 (Cl. C. 51. 69). — Nótese el loísmo del siguiente texto."
-                },
+                  "referencia_obra": ", Escud. 2. 9 (Cl. C. 51. 69)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No preguntaron a la boca del Señor, pidiendo que los enseñase lo que habían de hacer.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Epist. 4, Instrucc. para jueces (7. 242)."
+                  "id_limpio": "—",
+                  "definicion": "Nótese el loísmo del siguiente texto.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«No preguntaron a la boca del Señor, pidiendo que los enseñase lo que habían de hacer.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Epist. 4, Instrucc. para jueces (7. 242)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Siendo el acus. una prop. indic. x",
+              "definicion": "Siendo el acus. una prop. indic.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Un pensador italiano enseñó que para el buen éxito de los proyectos y de las empresas se deben asociar en uno la ocasión, el genio y la fortuna.»",
                   "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 139). — Con dat. de persona. +"
-                },
+                  "referencia_obra": ", Sueños de L. Pulgar, 2 (p. 139)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Se dice y afirma [en la Doctrina de religiosos] ser obligado el maestro del monesterio a enseñar a su discípulo que en el coro esté atento.»",
-                  "autor": "Guev.",
-                  "referencia_obra": "Oratorio, 7 (p. 501)."
-                },
-                {
-                  "texto_cita": "«Mario nos enseñó que los trofeos | Llevan a las prisiones.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Musa 2, serm. estoico (R. 69. 362) +"
-                },
-                {
-                  "texto_cita": "«¿No es bien enseñar | Al mundo con un ejemplo | Que el regio palacio es templo | Que al crimen se ha de cerrar?»",
-                  "autor": "Hartz.",
-                  "referencia_obra": "La jura de Santa Gadea, 2. 5 (Cl. C. 113. 181)."
+                  "id_limpio": "—",
+                  "definicion": "Con dat. de persona.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Se dice y afirma [en la Doctrina de religiosos] ser obligado el maestro del monesterio a enseñar a su discípulo que en el coro esté atento.»",
+                      "autor": "Guev.",
+                      "referencia_obra": "Oratorio, 7 (p. 501)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Mario nos enseñó que los trofeos | Llevan a las prisiones.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Musa 2, serm. estoico (R. 69. 362)"
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«¿No es bien enseñar | Al mundo con un ejemplo | Que el regio palacio es templo | Que al crimen se ha de cerrar?»",
+                      "autor": "Hartz.",
+                      "referencia_obra": "La jura de Santa Gadea, 2. 5 (Cl. C. 113. 181)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con una prop. interrogativa indirecta como compl. directo y dat. de persona. x",
+              "definicion": "Con una prop. interrogativa indirecta como compl. directo y dat. de persona.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La palabra de Kempis enseña a los confiados cómo el desprecio de la tentación es vanidad en los más justos.»",
                   "autor": "Rodó",
                   "referencia_obra": ", Motivos de Proteo, p. 50."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1348,90 +1770,125 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con acus. de persona.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y contra estos mozos que llama seminaristas, y los sacerdotes que salen dellos, y contra los padres de la compañía de Jesús que los gobiernan y enseñan, asesta sus tiros y máquinas.»",
               "autor": "Rivad.",
               "referencia_obra": "Cisma, 3. 19 (R. 60. 3262)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, para indicar la norma o aquello en que consiste la enseñanza.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Hasta aquí nos ha enseñado esta cananea de la manera que habemos de pedir.»",
                   "autor": "Gran.",
                   "referencia_obra": "Adic. al Mem. med. 12, § 3 (R. 8. 5382)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con a seguida de una prop. infinit., para indicar lo mismo que en el caso anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Véngase conmigo, que yo le enseñaré a ser caballero andante.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 60. (R. 1. 533 1)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Basta, al que empieza, aborrecer el vicio, | Y el ánimo enseñar a ser modesto.»",
                   "autor": "",
-                  "referencia_obra": "Epíst. moral (R. 32. 3882). +"
+                  "referencia_obra": "Epíst. moral (R. 32. 3882)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«¿Quién, sino el príncipe, podrá enseñar a su hijo a representar la majestad, conservar el decoro, mantener el respeto y gobernar los estados?»",
                   "autor": "",
-                  "referencia_obra": "Saav. Emp. 1 (R. 25. 101). +"
+                  "referencia_obra": "Saav. Emp. 1 (R. 25. 101)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Su madre, para enseñarle a ser liberal, le hacía distribuir diariamente, cuando era niño, algunos escudos de oro.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Prínc. de Viana (R. 19. 2481). +"
+                  "referencia_obra": "Prínc. de Viana (R. 19. 2481)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Dígote que eres incorregible, y desde ahora me relevo del encargo de enseñarte a vivir en el gran mundo.»",
                   "autor": "Mesonero",
-                  "referencia_obra": ", Mis ratos perdidos, 1 (R. 199. 72). x"
+                  "referencia_obra": ", Mis ratos perdidos, 1 (R. 199. 72)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«No, que me le envenenas con tus mañas, que le desapegas de mí, que le enseñas a despreciarme.»",
                   "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 37 (p. 146). x"
+                  "referencia_obra": ", Abel Sánchez, 37 (p. 146)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Te acuerdas cuando por las noches nos hacía rezar el rosario, cómo le cambiaba la voz al llegar a aquel padrenuestro y avemaría por el eterno descanso del alma de nuestra madre ---? En aquel rosario nos daba madre y en aquel rosario te enseñó a serlo.»",
                   "autor": "",
-                  "referencia_obra": "Id. La tía Tula, 5 (p. 45). x"
+                  "referencia_obra": "Id. La tía Tula, 5 (p. 45)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Por qué lloras, mamita? — pues habíale enseñado a llamarla así.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 10 (p. 70). x"
+                  "referencia_obra": "Id. ib. 10 (p. 70)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Amaste mucho todo lo que yo te enseñé a amar, y te sobrecogió la idea de seguir amando.»",
                   "autor": "Cela",
-                  "referencia_obra": ", Mrs. Caldwell, p. 62. — Absol."
+                  "referencia_obra": ", Mrs. Caldwell, p. 62."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Absol.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«La dulce primavera | Que agora alegre y verde | Enseña a amar el mundo, y animales, | Los hombres y mujeres.»",
+                      "autor": "Jáur.",
+                      "referencia_obra": "Aminta, 1 (R. 42. 1341)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Enseñaba con su ejemplo a ser indulgente con la desgracia.»",
+                      "autor": "Clem.",
+                      "referencia_obra": "Elog. de Is. la Cat. (Mem. Acad. Hist. 6. 23)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«La dulce primavera | Que agora alegre y verde | Enseña a amar el mundo, y animales, | Los hombres y mujeres.»",
-                  "autor": "Jáur.",
-                  "referencia_obra": "Aminta, 1 (R. 42. 1341)."
-                },
-                {
-                  "texto_cita": "«Enseñaba con su ejemplo a ser indulgente con la desgracia.»",
-                  "autor": "Clem.",
-                  "referencia_obra": "Elog. de Is. la Cat. (Mem. Acad. Hist. 6. 23). — En el siguiente texto lleva además un compl. circunst. con en."
-                },
-                {
-                  "texto_cita": "«Existe un precepto que enseña en la formación de tales composiciones a no apartarse nunca de lo que es verisímil.»",
-                  "autor": "Mor.",
-                  "referencia_obra": "Obr. póst. 2, p. 78."
+                  "id_limpio": "—",
+                  "definicion": "En el siguiente texto lleva además un compl. circunst. con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Existe un precepto que enseña en la formación de tales composiciones a no apartarse nunca de lo que es verisímil.»",
+                      "autor": "Mor.",
+                      "referencia_obra": "Obr. póst. 2, p. 78."
+                    }
+                  ]
                 }
               ]
             },
@@ -1439,16 +1896,28 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Pas. Con en, para indicar aquello en que se centra la enseñanza.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con este intento procuré fueses enseñado desde tu primera edad en costumbres reales.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 15. 16 (R. 30. 4531). — Con a seguida de infinitivo. +"
-                },
+                  "referencia_obra": ", Hist. Esp. 15. 16 (R. 30. 4531)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Yo recibo merced en ser enseñado a salir de pecado con el ejemplo de los mancebos pecadores.»",
-                  "autor": "J. de Pineda",
-                  "referencia_obra": ", Agr. crist. 6. 18 (R. 162. 381)."
+                  "id_limpio": "—",
+                  "definicion": "Con a seguida de infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Yo recibo merced en ser enseñado a salir de pecado con el ejemplo de los mancebos pecadores.»",
+                      "autor": "J. de Pineda",
+                      "referencia_obra": ", Agr. crist. 6. 18 (R. 162. 381)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1456,31 +1925,60 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con ser el más noble, era también el más enseñado de toda su gente.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Símb. 2. 23, § 1 (R. 6. 3462). — Con a seguida de una prop. infinit."
+                  "referencia_obra": "Símb. 2. 23, § 1 (R. 6. 3462)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con a seguida de una prop. infinit.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Tenía Clotaldo un hijo llamado Ricaredo, de edad de doce años, enseñado de sus padres a amar y temer a Dios.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Nov. 4 (R. 1. 1451)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Los acomete, enseñado | A no volver paso atrás.»",
+                      "autor": "G. de Castro",
+                      "referencia_obra": ", Las mocedades del Cid, 1ª pte. 3 (R. 43. 2523)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Tenía Clotaldo un hijo llamado Ricaredo, de edad de doce años, enseñado de sus padres a amar y temer a Dios.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Nov. 4 (R. 1. 1451)."
+                  "id_limpio": "—",
+                  "definicion": "Con de + infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Desapareció el ángel, y el santo quedó muy consolado y enseñado de reverenciar y no juzgar los juicios secretos del Señor.»",
+                      "autor": "Rivad.",
+                      "referencia_obra": "Trib. 2. 3 (R. 60. 4162)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Los acomete, enseñado | A no volver paso atrás.»",
-                  "autor": "G. de Castro",
-                  "referencia_obra": ", Las mocedades del Cid, 1ª pte. 3 (R. 43. 2523). — Con de + infinitivo. +"
-                },
-                {
-                  "texto_cita": "«Desapareció el ángel, y el santo quedó muy consolado y enseñado de reverenciar y no juzgar los juicios secretos del Señor.»",
-                  "autor": "Rivad.",
-                  "referencia_obra": "Trib. 2. 3 (R. 60. 4162). — Con en e infinitivo. +"
-                },
-                {
-                  "texto_cita": "«Creo que el que, tratando con esta intención, lo tratare, que aprovechará a sí y a los que le oyeren, y saldrá más enseñado ansí en entender como enseñar a sus amigos.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Vida, 7 (R. 53. 372). —"
+                  "id_limpio": "—",
+                  "definicion": "Con en e infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Creo que el que, tratando con esta intención, lo tratare, que aprovechará a sí y a los que le oyeren, y saldrá más enseñado ansí en entender como enseñar a sus amigos.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Vida, 7 (R. 53. 372)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1489,31 +1987,38 @@
         {
           "id_marcador_html": "- γ )",
           "id_limpio": "- γ )",
-          "definicion": "Absol. +",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Quien hiciere y enseñare será grande en el Reino de los Cielos.»",
               "autor": "J. de Pineda",
               "referencia_obra": ", Agr. crist. 8. 26 (R. 162. 2032)."
             },
             {
+              "marca": "",
               "texto_cita": "«Otro libro tengo también, a quien he de llamar Metamorfóseos o Ovidio español --- con sus alegorías, metáforas y traslaciones, de modo que alegran, suspenden y enseñan a un mismo punto.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 22 (R. 1. 4501)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el instrumento. +",
+              "definicion": "Con la prep. con, para indicar el instrumento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Acuérdate de ser sieruo con tus sieruos, y dar tal exemplo al pueblo en todas tus cosas, que más enseñes con las obras que con las palabras.»",
                   "autor": "Oviedo",
                   "referencia_obra": ", Quinquag. 1. 18 (1. 213)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1522,81 +2027,122 @@
     {
       "id": "d)",
       "definicion": "Acostumbrar, habituar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Aplicado a personas. Suele llevar un compl. con a, para indicar el objeto de la costumbre o hábito.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Muchos bárbaros | Que enseñaron el vulgo a sus rudezas.»",
               "autor": "Lope",
               "referencia_obra": ", Arte nuevo (Obr. suelt. 4. 406)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Refl. Con a + infinitivo. +",
+              "definicion": "Refl. Con a + infinitivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Por la mar anduve dos años por me avezar a pescar ---, y en Atenas residí ocho por me enseñar a callar.»",
                   "autor": "Guev.",
-                  "referencia_obra": "Oratorio, 21 (p. 579). +"
+                  "referencia_obra": "Oratorio, 21 (p. 579)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Los hidalgos tan honrados y bien nacidos como yo, no se han de enseñar a ser glotones.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 1. 8 (Cl. C. 43. 126)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Part. x",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo vine mal enseñado a este lugar: estaba acostumbrado a conferenciar con toda casta de gente.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", Riofrío, 8 (p. 114). — Con a. +"
+                  "referencia_obra": ", Riofrío, 8 (p. 114)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con a.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Pasados los cuarenta alegres días | En que de su presencia regalada | Gozarán las devotas compañías | De su escuela a trabajos enseñada ---.»",
+                      "autor": "Hojeda",
+                      "referencia_obra": ", Crist. 10 (R. 17. 4791)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Lucinda, que sayal viste, | De aquesta seda se agrada; | Y estotra a seda enseñada | Quiere sayal pardo y triste.»",
+                      "autor": "Lope",
+                      "referencia_obra": ", Los embustes de Celauro, 3. 8 (R. 24. 1062)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Los nuestros, enseñados a mayores intentos, se fueron acercando en buena orden hasta ponerse en paraje de ofender y ser ofendidos.»",
+                      "autor": "Solís",
+                      "referencia_obra": ", Conq. de Méj. 1. 6 (R. 28. 2131)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«No acababan ellos de creer su libertad, enseñados al rigor con que solían tratar a sus prisioneros.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 3 (R. 28. 2751)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Pasados los cuarenta alegres días | En que de su presencia regalada | Gozarán las devotas compañías | De su escuela a trabajos enseñada ---.»",
-                  "autor": "Hojeda",
-                  "referencia_obra": ", Crist. 10 (R. 17. 4791)."
+                  "id_limpio": "—",
+                  "definicion": "Con a + infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Tú, enseñado a escuchar humanos ruegos | Y a ser común defensa de los hombres, | Serás de todos ellos invocado.»",
+                      "autor": "L. Argens.",
+                      "referencia_obra": "canc. En estas santas (R. 42. 2811)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Contrarios más valerosos | Está [Rodrigo] enseñado a vencer | Que esos vasallos de Alfonso.»",
+                      "autor": "Hartz.",
+                      "referencia_obra": "La jura de Santa Gadea, 3. 8 (Cl. C. 113. 225)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Lucinda, que sayal viste, | De aquesta seda se agrada; | Y estotra a seda enseñada | Quiere sayal pardo y triste.»",
-                  "autor": "Lope",
-                  "referencia_obra": ", Los embustes de Celauro, 3. 8 (R. 24. 1062). +"
-                },
-                {
-                  "texto_cita": "«Los nuestros, enseñados a mayores intentos, se fueron acercando en buena orden hasta ponerse en paraje de ofender y ser ofendidos.»",
-                  "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 1. 6 (R. 28. 2131)."
-                },
-                {
-                  "texto_cita": "«No acababan ellos de creer su libertad, enseñados al rigor con que solían tratar a sus prisioneros.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 3 (R. 28. 2751). — Con a + infinitivo."
-                },
-                {
-                  "texto_cita": "«Tú, enseñado a escuchar humanos ruegos | Y a ser común defensa de los hombres, | Serás de todos ellos invocado.»",
-                  "autor": "L. Argens.",
-                  "referencia_obra": "canc. En estas santas (R. 42. 2811). +"
-                },
-                {
-                  "texto_cita": "«Contrarios más valerosos | Está [Rodrigo] enseñado a vencer | Que esos vasallos de Alfonso.»",
-                  "autor": "Hartz.",
-                  "referencia_obra": "La jura de Santa Gadea, 3. 8 (Cl. C. 113. 225). — met. Con a + infinitivo."
-                },
-                {
-                  "texto_cita": "«Ese alfanje tan teñido, | Ya enseñado a verter sangre cristiana, | Será más diestro a derramar la mía.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Pelayo, 4. 5 (R. 19. 702)."
+                  "id_limpio": "—",
+                  "definicion": "met. Con a + infinitivo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ese alfanje tan teñido, | Ya enseñado a verter sangre cristiana, | Será más diestro a derramar la mía.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Pelayo, 4. 5 (R. 19. 702)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1605,31 +2151,38 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Aplicado a animales, Amaestrar. x",
+          "definicion": "Aplicado a animales, Amaestrar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Antes de venir al Palacio, dónde estabas? — Servía en la casa de don Juan Manuel. — ¿Y qué hacías allí? — Allí enseñaba al hurón.»",
               "autor": "Valle-Inclán",
-              "referencia_obra": ", Sonata de otoño, p. 29. x"
+              "referencia_obra": ", Sonata de otoño, p. 29."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Qué es más honroso, enseñar hurones o mirlos?»",
               "autor": "",
               "referencia_obra": "Id. ib. p. 30."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part. Con a + infinitivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por allí vino, dirigiendo el fogozo alazán, enseñado a pararse bajo mis balcones.»",
                   "autor": "",
                   "referencia_obra": "Hartz. Los amantes de Teruel, 3. 1 (14; Cl. C. 113. 89)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1638,12 +2191,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. (Nótense las variantes ensennar, enseniar, ensenyar, ensinnar.) Siglo XV: + «Las quales [cosas], si a tus oreias muy enseñadas traen deletaçión, no creeré que, cuando algund muy letrado las lea, le suenen mal.» Pal. Bat. campal, desped. de la obra (102). + «Porque siempre tove en estima de muy grand don façerme más enseñado por correçión amigable del sabio.» Id. ib. (102). + «Dolíase de los dos compañeros perdidos en la pelea, mucho más de Rangasio, porque en todas cosas era bien enseñado.» Id. ib. 28 (82). + «No somos nós los de España tan enseñados en fablar como vosotros los italianos.» Id. ib. 27 (79). + «Los enseñados en guerra solían comparar i ygualar las fuerças que en las pruevas de iuegos se ponían.» Id. ib. 22 (70). + «La manera convenible para alcançar gloria, él solo era quien lo podía dezir, como guerrero en estas cosas bien enseñado.» Id. ib. 10 (36). + «Cualquier dicho de los más prudentes y más enseñados reprehenden.» Id. ib. 3 (18). + «E Diana me depara | En todo tiempo venados | --- | E çentauros et sátyros, | Que m’enseñen los collados.» Santill, p. 386. + «¿Quién los diversos linajes | De canes bien enseñados, | Quién los montes elevados | --- | Que allí vi recontaría?» Id. p. 356. + «Ocurre en este passo al autor un dicho que acostunbraba a dezir un honbre bien enseñado, conviene a saber ---.» Crón. Álv. de Luna, 103 (307).\n\n— Siglo XIV: «El que ensennar quisiere, aunque ensenne verdat, | Si lo fase con soberuia, orgullo es e maldat.» Rim. de Pal. 1181 (R. 57. 4641). «Sy ellos [los sabios] non ensennaran, | Deçiplos non vuiera.» Sem Tob, 557 (R. 57. 3662). «Sy nos lo tú ensennases [a Plácidas], nós te daríamos grant merçed.» Plácidas (143). «E el pobre era ensennado e sabio.» Buenos proverbios (Knust, 38). «Los gentiles amostravan a sus fijos la sapiencia e la philosophía e todas las artes, e ensennávanles todo buen ensennamiento.» Ib. (Knust, 8).\n\n— Siglo XIII: «Por la compañía que han con buenos, salen muy enseñados e muy corteses.» Cast. e docum. 73 (R. 51. 2022). «E debes mandar a tus ciubdadanos que enseñen a los sus fijos sciencias e letras.» Ib. 59 (R. 51. 1872). «Son castigos que te face el tu padre celestial para la tu alma, e yo te los enseño por él.» Ib. 1 (R. 51. 872). + «Josué e toda su huest con éll, como los teníe éll ensennados, començaron a fazer como que fuýen.» Alf. X, Gen. estoria, 2ª pte. 1 (Josué, XXV, p. 43). «Diol’ a enseñar al judío estrellero de que deximos ya. E el judío enseñól’ ya estonces en las sciençias naturales.» Crón. gen. 2. 39 (1741). «E en quanto él visco, siempre fue enseñado e piadoso.» Ib. 1. 115 (871). «Les enseña [el ayo] lo que han a deprender.» Part. 2. 20. 1 (2. 190). «Ca tienen logar de nuestro senior Jesu Cristo en tierra en guardar la fe et enseniarla.» Ib. 1. 3, * 2 (1. 43). «Estoz el acreedor ensenne el penno al sennor.» Fuero Juzgo, 5. 6. 3 (93). «El facedor de las leyes en esto abrá mayor gloria de todos, si ensennar cuemo deven seer guardadas las leyes.» Ib. 1. 1. 9 (4; *ensinar). «Sabes onrrar los buenos cornmo bien ensennada.» Berc. Mil. 908 (R. 57. 1312). «Ca bien ge lo entiendo, que es mal ensennado.» Id. S. Dom. 161 (R. 57. 451). «De pequenya fue bautizada; | Malamientre fue ensenyada.» S. M. Egipc. (R. 57. 3072). «Seas a él bien ensennado.» Boc. de oro, 6 (Knust, 119). «Quanto ennas mannas era bien ensinnada.» Alex. 353 (R. 57. 1582). «Que me ensennaste las VII artes a entender.» Ib. 37 (R. 57. 1482).\n\n— Siglo XII: «Los fieles e el rey ensennaron los moiones.» Cid, 3604 (R. 57. 362). «Digamos que las leuaremos a tierras de Carrión: | Ensennar-las hemos dó las heredades son.» Ib. 2545 (R. 57. 281).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. insignare ‘marcar, designar’, derivado de signum ‘signo, señal’, y que en lat. vulg. sustituyó al clás. insignire. En su paso al romance, muy tempranamente debió de invadir el campo semántico de doceo ‘enseñar, instruir’, significado que ofrecen todos sus resultados románicos excepto el rum. Rum. însemnà, it. insegnare, fr. enseigner, prov. ensenhar, cat. ensenyar, port. y gall. ensinar.",
+  "etimologia": "Etim. Del lat. <i>insignare </i>‘marcar, designar’, derivado de <i>signum </i>‘signo, señal’, y que en lat. vulg. sustituyó al clás. <i>insignire. </i>En su paso al romance, muy tempranamente debió de invadir el campo semántico de <i>doceo </i>‘enseñar, instruir’, significado que ofrecen todos sus resultados románicos excepto el rum<i>. </i>Rum.<i> însemnà, </i>it. <i>insegnare, </i>fr. <i>enseigner</i>, prov.<i> ensenhar, </i>cat. <i>ensenyar, </i>port. y gall. <i>ensinar.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Refl.: 1, a, β - 2, α, γ - 2, δ, α, α α.\n\n— Pas. refl.: 2, a, α, α α - 2, b, α, γ γ - 2, b, β, γ γ.\n\n— Pas.: 2, a, β, α α - 2, b, β, β β - 2, c, β, γ γ.\n\n— Impers. refl.: 2, b, β, δ δ.\n\n— Absol.: 2, a, β, α α - 2, b, γ - 2, χ, β, β β - 2, c, γ.\n\n— Pαρτ.: 2, a, α, γ γ - 2, b, β, ε ε - 2, c, β, δ δ - 2, d, α, β β - 2, d, β, α α. .\n\n— Part. adj.: 2, b, β, ζ ζ.\n\n— Con infinitivo: 1, c, β, α α - 2, a, α, α α - 2, c, α, β β.\n\n— Con una prop. indicat.: 1, c, β, γ γ - 2, a, α, α α - 2, b, α, β β - 2, c, α, δ δ.\n\n— Con un predicado nominal: 1, a, β, β β.\n\n— Con acus. de persona: 2, a, β - 2, β, β - 2, χ, β - 2, δ, α.\n\n— Cον αχυσ. δε χοσα: 2, α, α - 2, β, α - 2, χ, α.\n\n— Sιενδο αχυσ. υνα προπ. δε ρελατιvο: 2, α, α, α α - 2, c, α, γ γ.\n\n— Con una prop. interrogat. como acus.: 2 c, α, ε ε.\n\n— Con dat. de persona: 1, a, α, α α - 1, a, β, α α - 1, c, α, β β - 1, c, β, γ γ - 2, a, α, α α - 2, b, α, α α - 2, b, α, γ γ - 2, c, α, α α - 2, c, α, β β - 2, c, α, γ γ - 2, c, α, δ δ - 2, c, α, ε ε.\n\n— Con dat. de cosa: 2, a, α, β β.\n\n— Con a: 2, d, α - 2, δ, α, β β.\n\n— Con a + infinitivo: 2, a, β, β β - 2, a, γ, α α - 2, b, β, α α - 2, c, β, β β - 2, c, β, γ γ - 2, c, β, δ δ - 2, d, α, α α - 2, d, α, β β - 2, d, β, α α.\n\n— Con la prep. con: 1, a, α, β β - 2, b, γ, α α - 2, c, γ, α α.\n\n— Con de: 2, a, β, α α - 2, b, β, β β - 2, c, β, α α.\n\n— Con en: 1, c, α, α α - 2, a, γ, β β - 2, b, α, α α - 2, b, α, β β - 2, b, α, γ γ - 2, b, β, γ γ - 2, b, β, ζ ζ - 2, b, γ, β β - 2, c, β, β β - 2, c, β, γ γ - 2, c, β, δ δ.\n\n— Con para: 2, b, γ, γ γ.\n\n— Con por: 2, b, γ, δ δ.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Refl.: 1, a, β - 2, α, γ - 2, δ, α, α α.\n\n— Pas. refl.: 2, a, α, α α - 2, b, α, γ γ - 2, b, β, γ γ.\n\n— Pas.: 2, a, β, α α - 2, b, β, β β - 2, c, β, γ γ.\n\n— Impers. refl.: 2, b, β, δ δ.\n\n— Absol.: 2, a, β, α α - 2, b, γ - 2, χ, β, β β - 2, c, γ.\n\n— Pαρτ.: 2, a, α, γ γ - 2, b, β, ε ε - 2, c, β, δ δ - 2, d, α, β β - 2, d, β, α α. .\n\n— Part. adj.: 2, b, β, ζ ζ.\n\n— Con infinitivo: 1, c, β, α α - 2, a, α, α α - 2, c, α, β β.\n\n— Con una prop. indicat.: 1, c, β, γ γ - 2, a, α, α α - 2, b, α, β β - 2, c, α, δ δ.\n\n— Con un predicado nominal: 1, a, β, β β.\n\n— Con acus. de persona: 2, a, β - 2, β, β - 2, χ, β - 2, δ, α.\n\n— Cον αχυσ. δε χοσα: 2, α, α - 2, β, α - 2, χ, α.\n\n— Sιενδο αχυσ. υνα προπ. δε ρελατιvο: 2, α, α, α α - 2, c, α, γ γ.\n\n— Con una prop. interrogat. como acus.: 2 c, α, ε ε.\n\n— Con dat. de persona: 1, a, α, α α - 1, a, β, α α - 1, c, α, β β - 1, c, β, γ γ - 2, a, α, α α - 2, b, α, α α - 2, b, α, γ γ - 2, c, α, α α - 2, c, α, β β - 2, c, α, γ γ - 2, c, α, δ δ - 2, c, α, ε ε.\n\n— Con dat. de cosa: 2, a, α, β β.\n\n— Con a: 2, d, α - 2, δ, α, β β.\n\n— Con a + infinitivo: 2, a, β, β β - 2, a, γ, α α - 2, b, β, α α - 2, c, β, β β - 2, c, β, γ γ - 2, c, β, δ δ - 2, d, α, α α - 2, d, α, β β - 2, d, β, α α.\n\n— Con la prep. con: 1, a, α, β β - 2, b, γ, α α - 2, c, γ, α α.\n\n— Con de: 2, a, β, α α - 2, b, β, β β - 2, c, β, α α.\n\n— Con en: 1, c, α, α α - 2, a, γ, β β - 2, b, α, α α - 2, b, α, β β - 2, b, α, γ γ - 2, b, β, γ γ - 2, b, β, ζ ζ - 2, b, γ, β β - 2, c, β, β β - 2, c, β, γ γ - 2, c, β, δ δ.\n\n— Con para: 2, b, γ, γ γ.\n\n— Con por: 2, b, γ, δ δ.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

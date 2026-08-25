@@ -1,82 +1,101 @@
 {
   "lema": "ENCARAR.",
   "categoria_gramatical": "v",
-  "introduccion": "v.\n\nLas acepciones se reparten según que se dé predominio a las siguientes ideas:\n\n— 1, idea de posición de un ser respecto a otro;\n\n— 2, idea de oposición o lucha;\n\n— 3, idea de mirada;\n\n— 4, idea de dirección.",
+  "introduccion": "Las acepciones se reparten según que se dé predominio a las siguientes ideas:\n\n— 1, idea de posición de un ser respecto a otro;\n\n— 2, idea de oposición o lucha;\n\n— 3, idea de mirada;\n\n— 4, idea de dirección.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Poner cara a cara (trans.). Se aplica propiamente a las personas, pero, por extensión, también a los animales y cosas.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con la prep. con seguida del sust. que indica el oponente. +",
+          "definicion": "Con la prep. con seguida del sust. que indica el oponente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Me temo que la justicia | Nos encare con la ley.»",
               "autor": "Zorrilla",
-              "referencia_obra": ", leyenda 5 (p. 336). x"
+              "referencia_obra": ", leyenda 5 (p. 336)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Oh!, no, María Luisa: ven a mí... (La toma del brazo y la encara con El Padre y con Gallardo).»",
               "autor": "",
               "referencia_obra": "J. Calvo Sotelo, Plaza Oriente, p. 59."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. Colocarse alguien delante de una persona o cosa, dándole el frente. Con las prep. a o con. +",
+          "definicion": "Refl. Colocarse alguien delante de una persona o cosa, dándole el frente. Con las prep. a o con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Llegó el caballero incógnito | --- | Y con el rey encarándose, | Del infante don Favila | Mostró el severo semblante.»",
               "autor": "Zorrilla",
               "referencia_obra": ", leyenda 2 (p. 57)."
             },
             {
+              "marca": "",
               "texto_cita": "«(Al salir [Leoncia] se encara con don Teodoro.) ¡Hola!... ¡Que sea norabuena! | ¿Tanto bueno por mi casa | Sin saberlo yo?»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", La niña en casa, 2. 5 (3. 94)."
             },
             {
+              "marca": "",
               "texto_cita": "«Encaróse | --- | Con Mudarra, del seno separóle, | Poniéndole ambas manos en los hombros.»",
               "autor": "A. Saav.",
               "referencia_obra": "Aforo expós. 7 (2. 247; R. 100. 1922)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se arroja de rodillas en la tierra, | Donde yacen de Gala los despojos, | Y, encarado a la cruz de toscas ramas, | Al cielo acude con fervientes votos.»",
                   "autor": "A. Saav.",
                   "referencia_obra": "Moro expós. 12 (4. 427; R. 100. 2612)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "met. En el siguiente pasaje equivale a Igualarse, compararse.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Nuestro Lope, nuestro Tirso, Alarcón, Moreto, Rojas y Calderón sobre todo, pueden encararse muy bien con Sófocles y Euripides, Plauto y Terencio, sin necesidad de bajar los ojos: nuestro teatro vale tanto como el suyo, y, no es hijo del suyo.»",
                   "autor": "Hartz.",
                   "referencia_obra": "(R. 7. VI)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -85,68 +104,84 @@
     {
       "id": "b)",
       "definicion": "Refl. Encontrarse de frente dos personas o grupos de ellas, cuando marchan en dirección contraria.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con la prep. con. X",
+          "definicion": "Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Más adelante el chico se atreve a sonreirse siempre que se encara con el amo de su madre.»",
               "autor": "Pereda",
               "referencia_obra": ", Obras (ed. 1884-1906), t. 2, p. 196."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Part. +",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Un mancebo de buen talle | Y resuelto continente | Con otro dio, que volviendo | La esquina del otro lado | Con él se quedó encarado.»",
                   "autor": "Zorrilla",
                   "referencia_obra": ", leyenda 4 (p. 178)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Recípr. +",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Una vieja de Rota se encontró en un camino con uno del Puerto, que venía cantando el romance del Gran Capitán, y ambos se encararon en el momento que el del Puerto cantaba ---.»",
               "autor": "Fern.",
-              "referencia_obra": "Caball. ¡Pobre Dolores!, 1 (R. 137. 3911). x"
+              "referencia_obra": "Caball. ¡Pobre Dolores!, 1 (R. 137. 3911)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ambos, al encararse, quedaron cual dos estatuas fríos e inmóviles.»",
               "autor": "",
               "referencia_obra": "Id. Elia, p. 378."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Intrans. Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Yo, como iba entregado al vino y había renunciado en su poder mis sentidos, no advertí al riesgo que me ponía. Llegamos a la calle de la Mar, donde encaró con nosotros la ronda. No bien la columbraron, cuando sacando las espadas la embistimos.»",
               "autor": "Quev.",
-              "referencia_obra": "Gran Tac. 23 (R. 23. 5272). x"
+              "referencia_obra": "Gran Tac. 23 (R. 23. 5272)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ibero ---, al entrar al comedero, encaró de sopetón con Clavería.»",
               "autor": "P. Galdós",
               "referencia_obra": ", Tristes destinos, p. 243."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -154,80 +189,108 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
-      "definicion": "Refl. Hacer frente, ir contra algo o alguien. El sust. que indica el oponente o contrario va precedido de a o con. x",
+      "definicion": "Refl. Hacer frente, ir contra algo o alguien. El sust. que indica el oponente o contrario va precedido de a o con.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Encararse da idea casi siempre de actitud agresiva, que es en ocasiones ponerse en actitud de acometer.»",
           "autor": "",
           "referencia_obra": "R. Restrepo, Apunt. idiomát. P. 219."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y ya los verdugos rigurosos | --- | Dos azotes alzaban espantosos | --- | Mostrábanlos alegres y furiosos | En los brazos blandiéndolos derechos, | Y a la bendita carne amenazaban, | Y a los divinos rniembros se encaraban.»",
               "autor": "Hojeda",
               "referencia_obra": ", Crist. 3 (R. 17.4622)."
             },
             {
+              "marca": "",
               "texto_cita": "«Allí a nosotros con inútil ceño | Los etneos hermanos se encaraban.»",
               "autor": "T. Iriarte",
-              "referencia_obra": ", Eneida, 33 (3. 247). +"
+              "referencia_obra": ", Eneida, 33 (3. 247)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Dan citas al toro, | Mas él se hace el sueco: | ¡Qué lluvia de coces! ¡Qué gran moqueteo! | Al fin se retrae, | Los deja por muertos, | Se encara a las capas | Y parte tras ellos.»",
               "autor": "",
               "referencia_obra": "Estébanez, Escenas andaluzas (R. 78. 2301)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. de persona y ablat. instrumental con la prep. con. x",
+              "definicion": "Con dat. de persona y ablat. instrumental con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se le encaró con un puñal.»",
                   "autor": "",
                   "referencia_obra": "R. Restrepo, Apunt. idiomát. p. 219."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Intrans. Con la prep. contra.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Acosado me tienen [los toros], | Y contra mí encarando, | Abren su boca cual león bramando.»",
                   "autor": "León",
                   "referencia_obra": ", Poes. 3, Salmo 21 (4. 562)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Encarada la más refinada cultura con la ferocidad de la barbarie, la energía de los robustos hijos de las selvas con la muelle afeminación de los pueblos del mediodía, el resultado de la lucha no podía ser dudoso.»",
                   "autor": "Balmes",
-                  "referencia_obra": ", Protest. 39 (3. 36). — Recípr."
-                },
+                  "referencia_obra": ", Protest. 39 (3. 36)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Luego que se hallaron encarados el cristianismo y el paganismo, hízose palpable la superioridad de aquél.»",
-                  "autor": "Balmes",
-                  "referencia_obra": ", Protest. 14 (1. 209)."
+                  "id_limpio": "—",
+                  "definicion": "Recípr.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Luego que se hallaron encarados el cristianismo y el paganismo, hízose palpable la superioridad de aquél.»",
+                      "autor": "Balmes",
+                      "referencia_obra": ", Protest. 14 (1. 209)."
+                    }
+                  ]
                 }
               ]
             }
@@ -237,49 +300,69 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Enfrentarse a alguien para zaherirle o exponerle opiniones contrarias a las suyas; reñir, discutir, enfadarse.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Sobresaltado [el Toledanillo], soltóme luego en el suelo, y yo, encarándome a él, le dije: Pues qué, ¿pensaba el ladrón que había de cogerme el dinero?»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 2. 5 (R. 18. 4302; Cl. C. 51. 39)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con Eneas se encara al fin: ¿Delito | Tanto ocultar, oh pérfido, creíste!»",
                   "autor": "Maury",
-                  "referencia_obra": ", Dido (R. 67. 1791). +"
+                  "referencia_obra": ", Dido (R. 67. 1791)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«No parecía [Pepita] ya tímida gacela, sino iracunda leona. Pues qué —dijo encarándose de nuevo con el padre Vicario— ¿no hay más que burlarse de rní, destrozarme el corazón, humillármelo ---?»",
                   "autor": "Valera",
-                  "referencia_obra": ", Pepíta Jiménez, 2 (Cl. C. 80. 123). +"
+                  "referencia_obra": ", Pepíta Jiménez, 2 (Cl. C. 80. 123)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Un día en que todos manífestaban su mutuo descontento --- saltó la señora Aldonza, y, dando rienda suelta a su mal reprimido disgusto: No os canséis --- ¿Sus, paece chicos (añadió encarándose con los madrileños) que los mi mochachos, pa casarse, necesitan deprender toas esas estilaciones de la corte?»",
                   "autor": "Mesonero",
-                  "referencia_obra": ", Panor. Los paletos de Madrid (p. 277). +"
+                  "referencia_obra": ", Panor. Los paletos de Madrid (p. 277)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Doña Candelaria quiso decir varias cosas a la vez, pero no dijo ninguna; se volvió hacia su hermana, y habló con ella en voz baja. Pero Pío Cid, que tenía el oído finísimo, oyó algo, porque añadió encarándose con doña Candelaria ---.»",
                   "autor": "Ganiv.",
-                  "referencia_obra": "Pío Cid, 2 (1. 152). — Intrans."
-                },
+                  "referencia_obra": "Pío Cid, 2 (1. 152)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Se puso a leerle [el sermón a fray Blas]; pero a la primera cláusula fue tal el enfado que le causó, que --- le hubiera hecho pedazos. Apenas avistó en la sala a los dos paseantes, cuando, encarando con fray Blas, le dijo ---.»",
-                  "autor": "Isla",
-                  "referencia_obra": ", Fr. Ger. 3. 3 (R. 15. 1481)."
+                  "id_limpio": "—",
+                  "definicion": "Intrans.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Se puso a leerle [el sermón a fray Blas]; pero a la primera cláusula fue tal el enfado que le causó, que --- le hubiera hecho pedazos. Apenas avistó en la sala a los dos paseantes, cuando, encarando con fray Blas, le dijo ---.»",
+                      "autor": "Isla",
+                      "referencia_obra": ", Fr. Ger. 3. 3 (R. 15. 1481)."
+                    }
+                  ]
                 }
               ]
             },
@@ -287,35 +370,43 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en + compl. de cosa personificada. Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Encarado en un pepino | Le dijo: Nunca madures, | Galalón de la ensalada, | Cizaña de las saludes.»",
                   "autor": "Quev.",
                   "referencia_obra": "Musa 6, rom. 80 (R. 69. 2141)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Trans. La persona que actúa como oponente pasa a compl. directo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Entré en el patio, y no hube metido bien el pie, cuando me encararon, y empezaron a decir: Nuevo.»",
                   "autor": "Quev.",
                   "referencia_obra": "Gran Tac. 5 (R. 23. 4932; Cl. C. 5. 64)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Enojéme, esforzó la risa, encendióseme el rostro, y me encaró diciéndome en tono chusco y agitanado ---.»",
                   "autor": "Forner",
-                  "referencia_obra": ", Exequias de la lengua castell. (R. 63. 3831). x"
+                  "referencia_obra": ", Exequias de la lengua castell. (R. 63. 3831)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Me va’ decir por qué has hecho eso! Ella lo encara. Su rostro surcado de arrugas expresa tal odio, que el marido se estremece.»",
                   "autor": "E. L. Castro",
                   "referencia_obra": ", Los Isleros, p. 185."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -323,128 +414,159 @@
     },
     {
       "id": "b)",
-      "definicion": "Refl. Presentarse a un superior para hacerle una reclamación. x",
+      "definicion": "Refl. Presentarse a un superior para hacerle una reclamación.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Está dispuesto a encararse con el jefe y pedirle aumento de sueldo.»",
           "autor": "Moliner",
           "referencia_obra": ", Dicc. sb. voc. Encararse."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Refl. met. Hallarse ante una dificultad y tratar de vencerla. El sust. que expresa la dificultad va precedido de con.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "x",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El gobierno se encara con una seria dificultad.»",
               "autor": "Moliner",
-              "referencia_obra": ", Dicc. sb. voc. Encararse. x"
+              "referencia_obra": ", Dicc. sb. voc. Encararse."
             },
             {
+              "marca": "X",
               "texto_cita": "«Nos encaramos ahora con la parte más difícil de la expedición.»",
               "autor": "",
               "referencia_obra": "Id. ib."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«A más del riesgo que traía consigo el dejar solo al espíritu humano encarado con todas las cuestiones religiosas, había una circunstancia que debía acarrear resultados funestísimos: hablo de la interpretación de los Libros Santos encomendada al espíritu privado.»",
                   "autor": "Balmes",
                   "referencia_obra": ", Protest. 7 (1. 100)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Trans. El sust. que indica la dificultad pasa a compl. directo, de manera que puede decirse Encarar un problema, un peligro, etc. x",
+          "definicion": "Trans. El sust. que indica la dificultad pasa a compl. directo, de manera que puede decirse Encarar un problema, un peligro, etc.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los que se preparan a encarar una situación ---.»",
               "autor": "Martí",
-              "referencia_obra": ", Obras (ed. 1946), p. 60. x"
+              "referencia_obra": ", Obras (ed. 1946), p. 60."
             },
             {
+              "marca": "X",
               "texto_cita": "«Me río pensando en la cochina intención con que todo lo encaras.»",
               "autor": "Levillier",
-              "referencia_obra": ", Tienda Espejos, p. 206. x"
+              "referencia_obra": ", Tienda Espejos, p. 206."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si yo hablo de Dios, si no he tenido más remedio que encarar una cuestión, es porque me veo perdido y os veo perdidos.»",
               "autor": "",
               "referencia_obra": "R. Gmz. de la Serna, Automoribundia, p. 409."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
       "id": "d)",
-      "definicion": "Emprender algo que supone cierta dificultad o trabajo (trans.). x",
+      "definicion": "Emprender algo que supone cierta dificultad o trabajo (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Inútil agregar que no encaró nunca una transcripción mecánica del original; no se proponía copiarlo.»",
           "autor": "Borges",
-          "referencia_obra": ", Ficciones (ed. 1944), p. 54. x"
+          "referencia_obra": ", Ficciones (ed. 1944), p. 54."
         },
         {
+          "marca": "X",
           "texto_cita": "«Abandonó los métodos perimidos y encaró estudios serios., profundos, sin soflamería declamatoria.»",
           "autor": "Aguinis",
           "referencia_obra": ", Cruz invertida, p. 85."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Mostrar la cara, mirar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Sañudo, le mira el Cid, | Con mal talante le encara.»",
               "autor": "Quev.",
               "referencia_obra": "Musa 6, rom. 87 (R. 69. 2232)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tiran, quebrantan, rompen, ven, encaran.»",
                   "autor": "Lope",
                   "referencia_obra": ", Angél. 17 (Obr. suelt. 2. 264)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -453,41 +575,51 @@
     {
       "id": "b)",
       "definicion": "Part. Precedido de los advs. bien o mal, De buena o mala cara. úsase más frecuentemente mal encarado, y se aplica con preferencia a una persona de mirada hosca y severa.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Y ganara más, si no se me atravesara un mancebón mal encarado, manco de brazos y con una pierna menos.»",
               "autor": "Quev.",
-              "referencia_obra": "Gran Tac. 21 (Cl. C. 5. 250). +"
+              "referencia_obra": "Gran Tac. 21 (Cl. C. 5. 250)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Era el tío Lucas, padre de la bella, | Hombre de áspero trato ---, | Pocas palabras, de indolente huella | Mal encarado y de intención dormida.»",
               "autor": "Espronc.",
-              "referencia_obra": "Diablo mundo, 4 (R. 72. 1182). +"
+              "referencia_obra": "Diablo mundo, 4 (R. 72. 1182)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Una severa mirada del más mal encarado [de los mancebos] les impuso en su deber, y respondieron unánimes ---»",
               "autor": "Mesonero",
               "referencia_obra": ", Panor. Las tiendas (p. 145)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "En el siguiente texto, De semblante triste y decaído. +",
+              "definicion": "En el siguiente texto, De semblante triste y decaído.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Está usted hoy mal encarado —dijo Gandaria —; voy a procurar distraerle.»",
                   "autor": "Ganiv.",
                   "referencia_obra": "Pío Cid, 3 (1. 294)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -495,13 +627,16 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "met. Nótese la ambigüedad del siguiente texto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Era un reloj de sol mal encarado.»",
               "autor": "Quev.",
               "referencia_obra": "Musa 6, son. 2 (R. 69. 1272)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -509,47 +644,59 @@
     {
       "id": "4",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Orientar, colocar en una determinada dirección (trans.). Se construye con un compl. precedido de a o en.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Al hijo de Zerbín la vista encara.»",
               "autor": "Lope",
-              "referencia_obra": ", Angél. 6 (Obr. suelt. 2. 84). +"
+              "referencia_obra": ", Angél. 6 (Obr. suelt. 2. 84)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Arqueó el Austro fiero las dos cejas, | Y con ojos de fuego en el rey necio, | Colérico, encaró la vista torva.»",
               "autor": "Villav.",
               "referencia_obra": "Mosq. 5 (R. 17. 5902)."
             },
             {
+              "marca": "",
               "texto_cita": "«En él la vista denodada encara [el moscón].»",
               "autor": "",
               "referencia_obra": "Id. ib. 6 (R. 17. 5932)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Una torre muy preciada | Del Líbano a Damasco está encarada.»",
                   "autor": "León",
                   "referencia_obra": ", Cantares, 7 (4. 167)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -557,13 +704,16 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En la baranda apoyado, | Al occidente encaróse, | Gran rato permaneciendo | En una actitud inmoble.»",
               "autor": "A. Saav.",
               "referencia_obra": "Una noche de Madrid en 1578, 2 (3. 225; R. 100. 3891)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -571,75 +721,93 @@
     {
       "id": "b)",
       "definicion": "Tratándose de un arma, Apuntarla, asestarla hacia un objetivo o blanco (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Otro hombre, llamado Collantes, encaró la ballesta dos veces para tirar al Condestable, y Bernal de la Roca se lo estorbó levantándole la ballesta para que el tiro fuese por alto.»",
               "autor": "",
               "referencia_obra": "Sand. Hist. Carlos V, 7. 3 (R. 80. 3191)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. de persona,",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Poniendo en él [en el arco] una flecha, hasta veinte pasos desviado de la Cenotia, le encaró la flecha.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Pers. 2. 9 (R. 1. 6031). +"
+                  "referencia_obra": "Pers. 2. 9 (R. 1. 6031)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Baja su lanza el capitán mosquito, | Que era de un caracol el cuerno largo, | y el Fifolgel la suya de hito en hito | Le encara, y pone a su carrera embargo.»",
                   "autor": "Villav.",
                   "referencia_obra": "Mosq. 11 (R. 17. 6142)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Le cercaron, y, encarándole los fusiles, clamaban que había de morir.»",
                   "autor": "Quint.",
                   "referencia_obra": "Meléndez (R. 19. 1182)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con a + sust. que indica el objetivo o blanco. Puede interpretarse como dat., o compl. de dirección.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Encarando [los cuadrilleros] sus ballestas y sus saetas a los que no se defendían, los prendieron y aprisionaron.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 3. 4 (R. 1. 6302)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y pudo Febo con la flecha frigia | Vibrar, como valiente, el arco corvo, | Luego salió contra la bestia Estigia | Y, encarando la flecha al bulto torvo, | Pitón quedó vencido y por el suelo.»",
                   "autor": "Villav.",
-                  "referencia_obra": "Mosq. 7 (R. 17. 5962).+"
+                  "referencia_obra": "Mosq. 7 (R. 17. 5962)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Al punto el Mosquifuro le dispara | Desde el campo relámpagos, y truenos, | Tiros soberbios a su cuerpo encara, | De fuego vivo y pestilencia llenos.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 10 (R. 17. 6121)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con la prep. contra.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Encaramos cuatro escopetas contra ella [la sierpe].»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 3. 19 (R. 18. 4711)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -647,61 +815,75 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Le flechó [su arco], y, encarando al mancebo, le señaló por su blanco.»",
               "autor": "Cerv.",
               "referencia_obra": "Pers. 1. 1 (R. 1. 5612)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por hacer, Amor, tus fechos | Me tienes con furia tanta | Lanzas puestas a los pechos | Y encarados mil pertrechos.»",
               "autor": "",
               "referencia_obra": "T. Naharro, Propal. lament. 2 (1. 24)."
             },
             {
+              "marca": "",
               "texto_cita": "«Viendo que llovía sobre él un nublado de piedras, y que le amenazaban mil encaradas ballestas y no menos cantidad de arcabuces, volvió las riendas a Rocinante.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 27 (R. 1. 4632)."
             },
             {
+              "marca": "",
               "texto_cita": "«No quiso darle dilatada muerte, teniéndole siempre la flecha encarada al pecho.»",
               "autor": "",
               "referencia_obra": "Id. Pers. 1. 1 (R. 1. 5612)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El fiero amor no cesa --- | Encarar mil saetas a mi pecho.»",
               "autor": "Cerv.",
               "referencia_obra": "Gal. 5 (R. 1. 782)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Intrans. El objeto apuntado pasa a sujeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mi guerra nunca sosiega; | Mis artes, fuerzas y mañas | Y mis sañas, | Mis bravezas, mis enojos, | Cuando encaran a los ojos, | Luego enclavan las entrañas.»",
                   "autor": "Encina",
                   "referencia_obra": ", en M. de la Rosa, Com. esp. 2 (2. 151; R. 150. 1922)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -710,74 +892,91 @@
     {
       "id": "c)",
       "definicion": "Dirigir, o hacer llegar algo a una persona (trans.). Lleva acus. de cosa y dat. de persona; pero ésta puede interpretarse como compl. de dirección, por lo que no sólo puede ir precedida de la prep. a, sino también de en.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "El compl. de dirección en el siguiente ejemplo es un animal personificado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En el prado tenía un paje | Parada una perdiz bella, | Mientras encaraba en ella | Ganímedes su lenguaje.»",
               "autor": "Góng.",
               "referencia_obra": "déc. Musa, si la pluma mía (R. 32. 4893)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl. Dirigirse a una persona para decirle alguna cosa. Con la prep. a o con + sust. de persona.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Encarándose con don Severo, dijo así ---»",
               "autor": "",
               "referencia_obra": "T. Irlarte, Liter. en cuaresma (7. 30)."
             },
             {
+              "marca": "",
               "texto_cita": "«Descuide usted, señorita, respondió el Comendador, encarándose con doña Elena, que se puso más encarnada aún.»",
               "autor": "Valera",
               "referencia_obra": ", El Comendador Mendoza, p. 59."
             },
             {
+              "marca": "",
               "texto_cita": "«Al fin, no pudiendo sacarle una palabra al señor gordo, se encaró directamente con él y le dijo ---.»",
               "autor": "Fern.",
-              "referencia_obra": "Caball. Una en otra, p. 8. +"
+              "referencia_obra": "Caball. Una en otra, p. 8."
             },
             {
+              "marca": "+",
               "texto_cita": "«¡Cuando yo le decía a usted —prorrumpió la abuelita, encarándose con el tío Pedro— que el señor [Stein] es el mejor médico del mundo entero!»",
               "autor": "",
-              "referencia_obra": "Id. La Gaviota, 1. 8 (R. 136. 302). +"
+              "referencia_obra": "Id. La Gaviota, 1. 8 (R. 136. 302)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Encaróse con Abelarda, que continuaba de sobremesa, y le dijo: ¡Felices los que creen!»",
               "autor": "P. Galdós",
-              "referencia_obra": ", Miau, p. 269. +"
+              "referencia_obra": ", Miau, p. 269."
             },
             {
+              "marca": "+",
               "texto_cita": "«¿Cree usted —agregó [Orellana], encarándose con Sierra— que no es misión alta la de fundar una familia y dar hijos útiles a la patria?»",
               "autor": "Ganiv.",
-              "referencia_obra": "Pío Cid, 1 (1. 68). +"
+              "referencia_obra": "Pío Cid, 1 (1. 68)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Cuando entró Adolfo, Consuelo se encaró con él y le dijo: ¿No te aseguraba yo que no me era desconocido el nombre del profesor?»",
               "autor": "",
               "referencia_obra": "Id. ib. 3 (1. 224)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Part. +",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Señor, señor, dijo encarado al mancebo [a Apolo], este semioso es un deshonra-buenos.»",
                   "autor": "Forner",
                   "referencia_obra": ", Exequias de la lengua castell. (R. 63. 3881)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -786,31 +985,39 @@
     {
       "id": "d)",
       "definicion": "Refl. Dirigirse, marchar hacia un lugar o persona. Con a.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Venga en hora buena. (A mí se me encara; aquí es ello).»",
               "autor": "Quiñ. de Benav.",
               "referencia_obra": "Entremeses, 43 (NBAE. 18. 5841)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y de pronto, al través de los peñascos, | Una brillante luz poco remota | Advierte [el perdido caminante] ---. | Pero, ¡ay desventurado!, apenas mueve, | Encarado a la luz, la planta, toca | El borde de espantosos precipicios.»",
                   "autor": "A. Saav.",
                   "referencia_obra": "Moro expós. 10 (2. 356; R. 100. 2332)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -819,7 +1026,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «E pues encarades commo vallestero, | Devés esta cuerda soltar de la nues.» Canc. de Baena, p. 452.",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. De en y cara. Port. y gall. encarar.\n\n\u0000",
+  "etimologia": "Etim. De <i>en </i>y<i> cara. </i>Port. y gall<i>. encarar.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

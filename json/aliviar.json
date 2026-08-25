@@ -6,27 +6,42 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Aligerar, hacer menos pesado (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Si yo os mandara humedecer la Libia, | Si oponer vuestros hombros á la carga | Que en los de Atlante nunca el tiempo alivia, --- | ¿Pudiérades estar más pensativo?»",
           "autor": "L. Argens.",
           "referencia_obra": "sát. á Flora (R. 42. 3711)."
         },
         {
+          "marca": "",
           "texto_cita": "«¡Que no quisiese el alcaide | Viéndome herido y enfermo | Aliviarme las prisiones!»",
           "autor": "Alarcón",
-          "referencia_obra": ", El tejedor de Sevilla, 2ª pte. 1. 15 (R. 20. 3993). —"
-        },
+          "referencia_obra": ", El tejedor de Sevilla, 2ª pte. 1. 15 (R. 20. 3993)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«La Caridad, doncella generosa | Que junto á su persona caminaba, | La cruz tomó con fuerza valerosa, | Y algo alivió lo mucho que pesaba. --- | Alzala bien y pónesela encima, | Y al buen Jesús alivia el gran madero.»",
-          "autor": "Hojeda",
-          "referencia_obra": ", Crist. 11 (R. 17. 4851, 4861)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«La Caridad, doncella generosa | Que junto á su persona caminaba, | La cruz tomó con fuerza valerosa, | Y algo alivió lo mucho que pesaba. --- | Alzala bien y pónesela encima, | Y al buen Jesús alivia el gran madero.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 11 (R. 17. 4851, 4861)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -34,41 +49,58 @@
     {
       "id": "b)",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«¿Qué maravilla es que sea liviano el yugo que Dios alivia, y él mesmo ayuda á levantar?»",
           "autor": "Gran.",
           "referencia_obra": "Guía, 1. 28, § 4 (R. 6. 1092)."
         },
         {
+          "marca": "",
           "texto_cita": "«¿Qué sabéis, | Si porque no os condenéis | Entre tanta confusión | Parte del peso os alivia?»",
           "autor": "Tirso",
-          "referencia_obra": ", Privar contra su gusto, 3. 3 (R. 5. 3591). —"
-        },
+          "referencia_obra": ", Privar contra su gusto, 3. 3 (R. 5. 3591)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Para excusar los excesivos gastos que se hacían y aliviar las inmensas cargas de los vasallos, reformó quince legiones.»",
-          "autor": "Mariana",
-          "referencia_obra": ", Hist. Esp. 4.16 (R. 30. 1091)."
-        },
-        {
-          "texto_cita": "«Nos consta que alivia mucho la carga del trabajo la grandeza del galardón.»",
-          "autor": "Gran.",
-          "referencia_obra": "Adic. al Mem. 1. 1 (R. 8. 4161)."
-        },
-        {
-          "texto_cita": "«Aquí á aliviar la grave carga viene | Del cetro de oro y majestad pesada; | Aquí en alegres cazas se entretiene.»",
-          "autor": "Valb.",
-          "referencia_obra": "Bern. 14 (R. 17. 2872)."
-        },
-        {
-          "texto_cita": "«Siempre resulte de tu luz serena | Otro sol que te alivie el peso grave, | Que el peso, aunque es glorioso, al fin es pena.»",
-          "autor": "Lope",
-          "referencia_obra": ", epíst. 6 (Obr. suelt. 1. 339)."
-        },
-        {
-          "texto_cita": "«Se proponía por principal objeto restaurar la hacienda, lo que no podía conseguirse sin aliviar las cargas públicas repartiéndolas con equidad entre las varias clases.»",
-          "autor": "M. de la Rosa",
-          "referencia_obra": ", Esp. del siglo, 2. 6 (5. 68)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Para excusar los excesivos gastos que se hacían y aliviar las inmensas cargas de los vasallos, reformó quince legiones.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 4.16 (R. 30. 1091)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Nos consta que alivia mucho la carga del trabajo la grandeza del galardón.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 1. 1 (R. 8. 4161)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Aquí á aliviar la grave carga viene | Del cetro de oro y majestad pesada; | Aquí en alegres cazas se entretiene.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 14 (R. 17. 2872)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Siempre resulte de tu luz serena | Otro sol que te alivie el peso grave, | Que el peso, aunque es glorioso, al fin es pena.»",
+              "autor": "Lope",
+              "referencia_obra": ", epíst. 6 (Obr. suelt. 1. 339)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Se proponía por principal objeto restaurar la hacienda, lo que no podía conseguirse sin aliviar las cargas públicas repartiéndolas con equidad entre las varias clases.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo, 2. 6 (5. 68)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -76,107 +108,140 @@
     {
       "id": "c)",
       "definicion": "Irónicamente, Hurtar.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«A Juan le aliviaron la bolsa, los cofres.»",
           "autor": "",
           "referencia_obra": "Dicc. Autor."
         },
         {
+          "marca": "",
           "texto_cita": "«Salí á un pobrete, que iba muy cansado, | La alforja le alivié, en que echar le plugo | Un jamón, una bota y un mendrugo.»",
           "autor": "Mto.",
           "referencia_obra": "S. Franco de Sena, 3. 2 (R. 39. 1353)."
         },
         {
+          "marca": "",
           "texto_cita": "«Nadie de vuestra cuadrilla | Ha mancilla | De cuanto puede aliviar.»",
           "autor": "Fernández",
           "referencia_obra": ", Eglogas y farsas, p. 107."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "Por extensión, Soliviar.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Si un hombre estuviese colgado de una soga, y hobiese otro que le estuviese siempre estirando hacia abajo por los pies, y no hobiese otro que lo aliviase hacia arriba por los brazos, ¿en qué podría parar éste, sino en ahogarse y morir?»",
           "autor": "Gran.",
           "referencia_obra": "Orac. y consid. 3. 1. 3, § 2 (R. 8. 1751)."
         },
         {
+          "marca": "",
           "texto_cita": "«Así obedece [Amiclas], y aliviar la quilla | Tienta en el fondo con veloz destreza; | Libra el bajel boyante, alza la vela, | Zarpa en las costas, en las ondas vuela.»",
           "autor": "Jáur.",
           "referencia_obra": "Fars. 10 (Fern. 7. 281: «Solvensque ratem dat carbasa ventis,» Luc. 5. 560)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "2",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Hacer menos pesado, gravoso ó duro; hacer llevadero.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α)",
           "id_limpio": "— α)",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Se ofreció el Salvador á tales tormentos por aliviar con éstos los destos fuertes guerreros.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 3. 24 (R. 6. 4391)."
             },
             {
+              "marca": "",
               "texto_cita": "«Alivie al rey el trabajo del mudar las bolsas de los Consejos de una parte á otra y de abrir los pliegos.»",
               "autor": "Quev.",
               "referencia_obra": "Polític. de Dios, 1. 17 (R. 23. 331)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si no puede razón ó entendimiento | El cuidado alivia á quien lo tiene, | Siempre queda mayor el sentimiento.»",
               "autor": "Mend.",
               "referencia_obra": "eleg. (R. 32. 662)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aliviaron cantando sus cuidados.»",
               "autor": "",
               "referencia_obra": "F. de la Torre, 3, égl. 4 (116)."
             },
             {
+              "marca": "",
               "texto_cita": "«La pena y el tormento | Alivia la compañía.»",
               "autor": "Alarcón",
               "referencia_obra": ", El examen de maridos, 3. 11 (R. 20. 4833)."
             },
             {
+              "marca": "",
               "texto_cita": "«Alivia sus fatigas | El labrador cansado |Cuando su yerta barba escarcha cubre, | Pensando en las espigas| Del agosto abrasado | Y en los lagares ricos del octubre.»",
               "autor": "L. Argens.",
               "referencia_obra": "canc. que empieza así (R. 12. 2601)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿A qué extremo ha de llegar nuestro descuido en aliviarles la fatiga y el disgusto de los estudios?»",
               "autor": "",
               "referencia_obra": "T. Iriarte, Liter. en cuaresma (7. 32)."
             },
             {
+              "marca": "",
               "texto_cita": "«La esperanza continua del premio alivia su trabajo.»",
               "autor": "Jovell.",
               "referencia_obra": "Ley agraria, 1ª clase (R. 50. 882)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si para aliviar sus trabajos creyere necesario pedir informes y noticias acerca de este objeto á algunas personas sabias y experimentadas, lo hará, eligiendo á este fin las que hallare más dignas de su confianza.»",
               "autor": "",
-              "referencia_obra": "Id. Plan de instr. públ. (R. 46. 2722). —"
-            },
+              "referencia_obra": "Id. Plan de instr. públ. (R. 46. 2722)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Desta manera se puso remedio á la soltura de los soldados; y para aliviar los gastos, bajaron el sueldo, que recompensaron con privilegios y libertades que les dieron.»",
-              "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 18. 13 (R. 31. 221)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Desta manera se puso remedio á la soltura de los soldados; y para aliviar los gastos, bajaron el sueldo, que recompensaron con privilegios y libertades que les dieron.»",
+                  "autor": "Mariana",
+                  "referencia_obra": ", Hist. Esp. 18. 13 (R. 31. 221)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -184,28 +249,34 @@
               "id_marcador_html": "— α α)",
               "id_limpio": "— α α)",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Las desgracias y trabajos, cuando se comunican, suelen aliviarse.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 1. 2 (R. 1. 5621)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Este lugar es mejor que la cátedra; lo que aquí tratamos agora, es sin comparación muy más dulce que lo que leemos allí; y ansí con ello mismo se alivia el trabajo.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 2, Padre (R. 37. 1132)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Por aquí se esfuerza nuestra paciencia, y se alivian nuestros trabajos, y se despierta nuestra devoción.»",
                   "autor": "Gran.",
                   "referencia_obra": "Símb. 2. 16 (R. 6. 3182)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La muerte que se padece por Cristo no se puede llamar muerte, porque con la esperanza del galardón se alivia el sentimiento de su dolor.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 2. 22 (R. 6. 3362)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -214,66 +285,81 @@
     {
       "id": "b)",
       "definicion": "En especial, tratándose de dolores y penas, Mitigar, endulzar.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α)",
           "id_limpio": "— α)",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La música compone los ánimos descompuestos, y alivia los trabajos que nacen del espíritu.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 28 (R. 1. 3261)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mi desventura [es] tanta, que la deben de haber llorado mis padres y sentido mi linaje, sin poderla aliviar con su riqueza; que para remediar desdichas del cielo poco suelen valer bienes de fortuna.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 24 (R. 1. 3101)."
             },
             {
+              "marca": "",
               "texto_cita": "«La desgracia de este año, por la muerte de tantos príncipes aciago, alivió en alguna manera el parto de la reina de Castilla.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 14. 10 (R. 30. 4171)."
             },
             {
+              "marca": "",
               "texto_cita": "«David tañendo en su vihuela aliviaba el trabajo que padecía Saúl.»",
               "autor": "Gran.",
               "referencia_obra": "Símb. 27, § 8 (R. 6. 4502)."
             },
             {
+              "marca": "",
               "texto_cita": "«Animábalos á los trabajos, aliviaba sus dolores, y finalmente morando en ellos obraba y vencía por ellos.»",
               "autor": "",
               "referencia_obra": "Id. ib. 5. 2. 19, § 1 (R. 6. 6412)."
             },
             {
+              "marca": "",
               "texto_cita": "«Con ellos ponderaban sus agravios, |Y en algo le aliviaban sus enojos.»",
               "autor": "Hojeda",
               "referencia_obra": ", Crist. 9 (R. 17. 4701)."
             },
             {
+              "marca": "",
               "texto_cita": "«El arcángel Gabriel para aliviar la aflicción de la virgen María, le pinta con todo el calor y vivacidad que da de sí el ingenio del poeta, las delicias y consuelos que va á tener en su resurrección milagrosa.»",
               "autor": "Quint.",
               "referencia_obra": "Introd. á la Musa ép. (R. 19. 1652)."
             },
             {
+              "marca": "",
               "texto_cita": "«Benigno licor | Al labio me pone, | Me alivia el dolor | Y parte.»",
               "autor": "Hartz.",
               "referencia_obra": "Los amantes de Teruel, 2. 4 (7)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α)",
               "id_limpio": "— α α)",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Quizá con no velle y con la gran distancia del camino que llevamos, se me aliviaría la pena que ahora llevo.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 43 (R. 1. 3772)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -282,63 +368,78 @@
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Quitar á alguna persona ó cosa parte del peso que sobre ella carga (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α)",
           "id_limpio": "— α)",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Aliviar pudo la cerviz de Atlante, | Sin que el orbe sintiera diferencia.»",
               "autor": "B. Argens.",
               "referencia_obra": "eleg. Con feliz parto (R. 42. 3422)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con de, para expresar el objeto que se quita.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y yo te aliviaré de aqueste peso, | Porque cantemos yendo caminando.»",
               "autor": "León",
               "referencia_obra": ", Poes. 2, égl. 9 (R. 37. 271)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ego hoc te fasce levabo:»",
               "autor": "",
               "referencia_obra": ""
             },
             {
+              "marca": "",
               "texto_cita": "«Yo te aliviaré de esta carga.»",
               "autor": "Ochoa",
               "referencia_obra": ")."
             },
             {
+              "marca": "",
               "texto_cita": "«Aliviando los pesados ramos | Del dulce fruto.»",
               "autor": "Valb.",
               "referencia_obra": "Bern. 20 (R. 17. 3571)."
             },
             {
+              "marca": "",
               "texto_cita": "«Concluyó con los manjares, | Aliviando del peso á la redonda | Mesa.»",
               "autor": "A. Saav.",
               "referencia_obra": "Moro expós. 10 (2. 390)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se concertaron los dos, viendo ser tan para en uno, de dejar, Bartolomé á sus amos, y la moza sus arrepentimientos; y así aliviaron el bagaje de dos hábitos de peregrinos.»",
               "autor": "Cerv.",
               "referencia_obra": "Pers. 3. 18 (R. 1. 6561)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -346,32 +447,40 @@
     {
       "id": "b)",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α)",
           "id_limpio": "— α)",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Alíviale de la carga | Con que sus fuerzas oprimes.»",
               "autor": "Tirso",
               "referencia_obra": ", Privar contra su gusto, 2. 25 (R. 5. 3573)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β)",
           "id_limpio": "— β)",
           "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A muchos ilustres varones hemos visto sobrarles fortuna para emprender y aun para alcanzar grandes cosas, y después no tener ánimo para descargarse y aliviarse de ninguna dellas.»",
               "autor": "Capm.",
               "referencia_obra": "Teatro, 2. 122)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -379,73 +488,99 @@
     {
       "id": "c)",
       "definicion": "Irónicamente, Despojar, robar.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Mejor es cerrar, no sea que nos alivien de ropa.»",
           "autor": "",
           "referencia_obra": "Mor. El sí de las niñas, 1. 8 (R. 2. 4232)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "4",
       "definicion": "met. Disminuír á alguno el dolor, fatiga ó pena que le aflige (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α)",
           "id_limpio": "— α)",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tú, noche, que alivias | Los cansados miembros, | Cuyas negras horas | Convidan á sueño.»",
               "autor": "Góng.",
               "referencia_obra": "rom. 102 (R. 32. 5421)"
             },
             {
+              "marca": "",
               "texto_cita": "«Sostiene la inocencia y la virtud contra los peligros á que la necesidad las expone; --- alivia á la naturaleza doliente, débil ó decrépita.»",
               "autor": "Mor.",
               "referencia_obra": "Obr. póst. 1, p. 204."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α)",
               "id_limpio": "— α α)",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No gime ni suda debajo de la carga mayor, ni se alivia con la menor.»",
                   "autor": "Gran.",
                   "referencia_obra": "Guía, 1. 9 (R. 6. 381)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β)",
               "id_limpio": "— β β)",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Don Quijote, que, como se ha dicho, se sintió aliviado y sano, quiso partirse luégo á buscar aventuras.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 17 (R. 1. 2891)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Don Quijote se apartó con Sancho en remota parte, de donde vino más aliviado y con más deseos de poner en obra lo que su escudero ordenase.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 1. 49 (R. 1. 3922)»."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Después de comido échese á dormir un poco sobre los colchones verdes destas hierbas, y verá cómo, cuando despierte, se halla algo más aliviado.»",
                   "autor": "",
-                  "referencia_obra": "Id. ib. 2. 59 (R. 1. 5281). — Sup."
-                },
+                  "referencia_obra": "Id. ib. 2. 59 (R. 1. 5281)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Quedóse dormido más de tres horas, al cabo de las cuales despertó y se sintió aliviadísimo del cuerpo.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 1. 17 (R. 1. 2882)."
+                  "id_limpio": "—",
+                  "definicion": "Sup.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Quedóse dormido más de tres horas, al cabo de las cuales despertó y se sintió aliviadísimo del cuerpo.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 1. 17 (R. 1. 2882)."
+                    }
+                  ]
                 }
               ]
             }
@@ -455,89 +590,109 @@
           "id_marcador_html": "— β)",
           "id_limpio": "— β)",
           "definicion": "Con de, para expresar el dolor, fatiga ó pena que se hace desaparecer.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Con ellos [los bueyes] participamos el trabajo, ¿qué digo? de cuatro partes de afán y trabajo las tres y más son suyas, y dellas nos alivian.»",
               "autor": "Herr.",
               "referencia_obra": "Agric. gen. 5. 41 (3. 527)."
             },
             {
+              "marca": "",
               "texto_cita": "«El oficio natural de la mujer y el fin para que Dios la crió es para que sea ayudadora del marido --- para que le alivie de los trabajos que trae consigo la vida casada, y no para que le añada nuevas cargas.»",
               "autor": "León",
               "referencia_obra": ", Perf. cas. 5 (R. 37. 2191)."
             },
             {
+              "marca": "",
               "texto_cita": "«Halló aquí Dámaso buena ocasión para traer á su poder y compañía á Jerónimo, cosa que deseaba mucho, entendiendo de cuánto provecho y descanso le había de ser para aliviarle de la carga de su oficio si le tenía consigo.»",
               "autor": "Sig.",
               "referencia_obra": "Vida de S. Jer. 3. 5 (172)."
             },
             {
+              "marca": "",
               "texto_cita": "«Creo cierto que si no respiraran dando las voces que dieron, aliviando sus pechos de la fuerza grande que en ellos hacía su sentimiento, ó por especial favor no fueran confortados, que sus corazones se hicieran pedazos, como suelen las tinajas mal cocidas reventar con la luerza del mosto.»",
               "autor": "Gran.",
               "referencia_obra": "Serm. Pentec. (R. 11. 221)."
             },
             {
+              "marca": "",
               "texto_cita": "«Para aliviarle de la pena que padecía por verlos gravados aun sin su culpa, le enviaron á pedir que se alegrase y oyese músicas.»",
               "autor": "Quev.",
               "referencia_obra": "Polític. de Dios, 2. 8 (R. 23. 581)."
             },
             {
+              "marca": "",
               "texto_cita": "«Bien será, dotor Barbosa, | Que de la pasión que os dije | Y por instantes me abrasa, | Vuestra experiencia me alivie.»",
               "autor": "Tirso",
               "referencia_obra": ", El amor médico, 3. 5 (R. 5. 3952)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y si acaso te alivia tu conciencia | De consideración tan importante.»",
               "autor": "L. Argens.",
               "referencia_obra": "son. Si á la primera causa (R. 42. 2771)."
             },
             {
+              "marca": "",
               "texto_cita": "«El tratar bien á los vencidos, conservarles sus privilegios y nobleza, aliviarlos de sus tributos, es vencerlos dos veces: una con las armas y otra con la benignidad.»",
               "autor": "Saav.",
               "referencia_obra": ". Emp. 96 (R. 25. 2522)."
             },
             {
+              "marca": "",
               "texto_cita": "«Así, como siempre acontece, exigía y cobraba las contribuciones arbitrarias, impuestas por su capricho, el que levantó el pueblo para aliviarlo de las gabelas y para darle libertad.»",
               "autor": "A. Saav.",
               "referencia_obra": "Masan. 1. 17 (5. 133)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α)",
               "id_limpio": "— α α)",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con estos [amigos] descansaba un rato y se aliviaba de lo fuerte de la vida penitente.»",
                   "autor": "Sig.",
                   "referencia_obra": "Vida de S. Jer. 3. 2. (138)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β)",
               "id_limpio": "— β β)",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Marchó a cumplir su comisión, aliviado de sus ansias.»",
                   "autor": "A. Galiano",
                   "referencia_obra": ", Recuerdos, p. 317."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ)",
               "id_limpio": "— γ γ)",
               "definicion": "Lo que causa la pena puede expresarse con una prop. subj.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Si es mentira la sospecha, | De que la temas te alivio.»",
                   "autor": "Cald.",
                   "referencia_obra": "El mayor monstruo los celos, 1. 13 (R. 7. 4861)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -545,18 +700,22 @@
           "id_marcador_html": "— γ)",
           "id_limpio": "— γ)",
           "definicion": "Con en, que expresa la pena ó fatiga que se minora sin hacerla desaparecer.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ved cómo Felicio el lado | Buscó de su amada Silvia | Y los racimos le toma | Y en el trabajo la alivia.»",
               "autor": "Mel.",
               "referencia_obra": "rom. 38 (R. 63. 1522)."
             },
             {
+              "marca": "",
               "texto_cita": "«Lo dije porque si fuera | Posible que me aliviaras | En ciertas cosas...»",
               "autor": "Mor.",
               "referencia_obra": "El viejo y la niña, 1. 7 (R. 2. 3403)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -564,108 +723,139 @@
     {
       "id": "5",
       "definicion": "met. Atenuar, aligerar (trans.) (raro).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«La desgracia de su suegro Benabet y la pena que della el rey tomó, excusa y alivia aquella crueldad.»",
           "autor": "Mariana",
           "referencia_obra": ", Hist. Esp. 10. 1 (R. 30. 2761)."
         },
         {
+          "marca": "",
           "texto_cita": "«Estas fueron palabras de malicia, para dar excusas de los pecados, con las cuales más acrecientas la culpa, que la alivias.»",
           "autor": "Gran.",
           "referencia_obra": "Adic. al Mem. med. 3, § 1 (R. 8. 5051)."
         },
         {
+          "marca": "",
           "texto_cita": "«San Esteban defendía delante de Dios la maldad de sus perseguidores, que lo apedreaban, diciendo que aquello hacían por ignorancia, aliviando la culpa de sus enemigos.»",
           "autor": "Estella",
           "referencia_obra": ", Van. del mundo, 1. 14. (Míst. 4. 30)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "6",
       "definicion": "Acelerar, abreviar;",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«así se suele decir: Alivia, ó alivia el paso.»",
           "autor": "Valdés",
           "referencia_obra": ", Diál. Mayans, 47.) — Siglo XV:"
         },
         {
+          "marca": "",
           "texto_cita": "«Mira el que menos ha | E mas que tú merescia, | Que en esto se aliviará | Tu trabajo e cesaria.»",
           "autor": "P. de Guzmán",
           "referencia_obra": ", Prov. 45 (Rim. inéd. 349)."
         },
         {
+          "marca": "",
           "texto_cita": "«La [balanza] que mucho alzare cargarla mas, e la que mucho abaxare aliviarla.»",
           "autor": "",
           "referencia_obra": "Crón. P. Niño, p. 3."
         },
         {
+          "marca": "",
           "texto_cita": "«Por ayudar al estómago aliuiando el trauajo digestiuo.»",
           "autor": "Villena",
           "referencia_obra": ", Arte cis. 2 (15)."
         },
         {
+          "marca": "",
           "texto_cita": "«Oyd dulces cantos d'algunt buen poeta: | Será vestro piensso alquanto aliviado.»",
           "autor": "Canc. de Baena",
-          "referencia_obra": ", p. 103. — Siglo XIII:"
-        },
+          "referencia_obra": ", p. 103."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Et otrosi de la esperanza que ha de la misericordia de Dios que non sea ademas, porque se alivie nin se fie tanto en ella, que se atreva a pecar teniendo que cada que quisiere será perdonado.»",
-          "autor": "",
-          "referencia_obra": "Part. 1. 10. 15 (1. 367)."
-        },
-        {
-          "texto_cita": "«Por esta uncion ganan tres bienes aquellos que la reciben: --- el tercero que los alivia de la enfermedat que han.»",
-          "autor": "Part.",
-          "referencia_obra": "1. 4. 126 (1. 191)."
-        },
-        {
-          "texto_cita": "«Alivia a los que yacen en el infierno de las penas que han.»",
-          "autor": "Part.",
-          "referencia_obra": "1. 4. 97 (1. 165)."
-        },
-        {
-          "texto_cita": "«Quantos días les otorgan de perdon, atantos les alivia et les mengua nuestro Señor Jesu Cristo de aquella penitencia que habian recebida.»",
-          "autor": "Part.",
-          "referencia_obra": "1. 4. 94 (1. 162)."
-        },
-        {
-          "texto_cita": "«Esto mismo sea de las cosas que fueren echadas del navío por aliviarlo, o cayeren o se perdieren dél por alguna guisa.»",
-          "autor": "Fuero",
-          "referencia_obra": "real, 4. 24. 1 (O. L. 2. 161)."
-        },
-        {
-          "texto_cita": "«Esto serie como si algunos andando sobre mar les acaesciesen peligros porque oviesen á echar en el agua algunas cosas de las que troxiesen en la nave, para aliviarla.»",
-          "autor": "Espéc.",
-          "referencia_obra": "5. 8. 19 (O. L. 1. 371)."
-        },
-        {
-          "texto_cita": "«Por lealtat auedes grant lazerio Ieuado, | Los parientes perdidos, el miedo alleviado.»",
-          "autor": "Alex.",
-          "referencia_obra": "1496 (R. 57. 1932)."
-        },
-        {
-          "texto_cita": "«Esfuerza a los flacos, defiendi los valientes, | Alivia los andantes, levanta los iaçientes.»",
-          "autor": "Berc.",
-          "referencia_obra": "Loores, 229 (R. 57. 1002)."
-        },
-        {
-          "texto_cita": "«Quando el trufan ovo el aver recabdado, | El vaso en que vino fo bien escodrinnado: | Echolo so su lecho ricca-ment alleviado.»",
-          "autor": "",
-          "referencia_obra": "Id. Mil. 678 (R. 57. 1241)."
-        },
-        {
-          "texto_cita": "«De la grant claridat fo mucho embargada, | Pero de la su cuita fo mucho alleviada.»",
-          "autor": "",
-          "referencia_obra": "Id. ib. 530 (R. 57. 1201)."
-        },
-        {
-          "texto_cita": "«Metioli so los piedes do estaba colgado | Las sus manos preciosas: tóvolo alleviado.»",
-          "autor": "",
-          "referencia_obra": "Id. ib. 150 (R. 57. 1081). Etim. Port. alliviar; cat. aliviar; prov. aleviar, aleujar; fr. alléger; it. alleviare: lat. bajo alleviare, comp. de ad, á, y levis, leve, ligero. Pros. Se acentúa siguiendo la norma de alívio: alívia, alivien. Constr."
+          "id_limpio": "—",
+          "definicion": "Siglo XIII:",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Et otrosi de la esperanza que ha de la misericordia de Dios que non sea ademas, porque se alivie nin se fie tanto en ella, que se atreva a pecar teniendo que cada que quisiere será perdonado.»",
+              "autor": "",
+              "referencia_obra": "Part. 1. 10. 15 (1. 367)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Por esta uncion ganan tres bienes aquellos que la reciben: --- el tercero que los alivia de la enfermedat que han.»",
+              "autor": "Part.",
+              "referencia_obra": "1. 4. 126 (1. 191)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Alivia a los que yacen en el infierno de las penas que han.»",
+              "autor": "Part.",
+              "referencia_obra": "1. 4. 97 (1. 165)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Quantos días les otorgan de perdon, atantos les alivia et les mengua nuestro Señor Jesu Cristo de aquella penitencia que habian recebida.»",
+              "autor": "Part.",
+              "referencia_obra": "1. 4. 94 (1. 162)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Esto mismo sea de las cosas que fueren echadas del navío por aliviarlo, o cayeren o se perdieren dél por alguna guisa.»",
+              "autor": "Fuero",
+              "referencia_obra": "real, 4. 24. 1 (O. L. 2. 161)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Esto serie como si algunos andando sobre mar les acaesciesen peligros porque oviesen á echar en el agua algunas cosas de las que troxiesen en la nave, para aliviarla.»",
+              "autor": "Espéc.",
+              "referencia_obra": "5. 8. 19 (O. L. 1. 371)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Por lealtat auedes grant lazerio Ieuado, | Los parientes perdidos, el miedo alleviado.»",
+              "autor": "Alex.",
+              "referencia_obra": "1496 (R. 57. 1932)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Esfuerza a los flacos, defiendi los valientes, | Alivia los andantes, levanta los iaçientes.»",
+              "autor": "Berc.",
+              "referencia_obra": "Loores, 229 (R. 57. 1002)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Quando el trufan ovo el aver recabdado, | El vaso en que vino fo bien escodrinnado: | Echolo so su lecho ricca-ment alleviado.»",
+              "autor": "",
+              "referencia_obra": "Id. Mil. 678 (R. 57. 1241)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«De la grant claridat fo mucho embargada, | Pero de la su cuita fo mucho alleviada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 530 (R. 57. 1201)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Metioli so los piedes do estaba colgado | Las sus manos preciosas: tóvolo alleviado.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 150 (R. 57. 1081). Etim. Port. alliviar; cat. aliviar; prov. aleviar, aleujar; fr. alléger; it. alleviare: lat. bajo alleviare, comp. de ad, á, y levis, leve, ligero. Pros. Se acentúa siguiendo la norma de alívio: alívia, alivien. Constr."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -673,18 +863,20 @@
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. (Nótese la forma alleviar; el siguiente pasaje muestra la variedad del uso á principios del siglo XVI: «En algunos vocablos habemos mirado que algunos de vosotros ponéis i donde otros ponen e. — Decid algunos. — aleviar ó aliviar.» Valdés, Diál. Mayans, 47.) — Siglo XV: «Mira el que menos ha | E mas que tú merescia, | Que en esto se aliviará | Tu trabajo e cesaria.» P. de Guzmán, Prov. 45 (Rim. inéd. 349). «La [balanza] que mucho alzare cargarla mas, e la que mucho abaxare aliviarla.» Crón. P. Niño, p. 3. «Por ayudar al estómago aliuiando el trauajo digestiuo.» Villena, Arte cis. 2 (15). «Oyd dulces cantos d'algunt buen poeta: | Será vestro piensso alquanto aliviado.» Canc. de Baena, p. 103.\n\n— Siglo XIII: «Et otrosi de la esperanza que ha de la misericordia de Dios que non sea ademas, porque se alivie nin se fie tanto en ella, que se atreva a pecar teniendo que cada que quisiere será perdonado.» Part. 1. 10. 15 (1. 367). «Por esta uncion ganan tres bienes aquellos que la reciben: --- el tercero que los alivia de la enfermedat que han.» Part. 1. 4. 126 (1. 191). «Alivia a los que yacen en el infierno de las penas que han.» Part. 1. 4. 97 (1. 165). «Quantos días les otorgan de perdon, atantos les alivia et les mengua nuestro Señor Jesu Cristo de aquella penitencia que habian recebida.» Part. 1. 4. 94 (1. 162). «Esto mismo sea de las cosas que fueren echadas del navío por aliviarlo, o cayeren o se perdieren dél por alguna guisa.» Fuero real, 4. 24. 1 (O. L. 2. 161). «Esto serie como si algunos andando sobre mar les acaesciesen peligros porque oviesen á echar en el agua algunas cosas de las que troxiesen en la nave, para aliviarla.» Espéc. 5. 8. 19 (O. L. 1. 371). «Por lealtat auedes grant lazerio Ieuado, | Los parientes perdidos, el miedo alleviado.» Alex. 1496 (R. 57. 1932). «Esfuerza a los flacos, defiendi los valientes, | Alivia los andantes, levanta los iaçientes.» Berc. Loores, 229 (R. 57. 1002). «Quando el trufan ovo el aver recabdado, | El vaso en que vino fo bien escodrinnado: | Echolo so su lecho ricca-ment alleviado.» Id. Mil. 678 (R. 57. 1241). «De la grant claridat fo mucho embargada, | Pero de la su cuita fo mucho alleviada.» Id. ib. 530 (R. 57. 1201). «Metioli so los piedes do estaba colgado | Las sus manos preciosas: tóvolo alleviado.» Id. ib. 150 (R. 57. 1081).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Port. alliviar; cat. aliviar; prov. aleviar, aleujar; fr. alléger; it. alleviare: lat. bajo alleviare, comp. de ad, á, y levis, leve, ligero.",
+  "etimologia": "Etim. Port. <i>alliviar</i>; cat. <i>aliviar</i>; prov. <i>aleviar, aleujar; </i>fr.<i> alléger; </i>it.<i> alleviare: </i>lat. bajo <i>alleviare, </i>comp. de <i>ad,</i> á<i>, </i>y<i> levis, </i>leve, ligero.",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.\n\n— Part.: 4, α, ββ - 4, β, ββ.\n\n— Con de: 3, a, β - 3, β -3, χ - 4, β.\n\n— En: 4, γ.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.\n\n— Part.: 4, α, ββ - 4, β, ββ.\n\n— Con de: 3, a, β - 3, β -3, χ - 4, β.\n\n— En: 4, γ.",
   "prosodia": "Pros. Se acentúa siguiendo la norma de alívio: alívia, alivien.",
   "colocacion_concordancia": ""
 }

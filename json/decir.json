@@ -1,88 +1,115 @@
 {
   "lema": "DECIR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones van distribuídas así:\n\n— 1, con suj. de pers., a) manifestar con palabras el pensamiento, b) respondiendo ó replicando, c) asegurando, afirmando, d) murmurando, e) conforme á principios artísticos, f) denotando el empleo de los términos conforme al uso, g) nombrar, mencionar, h) contar, referir, i) recitar, j) en el juego, k) infin. sustantiv,;\n\n— 2, con suj. de cosa, a) hablándose de libros ú otras composiciones, b) de cosas que son signo ó indicio de algo, c) referirse, entenderse, d) mostrarse, presentarse, convenir, e) sentar bien;\n\n— 3, locuciones diversas.",
+  "introduccion": "Las acepciones van distribuídas así:\n\n— 1, con suj. de pers., a) manifestar con palabras el pensamiento, b) respondiendo ó replicando, c) asegurando, afirmando, d) murmurando, e) conforme á principios artísticos, f) denotando el empleo de los términos conforme al uso, g) nombrar, mencionar, h) contar, referir, i) recitar, j) en el juego, k) infin. sustantiv,;\n\n— 2, con suj. de cosa, a) hablándose de libros ú otras composiciones, b) de cosas que son signo ó indicio de algo, c) referirse, entenderse, d) mostrarse, presentarse, convenir, e) sentar bien;\n\n— 3, locuciones diversas.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Manifestar con palabras el pensamiento (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Sirve de acus. un sust. que representa genéricamente el concepto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El tercero y principal oficio [del cardenal], y lo más dificultoso, es ser consejero del papa, decir su parecer siempre que fuere necesario y en provecho de la Iglesia, sin respeto criado, aunque sobre esto pierda la vida,»",
               "autor": "Sig.",
               "referencia_obra": "Vida de S. Jer. 3. 6 (191)."
             },
             {
+              "marca": "",
               "texto_cita": "«Yo le decía la verdad, porque á mi parecer no mentía ni tal había pretendido, ni por cosa del mundo dijera una cosa por otra.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Vida, 28 (R. 53. 851)."
             },
             {
+              "marca": "",
               "texto_cita": "«Desplegando la lengua con espíritu profético, comenzó á decir del pueblo de Dios mil bienes.»",
               "autor": "Márquez",
               "referencia_obra": ", Gob. crist. 1. 28 (169: Pamplona, 1615)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si otra cosa quiere, dígala; si no, váyase con Dios,»",
               "autor": "Cerv.",
               "referencia_obra": "Nov. 3 (R. 1. 1371)."
             },
             {
+              "marca": "",
               "texto_cita": "«Calle vuestra merced, no diga tal blasfemia.»",
               "autor": "",
               "referencia_obra": "Id. Quij. 1. 50 (R. 1. 3942)."
             },
             {
+              "marca": "",
               "texto_cita": "«Calle, señor, dijo Sancho, no diga la tal palabra, sino despabile esos ojos.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 10 (R. 1. 4232)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pregúntenme las señas de las tales cabras, y por ellas verán si digo verdad ó no.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 41 (R. 1. 4911)."
             },
             {
+              "marca": "",
               "texto_cita": "«Válate Dios por señor: ¿y es posible que hombre que sabe decir tales, tantas y tan buenas cosas como aquí ha dicho, diga que ha visto los disparates imposibles que cuenta de la cueva de Montesinos?»",
               "autor": "",
-              "referencia_obra": "Id. ib. 2. 24 (R. 1. 4562). —"
-            },
+              "referencia_obra": "Id. ib. 2. 24 (R. 1. 4562)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«No dijo más D. Quijote, y esperó que la princesa le respondiese.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 1. 37 (R. 1. 3582)."
-            },
-            {
-              "texto_cita": "«Si aqueste libro el título tuviera | Para hacer que el concurso de habladores, | Que siempre dicen mal, enmudeciera ---»",
-              "autor": "Lope",
-              "referencia_obra": ", epíst. 3 (Obr. suelt. 1. 300)."
-            },
-            {
-              "texto_cita": "«Cuando el asunto es vago y general, recurren á lugares comunes; hablan mucho, y nada dicen.»",
-              "autor": "Capm.",
-              "referencia_obra": "Filosof. eloc. introd. (16)."
-            },
-            {
-              "texto_cita": "«Escribía [César] lo que él hacía, y no lo que otros decían.»",
-              "autor": "",
-              "referencia_obra": "VaIdés, Diàl. (Mayans, 14)."
-            },
-            {
-              "texto_cita": "«Quien dice lo que quiere, oye lo que no quiere»",
-              "autor": "",
-              "referencia_obra": ": refr. que advierte que quien es poco medido en sus palabras se expone á respuestas sensibles ó injuriosas."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«No dijo más D. Quijote, y esperó que la princesa le respondiese.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 1. 37 (R. 1. 3582)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Si aqueste libro el título tuviera | Para hacer que el concurso de habladores, | Que siempre dicen mal, enmudeciera ---»",
+                  "autor": "Lope",
+                  "referencia_obra": ", epíst. 3 (Obr. suelt. 1. 300)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Cuando el asunto es vago y general, recurren á lugares comunes; hablan mucho, y nada dicen.»",
+                  "autor": "Capm.",
+                  "referencia_obra": "Filosof. eloc. introd. (16)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Escribía [César] lo que él hacía, y no lo que otros decían.»",
+                  "autor": "",
+                  "referencia_obra": "VaIdés, Diàl. (Mayans, 14)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Quien dice lo que quiere, oye lo que no quiere»",
+                  "autor": "",
+                  "referencia_obra": ": refr. que advierte que quien es poco medido en sus palabras se expone á respuestas sensibles ó injuriosas."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -90,68 +117,98 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con un dat. de pers.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Muchos de los que la topaban le decían alguna cosa de su buen talle y rostro.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 1. 2 (R. 18. 3811)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Alli le comenzó á decir tantos disparates --- que el pobre sacristán estaba embelesado escuchándole.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 3 (R. 1. L371)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No disputes con tu enemigo, ni le digas jamás una sola palabra.»",
                   "autor": "Quev.",
                   "referencia_obra": "Vida dev. 4. 7 (R. 48. 3261)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Algunas palabras que quise decirles y que no me escucharon, sólo sirvieron de irritarlos.»",
                   "autor": "T. Iriarte",
                   "referencia_obra": ", La librería, 12 (5. 318)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de, para denotar el objeto con respecto al cual se expresa un pensamiento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por mi respeto, y por lo que yo de ti dije, se facilitó el acogerte y admitirte en nuestra compañía.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 1 (R. 1. 1142)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Qué es esto, señor licenciado, que os he oído decir mal de muchos oficios, y jamás lo habéis dicho de los escribanos, habiendo tanto que decir?»",
                   "autor": "",
                   "referencia_obra": "Id. Nov, 5 (R. 1. 1642)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Qué te podré decir del adorno de su persona?»",
                   "autor": "",
                   "referencia_obra": "Id. Quij. 1. 17 (R. 1. 2881)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Por qué ha de esperar el que obra mal que digan bien de él?»",
                   "autor": "",
                   "referencia_obra": "Id. Pers. 1. 16 (R. 1. 5812)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dijo uno mal de ti: no digas tú mal de él, siquiera por no parecerte á él.»",
                   "autor": "Quev.",
-                  "referencia_obra": "Cuna y sepult. 3 (R. 48. 862). — Sin acus."
+                  "referencia_obra": "Cuna y sepult. 3 (R. 48. 862)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Sin acus.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Unos loan lo casero, otros encarecen la discreción --- Dicen del rostro limpio, del vestido aseado, de las labores y de las velas. Cuentan las criadas remediadas, el mejoro de la hacienda.»",
+                      "autor": "León",
+                      "referencia_obra": ", Perf cas. 21 (3. 518)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Unos loan lo casero, otros encarecen la discreción --- Dicen del rostro limpio, del vestido aseado, de las labores y de las velas. Cuentan las criadas remediadas, el mejoro de la hacienda.»",
-                  "autor": "León",
-                  "referencia_obra": ", Perf cas. 21 (3. 518). — Part."
-                },
-                {
-                  "texto_cita": "«Dicho ya de lo que debemos hacer para con nosotros y con nuestros prójimos, digamos ahora de lo que debemos hacer para con Dios.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Guía, 2. 17 (R. 6. 1522)."
+                  "id_limpio": "—",
+                  "definicion": "Part.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Dicho ya de lo que debemos hacer para con nosotros y con nuestros prójimos, digamos ahora de lo que debemos hacer para con Dios.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Guía, 2. 17 (R. 6. 1522)."
+                    }
+                  ]
                 }
               ]
             },
@@ -159,21 +216,34 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en, en sentido semejante, por analogía con hablar, pensar (ant.).",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por no la agraviar en loarla yo, no digo más en ella.»",
                   "autor": "Sta. Ter.",
-                  "referencia_obra": "Cam. perf. 2 (1. 404; falta en R. 53. 3202). — Otras veces denota en el designio."
-                },
+                  "referencia_obra": "Cam. perf. 2 (1. 404; falta en R. 53. 3202)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Agradézcote, señora, lo que en mi crédito dijiste.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Nov. 1 (R. 1. 1142)."
-                },
-                {
-                  "texto_cita": "«El cura le dijo que tenía mucha razón en todo cuanto había dicho en favor de las armas.»",
-                  "autor": "",
-                  "referencia_obra": "Id. Quij. 1. 38 (R. 1. 3621)."
+                  "id_limpio": "—",
+                  "definicion": "Otras veces denota en el designio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Agradézcote, señora, lo que en mi crédito dijiste.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Nov. 1 (R. 1. 1142)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«El cura le dijo que tenía mucha razón en todo cuanto había dicho en favor de las armas.»",
+                      "autor": "",
+                      "referencia_obra": "Id. Quij. 1. 38 (R. 1. 3621)."
+                    }
+                  ]
                 }
               ]
             },
@@ -181,18 +251,22 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y lo que dice es una cosa muy más verdadera, que á propósito dicha»",
                   "autor": "León",
                   "referencia_obra": ", Expos. de Job, 34 (2. 183)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No hay palabra del príncipe que no tenga su efecto. Dichas sobre negocios, son órdenes; sobre delitos, sentencia, y sobre promesas, obligación.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 11 (R. 25. 342)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -200,32 +274,48 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Represéntase el pensamiento por medio de una prop. indic.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En estilo directo, citándose textualmente las palabras mismas con que se ha expresado; en este caso nuestro verbo precede, se intercala ó sigue.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Uno de los de á caballo, hablando con su compañero, le dijo: Paréceme, señor Vivaldo, que habemos de dar por bien empleada la tardanza que hiciéremos en ver este famoso entierro.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 13 (R. 1. 2781)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Yo pensé, dijo Cortado, que el hurtar era oficio libre.»",
                   "autor": "",
                   "referencia_obra": "Id. Nov. 3 (R. 1. 1371)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y en estas cosas, según he oído decir á vuesa merced, tanto se pierde por carta de más como por carta de menos.»",
                   "autor": "",
-                  "referencia_obra": "Id. Quij. 2. 37 (R. 1. 4841). — Part."
-                },
+                  "referencia_obra": "Id. Quij. 2. 37 (R. 1. 4841)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Dejar esto por cualquiera destas dos cosas, es regalarle á el Señor, y hacer por él, dicho por su boca: Lo que hicistes por uno destos pequeñitos, hacéis por mí.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Fund. 5 (R. 53. 1872)."
+                  "id_limpio": "—",
+                  "definicion": "Part.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Dejar esto por cualquiera destas dos cosas, es regalarle á el Señor, y hacer por él, dicho por su boca: Lo que hicistes por uno destos pequeñitos, hacéis por mí.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Fund. 5 (R. 53. 1872)."
+                    }
+                  ]
                 }
               ]
             },
@@ -233,96 +323,152 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "En estilo indirecto, siendo la prop. indic. acus. de decir.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Yo dije siempre, y lo diré, y lo digo, | Que es la amistad el bien mayor humano.»",
                   "autor": "Lope",
                   "referencia_obra": ", son. varios, 20 (Obr. suelt. 1. 387)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Vengo á decir que viene aquí Juliana, la Cariharta, toda desgreñada y llorosa.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 3 (R. 1. 1411)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pasa adelante. — Paso adelante, y digo que determiné dejar aquel oficio.»",
                   "autor": "",
                   "referencia_obra": "Id. Col. (R. 1. 2301)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dijo que había dicho muy bien el cura en decir que los montes criaban letrados.»",
                   "autor": "",
                   "referencia_obra": "Id. Quij. 1. 52 (R. 1. 3981)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Quiero decir, Sancho, que el deseo de alcanzar fama es activo en gran manera.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 2. 8 (R. 1. 4201)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ya he dicho á mi amo que me contento con el gobierno de alguna ínsula.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 2. 13 (R. 1. 4291)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Estuvo mil veces por decirle que mentía.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 2. 14 (R. 1. 4311)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Aquí entra y encaja bien el decir que hay buena y mala fortuna en las pretensiones.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 2. 42 (R. 1. 4921)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Saludándola el ángel, le dijo que concebiría en su vientre y pariría un hijo.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Vida de Cristo, p. 22."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«De los diestros dijo una vez que eran maestros de una ciencia ó arte, que cuando la habían menester no la sabían.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Nov. 5 (R. 1. 1642). — No es frecuente la omisión de que."
+                  "referencia_obra": "Nov. 5 (R. 1. 1642)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "No es frecuente la omisión de que.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Yo, aunque dicen | Peco de española rancia, | Por el pundonor gradúo | El mérito de las damas.»",
+                      "autor": "T. Iriarte",
+                      "referencia_obra": ", La señorita malcriada, 1. 4 (7. 131)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Yo, aunque dicen | Peco de española rancia, | Por el pundonor gradúo | El mérito de las damas.»",
-                  "autor": "T. Iriarte",
-                  "referencia_obra": ", La señorita malcriada, 1. 4 (7. 131). — En frases elípticas."
+                  "id_limpio": "—",
+                  "definicion": "En frases elípticas.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Halas de haber [algunas faltas], que somos mujeres; no digo yo que no; lo que digo es que las sientan cuando las hacen.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Conc. 2 (R. 53. 3912)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Para obligarla á que conceda lo que quiero pedirla, la diré que es cosa á que usted se ha negado. — Al instante dirá que sí, sólo por llevar la contraria.»",
+                      "autor": "T. Iriarte",
+                      "referencia_obra": ", La librería, 7 (5. 311)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«¿Es bella? — Dicen que sí.»",
+                      "autor": "Bretón",
+                      "referencia_obra": ", ¡Qué hombre tan amable! 2. 3 (3. 253)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Halas de haber [algunas faltas], que somos mujeres; no digo yo que no; lo que digo es que las sientan cuando las hacen.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Conc. 2 (R. 53. 3912)."
+                  "id_limpio": "—",
+                  "definicion": "Anunciada la prop. indic. por un demostrativo neutro.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Esto sé bien decir, que quedé confusa y pensativa.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 28 (R. 1. 3272)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Siempre, Sancho, lo he oído decir, que el hacer bien á villanos es echar agua en la mar.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 1. 23 (R. 1. 3061)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Para obligarla á que conceda lo que quiero pedirla, la diré que es cosa á que usted se ha negado. — Al instante dirá que sí, sólo por llevar la contraria.»",
-                  "autor": "T. Iriarte",
-                  "referencia_obra": ", La librería, 7 (5. 311)."
+                  "id_limpio": "—",
+                  "definicion": "Pas.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«¿Cómo se dice que Horacio es el único poeta original que poseyó Roma, quitándole este título de honor á Virgilio?»",
+                      "autor": "Lista",
+                      "referencia_obra": ", Ensayos, 2, p. 44."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Es bella? — Dicen que sí.»",
-                  "autor": "Bretón",
-                  "referencia_obra": ", ¡Qué hombre tan amable! 2. 3 (3. 253). — Anunciada la prop. indic. por un demostrativo neutro."
-                },
-                {
-                  "texto_cita": "«Esto sé bien decir, que quedé confusa y pensativa.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 28 (R. 1. 3272)."
-                },
-                {
-                  "texto_cita": "«Siempre, Sancho, lo he oído decir, que el hacer bien á villanos es echar agua en la mar.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 1. 23 (R. 1. 3061). — Pas."
-                },
-                {
-                  "texto_cita": "«¿Cómo se dice que Horacio es el único poeta original que poseyó Roma, quitándole este título de honor á Virgilio?»",
-                  "autor": "Lista",
-                  "referencia_obra": ", Ensayos, 2, p. 44. — Part."
-                },
-                {
-                  "texto_cita": "«Ya dejo dicho que en tiempo de Llobet no estaba á buen recaudo el cuerpo de su venerable maestro.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "Mem. de los conv. de S. Dom. y S. Franc. (R. 46. 4342)."
+                  "id_limpio": "—",
+                  "definicion": "Part.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ya dejo dicho que en tiempo de Llobet no estaba á buen recaudo el cuerpo de su venerable maestro.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "Mem. de los conv. de S. Dom. y S. Franc. (R. 46. 4342)."
+                    }
+                  ]
                 }
               ]
             }
@@ -332,48 +478,60 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con una prop. infin.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En el primer libro dijimos el rey Abidis haber enseñado la manera de domar los bueyes.»",
               "autor": "Ocampo",
               "referencia_obra": ", Crón. 2. 4 (1. 248)."
             },
             {
+              "marca": "",
               "texto_cita": "«Decís ser vuestros deleites estar con los hijos de los hombres.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Vida, 14 (R. 53. 522)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Pas. Se decía estar cerca los enemigos.",
-              "ejemplos_citas": []
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Omitido el verbo ser que acompaña á un pred.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Bastábale á Mut reflexionar que aquella obra se dice traducida de un rabino catalán, llamado Capdevila, del cual, ni de su original, hay noticia cierta.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Mem. del castillo de Bellver (R. 46. 4112)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Es puro latinismo, inusitado hoy, el que ofrece el pasaje siguiente:",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Los justos son dichos ser generosos y liberales, porque son demostraciones y pruebas del corazón liberal y generoso de Dios.»",
                   "autor": "León",
-                  "referencia_obra": ", Nomb. 2, Rey (3. 183). —–"
+                  "referencia_obra": ", Nomb. 2, Rey (3. 183)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -381,27 +539,42 @@
           "id_marcador_html": "δ )",
           "id_limpio": "δ )",
           "definicion": "Con una prop. subj.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En estilo directo, tomándose el subj. en sentido optativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Diciendo los infieles matemos, y los fieles diciendo muramos, pereció totalmente la infidelidad.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 2, Brazo (3. 161)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Viva enhorabuena [la andante caballería], dijo á esta sazón con voz enfermiza maese Pedro, y muera yo, pues soy tan desdichado que puedo decir con el rey Don Rodrigo: Ayer fui señor de España ---»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 26 (R. 1. 4602). — No hay para qué decir que el imperativo es comunísimo en estos casos."
-                },
+                  "referencia_obra": "Quij. 2. 26 (R. 1. 4602)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Andad en buena hora y en tal se os diga: volveos á vuestra casa, y criad vuestros hijos, si los tenéis.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 31 (R. 1. 4711)."
+                  "id_limpio": "—",
+                  "definicion": "No hay para qué decir que el imperativo es comunísimo en estos casos.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Andad en buena hora y en tal se os diga: volveos á vuestra casa, y criad vuestros hijos, si los tenéis.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 2. 31 (R. 1. 4711)."
+                    }
+                  ]
                 }
               ]
             },
@@ -409,55 +582,67 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "En estilo indirecto; la proposición subordinada representa una orden, precepto, consejo, y decir asume el valor de Ordenar, aconsejar, etc.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Es aquella muerte que tantas veces encomienda el apóstol, diciendo que estemos muertos al mundo, y vivamos á solo Dios.»",
                   "autor": "Gran.",
                   "referencia_obra": "Mem. vida crist. 7. 5, § 1 (R. 8. 3901)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El santo rey David, cuando Semeí le maldecía, dijo á sus capitanes, que le querían matar, que no lo hiciesen.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Trib. 1. 12 (R. 60. 3831)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Le dijo que procurase de no porfiar ni reñir con nadie.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 5 (R. 1. 1642)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Bien podéis, estupendo escudero, decirle que éntre.»",
                   "autor": "",
                   "referencia_obra": "Id. Quij. 2. 36 (R. 1. 4821)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Le dijo que en ninguna manera tal hiciese.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 1. 35 (R. 1. 3532)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Esto quieres tú oír, y que se te atreva una vil mujer, por el interés que le han dado, á decirte en tu cara que des lugar á un hombre para que yo le admita?»",
                   "autor": "Lope",
                   "referencia_obra": ", Dorotea, 1. 2 (Obr. suelt. 7. 10)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dijeron á grandes voces que no se disparase, porque venía en aquella embarcación la persona de su rey.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 5. 25 (R. 28. 3861)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Es rarísimo el empleo del subj. en lugar del indic. cuando no se trata de una orden ó consejo. En este caso el verbo denota una mera conjetura.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Diréis de lejos que la cumbre se arda, | Según á todas partes su horizonte | Con armas celestiales resplandece.»",
                   "autor": "L. Argens.",
                   "referencia_obra": "canc. Tan ofendido (R. 42. 2801)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -465,104 +650,149 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Con una prop. interr.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En estilo directo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Págase en esta tierra almojarifazgo de ladrones, señor galán? dijo Rincón.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 3. (R. 1. 1371)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Díganme, señores galanes, ¿voacedes son de mala entrada ó no?»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 3 (R. 1. 1371)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Decidme, Sancho, preguntó el duque, ¿vistes allá entre esas cabras algun cabrón?»",
                   "autor": "",
                   "referencia_obra": "Id. Quij. 1. 41 (R. 1. 4911)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Por ventura es cosa nueva deshacer un solo caballero andante un ejército de doscientos mil hombres, como si todos juntos tuvieran una sola garganta ó fueran hechos de alfeñique? Si no, díganme, ¿cuántas historias están llenas destas maravillas?»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 2. 1 (R. 1. 4052)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pues ¿cómo es, dirán algunos, que siendo universal el sentimiento religioso, no lo es el conocimiento del verdadero Dios?»",
                   "autor": "Lista",
                   "referencia_obra": ", Ensayos, 1, p. 4."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "En estilo indirecto, pasando á ser acus. la prop. interr.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Dime con quién andas, te diré quién eres:»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 10 (R. 1. 4231); Quev. Gran Tac. 21 (R. 23. 5212)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Preguntó al cura con grande ahinco le dijese quién era aquella tan fermosa señora, y qué era lo que buscaba por aquellos andurriales.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 29 (R. 1. 3301)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Le suplico me diga qué se hizo ese don Pedro de Aguilar que ha dicho.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 1. 39 (R. 1. 3642)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Contóla [la pendencia] á los demás; mas no supo decir por qué causa fue su cuestión.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 1. 29 (R. 1. 3301)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Diga Alemania cómo se halla en la protección de Suecia.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 92 (R. 25. 2412)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dos cartas he recibido de ustedes en ocho días, y en ninguna de ellas me han dicho cómo está la Cusculina y don Felipe Moya.»",
                   "autor": "Mor.",
-                  "referencia_obra": "Obr. póst. 2, p. 224. —"
+                  "referencia_obra": "Obr. póst. 2, p. 224."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Selvas y fuentes, decid si en alguna de vosotras alberga ninfa tan bella?»",
+                      "autor": "Figueroa",
+                      "referencia_obra": ", Amarilis, 4 (291)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Díganos usted lisa y llanamente si la comedia que hoy se representa es disparatada ó no.»",
+                      "autor": "Mor.",
+                      "referencia_obra": "La comedia nueva, 1. 4 (R. 2. 3631)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Selvas y fuentes, decid si en alguna de vosotras alberga ninfa tan bella?»",
-                  "autor": "Figueroa",
-                  "referencia_obra": ", Amarilis, 4 (291)."
+                  "id_limpio": "—",
+                  "definicion": "Con el que indicativo del estilo indirecto.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Visto lo cual por el cura y el barbero, le dijeron que qué le había sucedido, que tan mal se paraba.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 26 (R. 1. 3182)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Díganos usted lisa y llanamente si la comedia que hoy se representa es disparatada ó no.»",
-                  "autor": "Mor.",
-                  "referencia_obra": "La comedia nueva, 1. 4 (R. 2. 3631). — Con el que indicativo del estilo indirecto."
-                },
-                {
-                  "texto_cita": "«Visto lo cual por el cura y el barbero, le dijeron que qué le había sucedido, que tan mal se paraba.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 26 (R. 1. 3182). — Convertida la prop. interr. en relativa."
-                },
-                {
-                  "texto_cita": "«Ella no me preguntó nada, dijo Sancho; mas yo le dije de la manera que vuestra merced por su servicio quedaba.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 31 (R. 1. 3361)."
-                },
-                {
-                  "texto_cita": "«Mientras que llega mi fin, | Dile á Lisardo, Marin, | De la suerte que me dejas.»",
-                  "autor": "Lope",
-                  "referencia_obra": ", La llave de la honra, 3. 6 (R. 34. 1301)."
-                },
-                {
-                  "texto_cita": "«Ordenóles el más antiguo que dijesen á lo que venían.»",
-                  "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 2. 16 (R. 28. 2531)."
+                  "id_limpio": "—",
+                  "definicion": "Convertida la prop. interr. en relativa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ella no me preguntó nada, dijo Sancho; mas yo le dije de la manera que vuestra merced por su servicio quedaba.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 31 (R. 1. 3361)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Mientras que llega mi fin, | Dile á Lisardo, Marin, | De la suerte que me dejas.»",
+                      "autor": "Lope",
+                      "referencia_obra": ", La llave de la honra, 3. 6 (R. 34. 1301)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ordenóles el más antiguo que dijesen á lo que venían.»",
+                      "autor": "Solís",
+                      "referencia_obra": ", Conq. de Méj. 2. 16 (R. 28. 2531)."
+                    }
+                  ]
                 }
               ]
             }
@@ -572,69 +802,92 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Pueden concurrir en una sola oración estas varias construcciones dependientes de decir, expresado una sola vez.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Fueron á despertar á D. Quijote, y á decille si estaba todavía con propósito de ir á ver el famoso entierro de Grisóstomo, y que ellos le harían compañía.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 13 (R. 1. 2781)."
             },
             {
+              "marca": "",
               "texto_cita": "«Dijo el cura que se la mostrase [la carta para Dulcinea], que él la trasladaría de muy buena letra.»",
               "autor": "",
               "referencia_obra": "Id, ib. 1. 26 (R. 1. 3182)."
             },
             {
+              "marca": "",
               "texto_cita": "«Maritornes y la ventera le decían que en qué se detenía, que socorriese á su señor y marido.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 44 (R. 1. 3311)."
             },
             {
+              "marca": "",
               "texto_cita": "«Diéronles rebato diciendo que venía el Esposo; que le saliesen á recibir.»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 26, § 3 (R. 6. 991)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "En sentido indeterminado se ha usado y hoy familiarmente se usa diz que por dicen que.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A aquéste Febo no le escondió nada; | Antes de piedras, hierbas y animales | Diz que lo fue noticia entera dada.»",
               "autor": "Garcil.",
               "referencia_obra": "égl. 2 (R. 32. 151)."
             },
             {
+              "marca": "",
               "texto_cita": "«Circe diz que convertía | Los hombres en animales.»",
               "autor": "Castillejo",
               "referencia_obra": ", 1 (R. 32. 1082)."
             },
             {
+              "marca": "",
               "texto_cita": "«Un libro en la lengua castellana, como uno que diz que Erasmo ha hecho en la latina.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. (Mayans, 14)."
             },
             {
+              "marca": "",
               "texto_cita": "«Que joya que cuesta poco, | Diz que se aborrece presto.»",
               "autor": "Tirso",
               "referencia_obra": ", Esto sí que es negociar, 1. 1 (R. 5. 2491)."
             },
             {
+              "marca": "",
               "texto_cita": "«Diz que dicen los dotores | Que es [el vino] dañoso.»",
               "autor": "Alarcón",
               "referencia_obra": ", El dueño de las estrellas, 3. 19 (R. 20. 2811)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si en tiempo de Lope de Vega se representaba en España á los romanos con calzas atacadas, como todo en el mundo diz que está compensado, en Inglaterra se les representaba con capa española.»",
               "autor": "M. de la Rosa",
-              "referencia_obra": ", Com. esp. 4 (2. 179). —"
-            },
+              "referencia_obra": ", Com. esp. 4 (2. 179)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Ese duque se ha empeñado | En hacerte personaje --- | Diz te protege. — Mentira.»",
-              "autor": "",
-              "referencia_obra": "A. L. de Ayala, Un hombre de estado, 1. 2 (1. 19)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Ese duque se ha empeñado | En hacerte personaje --- | Diz te protege. — Mentira.»",
+                  "autor": "",
+                  "referencia_obra": "A. L. de Ayala, Un hombre de estado, 1. 2 (1. 19)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -642,13 +895,16 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Rara vez se halla diz solo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Le oían de buena gana, porque tenía, diz, mucho donaire.»",
                   "autor": "Sig.",
                   "referencia_obra": "Vida de S. Jer. 4. 13 (383)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -656,51 +912,70 @@
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
           "definicion": "Con un dat. refl. (dativus commodi) da á entender que el que habla lo hace de una manera que le es peculiar; de donde sugiere que uno discurre por sí mismo en caso arduo, ó bien connota inconsideración, extravagancia.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Yo no sé qué me diga, romanos, del descuido de los dioses y del atrevimiento de los hombres.»",
               "autor": "Capm.",
               "referencia_obra": "Teatro, 2. 60)."
             },
             {
+              "marca": "",
               "texto_cita": "«Tú, Señor, sabes lo que haces allá: yo no sé lo que me digo aquí.»",
               "autor": "",
               "referencia_obra": "Id. (ib. 2. 104)."
             },
             {
+              "marca": "",
               "texto_cita": "«No sé qué me diga de mí, ni dónde tuve el seso, cuando no deseaba padecer.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cam. perf. 14 (R. 53. 3362)."
             },
             {
+              "marca": "",
               "texto_cita": "«No sé qué me diga de este no venir por acá vuestra paternidad.»",
               "autor": "",
               "referencia_obra": "Ead. Cartas, 3. 18 (R. 55. 1801)."
             },
             {
+              "marca": "",
               "texto_cita": "«No sé qué me diga, ni sé cómo darlo más á entender.»",
               "autor": "Nieremb.",
-              "referencia_obra": "Hermosura de Dios, 2. 3. 3 (300). —"
-            },
+              "referencia_obra": "Hermosura de Dios, 2. 3. 3 (300)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«No tengo mujer, ni sé qué te dices, ni jamás estuve en esta ciudad hasta hoy que desembarqué de la nave.»",
-              "autor": "Timoneda",
-              "referencia_obra": ", Los Menemnos, 6 (R. 2. 2972)."
-            },
-            {
-              "texto_cita": "«El te está de sobra [en",
-              "autor": "",
-              "referencia_obra": ""
-            },
-            {
-              "texto_cita": "«Si no te lo sabes»",
-              "autor": "León",
-              "referencia_obra": ", Cantares, 1. 7 (4. 20)."
-            },
-            {
-              "texto_cita": "«Ella con el miedo, sin saber lo que se decia, le dijo ---»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 35 (R. 1. 3532)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«No tengo mujer, ni sé qué te dices, ni jamás estuve en esta ciudad hasta hoy que desembarqué de la nave.»",
+                  "autor": "Timoneda",
+                  "referencia_obra": ", Los Menemnos, 6 (R. 2. 2972)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«El te está de sobra [en",
+                  "autor": "",
+                  "referencia_obra": ""
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Si no te lo sabes»",
+                  "autor": "León",
+                  "referencia_obra": ", Cantares, 1. 7 (4. 20)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Ella con el miedo, sin saber lo que se decia, le dijo ---»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 1. 35 (R. 1. 3532)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -709,71 +984,101 @@
           "id_marcador_html": "— ι )",
           "id_limpio": "— ι )",
           "definicion": "Con un dat. ú otros compls. reflejos, significa Razonar consigo mismo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Dígase á sí misma: Si yo soy la que debo, el Señor me salvará.»",
               "autor": "Ávila",
               "referencia_obra": ", Epist. 2. 8 (6. 275)."
             },
             {
+              "marca": "",
               "texto_cita": "«Esto pues se decía y se prometía Job en su prosperidad.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 29 (2. 96)."
             },
             {
+              "marca": "",
               "texto_cita": "«Decíase él, si yo por malos de mis pecados ---»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 1 (R. 1. 2581)."
             },
             {
+              "marca": "",
               "texto_cita": "«Sentándose al pie de un árbol, comenzó á hablar consigo mismo y á decirse ---»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 10 (R. 1. 4222)."
             },
             {
+              "marca": "",
               "texto_cita": "«Según se decía á sí mismo, no era razón que caballo de caballero tan famoso y tan bueno él por sí, estuviese sin nombre conocido.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 1 (R. 1. 2581)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y dijeme á mi mismo: No me engaño.»",
               "autor": "",
               "referencia_obra": "Id. Viaje, 8 (R. 1. 6982)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y viendo tardar los males, | Me dije un día á mí mesma ---»",
               "autor": "Rojas",
               "referencia_obra": ", Progne y Filomela, 1. (R. 54. 401)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y entonces dije á mi mismo ---»",
               "autor": "",
-              "referencia_obra": "Id. No hay amigo para amigo, 1 (R. 54. 841). —"
+              "referencia_obra": "Id. No hay amigo para amigo, 1 (R. 54. 841)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Apenas oyó esto el cura cuando dijo entre sí: Dios te tenga de su mano, pobre D. Quijote.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij, 2. 1 (R. 1. 4052)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Finalmente decía entre sí que si él hallara arte, modo ó manera como desencantar á su señora Dulcinea, no envidiara ---»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 2. 16 (R. 1. 4342)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Dije entre mí: Si yo viniese á verme ---»",
+                  "autor": "",
+                  "referencia_obra": "Id. Viaje, 1 (R. 1. 6801)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Cuentan de un sabio, que un día | Tan pobre y mísero estaba, | Que sólo se sustentaba | De unas hierbas que cogía. | ¿Habrá otro (entre sí decía) | Más pobre y triste que yo?»",
+                  "autor": "Cald.",
+                  "referencia_obra": "La vida es sueño, 1. 2 (R. 7. 22)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Apenas oyó esto el cura cuando dijo entre sí: Dios te tenga de su mano, pobre D. Quijote.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij, 2. 1 (R. 1. 4052)."
-            },
-            {
-              "texto_cita": "«Finalmente decía entre sí que si él hallara arte, modo ó manera como desencantar á su señora Dulcinea, no envidiara ---»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 2. 16 (R. 1. 4342)."
-            },
-            {
-              "texto_cita": "«Dije entre mí: Si yo viniese á verme ---»",
-              "autor": "",
-              "referencia_obra": "Id. Viaje, 1 (R. 1. 6801)."
-            },
-            {
-              "texto_cita": "«Cuentan de un sabio, que un día | Tan pobre y mísero estaba, | Que sólo se sustentaba | De unas hierbas que cogía. | ¿Habrá otro (entre sí decía) | Más pobre y triste que yo?»",
-              "autor": "Cald.",
-              "referencia_obra": "La vida es sueño, 1. 2 (R. 7. 22). —"
-            },
-            {
-              "texto_cita": "«Mitad hombre y mitad caballo sí es galicismo; pero dan estas voces una idea tan clara y exacta, que no hay razón para proscribirlas. En el mismo caso se hallan las locuciones yo me dije, tú te dijiste, fulano se dijo. Cierto es que hasta poco ha el castellano que hablabe consigo, decía las cosas para sí, entre sí, ó para su capote; no obstante, siendo tan lógico y tan claro este uso del verbo decir unido al pronombre, siendo tan conciso y enérgico, puede practicarse lo mismo que el otro.»",
-              "autor": "Baralt",
-              "referencia_obra": "(XIX). Los pasajes citados antes demuestran que este uso de decirse no es neológico."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Mitad hombre y mitad caballo sí es galicismo; pero dan estas voces una idea tan clara y exacta, que no hay razón para proscribirlas. En el mismo caso se hallan las locuciones yo me dije, tú te dijiste, fulano se dijo. Cierto es que hasta poco ha el castellano que hablabe consigo, decía las cosas para sí, entre sí, ó para su capote; no obstante, siendo tan lógico y tan claro este uso del verbo decir unido al pronombre, siendo tan conciso y enérgico, puede practicarse lo mismo que el otro.»",
+                  "autor": "Baralt",
+                  "referencia_obra": "(XIX). Los pasajes citados antes demuestran que este uso de decirse no es neológico."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -782,97 +1087,118 @@
           "id_marcador_html": "— χ )",
           "id_limpio": "— χ )",
           "definicion": "En el uso común los adverbios sí y no se juntan inmediatamente con el verbo decir.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La tía Nicolasa está siempre de esquina con mi tío, esperando á que él diga sí, para decir ella no.»",
               "autor": "",
               "referencia_obra": "T. Iriarte, La librería, 2 (5. 293)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Pero conforme á una práctica conocida en las demás lenguas romances, se interpone de. Según la Acad. decir de no es ant.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Boca que dice de no, dice de sí»",
                   "autor": "Comend. Griego",
                   "referencia_obra": "."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Conviéneos --- decir de no á cualquiera cosa que á vos venga, por decir á Dios de sí.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Epist. 2. 6 (6. 259)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No le puedo negar ni decir de no á quien le rogare por otros.»",
                   "autor": "",
                   "referencia_obra": "Id. Eucar. 21 (4. 298)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pues que yo lo sabía, no pude decir de no.»",
                   "autor": "León",
                   "referencia_obra": ", Pról. á los refr. del Comend. Griego."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Algunas personas, á quien los perlados no podían decir de no, gustaban estuviese yo en su compañía.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Vida, 32 (R. 53. 991)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y en estos casos ha menester ser entero el perlado, y no se le dar nada de decir de no.»",
                   "autor": "",
                   "referencia_obra": "Ead. Modo de visitar (R. 53. 2961)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Todo esto ha de negar á su cuerpo: á todo esto le ha de decir de no.»",
                   "autor": "Gran.",
                   "referencia_obra": "Simb. 3. 20 (R. 6. 4341)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si niegas sin hablarte y sin pedirte, | Y me dices de no con la cabeza.»",
                   "autor": "Lope",
                   "referencia_obra": ", Pobreza no es vileza, 1. 10 (R. 52. 2382)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Decir á tantos de no | Ya fuera descortesía.»",
                   "autor": "Tirso",
                   "referencia_obra": ", Por el sótano y el torno, 3. 19 (R. 5. 2473)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si decís de no, matadme.»",
                   "autor": "",
                   "referencia_obra": "Id. Celos con celos se curan, 2. 10 (R. 5. 3723)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Por dónde | La podría yo obligar | Que me diga de si ó no?»",
                   "autor": "",
                   "referencia_obra": "Id. Quien calla, otorga, 3. 16 (R. 5. 1071)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ella ha dicho ya de sí: | Demos á la ejecución | Tiempo, lugar y ocasión.»",
                   "autor": "Alarcón",
                   "referencia_obra": ", Mudarse por mejorarse, 3. 1 (R. 20. 1441)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Familiarmente se usa decir nones y, según la Acad., decir de nones.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Los demás ladrones --- le maltratan --- y tienen en poco, porque confesó y no tuvo ánimo de decir nones.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 22 (R. 1. 3032),"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Yo soy del linaje de los Panzas, que todos son testarudos, y si una vez dicen nones, nones han de ser, aunque sean pares.»",
                   "autor": "",
                   "referencia_obra": "Id. ib, 2. 53 (R. 1. 5171)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -880,18 +1206,22 @@
           "id_marcador_html": "— λ )",
           "id_limpio": "— λ )",
           "definicion": "Absol. Se usan he dicho, dijo, para anunciar el fin de un discurso.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Dijo, y ella, huyendo los abrazos, | Volvió turbada la cerviz de rosa.»",
               "autor": "Espinosa",
               "referencia_obra": ", Fáb. del Jenil (R. 29. 4762)."
             },
             {
+              "marca": "",
               "texto_cita": "«Dijo Cicerón, y más hubiera dicho, si el recelo de que su plática degenerase en disertación prolija no le hubiese obligado á cercenar algunos párrafos.»",
               "autor": "T. Iriarte",
               "referencia_obra": ", Liter. en cuaresma (7. 49)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -899,98 +1229,128 @@
     {
       "id": "b)",
       "definicion": "En especial, Manifestar el pensamiento con palabras respondiendo á una pregunta ó interrogatorio ó presentando una réplica, reparo ú observación á lo expresado por otro (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«E visto por el señor alcalde mandó se tomen é reciban al tenor del dicho pedimento los testigos que el dicho Rodrigo de Cervantes presentare, y lo que dijeren é depusieren se le mandó dar signado en pública forma en manera que haga fe.»",
               "autor": "Docum",
               "referencia_obra": ". de 1578 (Navarrete, Vida de Cerv. 331)."
             },
             {
+              "marca": "",
               "texto_cita": "«Llamóme, diciendo: Lázaro, mira qué persecución ha venido aquesta noche por nuestro pan. Yo híceme muy maravillado preguntándole qué seria. ¿Qué ha de ser? dijo él: ratones que no dejan cosa á vida.»",
               "autor": "",
               "referencia_obra": "Lazar. 2 (R. 3. 822)."
             },
             {
+              "marca": "",
               "texto_cita": "«No hay peor cosa que cantar en el ansia. Antes he oído decir, dijo D. Quijote, que quien canta sus males espanta. Acá es al revés, dijo el galeote, que quien canta una vez, llora toda la vida.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 22 (R. 1. 3032)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con á, para expresar aquello á que damos respuesta ó presentamos reparo ú observación.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A lo que me preguntaste del orden que tenía para entrar con amo, digo que ya sabes tú que la humildad es la basa y fundamento de todas virtudes.»",
               "autor": "Cerv.",
               "referencia_obra": "Col. (R. 1. 2301)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué decís vos á esto, buen viejo del báculo? dijo Sancho. A lo que dijo el viejo: Yo, señor, confieso que me los prestó.»",
               "autor": "",
               "referencia_obra": "Id. Quij. 2. 45 (R. 1. 4981)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pidió al duque que, si fuese posible, le acomodasen de algún cojín ó de alguna almohada --- porque las ancas de aquel caballo más parecían de mármol que de leño. A esto dijo la Trifaldi que ningún jaez ni ningún género de adorno sufría sobre si Clavileño.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 41 (R. 1. 4892)."
             },
             {
+              "marca": "",
               "texto_cita": "«Preguntó á los que llevarle querían que qué les movía á querer llevar contra su voluntad aquel muchacho. Muévenos, respondió uno de los cuatro, dar la vida á su padre, que por la ausencia de este caballero queda á peligro de perderla. A esto dijo don Luis: No hay para qué se dé cuenta aquí de mis cosas.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 44 (R. 1. 3802)."
             },
             {
+              "marca": "",
               "texto_cita": "«Contó luégo á Cardenio y á Dorotea lo que tenían pensado para remedio de D. Quijote, á lo menos para llevarle á su casa; á lo cual dijo Dorotea que ella haría la doncella menesterosa mejor que el barbero.»",
               "autor": "",
               "referencia_obra": "Id, ib. 1. 29 (R. 1. 3301)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "A esta acepción corresponde la locución díme y diréte, que se sustantiva y hoy no se usa generalmente sino en plural y con el verbo andar: disputas, altercaciones.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y ¿qué linaje hay en el mundo por bueno que sea, que no tenga algún díme y diréte?»",
               "autor": "Cerv.",
               "referencia_obra": "Col. (R. 1. 2351)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si aquélla era Dulcinea, no ha de estar á mi cuenta ni ha de correr por mí, ó sobre ello morena. No sino ándense á cada triquete conmigo á díme y diréte, Sancho lo dijo, Sancho lo hizo, Sancho tornó, y Sancho volvió, como si Sancho fuese algún quienquiera, y no fuese el mismo Sancho Panza el que anda ya en libros por ese mundo adelante.»",
               "autor": "",
-              "referencia_obra": "Id. Quij. 2. 33 (R. 1. 4762). —"
-            },
+              "referencia_obra": "Id. Quij. 2. 33 (R. 1. 4762)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Ya se suena que dejará presto el cargo de asistente, porque no tiene condición para verse á cada paso en dimes ni diretes con los señores de la audiencia.»",
-              "autor": "",
-              "referencia_obra": "Id. Nov. 8 (R. 1. 1851)."
-            },
-            {
-              "texto_cita": "«Vendíselas [mis comedias] al librero --- él me las pagó razonablemente, yo cogí mi dinero con suavidad, sin tener cuenta con dimes ni diretes de recitantes.»",
-              "autor": "",
-              "referencia_obra": "Id. Com. pról. (Com. 1. 63)."
-            },
-            {
-              "texto_cita": "«Maese Pedro no quiso volver á entrar en más dimes ni diretes con D. Quijote, á quien él conocía muy bien.»",
-              "autor": "",
-              "referencia_obra": "Id. Quij. 2. 26 (R. 1. 4612)."
-            },
-            {
-              "texto_cita": "«No tratamos tan secretamente nuestros amores que no viniesen á noticia de mi señora, la cual por excusar dimes y diretes nos casó.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 2. 48 (R. 1. 5041)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Ya se suena que dejará presto el cargo de asistente, porque no tiene condición para verse á cada paso en dimes ni diretes con los señores de la audiencia.»",
+                  "autor": "",
+                  "referencia_obra": "Id. Nov. 8 (R. 1. 1851)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Vendíselas [mis comedias] al librero --- él me las pagó razonablemente, yo cogí mi dinero con suavidad, sin tener cuenta con dimes ni diretes de recitantes.»",
+                  "autor": "",
+                  "referencia_obra": "Id. Com. pról. (Com. 1. 63)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Maese Pedro no quiso volver á entrar en más dimes ni diretes con D. Quijote, á quien él conocía muy bien.»",
+                  "autor": "",
+                  "referencia_obra": "Id. Quij. 2. 26 (R. 1. 4612)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«No tratamos tan secretamente nuestros amores que no viniesen á noticia de mi señora, la cual por excusar dimes y diretes nos casó.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 2. 48 (R. 1. 5041)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1000,51 +1360,63 @@
     {
       "id": "c)",
       "definicion": "En especial, Asegurar, sostener (trans,).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tengo por honesta cosa la pobreza alegre; y aun más te digo, que no los que poco tienen son pobres, mas los que mucho desean. Y por esto, aunque más digas, no te creo en esta parte.»",
               "autor": "",
               "referencia_obra": "Celest. 1 (R. 3. 141)."
             },
             {
+              "marca": "",
               "texto_cita": "«No lo creyera si me lo dijeran frailes descalzos, pero pues la señora doña Rodríguez lo dice, debe de ser así.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 48 (R. 1. 5051)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Es posible que tanta gente honrada diga que ésta no es bacía sino yelmo?»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 45 (R. 1. 3821)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pues yo te digo, Sancho amigo, que es tan verdad que son borricos, como yo soy D. Quijote y tú Sancho Panza.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 10 (R. 1. 4232)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Se usa con subj. para expresar afirmación vehemente, como asegurar, prometer, certificar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Yo le digo que si se ven sin ella, que ellas la echen menos.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Cartas, 1. 84 (R. 55. 2561)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Yo os digo de verdad que por muy á gusto de todos tres que Dios se guise, no los acabe de tener contentos.»",
                   "autor": "Capm.",
                   "referencia_obra": "Teatro, 4. 206)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1052,13 +1424,16 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Allégase a este significado el empleo que se hace de nuestro verbo, generalmente con negación, para expresar enfáticamente un pensamiento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No digo yo hacer tardanza de un día, pero de cuatro la hiciera á trueco de verle [el entierro de Grisóstomo].»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 13 (R. 1. 2781).» ¡Pues qué cuando citan la divina Escritura! No dirán sino que son unos santos Tomases y otros doctores de la Iglesia.» Id. ib. 1, pról. (R. 1. 252)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1066,96 +1441,126 @@
     {
       "id": "d)",
       "definicion": "En especial, Decir mal, murmurar. Se usa en absol. y con de para señalar la persona censurada.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Antes dí que digan.»",
           "autor": "Comend. Griego",
           "referencia_obra": "."
         },
         {
+          "marca": "",
           "texto_cita": "«Está el mono en la pared, dice de todos y todos dél.»",
           "autor": "Lope",
           "referencia_obra": ", Dorotea, 5. 2 (Obr. suelt. 7. 368)."
         },
         {
+          "marca": "",
           "texto_cita": "«Y si de vos se riyere | Todo el bando tomajón, | Dadme, y dejadlas que digan, | Pues que dijeron de Dios.»",
           "autor": "Quev.",
           "referencia_obra": "Musa, 6, rom. 34 (R. 69. 1782)."
         },
         {
+          "marca": "",
           "texto_cita": "«Como de estas necedades he yo oído. Digan, que de Dido dijeron.»",
           "autor": "",
           "referencia_obra": "Píc. Justina, 1. 2. 2. 3 (R. 33. 952)."
         },
         {
+          "marca": "",
           "texto_cita": "«Si se burlan, que se burlen; de Dios dijeron.»",
           "autor": "Mor.",
           "referencia_obra": "Obr. póst. 2, p. 224."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "e)",
       "definicion": "En especial se entiende de la manifestación del pensamiento por medio de palabras, como obra ó creación artística. Casi no se usa sino en el infin.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Tomó la pluma y resucitó aquel su antiguo valor, fuerza y elegancia en el decir, y escribió abiertamente contra Rufino.»",
           "autor": "Sig.",
           "referencia_obra": "Vida, de S. Jer. 5. 9 (499)."
         },
         {
+          "marca": "",
           "texto_cita": "«No prescribimos este trabajo y ejercicio sobre los excelentes modelos latinos para enseñar á hablar bien esta lengua --- sino para que la entiendan y conozcan íntimamente sus bellezas, y aplicando las ideas del buen gusto que recibieren en ella á la lengua castellana, puedan algún día usar dignamente de su idioma, en todos los géneros de decir, ya hablando, ya escribiendo.»",
           "autor": "Jovell.",
           "referencia_obra": "Regl. col. de Calatr. 2. 1 (R. 46. 1932)."
         },
         {
+          "marca": "",
           "texto_cita": "«Hemos visto en efecto hombres dotados de cierta facilidad en el decir y sutileza en el discurrir en conversaciones y en debates escolásticos, que han creído que ser razonador era lo mismo que ser elocuente.»",
           "autor": "Capm.",
           "referencia_obra": "Filosof. eloc. pról. (IX)."
         },
         {
+          "marca": "",
           "texto_cita": "«El arte de bien decir se debiera enseñar á los jóvenes después de la lógica, y de los demás estudios filosóficos.»",
           "autor": "",
           "referencia_obra": "Id. ib. (XXIV)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "f)",
       "definicion": "Por extensión sirve para denotar el empleo que se hace de las voces ó expresiones conforme al uso de una lengua (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«También decimos dizque por dicen.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. (Mayans, 95)."
             },
             {
+              "marca": "",
               "texto_cita": "«También decimos de la ventana por desde la ventana.»",
               "autor": "",
               "referencia_obra": "Id. ib. (Mayans, 95)."
             },
             {
+              "marca": "",
               "texto_cita": "«Como en nuestra lengua decimos: en un cerrar y abrir de un ojo, sin ser oído ni visto, sin ver de dónde ni cómo.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 9 (1. 158)."
             },
             {
+              "marca": "",
               "texto_cita": "«Al hablar de los asirios, de los partos y de otras naciones extinguidas, decimos las razas, y no las castas antiguas; y cuando hablamos de las divisiones que la religión y las leyes han introducido en las naciones del Hindostán, como los parias, no decimos razas, sino castas.»",
               "autor": "Mora",
-              "referencia_obra": ", Sinón. p. 128. —"
-            },
+              "referencia_obra": ", Sinón. p. 128."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Todo el día se le pasa en averiguar si dijo bien ó mal Homero en tal verso de la Ilíada.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 16 (R. 1. 4361)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Todo el día se le pasa en averiguar si dijo bien ó mal Homero en tal verso de la Ilíada.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 2. 16 (R. 1. 4361)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1164,54 +1569,74 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Empléase para denotar que se usa un término en toda la comprensión de su significado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Quien dice hermosura, dice apacibilidad, dulzura, suavidad de condición y trato.»",
               "autor": "Espinel",
               "referencia_obra": ", Escud. 1. 2 (R. 18. 3811)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Quién tendrá confianza | Si quien dijo mujer dijo mudanza?»",
               "autor": "Lope",
               "referencia_obra": ", Gatom. 1 (Obr. suelt. 19. 181)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Se emplea para rectificar una expresión impropia ó inoportuna.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El padre provincial ha andado tan lejos (digo el visitador) que aun por cartas no he podido tratar este negocio.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cartas, 1. 2 (R. 55. 411)."
             },
             {
+              "marca": "",
               "texto_cita": "«Este que sigue es un poeta santo, | Digo famoso: Miguel Cid se llama.»",
               "autor": "Cerv.",
               "referencia_obra": "Viaje, 2 (R. 1. 6821)."
             },
             {
+              "marca": "",
               "texto_cita": "«Vuestras grandezas sean servidas de no hacer tanta cortesía á este su criado, digo á esta su criada, porque según soy de dolorida no acertaré á responder á lo que debo.»",
               "autor": "",
               "referencia_obra": "Id. Quij. 2. 38 (R. 1. 4841)."
             },
             {
+              "marca": "",
               "texto_cita": "«Nueva manera de cabras es ésa, dijo el duque, y por esta nuestra región del suelo no se usan tales colores, digo cabras de tales colores.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 41 (R. 1. 4911)."
             },
             {
+              "marca": "",
               "texto_cita": "«Con fortaleza varonil: mas ¿qué digo varonil? con fortaleza divina sufrieron [los mártires] las más crueles invenciones de tormentos que nunca fueron vistos ni imaginados.»",
               "autor": "Gran.",
-              "referencia_obra": "Símb. 4, diál. 9, § 1 (R. 6. 5852). —"
-            },
+              "referencia_obra": "Símb. 4, diál. 9, § 1 (R. 6. 5852)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Perdóneme vuesa merced, señor mío, si le digo que de todo cuanto aquí ha dicho, lléveme Dios, que iba á decir el diablo, si le creo cosa alguna.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 23 (R. 1. 4532)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Perdóneme vuesa merced, señor mío, si le digo que de todo cuanto aquí ha dicho, lléveme Dios, que iba á decir el diablo, si le creo cosa alguna.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 2. 23 (R. 1. 4532)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1220,36 +1645,44 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Es necesario prescindir del instrumento de que se vale el poeta propiamente dicho, que es el lenguaje.»",
               "autor": "Lista",
               "referencia_obra": ", Artículos, 1, p. 56 (Palma, 1840)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "A este concepto se allega en la frase querer decir: significar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No paséis adelante sin decirme qué quiere decir abadengo.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. (Mayans, 29)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué quieren decir esas insignias tan dolorosas?»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 6. 2, § 11 (R. 8. 3641)."
             },
             {
+              "marca": "",
               "texto_cita": "«Determina de hacerse un espiritual nazareo, que quiere decir hombre dedicado á Dios.»",
               "autor": "",
               "referencia_obra": "Id. ib. 7. 5, § 1 (R. 8. 3901)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1257,106 +1690,130 @@
     {
       "id": "g)",
       "definicion": "Por extensión, Nombrar, mentar, mencionar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Puede vuesa merced guiarnos donde está ese caballero que dice.»",
               "autor": "Cerv.",
               "referencia_obra": "Nov. 3 (R. 1. 1371)."
             },
             {
+              "marca": "",
               "texto_cita": "«Habéis de saber que ese D. Quijote que decís es el mayor amigo que en este mundo tengo.»",
               "autor": "",
               "referencia_obra": "Id. Quij. 2. 14 (R. 1. 4311)."
             },
             {
+              "marca": "",
               "texto_cita": "«El tal D. Quijote que digo, los ha vencido á todos.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 14 (R. 1. 4311)."
             },
             {
+              "marca": "",
               "texto_cita": "«Como su merced estaba aechando aquel trigo que dije, el mucho polvo que sacaba se lo puso como nube ante el rostro y se le escureció.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 8 (R. 1. 4192)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué nombre, señor, tenéis? --- | Rugero soy de Moncada. | ¿Nunca me oístes decir?»",
               "autor": "Lope",
               "referencia_obra": ", El despertar á quien duerme, 1. 4 (R. 41. 3462)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part. Es muy común en el sentido de Nombrado, mencionado, expresado, designando el mismo objeto de que se ha tratado antes.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Las recetas generales que se deben dar á los que quieren servir al Señor, demás de las dichas, son cuatro.»",
               "autor": "Ávila",
               "referencia_obra": ", Epist. 1. 29 (6. 156)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los dos secretarios sirvan y asistan en el consejo en los días y á las horas que concurrieren el presidente y los del consejo --- y su asiento será en el consejo después del fiscal dél, que ha de preceder á los dichos secretarios.»",
               "autor": "",
               "referencia_obra": "Recop. de Indias, 2. 6. 9 (1. 1621)."
             },
             {
+              "marca": "",
               "texto_cita": "«Las artes de la disimulación con las circunstancias dichas, mejor están, cuando se pueden excusar, en los ministros que en los príncipes.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 45 (R. 25. 1142)."
             },
             {
+              "marca": "",
               "texto_cita": "«Dispensó á Beltrán Roig las siguientes gracias: --- que pudiese disfrutar las hierbas y pastos del monte de Bellver, aprovechándolos, vendiéndolos ó arrancándolos, lo que se entendiese también por el tiempo de su beneplácito y mientras gobernase el castillo --- que asímismo pudiese disfrutar por el dicho tiempo y modo las leñas, ramos inútiles, frutos y despojos de los árboles y matas del monte.»",
               "autor": "Jovell.",
               "referencia_obra": "Mem. del castillo de Bellver (R. 46. 4191)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con mucha frecuencia se omite el artículo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Estuvieron en Medina del Campo hasta el mes de septiembre, é partieron los reyes dicho mes á Madrigal.»",
                   "autor": "Carvajal",
                   "referencia_obra": "(R. 70. 5482)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Martes á 26 de noviembre de dicho año [1504] entre once y doce del día llevó Dios á la Reina Católica.»",
                   "autor": "",
                   "referencia_obra": "Id. (R. 70. 5541)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Para que los ciento noventa y un solares yermos que parece hay dentro de los muros de esta villa de Madrid se puedan reedificar, se concede un año de término á sus respectivos dueños --- y para que más se animen á la reedificación de dichos solares se concede á los que edifiquen en ellos la libertad de la casa de Aposento por los diez años primeros.»",
                   "autor": "",
                   "referencia_obra": "Nov. Recop. 10. 15. 12 (4. 282)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ya el 29 [de mayo] tenía [don Juan II] puesto su real sobre Maqueda, pues que hay fechada en dicho día y punto una carta patente en favor del conde de Rivadeo.»",
                   "autor": "",
                   "referencia_obra": "Quint, D. Álv. de Luna, apénd. 2 (R. 19. 5032)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Puede ponerse en plural delante de varios sustantivos, de los cuales el primero está en singular. Véase Bello, Gram. § 349, a, 14a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Después de haber estado en la ciudad y vuelto á Bellver --- dichos rey, reina é infantas, hubo en ella grandes novedades.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Mem. del castillo de Bellver (R. 46. 4171)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1364,90 +1821,111 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "En el sentido de Llamar, comúnmente se usa con un pred., que puede ser:",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Un sust.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Llama historia san Jerónimo á lo que decimos sentido literal.»",
                   "autor": "Sig.",
                   "referencia_obra": "Vida de S. Jer. 6. 1 (543)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Respecto desta hermosura, se puede decir desproporción toda la proporción de los cielos.»",
                   "autor": "Nieremb.",
                   "referencia_obra": "Hermosura de Dios, 1. 9. 1 (105)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Cual hielo á plantas, sequedad á flores --- | Así contrario amor fue siempre al hombre; | Y quien fuego le dijo, conocía | Su natural tan pérfido y malvado.»",
                   "autor": "Pastor",
                   "referencia_obra": "fido, 4 (R. 19. 231)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Un adj. ó un compl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Dígote culto; y si apelas, dígote benemérito.»",
                   "autor": "Quev.",
                   "referencia_obra": "Entremetido (R. 23. 3682)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se conserva en su celda la llave dorada del castillo --- y además otra que dicen de la mina.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Mem. del castillo de Bellver (R. 46. 4181)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Tomaron tierra en un puerto que dijeron de la Candelaria, por ser esta festividad cuando arribaron á él.»",
                   "autor": "Quint.",
                   "referencia_obra": "Pizarro (R. 19. 3032)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tuvo en una mujer baja, llamada Capa, dos hijos, que se dijeron el uno don Felipe y el otro don Juan.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 22. 19 (R. 31. 1472)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Los diáconos que tenían cuenta con estos lugares se llamaban diáconos cardinales. De esta misma suerte se dijeron algunos obispados cardinales, y sus obispos cardinales.»",
                   "autor": "Sig.",
                   "referencia_obra": "Vida de S. Jer. 3. 6 (190)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¡Oh fiestas tan falsamente dichas fiestas, para los que de esta manera las celebran!»",
                   "autor": "Ávila",
                   "referencia_obra": ", Eucar. 13 (3. 401)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El río Jenil, que cuasi toca los edificios, dicho de los antiguos Singilia.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Gran. 2 (R. 21. 902)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Es Lérida principal ciudad entre las de Cataluña --- en la ribera del río dicho entonces Sicoris, y ahora de nosotros Segre.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal. 5 (R. 21. 5142)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1456,98 +1934,120 @@
     {
       "id": "h)",
       "definicion": "Por extensión, Contar, referir (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Aunque san Atanasio no hubiera dicho la penitencia, retractación y muerte de Osio, era suficiente prueba que puesto que como flaco hubiese caído, luégo se levantó, detestó y se apartó de su error, lo que tantos santos y historiadores dijeron dél.»",
               "autor": "Aldrete",
               "referencia_obra": ", Antig. 1. 3 (30)."
             },
             {
+              "marca": "",
               "texto_cita": "«No digo mil descuidos que hay en el conocimiento de las enfermedades y en la aplicación de las medicinas.»",
               "autor": "Espinel",
               "referencia_obra": ", Escud. 1. 4 (R. 18. 3862)."
             },
             {
+              "marca": "",
               "texto_cita": "«Digamos pues el canto y los amores | De Alfeo y de Damón, doctos pastores.»",
               "autor": "León",
               "referencia_obra": ", Poes. 2, égl. 8 (4. 425)."
             },
             {
+              "marca": "",
               "texto_cita": "«Alfeo comenzó: lo que ha cantado, | Vos, Musas, lo decid, que á mi no es dado.»",
               "autor": "",
               "referencia_obra": "Id. ib. (4. 428)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué santo ó qué gloriosa | Virtud, qué deidad que el cielo admira, | Oh musa poderosa | En la cristiana lira, | Diremos ---?»",
               "autor": "",
               "referencia_obra": "Id. ib. 1, A todos los Santos (4. 330)."
             },
             {
+              "marca": "",
               "texto_cita": "«Nada de lo que pasa | Dirás dentro ni fuera de la casa.»",
               "autor": "Bretón",
               "referencia_obra": ", ¡Qué hombre tan amable! 1, 1 (3. 242)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con un dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Aun no sé yo la mitad de los casos sucedidos á los amantes de Marcela; mas podría ser que mañana topásemos en el camino algún pastor que nos los dijese.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 12 (R. 1. 2781)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ni á vista de sus naves | Fue más furioso Aquiles, cuando en Troya | Le dijeron la muerte de Patroclo.»",
               "autor": "Lope",
               "referencia_obra": ", Gatom. 5 (Obr. suelt. 19. 233)."
             },
             {
+              "marca": "",
               "texto_cita": "«El amor y la obligación no sólo me mandan, pero porfiadamente me fuerzan, amiga Teodora, á que os diga mi sentimiento.»",
               "autor": "",
               "referencia_obra": "Id. Dorotea, 1. 1 (Obr. suelt. 7. 1)."
             },
             {
+              "marca": "",
               "texto_cita": "«Marcela, de mi amor primer cuidado, | Se trató de casar, y libremente | Una noche me dijo el desposado.»",
               "autor": "",
               "referencia_obra": "Id. epíst. 4 (Obr. suelt. 1. 311)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Buena ocasión nos daría este suceso para avisar á las ambiciones de algunos que procuran los puestos y lugares que no merecen, si el oficio de historiador fuese tanto moralizar como decir.»",
               "autor": "Melo",
               "referencia_obra": ", Guerra de Catal. 3 (R. 21. 4851)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Intrans. Con de, para expresar el asunto de la relación.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Diole un gran mal, y queriendo hacer una buena obra de su hacienda --- díjola él de estos monesterios.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Cartas, 2. 85 (R. 55. 1071)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1555,51 +2055,63 @@
     {
       "id": "i)",
       "definicion": "Por extensión, Recitar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Decir de memoria.»",
               "autor": "Acad.",
               "referencia_obra": "Dicc."
             },
             {
+              "marca": "",
               "texto_cita": "«Téngase también cuidado que en las dichas escuelas se diga la doctrina cristiana.»",
               "autor": "Ávila",
               "referencia_obra": ", Epist. 4, instr. para jueces, § 5 (7. 260)."
             },
             {
+              "marca": "",
               "texto_cita": "«. Dijo --- que no le daba mucha pena la pérdida de la carta de Dulcinea, porque él la sabía casi de memoria --- Decidla, Sancho, pues, dijo el barbero, que después la trasladaremos.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 26 (R. 1. 3182)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hizo este caballero dos sonetos á manera de epitafios el uno á la Goleta y el otro al fuerte; y en verdad que los tengo de decir, porque los sé de memoria.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 39 (R. 1. 3642)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿También las señoras decían coplillas?»",
               "autor": "Mor.",
               "referencia_obra": "La comedia nueva, 1. 1 (R. 2. 3581)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El silencio, que antes era rigurosísimo --- quedó templado desde dichas completas hasta dicha prima.»",
                   "autor": "Yepes",
                   "referencia_obra": ", Vida de Sta. Ter. 2. 11 (Míst. 1. 145)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1607,13 +2119,16 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con un dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Contentóles [el soneto], y acordaron que el mismo autor se le fuese diciendo á los músicos, porque no había lugar de tomallo de memoria.»",
               "autor": "Cerv.",
               "referencia_obra": "Tía fing. (R. 1. 2461)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1621,26 +2136,33 @@
     {
       "id": "j)",
       "definicion": "En el juego:",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "En el siguiente pasaje parece significar Aceptar la parada.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«A doblón, y tercera en cuatro. — Digo.»",
               "autor": "",
               "referencia_obra": "Mto. S. Franco de Sena, 2. 14 (R. 39. 1341)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Decirse: locución que se usa en varios juegos de naipes, y significa que los jugadores descubren el punto que tienen (fam,). Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1648,44 +2170,55 @@
     {
       "id": "k)",
       "definicion": "El infin. se ha usado como sust.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Dicho notable; y en general, Dicho. Hoy no es de uso frecuente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los nuestros, dice Cicerón, quisieron que las cosas que dijésemos graciosas, breves y agudas, se llamasen decires.»",
               "autor": "Capm.",
               "referencia_obra": "Filos. eloc. apénd. 2 (624. Cic., De orat. 2. 54, dice dicta.)."
             },
             {
+              "marca": "",
               "texto_cita": "«Entre muchas contras tiene esto la contra gravísima que expresa, mejor que nada, un decir harto familiar y bajo, pero muy gráfico --- El decir es: hasta los gatos quieren zapatos.»",
               "autor": "Valera",
               "referencia_obra": ", Apuntes sobre el arte de escribir novelas, p. 169."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "En nuestra antigua poesía, Composición destinada á la lectura ó recitación, á diferencia de la cantiga.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Juan el Segundo, que se complacía mucho en oír los decires rimados, y á veces también rimaba, introdujo este gusto en su corte.»",
               "autor": "Quint.",
               "referencia_obra": "introd. al Parn. esp. 2 (R. 19. 1291)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Plur. Murmuraciones, detracciones (ant.). Véase PER. ANTECL.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1693,93 +2226,114 @@
     {
       "id": "2",
       "definicion": "met. Con. suj. de cosa.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Se usa hablando de los libros ú otros escritos y composiciones para dar á entender las especies que contienen (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si fueren leídas [aquellas coplas] enteras en sí, | Dirán de vos mismo lo que juzgáis vos.»",
               "autor": "Castillejo",
               "referencia_obra": ", 2 (R. 32. 1722)."
             },
             {
+              "marca": "",
               "texto_cita": "«Vivaldo, que deseaba ver lo que los papeles decían, abrió luégo el uno de ellos.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 13 (R. 1. 2802)."
             },
             {
+              "marca": "",
               "texto_cita": "«En el principio decía [la carta]: Alta y sobajada señora. No dirá, dijo el barbero sobajada, sino sobrehumana ó soberana señora. Así es, dijo Sancho.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 26 (R. 1. 3182)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y luégo sacó otra [carta] de la duquesa, que decía desta manera ---»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 50 (R. 1. 5091)."
             },
             {
+              "marca": "",
               "texto_cita": "«El [refrán] que yo digo dice: Iglesia, ó mar ó casa reaI.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 39 (R. 1. 3622)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pues el [soneto] del fuerte, si mal no me acuerdo, dijo el caballero, dice asi ---»",
               "autor": "",
               "referencia_obra": "Id. ib. 1. 40 (R. 1. 3642)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mujer pobre y necesitada dice el refrán que es medio conquistada.»",
               "autor": "Quev.",
               "referencia_obra": "Casa de locos (R. 23. 3551)."
             },
             {
+              "marca": "",
               "texto_cita": "«A las puertas de él se veía fijado un cartel que en letras mayúsculas decía: Hoy predica Teofrasto.»",
               "autor": "T. Iriarte",
               "referencia_obra": ", Liter. en cuaresma (7. 12)."
             },
             {
+              "marca": "",
               "texto_cita": "«Llevaron aquel trofeo con gran algazara á la plaza del Mercado, habiéndole puesto un cartelón que decía: Este es don José Caraffa, traidor á la patria y al fidelísimo pueblo.»",
               "autor": "A. Saav.",
               "referencia_obra": "Masan. 1. 12 (5. 98)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Por confusión de las dos frases",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El libro dice»",
               "autor": "",
               "referencia_obra": "y"
             },
             {
+              "marca": "",
               "texto_cita": "«En el libro se dice»",
               "autor": "",
               "referencia_obra": ", se halla"
             },
             {
+              "marca": "",
               "texto_cita": "«En el libro dice»",
               "autor": "",
               "referencia_obra": ", como si el verbo tuviera significación pasiva."
             },
             {
+              "marca": "",
               "texto_cita": "«Tenga ahí; | Y de ver me haga merced | Si dice ahí Pedro Gil. | — Aquí dice Perejil. | — Pues deletréelo usted. | — Perejil dice. ¡Hay tal caso!»",
               "autor": "Mto.",
               "referencia_obra": "El valiente justiciero, 3. 5 (R. 39. 3452)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1787,77 +2341,116 @@
     {
       "id": "b)",
       "definicion": "Dícese de las cosas en cuanto despiertan una idea, ya por que son signo natural de ella, ya porque dan muestras ó indicios de algo (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El semblante de Juan dice su mal genio; su vestido dice su pobreza.»",
               "autor": "Acad.",
               "referencia_obra": "Dicc."
             },
             {
+              "marca": "",
               "texto_cita": "«Vuestras obras me decían | A vuestro sí no dar fe, | Disela, pensando que | Los ángeles no mentían.»",
               "autor": "Castillejo",
               "referencia_obra": ", 1 (R. 32. 1191)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mirando estoy los sepulcros, | Cuyos mármoles eternos | Están diciendo sin lengua | Que no lo fueron sus dueños.»",
               "autor": "Lope",
               "referencia_obra": ", Dorotea, 1. 4 (Obr. suelt. 7. 36)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si mucho dice el llanto, más dice el silencio en las ocasiones de dolor.»",
               "autor": "Capm.",
-              "referencia_obra": "Filosof. eloc. apénd. 3 (652). —"
+              "referencia_obra": "Filosof. eloc. apénd. 3 (652)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Los encantados no se dejan ver de nadie. Si no se dejan ver, déjanse sentir, dijo Sancho, si no, díganlo mis espaldas.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij, 1. 17 (R. 1. 2882)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Góngora, que llevó la hinchazón y la extravagancia hasta el delirio, tiene no obstante composiciones de una sencillez encantadora. Dígalo la siguiente letrilla.»",
+                  "autor": "Gil y Zárate",
+                  "referencia_obra": ", Resum. histór. p. 96."
+                }
+              ]
             },
             {
-              "texto_cita": "«Los encantados no se dejan ver de nadie. Si no se dejan ver, déjanse sentir, dijo Sancho, si no, díganlo mis espaldas.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij, 1. 17 (R. 1. 2882)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Y como la sencillez dice unidad, ansí ni más ni menos la rectitud, porque ser recto es seguir siempre una regla y camino.»",
+                  "autor": "León",
+                  "referencia_obra": ", Expos. de Job, 1 (1. 4)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«La mujer de su cosecha dice flaqueza, y mudanza, y liviandad, y vileza, y poco sér.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 14 (1. 223)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Góngora, que llevó la hinchazón y la extravagancia hasta el delirio, tiene no obstante composiciones de una sencillez encantadora. Dígalo la siguiente letrilla.»",
-              "autor": "Gil y Zárate",
-              "referencia_obra": ", Resum. histór. p. 96. —"
-            },
-            {
-              "texto_cita": "«Y como la sencillez dice unidad, ansí ni más ni menos la rectitud, porque ser recto es seguir siempre una regla y camino.»",
-              "autor": "León",
-              "referencia_obra": ", Expos. de Job, 1 (1. 4)."
-            },
-            {
-              "texto_cita": "«La mujer de su cosecha dice flaqueza, y mudanza, y liviandad, y vileza, y poco sér.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 14 (1. 223). —"
-            },
-            {
-              "texto_cita": "«Y porque ansí el sosiego como el concierto dicen respecto á otro tercero, por eso propiamente la paz tiene por sujeto á la muchedumbre.»",
-              "autor": "",
-              "referencia_obra": "Id. Nomb. 2, Príncipe (3. 206)."
-            },
-            {
-              "texto_cita": "«Mas, gran señora, ¡castigos | Entre favores! Mirad | Que no dicen proporción.»",
-              "autor": "Tirso",
-              "referencia_obra": ", Amar por arte mayor, 2. 8 (R. 5. 4312)."
-            },
-            {
-              "texto_cita": "«Por la exención de toda especie de impuestos en la entrada y salida de mercaderías de su puerto, y otras franquezas que dicen inmediata relación al tráfico.»",
-              "autor": "Jovell.",
-              "referencia_obra": "Descr. de la Lonja de Palma (R. 46. 4411)."
-            },
-            {
-              "texto_cita": "«La ocupación principal de la Academia, la que dice relación más inmediata y directa con el objeto que le prescriben sus estatutos, es la publicación de sus Memorias.»",
-              "autor": "Acad.",
-              "referencia_obra": "Hist. 6. XXVII)."
-            },
-            {
-              "texto_cita": "«Más libre corre la elocuencia sagrada en los elogios fúnebres, en las oraciones gratulatorias y en otros asuntos que no dicen tanta relación con la moral religiosa.»",
-              "autor": "Lista",
-              "referencia_obra": ", Ensayos, 1, p. 66."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Y porque ansí el sosiego como el concierto dicen respecto á otro tercero, por eso propiamente la paz tiene por sujeto á la muchedumbre.»",
+                  "autor": "",
+                  "referencia_obra": "Id. Nomb. 2, Príncipe (3. 206)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Mas, gran señora, ¡castigos | Entre favores! Mirad | Que no dicen proporción.»",
+                  "autor": "Tirso",
+                  "referencia_obra": ", Amar por arte mayor, 2. 8 (R. 5. 4312)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Por la exención de toda especie de impuestos en la entrada y salida de mercaderías de su puerto, y otras franquezas que dicen inmediata relación al tráfico.»",
+                  "autor": "Jovell.",
+                  "referencia_obra": "Descr. de la Lonja de Palma (R. 46. 4411)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«La ocupación principal de la Academia, la que dice relación más inmediata y directa con el objeto que le prescriben sus estatutos, es la publicación de sus Memorias.»",
+                  "autor": "Acad.",
+                  "referencia_obra": "Hist. 6. XXVII)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Más libre corre la elocuencia sagrada en los elogios fúnebres, en las oraciones gratulatorias y en otros asuntos que no dicen tanta relación con la moral religiosa.»",
+                  "autor": "Lista",
+                  "referencia_obra": ", Ensayos, 1, p. 66."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1866,18 +2459,22 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Anunciar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Natural es á los que les sucede algún desastre, decir que el alma se lo decía, y que no les engañó el corazón.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 3 (1. 49)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Ay triste! que este mal y crudo hado --- | Mil veces nos estaba denunciado. | Los robles lo decían ya con fuego | Tocados celestial, y lo decía | La siniestra corneja desde luégo.»",
               "autor": "",
               "referencia_obra": "Id. Poes. 2, égl. 1 (4. 397)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1885,240 +2482,292 @@
     {
       "id": "c)",
       "definicion": "Referirse, entenderse (intrans.). Con á y un nombre de persona.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Pues éste es uno de los mayores privilegios que tienen los amadores de la virtud en esta vida: conocer que estas tan ricas y seguras promesas principalmente dicen á ellos.»",
           "autor": "Gran.",
           "referencia_obra": "Guía, 1. 21 (R. 6. 801)."
         },
         {
+          "marca": "",
           "texto_cita": "«Y no piense nadie excusarse con su inocencia, diciendo que estas amenazas no dicen á él sino á los hombres injustos y desalmados.»",
           "autor": "",
           "referencia_obra": "Id. Orac. y consid. 1, jueves en la noche (R. 8. 422)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "Se emplea para denotar la manera con que se presentan la suerte en el juego y otras cosas contingentes, como el año, la cosecha. Se usa con los adverbios bien, mal y otros semejantes (intrans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«El último verano le dijo tan bien la suerte, que ganó á los naipes cerca de setecientos reales.»",
           "autor": "Cerv.",
           "referencia_obra": "Nov. 8 (R. 1. 1832)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "e)",
       "definicion": "Por la congruencia que guardan la respuesta y la pregunta (véase 1, b), viene á tomarse por Guardar proporción ó armonía, convenir, asentar bien ó mal (intrans.). La misma metáfora se halla en responder, corresponder, contestar.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con dat. de pers. ó cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por cierto, señor don Luis, que responde bien á quien vos sois el hábito que tenéis, y que dice bien la cama en que os hallo al regalo con que vuestra madre os crió.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 44 (R. 1. 3801)."
             },
             {
+              "marca": "",
               "texto_cita": "«Traía vestida de pardilla raja | Una gran saya entera, hecha al uso, | Que le dice muy bien, cuadra y encaja.»",
               "autor": "",
               "referencia_obra": "Id. Viaje, 5 (R. 1. 6912)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Si jamás día tan dichoso | Veré, que me conceda con voz dina | Cantar tu pecho y brazo valeroso, | Cantar tu verso y musa peregrina, | A la cual sola dice justamente | La majestad del trágico elocuente!»",
               "autor": "León",
               "referencia_obra": ", Poes. 2, égl. 8 (4. 426)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Díceme bien este traje? | — Divinamente, señor.»",
               "autor": "Alarcón",
               "referencia_obra": ", La verdad sospechosa, 1. 3 (R. 20. 3222),"
             },
             {
+              "marca": "",
               "texto_cita": "«¡Qué bien le dice el tocado!»",
               "autor": "Tirso",
               "referencia_obra": ", Por el sótano y el torno, 3. 16 (R. 5. 2453)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pidióles el hábito y hallando en ello dificultad de dárselo, usó de maña, haciendo donaire de su petición; y rogó se lo diesen á prueba, por ver cómo le decía.»",
               "autor": "Roa",
               "referencia_obra": ", Vida de Dª. Ana Ponce de León, 3. 2 (110)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con con, que realza el concepto de congruencia, armonía.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Esta consideración | Es falta de donde os viene | El orgullo y presunción, | Que no dice ni conviene | Con vuestra disposición.»",
               "autor": "Castillejo",
               "referencia_obra": ", 2 (R. 32. 2091)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y para mortificar este mal amor debe instantemente pedir este santo odio [del pecado] y procurar que las obras y el maltratamiento de sí mesmo digan con la petición.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 4. 1, § 14 (R. 8. 2742)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Cómo dicen en uno los trabajos y soledad del desierto con los pregones del cielo, y las tentaciones del enemigo con los favores del Espíritu Santo!»",
               "autor": "",
               "referencia_obra": "Id. ib. 6. 5, § 10 (R. 8. 3451)."
             },
             {
+              "marca": "",
               "texto_cita": "«Dice pues este filósofo que la señal de ser una sentencia verdadera es que todas estas cosas digan y concuerden con ella; porque si alguna ó algunas le contradicen y repugnan, no puede ser verdad sino mentira.»",
               "autor": "",
               "referencia_obra": "Id. Símb. 2. 32 (R. 6. 3901)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y el figurar que pregunta Dios al demonio, y que le vuelve respuesta, dice con la verdad de lo que él se imaginaba y pensaba.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 1 (1. 11)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mas esto no sé si dice con lo que aquí quiere el demonio.»",
               "autor": "",
               "referencia_obra": "Id. ib, 2 (1. 25)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Por ventura es cosa que os está bien, ó que dice bien con la verdad que de vuestra justicia y bondad se pregona?»",
               "autor": "",
               "referencia_obra": "Id. ib. 10 (1. 174)."
             },
             {
+              "marca": "",
               "texto_cita": "«Otras veces la imagen que figuramos es retrato de una cosa sola, y ansí propio retrato de ella, que no dice con otra.»",
               "autor": "",
               "referencia_obra": "Id. Nomb. 1, introd. § 2 (3. 14)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y ansímismo la cabeza en el cuerpo dice con lo que en Dios es la alteza de su saber.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1, Faces (3. 45)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y aun podéis, Marcelo, ayudar esta verdad que decís, confirmándola con la diferencia que la Sagrada Escritura pone cuando significa los reinos de la tierra, ó cuando habla de aqueste reino de Cristo, porque dice con ella muy bien.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2, Rey (3. 190)."
             },
             {
+              "marca": "",
               "texto_cita": "«El alma de Cristo --- como forma de la carne dice con ella, y se le avecina y allega.»",
               "autor": "",
               "referencia_obra": "Id. ib. 3, Cordero (3. 410)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y que aunque digan ser mis servidores, | No dicen sus palabras con sus hechos.»",
               "autor": "",
               "referencia_obra": "Id. Poes. 3, salmo 17 (4. 554)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué niñerías son éstas, señor don Luis, ó qué causas tan poderosas, que os hayan movido á venir desta manera, y en este traje, que dice tan mal con la calidad vuestra?»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 44 (R. 1. 3802)."
             },
             {
+              "marca": "",
               "texto_cita": "«En lo que pienso entretenerme es en jugar al triunfo envidado las pascuas, y á los bolos los domingos y fiestas, que esas cazas ni cazos no dicen con mi condición, ni hacen con mi conciencia.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 34 (R. 1. 4781)."
             },
             {
+              "marca": "",
               "texto_cita": "«De estas grandezas, que tanto Dios estima, he de pretender para mí las que dicen con mi estado.»",
               "autor": "Puente",
               "referencia_obra": ", Medit. 2. 13 (R. 325)."
             },
             {
+              "marca": "",
               "texto_cita": "«Como Nuestro Señor conoce las complexiones, ingenios y caudales de cada uno, así con su providencia les acomoda en el estado y oficio que dice con su natural.»",
               "autor": "",
               "referencia_obra": "Id. ib. 6. 46 (3. 523)."
             },
             {
+              "marca": "",
               "texto_cita": "«Dice que el color [de la basquiña] | No dice bien con mi cara.»",
               "autor": "Lope",
               "referencia_obra": ", Peribáñez y el Comendedor de Ocaña, 1. 13 (R. 41. 2852)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y ¿no hay otros medios buenos? | — No dicen con mi opinión.»",
               "autor": "G. de Castro",
               "referencia_obra": ", Las mocedades del Cid, 1ª. pte. 1 (R. 43. 2432)."
             },
             {
+              "marca": "",
               "texto_cita": "«Así el que fuere guiado | Por el mundo peregrino | Ha de buscar el camino | Que diga con el estado.»",
               "autor": "",
               "referencia_obra": "Id. ib. 1ª. pte. 3 (R. 43. 2533)."
             },
             {
+              "marca": "",
               "texto_cita": "«El haberme despreciado | Dice bien con alabarme!»",
               "autor": "Villegas",
               "referencia_obra": ", La despreciada querida, 2. 8 (R. 34. 3372)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pues no dicen, según creo, | Las lisonjas que os escucho | Con los rigores que veo.»",
               "autor": "Cald.",
               "referencia_obra": "La vida es sueño, 1. 5 (R. 7. 33)."
             },
             {
+              "marca": "",
               "texto_cita": "«Granjeaba los corazones con su vista; persuadía cuanto quería con sus razones; dijo la belleza del alma con la del cuerpo, y aventajóse la de aquélla á la de este.»",
               "autor": "Roa",
               "referencia_obra": ", Vida de Dª. Sancha Carrillo, 1. 1 (12)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con en, que denota el objeto donde otro asienta bien.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por tres cosas es lícito que llore el varón prudente: la una por haber pecado; la segunda por alcanzar perdón de él; la tercera por estar celoso: las demás lágrimas no dicen bien en un rostro grave.»",
               "autor": "Cerv.",
               "referencia_obra": "Pers. 2. 5 (R. 1. 5961)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mal dicen en sus salones | Las modernas fruslerías, | Mal en soberbios patios | Gente sin barba y ropilla.»",
               "autor": "A. Saav.",
               "referencia_obra": "El alcázar de Sevilla, 1 (3. 15)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Absol. En sentido recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Buscad esposa con don: | Que yo Angélica y sin él, | Vos mayorazgo y señor, | Yo hija de un labrador, | Dirán mal seda y buriel.»",
               "autor": "Tirso",
               "referencia_obra": ", La villana de la Sagra, 1. 8 (R. 5. 3101)."
             },
             {
+              "marca": "",
               "texto_cita": "«No dicen bien cuerpo de Cristo y corrupción, ni cuerpo de la Madre de Dios y corrupción.»",
               "autor": "Rivad.",
               "referencia_obra": "Flos SS. Asunción (Vida de la Virgen, 214)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "En el pasaje siguiente parece indudable que decir está empleado en un sentido material análogo al que admite responder; pero la construcción no es clara: pudiera pensarse que nuestro verbo se ha igualado á comunicar:",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Qué intentas? | — Por la puerta, que con este | Cuarto dice aquella torre, | Que de caballeros suele | Ser prisión, pasarle á ella, | Y en ella oculto tenerle.»",
               "autor": "Cald.",
               "referencia_obra": "Mejor está que estaba, 1. 18 (R. 7. 2303. La edición de Keil: «dice á aquella torre».)"
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2126,48 +2775,60 @@
     {
       "id": "3",
       "definicion": "Locuciones varias,",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Decir bien: hablar con verdad, ó explicarse con gracia y facilidad.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Decía, y decía bien, una dama discreta: No soy amiga de tapicerías de seda, brocado, terciopelos ni damascos, porque éstas son colgaduras de pobres, y probábalo, porque éstas son telas de repuesto, para que faltando dinero para saya, puedan servir de lo que les mandaren.»",
           "autor": "",
           "referencia_obra": ". Píc. Justina, 2. 3. 4. 3 (R. 33. 1432)."
         },
         {
+          "marca": "",
           "texto_cita": "«Dicen que no hay mesón ya | Sin campana y oratorio, | Aunque, como es diversorio, | No admiten virgen allá --- | Y dicen bien.»",
           "autor": "Góng.",
           "referencia_obra": "letr. 63 (R. 32. 5041)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Decir de repente: improvisar versos.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Le dijo que aquella prontitud de poetizar se había hecho peculiar de Italia por la abundancia de expresiones que presta el idioma, y lo cultivado y formado que está ya para la composición, en la cual el poeta repentista aplica fácilmente hemistiquios y aun versos enteros que pertenecen á otros autores, siendo muy difícil que se verifique con otra lengua, mientras el arte de decir de repente, no se promueva, no se cultive, y no sea un medio seguro de adquirir estimación y recompensa.»",
           "autor": "Mor.",
           "referencia_obra": "Vida de N. Mor. (R. 2. XVI)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "También se usa hablando del que tiene dichos ú ocurrencias prontas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Quisiera que se me acordaran los dichos que le dije; pero ya es común que las que decimos de repente, no tenemos buena retentiva.»",
               "autor": "",
               "referencia_obra": "Píc. Justina, 2. 3. 4. 2 (R. 33. 1422)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2175,67 +2836,82 @@
     {
       "id": "c)",
       "definicion": "Decir por decir: hablar sin fundamento.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Decir que fuera haberla canonizado en vida, es decir no más que por decir; pues es cierto que la sentencia definitiva de su Santidad nunca la Iglesia la diera, hasta que constase de última perseverancia.»",
           "autor": "",
           "referencia_obra": "Cornejo, Crón. de S. Franc. 3. 1. 15 (Dicc. Autor.)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "Decir y hacer: ejecutar con mucha prontitud y ligereza.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Y arrancadas las espadas | Vamos diciendo y haciendo.»",
           "autor": "T. Naharro",
           "referencia_obra": ", Com. Himenea, 4 (R. 2. 2402)."
         },
         {
+          "marca": "",
           "texto_cita": "«No le sigáis ni persigáis; si no, conmigo sois en la batalla. Y diciendo y haciendo --- comenzó á llover cuchilladas sobre la titerera morisma.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 2. 26 (R. 1. 4602)."
         },
         {
+          "marca": "",
           "texto_cita": "«Y llegándosele más, multiplicando las quejas y acordándose de los agravios que á todos hacía, diciendo y haciendo, le asieron á él y á su hermano.»",
           "autor": "Moncada",
           "referencia_obra": ", Exped. 58 (R. 21. 551)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Dicho y hecho: denota la prontitud con que se realiza una promesa, pronóstico ó conjetura.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Echólo [el vaso] en las aguas, diciendo: Esto dice el Señor: El Señor ha sanado estas aguas y de amargas y estériles las ha hecho dulces y fecundas. Dicho y hecho.»",
               "autor": "Ávila",
               "referencia_obra": ", Eucar. 11 (3. 289)."
             },
             {
+              "marca": "",
               "texto_cita": "«Dice luégo: Señor esto tomo por señal, que aquella á quien yo le pidiere de beber y dijere: Bebe tú, y también daré á tus camellos de beber, esto tomo por señal. Dicho y hecho: he aquí viene Rebeca.»",
               "autor": "",
               "referencia_obra": "Id. Trat. de la Encarn. (5. 23)."
             },
             {
+              "marca": "",
               "texto_cita": "«Dijo al regente de aquel convictorio cómo no se había de morir aquel mancebo: dicho y hecho, cobró luego salud.»",
               "autor": "Nieremb.",
               "referencia_obra": "Vida del P. Jac. Rhem (Dicc. Autor.)."
             },
             {
+              "marca": "",
               "texto_cita": "«Algún miedo llevaba de si el bachiller melado, parte de cansado,y parte de enojado, me aguardaba en el camino --- Dicho y hecho; al revolver de una peña cortante le encontré muy melancólico y pensativo.»",
               "autor": "",
               "referencia_obra": "Píc. Justina, 2. 3. 4. 2 (R. 33. 1411)."
             },
             {
+              "marca": "",
               "texto_cita": "«Siguiendo la vereda, | En un camino entró llano y derecho.| — No hay camino sin gente. — Dicho y hecho.| Una gran polvareda | Se alza en la extremidad del horizonte.»",
               "autor": "Hartz.",
               "referencia_obra": "Fáb. introd. (423)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2243,88 +2919,110 @@
     {
       "id": "d)",
       "definicion": "Decir cuántas son cinco: Decir uno á otro su sentir ó algunas claridades (fam.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Pero á fe que no le arriendo la ganancia. Ya, ya; el amigo don Justo le dirá cuántas son cinco.»",
           "autor": "Jovell.",
           "referencia_obra": "El delincuente honrado, 2. 9 (R. 46. 882)."
         },
         {
+          "marca": "",
           "texto_cita": "«¿Y qué quieres | Que haga yo? — Poner remedio: | Decir al tal don Teodoro | Cuántas son cinco; y si luégo, | Luégo, no quiere casarse --- | Pasaporte y viento fresco.»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", La niña en casa, 2. 1 (3. 86)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "e)",
       "definicion": "Decir de una hasta ciento: decir muchas claridades ó desvergüenzas (fam.). Acad. Dicc. Véase CIENTO, a, ε.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "f)",
       "definicion": "Decírselo deletreado: decir una cosa con la mayor claridad al que se desentiende de ella (fam.). Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "g)",
       "definicion": "¿Digo algo?: se usa para llamar la atención de los oyentes, ponderando la importancia de lo que se dice.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«¿Qué os pareee de esto, amigos? ¿digo algo ó quiébrome la cabeza?»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 2. 49 (R. 1. 5061)."
         },
         {
+          "marca": "",
           "texto_cita": "«Por Dios, seor Barragán, que si el Paisano muere, que no queda hombre que sepa dar un antuvión de noche. ¿Digo algo, seor mío?»",
           "autor": "",
           "referencia_obra": "Entremés de la cárcel de Sevilla (Ens. bibl. esp. 1. 1378)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "h)",
       "definicion": "¡Digo, digo!: se usa para llamar la atención de una persona ó parar al que va á hacer ó está haciendo alguna cosa.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«(Volviendo el rostro á Fermin y Feliciana, que están hablando en secreto.) Digo, digo, niños. ¿También ustedes? Parece que todos se burlan hoy de mí. ¿Qué tienen ahora que hablar?»",
           "autor": "T. Iriarte",
           "referencia_obra": ", La librería, 14 (5. 324)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "i)",
       "definicion": "Digamos; se usa para poner un ejemplo, después de hablar indeterminadamente; ó para expresarse con más precisión.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Tomamos un paso de la Pasión, digamos como el prendimiento, y andamos en este misterio considerando por menudo las cosas que hay que pensar en él.»",
           "autor": "Sta. Ter.",
           "referencia_obra": "Mor. 6. 7 (R. 53 4732)."
         },
         {
+          "marca": "",
           "texto_cita": "«Continuó por algunos días, ó digamos, como dos meses.»",
           "autor": "A. Galiano",
           "referencia_obra": ", Recuerdos, p. 237."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Se usa también para denotar que un término no expresa con precisión la idea, sino aproximativamente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Se le ha presentado una digamos fantasma.»",
               "autor": "Salvá",
               "referencia_obra": ", Dicc."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2332,69 +3030,85 @@
     {
       "id": "j)",
       "definicion": "Dicho se está: da á entender que una cosa se infiere natural y claramente de lo que se lleva tratado.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«En nombrarlas hijas de Dios y loarlas, deja nombrados y aprobados los hijos: que si lo flaco y lo mudable, cuales en sí y en la sagrada Escritura son las mujeres, es digno de nombre, lo fuerte y varonil dicho se está que le merece.»",
           "autor": "León",
           "referencia_obra": ", Expos. de Job, 42 (2. 331)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "k)",
       "definicion": "Como dijo el otro: se emplea para poner un ejemplo ó hacer una cita de propia invención, ó cuyo autor no se recuerda ó se da por sabido (fam.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Luégo en no sabiendo cómo dar razón de sí, dicen: Como dijo el otro.»",
           "autor": "Quev.",
           "referencia_obra": "Visita (R. 23. 3432)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "l)",
       "definicion": "Como quien no dice nada: denota que es cosa de consideración lo que se ha dicho ó va á decirse.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«¿Quién son los que han de venir? El Padre, y el Hijo, y el Espíritu Santo: porque dondequiera que una de las tres personas va, allí va toda la Santísima Trinidad; ¡como quien no dice nada!»",
           "autor": "Ávila",
           "referencia_obra": ", Ven. Esp. Santo, 5 (2. 357)."
         },
         {
+          "marca": "",
           "texto_cita": "«Esta hermosa, señora, respondió el cura, Sancho hermano, es como quien no dice nada, es la heredera por línea recta de varón del gran reino de Micomicón.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 1. 29 (R. 1. 3301)."
         },
         {
+          "marca": "",
           "texto_cita": "«Tú que para mi sin duda alguna eres un porro --- sin más ni más te ves gobernador de una ínsula, como quien no dice nada.»",
           "autor": "",
           "referencia_obra": "Id. ib. 2. 42 (R. 1. 4921)."
         },
         {
+          "marca": "",
           "texto_cita": "«Mas ¿qué mucho, si es la niña, | Como quien no dice nada, | La niña de sus dos ojos, | Los ojos de sus dos almas?»",
           "autor": "Góng.",
           "referencia_obra": "rom. 42 (R. 32. 5183)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "También indica que aquello de que se trata no es cosa fácil ó baladí, sino todo lo contrario.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Como quien no dice nada, | Me pedís qué cosa es Roma.»",
               "autor": "T. Naharro",
               "referencia_obra": ", Propal. (37)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pues ¿qué va a buscar? Va á buscar, como quien no dice nada, á una princesa.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 10 (R. 1. 4222)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2402,90 +3116,118 @@
     {
       "id": "m)",
       "definicion": "Como si dijéramos: empléase para citar uno de los varios casos que pueden ocurrir en el punto que se trata, ó para suavizar lo que se tiene afirmado (fam.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Si no, dígame, ¿hay mayor contento que ver, como si dijésemos, aquí ahora se muestra delante de nosotros un gran lago de pez hirviendo á borbollones ---»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 1. 50 (R. 1. 3942)."
         },
         {
+          "marca": "",
           "texto_cita": "«Harto mejor sería que --- nos entretuviésemos en ejercicios más suaves, como si dijésemos cazando ó pescando.»",
           "autor": "",
           "referencia_obra": "Id. ib. 2. 13 (R. 1. 4291)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "n)",
       "definicion": "El qué dirán: los juicios de los hombres, y extensivamente, el respeto ó temor de dichos juicios.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Ponderaré la eficacia de este deseo de Zaqueo, y la diligencia que puso en cumplirle, atropellando la honra mundana y el qué dirán todos.»",
           "autor": "Puente",
           "referencia_obra": ", Medit. 3. 28 (2. 197)."
         },
         {
+          "marca": "",
           "texto_cita": "«No pienses --- | Que al qué dirán del vulgo impertinente | Arriesgue su opinión por los caminos, | Viniendo tras su amante hasta en la corte.»",
           "autor": "Tirso",
           "referencia_obra": ", La villana de Vallecas, 2. 12 (R. 5. 582)."
         },
         {
+          "marca": "",
           "texto_cita": "«A los grandes emperadores y capitanes muchas veces acarreó gran daño hacer caso del pueblo y de sus dichos, y volver las espaldas al qué dirán.»",
           "autor": "Mariana",
           "referencia_obra": ", Hist. Esp. 6. 12 (R. 30. 1672)."
         },
         {
+          "marca": "",
           "texto_cita": "«Tuvo contra sí el desdén | Y el terrible qué dirán.»",
           "autor": "Hartz.",
           "referencia_obra": "La jura en Santa Gadea, 3. 4 (181)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "ñ)",
       "definicion": "Ello dirá: más adelante se verá el resultado ó la verdad del caso (fam.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Tiene repartidas la necedad por los hombres estas infernales cláusulas --- No me diga nada, ya estoy al cabo, ello dirá, ande el mundo, una muerte debo á Dios --- diz que, y pero, y quizás.»",
           "autor": "Quev.",
           "referencia_obra": "Hora de todos, introd. (R. 23. 3851)."
         },
         {
+          "marca": "",
           "texto_cita": "«¿Vos bueno? dijo el loco: ahora bien, ello dirá, andad con Dios.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 2. 1 (R. 1. 4062)."
         },
         {
+          "marca": "",
           "texto_cita": "«Dios lo haga, dijo D. Quijote, y ello dirá cuando el gobierno venga.»",
           "autor": "",
           "referencia_obra": "Id. ib. 2. 4 (R. 1. 4131)."
         },
         {
+          "marca": "",
           "texto_cita": "«Otros mayores embustes le gruñen en las entrañas, y ello dirá antes de muchas horas.»",
           "autor": "",
           "referencia_obra": "Id. ib. 2. 13 (R. 1. 4292)."
         },
         {
+          "marca": "",
           "texto_cita": "«La música siempre es indicio de regocijos y fiestas. Ello dirá, dijo D. Quijote.»",
           "autor": "",
-          "referencia_obra": "Id. ib. 2. 34 (R. 1. 4792). —"
-        },
+          "referencia_obra": "Id. ib. 2. 34 (R. 1. 4792)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«No me parece tan ardua | La empresa de corregirla. | — Su afecto de usted le engaña. | El tiempo dirá: veremos | Cuán poco fruto se saca.»",
-          "autor": "T. Iriarte",
-          "referencia_obra": ", La señorita malcriada, 1.10 (7. 174.)"
-        },
-        {
-          "texto_cita": "«Durmamos por ahora entrambos, y después, Dios dijo lo que será.»",
-          "autor": "Cerv.",
-          "referencia_obra": "Quij. 2. 59 (R. 1. 5281)."
-        },
-        {
-          "texto_cita": "«Hasta oficial tercero aceptaré por salir de estas angustias. Después Dios dirá.»",
-          "autor": "P. Galdós",
-          "referencia_obra": ", Miau, p. 325."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«No me parece tan ardua | La empresa de corregirla. | — Su afecto de usted le engaña. | El tiempo dirá: veremos | Cuán poco fruto se saca.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", La señorita malcriada, 1.10 (7. 174.)"
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Durmamos por ahora entrambos, y después, Dios dijo lo que será.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 59 (R. 1. 5281)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Hasta oficial tercero aceptaré por salir de estas angustias. Después Dios dirá.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Miau, p. 325."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -2493,210 +3235,261 @@
     {
       "id": "o)",
       "definicion": "Es decir: esto es, explicando mejor ó en otros términos lo que se acaba de decir. También se usa que es decir.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Entonces fui en sus ojos como aquella que halla paz. Que es decir: si yo no estuviera casada con tal Esposo como tengo, tuviéramos necesidad de tratar de estos negocios.»",
           "autor": "León",
           "referencia_obra": ", Cantares, 8. 10 (4. 144)."
         },
         {
+          "marca": "",
           "texto_cita": "«Todas las cuestiones relativas al régimen de un estado se reducen á la resolución de un problema práctico: es decir, á averiguar cómo podrán realmente disfrutar más ventajas los individuos que componen una naçión.»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", Esp. del siglo, 1. 2 (5. 10)."
         },
         {
+          "marca": "",
           "texto_cita": "«Si mi tía | Lo supiera.... — ¿No me has dicho | Que está mala desde ayer? | —Sí— ¡Dichoso romadizo! | Es decir, para nosotros, | Porque ella ya me imagino | Que sufrirá.»",
           "autor": "Bretón",
           "referencia_obra": ", ¡Qué hombre tan amable! 1. 3 (3. 243)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "p)",
       "definicion": "Lo dicho, dicho; significa que uno se ratifica y mantiene en lo que una vez dijo.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Marqués, parece que os pesa, | Y que os han arrepentido | Las nuevas que habéis oido. | — Lo dicho, dicho, marquesa. | La suspensión que habéis visto | Nació de que amigo soy | Del conde; más ya que estoy | Declarado, si desisto, | Lo podrá la emulación | A temor atribuír.»",
           "autor": "Alarcón",
           "referencia_obra": ", El examen de maridos, 2. 7 (R. 20. 4771)."
         },
         {
+          "marca": "",
           "texto_cita": "«Lo dicho, dicho, Ricardo; | No deje este amor bastardo | En mí la menor señal.»",
           "autor": "",
           "referencia_obra": "Id. Ganar amigos, 2. 4 (R. 20. 3473)."
         },
         {
+          "marca": "",
           "texto_cita": "«¿Tú me dices que me quieres? | — Yo; Flérida, no lo digo; | Pero si así lo entendiste, | Señora, lo dicho, dicho.»",
           "autor": "Cald.",
           "referencia_obra": "Amor, honor y poder, 2. 12 (R. 7. 3782)."
         },
         {
+          "marca": "",
           "texto_cita": "«De haberlo dicho me pesa; | Pero yo nunca desdigo | Lo que ya dije: y así, | Don Pedro, lo dicho, dicho.»",
           "autor": "",
           "referencia_obra": "Id. El postrer duelo de España, 2. 4 (R. 14. 1343)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "q)",
       "definicion": "¿Lo he de decir cantado ó rezado?: suele usarse para reprender al que no se da por entendido de lo que se le dice. Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "r)",
       "definicion": "No decir malo ni bueno: no contestar; no decir uno su sentir; no decir nada sobre un asunto; usar de culpable silencio y tolerancia. Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "s)",
       "definicion": "No digamos: da á entender que no es completamente exacto ó seguro lo que se dice, aunque le falta poco para serlo (fam.). Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "t)",
       "definicion": "No digo ---: se antepone á un término que parece exagerado, para contraponerle otro más adecuado á lo que se pretende conseguir ó dar á entender.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Voto á tal, dijo á esta sazón Sancho, no digo yo tres mil azotes, pero así me daré yo tres como tres puñaladas --- Tomaros he yo, dijo D. Quijote --- y amarraros he á un árbol --- y no digo yo tres mil y trescientos, sino seis mil y seiscientos azotes os daré.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 2. 35 (R. 1. 4801).» ¿Cuántos, no digo hombres pobres, sino reyes y monarcas del mundo, han sido comidos de piojos y roídos de gusanos?» Rivad. Trib. 1. 3 (R. 60. 3641)."
         },
         {
+          "marca": "",
           "texto_cita": "«Su poder puede enfrenar todo otro poder, no digo humano, sino de las potestades infernales.»",
           "autor": "",
           "referencia_obra": "Nieremb, Hermosura de Dios, 2. 6. 5 (376)."
         },
         {
+          "marca": "",
           "texto_cita": "«Es tan cabal su rectitud y bondad en toda virtud, que no digo por no hacer una injusticia, sino por no faltar una tilde á la perfección de una exactísima justicia, quiso morir.»",
           "autor": "",
           "referencia_obra": "Id. ib. 2. 3 (302)."
         },
         {
+          "marca": "",
           "texto_cita": "«Ni sacó palabra de su boca, no digo descompuesta, sino menos apacible ningún acontecimiento de esta vida.»",
           "autor": "Roa",
           "referencia_obra": ", Vida de Dª. Ana Ponce de León, 4. 4 (172)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "u)",
       "definicion": "No digo nada: se emplea enfáticamente para permitir ó conceder una proposición que no hace al caso en el principal asunto, y pasar á otra cosa; ó para dar á entender que voluntariamente se omite lo que se pudiera decir, por poderse suponer, como cuando comparando dos personas ó dos cosas, y habiendo ponderado la una, callamos lo que pudiéramos decir de la otra. Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "v)",
       "definicion": "No haber más que decir: se emplea para ponderar lo que se alaba ó vitupera.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«El era un clérigo cerbatana, largo sólo en el talle, una cabeza pequeña, pelo bermejo. No hay más que decir para quien sabe el refrán que dice, ni gato ni perro de aquella color.»",
           "autor": "Quev.",
           "referencia_obra": "Gran Tac. 3 (R. 23. 4891)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "x)",
       "definicion": "No lo digo por tanto: se emplea para denotar que no ha habido intención dañada al usar las palabras que el interlocutor ha echado á mala parte.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Quizá podría ser tal [la prevención que D. Quijote pensaba aconsejar] que se pusiese en la lista de los muchos advertimientos impertinentes que se suelen dar á los príncipes. El mío, señor rapador, dijo D. Quijote, no será impertinente sino perteneciente. No lo digo por tanto, replicó el barbero, sino porque ---»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 2. 1 (R. 1. 4052). Item, Id. ib. 2. 36 (R. 1. 4821)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "y)",
       "definicion": "No tener qué decir: no quedarle á uno qué contestar ó replicar; faltarle las palabras para continuar.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«De este milagro tan grande y tan manifiesto quedaron atónitos y helados los adversarios del santo obispo, y no tuvieron qué decir.»",
           "autor": "Rivad.",
           "referencia_obra": "Flos SS. Vida de S. Estanislao (Dicc. Autor.)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "z)",
       "definicion": "Por decirlo así: se usa para suavizar una expresión que pudiera parecer muy atrevida. Véase Baralt. Dicc. galic.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Parecía que el poeta se había estado divirtiendo á costa de la disolución y extravíos de los jóvenes á quienes zahiere; pero su amarga risa no era sino de indignación; y llegando ésta á cierto punto, rebosa, por decirlo así, á pesar del poeta, que al instante toma el tono áspero y vehemente del enojo.»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", Anot. á la Poét. 4. 19 (1. 214)."
         },
         {
+          "marca": "",
           "texto_cita": "«Estos mismos que predicaban tan bien en sus libros, cuando hablaban al pueblo olvidaban, por decirlo así, su elocuencia, y se reducían al ministerio de un catequista.»",
           "autor": "Lista",
           "referencia_obra": ", Ensayos, 1, p. 64."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "aa)",
       "definicion": "Por mejor decir: sirve para corregir lo que se ha dicho, ampliándolo, restringiéndolo ó aclarándolo.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Nadie me despidió, sino era que yo me despidiese, ó por mejor decir, me fuese.»",
           "autor": "Cerv.",
           "referencia_obra": "Col. (R. 1. 2301)."
         },
         {
+          "marca": "",
           "texto_cita": "«Se murió mi mujer, ó por mejor decir, me la mató un mal médico.»",
           "autor": "",
           "referencia_obra": "Id. Quij. 2. 47 (R. 1. 5021)."
         },
         {
+          "marca": "",
           "texto_cita": "«Una tropa de paniaguados ó por mejor decir, de panivinajes.»",
           "autor": "",
           "referencia_obra": "Id. Tía fing. (R. 1. 2461)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "bb)",
       "definicion": "Que digamos: agrégase á frases negativas para significar que no se trata de acción tan intensa ni de cualidad ó estado tan eminente que merezcan ponderarse.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Yo, aunque no sé mucho que digamos, tengo cierta travesura genial, que lo que á mí se me escape, no lo han de alcanzar otros más guapos.»",
           "autor": "",
           "referencia_obra": "Miñano, Lam. polít. 2 (5)."
         },
         {
+          "marca": "",
           "texto_cita": "«Hace cosa de quince meses que tuve de aceptar el juzgado de este otro pueblo, donde, como has visto, no vivo muy contento que digamos.»",
           "autor": "Alarcón",
           "referencia_obra": ", Cuentos amatorios, p. 137."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Estas frases se usan á menudo irónicamente, afirmando ponderativamente lo mismo que se niega.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No es ambicioso, que digamos; no llueve, que digamos.»",
               "autor": "Acad.",
               "referencia_obra": "Dicc."
             },
             {
+              "marca": "",
               "texto_cita": "«Hay que agradecer, sin embargo, á la mayor parte de aquellos ingenios que escaseasen ejemplos de los resultados graves y de bulto á que tales aventuras eran harto ocasionadas, pero de todos modos no eran muy edificantes, que digamos, sus lecciones.»",
               "autor": "Bretón",
               "referencia_obra": ", Declamación (Baudry, 1. XLV)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2704,24 +3497,28 @@
     {
       "id": "cc)",
       "definicion": "Tener por dicho: tener por dicha una cosa, no con ligereza ó de broma, sino formalmente y con deliberada intención.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "dd)",
       "definicion": "¡Tú, que tal dijiste!: significa la pronta conmoción que ocasiona una cosa dicha por otro (fam.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. (Nótense las acepciones: — α ) trovar, versificar; — β ) Mont. Latir el perro.)\n\n— Siglo XV: «La Santa Escritura manda, que no fable ninguno con su rey papo á papo, ni ande con él á dime y dirtehe.» Pulgar, Letras, 6 (177). «En el evangelio de sant Mateo dice que Dios nuestro padre sabe lo que nos es necesario antes que lo pidamos.» Id. ib. 23 (247). «Decidme, la hermosura, | La gentil frescura y tez | De la cara, | La color y la blancura, | Cuando viene la vejez, | ¿Qué se para?» J. Manr. Coplas (Fern. 16. 47). «Vos ruego y mando que desde el dia que la dicha mi carta fuere fixa y puesta en los dichos lugares sobredichos --- enviedes á mi sueltos y libres á los dichos embaxadores, nuncios y mensajeros.» Crón. Juan II, 35. 2 (R. 68. 5721). «Oia muy de grado los decires rimados, é conocia los vicios dellos.» P. de Guzmán, Gener. 33 (R. 68. 7131). «Tañer, decir e cantar | --- non debe ser contado | Por virtud pura e entera.» Id. Prov. 54 (Rim. inéd. 350). «Nos dixeron en commo al tienpo que el rey don Fernando de Aragon --- yua de Sevilla para Cordoua a la cerca de Antequera, veyendo ser muy conplidero --- mandar fazer vna puente en el rrio de Benbeçar, que es en el camino que va de la dicha çibdad de Seuilla a la dicha çibdad de Cordoua --- la qual puente non se acabó --- e que por non ser acabada la dicha puente para poder pasar por ella han peligrado muchas gentes desde el dicho tiempo acá e se han muchos afogado en el dicho rrio.» Cortes de Valladolid, año 1451 (C. de L. y C. 3. 605). «Solamente con cantar | Dis que enganna la serena.» Canc. de Stuñ. p. 10. «Fise un rasonamiento | Que dise en esta manera.» Ib. p. 87. «Usaron el decir en coplas de diez sillabas á la manera de los lemosis.» Santill. p. 10. «Avia otras de Joan Xoarez de Pavia, el qual se diçe aver muerto en Galiçia por amores de una infante de Portugal.» Id. p. 12. «En este reyno de Castilla dixo bien el rey don Alfonso el Sabio, é yo vi quien vio deçires suyos, é aun se diçe metrificaba altamente en lengua latina.» Id. p. 13. «E diz que el rey don Alfonso lo tovo por buen consejo.» Crón. P. Niño, p. 162. «Dixo --- que pues ellos punaban por la justicia é por la verdad, que non debian aver cuidado de los decires.» Ib. p. 200. «Por ende digo, que natural razon é muy conveniente cosa era, que un doncel tan apuesto --- fuese amado.» Ib. p. 47. «Avia graciosa voz, é alta; era muy donoso en sus decires.» Ib. p. 44. «Por esta misma via contynuen dende en adelante en la dicha mi chançelleria los dichos mis alcalles; e que los dichos mis oidores o alcalles sean tenudos, al tiempo que venieren a seruir los dichos sus ofiçios de lo notificar a mi chançeller mayor.» Cortes de Madrid, año 1433 (C. de L. y C. 3. 162). «Por la desir conçebida | Syn original pecado, | Non la ove egualado | Con Jesu que le dio vida.» Canc. de Baena, p. 361. «Mas lueñe de cien jornadas | Son mis desires sabidos.» Ib. p. 265. «E ya en su tiempo don Pero Feruz | Fiso dezires mucho mas polidos.» Ib. p. 124. «E non oso | Al casamiento decirle de non.» Ib. p. 36. «Ordeno por mi alma siete capellanias perpetuas, é dexo por las dichas capellanias diez mil e quiñientos maravedis de moneda vieja.» Testam. de Enr. III (R. 68. 2642).\n\n— Siglo XIV: «E que para ser seguro Gomez Carrillo de tales decires ---» Crón. Pedro I, 11. 18 (R. 66. 5081). «Dixieronle aquellas cosas que ella dicia que dician.» Crón. Alf. XI, 201 (R. 66. 3021). «Otrosi que llieven castigados sus canes que non digan en las trayellas, porque los podria oir el venado.» Mont. Alf. XI, 1. 18 (Bibl. venat. 1. 61). «Si viere que el can ó los canes que van diciendo en la dicha, aunque escomiencen las voces vagarosas et de tarde en tarde, et van acuciando en el decir todavía más, et doblándolas, entienda que podrán alcanzar aina.» Ib. 1. 6 (Bibl. venat. 1. 24). «Si viere en la dicha de los canes que acucian en el decir todavía más, et que van todos por una liña, entienda que soltaron bien.» Ib. 1. 6 (Bibl. venat. 1. 22). «Muchos cuydan ganar quando disen a todo, | Viene un mal asar, trae dados en rodo.» Arc. de Hita, 1508 (R. 57. 2742). «Andan por todo el pueblo della muchos desires.» Id. 882 (R. 57. 2542). «Los males de los dados dislos maestre Roldan.» Id. 530 (R. 57. 2432). «Sennor, dis, tu estas flaco.» Id. 75 (R. 57. 2292). «Dis que yasie doliente el leon de dolor.» Id. 72 (R. 57. 2292). «Et sobí yo en la bestia, e tú dejiste que aquello era lo mejor.» J. Man. C. Luc. 24 (R. 51. 3721). «Digovos que querria que supiésedes lo que conteció á un muy buen caballero.» Id. ib. 2 (R. 51. 3831).\n\n— Siglo XIII; «Dice [el Evangelio] que cuando entró Jesucristo en una cibdat que habia nombre Cafarnaum ---» Cast. é docum. 86 (R. 51. 2212). «Yo so un home poderoso en esta cibdat, é si digo á alguno ven, viene; é si digo á otro ve, va; é si digo á mis siervos faced esto, luego lo facen.» Ib. (R. 51. 2212). «Una dueña muy honrada, que le decian Sulpicia ---» Ib. 77 (R. 51. 2091). «Hay en ellos [en los nobles] mayor mesura e mayor enseñamiento en sus decires.» Ib. 73 (R. 51. 2032). «Los desires» = sermonum Dei, Núm. 24. 4 (Scío). «E por ende vos digo que si vos non saluardes dello asi como es derecho, que yo nunca vos bese la mano.» Crón. gen. 4. 3 (2961). «Bien vos digo que si gano a Çamora que yo vos faga en ella el mayor e mejor assi como es agora don Arias Gonçalo.» Ib. 4. 2 (2921). «Luego que llegó a Ouiedo, entró en la ygresia de Sant Saluador por fazer su oraçion e dezir y missa.» Ib. 3. 21 (2551). «Señora, yo digo verdad a Dios e a vos, que si vos esto complides que me vos dezides, que vos tome yo por muger e que me case con vos.» Ib. 3. 19 (2492). «Al vno dezien Velasco Menendez, e al otro Suero Velasquez.» Ib. 3. 10 (2271). «Le dio y la espada que dezien Giosa.» Ib. 3. 5 (2201). «E los viejos quando esto lo oyeron dezir touieronlo por sandio; e dixeronle que non dezie nada, e que aquello que dezie que gelo facie el diablo dezir.» Ib. 2. 43 (1773). «Este Abdalla de Arabia de que deximos auie muy gran amistad e compañia con un judio de la sciencia que llaman astronomia.» Ib. 2. 39 (1731). «Manes tanto quiere dezir como mandadero.» Ib. 1. 139 (1112). «Asi como deximos en el título de los personeros.» Part. 3. 18. 39 (2. 569). «Podemos aun decir en otra manera, que jura es afirmamiento de la verdat.» Part. 3. 11. 1 (2. 470). «Asi como desuso es dicho en la ley que fabla del alevantamiento.» Part. 2. 19. 6 (2. 185). «Pero esto non se entiende habiendo escusa derecha por que non podiesen venir, segunt dice en la ley ante desta.» Part. 2. 19. 4 (2. 184). «Pero si el rey rescebiese hi algunos de los males que diximos en la ley ante desta, deben haber esa mesma pena que en ella dice.» Part. 2. 19. 5 (2. 184). «Et pueden descomulgar et vedar, segunt que diz en la quarta ley ante desta.» Part. 1. 6. 8 (1. 256). «Son aquellas [defensiones] que aluengan el pleito, asi como diz en la tercera ley desde título.» Espéc. 5. 4. 8 (O. L. 1. 312). «Mas si despues que lo ovieren metido los enemigos en tal logar, como desuso dixiemos, quiquier que lo gane dellos tolliendogelo, deve seer suyo.» Ib. 3. 7. 16 (O. L. 1. 118; dixiemo en la p. 115 es errata). «¿Quién fizo á este atrevido que diga de sí en lo que yo digo de non, et en decir de non en lo que yo digo de sí?» Cal. é Dymna (R. 51. 282). «Los malos creen quanto mal disen de los omnes.» Boc. de oro, 12 (Knust, 234). «E si dijier que non los conosce, nin sabe como les dicen, el rey --- deve mandar facer pesquisa.» Fuero viejo, 2. 4. 4 (71). «El cazador develo dizir ante á los vecinos.» Fuero Juzgo, 8. 4. 23 (145; * decir). «Otro tal derecho es daquellos que tienen el ganado encerrado enante tres dias é non lo quieren dizir al sennor.» Ib. 8. 3. 15 (141; * decir). «Por ende que estas cosas de suso dechas non seant desfechas.» Ib. preámb, 15 (XIII). «Plaznos de dicer de cabo las cosas que son ben estavlecidas.» Ib. preámb 13 (XII). «Onde los antigos dicen tal proverbio: Rey serás si fecieres derecho; e si non fecieres derecho, non serás rey.» Ib. preámb. 1 (II). «A lo que a dito iol cuydo responder.» Alex. 1464 (R. 57. 1922). «Senoor dixieron ellos se Dário fallecia ---» Ib. 751 (R. 57. 1702). «Sennor, dexioron todos, en todo te creemos.» Ib. 748 (R. 57. 1702). «Muchas a de yentes mas de las que el diz.» Ib. 746 (R. 57. 1702). «Muchas uezes uos dixi, si bien uos acordades, | De can que mucho ladra nunca uos del temades.» Ib. 742 (R. 57. 1702). «Via, dixiron todos.» Ib, 475 (R. 57. 1621). «Los unos dezien si, los otros dezien non.» Ib. 471 (R. 57. 1621). «A Dios e al confesor rogaba, e diçia | Que si lo dend librasse nunqua malo seria.» Berc. S. Dom. 750 (R. 57. 632). «Recudiol, e dixol unos dichos pesados. | Rey, diz, merçed, te pido que sea escuchado.» Id. ib. 136 (R. 57. 441). «Ganó tal prez, | Qual non dixrie nul omne, nin alto, nin befez.» Id. ib. 55 (R. 57. 412). «Dissol a don Valerio Sixto su voluntat.» Id. S. Laur. 10 (R. 57. 901). «Ambos de Uesca fueron, dizlo la escriptura.» Id. ib. 2 (R. 57. 901). «Ave, Rex, li diçian desleales probados.» Id. Loores, 68 (R. 57. 952). «Segun que el diçia ---» Id. ib. 64 (R. 57. 952). «Solo que lis disso yo so el que buscades, | Amorteçidos caieron commo de golpes grandes.» Id. ib. 60 (R. 57. 952). «Si dissiese que non, dizria falsedat.» Id. Mil. 224 (R. 57.1102). «Disso: diçit al fijo de la mala putanna | Que venga ante mi.» Id. ib. 222 (R. 57. 1102). «Non li dizrie tal fijo a tal madre de non.» Id. ib. 181 (R. 57. 1091). «Si ay qui responda o dize de no, | Hyo so Albar Fanez pora todel meior.» Cid, 3455 (R. 57. 352). «Dezir querrie ya quanto de lo myo.» Ib. 3433 (R. 57. 352). «Dize el conde don Remond: dezid de ssi o de no.» Ib. 3208 (R. 57. 332). «Alabandos yuan los ynfantes de Carrion. | Mas yo uos diré daquel Felez Muñoz.» Ib. 2763 (R. 57. 292). «Que yo nulla cosa nol sope dezir de no.» Ib. 2202 (R. 57. 242). «Quiero uos dezir del que en buen ora nasco e cinxo espada.» Ib. 899 (R. 57. 121). «Mas del Çid Campeador yo non uos digo nada.» Ib. 889 (R. 57. 121). «Que a vno que dizien Myo Çid Ruy Diaz de Biuar, | Ayrolo el rey Alfonsso, de tierra echadolo ha.» Ib. 628 (R. 57. 91). «Di, rabi, la vertad, si tu lo as sabido.» Reyes magos, 137 (Hartmann, 51). «Rei vertad te dizremos.» Ib. 92 (ib. 49). «Que decides? o ides? a quin ides buscar? --- | Decidme vostros nombres, no m’los querades celar.» Ib. 81-83 (ib. 49). «Bine es vertad lo que io digo.» Ib. 11 (ib. 46).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Gall. dicir; port. dizer; val., mall., cat. dir; prov. dir, dire; fr., it. dire; vál. zice: del lat. dicere, ant. deicere, cuyo sentido originario parece haber sido Mostrar, como lo dan á entender el gr. δειχνυμι, sans. diç. Esta raíz existe igualmente en celta y en las lenguas germánicas.",
+  "etimologia": "Etim. Gall. <i>dicir</i>; port. <i>dizer</i>; val., mall., cat. <i>dir</i>; prov. <i>dir</i>, <i>dire</i>; fr., it. <i>dire</i>; vál. <i>zice</i>: del lat. <i>dicere</i>, ant. <i>deicere</i>, cuyo sentido originario parece haber sido Mostrar, como lo dan á entender el gr. δειχνυμι, sans. <i>diç</i>. Esta raíz existe igualmente en celta y en las lenguas germánicas.",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "Conjug. Digo, dices, dice, decimos, decís, dicen; decí-a, as, etc.; dij-e, iste, o, imos, isteis, eron; dir-é, ás, etc.; dir -ía, ías, etc.; dig-a, as, etc.; dij-ese, eses, etc.; dij-era, eras, etc.; dij-ere, eres, etc.; dí, decid; diciendo.",
-  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Intrans.: 1, a, χ, α α, β β - 1, d, e - 1, h, δ - 2, α, β - 2, χ, δ, ε.\n\n— Rεφλ.: 1, α, θ, ι - 1, j, β.\n\n— Pαρτ.: 1, α, α, β β - 1, a, α, δ δ - 1, a, β, α α, β β - 1, f, δ - 1, γ, γ, δ δ - 1, g, β - 1, ι, α, α α - 3, d, α - 3, j - 3, π - 3, χχ.\n\n— Cον á: 1, β, β - 2, χ.\n\n— Cον: 2, ε, β.\n\n— Dε: 1, α, α, β β - 1, a, χ, α α, β β - 1, d - 1, h, δ.\n\n— Eν: 1, α, α, γ γ - 2, e, γ.\n\n— Eντρε: 1, α, ι.\n\n— Pαρα: 1, α, ι.\n\n— Cον υνα προπ. ινδιχ.: 1, α, β - 1, α, ζ - 1, α, η - 1, χ, α.\n\n— Cον υνα προπ. ινφιν.: 1, α, γ.\n\n— Cον υνα προπ. συβj.: 1, α, δ - 1, α, ζ - 1, χ, α, α α.\n\n— Con una prop. interr.: 1, a, ε - 1, a, ζ.\n\n— Con un pred.: 1, a, γ, β β - 1, g, γ.\n\n— Cον δατ.: 1, α, α, α α - 1, a, θ , ι - 1, h, β - 1 ι, β - 2, δ - 2, ε, α.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Intrans.: 1, a, χ, α α, β β - 1, d, e - 1, h, δ - 2, α, β - 2, χ, δ, ε.\n\n— Rεφλ.: 1, α, θ, ι - 1, j, β.\n\n— Pαρτ.: 1, α, α, β β - 1, a, α, δ δ - 1, a, β, α α, β β - 1, f, δ - 1, γ, γ, δ δ - 1, g, β - 1, ι, α, α α - 3, d, α - 3, j - 3, π - 3, χχ.\n\n— Cον á: 1, β, β - 2, χ.\n\n— Cον: 2, ε, β.\n\n— Dε: 1, α, α, β β - 1, a, χ, α α, β β - 1, d - 1, h, δ.\n\n— Eν: 1, α, α, γ γ - 2, e, γ.\n\n— Eντρε: 1, α, ι.\n\n— Pαρα: 1, α, ι.\n\n— Cον υνα προπ. ινδιχ.: 1, α, β - 1, α, ζ - 1, α, η - 1, χ, α.\n\n— Cον υνα προπ. ινφιν.: 1, α, γ.\n\n— Cον υνα προπ. συβj.: 1, α, δ - 1, α, ζ - 1, χ, α, α α.\n\n— Con una prop. interr.: 1, a, ε - 1, a, ζ.\n\n— Con un pred.: 1, a, γ, β β - 1, g, γ.\n\n— Cον δατ.: 1, α, α, α α - 1, a, θ, ι - 1, h, β - 1 ι, β - 2, δ - 2, ε, α.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

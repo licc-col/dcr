@@ -6,34 +6,51 @@
     {
       "id": "a)",
       "definicion": "Servir en la guerra o profesar la milicia (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«De España passó a Italia, o bien para servir en Roma al cardenal Aquaviva, de quien fue camarero, o bien para militar, como militó algunos años siguiendo las vencedoras banderas de aquel sol de la milicia Marco Antonio Colona.»",
               "autor": "Mayáns",
               "referencia_obra": ", Vida de Cerv. p. 12."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la expresión al lado de o a órdenes de, para señalar el jefe a quien se sirve. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Don Adeodato de la Mentirola, anciano que militó al lado del coronel realista Sanjuanena ---, prefiere a todas las repúblicas teóricas y prácticas, habidas y por haber, el paternal gobierno de Fernando VII.»",
                   "autor": "Palma",
-                  "referencia_obra": ", Trad. peruanas, p. 416. — Además con en, para indicar la ocasión. ´"
-                },
+                  "referencia_obra": ", Trad. peruanas, p. 416."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«En la batalla de Xaquixahuana, mientras don Francisco de Mosquera milita a órdenes del representante del rey, por estropeado de figura que parezca, Garcilaso de la Vega está por la rebeldía.»",
-                  "autor": "Lleras",
-                  "referencia_obra": ", Eser. select. p. 227."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para indicar la ocasión. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«En la batalla de Xaquixahuana, mientras don Francisco de Mosquera milita a órdenes del representante del rey, por estropeado de figura que parezca, Garcilaso de la Vega está por la rebeldía.»",
+                      "autor": "Lleras",
+                      "referencia_obra": ", Eser. select. p. 227."
+                    }
+                  ]
                 }
               ]
             },
@@ -41,48 +58,88 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con bajo, para señalar el poder al que se sirve. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«A este consejo replicaron ellos que no venían solos, porque eran más de cincuenta de aquella escuadra, que militaban bajo la protección y bandera de un caballero catalán.»",
                   "autor": "Lope",
                   "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 77). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Haber efectivamente seducido y ganado a los extranjeros que militan bajo sus banderas, a fin de que volviesen contra la república las mismas armas que ésta les confiara para su defensa.»",
                   "autor": "M. de la Rosa",
-                  "referencia_obra": ", La conjuración de Venecia, 5 (Cl. C. 107. 380). — Además con en, que señala la ocasión. ´"
-                },
+                  "referencia_obra": ", La conjuración de Venecia, 5 (Cl. C. 107. 380)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Si esta crítica fuera sincera, hecha por un señalado capitán, contemporáneo de César, y que militó bajo sus órdenes en la célebre acción de Farsalia, rebaxaría mucha parte del mérito de estos Comentarios.»",
-                  "autor": "Valbuena",
-                  "referencia_obra": ", tr. Los coment. de Julio César, p. vii."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, que señala la ocasión. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Si esta crítica fuera sincera, hecha por un señalado capitán, contemporáneo de César, y que militó bajo sus órdenes en la célebre acción de Farsalia, rebaxaría mucha parte del mérito de estos Comentarios.»",
+                      "autor": "Valbuena",
+                      "referencia_obra": ", tr. Los coment. de Julio César, p. vii."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, que señala: — el jefe o poder al que se sirve. +",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Cada uno sepa a quien sigue --- e con qué Capitán milita.»",
-                  "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 8 (1. 108). — Además con en. ´"
+                  "id_limpio": "—",
+                  "definicion": "el jefe o poder al que se sirve.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Cada uno sepa a quien sigue --- e con qué Capitán milita.»",
+                      "autor": "Oviedo",
+                      "referencia_obra": ", Quinquag. 1. 8 (1. 108)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El emperador Andrónico --- quiso que el príncipe Marulli, general de los romeos que militaban con Roger en el Oriente, fuese de su parte a Constantinopla.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ", Exped. 1. 22 (Cl. C. 54. 84). ´ La compañía. ´"
+                  "id_limpio": "—",
+                  "definicion": "Además con en. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«El emperador Andrónico --- quiso que el príncipe Marulli, general de los romeos que militaban con Roger en el Oriente, fuese de su parte a Constantinopla.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ", Exped. 1. 22 (Cl. C. 54. 84). ´ La compañía. ´"
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ejército de oro, | Que, por campañas de zafir marchando, | Guardáis el trono del eterno coro | Con diversas escuadras militando.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 162)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Ejército de oro, | Que, por campañas de zafir marchando, | Guardáis el trono del eterno coro | Con diversas escuadras militando.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 162). — Además con en, que indica la ocasión. ´"
-                },
-                {
-                  "texto_cita": "«La mayor parte de los testigos vecinos entonces de San Juan, conocen a Mallea de dieciséis años antes, y han militado con él en las campañas del sur de Chile.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Prov. p. 20."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, que indica la ocasión. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«La mayor parte de los testigos vecinos entonces de San Juan, conocen a Mallea de dieciséis años antes, y han militado con él en las campañas del sur de Chile.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Recuerdos de Prov. p. 20."
+                    }
+                  ]
                 }
               ]
             },
@@ -90,117 +147,193 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con contra, para señalar al oponente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Julián --- se hace soldado --- y aparece en la Alpujarra militando contra los moriscos.»",
                   "autor": "Mor.",
                   "referencia_obra": "Obr. póst. (3. 162). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Un César ha ordenado las tropas de Germania | Contra el francés avaro y el triste moscovita, | Y osó hostigar la rubia pantera de Britania. | Medio planeta en armas contra el teutón milita.»",
                   "autor": "Machado",
                   "referencia_obra": ", Poes. complet. p. 184."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con de, para indicar el grado u oficio. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En aquellos tiempos, ni se sufría, ni se daban los oficios primeros de la milicia a los soldados, sin que primero huviessen militado de donceles, y Cavalleros, y sin que antes estuviessen muy expertos.»",
                   "autor": "Berg.",
                   "referencia_obra": "Antigüed. 1. 5. 13 (p. 4221)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con debajo de, para indicar el jefe o poder.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Qué peligro, o varones, temeremos | Militando debajo de tal mano?»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 24 (R. 17. 902). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ea, caballeros, los que seguís y militáis debajo de las banderas del valeroso emperador Pentapolín del Arremangado Brazo.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 18 (Cl. C. 6. 89). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Todos en España querían salir a servir y militar debajo de su mando.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 51 (Cl. C. 81. 278). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Dijéronme ---, que iban a la vuelta de la villa de Arahal, por haber tenido noticia que estaba allí un capitán haciendo gente; y que era villa que no perecerían los que militaran debajo de su bandera.»",
                   "autor": "",
                   "referencia_obra": "Esteb. Gonz. 1. 5 (Cl. C. 108. 190). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Veleyo Patérculo, que ciertamente vivió en tiempo de Augusto y militó debajo del mando de Tiberio, dice: ---.»",
                   "autor": "Mayáns",
-                  "referencia_obra": ", Oríg. leng. esp. p. 316. — Además con contra, para señalar al oponente. Con un predicado referido al sujeto. ´"
-                },
+                  "referencia_obra": ", Oríg. leng. esp. p. 316."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Debajo de las banderas de Sertorio militaron ciegos los españoles contra los romanos, por haberle creído que en una cierva blanca --- le hablaba la deidad de Diana.»",
-                  "autor": "",
-                  "referencia_obra": "Feijoo, Teatro crít. 1 (Cl. C. 48. 93)."
+                  "id_limpio": "—",
+                  "definicion": "Además con contra, para señalar al oponente. Con un predicado referido al sujeto. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Debajo de las banderas de Sertorio militaron ciegos los españoles contra los romanos, por haberle creído que en una cierva blanca --- le hablaba la deidad de Diana.»",
+                      "autor": "",
+                      "referencia_obra": "Feijoo, Teatro crít. 1 (Cl. C. 48. 93)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Con en, para señalar: — el lugar.",
-              "ejemplos_citas": [
+              "definicion": "Con en, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«En tanto que no podía | Militar en su país, | Al gran archiduque Alberto | Entré de paje a servir.»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", El semejante a sí mismo, 2. 13 (R. 20. 732). ´"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«En tanto que no podía | Militar en su país, | Al gran archiduque Alberto | Entré de paje a servir.»",
+                      "autor": "Alarcón",
+                      "referencia_obra": ", El semejante a sí mismo, 2. 13 (R. 20. 732). ´"
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Cristóbal de Sotelo frisaba en los cincuenta y cinco años, y como soldado que había militado en Europa, era su consejo tenido en mucho.»",
+                      "autor": "Palma",
+                      "referencia_obra": ", Trad. peruanas, p. 30. ´ El jefe, fuerza o poder al cual se sirve. ´"
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Contaba que hasta Humaitá y el Cuadrilátero habia militado en las huestes del famoso y pintoresco alférez Ñanduá.»",
+                      "autor": "Roa",
+                      "referencia_obra": "Bastos, Hijo de hombre, p. 17."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Cristóbal de Sotelo frisaba en los cincuenta y cinco años, y como soldado que había militado en Europa, era su consejo tenido en mucho.»",
-                  "autor": "Palma",
-                  "referencia_obra": ", Trad. peruanas, p. 30. ´ El jefe, fuerza o poder al cual se sirve. ´"
+                  "id_limpio": "—",
+                  "definicion": "met. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«De Cupido en los afanes, | Gladiator amartelado, | Si en su hueste ha militado, | Riñe con los gavilanes; | Por más que los tafetanes | Sus heridas dejen ver, | Tijeretas han de ser.»",
+                      "autor": "Iglesias",
+                      "referencia_obra": ", letr. 34 (R. 61. 4292)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Contaba que hasta Humaitá y el Cuadrilátero habia militado en las huestes del famoso y pintoresco alférez Ñanduá.»",
-                  "autor": "Roa",
-                  "referencia_obra": "Bastos, Hijo de hombre, p. 17. — met. ´"
+                  "id_limpio": "—",
+                  "definicion": "Además con a, para señalar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«¿Quién milita en la guerra a su propia costa?»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Símb. 4. 2. 7 (5. 1611)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«De Cupido en los afanes, | Gladiator amartelado, | Si en su hueste ha militado, | Riñe con los gavilanes; | Por más que los tafetanes | Sus heridas dejen ver, | Tijeretas han de ser.»",
-                  "autor": "Iglesias",
-                  "referencia_obra": ", letr. 34 (R. 61. 4292). — Además con a, para señalar el modo."
+                  "id_limpio": "—",
+                  "definicion": "Además con como, que señala el grado u oficio. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Algunas [guerras] revelan la extraña docilidad con que los españoles militaban como mercenarios en los campos de Pompeyo y César, destrozándose mutuamente a beneficio de los codiciosos aspirantes al Imperio.»",
+                      "autor": "Ramón y Cajal",
+                      "referencia_obra": ", El mundo, 4. 21 (p. 201). ´"
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Pasó luego a la Costa y como capitán militó en las fuerzas que obraron en aquellas provincias.»",
+                      "autor": "Rueda Vargas",
+                      "referencia_obra": ", Lentus in umbra, p. 53."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Quién milita en la guerra a su propia costa?»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Símb. 4. 2. 7 (5. 1611). — Además con como, que señala el grado u oficio. ´"
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, que señala el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Sabíase confusamente que [el príncipe] habia militado con gloria en los ejércitos republicanos.»",
+                      "autor": "A. Galiano",
+                      "referencia_obra": ", Recuerdos, 8 (p. 157)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Algunas [guerras] revelan la extraña docilidad con que los españoles militaban como mercenarios en los campos de Pompeyo y César, destrozándose mutuamente a beneficio de los codiciosos aspirantes al Imperio.»",
-                  "autor": "Ramón y Cajal",
-                  "referencia_obra": ", El mundo, 4. 21 (p. 201). ´"
-                },
-                {
-                  "texto_cita": "«Pasó luego a la Costa y como capitán militó en las fuerzas que obraron en aquellas provincias.»",
-                  "autor": "Rueda Vargas",
-                  "referencia_obra": ", Lentus in umbra, p. 53. — Además con la prep. con, que señala el modo."
-                },
-                {
-                  "texto_cita": "«Sabíase confusamente que [el príncipe] habia militado con gloria en los ejércitos republicanos.»",
-                  "autor": "A. Galiano",
-                  "referencia_obra": ", Recuerdos, 8 (p. 157). — Además con otro compl. con en, que señala el tiempo. ´"
-                },
-                {
-                  "texto_cita": "«Era juez de minas en 1835 el mayor Mardones, que había militado en la República Argentina en los tiempos de la guerra de la independencia.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Prov. p. 127."
+                  "id_limpio": "—",
+                  "definicion": "Además con otro compl. con en, que señala el tiempo. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Era juez de minas en 1835 el mayor Mardones, que había militado en la República Argentina en los tiempos de la guerra de la independencia.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Recuerdos de Prov. p. 127."
+                    }
+                  ]
                 }
               ]
             },
@@ -208,40 +341,58 @@
               "id_marcador_html": "— θ θ )",
               "id_limpio": "— θ θ )",
               "definicion": "Con la expresión en su favor. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Llamaron a Dios a la parte de los despojos de la guerra, como a señor de las victorias, que militaba en su favor, ofreciendo al culto divino sus rentas y posesiones.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 25 (Cl. C. 81. 10)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ι ι )",
               "id_limpio": "— ι ι )",
               "definicion": "Con para, que señala la finalidad. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Así los haze vsurpadores de lo ageno, y que avían militado para su vtilidad y que contra la voluntad de su amo haçían la guerra para su ganançia propia.»",
                   "autor": "Jmz. de Quesada",
                   "referencia_obra": ", Antijovio (ICC. 10. 109)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— κ κ )",
               "id_limpio": "— κ κ )",
               "definicion": "Con por, para indicar la causa o motivo. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y todos, atendiendo a tu decoro, | Por ti militan, y tu gloria vana | Escriben, ¡oh furor!, con sangre humana.»",
                   "autor": "Jáur.",
-                  "referencia_obra": "Rimas (Cl. C. 182. 39). — Con una prop. infinitiva como término. ´"
-                },
+                  "referencia_obra": "Rimas (Cl. C. 182. 39)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Vn sobervio exército de africanos viene contra nosotros: pero no ay que temer, si militamos por defender nuestra santíssima Ley.»",
-                  "autor": "Berg.",
-                  "referencia_obra": "Antigüed. 1. 5. 26 (p. 5022)."
+                  "id_limpio": "—",
+                  "definicion": "Con una prop. infinitiva como término. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Vn sobervio exército de africanos viene contra nosotros: pero no ay que temer, si militamos por defender nuestra santíssima Ley.»",
+                      "autor": "Berg.",
+                      "referencia_obra": "Antigüed. 1. 5. 26 (p. 5022)."
+                    }
+                  ]
                 }
               ]
             }
@@ -251,86 +402,107 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Impers. ´",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mas, mientras se contiende y se milita, | No se vio tan mortifero cosario | Contra las naves.»",
               "autor": "Jáur.",
               "referencia_obra": "Rimas (Cl. C. 182. 89)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "En los siguientes textos, Luchar. ´",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mientras militaba Cristo, | Sus hazañas se imprimieron | Y grandezas en el mundo, | De quien hizo libro nuevo.»",
               "autor": "Jáur.",
               "referencia_obra": "Rimas (Cl. C. 182. 148)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, para señalar el medio. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Éstas [las repúblicas] siempre han de militar con el seso, pocas veces con las armas.»",
                   "autor": "Quev.",
                   "referencia_obra": "Hora de todos (Cl. Castal. 67. 213)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con contra, para señalar el oponente. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Como en la Argentina, como en Cuba, como es propio de su concepción liberal burguesa, los intelectuales habian militado casi unánimemente contra la dictadura que había derrocado a uno de los suyos en el poder: Rómulo Gallegos.»",
                   "autor": "Rama",
                   "referencia_obra": ", Nuevo narrador (Salvador Garmendia, p. 9)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con debajo de, para señalar el jefe o poder.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El que esto hace, no vive ya según carne y sangre; sino según el espíritu de Cristo: ni milita ya debajo de las leyes y tributos de la naturaleza corrupta.»",
                   "autor": "Gran.",
                   "referencia_obra": "Mem. vida crist. 4. 10 (2. 5081)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en, que indica el lugar. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Esta última [guerra] se tomó para castigo de Andrónico y de los griegos, que apartados de la obediencia de la romana Iglesia, madre universal de los que militan en la tierra, cayeron en mil errores.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 1. 37 (Cl. C. 54. 136)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con por, para indicar la causa o motivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Antes que el fuerte capitán Bernardo | Viniera al mundo a militar por Cristo, | Gran término del orbe poseía | El enemigo horrible.»",
                   "autor": "Jáur.",
                   "referencia_obra": "Rimas (R. 42. 1292; Cl. C. 182. 182)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -338,13 +510,16 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Loc. Iglesia que milita: la iglesia compuesta por los fieles vivos, para diferenciarla de la triunfante que es la de los muertos que han alcanzado la gloria eterna o salvación. ´",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Toma pues tú, nuestro español Atlante, | Los sagrados de Dios templos y altares | Sobre el ombro Real firme y bastante, | Que son de tu grandeza los lugares; | La Yglesia que milita y la triunfante | Serán tus amorosas tutelares.»",
               "autor": "Aldana",
               "referencia_obra": ", Obr. complet. (BALH. 22. 44; Cl. C. 143. 124)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -352,68 +527,99 @@
     {
       "id": "b)",
       "definicion": "Figurar en un partido o en una colectividad (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Es [la Corte] una dura cárcel, en la qual, al entrar, es menester dexar las armas; quiero dezir, la libertad, el gusto y el reposo, sin tener otra actión que esperança u paciencia. El que cuidare sin aquéstas conseguir sus intentos, milita en vano y se hallará sin fruto.»",
               "autor": "Césp. y Men.",
               "referencia_obra": "Sold. Pínd. (Cl. C. 203. 12)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con bajo. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿No es ésta una alegoría propia para hacer paladear por vez primera lo amargo del remordimiento a muchas almas que nunca militaron bajo las banderas del Mal?»",
                   "autor": "Rodó",
                   "referencia_obra": ", Motivos de Proteo, p. 45."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, para indicar la compañía. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Era popularísimo entre los ingleses que habían militado con él, y se sabe que todos los súbditos británicos residentes en la Coruña vistieron luto riguroso por varios días desde el momento de la ejecución.»",
                   "autor": "Martínez Silva",
                   "referencia_obra": ", Ensayos, p. 195."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con debajo de, para indicar: — el nombre, seña o distintivo. ´",
-              "ejemplos_citas": [
+              "definicion": "Con debajo de, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Los más [de los médicos], aunque divorciados enteramente de Galeno, no por eso dejan de militar fielmente debajo de las banderas de Hipócrates, cuya doctrina, dicen, hallan siempre en constante alianza con su experiencia propia.»",
-                  "autor": "",
-                  "referencia_obra": "Feijoo, Teatro crít. 1 (Cl. C. 48. 121). — El jefe o poder."
+                  "id_limpio": "—",
+                  "definicion": "el nombre, seña o distintivo. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Los más [de los médicos], aunque divorciados enteramente de Galeno, no por eso dejan de militar fielmente debajo de las banderas de Hipócrates, cuya doctrina, dicen, hallan siempre en constante alianza con su experiencia propia.»",
+                      "autor": "",
+                      "referencia_obra": "Feijoo, Teatro crít. 1 (Cl. C. 48. 121)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Vi algunos de ellos que había cincuenta años que militaban debajo de la obediencia.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Esc. esp. 4 (6. 3252). +"
-                },
-                {
-                  "texto_cita": "«De donde se puede conocer el grande amor y veneración que los catalanes y aragoneses tenían a sus reyes, pues aun sirviendo a príncipes extraños y en provincias tan apartadas, conservaron su memoria y militaron debajo della.»",
-                  "autor": "Moncada",
-                  "referencia_obra": ", Exped. 10 (R. 21. 111). ´ met. ´"
-                },
-                {
-                  "texto_cita": "«Si acaso [¡oh Cupido!] fuiste inclinado a alguno que debajo tu poderoso imperio militasse, inclínate a nosotros, óyenos, socórrenos, ayúdanos.»",
-                  "autor": "",
-                  "referencia_obra": "L. Rueda, Medora (Cl. C. 181. 114)."
+                  "id_limpio": "—",
+                  "definicion": "El jefe o poder.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Vi algunos de ellos que había cincuenta años que militaban debajo de la obediencia.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Esc. esp. 4 (6. 3252)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«De donde se puede conocer el grande amor y veneración que los catalanes y aragoneses tenían a sus reyes, pues aun sirviendo a príncipes extraños y en provincias tan apartadas, conservaron su memoria y militaron debajo della.»",
+                      "autor": "Moncada",
+                      "referencia_obra": ", Exped. 10 (R. 21. 111). ´ met. ´"
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Si acaso [¡oh Cupido!] fuiste inclinado a alguno que debajo tu poderoso imperio militasse, inclínate a nosotros, óyenos, socórrenos, ayúdanos.»",
+                      "autor": "",
+                      "referencia_obra": "L. Rueda, Medora (Cl. C. 181. 114)."
+                    }
+                  ]
                 }
               ]
             },
@@ -421,21 +627,34 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en, que señala el partido o colectividad. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Por su escuela habían pasado todos los jóvenes que militaban en el partido liberal y esto lo vinculaba con hondos afectos a la causa de la revolución.»",
                   "autor": "Wast",
                   "referencia_obra": ", La casa, 1. 1 (p. 83). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Los hermanos se habían unido y hasta regodeado en el asombro de sentirse solidarios: militaban en el mismo partido político y hasta figuraron en la lista del club.»",
                   "autor": "Benedetti",
-                  "referencia_obra": ", Claudicado (Montev. p. 55). — Además con la prep. con, para indicar el modo. ´"
-                },
+                  "referencia_obra": ", Claudicado (Montev. p. 55)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Era uno de los que, brotados en el tumulto de un aula de Filosofía, militaban con pasión generosa en las filas de los propagadores políticos, entonces tan necesarios.»",
-                  "autor": "P. Galdós",
-                  "referencia_obra": ", La fontana de oro, 6 (p. 69)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para indicar el modo. ´",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Era uno de los que, brotados en el tumulto de un aula de Filosofía, militaban con pasión generosa en las filas de los propagadores políticos, entonces tan necesarios.»",
+                      "autor": "P. Galdós",
+                      "referencia_obra": ", La fontana de oro, 6 (p. 69)."
+                    }
+                  ]
                 }
               ]
             },
@@ -443,30 +662,37 @@
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con por, para indicar de finalidad. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Aquí de la Fe, que ya | Azia la Fe se avezina | Vna Verdad, que defienden, | Los que por la Fe militan.»",
                   "autor": "Solís",
                   "referencia_obra": ", Poes. (Cl. Hisp. 16. 326). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«De cuya omissión fue la causa suponer, que todos sabían no haber extravagancia por la qual no militasse una runfla de escritores, que sería possible juntar con poca diligencia.»",
                   "autor": "Torres Villarroel",
                   "referencia_obra": ", Pronósticos, 2 (1. 237)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con sobre, para señalar la enseña o distintivo. +",
+              "definicion": "Con sobre, para señalar la enseña o distintivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Los discípulos de Cristo no pueden traer ninguna cosa; de manera que los que militan sobre su bandera, ni se han de mantener con riquezas ni aun pelear con armas.»",
                   "autor": "Guev.",
                   "referencia_obra": "Oratorio, 46 (p. 701)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -475,119 +701,156 @@
     {
       "id": "c)",
       "definicion": "Mediar, existir en un asunto alguna razón o circunstancia particular a favor o en contra de determinado aspecto (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Como legado de familia, militaban las mismas razones; como adorno, eran de pésimo gusto.»",
               "autor": "D. F. Sarmiento",
               "referencia_obra": ", Recuerdos de Prov. p. 110."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con contra. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Es grande la malicia de nuestro corazón, y muy grandes también los combates que militan contra este bien.»",
                   "autor": "Gran.",
                   "referencia_obra": "Guía, 1. 6 (Cl. C. 9. 56). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Contra este dictamen militan las determinaciones de Santos, que ilustraron mucho el Estado Eclesiástico.»",
                   "autor": "Berg.",
                   "referencia_obra": "Antigüed. 2. 6. 2 (p. 81)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Esta razón milita contra los equívocos.»",
                   "autor": "Clem.",
                   "referencia_obra": "Coment. 1. 28 (2. 400). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Razones fuertes militan contra la opinión que atribuye al espacio una naturaleza distinta de la del cuerpo.»",
                   "autor": "Balmes",
                   "referencia_obra": ", Filosof. fund. (BAC. 37. 281). ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Éstas y otras razones de un orden egoísta militaban también contra la viuda, a par de las razones legítimas y de subsistencia.»",
                   "autor": "Valera",
                   "referencia_obra": ", Pepita Jiménez, p. 102. ´"
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Porque contra Rusia militan las fuerzas al servicio de todos los injustos privilegios del mundo.»",
                   "autor": "Machado",
                   "referencia_obra": ", Obr. suelt. p. 351."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la expresión respecto de. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Esta razón milita del mismo modo respecto de las almas separadas; porque éstas, o están en gloria o en pena: ---.»",
                   "autor": "",
                   "referencia_obra": "Feijoo, Teatro crít. 2 (Cl. C. 53. 7)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En el Eclesiástico militan diferentes razones que demuestran la conveniencia de elección.»",
                   "autor": "León",
                   "referencia_obra": "prodig. 1. 1 (Dicc. Autor.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con entre. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Es caso común que la enamorada voluntad de los padres milite entre las causas que producen las desviaciones, los malogros y los vanos remedos de la vocación.»",
                   "autor": "Rodó",
                   "referencia_obra": ", Motivos de Proteo, p. 87."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con para. ´",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Qué razón milita para que oreja, término intachable en el siglo XVI, no haya de emplearse hoy en poesía seria sin lastimar el oído de los leyentes?»",
                   "autor": "Caro",
                   "referencia_obra": ", Del uso, p. 53."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con sujeto de cosa. met. Con contra, para señalar aquello que se combate.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Le convendrá vencer en esta parte su propio gusto e inclinación y dejar lo menos por lo más: cuando esto no militare contra su particular oficio y obligación.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Adic. al Mem. 1. 5 (3. 2842). — Con para, que indica la finalidad."
-                },
+                  "referencia_obra": "Adic. al Mem. 1. 5 (3. 2842)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Ningún paso dio, ninguna cosa hizo que no militase para nuestro bien.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Medit. (3. 5642)."
+                  "id_limpio": "—",
+                  "definicion": "Con para, que indica la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ningún paso dio, ninguna cosa hizo que no militase para nuestro bien.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Medit. (3. 5642)."
+                    }
+                  ]
                 }
               ]
             }
@@ -598,7 +861,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: ´ «Militar: volones, porque de su voluntad quesieron militar.» Pal. Univ. vocab. 535d.",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. militare ‘practicar el ejercicio de las armas’. Fr. militer, it. militare.\n\n\u0000",
+  "etimologia": "Etim. Del lat.<i> militare</i> ‘practicar el ejercicio de las armas’. Fr.<i> militer</i>, it.<i> militare</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",

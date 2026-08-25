@@ -1,44 +1,53 @@
 {
   "lema": "ARROJAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen así:\n\n— 1, Despedir con violencia, a) tratándose de cosas que se esparcen ó derraman, b) de cosas que se tiran de pronto al suelo, refl. dejarse caer, postrarse, c) en señal de menosprecio ó despilfarro, d) hacia abajo, á lo hondo, e) hacia punto determinado, f) sacudiendo ó desechando, g) tratándose de la voz, h) del mismo comunicado por objetos materiales, i) de las ropas, j) met.;\n\n— 2, a) hacer salir con ímpetu ó presteza, b) refl. abalanzarse, c) denotando ansia, d) aplicado á los ríos;\n\n— 3, a) mover á acción ardua ó inconsiderada, b) refl. emprender, acometer animosamente, c) atreverse inconsideradamente.\n\n— 4, a) expulsar, hacer salir, b) met.;\n\n— 5, en lenguaje místico;\n\n— 6, echar de sí a) fragancia, b) luz, c) hierbas, hojas, frutos, d) met., e) aplicado á cuentas, documentos, f) tener ó presentar resaltado.",
+  "introduccion": "Las acepciones se distribuyen así:\n\n— 1, Despedir con violencia, a) tratándose de cosas que se esparcen ó derraman, b) de cosas que se tiran de pronto al suelo, refl. dejarse caer, postrarse, c) en señal de menosprecio ó despilfarro, d) hacia abajo, á lo hondo, e) hacia punto determinado, f) sacudiendo ó desechando, g) tratándose de la voz, h) del mismo comunicado por objetos materiales, i) de las ropas, j) met.;\n\n— 2, a) hacer salir con ímpetu ó presteza, b) refl. abalanzarse, c) denotando ansia, d) aplicado á los ríos;\n\n— 3, a) mover á acción ardua ó inconsiderada, b) refl. emprender, acometer animosamente, c) atreverse inconsideradamente.\n\n— 4, a) expulsar, hacer salir, b) met.;\n\n— 5, en lenguaje místico;\n\n— 6, echar de sí a) fragancia, b) luz, c) hierbas, hojas, frutos, d) met., e) aplicado á cuentas, documentos, f) tener ó presentar resaltado.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "Impeler con violencia una cosa, de modo que, entregada á sí misma, recorra una distancia (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Tratándose de cosas que se esparcen ó derraman.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Encubrían á su modo el daño que padecían levantando el grito y arrojando al aire puñados de tierra, para que no se viesen los que caían ni se pudiesen percibir sus lamentos.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 1. 19 (R. 28. 2282)."
             },
             {
+              "marca": "",
               "texto_cita": "«Arrojaban las mujeres diferentes flores sobre los españoles.»",
               "autor": "",
               "referencia_obra": "Id. ib. 3. 2 (R. 28. 2671)."
             },
             {
+              "marca": "",
               "texto_cita": "«Morían muchos por un granizo perpetuo de cañonazos que arrojaban de la ciudad.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. bajos, 8 (R. 28. 1192)."
             },
             {
+              "marca": "",
               "texto_cita": "«Salid, cubrid el rostro, y desceñidos, | Los huesos, á la espalda, id arrojando | De vuestra madre.»",
               "autor": "",
               "referencia_obra": "Torrealma, Deucalión (R. 29. 4861)."
             },
             {
+              "marca": "",
               "texto_cita": "«Vieron que hacia ellos venía un desmesurado jabalí, crujiendo dientes y colmillos, y arrojando espuma por la boca.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 34 (R. 1. 4772)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -46,76 +55,93 @@
     {
       "id": "b)",
       "definicion": "De cosas que se tiran al suelo sin pensar cómo ó en qué punto han de caer, como cuando sólo se trata de desembarazarse prontamente de ellas por la priesa ó el enojo.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Saltaron todos los soldados arrojando las lanzas.»",
               "autor": "Bernáldez",
               "referencia_obra": ", Hist. de los Reyes Católicos, 182 (R. 70. 7052)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hace que el rey Perión arroje en tierra la espada y el escudo luégo que conoce á su señora.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. (Mayans, 135)."
             },
             {
+              "marca": "",
               "texto_cita": "«Saltó del caballo, arrojó la lanza y embrazó el escudo, y desenvainando la espada, paso ante paso, con maravilloso denuedo y corazón valiente se fue á poner delante del carro.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 17 (R. 1. 4382)."
             },
             {
+              "marca": "",
               "texto_cita": "«Miren vuestras mercedes también cómo el emperador vuelve las espaldas, y deja despechado á D. Gaiferos, el cual ya ven cómo arroja impaciente de la cólera lejos de sí el tablero y las tablas, y pide apriesa las armas.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 26 (R. 1. 4592)."
             },
             {
+              "marca": "",
               "texto_cita": "«Arrojaron los bordones, quitáronse las mucetas ó esclavinas, y quedaron en pelota.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 54 (R. 1. 5181)."
             },
             {
+              "marca": "",
               "texto_cita": "«Por la pena que me da su enojo, | Dejo los versos, y la pluma arrojo.»",
               "autor": "Villav.",
               "referencia_obra": "Mosq. 1 (R. 17. 5762)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si te fueren peso ó embarazo, | Para llegar al plazo, | Las conchas y las hierbas que cogiste, | Arrójalas y parte, | Pues navegas y vuelves á embarcarte.»",
               "autor": "Quev.",
               "referencia_obra": "Doctr. de Epict. 10 (R. 69. 3931)."
             },
             {
+              "marca": "",
               "texto_cita": "«Señoras, si aquesto proprio | Os llegare á suceder, | Arrojar la cara importa, | Que el espejo no hay por qué.»",
               "autor": "",
               "referencia_obra": "Id. Musa 6, rom. 12 (R. 69. 1611)."
             },
             {
+              "marca": "",
               "texto_cita": "«A la sazón que el descompuesto moro | De la espada arrojó los gavilanes, | En favor iban del francés Gaiferos, | Matando el uno, el otro haciendo fieros.»",
               "autor": "Valb.",
               "referencia_obra": "Bern. 1 (R. 17. 1492)."
             },
             {
+              "marca": "",
               "texto_cita": "«Con desdén da á entender que el dios la enoja, | Y arroja el bastidor y él oro arroja.»",
               "autor": "Espinosa",
               "referencia_obra": ", Fáb. del Jenil (R. 29. 4752)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Arrojado á sus pios y ya marchito | Yacía el ramo de la verde oliva.»",
                   "autor": "T. Iriarte",
                   "referencia_obra": ", La paz y la guerra (R. 63. 392)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -123,35 +149,43 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl. Dejarse caer ó echarse de golpe.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El decir esto y el tenderse en el suelo todo fue á un mismo tiempo, y al arrojarse hicieron ruido las armas de que venía armado.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 12 (R. 1. 4272)."
             },
             {
+              "marca": "",
               "texto_cita": "«Arrójanse pecho por tierra como los que despidió Gedeón, á beber sus venenosas aguas, entregándose á regalos, suciedades y vanas honras.»",
               "autor": "Estella",
               "referencia_obra": ", Van. del mundo, 1. 7 (Míst. 4. 16)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en ó sobre, para expresar el lugar donde se cae.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Volviendo á cerrar la puerta, se arrojó en la cama de golpe.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 9 (R. 1. 2001)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Lo cual visto por Nísida, arrojándose sobre mi herido cuerpo, con lamentables voces pedía á los dos turcos la acabasen.»",
                   "autor": "",
                   "referencia_obra": "Id. Gal.5 (R. 1. 701)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -159,45 +193,55 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Refl. En especial, Echarse de rodillas, postrarse.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Oyendo lo cual la Dolorida dueña hizo señal de querer arrojarse á los pies de D. Quijote, y aun se arrojó, y pugnando por abrazárselos decía: Ante estos pies y piernas me arrojo, oh caballero invicto, por ser los que son basas y colunas de la anante caballería.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 38 (R. 1. 4842)."
             },
             {
+              "marca": "",
               "texto_cita": "«Arrojóseme á los pies, | La color como de un muerto, | Y con voz interrumpida | De sollozos, dijo ---»",
               "autor": "",
               "referencia_obra": "Id. La gran sultana, 1 (Com. 2. 61)."
             },
             {
+              "marca": "",
               "texto_cita": "«Una vez cargado de angustia, arrojóse ante un altar, revolviendo en su pensamiento dijo ---»",
               "autor": "Gran.",
               "referencia_obra": "Imit. 1. 25 (R. 1. 3911. El original: «Ante quoddam altare se in oratione prostravisset.»)"
             },
             {
+              "marca": "",
               "texto_cita": "«A tus plantas | Agradecido me arrojo.»",
               "autor": "Mto.",
               "referencia_obra": "Antíoco y Seleuco, 3. 12 (R. 39. 553)"
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part. dep.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Hizo el postrer acto desta tragedia madama de Gomerón, saliendo ella y dos hijas suyas ninas en busca del conde, y pidiendo arrojada á sus pies la vida de sus hijos.»",
                   "autor": "Coloma",
                   "referencia_obra": ", Guerras de los Est. Bajos, 8 (R. 28. 1102)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«A vuestros pies arrojada, | No he de levantarme dellos | Sin que me deis á mi hermano.»",
                   "autor": "Mto.",
                   "referencia_obra": "La misma conciencia acusa, 2. 3 (R. 39. 1101)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -206,42 +250,52 @@
     {
       "id": "c)",
       "definicion": "Connotando menos recio ó despilfarro; á menudo se emplea figuradamente.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Se atrevieron á entrar en los sagrados templos, y poner las descomulgadas manos en las santas reliquias, poniendo en el seno el oro con que guarnecidas estaban, y arrojándolas en el suelo con asqueroso menosprecio.»",
               "autor": "Cerv.",
               "referencia_obra": "Gal. 2 (R. 1. 27)."
             },
             {
+              "marca": "",
               "texto_cita": "«El manteo ha de ser de más bordado que la basquiña; y todo nuevo, y todo reciente, y todo hecho de ayer para vestirlo hoy y arrojarlo mañana.»",
               "autor": "León",
               "referencia_obra": ", Perf. cas. 4 (R. 37. 2182)."
             },
             {
+              "marca": "",
               "texto_cita": "«A veces es menester redimir con ella los peligros ó facilitar los fines, en que suele ahorrar mucho el que más pródigamente arroja el dinero.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 40 (R. 25. 1032)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con de, que realza el concepto de repulsión.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Otros asimesmo comían un poquito de pan, y lo demás arrojaban de sí.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 2. 2 (R. 8. 2371)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -249,79 +303,105 @@
     {
       "id": "d)",
       "definicion": "Hacia abajo ó á lo hondo.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con á, para expresar: el lugar adonde va á dar lo lanzado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Deshaciendo tus plumas, castigado | Te arrojó al mar, á quien tu nombre has dado.»",
               "autor": "Arguijo",
               "referencia_obra": ", son. 50 (R. 32. 4002)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se ató con un cordel el cuerpo, y con el mismo cordel dio cabo á más barril, y con grande ánimo se arrojó á la mar, llevándome tras sí.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 2 (R. 1. 1291)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si no fuera por los molineros, que se arrojaron al agua, y los sacaron como en peso á entrambos, allí había sido Troya para los dos.»",
                   "autor": "",
                   "referencia_obra": "Id. Quij. 2. 29 (R. 1. 4671)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Gritó la chusma toda: Al mar se arroje, | Vaya Lofraso al mar sin resistencía.»",
                   "autor": "",
                   "referencia_obra": "Id. Viaje, 3 (R. 1. 6861)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Quien pues morir de hambre no desea | Arrójese conmigo al foso, y haga | Camino á su remedio con la daga.»",
                   "autor": "",
                   "referencia_obra": "Id. Numancia (Arrieta, 10. 28)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se arrojó al agua peleando, y ganó la otra ribera con tanta determinación y tan arrestado en los avances, que le mataron el caballo y le hirieron en un muslo.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 5. 4 (R. 28. 3481)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Desembarazándose de los que le guardaban con muerte de algunos, se arrojó al agua y escapó á nado con su bandera.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 5. 15 (R. 28. 3672)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ella, por ser ninfa del mar, se arrojaba á sus onas.»",
                   "autor": "",
                   "referencia_obra": "Montalván, Para todos, día 5 (314)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Le hubiera muerto sin arbitrio, á no haberse el soldado arrojado al mar.»",
                   "autor": "Quint.",
                   "referencia_obra": "Gran Capitán (R. 19. 2711)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Marco Curcio se arrojó al abismo armado y á caballo.»",
                   "autor": "Lista",
                   "referencia_obra": ", Hist. univ. 4, p. 235."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se arrojó al Etna para que ell pueblo se confirmase en la idea de su divinidad.»",
                   "autor": "J. Burgos",
-                  "referencia_obra": ", trad. de Hor. Arte poétic. nota (4. 440). —"
-                },
+                  "referencia_obra": ", trad. de Hor. Arte poétic. nota (4. 440)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Suplico á vuesa merced me deje dormir, y no me pregunte más, si no quiere que me arroje por una ventana abajo.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 70 (R. 1. 5501)."
+                  "id_limpio": "—",
+                  "definicion": "",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Suplico á vuesa merced me deje dormir, y no me pregunte más, si no quiere que me arroje por una ventana abajo.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 2. 70 (R. 1. 5501)."
+                    }
+                  ]
                 }
               ]
             },
@@ -329,13 +409,16 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con la muerte de Jesucristo, figurada en Jonás arrojado al mar, se aplacó la divina indignación.»",
                   "autor": "Scío",
                   "referencia_obra": ", Jonás, 1. 15, nota."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -343,97 +426,118 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con en, para expresar el lugar donde queda hundido aquello que se lanza.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Añade el mismo autor que las insignias de la dignidad de megaduque las arrojó en el mar.»",
               "autor": "Moncada",
               "referencia_obra": ", Exped. 22 (R. 21. 222)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cantemos al Señor que gloriosamente ha triunfado, pues al caballo y al caballero arrojó en la mar.»",
               "autor": "Gran.",
               "referencia_obra": "Orac. y consid. 1, dom. por la mañ. (R. 8. 881)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ella, | Del dolor desesperada, | Y de la cólera ciega, | En un pozo me arrojó, | Sin que ninguno supiera | De mí.»",
               "autor": "Cald.",
               "referencia_obra": "La devoción de la Cruz, 1. 3 (R. 7. 552)."
             },
             {
+              "marca": "",
               "texto_cita": "«Con una piedra, me ordena | Que le arroje en ese río.»",
               "autor": "Lope",
               "referencia_obra": ", El gran duque de Moscovia, 2. 10 (R. 52. 2653)."
             },
             {
+              "marca": "",
               "texto_cita": "«No le quitéis la vida, ni derraméis su sangre; mas arrojadle en esta cisterna que está en el desierto.»",
               "autor": "Scío",
               "referencia_obra": ", Gén. 37. 22."
             },
             {
+              "marca": "",
               "texto_cita": "«Derribando todo aquello en que se quemaba incienso á los ídolos, lo arrojaron en el torrente de Cedrón.»",
               "autor": "",
               "referencia_obra": "Id. Paral. 2. 30. 14."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Antes se arrojaría en la mar que ver delante de sus ojos y por causa suya llevar cautivo á un padre que tanto la había querido.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 41 (R. 1. 3711)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Con una increíble presteza se arrojó de cabeza en la mar, donde sin ninguna duda se ahogara, si el vestido largo y embarazoso que traía no le entretuviese un poco sobre el agua.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 1. 41 (R. 1. 3721)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si quieres alcanzar el bien que debajo destas negras aguas se encubre, muestra el valor de tu fuerte pecho, y arrójate en mitad de su negro y encendido licor.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 1. 50 (R. 1. 3942)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pensaba muchas veces, que no había perdido nada san Pedro en arrojarse en la mar, aunque después temió.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Vida, 13 (R. 53. 481)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Despidiéronse, y abrazados unos con otros, hecha la señal de la cruz --- se arrojaron en el fuego todos.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 36 (R. 21. 352)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Entre el hierro español así se lanza, | Como con gran calor en agua fría | Se arroja el ciervo en el caliente estío, | Para templar el sol con algún frío.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 3 (R. 17. 141)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se arroja [Curcio] en la caverna prodigiosa.»",
                   "autor": "Arguijo",
                   "referencia_obra": ", son. 61 (R. 32. 4021)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Del Etna se arrojó en las llamas.»",
                   "autor": "J. Burgos",
                   "referencia_obra": ", trad. de Hor. Arte poétic. (4. 353)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Usando mal de su libre albedrío, se ensoberbecieron contra su Criador, por lo cual fueron echados del cielo y arrojados en el infierno.»",
                   "autor": "Puente",
                   "referencia_obra": ", Medit. 1. 2 (1. 64)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -441,21 +545,34 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Observando con atención los ejemplos citados en α, β, se echa de ver que con la construcción simplemente transitiva predomina la preposición en y con la refleja á. Parece que la diferencia, aunque no generalmente observada, proviene de que al arrojar algo á lo hondo se intenta de ordinario que quede sumergido ó hundido; mientras que el que se lanza al agua, etc., como no sea el caso poco frecuente del suicidio, no pretende lo mismo. A este propósito y con ocasión del comento que pone Clemencín, 3, p. 230, á los dos primeros pasajes de Cervantes copiados en β, α α, observa discretamente Baralt, Dicc. Galic. p. 66:",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Tengo para ni que arrojarse en y arrojarse á significan cosas diferentes. Nos arrojamos en el mar para morir en él, en su seno, dentro de sus olas; y Nos arrojamos al mar cuando queremos arrostrar sus iras ó inclemericias por cualquier motivo ó propósito. De lo uno dan fe las anteriores frases de Cervantes; lo otro resulta del siguiente pasaje: La codicia en las manos de la suerte | Se arroja al mar; la ira á las espadas, | Y la ambición se ríe de la muerte.»",
               "autor": "",
-              "referencia_obra": "Epíst. moral (R. 32. 3891). — Cuando se halla al mismo tiempo un compl. con de significativo del punto en que empieza el movimiento, se usa á no en."
-            },
+              "referencia_obra": "Epíst. moral (R. 32. 3891)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Arrojó del cielo á la tierra la ínclita Israel.»",
-              "autor": "Scío",
-              "referencia_obra": ", Jerem. trenos, 2. 1."
-            },
-            {
-              "texto_cita": "«Arrojaréme del muro | A la cava. — Está muy honda, | Y podríais peligrar.»",
-              "autor": "Cerv.",
-              "referencia_obra": "El gallardo español, 1 (Com. 1. 7)."
+              "id_limpio": "—",
+              "definicion": "Cuando se halla al mismo tiempo un compl. con de significativo del punto en que empieza el movimiento, se usa á no en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Arrojó del cielo á la tierra la ínclita Israel.»",
+                  "autor": "Scío",
+                  "referencia_obra": ", Jerem. trenos, 2. 1."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Arrojaréme del muro | A la cava. — Está muy honda, | Y podríais peligrar.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "El gallardo español, 1 (Com. 1. 7)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -464,51 +581,70 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Con de, desde para denotar el lugar en que empieza el movimiento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Maravilláronse mucho que Atahualpa hubiese dejado desamparado aquel unto, donde cien hombres resueltos podían desbaratar un ejércitó con sólo arrojar piedras desde arriba.»",
               "autor": "Quint.",
-              "referencia_obra": "Pizarro (R. 19. 3221). —"
-            },
+              "referencia_obra": "Pizarro (R. 19. 3221)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Esta ventana da | A un patio, y él al portal; | Arrojaos, señor, della, | Y abrid la puerta.»",
-              "autor": "Cald.",
-              "referencia_obra": "Peor está que estaba, 2. 13 (R. 7. 1022)."
-            },
-            {
-              "texto_cita": "«Mil veces, Sacra Majestad, me vino deseo de abrazarme con vuestra Majestad, y arrojarme de aquella claraboya abajo por dejar de mí fama eterna en el mundo.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 2. 8 (R. 1. 4201)."
-            },
-            {
-              "texto_cita": "«En llegando junto á él, el escudero se arrojó de la mula y fue á tomar en los brazos á Dorotea.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 1. 29 (R. 1. 3302)."
-            },
-            {
-              "texto_cita": "«Apenas hubo dicho esto el cristiano cautivo, cuando el jinete se arrojó del caballo, y vino á abrazar al mozo.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 1. 41 (R. 1. 3741)."
-            },
-            {
-              "texto_cita": "«Atentísimo estuvo Sancho á la relación de la vida y entretenirnientos del hidalgo; y pareciéndole buena y santa, y que quien la hacía debía de hacer milagros, se arrojó del rucio, y con gran priesa le fue á asir del estribo derecho, y con devoto corazón y casi lágrimas le besó los pies una y muchas veces.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 2. 16 (R. 1. 4361)."
-            },
-            {
-              "texto_cita": "«Diciendo esto se arrojó del lecho con intención de cerrar la puerta y no dejar entrar á la señora Rodriguez.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 2. 48 (R. 1. 5032)."
-            },
-            {
-              "texto_cita": "«Arrojáronse de los caballos Claudia y Roque.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 2. 60 (R. 1. 5321)."
-            },
-            {
-              "texto_cita": "«La señora doña Guiomar de Quiñones se quiso arrojar del coche para besar los pies y las manos del gran Roque, pero él no lo consintió en ninguna manera.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 2. 60 (R. 1. 5332)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Esta ventana da | A un patio, y él al portal; | Arrojaos, señor, della, | Y abrid la puerta.»",
+                  "autor": "Cald.",
+                  "referencia_obra": "Peor está que estaba, 2. 13 (R. 7. 1022)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Mil veces, Sacra Majestad, me vino deseo de abrazarme con vuestra Majestad, y arrojarme de aquella claraboya abajo por dejar de mí fama eterna en el mundo.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 2. 8 (R. 1. 4201)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«En llegando junto á él, el escudero se arrojó de la mula y fue á tomar en los brazos á Dorotea.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 1. 29 (R. 1. 3302)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Apenas hubo dicho esto el cristiano cautivo, cuando el jinete se arrojó del caballo, y vino á abrazar al mozo.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 1. 41 (R. 1. 3741)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Atentísimo estuvo Sancho á la relación de la vida y entretenirnientos del hidalgo; y pareciéndole buena y santa, y que quien la hacía debía de hacer milagros, se arrojó del rucio, y con gran priesa le fue á asir del estribo derecho, y con devoto corazón y casi lágrimas le besó los pies una y muchas veces.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 2. 16 (R. 1. 4361)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Diciendo esto se arrojó del lecho con intención de cerrar la puerta y no dejar entrar á la señora Rodriguez.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 2. 48 (R. 1. 5032)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Arrojáronse de los caballos Claudia y Roque.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 2. 60 (R. 1. 5321)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«La señora doña Guiomar de Quiñones se quiso arrojar del coche para besar los pies y las manos del gran Roque, pero él no lo consintió en ninguna manera.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 2. 60 (R. 1. 5332)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -518,70 +654,86 @@
     {
       "id": "e)",
       "definicion": "En determinada dirección, hacia determinado objeto.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Toma porque te subiste al sobrado, toma por las tejas que arrojabas, toma por las puertas que cerraste, toma por el escarnio que hiciste de tu amo, toma por las maldades que me dijiste.»",
               "autor": "Villalobos",
               "referencia_obra": ", Anfitrión (R. 36. 4812)."
             },
             {
+              "marca": "",
               "texto_cita": "«Derribóle el sombrero dos veces, y cansóle de manera, que de despecho, cólera y rabia asió la espada por la empuñadura, y arrojóla por el aire con tanta fuerza, que uno de los labradores asistentes, que era escribano, que fue por ella, dio después por testimonio que la alongó de sí casi tres cuartos de legua.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 19 (R. 1. 4442)."
             },
             {
+              "marca": "",
               "texto_cita": "«Huyen como saeta que el armado | Arco arroja.»",
               "autor": "Herr.",
               "referencia_obra": "2, eleg. 11 (R. 322. 3272)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con dat. para denotar el blanco.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Así traidor la linterna me arrojaste? ¿Piensas por ventura que tengo de dejar á ti por ella?»",
               "autor": "",
               "referencia_obra": "P. de Oliva, Anfitrión (1. 113)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡No les arrojen piedras ni el cayado, ó si le arrojaren, donde no les hieran, sino que les espanten.»",
               "autor": "",
               "referencia_obra": "Herrera, Agric. gen. 5. 28 (3. 432)."
             },
             {
+              "marca": "",
               "texto_cita": "«Con el ruido que Elicio al romper por las matas había hecho, pensando ser alguna fiera --- se había puesto á punto de arrojarle una pesada piedra que en las manos tenía.»",
               "autor": "Cerv.",
               "referencia_obra": "Gal. 1 (R. 1. 71)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con otros complementos denotativos de lugar ó dirección.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Arrojar una cosa contra otra.»",
               "autor": "Acad.",
               "referencia_obra": "Dicc."
             },
             {
+              "marca": "",
               "texto_cita": "«Las máquinas las hacían pedazos con piedras que de los muros arrojaban.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 16. 10 (R. 30. 4751)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -589,32 +741,40 @@
     {
       "id": "f)",
       "definicion": "Sacudiendo ó desechando con fuerza lo que molesta ú ofende.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Aunque no arrojo el yugo sacudido, | No me oprime la fuerza del tormento.»",
               "autor": "Herr.",
               "referencia_obra": "2, son. 40 (R. 32. 3102)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con de, que realza el concepto de separación.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ya arrojé | Del cuello una vez el yugo, | Ya libre la ropa enjugo | Que del mar de amor saqué.»",
               "autor": "Alarcón",
               "referencia_obra": ", El semejante á sí mismo, 1. 9. (R. 20. 672)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -622,67 +782,91 @@
     {
       "id": "g)",
       "definicion": "Dícese también de la voz, el aliento, los gemidos etc.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Cuando comenzaba á respirar la mora, creyendo exenta de peligro á su hija, se inmutó de pronto y arrojó un alarido, al conocer en el retroceso y el color de la sangre que las puntas de los puñales estaban tocadas con hierbas.»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", Is. de Solís, 1. 20 (4. 256)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "h)",
       "definicion": "Tratándose del impulso comunicado por objetos materiales.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Serían las piedras encendidas que arrojaba el volcán.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 3. 4 (R. 28. 2692)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con complementos de significación local.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Estaban puestas guardias que, notando el sentimiento de cada uno, seguían los ya podridos cuerpos, mientras se arrastraban al Tíber; donde los que iban sobreaguados ni los que la corriente del agua arrojaba á las orillas se podían tocar, cuanto y más quemarse.»",
               "autor": "Coloma",
               "referencia_obra": ", Tác. An. 6. 19 (1. 274)."
             },
             {
+              "marca": "",
               "texto_cita": "«Es verdad que pudo esparcir aquellas naves la turbación de los soldados ó la impericia de los marineros y arrojarlas el viento á la parte donde más eran menester.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 5. 6 (R. 28. 3502)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mas como arroja al navegante incierto | Tal vez la misma tempestad al puerto, | La misma sinrazón, la misma rabia | Libró mi amor de quien mi amor agravia.»",
               "autor": "Alarcón",
               "referencia_obra": ", Los empenos de un engaño, 2. 6 (R. 20. 2573)."
             },
             {
+              "marca": "",
               "texto_cita": "«No desmaya | Viendo borrascas mil en pos de aquélla, | Que ya la nave arrojan á la playa, | Ya al cielo la levantan.»",
               "autor": "Jáur.",
               "referencia_obra": "canc. Rompió Teresa (R. 42. 1311)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mas me arrojó á la orilla la corriente | Donde á una rama me detuve asido.»",
               "autor": "Mto.",
-              "referencia_obra": "Industrias contra finezas, 3. 14 (R. 39. 2862). —"
-            },
+              "referencia_obra": "Industrias contra finezas, 3. 14 (R. 39. 2862)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Persíguelos la diestra vencedora, | Y como seca nube al rayo ardiente, | El cielo los arroja de su seno.»",
-              "autor": "B. Argens.",
-              "referencia_obra": "canc. Pues que no hay voz (R. 42. 3362)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Persíguelos la diestra vencedora, | Y como seca nube al rayo ardiente, | El cielo los arroja de su seno.»",
+                  "autor": "B. Argens.",
+                  "referencia_obra": "canc. Pues que no hay voz (R. 42. 3362)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -692,31 +876,39 @@
     {
       "id": "i)",
       "definicion": "Ponerse con presteza, hablándose de ciertas ropas (raro).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Arrojóse encima su mantón de escarlata, y púsose en la cabeza una montera de terciopelo.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 46 (R. 1. 4991)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Llegóseos una viuda, arrojado el manto sobre sus ojos hasta la cintura, llorosa y atajada, alcanzándose un aliento á otro: pidióos limosna.»",
                   "autor": "Capm.",
                   "referencia_obra": "Teatro, 4. 117)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -725,37 +917,54 @@
     {
       "id": "j)",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Aplicaciones metafóricas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La vegilla [vigilia] de san Bras | Los zagales | Te arrojen pullas mortales.»",
               "autor": "T. Naharro",
               "referencia_obra": ", Propal. 1, p. 249."
             },
             {
+              "marca": "",
               "texto_cita": "«Todo lo cual se me representa á mí ahora en la memoria, de manera que me está diciendo, persuadiendo y aun forzando que muestre con vosotros el efecto para que el cielo me arrojó al mundo.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 22 (R. 1. 3051)."
             },
             {
+              "marca": "",
               "texto_cita": "«Para mí sola Dulcinea es la hermosa, la discreta, la honesta, la gallarda y la bien nacida, y las demás las feas, las necias, las livianas y las de peor linaje: para ser yo suyo, y no de otra alguna, me arrojó la naturaleza al mundo.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 2. 44 (R. 1. 4971). —"
-            },
+              "referencia_obra": "Id. ib. 2. 44 (R. 1. 4971)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Para incitar Seyano á Druso á la muerte de su hermano Nerón, le arrojó delante la esperanza del imperio.»",
-              "autor": "Saav.",
-              "referencia_obra": "Emp. 42 (R. 25. 1072)."
-            },
-            {
-              "texto_cita": "«A aquella hora, la corte, ya segura de su triunfo, arrojó de sí todo miramiento.»",
-              "autor": "Quint.",
-              "referencia_obra": "Cartas á L. Holland, 6 (R. 19. 5632)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Para incitar Seyano á Druso á la muerte de su hermano Nerón, le arrojó delante la esperanza del imperio.»",
+                  "autor": "Saav.",
+                  "referencia_obra": "Emp. 42 (R. 25. 1072)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«A aquella hora, la corte, ya segura de su triunfo, arrojó de sí todo miramiento.»",
+                  "autor": "Quint.",
+                  "referencia_obra": "Cartas á L. Holland, 6 (R. 19. 5632)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -763,13 +972,16 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El rey, á quien al parecer iba arrojada esta queja, dijo entonces ---»",
                   "autor": "Quint.",
                   "referencia_obra": "Guzmán el bueno (R. 19. 2112)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -777,13 +989,16 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Arrojámelas y arrojéselas y volviómelas á arrojar (fam.): locución que se usa cuando dos altercan ó se traban de palabras, diciéndose unas y volviéndose otras verbalmente ó por escrito. Acad. Dicc. Como muestra del sentido recto cita el Dicc. Autor. el siguiente estribillo:",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Arrojóme la portuguesilla | Naranjitas de su naranjal; | Arrojómelas, y arrojéselas, | Y volviómelas á arrojar.»",
               "autor": "",
               "referencia_obra": ""
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -791,84 +1006,104 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Hacer salir ó arrancar con ímpetu ó presteza (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Al instante [los españoles] | Arrojan los caballos adelante.»",
           "autor": "Erc.",
           "referencia_obra": "Arauc. 4 (R. 17. 172)."
         },
         {
+          "marca": "",
           "texto_cita": "«Mandó á Pedro Francisco Niceli --- que con quinientos caballos se adelantase todo lo que fuese posible, sin conocido peligro de emboscada, y que desde allí arrojase algunas tropas para el dicho efecto.»",
           "autor": "Coloma",
           "referencia_obra": ", Guerras de los Est. Bajos, 4 (R. 28 491)."
         },
         {
+          "marca": "",
           "texto_cita": "«Mostrándose el enemigo con todo su campo á la frente del nuestro, arrojó al barón de Birón con mil y quinientas corazas la vuelta de nuestro cuartel de la caballería.»",
           "autor": "",
           "referencia_obra": "Id. ib. 5 (R. 28. 592)."
         },
         {
+          "marca": "",
           "texto_cita": "«A poca distancia descubrió una tropa de gente armada que le arrojaron al parecer los enemigos para cebarle.»",
           "autor": "Solís",
           "referencia_obra": ", Conq. de Méj. 4. 12 (R. 28. 3241)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Refl. Abalanzarse con ímpetu ó intrepidez.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con á, para expresar el lugar adonde alguno entra, ó se lanza.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Ya tú presumes de gala, | Que te arrojas al palacio?»",
               "autor": "Encina",
               "referencia_obra": "(Ens. bibl. esp. 2. 818)."
             },
             {
+              "marca": "",
               "texto_cita": "«De repente las puertas de Olmedo se abren, los escuadrones enemigos se arrojan al campo en formación de batalla, y el combate se hace inevitable.»",
               "autor": "Quint.",
               "referencia_obra": "D. Álv. de Luna (R. 19. 4162)."
             },
             {
+              "marca": "",
               "texto_cita": "«Arrójase Colón á las inciertas olas del Océano en busca de nuevas provincias.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 34 (R. 25. 891)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cultivando la astronomía y la náutica, inventando la hidrografía y arrojándose á ignotos mares, se disponía á llevar sus banderas á los extremos de oriente y occidente.»",
               "autor": "Jovell.",
               "referencia_obra": "Disc. sobre la geogr. histór. (R. 46. 3281)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con un infin., para expresar el objeto del arrojo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Al punto que la vio, | A matarla se arrojó.»",
                   "autor": "Mto.",
                   "referencia_obra": "El parecido en la corte, 3. 4 (R. 39. 3253)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Viendo á un soldado suyo arrancar por fuerza á un suizo una cadena de oro que llevaba al cuello, arrojóse á castigarlo con la espada desnuda.»",
                   "autor": "Quint.",
                   "referencia_obra": "Gran Capitán (R. 19. 2711)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -876,60 +1111,82 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con con, que sugiere la idea de lucha, como cuando acompaña á arremeter (raro).",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¡Qué bizarro el picarón | Se arrojó con todos ellos!»",
               "autor": "Mto.",
               "referencia_obra": "S. Franco de Sena, 1. 6 (R. 39. 1232)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con en, para expresar el objeto acometido, como cosa que recibe el choque.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y en los pocos españoles, | Causa de aquel desconcierto, | Se arroja como valiente, | Para morir como bueno.»",
               "autor": "A. Saav.",
               "referencia_obra": "La muerte de un caballero (3. 129)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Con entre, para expresar los objetos de que viene á quedar rodeado el que embiste.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Con tanta | Furia se arroja entre ellos sin recelo, | Que rodaron algunos por el suelo.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 2 (R. 17. 112)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Con por, para expresar el campo ó lugar que se recorre ó atraviesa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Horror causaba la entrada; pero al deseo y curiosidad de ver, pocas cosas hacen resistencia, y la compañía de Marco Varrón, ya versado en aquellos lugares, lo facilitaba todo. Por ella nos arrojamos, pisando las dudosas sombras de aquellos escuros lugares.»",
               "autor": "Saav.",
               "referencia_obra": "Rep. (R. 25. 4001)."
             },
             {
+              "marca": "",
               "texto_cita": "«Vi con terrible estrépito las puertas | Abrirse del alcázar, y furiosos | Arrojarse los árabes por ellas.»",
               "autor": "Quint.",
-              "referencia_obra": "Pelayo, 5. 2 (R. 19. 721). —"
-            },
+              "referencia_obra": "Pelayo, 5. 2 (R. 19. 721)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Por el mayor peligro me arrojara, | Y de las fieras manos de la muerte | Los despojos seguro arrebatara.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Gal. 3 (R. 1. 351)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Por el mayor peligro me arrojara, | Y de las fieras manos de la muerte | Los despojos seguro arrebatara.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Gal. 3 (R. 1. 351)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -938,26 +1195,32 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Con sobre, para expresar el objeto atacado ó embestido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Corrió un momento huyendo del animal. Pero Bravonel furioso se arrojó sobre él, y flaciendo presa en su garganta destrozólo en minutos.»",
               "autor": "Larra",
               "referencia_obra": ", Doncel, 39 (2. 79)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "Con tras, para expresar el objeto en cuyo seguimiento se va.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El rucio rebuzna condolido de nuestra ausencia, y Rocinante procura ponerse en libertad para arrojarse tras nosotros.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 29 (R. 1. 4661)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -965,92 +1228,114 @@
     {
       "id": "c)",
       "definicion": "Refl. Así en lo propio como en lo figurado connota el ansia con que se abalanza alguien o en busca de algo. Con á ó tras.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Arrojáronse los muchachos á los higos y ciruelas, que por el suelo rodaban.»",
           "autor": "A. Saav.",
           "referencia_obra": "Masan. 1. 5 (5. 52)."
         },
         {
+          "marca": "",
           "texto_cita": "«Sin hacer memoria | Ni del Corán ni del Profeta, alegres | Se arrojaron al vino y al torrezno.»",
           "autor": "",
           "referencia_obra": "Id. Moro expós. 8 (2. 290)."
         },
         {
+          "marca": "",
           "texto_cita": "«Nunca os dejéis gobernar | De privados, de manera | Que salgáis de vuestra esfera, | Ni les lleguéis tanto á dar | Que se arrojen de tal modo | Al cebo del interés.»",
           "autor": "Tirso",
           "referencia_obra": ", La prudencia en la mujer, 3. 1 (R. 5. 3002)."
         },
         {
+          "marca": "",
           "texto_cita": "«Desatinadamente se arroja tras su deseo, y, pensando dar con la gloria de sus ojos, da con el infierno de sus pesadumbres.»",
           "autor": "Cerv.",
           "referencia_obra": "Nov. 1 (R. 1. 1051)."
         },
         {
+          "marca": "",
           "texto_cita": "«En topando los que tienen gana de contradecir con algo de lo que suena á su propósito, se arrojan con poca consideración tras ello.»",
           "autor": "Sig.",
           "referencia_obra": "Vida de S. Jer. 4. 4 (278)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "met. Dícese de los ríos caudalosos.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Con sangre hinchado, y la corriente aun roja, | Al mar helado el Vístula se arroja.»",
           "autor": "Quint.",
           "referencia_obra": "Poes. Para un convite (R. 19. 322)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "3",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Mover poderosamente, lanzar á una acción ardua ó inconsiderada (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Quién me anima? ¿quién me arroja? | ¿Quién me tienta ó quién me inspira?»",
               "autor": "G. de Castro",
               "referencia_obra": ", Las mocedades del Cid, 2ª pte. 1 (R. 43. 2632)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con á.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«De aquellas sus traiciones secretas le arrojamos á públicos latrocinios y robos.»",
               "autor": "Laguna",
               "referencia_obra": ", trad. de Cic. Catil. 2 (263)."
             },
             {
+              "marca": "",
               "texto_cita": "«Le escribía muy de ordinario que, si quería alcanzar prósperos sucesos, conservase el crédito que con los españoles tenía, honrándolos, haciéndoles merced y arrojándolos á los peligros, de donde era cierto que saldrían con la reputación que siempre.»",
               "autor": "Coloma",
               "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 271)."
             },
             {
+              "marca": "",
               "texto_cita": "«Díme| La razón de tu quebranto. | Muy grande debe de ser | Cuando te arroja á este extremo.»",
               "autor": "Núñez",
               "referencia_obra": "de Arce, El haz de leña, 3. 8 (459)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1058,84 +1343,103 @@
     {
       "id": "b)",
       "definicion": "Refl. Acometer, emprender animosa é intrépidamente.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No ha lugar ni conviene detenerse cuando la tardanza es peor que el arrojarse.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 17. 7 (R. 30. 5092)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con á.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Después que se comenzaron las fundaciones, se me quitaron los temores que antes tenía de pensar ser engañada, y se me puso certidumbre que era Dios, y con esto me arrojaba á cosas dificultosas, aunque siempre con consejo y obediencia.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "en Yepes, Vida, 2. 15 (Míst. 1. 175)."
             },
             {
+              "marca": "",
               "texto_cita": "«Arrojarme á lo que entendía era mayor servicio suyo, por dificultoso que fuese.»",
               "autor": "",
               "referencia_obra": "Ead. Fund. 28 (R. 53. 2331)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cuando el labrador rehusa el trabajo de la labor, y el mercader teme los peligros de la navegación, y el soldado los de la guerra, para esforzarse contra esto suelen poner ante sí el interese de la ganancia, y con esto se arrojan á los trabajos y peligros de la vida.»",
               "autor": "Gran.",
               "referencia_obra": "Orac. y consid. 3. 2, preámb. (R. 8. 1792)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Por ventura se arrojaron á mayores peligros los gentiles que los cristianos?»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 26 (R. 25. 701)."
             },
             {
+              "marca": "",
               "texto_cita": "«Como osado soldado y buen guerrero | Se arroja á los peligros el primero.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 5 (R. 17. 232)."
             },
             {
+              "marca": "",
               "texto_cita": "«Carlos Roma valeroso | Al peligro se arrojó, | Dignamente mereció | Nombre inmortal y glorioso.»",
               "autor": "Cald.",
               "referencia_obra": "El sitio de Bredá, 3. 7 (R. 7. 1243)."
             },
             {
+              "marca": "",
               "texto_cita": "«Me dirigí á Sevilla, adonde llegué el día 9 de Enero del año nueve, con más felicidad que generalmente tuvieron los muchos patriotas que tomaron entonces el mismo partido que yo y se arrojaron á los mismos peligros.»",
               "autor": "Quint.",
               "referencia_obra": "Obr. inéd. p. 185."
             },
             {
+              "marca": "",
               "texto_cita": "«A la voz de la patria que reclamaba sus brazos, la juventud estudiosa se arrojó toda á las armas.»",
               "autor": "",
               "referencia_obra": "Id. Disc. en la Univers. Central (R. 19. 1971)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con un infin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Consultando para su declaración la pureza y excelencias de la Madre, y el amor que su hijo Dios y hombre la tenía, me arrojo á decir que no sólo no fueron palabras dañosas, sino tan favorables, que en ellas me parece pronunció el texto irrefragable de su purísima concepción.»",
                   "autor": "Quev.",
                   "referencia_obra": "Peste 2 (R. 48. 1132)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Josef y Nicodemus solos | En medio del peligro se arrojaron | A darle honor, con verle en la cruz muerto.»",
                   "autor": "L. Argens.",
                   "referencia_obra": "son. 56 (R. 42. 2832)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1144,186 +1448,226 @@
     {
       "id": "c)",
       "definicion": "Refl. Acometer, obrar con poca consideración.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Sólo le dijo que mirase lo que hacía en darle por esposo á Periandro, que puesto que sus habilidades acreditaban su valor, todavía sería bueno no arrojarse, sin que primero la experiencia, y el trato de algunos días le asegurase.»",
               "autor": "Cerv.",
               "referencia_obra": "Pers. 2. 5 (R. 1. 5962)."
             },
             {
+              "marca": "",
               "texto_cita": "«En medio de estos pasatiempos y conversaciones le puso dos guardas, que no le daban lugar á que se arrojase ó perdiese.»",
               "autor": "Yepes",
               "referencia_obra": ", Vida de Sta. Ter. 1. 3 (Míst. 1. 11)."
             },
             {
+              "marca": "",
               "texto_cita": "«Seguirse | Prueban mil libros de sentencias llenos, | Presto arrojarse y presto arrepentirse.»",
               "autor": "Alarcón",
               "referencia_obra": ", Los favores del mundo, 2. 15 (R. 20. 132)."
             },
             {
+              "marca": "",
               "texto_cita": "«Es desvarío, | En lo que ha de durar tanto, | Arrojaros sin medirlo.»",
               "autor": "Tirso",
               "referencia_obra": ", Celos con celos se curan, 3. 16 (R. 5. 3802)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con á, para denotar lo que inconsideradamente se intenta.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Nos aconseja que no nos arrojemos inconsideradamente á las cosas que se han de hacer; sino que ante toda obra preceda maduro consejo y deliberación.»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 2. 15, § 9 (R. 6. 1492)."
             },
             {
+              "marca": "",
               "texto_cita": "«No se debe el hombre fiar enteramente de todos estos deseos, arrojándose inconsideradamente á las cosas que desea.»",
               "autor": "",
               "referencia_obra": "Id. Orac. y consid. 2. 5 § 4 (R. 8. 1442)."
             },
             {
+              "marca": "",
               "texto_cita": "«Jamás se arrojó á pecado conocidamente mortal, ni se arrojara por cuantas cosas el mundo tiene, como lo sé yo muy bien.»",
               "autor": "Yepes",
               "referencia_obra": ", Vida de Sta. Ter. 1. 8 (Míst. 1. 30)."
             },
             {
+              "marca": "",
               "texto_cita": "«Tengo de confundirme --- de la facilidad con que murmuro, é infamo á mis prójimos, y descubro sus faltas secretas; y de la furia con que arrebatadamente sin deliberación me arrojo á todo esto.»",
               "autor": "Puente",
               "referencia_obra": ", Medit. 2. 14 (1. 330)."
             },
             {
+              "marca": "",
               "texto_cita": "«Logran con sus fundadas reprobaciones que ni los buenos escritores se acobarden, ni se arrojen temerariamente los malos á la difícil empresa de enseñar y deleitar al público.»",
               "autor": "T. Iriarte",
               "referencia_obra": ", Liter. en cuaresma (7. 27)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Qué sería de una república donde fuese lícito á los niños arrojarse inconsideradamente á la profesión que les hiciese preferir su capricho?»",
               "autor": "Jovell.",
               "referencia_obra": "Elog. del M. de los Llan. (R. 46. 2841)."
             },
             {
+              "marca": "",
               "texto_cita": "«En vez de poseer los autores cómicos los profundos conocimientos que su profesión requería, había muchos de ellos que se arrojaban á tan ardua empresa llenos de presunción y de ignorancia.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Com. esp. 4 (2. 214)."
             },
             {
+              "marca": "",
               "texto_cita": "«Respecto del pueblo sucede precisamente lo contrario; sus pasiones son más vivas, y su previsión corta; obra por instinto antes que por reflexión; y se arroja á una empresa sin calcular los riesgos, y aun menos las resultas.»",
               "autor": "",
               "referencia_obra": "Id. Esp. del siglo, 8. 19 (6. 451)."
             },
             {
+              "marca": "",
               "texto_cita": "«Veremos si el condestable | A este atentado se arroja.»",
               "autor": "V. de la Vega",
               "referencia_obra": ", Don Fernando, 2. 9 (230)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con un infin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Engañados y traídos los míseros amantes con una dulce y falsa risa, con un solo volver de ojos, con dos mal formadas palabras que en sus pechos una falsa y flaca esperanza engendran, arrójanse luégo á caminar tras ella, aguijados del deseo.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Gal. 4 (R. 1. 561)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ruego que no se arrojen á vituperar semejantes libertades, hasta que miren en sí si alguna vez han sido tocados destas que llaman flechas de Cupido.»",
                   "autor": "",
                   "referencia_obra": "Id. Nov. 2. (R. 1. 2102)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Tan presto os habéis arrojado á emprender una hazaña llena de inconvenientes?»",
                   "autor": "",
                   "referencia_obra": "Id. Nov. 10 (R. 1. 2162)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Como ha tanto tiempo que tiene experiencia de los casos pasados y tanta noticia de los presentes, con facilidad se arroja á juzgar de los porvenir lo que no tenemos los aprendices desta ciencia.»",
                   "autor": "",
                   "referencia_obra": "Id. Pers. 1. 13 (R. 1. 5791)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Así nos arrojamos muy de priesa á juzgar las cosas sin más deliberación.»",
                   "autor": "Gran.",
                   "referencia_obra": "Serm. contra escándalos (R. 11. 431)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mire, amiga, muy mucho en esto de no se arrojar á tomar monjas, que le va la vida en entender las que son para nosotras.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Cartas, 1. 59 (R. 55. 801)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Como era discreta y apacible, arrojóse á no gustar de estar escondida, y comenzó á abrir los ojos al mundo.»",
                   "autor": "Yepes",
                   "referencia_obra": ", Vida de Sta. Ter. 1. 3 (Míst. 1. 10)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Quién pensó jamás | De mujer tan noble y cuerda | Este arrojarse tan presto | A dar su amor á entender?»",
                   "autor": "Lope",
                   "referencia_obra": ", El perro del hortelano, 1. 18 (R. 24. 3463)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Lo que se promete y no se cumple lo recibe por afrenta el superior, por injusticia el igual, y por tiranía el inferior; y así, es menester que la lengua no se arroje á ofrecer lo que no sabe que puede cumplir.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 11 (R. 25. 352)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No saber desear, y arrojarse á pedir, es delito espiritual.»",
                   "autor": "Quev.",
                   "referencia_obra": "M. Bruto (R. 23. 1371)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y así, por evitar tu desvarío | Y mirar por tu vida, me he arrojado | A exceder de la esfera de mi estado.»",
                   "autor": "Alarcón",
                   "referencia_obra": ", La cueva de Salamanca, 1 (R. 20. 891)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mil veces ya me arrojaba | A recebir el papel, | Y tantas la mano dél | Casi abierta retiraba.»",
                   "autor": "",
                   "referencia_obra": "Id. Mudarse por mejorarse, 3. 2 (R. 20. 1142)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Cualquier necio ya, si se le antoja, | A hacer versos se arroja.»",
                   "autor": "T. Iriarte",
                   "referencia_obra": ", Arte poétic. de Hor. (4. 53)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Tal vez, saliendo dél más deslumbrado, | Se arroja á alzar el temerario vuelo | Hasta el trono de Dios.»",
                   "autor": "Jovell.",
                   "referencia_obra": "A Bermudo (R. 46. 432)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Cuidará de que brille en estos ejercicios aquella urbanidad literaria que tanto los recomienda, y de que ninguno se arroje á usar de voces descompuestas ni de gestos y palabras que supongan menosprecio de los demás.»",
                   "autor": "",
                   "referencia_obra": "Id. Regl. col. de Calatr. 1. 3 (R. 46. 1781)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se quejan de que el marqués, abusando de las facultades que le estaban confiadas, y sin legítima autoridad para tan extrema providencia, se hubiese arrojado á dictarla atropellando los derechos del principado.»",
                   "autor": "",
                   "referencia_obra": "Id. Def. de la Junta Central, apénd. 10 (R. 46. 5912)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Después de hacer, mandar, cabe la omisión del pron. refl. en casos como Lo hizo arrojar á acciones indignas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«De todo hay en el mundo, y esto de la hambre tal vez hace arrojar los ingenios á cosas que no están en el mapa.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Nov. 1 (R. 1. 1011)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1332,61 +1676,83 @@
     {
       "id": "d)",
       "definicion": "Part. dep. Que se atreve inconsideradamente; osado, intrépido.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Teodosio era algo arrojado, pero solíase corregir con brevedad, y cualquiera dilación le amansaba.»",
           "autor": "Márquez",
           "referencia_obra": ", Gobern. crist. 1. 20 (1. 243)."
         },
         {
+          "marca": "",
           "texto_cita": "«¿Quién más arrojado que D. Cirongilio de Tracia, quién más bravo que Rodamonte?»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 2. 1 (R. 1. 4071)."
         },
         {
+          "marca": "",
           "texto_cita": "«Se ordena que todo poeta que diere en ser espadachin, valentón y arrojado, por aquella parte de la valentía se le desagüe y vaya la fama que podía alcanzar por sus buenos versos.»",
           "autor": "",
           "referencia_obra": "Id. Adjunta (R. 1. 7021)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Dícese igualmente del carácter, la expresión, etc.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Como conocía la aspereza de su arrojada condición, y la tenacidad con que se le pegaban los deseos en el alma, temió que sus amores habían de parar en algún infelice suceso.»",
               "autor": "Cerv.",
               "referencia_obra": "Nov. 4 (R. 1. 1521)."
             },
             {
+              "marca": "",
               "texto_cita": "«Lucano, después, aunque muy distante de la perfección de sus predecesores, conservó en su poema el tono fiero y arrojado, conveniente al asunto que escribía y al entusiasmo patriótico que le animaba.»",
               "autor": "Quint.",
               "referencia_obra": "Introd. al Parn. esp. 6 (R. 19. 1441)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Dícese de los actos dictados por un atrevimiento inconsiderado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Quieren acreditarse de valerosos, y parecer más animosos que prudentes, y dan arrojados consejos, aunque ordinariamente no suelen ser los ejecutores de ellos.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 57 (R. 25. 1541)."
             },
             {
+              "marca": "",
               "texto_cita": "«Procuraban los españoles por su parte molestar al enemigo con salidas, y ejecutando acciones arrojadas.»",
               "autor": "Toreno",
-              "referencia_obra": ", Hist. 7 (R. 64. 1691). —"
-            },
+              "referencia_obra": ", Hist. 7 (R. 64. 1691)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Sólo me he propuesto dar una sucinta noticia de lo más necesario para la exposición de algunos textos importantes, y apuntar las razones en que se fundan ciertos modos de traducir que á primera vista pudieran parecer arrojados.»",
-              "autor": "T. Iriarte",
-              "referencia_obra": ", Arte poétic. de Hor. disc. prel. (4. LXII)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Sólo me he propuesto dar una sucinta noticia de lo más necesario para la exposición de algunos textos importantes, y apuntar las razones en que se fundan ciertos modos de traducir que á primera vista pudieran parecer arrojados.»",
+                  "autor": "T. Iriarte",
+                  "referencia_obra": ", Arte poétic. de Hor. disc. prel. (4. LXII)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1396,66 +1762,90 @@
     {
       "id": "4",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Expulsar, hacer salir por fuerza.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El árido camino | A los culpables muestra del desierto | Do los arroja el precursor divino.»",
               "autor": "Reinoso",
               "referencia_obra": ", Inoc. perd. 2 (R. 29. 5142)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con de, para expresar el lugar que se abandona.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No pudo proseguir, porque le atajó Narváez diciéndole que se volviese á Méjico si le hacían tanta fuerza los artificios de Cortés, y le arrojó de su presencia con desabrimiento.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 4. 6 (R. 28. 3112)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ayer don Sancho, mi hermano, | De Castilla me arrojó.»",
               "autor": "Cald.",
               "referencia_obra": "La Virgen del Sagrario, 3. 1 (R. 7. 3391)."
             },
             {
+              "marca": "",
               "texto_cita": "«Soy un francés caballero, | A quien destierran y arrojan | De su patria los sucesos.»",
               "autor": "",
               "referencia_obra": "Id. Argenis y Poliarco, 1. 4 (R. 7. 4382)."
             },
             {
+              "marca": "",
               "texto_cita": "«Entre tanto habían logrado nuestros príncipes arrojar los moros de la mayor parte de sus conquistas.»",
               "autor": "Jovell.",
               "referencia_obra": "Inf. sobre el libre éjerc. de las artes (R. 50. 352)."
             },
             {
+              "marca": "",
               "texto_cita": "«Allí se había refugiado Cemaco con los indios de su obediencia, y no había perdido el deseo ni la esperanza de arrojar de su país á los salteadores que se lo usurparon.»",
               "autor": "Quint.",
               "referencia_obra": "Balboa (R. 19. 2872)."
             },
             {
+              "marca": "",
               "texto_cita": "«Rebeldes sostenían | Del bando infiel las locas esperanzas, | Y á vuestro débil padre apellidando, | Arrojaros del trono amenazaban.»",
               "autor": "M. de la Rosa",
-              "referencia_obra": ", Moraima, 1. 1 (3. 194). —"
-            },
+              "referencia_obra": ", Moraima, 1. 1 (3. 194)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Forzados á buscar por el invierno en las tierras llanas el pasto y abrigo de sus ganados, que las nieves arrojaban de las cumbres, sintieron la necesidad de congregarse.»",
-              "autor": "Jovell.",
-              "referencia_obra": "Ley agraria, 1ª clase (R. 50. 962)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Forzados á buscar por el invierno en las tierras llanas el pasto y abrigo de sus ganados, que las nieves arrojaban de las cumbres, sintieron la necesidad de congregarse.»",
+                  "autor": "Jovell.",
+                  "referencia_obra": "Ley agraria, 1ª clase (R. 50. 962)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1465,118 +1855,144 @@
     {
       "id": "b)",
       "definicion": "met.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Suavizan al mortal, y arrojan | De su pecho la rústica fiereza.»",
           "autor": "Forner",
           "referencia_obra": ", epíst. 1 (R. 63. 3161)."
         },
         {
+          "marca": "",
           "texto_cita": "«Tono grave y solemne, que inspiraba | Tranquilos pensamientos, arrojando | De los mortales ó inmortales pechos | La angustia, el duelo, el susto y el quebranto.»",
           "autor": "Jovell.",
           "referencia_obra": "Paraíso perd. (R. 46. 312)."
         },
         {
+          "marca": "",
           "texto_cita": "«Le libraba del riesgo de ingrato, arrojándole violentamente de la obligación en que le había puesto.»",
           "autor": "Solís",
           "referencia_obra": ", Conq. de Méj. 1. 12 (R. 28. 2192)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "5",
       "definicion": "met. En nuestros misticos se halla usado para significar la resolución con que se desechan los cuidados y aflicciones poniendo toda la confianza del remedio en Dios. El pasaje á que se alude en el primer lugar de Granada, es el del salmo 54. 23:",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Iacta super Dominum curam tuam:»",
           "autor": "",
           "referencia_obra": ""
         },
         {
+          "marca": "",
           "texto_cita": "«Arroja sobre el Señor tu cuidado.»",
           "autor": "Scío",
           "referencia_obra": ". Lo mismo se halla en el hebreo y en el griego, de suerte que es probable que de aquí le tomasen nuestros autores."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Debemos andar siempre con un santo cuidado de nunca abrir la puerta á ningún género de pensamientos desabridos y congojosos; y cuando alguna vez se nos entraren en casa, echarlos muy presto la puerta fuera, arrojando, como el Profeta dice, muy confiadamente todos nuestros cuidados en el Señor.»",
               "autor": "Gran.",
               "referencia_obra": "Orac. y consid. 2. 3, § 4 (R. 8. 1162)."
             },
             {
+              "marca": "",
               "texto_cita": "«Soy única paz y tranquilidad de las ánimas; ¿por qué pues no arrojáis en mí todos los cuidados que despedazan vuestros corazones?»",
               "autor": "",
               "referencia_obra": "Id. Adic. al Mem. 2. 15 (R. 8. 4942)."
             },
             {
+              "marca": "",
               "texto_cita": "«Oh Dios cuidadosísimo, ¡cómo no arrojaré toda mi solicitud en ti, pues sé que tienes tanto cuidado de mí!»",
               "autor": "Puente",
               "referencia_obra": ", Medit. 2. 27 (1. 392)."
             },
             {
+              "marca": "",
               "texto_cita": "«Una [sea tu alma] en sus cuidados, reuniéndolos todos en uno de agradar á la divina bondad, arrojando los demás en su providencia.»",
               "autor": "",
               "referencia_obra": "Id. ib. 3, introd. (2. 14)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ha llegado á no temer con demasía la deshonra y la muerte, arrojando todas sus cosas en la divina Providencia.»",
               "autor": "",
               "referencia_obra": "Id. ib. 4. 32 (2. 523)."
             },
             {
+              "marca": "",
               "texto_cita": "«Arroja toda tu solicitud en Dios, porque él tiene cuidado de ti.»",
               "autor": "",
               "referencia_obra": "Id. ib. 6. 29 (3. 424)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Refl. Encomendarse confiada y resueltamente; ponerse en manos de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Qué te falta, sino fe viva, y esperanza viva, para que te quieras fiar de Dios, y arrojarte en sus brazos?»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 28, § 2 (R. 6. 1071)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Oh Jesús mío! ¡Quién pudiese dar á entender la ganancia que hay en arrojarnos en los brazos deste nuestro Señor, y hacer un concierto con su Majestad!»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Conc. 4 (R. 53. 3922; * de arrojarnos)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los reyes, con la fe viva que tenían, arrojándose en las manos de Dios, comenzaron á caminar llevando consigo dones que ofrecer al Niño.»",
               "autor": "Puente",
               "referencia_obra": ", Medit. 2. 22 (1. 363)."
             },
             {
+              "marca": "",
               "texto_cita": "«Haciendo de mi parte cuanto fuere posible, he de arrojarme en su divina providencia, para que él me remedie en su hora, que será para mí la mejor y más conveniente.»",
               "autor": "",
               "referencia_obra": "Id. ib. 3. 9 (2. 68)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pasa el alma enamorada con su esposo Cristo todos esos regalos, desmayos y muertes, y aflicciones, deleites, y gozos con él, después que ha dejado todos los del mundo por su amor, y está del todo puesta y arrojada en sus manos.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Conc. 1 (R. 53. 3901; * dejada)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1584,65 +2000,81 @@
     {
       "id": "6",
       "definicion": "Echar, dar de sí.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Dícese de las flores y aromas que exhalan fragancia (trans). Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Cuando comienza á florecer [el clavo], arroja suavidad eficacísima en el olor.»",
           "autor": "B. Argens.",
           "referencia_obra": "(Capm. Teatro, 4. 377)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Se dice de los cuerpos luminosos que despiden rayos de luz ó resplandores (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El norte á que mira la caridad es de purísima luz, y que arroja rayos más ardientes que el sol.»",
               "autor": "",
               "referencia_obra": "Nieremberg, Obras y días, 7 (Dicc. Autor)."
             },
             {
+              "marca": "",
               "texto_cita": "«No luce la esmeralda si, engastada, | Le falta dentro la dorada hoja, | Porque de aquella luz reverberada | Más puros rayos transparente arroja.»",
               "autor": "Lope",
               "referencia_obra": ", égl. Amarilis (Obr. suelt. 10. 177)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ni fugitiva | Su sombra vaga en el opuesto muro, | En cuyo lienzo con la noche oscuro | Vierte la luz que arroja | La estancia refulgente | Su claridad amarillenta y roja.»",
               "autor": "Hartz.",
               "referencia_obra": "El amante desdeñado (397)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Registré con esmero antiguas crónicas y anales para ver la luz que arrojaban acerca de los hechos de Hernando del Pulgar.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", H. P. del Pulgar, advert. (4. 1)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cantaré cómo arroja en tu hermosura | Divinidad el alma, y cómo inspira | En todas tus acciones influencia.»",
               "autor": "B. Argens.",
               "referencia_obra": "son. ¿Cuál mérito aspiró (R. 42. 2962)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1650,49 +2082,61 @@
     {
       "id": "c)",
       "definicion": "Hablándose de las plantas, de la tierra, Producir, brotar.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Se descubrirá por defuera en el cuerpo, lo que agora tiene atesorado el alma dentro de sí: ansí como los árboles en pasando el invierno, y habiendo tomado calor la fuerza que en ellos se encierra, con el sol y con la blandura del aire arrojan afuera hojas, y flores y frutos.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 2, Rey (R. 37. 1352)."
             },
             {
+              "marca": "",
               "texto_cita": "«Sus ramas de éste se levantarán altas y largas, y como dicen los agricultores, éste arrojará sus renuevos con fuerza.»",
               "autor": "",
               "referencia_obra": "Id. Expos. de Job, 8 (1. 146)."
             },
             {
+              "marca": "",
               "texto_cita": "«El caballo ciego cuanto con más ligereza corre, tanto es mayor su peligro, y cuanto la tierra es mejor, si no es cultivada, arroja con más fuerza las malas hierbas.»",
               "autor": "Yepes",
               "referencia_obra": ", Vida de Sta. Ter. 1. 3 (Míst. 1. 10)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Intrans. Brotar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Llovía otra vez á la Primavera; crecía el pan y granaba; remozábase la tierra, reverdecía, arrojaban los árboles.»",
               "autor": "Sig.",
               "referencia_obra": "Vida de S. Jer. 5. 4 (429)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Dícese también de las enfermedades cutáneas, como viruelas, etc. Acad. Dicc.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1700,26 +2144,40 @@
     {
       "id": "d)",
       "definicion": "met. En general, Producir, echar (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«¿No sabes tú que una loca que desvaría, si la quieres contradecir, que de loca se hará muy loca, y arrojará más porradas?»",
           "autor": "Villalobos",
           "referencia_obra": ", Anfitrión (R. 36. 4731)."
         },
         {
+          "marca": "",
           "texto_cita": "«Hablo desta manera, Sancho, por daros á entender que también como vos sé yo arrojar refranes como llovidos.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 2. 7 (R. 1. 4181)."
         },
         {
+          "marca": "",
           "texto_cita": "«Hay algunos que así componen y arrojan libros de sí como si fuesen buñuelos.»",
           "autor": "",
-          "referencia_obra": "Id. ib. 2. 3 (R. 1. 4112). —"
-        },
+          "referencia_obra": "Id. ib. 2. 3 (R. 1. 4112)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«No ha de haber espejo ni pedazo de holandilla sobre que no arrojemos décimas y octavas como el puño.»",
-          "autor": "Mor.",
-          "referencia_obra": "Derr. de los pedantes (R. 2. 5671)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«No ha de haber espejo ni pedazo de holandilla sobre que no arrojemos décimas y octavas como el puño.»",
+              "autor": "Mor.",
+              "referencia_obra": "Derr. de los pedantes (R. 2. 5671)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -1727,41 +2185,58 @@
     {
       "id": "e)",
       "definicion": "met. Tratándose de cuentas, documentos, etc., Presentar, dar de sí como consecuencia ó resultado (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Siendo conocido el influjo de unas y otras en la circulación de esta preciosa mercancía, la simple comparación de sus ventajas é inconvenientes arrojaba un resultado cierto y constante.»",
           "autor": "Jovell.",
           "referencia_obra": "Ley agraria, 1ª clase (R. 50. 1121)."
         },
         {
+          "marca": "",
           "texto_cita": "«El padrón de Oviedo, hecho en 1787, no arroja más población que la de 6600 personas.»",
           "autor": "",
           "referencia_obra": "Id. Corresp. con Posada (R. 50. 1821)."
         },
         {
+          "marca": "",
           "texto_cita": "«Este hecho, aunque parezca pequeño en sí, arroja dos reflexiones de no leve momento.»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", Esp. del siglo, 6. 23 (6. 117)."
         },
         {
+          "marca": "",
           "texto_cita": "«La historia de Europa se trunca monstruosamente, ó por mejor decir se destruye del todo, si se prescinde de lo que arrojan las colecciones de los concilios.»",
           "autor": "Balmes",
-          "referencia_obra": ", Protest. 32, nota (2. 341). —"
-        },
+          "referencia_obra": ", Protest. 32, nota (2. 341)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Ateniéndonos á los rasgos que sobre ellos nos ha conservado la historia, á lo que de sí arrojan las mismas circunstancias en que se encontraban ---»",
-          "autor": "",
-          "referencia_obra": "Id. ib. 22 (2. 26)."
-        },
-        {
-          "texto_cita": "«Según todo lo que arroja de sí este capítulo, el romance de Altisidora fue improvisado.»",
-          "autor": "Clem.",
-          "referencia_obra": "Coment. 6, p. 156."
-        },
-        {
-          "texto_cita": "«Si todavía os llamo la atención en esta última [carta], es para terminar nuestra discusión con algunas consideraciones generales que arrojan de sí los mismos hechos.»",
-          "autor": "Quint.",
-          "referencia_obra": "Cartas á L. Holland, 10 (R. 19. 5842)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Ateniéndonos á los rasgos que sobre ellos nos ha conservado la historia, á lo que de sí arrojan las mismas circunstancias en que se encontraban ---»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 22 (2. 26)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Según todo lo que arroja de sí este capítulo, el romance de Altisidora fue improvisado.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment. 6, p. 156."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Si todavía os llamo la atención en esta última [carta], es para terminar nuestra discusión con algunas consideraciones generales que arrojan de sí los mismos hechos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland, 10 (R. 19. 5842)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -1769,31 +2244,39 @@
     {
       "id": "f)",
       "definicion": "met. Tener ó presentar resaltado (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La arcada descansa sobre un firme antepecho corrido en torno, y le sirve de embasamento, al mismo tiempo que corona al cuerpo inferior en que se apoya, y sobre el cual arroja una graciosa cornisita arquitrabada.»",
               "autor": "Jovell.",
               "referencia_obra": "Descr. del castillo de Bellver (R. 46. 3942)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Entre ellos hay cuatro garitones, circulares también, y arrojados del parapeto superior, los tres abiertos y al raso de su altura, otro cubierto y elevado sobre ella.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Descr. del castillo de Bellver (R. 46. 3931)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1802,7 +2285,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Es cosa muy singular que este verbo, que á cada paso se encuentra desde principios del siglo XVI acá, sea sumamente raro en épocas anteriores. Los ejemplos de Juan de la Encina, Bernáldez, Torres Naharro, G. A. de Herrera, Villalobos, Valdés, Pérez de Oliva y Laguna comprueban que nuestro verbo era común en la primera mitad del siglo XVI; de ahí atrás no tenemos anotados más pasajes que los siguientes: «El que arroja la lança | Paresçele vagarosa; | Pero al que alcança, | Ala por presurosa.» Sem Tob, 58 (R. 57. 3351). «Los de Granada son sotiles | De las lanças arrojar.» Alf. XI, 1447 (R. 57. 5211). «Et arrojóle la navaja á ciegas.» Cal. é Dymna (R. 51. 241). «Quando vieres el can que dexa a su sennor e sigue a ti, arrojale piedras, ca asi dejará a ti como dexa a su sennor.» Boc. de oro, 10 (Knust, 147). Pero todavía ha de notarse que en el lugar de Sem Tob el códice de la Biblioteca Nacional de Madrid, que, aunque menos completo, muestra en muchas cosas un lenguaje más antiguo que el del Escorial, aquí copiado, en lugar de arroja dice lança; que el manuscrito del Poema de Alfonso XI se dice pertenecer al fin del siglo XIV, el de Calila é Dymna á la misma época ó principios del siglo siguiente, el de los Bocados de oro al siglo XV. Faltando otros ejemplos, ninguno de los citados arguye más antigüedad que la del tiempo á que pertenece el códice de que se ha sacado; y por tanto no conocemos autoridad concluyente anterior al fin del siglo XIV.",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Cat. ant. arruxar, arruixar, rociar, arrojar; arruxat, arruixat, arrojat, arrojado; ruxada, ruixada, rociada como de balas, de ruxar, ruixar, rociar; val. arruixar, rociar, regar, arrojar; aragonés rujar, rujiar, rociar; en cast. rociar significa también Arrojar esparciendo, y rociada el conjunto de cosas así arrojadas, vr. gra. de balas. (Cp. el ejemplo de Coloma en 1, a). La metáfora sería la misma que en Los galeotes empezaron á llover piedras sobre D. Quijote; y verbos que valen Rociar, regar, derramar, aplicados á objetos sólidos, vienen á significar arrojar. Este verbo sería pues la forma catalana de rociar, y uno y otro se reducirían en último término al lat. roscidus; la procedencia dialéctica explicaría cómo siendo tan común nuestro verbo desde cierta época, falta en los monumentos más antiguos. Diez indica como origen posible una forma ruar, semejante al fr. ruer, del lat. ruere, de donde, mediante la interpolación de la j para evitar el hiato, saldría rujar, y de ahí rojar, arrojar. Parece que las circunstancias históricas de este vocablo exigirían, en caso de ser cierta esta etimología, que se hallasen rastros de tal ruar, rujar; pero como no los hay, es la nuestra más sencilla y natural. En Asturias se usa otro verbo arrojar, derivado de rojo, que significa Calentar, y se dice del horno, porque cuando se calienta está rojo y encendido.",
+  "etimologia": "Etim. Cat. ant. <i>arruxar</i>,<i> arruixar</i>, rociar, arrojar; <i>arruxat</i>, <i>arruixat</i>, <i>arrojat</i>, arrojado<i>; ruxada</i>,<i> ruixada</i>, rociada como de balas, de <i>ruxar</i>, <i>ruixar</i>, rociar; val. <i>arruixar</i>, rociar, regar, arrojar; aragonés <i>rujar</i>,<i> rujiar</i>, rociar; en cast. rociar significa también Arrojar esparciendo, y <i>rociada</i> el conjunto de cosas así arrojadas, vr. gra. de balas. (Cp. el ejemplo de Coloma en 1, a). La metáfora sería la misma que en Los galeotes empezaron á llover piedras sobre D. Quijote; y verbos que valen Rociar, regar, derramar, aplicados á objetos sólidos, vienen á significar <i>arrojar. Este </i>verbo sería pues la forma catalana de <i>rociar</i>, y uno y otro se reducirían en último término al lat. <i>roscidus;</i> la procedencia dialéctica explicaría cómo siendo tan común nuestro verbo desde cierta época, falta en los monumentos más antiguos. Diez indica como origen posible una forma <i>ruar</i>, semejante al fr. <i>ruer</i>, del lat. <i>ruere</i>, de donde, mediante la interpolación de la <i>j</i> para evitar el hiato, saldría <i>rujar</i>, y de ahí <i>rojar</i>, <i>arrojar</i>. Parece que las circunstancias históricas de este vocablo exigirían, en caso de ser cierta esta etimología, que se hallasen rastros de tal <i>ruar</i>, <i>rujar;</i> pero como no los hay, es la nuestra más sencilla y natural. En Asturias se usa otro verbo <i>arrojar</i>, derivado de <i>rojo</i>, que significa Calentar, y se dice del horno, porque cuando se calienta está rojo y encendido.",
   "nota": "",
   "forma": "",
   "ortografia": "",

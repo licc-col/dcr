@@ -6,60 +6,83 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Pasar de un lugar a otro superior o más alto (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Vio a Juliano que descendía para él de la cumbre de la cuesta, que, como dicho he, sube junto a la casa.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 3, introd. (3. 277)."
             },
             {
+              "marca": "",
               "texto_cita": "«Convendrá subir más arriba, y llegar al origen que tuvieron los repartimientos.»",
               "autor": "Quint.",
-              "referencia_obra": "Las Casas, 3 (34. 136). X"
+              "referencia_obra": "Las Casas, 3 (34. 136)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Para | Que no suban, arrojad | Dinero a esa buena gente.»",
               "autor": "Hartz.",
-              "referencia_obra": "La jura en Santa Gadea, 3. 2 (Cl. C. 113. 204). X"
+              "referencia_obra": "La jura en Santa Gadea, 3. 2 (Cl. C. 113. 204)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los organillos desgranan ruidosamente marchas toreras y valses lánguidos; el tío-vivo gira frenético; suben y bajan los columpios.»",
               "autor": "Azorín",
-              "referencia_obra": ", La voluntad (Cl. Castal. 3. 198). X"
+              "referencia_obra": ", La voluntad (Cl. Castal. 3. 198)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ya sabes que ella, todas las mañanas, en cuanto yo me voy al taller de sombreros, aprovecha que papá está solo y sube.»",
               "autor": "Arniches",
               "referencia_obra": ", Es mi hombre, 3 (p. 175)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los estudiantes nuevos y los antiguos cuentan las horas que les quedan de estar en el pueblo, mientras por la garganta les va subiendo el nudo del llanto.»",
                   "autor": "",
-                  "referencia_obra": "Yáñez, Al filo del agua, p. 349. — Con dat. refl. X"
-                },
+                  "referencia_obra": "Yáñez, Al filo del agua, p. 349."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Un momento después, jadeantes, subiéndose los caídos pantalones de andrajos, que les dejan fuera las oscuras barrigas, los chiquillos, tirándole rodrigones y piedras.»",
-                  "autor": "J. R. Jiménez",
-                  "referencia_obra": ", Platero y yo, 61 (p. 104)."
+                  "id_limpio": "—",
+                  "definicion": "Con dat. refl.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Un momento después, jadeantes, subiéndose los caídos pantalones de andrajos, que les dejan fuera las oscuras barrigas, los chiquillos, tirándole rodrigones y piedras.»",
+                      "autor": "J. R. Jiménez",
+                      "referencia_obra": ", Platero y yo, 61 (p. 104)."
+                    }
+                  ]
                 }
               ]
             },
@@ -67,127 +90,234 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con a, para precisar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Siendo ya el niño de doce años, subiendo sus Padres a Jerusalén --- quedose el niño Jesús en el templo.»",
                   "autor": "Gran.",
                   "referencia_obra": "Mem. del crist. 5. 40 (6. 1682)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En el Deuteronomio mandó a los hijos de Israel que subiesen tres veces al año al tabernáculo o templo.»",
                   "autor": "Sig.",
                   "referencia_obra": "Vida de S. Jer. 4. 9 (p. 336)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Pasó [Guatimozín] luego al bergantín y dio la mano a su mujer para que subiese a él.»",
                   "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 5. 25 (R. 28. 3861). — Además con la prep. con."
+                  "referencia_obra": ", Conq. de Méj. 5. 25 (R. 28. 3861)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Parece que suben con sus casas y mayorazgos al cielo.»",
+                      "autor": "León",
+                      "referencia_obra": ", Expos. de Job, 1. 20 (1. 314)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«[Estaban] otras muchas mujeres que justamente con él habían subido a Jerusalén.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Orac. y medit. 1. 2 (2. 451)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Va a tu alma que ya pace en el Paraíso, por el alma de aquellos paisajes moguereños, que también habrá subido al cielo con la tuya.»",
+                      "autor": "J. R. Jiménez",
+                      "referencia_obra": ", Platero y yo, p. 119."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Parece que suben con sus casas y mayorazgos al cielo.»",
-                  "autor": "León",
-                  "referencia_obra": ", Expos. de Job, 1. 20 (1. 314)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para señalar el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y si el caso lo pide, hareme subir en silla a la muralla, que aun puede mi diestra disparar un venablo.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 142)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«[Estaban] otras muchas mujeres que justamente con él habían subido a Jerusalén.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Orac. y medit. 1. 2 (2. 451). X"
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para expresar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Monté en Platero y, obligándolo con las piernas, subimos, en un agudo trote, al pinar.»",
+                      "autor": "J. R. Jiménez",
+                      "referencia_obra": ", Platero y yo, 64 (p. 110)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Va a tu alma que ya pace en el Paraíso, por el alma de aquellos paisajes moguereños, que también habrá subido al cielo con la tuya.»",
-                  "autor": "J. R. Jiménez",
-                  "referencia_obra": ", Platero y yo, p. 119. — Además con en, para señalar el medio. X"
+                  "id_limpio": "—",
+                  "definicion": "Además con para y una prop. infinitiva, que expresa la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Esperando mucho de su mediación, le convidó [Boabdil] a que subiese al castillo para conferenciar juntos sobre el caso.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Gran Capitán (R. 19. 2522)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y al lado de los frailes finos y sutiles están los cradores de voz profunda y brava, que suben al púlpito para levantar partido, desafiar gobernadores, atemorizar indios y amenazar blancos.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 207)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Y si el caso lo pide, hareme subir en silla a la muralla, que aun puede mi diestra disparar un venablo.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 142). — Además con en, para expresar el modo. X"
-                },
-                {
-                  "texto_cita": "«Monté en Platero y, obligándolo con las piernas, subimos, en un agudo trote, al pinar.»",
-                  "autor": "J. R. Jiménez",
-                  "referencia_obra": ", Platero y yo, 64 (p. 110). — Además con para y una prop. infinitiva, que expresa la finalidad. +"
-                },
-                {
-                  "texto_cita": "«Esperando mucho de su mediación, le convidó [Boabdil] a que subiese al castillo para conferenciar juntos sobre el caso.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Gran Capitán (R. 19. 2522). X"
-                },
-                {
-                  "texto_cita": "«Y al lado de los frailes finos y sutiles están los cradores de voz profunda y brava, que suben al púlpito para levantar partido, desafiar gobernadores, atemorizar indios y amenazar blancos.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 207). — Además con un gerundio. X"
-                },
-                {
-                  "texto_cita": "«Verás el impío vando | En la fragosa, inacessible cumbre, | Que sube amenazando | A la celeste lumbre, | Confiado en su osada muchedumbre.»",
-                  "autor": "Herr.",
-                  "referencia_obra": "Poes. 4 (Cl. C. 26. 147). X"
-                },
-                {
-                  "texto_cita": "«Y a la cumbre escarpada | De la antigua Pirene | Sube ardiendo en furor: cruje el acero | De su carro espantoso, y empuñada | La mortífera lanza que blandea, | Mueve sañudo la execrable frente.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Poes. (Cl. C. 78. 93)."
+                  "id_limpio": "—",
+                  "definicion": "Además con un gerundio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Verás el impío vando | En la fragosa, inacessible cumbre, | Que sube amenazando | A la celeste lumbre, | Confiado en su osada muchedumbre.»",
+                      "autor": "Herr.",
+                      "referencia_obra": "Poes. 4 (Cl. C. 26. 147)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y a la cumbre escarpada | De la antigua Pirene | Sube ardiendo en furor: cruje el acero | De su carro espantoso, y empuñada | La mortífera lanza que blandea, | Mueve sañudo la execrable frente.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Poes. (Cl. C. 78. 93)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, para señalar: — la compañía.",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Sube conmigo más arriba.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Epist. 2 (6. 241). — El modo. Además con hasta, que señala el límite de la acción. X"
+                  "id_limpio": "—",
+                  "definicion": "la compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Sube conmigo más arriba.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Epist. 2 (6. 241)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Oh Antonio! Hasta las nubes en vuelo soberano | Con impulso potente sube el cisne tebano.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Odas de Horacio (ICC. 5. 177)."
+                  "id_limpio": "—",
+                  "definicion": "El modo. Además con hasta, que señala el límite de la acción.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Oh Antonio! Hasta las nubes en vuelo soberano | Con impulso potente sube el cisne tebano.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Odas de Horacio (ICC. 5. 177)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con de. +",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«El sueño --- se hace de vapores cálidos y húmedos que suben del estómago.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 8 (Cl. C. 43. 134). X"
+                  "referencia_obra": ", Escud. 1. 8 (Cl. C. 43. 134)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Nos orientaban unas mismas fogatas | Cuando regresábamos, en coro fraterno, | Al valle sordo de voces bajo la bruma | Que subía de los arroyos nocturnos.»",
                   "autor": "Maya",
-                  "referencia_obra": ", Obra poétic. 2 (p. 146). — Además con por. +"
-                },
+                  "referencia_obra": ", Obra poétic. 2 (p. 146)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Se engendran [los mixtos imperfectos] de las exhalaciones y vapores que por virtud de los astros suben de la tierra y del aire.»",
-                  "autor": "Cobo",
-                  "referencia_obra": ", Hist. Nuevo Mundo, 1. 1. 1 (R. 91. 102)."
+                  "id_limpio": "—",
+                  "definicion": "Además con por.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Se engendran [los mixtos imperfectos] de las exhalaciones y vapores que por virtud de los astros suben de la tierra y del aire.»",
+                      "autor": "Cobo",
+                      "referencia_obra": ", Hist. Nuevo Mundo, 1. 1. 1 (R. 91. 102)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con en, para señalar: — el lugar. +",
-              "ejemplos_citas": [
+              "definicion": "Con en, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Poniendo nuestros ojos en Aquel que en la cruz subió tan denodado para sufrir, corramos esta carrera con alegría, en cuyo fin está Dios.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Epist. 2. 76 (1. 594). — Además con para y una prop. infinitiva, que expresa el modo. X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Poniendo nuestros ojos en Aquel que en la cruz subió tan denodado para sufrir, corramos esta carrera con alegría, en cuyo fin está Dios.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Epist. 2. 76 (1. 594)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Viendo una montaña algo más alta que las otras, acordó de subir en ella para mirar de allí si descubriría algún camino o poblado adonde fuesse.»",
-                  "autor": "Ortúñez de Calahorra",
-                  "referencia_obra": ", Espejo, 2. 17 (Cl. C. 195. 144). — El medio. Además con a y una prop. infinitiva, para expresar la finalidad. X"
+                  "id_limpio": "—",
+                  "definicion": "Además con para y una prop. infinitiva, que expresa el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Viendo una montaña algo más alta que las otras, acordó de subir en ella para mirar de allí si descubriría algún camino o poblado adonde fuesse.»",
+                      "autor": "Ortúñez de Calahorra",
+                      "referencia_obra": ", Espejo, 2. 17 (Cl. C. 195. 144)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Y los honrados burgueses que suben en elevador a ver la gruta y aledaños tienen más de filósofos que de poetas, creédmelo.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Por tierras de Port. y Esp. p. 75."
+                  "id_limpio": "—",
+                  "definicion": "El medio. Además con a y una prop. infinitiva, para expresar la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y los honrados burgueses que suben en elevador a ver la gruta y aledaños tienen más de filósofos que de poetas, creédmelo.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Por tierras de Port. y Esp. p. 75."
+                    }
+                  ]
                 }
               ]
             },
@@ -195,16 +325,28 @@
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con hacia, que señala el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Su ser es hacer o padecer; y como vivo fuego que del cielo vino, está en movimiento continuo subiendo hacia allá.»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Epist. 3 (7. 42). — Además con a y una prop. infinitiva, que expresa la finalidad. También con por, que expresa el medio."
-                },
+                  "referencia_obra": ", Epist. 3 (7. 42)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Subiendo por las jarcias [el contramaestre] hacia la gavia a poner en cobro su papagayo, con la fuerza del viento se le desanudó la barbaza.»",
-                  "autor": "Espinel",
-                  "referencia_obra": ", Escud. 2. 7 (R. 18. 4331)."
+                  "id_limpio": "—",
+                  "definicion": "Además con a y una prop. infinitiva, que expresa la finalidad. También con por, que expresa el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Subiendo por las jarcias [el contramaestre] hacia la gavia a poner en cobro su papagayo, con la fuerza del viento se le desanudó la barbaza.»",
+                      "autor": "Espinel",
+                      "referencia_obra": ", Escud. 2. 7 (R. 18. 4331)."
+                    }
+                  ]
                 }
               ]
             }
@@ -213,119 +355,190 @@
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Con hasta, que señala el límite de la acción. X",
+          "definicion": "Con hasta, que señala el límite de la acción.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«De polvo en tanto la confusa nube, | Nuncia ya del furor, turbando el día, | Hasta el Olimpo sube; | Y del bronce tronante al estallido | El viento sacudido | Raudo dilata por Castilla toda | En ecos el horror: corre la sangre, | Vuela la muerte..»",
               "autor": "Quint.",
-              "referencia_obra": "Poes. (Cl. C. 78. 70). X"
+              "referencia_obra": "Poes. (Cl. C. 78. 70)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Debajo de mis brazos se perfuma | La noche, y sube hasta mis labios áridos | Mi pobre corazón, hecho de espuma.»",
               "autor": "Maya",
-              "referencia_obra": ", Obra poét. 3 (p. 176). — Además con en. X"
-            },
+              "referencia_obra": ", Obra poét. 3 (p. 176)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Claros sueños nacidos de la bruma terrestre | Que subís, en las horas del silencio nocturno | Hasta el rostro velado de los hombres, ya quietos | Tras la cálida angustia de un lejano crepúsculo.»",
-              "autor": "Maya",
-              "referencia_obra": ", Obra poétic. 1 (p. 51)."
+              "id_limpio": "—",
+              "definicion": "Además con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Claros sueños nacidos de la bruma terrestre | Que subís, en las horas del silencio nocturno | Hasta el rostro velado de los hombres, ya quietos | Tras la cálida angustia de un lejano crepúsculo.»",
+                  "autor": "Maya",
+                  "referencia_obra": ", Obra poétic. 1 (p. 51)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— θ θ )",
               "id_limpio": "— θ θ )",
-              "definicion": "Con por, para señalar: — el lugar.",
-              "ejemplos_citas": [
+              "definicion": "Con por, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Por la alta cuesta de Purén subían [los españoles].»",
-                  "autor": "Erc.",
-                  "referencia_obra": "Arauc. 4 (R. 17. 172). X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Por la alta cuesta de Purén subían [los españoles].»",
+                      "autor": "Erc.",
+                      "referencia_obra": "Arauc. 4 (R. 17. 172)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Subid por cima deste lecho, y entraos debajo deste tapiz, y entraos en un hueco que aquí hallares, y no os mováis, que si la justicia viniere me tendrá respeto y creerá lo que yo quisiere decirles.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Pers. 3. 6 (Cl. Castal. 12. 317)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Bien. Ahora | Voy a poner esas cartas, | Cuidad que no suba nadie | Por allá arriba, ni hagan | Ruido.»",
+                      "autor": "Mor.",
+                      "referencia_obra": "El barón, p. 367."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Subid por cima deste lecho, y entraos debajo deste tapiz, y entraos en un hueco que aquí hallares, y no os mováis, que si la justicia viniere me tendrá respeto y creerá lo que yo quisiere decirles.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Pers. 3. 6 (Cl. Castal. 12. 317). X"
+                  "id_limpio": "—",
+                  "definicion": "Además con hasta, que señala el límite de la acción.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Subirán por el Orinoco, hasta las minas.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Biogr. del Cáribe, 1. 9 (p. 175)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Bien. Ahora | Voy a poner esas cartas, | Cuidad que no suba nadie | Por allá arriba, ni hagan | Ruido.»",
-                  "autor": "Mor.",
-                  "referencia_obra": "El barón, p. 367. — Además con hasta, que señala el límite de la acción. X"
-                },
-                {
-                  "texto_cita": "«Subirán por el Orinoco, hasta las minas.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Cáribe, 1. 9 (p. 175). — La causa. X"
-                },
-                {
-                  "texto_cita": "«Los hijos de Israel, cuyos passos desde Egipto hasta Judea fueron imagen de aquesto, siempre fueron subiendo por razón del sitio y disposición de la tierra.»",
-                  "autor": "León",
-                  "referencia_obra": ", Nomb. (Cl. C. 28. 113). X"
-                },
-                {
-                  "texto_cita": "«Por verlo, no más, he subido | Hasta aquí yo, que no conocía más altura | Que la azotea de casa | Donde les echaba trigo a las palomas.»",
-                  "autor": "Maya",
-                  "referencia_obra": ", Obra poétic. 3 (p. 158)."
+                  "id_limpio": "—",
+                  "definicion": "La causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Los hijos de Israel, cuyos passos desde Egipto hasta Judea fueron imagen de aquesto, siempre fueron subiendo por razón del sitio y disposición de la tierra.»",
+                      "autor": "León",
+                      "referencia_obra": ", Nomb. (Cl. C. 28. 113)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Por verlo, no más, he subido | Hasta aquí yo, que no conocía más altura | Que la azotea de casa | Donde les echaba trigo a las palomas.»",
+                      "autor": "Maya",
+                      "referencia_obra": ", Obra poétic. 3 (p. 158)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ι ι )",
               "id_limpio": "— ι ι )",
-              "definicion": "Con un gerundio. X",
+              "definicion": "Con un gerundio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«I levantando l’ alma de la tierra | Subiré a las regiones celestiales, | Do todo el bien i quietud se cierra.»",
                   "autor": "Herr.",
                   "referencia_obra": "Poes. 4 (Cl. C. 26. 128)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— κ κ )",
               "id_limpio": "— κ κ )",
-              "definicion": "Sustantivado. Con de. X",
+              "definicion": "Sustantivado. Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Su repique voltea y voltea entre el chispeante y estruendoso subir de los cohetes y la chillona metalería de la música.»",
                   "autor": "J. R. Jiménez",
                   "referencia_obra": ". Platero y yo, 28 (p. 52)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Luego subiéndome a una piedra, miro el campo.»",
               "autor": "J. R. Jiménez",
               "referencia_obra": ", Platero y yo, 27 (p. 51)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Sabrosamente estaría mirando los Discípulos al Señor cómo se subía a los cielos el día de asunción.»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Epíst. 4 (7. 269). — Además con la prep. con."
+                  "referencia_obra": ", Epíst. 4 (7. 269)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«He imitado a los hombres que desocupan la plaza mientras corren el toro, y con seguro consejo se suben a los tablados.»",
+                      "autor": "Figueroa",
+                      "referencia_obra": ", Amarilis, 3 (p. 226)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«He imitado a los hombres que desocupan la plaza mientras corren el toro, y con seguro consejo se suben a los tablados.»",
-                  "autor": "Figueroa",
-                  "referencia_obra": ", Amarilis, 3 (p. 226). — Además con en, para expresar el tiempo."
-                },
-                {
-                  "texto_cita": "«Todos estos tres días de la dieta y las fabricaciones se subía a una azotea en amaneciendo, y se ponía hacia el nacimiento del sol.»",
-                  "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 23 (R. 18. 4241)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para expresar el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Todos estos tres días de la dieta y las fabricaciones se subía a una azotea en amaneciendo, y se ponía hacia el nacimiento del sol.»",
+                      "autor": "Espinel",
+                      "referencia_obra": ", Escud. 1. 23 (R. 18. 4241)."
+                    }
+                  ]
                 }
               ]
             },
@@ -333,47 +546,58 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con por, para expresar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No cabiendo en la plaza, se suben por los terrados y tejados.»",
                   "autor": "M. de Chaide",
                   "referencia_obra": ", Magd. 2. 10 (R. 27. 3121)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y aun esto no era remedio bastante porque se subían [la muchedumbre de hombres] y entraban por las paredes.»",
                   "autor": "Yepes",
                   "referencia_obra": ", Vida de Sta. Ter. 2. 29 (Mist. 1. 239)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ella conosciendo que se tardaba, subióse sobre un recuesto y vido cómo se lo llevaban cautivo.»",
                   "autor": "Timoneda",
-                  "referencia_obra": ", El Patrañuelo, 9 (Cl. C. 101. 95). X"
+                  "referencia_obra": ", El Patrañuelo, 9 (Cl. C. 101. 95)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Se subió sobre una punta de una alta peña, y allí tornó a pensar lo que otras muchas veces había pensado, sin haberse jamás resulto en ello.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 26 (Cl. C. 6. 323)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con sin y una prop. subjuntiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pues lo que digo, no se suban sin que Dios los suba, es lenguaje de espíritu.»",
                   "autor": "",
                   "referencia_obra": "Sta. Ter. Vida, 12 (1. 84)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -381,35 +605,51 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Impers. Con a, para señalar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cuanto más presto se subiere al lugar más alto, tanto menor será envidia.»",
               "autor": "Saav.",
-              "referencia_obra": "Emp. 9 (R. 25. 292). X"
+              "referencia_obra": "Emp. 9 (R. 25. 292)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Para conmover a un auditorio hay que subirse a la tribuna y seguir las aparatosas máximas ciceronianas que acabo de comentar.»",
               "autor": "Marañón",
-              "referencia_obra": ", Tiempo viejo, p. 137. — Además con por, para señalar el medio. X"
-            },
+              "referencia_obra": ", Tiempo viejo, p. 137."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«A la izquierda, se sube por un escalón a una puerta pintada de encarnado negruzco.»",
-              "autor": "Azorín",
-              "referencia_obra": ", La voluntad (Cl. Castal. 3. 65)."
+              "id_limpio": "—",
+              "definicion": "Además con por, para señalar el medio.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«A la izquierda, se sube por un escalón a una puerta pintada de encarnado negruzco.»",
+                  "autor": "Azorín",
+                  "referencia_obra": ", La voluntad (Cl. Castal. 3. 65)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, para señalar el lugar. X",
+              "definicion": "Con por, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Caminando hacia la casa de Alberto Durero se sube por la calle del Monte Olivete; nadie transita: las palomas van y vienen confiadas por el arroyo.»",
                   "autor": "Ortega y Gasset",
                   "referencia_obra": ", Mocedades, p. 18."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -417,35 +657,43 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Part. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pero aun subido al Cielo, tuvo tanto cuidado de los suyos, que envió dos Ángeles, vestidos de vestiduras blancas.»",
               "autor": "Ávila",
               "referencia_obra": ", Ven. Espír. Santo, 1 (2. 232)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y después de resucitado y subido a los cielos, estuvo muchos años ausente de él.»",
               "autor": "",
               "referencia_obra": "Id. Epist. 2 (6. 496)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aquí evite la llama | Cabe mi Elisa hermosa, | Del sol subido a la mitad del cielo.»",
               "autor": "Mel.",
               "referencia_obra": "égl. 1 (R. 63. 1761)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Se habla poco, no más que a ratos en que nos volvemos para ver lo ya subido y cobrar así fuerzas.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Por tierras de Port. y Esp. p. 137."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -453,13 +701,16 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "En el siguiente ejemplo, Trepar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Se ven de alamos, sauces, --- por cuyos troncos a porfía suben vides.»",
               "autor": "Figueroa",
               "referencia_obra": ", Amarilis, 1 (p. 2)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -467,72 +718,90 @@
     {
       "id": "b)",
       "definicion": "Adquirir un nivel más alto (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El buque demora esperando a que suba la marea, y se anuncia que no saldrá antes de las once de la noche.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 4. 26 (p. 412)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a y una prop. infinitiva. X",
+              "definicion": "Con a y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y sube el mar | A lavar a la ciudad.»",
                   "autor": "Maya",
-                  "referencia_obra": ", Obra poétic. 2 (p. 114). X"
+                  "referencia_obra": ", Obra poétic. 2 (p. 114)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Avanzas hacia mí, como la onda | Sube a besar la piedra de la orilla, | Y ante mis ojos tu pupila brilla | Con luz profunda que mi amor no sonda.»",
                   "autor": "",
                   "referencia_obra": "Id. Ib. 5 (p. 266)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de. Además con en, para señalar el lugar. X",
+              "definicion": "Con de. Además con en, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Es como de maravilla, o como de teatro infantil, ver de lejos, desde las carreteras de la zona, cómo entran los enormes trasatlánticos, suben de nivel en las esclusas, y van luego del Atlántico al Pacífico, del Pacífico al Atlántico, arrastrados por unas mulitas mecánicas.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr del Caribe, 4. 27 (p. 433)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En el caserón de su fundo estoy ahora, solo, frente a la vieja palmera que plantó el de media vara y que sube hoy por encima de todas las copas del parque.»",
                   "autor": "Barrios",
                   "referencia_obra": ", Gran señor y rajadiablos, p. 8."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Dura [el maná] hasta poner del sol del otro día, y es tanta cantidad, que sube un palmo sobre la piedra.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 15 (R. 21. 161)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -541,36 +810,45 @@
     {
       "id": "c)",
       "definicion": "Hacer más alta una cosa o irla aumentando hacia arriba (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Porque el edificio mal fundado cierto es, que cuanto sube más, tanto es mayor su peligro.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 1. 20 (1. 309)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Poco antes de llegar a la puerta principal estaba un humilladero no menos horroroso; era de piedra, con treinta gradas de los mismo, que subían a lo alto, donde había un género de azotea prolongada.»",
                   "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 3. 13 (R. 28. 2852). +"
+                  "referencia_obra": ", Conq. de Méj. 3. 13 (R. 28. 2852)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Escóndese éste [el talús] en el foso, y sube a toda su altura, formando con el muro del castillo un ángulo de cuarenta y cinco grados.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Mem. del castillo de Bellver (R. 46. 3931)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -579,70 +857,87 @@
     {
       "id": "d)",
       "definicion": "Recorrer yendo hacia arriba, remontar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Quién sube la escalera y quién la baja, | Quién a la ropa y quién al cobre aguija.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 7 (R. 17. 301)."
             },
             {
+              "marca": "",
               "texto_cita": "«Subí, cual digo, aquella peña, a donde | Las Fustas ví, que ya a la mar se hacían.»",
               "autor": "Cerv.",
               "referencia_obra": "Los baños de Argel, 1 (Com. 1. 159)."
             },
             {
+              "marca": "",
               "texto_cita": "«Subimos una escalerilla, y representóseme luego la sala donde estaba la señora.»",
               "autor": "Espinel",
-              "referencia_obra": ", Escud. 1. 2 (R. 18. 3802). X"
+              "referencia_obra": ", Escud. 1. 2 (R. 18. 3802)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ahí tienes a Péter Anderson —un pescador como otro cualquiera —subiendo la cuesta de su casa, frente al mar.»",
               "autor": "Casona",
               "referencia_obra": ", La barca sin pescador, p. 107."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Le obligué, entonces, con un cariñoso imperio, y Platero, de un tirón sacó carretilla y rucio del atolladero, y les subió la cuesta.»",
                   "autor": "J. R. Jiménez",
                   "referencia_obra": ", Platero y yo, 40 (p. 70)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con a, para expresar el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pero al amanecer empezó la gente a subir la cuesta.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 5. 10 (R. 28. 3581)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "X",
+              "definicion": "",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y con esto, todos los escalones que Camila bajaba hacia el centro de su menosprecio, los subían en la opinión de su marido, hacia la cumbre de la virtud y de su buena fama.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1 (Cl. C. 8. 226)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -650,76 +945,94 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Dejaron aquel sitio, y poco a poco se subieron la montaña.»",
               "autor": "Melo",
               "referencia_obra": ", Guerra de Catal. 5 (R. 21. 523)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«A paso igual se suben las altas cuestas; el que las atropella se rinde antes de lo áspero.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal., 3 (R. 21. 4961)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mas los moros, que estaban sospechosos y recatados, como descubrieron nuestra gente, subiéronse con sus armas a la montaña.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Gran. 4 (R. 21. 1161)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Intrans. +",
+          "definicion": "Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Sin más explicaciones volvió [Pío Cid] las espaldas y empezó a subir cerro arriba.»",
               "autor": "Ganiv.",
               "referencia_obra": "Pío Cid, 4 (2. 122)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Aplicado al tiempo pasado. Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Es ocioso subir a épocas anteriores a la dominación romana.»",
               "autor": "",
               "referencia_obra": "Jovell. Elog. Nota (3. 203)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con hasta.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Para poner en claro mis ideas, será preciso subir hasta el origen mismo de la nobleza.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Discursos (2. 70)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -728,59 +1041,88 @@
     {
       "id": "e)",
       "definicion": "Montar en una cabalgadura (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Antes que se pudiesen armar ni subir a caballo, muchos de los Franceses fueron pasados a cuchillo.»",
               "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 15. 20 (1. 7831). X"
+              "referencia_obra": ", Hist. Esp. 15. 20 (1. 7831)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Acababa de comer el Corregidor, y con el deseo que tenía de ver el fin de aquella historia, subió luego a caballo y vino a la posada del Sevillano, llevando consigo el pergamino de la muestra.»",
               "autor": "Cerv.",
-              "referencia_obra": "Nov. 1 (Cl. C. 27. 314). +"
+              "referencia_obra": "Nov. 1 (Cl. C. 27. 314)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Cuando la noticia de este tumulto llegó a don Fadrique, desarmado como estaba subió a caballo.»",
               "autor": "Quint.",
-              "referencia_obra": "R. de Lauria (R. 19. 2282). X"
+              "referencia_obra": "R. de Lauria (R. 19. 2282)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Por último, como alardeara el leguleyo de mucha ciencia en códigos y mucha versación en letras, él, tras de subir calmadamente a su yegua mulata, y ya desde lo alto de la montura, volviéndose a los circunstantes con la más luminosa de sus sonrisas. habíase limitado a decir: ---.»",
               "autor": "Barrios",
               "referencia_obra": ", Gran señor y rajadiablos, p. 40."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ya cuando el sol declinaba, serían como las cinco de la tarde, subiendo en su caballo, como cosa ordinaria suya, se vino a la heredad.»",
                   "autor": "Alemán",
-                  "referencia_obra": ", Guzmán, 1. 1. 2 (R. 3. 1931). X"
+                  "referencia_obra": ", Guzmán, 1. 1. 2 (R. 3. 1931)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Estese la vuestra grandeza a caballo, pues estando a caballo acaba las mayores fazañas y aventuras que en nuestra edad se han visto; que a mí, aunque indigno sacerdote, bastarame subir en las ancas de una destas mulas destos señores que con vuestra merced caminan.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1 (Cl. C. 8. 97). — Además con para y una prop. infinitiva, que expresa la finalidad. X"
+                  "referencia_obra": "Quij. 1 (Cl. C. 8. 97)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con para y una prop. infinitiva, que expresa la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El auto continuaba; pero los familiares, según la nueva costumbre, subieron en sus caballos para presenciar el suplicio.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 3 (p. 272)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El auto continuaba; pero los familiares, según la nueva costumbre, subieron en sus caballos para presenciar el suplicio.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 3 (p. 272). — Además con sin, para expresar el modo. X"
-                },
-                {
-                  "texto_cita": "«Y así, no tan maduro como presuroso, fui donde estaba el caballo y subí en él sin poner el pie en el estribo, pues no le tenía, y arremetí con él, sin que el freno fuese parte para detenerle.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Pers. 2. 20 (Cl. Castal. 12. 266)."
+                  "id_limpio": "—",
+                  "definicion": "Además con sin, para expresar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y así, no tan maduro como presuroso, fui donde estaba el caballo y subí en él sin poner el pie en el estribo, pues no le tenía, y arremetí con él, sin que el freno fuese parte para detenerle.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Pers. 2. 20 (Cl. Castal. 12. 266)."
+                    }
+                  ]
                 }
               ]
             }
@@ -789,32 +1131,39 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. Con en. X",
+          "definicion": "Refl. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Se ponía tan loco, que le pedí al Tonto que se subiera en él [Platero] y lo llevara con nosotros.»",
               "autor": "J. R. Jiménez",
-              "referencia_obra": ", Platero y yo, 19 (p. 37). X"
+              "referencia_obra": ", Platero y yo, 19 (p. 37)."
             },
             {
+              "marca": "X",
               "texto_cita": "«A veces, se suben en el borrique sin alma, y con un jaleo inquieto y raudo de pies y manos, trotan por el prado de sus sueños: | —¡Arre, Platero! ¡Arre, Platero!»",
               "autor": "",
               "referencia_obra": "Id. ib. 67 (p. 116)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con en. X",
+          "definicion": "Part. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La voz pueril, delgada y rota, se le caía, cansada, como se cae, a veces, la brisa en el estío. Yo le ofrecí a Platero para que diese un paseíto. Subida en él, ¡qué risa la de su aguda casa de muerta, toda ojos negros y dientes blancos!»",
               "autor": "J. R. Jiménez",
               "referencia_obra": ", Platero y yo, 33 (p. 60)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -822,88 +1171,109 @@
     {
       "id": "f)",
       "definicion": "Aumentar, acrecentar, elevar (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los de adentro subían su número a quince mil hombres.»",
               "autor": "Melo",
               "referencia_obra": ", Guerra de Catal. 4 (R. 21. 5091)."
             },
             {
+              "marca": "",
               "texto_cita": "«Dieron cuenta de su comisión, ponderando la magestad y entereza del Inca y las fuerzas de su ejército, que a su parecer subiría a más de treinta mil hombres.»",
               "autor": "Quint.",
               "referencia_obra": "Pizarro (2. 87)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. adj. X",
+          "definicion": "Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«De donde es de notar que por grandes comunicaciones y presencias y altas y suuidas noticias de Dios que vn alma en esta vida tenga.»",
               "autor": "",
               "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 21)."
             },
             {
+              "marca": "",
               "texto_cita": "«De las cuales [cosas] escribió libros de admirable y subida doctrina.»",
               "autor": "Yepes",
-              "referencia_obra": ". Vida de Sta. Ter. 2.18 (Míst. 1. 183). X"
+              "referencia_obra": ". Vida de Sta. Ter. 2.18 (Míst. 1. 183)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Y qué diremos de aquella portentosa representación suya de la esencia divina, \"como un claro diamante muy mejor que todo el mundo\", o como un espejo en que por subida manera, y \"con espantosa claridad\", se ven juntas todas las cosas, sin que haya ninguna que salga fuera de su grandeza.»",
               "autor": "Menéndez y Pelayo",
               "referencia_obra": ", Estudios, p. 52."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Está una imagen muy perfecta con muy subidos primores.»",
                   "autor": "",
                   "referencia_obra": "Juan de la Cruz, Monte Carm. 2. 5 (R. 27. 241)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se juntan en él culpa y pena, que son todos los males en su más subido grado.»",
                   "autor": "León",
                   "referencia_obra": ", Cantares, 7 (4. 126)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y la materia del cielo y los cielos mismos le reconocen [a esta cualidad] ventaja en orden de nacimiento, y en grado más subido de origen.»",
                   "autor": "",
                   "referencia_obra": "Id. Nomb. 2. 3 (3. 218)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en. En superlativo absol. X",
+              "definicion": "Con en. En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Biendo a Dios cara a cara, vnida el alma con esta sabiduría diuina, que es el Hijo de Dios, conocerá el alma los subidos misterios de Dios y Hombre, que están muy subidos en sabiduría, encondidos en Dios.»",
                   "autor": "",
                   "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 272)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -911,46 +1281,57 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Subir de punto: crecer o aumentarse alguna cosa. X",
+              "definicion": "Subir de punto: crecer o aumentarse alguna cosa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Subió de punto el motivo que antes tenía; y enderezó todos sus intentos al remedio de aquellas almas.»",
                   "autor": "Yepes",
                   "referencia_obra": ", Vid. de Sta. Ter. 2. 15 (Dicc. Autor.)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Por esto se la quita, no para que pierda el amor, sino para que le trueque y mejore y le suba de punto.»",
                   "autor": "Rivad.",
-                  "referencia_obra": "Trib. 1. 7 (p. 44). X"
+                  "referencia_obra": "Trib. 1. 7 (p. 44)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Aquí dio fin la hermosa Agustina a su razonamiento, y aquí comezó la admiración de los oyentes a subirse de punto.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 3. 12 (Cl. Castal. 12. 366)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Subieron de punto [los indios] el rendimiento con el humo de sus incensarios.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 2. 20 (R. 28. 2612)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Subir el color: resaltar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Compare vuestra alteza sus acciones con las de aquellos [padres y agüelos], y conocerá la diferencia entre unas y otras, o para subilles el color a las propias, o para quedar premiado de su misma virtud.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 16 (R. 25. 451)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -958,163 +1339,201 @@
     },
     {
       "id": "g)",
-      "definicion": "Mús. Elevar la voz o el sonido de un instrumento desde un tono grave a otro más agudo (intrans.). +",
+      "definicion": "Mús. Elevar la voz o el sonido de un instrumento desde un tono grave a otro más agudo (intrans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "+",
           "texto_cita": "«Cuando el mozuelo subía un punto de voz, ella [doña Mergelina] bajaba otro de gravedad.»",
           "autor": "Espinel",
-          "referencia_obra": ", Escud. 1. 2 (Cl. C. 43. 55). X"
+          "referencia_obra": ", Escud. 1. 2 (Cl. C. 43. 55)."
         },
         {
+          "marca": "X",
           "texto_cita": "«En tanto encubre pavorosa nube, | El cielo enantes transparente y terso, | Y relumbra la espada del querube, | Ministrodel Señor del universo; | Que ya la voz de la inocencia sube, | Que en llanto el gozo trocará el perverso.»",
           "autor": "Espronc.",
-          "referencia_obra": "Poes. (Cl. Castal. 20. 83). X"
+          "referencia_obra": "Poes. (Cl. Castal. 20. 83)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Muda de tono, aprende de sí mismo y, poco a poco, va subiendo, va poniéndose en su sitio, como si fuera buscando la armonía del lugar y de la hora.»",
           "autor": "J. R. Jiménez",
           "referencia_obra": ", Platero y yo, 22 (p. 42)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "met. Dar a las cosas más precio o mayor estimación de la que tenían (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Es inmensa la cantidad de esta madera que se gasta en fábricas de navíos y edificios, y lo mucho que ha subido su precio.»",
               "autor": "Cobo",
               "referencia_obra": ", Hist. Nuevo Mundo, 1. 6. 123 (R. 91. 2822)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se ve por las leyes dictadas sobre la materia que la moneda de oro subía respecto de la de plata.»",
               "autor": "Acad.",
               "referencia_obra": "Hist. ilustr. 20 (6. 522)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ello si, las cuentas v Suelen subir, mas en esto | Lucir es lo que interesa.»",
               "autor": "",
               "referencia_obra": "Gil y Zárate, ¡Cuidado con las novias! 2. 6 (p. 91)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cuando llegó a aquella Capital la noticia de la derrota de Waterloo, subieron los fondos más de un ocho por ciento.»",
               "autor": "",
-              "referencia_obra": "M. de la Rosa, Espír. del siglo, 1. 11 (4. 44). X"
+              "referencia_obra": "M. de la Rosa, Espír. del siglo, 1. 11 (4. 44)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La moneda sube y baja que es una locura.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Biogr. del Caribe, 3. 14 (p. 273). X"
+              "referencia_obra": ", Biogr. del Caribe, 3. 14 (p. 273)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El perdigón sigue subiendo. Nos lo han cobrado a 22.»",
               "autor": "Delibes",
               "referencia_obra": ", Diario de un cazador, p. 13."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Unos loan lo casero, otros encarecen la discreción, otros suben al cielo la modestia.»",
                   "autor": "León",
-                  "referencia_obra": ", Perf. cas. 21 (4. 518). X"
+                  "referencia_obra": ", Perf. cas. 21 (4. 518)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿No le sería a usté posible; don Antonio, aquí, con permiso del joven, darme siquiera pa pagar el recibo de la luz, que sube a cincuenta pesetas y han venío ya tres veces?»",
                   "autor": "Arniches",
                   "referencia_obra": ", Es mi hombre, 3 (p. 184)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se asalta de sorpresa la isla, se posesiona el gobierno de los depósitos generales en donde la mercancía confiscada sube a cosa de medio millón de dólares, y muchos compañeros de Lafitte quedan prisioneros y van a la cárcel.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 4. 20 (p. 353)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Dice, del Señor, que es palabra que a todo lo que en aquella lengua se añade lo suele subir de quilates.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 1. 3 (3. 24)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Que esta ofensa ha acrisolado, | No manchado, vuestro honor, | Pues Elvira resistiendo, | De quilates le subió.»",
                   "autor": "Alarcón",
-                  "referencia_obra": ", Los pechos privilegiados, 1. 19 (R. 20. 4202). +"
+                  "referencia_obra": ", Los pechos privilegiados, 1. 19 (R. 20. 4202)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Los plateros y alquimistas apartan y aprovechan la plata, que es la liga, subiendo el oro de quilates.»",
                   "autor": "Cobo",
                   "referencia_obra": ", Hist. Nuevo Mundo, 1. 3. 36 (R. 91. 1381)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Jamás sube de precio una tierra sin que se combinen estos intereses.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Informes (7. 69)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No subirá en valor ninguno tanto, | Que no le tema [a Dios] y tiemble.»",
                   "autor": "León",
                   "referencia_obra": ", Expos. de Job, 2. 37 (2. 252)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Los reales de los Moros se hallaron llenos de todo género de riquezas --- que fue causa que en España abajase el valor de la moneda y subiese el precio de las mercaderías.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 16. 8 (2. 211)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Vienen a ser gananciosos en cualquiera contribución, subiendo un real por cada maravedí que pagan.»",
                   "autor": "Navarr.",
                   "referencia_obra": "Conserv. de monarq. 19 (R. 25. 4892)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Estando en manos de los tratantes el subir los precios de todo lo vendible al paso de su codicia, vienen a ser gananciosos en cualquiera contribución.»",
                   "autor": "Navarr.",
                   "referencia_obra": "Conserv. de monarq. 19 (R. 25. 4892)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1122,76 +1541,94 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Aquel amor es verdaderamente grande, y de subidos quilates.»",
               "autor": "León",
-              "referencia_obra": ", Nomb. 3. 2 (3. 345). +"
+              "referencia_obra": ", Nomb. 3. 2 (3. 345)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Mucho más gustosa nos será la doctrina teologal que sobre ella [la fábula] se podrá decir, y especialmente siendo composturas de los subidos ingenios griegos.»",
               "autor": "J. de Pineda",
-              "referencia_obra": ", Agr. crist. 7. 6 (R. 162. 961). X"
+              "referencia_obra": ", Agr. crist. 7. 6 (R. 162. 961)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y nos mostraron capas, casullas, frontales, unos de subido valor artístico, pero los más de mayor precio material que estético.»",
               "autor": "Unamuno",
               "referencia_obra": ", Por tierras de Port. y Esp. p. 104."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Las cosas queríanlas vender los dueños en precios muy subidos.»",
                   "autor": "Yepes",
                   "referencia_obra": ", Vida de Sta. Ter. 2. 31 (Míst. 1. 246)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Produjo inmensa cantidad de composiciones sueltas, muchas de ellas de precio muy subido.»",
                   "autor": "Gil y Zárate",
                   "referencia_obra": ", Resum. histór. 1. 8 (p. 89)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En superlativo relativo. X",
+              "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pavimento de mármoles encarnados y verdes, cúpulas cubiertas del plomo, bronces, granitos, piedras de todos colores y del más subido.»",
                   "autor": "Catalina",
                   "referencia_obra": ", Roma, p. 87."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "En comparativo, con valor ponderativo. Además con por, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Los precios de las cosas están en España tan subidos por la tiranía de los tratantes.»",
                   "autor": "Navarr.",
                   "referencia_obra": "Conserv. de monarq. 21 (R. 25. 4941)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con de. +",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«No es de igual fineza todo el oro que se saca en esta tierra; uno es muy bajo y otro subido de ley.»",
                   "autor": "Cobo",
                   "referencia_obra": ", Hist. Nuevo Mundo, 1. 3. 36 (R. 91. 1381)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1200,290 +1637,387 @@
     {
       "id": "b)",
       "definicion": "Ascender en dignidad o empleo, o crecer en caudal o hacienda (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cual árbol con los años | La gloria de Francisco sube y crece | Y entre mil ermitaños | El claro Antón parece | Luna que en las estrellas resplandece.»",
               "autor": "León",
               "referencia_obra": ", Poes. (4. 73)."
             },
             {
+              "marca": "",
               "texto_cita": "«Quiérome ir: porque viniendo el Espíritu Santo seáis más perfectos, subáis más altos vuestros pensamientos.»",
               "autor": "Ávila",
-              "referencia_obra": ", Ven. Espír. Santo, 1 (2. 233). +"
+              "referencia_obra": ", Ven. Espír. Santo, 1 (2. 233)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Un hombre que estaba sosegado en su casa --, con una pasada honesta, por ver qué valen y suben otros, sale della y se va a la corte.»",
               "autor": "Rivad.",
               "referencia_obra": "Trib. 1. 7 (R. 60. 3692)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pero en Meléndez el anhelo de subir estuvo siempre unido al noble deseo de trabajar.»",
               "autor": "Quint.",
-              "referencia_obra": "Meléndez (R. 19. 1201). X"
+              "referencia_obra": "Meléndez (R. 19. 1201)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Jamás ambicioné, que es tanto como decir que jamás discurrí girando, en torno de los puestos encumbrados, ni busqué ocasiones de subir ni pretendí, ni adulé, ni pedí apoyo o auxilio, ni hice promesas.»",
               "autor": "",
               "referencia_obra": "M. F. Suárez, Sueños, 4 (p. 108)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. +",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Don Aluaro de Luna ---quando començó a seruir muchacho al rrey que he dicho [Don Juhan], vino a subir a los títulos que he dicho.»",
                   "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 3 (1. 41). X"
+                  "referencia_obra": ", Quinquag. 1. 3 (1. 41)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Desea señoríos, mandos, honras y riquezas, ya que ve que no puede subir al último grado que quisiera, como llegue a ponerse en algún buen punto, queda en parte satisfecho, porque la esperanza que le falta de no poder subir a más, le hace parar donde puede y como mejor puede, todo lo cual es contrario en el amor.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Gal. 2 (Cl. C. 155. 65). X"
+                  "referencia_obra": "Gal. 2 (Cl. C. 155. 65)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Subió [el presidente] malamente al poder; saldrá de allí peor librado.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 4. 27 (p. 427). — Además con en, para expresar el tiempo. X"
+                  "referencia_obra": ", Biogr. del Caribe, 4. 27 (p. 427)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para expresar el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«No sabréys cómo ni de qué manera nasce y cresce y sube en brevíssimo tiempo a incomparable grandeza.»",
+                      "autor": "León",
+                      "referencia_obra": ", Nomb. (Cl. C. 28. 179)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«No sabréys cómo ni de qué manera nasce y cresce y sube en brevíssimo tiempo a incomparable grandeza.»",
-                  "autor": "León",
-                  "referencia_obra": ", Nomb. (Cl. C. 28. 179). — Además con para y una prop. infinitiva, que expresa la finalidad. +"
+                  "id_limpio": "—",
+                  "definicion": "Además con para y una prop. infinitiva, que expresa la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«No parece sino que Felipe III, Felipe IV y Carlos II subieron ex profeso al trono de las Españas para arruinarlas.»",
+                      "autor": "A. Saav.",
+                      "referencia_obra": "Masan. introd. (R. 102. 1231)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«No parece sino que Felipe III, Felipe IV y Carlos II subieron ex profeso al trono de las Españas para arruinarlas.»",
-                  "autor": "A. Saav.",
-                  "referencia_obra": "Masan. introd. (R. 102. 1231). — Además con por, para expresar la causa. X"
-                },
-                {
-                  "texto_cita": "«Y pudiérate contar agora, si el dolor me diera lugar, de algunos que sólo por el valor de su brazo han subido a los altos grados que he contado, y estos mesmos se vieron antes y después en diversas calamidades y miserias.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 15 (Cl. C. 6. 19)."
-                },
-                {
-                  "texto_cita": "«Ninguno subió tan presto a la inmortalidad por la venganza como por el perdón.»",
-                  "autor": "Melo",
-                  "referencia_obra": ", Guerra de Catal. 2 (R. 21. 4812)."
+                  "id_limpio": "—",
+                  "definicion": "Además con por, para expresar la causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y pudiérate contar agora, si el dolor me diera lugar, de algunos que sólo por el valor de su brazo han subido a los altos grados que he contado, y estos mesmos se vieron antes y después en diversas calamidades y miserias.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 1. 15 (Cl. C. 6. 19)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ninguno subió tan presto a la inmortalidad por la venganza como por el perdón.»",
+                      "autor": "Melo",
+                      "referencia_obra": ", Guerra de Catal. 2 (R. 21. 4812)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para expresar el modo. X",
+              "definicion": "Con la prep. con, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Las unas [potencias] atienden a conservarse con el sosiego público, y las otras a subir con la perturbación de los dominios ajenos.»",
                   "autor": "Saav.",
                   "referencia_obra": "Emp. 81 (R. 25. 2192)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Precisamente uno de los que resultan augustos en la serie brillante de los primeros magistrados, subió de condición modestísima, así como el más arrogante de los presidentes dizque bajó hoy. del solio para volver mañana a las tareas de su oficio de sastre.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 4 (p. 199)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con la combinación de... a, para señalar el recorrido de la acción. X",
+              "definicion": "Con la combinación de... a, para señalar el recorrido de la acción.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Su esfuerzo, su inteligencia y sus virtudes le sirvieron de alas para subir de la llanura de la modestia a las alturas de importantes puestos.»",
                   "autor": "",
                   "referencia_obra": "M. F. Suárez, Sueños, 4 (p. 141)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con en. +",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«El marqués de los Vélez subió en favor y vino a ser señor de las armadas.»",
                   "autor": "Mend.",
-                  "referencia_obra": "Guerra de Gran. 5 (p. 125). X"
+                  "referencia_obra": "Guerra de Gran. 5 (p. 125)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mas, en fin, si un fin hermoso | Nuestra vida en honra sube, | El mío me hará famoso, | Porque en muerte y vida tuve | Mayor fe en lo más dudoso.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Gal. 2 (Cl. C. 155. 230). +"
+                  "referencia_obra": "Gal. 2 (Cl. C. 155. 230)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«De aquí [de la buena educación] nace que suban unos en virtud y merecimientos.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 1. 7 (Cl. C. 43. 107)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con hasta y una prop. infinitiva, que señala el límite de la acción. +",
+              "definicion": "Con hasta y una prop. infinitiva, que señala el límite de la acción.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Como en unos tiempos paresce estar acabadas [las castas y linajes] hasta venir a pobres labradores, ansí en otros salen y suben hasta venir a grandes reyes.»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Granad. 5 (p. 139)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Con un gerundio. X",
+              "definicion": "Con un gerundio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«De esta manera Lincoln, el desvalido, el virtuoso, el constante, subió tanto sirviendo a sus conciudadanos, que llegó a ser par de Jorge Washington y a formar con él la conjunción de los dos astros principales de aquel cielo.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 4 (p. 225)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Acordarme. de los trabajos que passan lo que más altos están subidos y quánto más cerca están de caer.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. de Merc. y Carón, 1 (Cl. C. 96. 155)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Extendida su reputación [de Vélez] por España con el suceso de Berja, su persona subida en mayor crédito --»",
                   "autor": "Mend.",
                   "referencia_obra": "Guerra de Gran. 3 (R. 21. 981)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "En superlativo relativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Un nuevo espanto, un nuevo asombro y miedo | Me acude y sobresalta en este punto, | Sólo por ver que quiero y que no puedo | Subir de honor al más subido punto | Al grave Baltasar, que de Toledo | El sobrenombre tiene.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Gal. 2 (Cl. C. 155. 203). +"
+                  "referencia_obra": "Gal. 2 (Cl. C. 155. 203)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Esto [la conformidad con la voluntad de Dios] es lo más subido y perfeto del amor.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Trib. 1. 14 (R. 60. 3852)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Impers. Con por, para señalar la causa. X",
+          "definicion": "Impers. Con por, para señalar la causa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No así en las monarquías, donde se sube porque se ha empezado a subir.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 1. 10 (Cl. C. 76. 105)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Sustantivado. Con la combinación de... a. +",
+          "definicion": "Sustantivado. Con la combinación de... a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«El subir de lo bajo a lo alto, ahí está el peligro y el trabajo.»",
               "autor": "J. de Pineda",
               "referencia_obra": ", Agr. crist. 8. 16 (R. 162. 1821)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Trans. +",
+          "definicion": "Trans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Lo que yo he entendido es, que todo este cimiento de la oración va fundado en humildad, y que mientras más se abaja un alma en la oración, más la sube Dios.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Vida, 22 (R. 53. 712)."
             },
             {
+              "marca": "",
               "texto_cita": "«La gloria y el devaneo | La obra suben arriba; | Mas tu voluntad derriba | Cuanto levanta el deseo.»",
               "autor": "Mend.",
               "referencia_obra": "Carta (R. 32. 742)."
             },
             {
+              "marca": "",
               "texto_cita": "«Para mejorar su partido acordaron adelantarse y ganar por la mano: traza que a unos sube y a otros baja.»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 18. 10 (2. 1472)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Determinó de envialle a la Academia Salmantina con intención que se ejercitase en aprender lo que a los hombres sube a mayor grado que de hombres.»",
                   "autor": "Montem.",
-                  "referencia_obra": "Diana, 3 (p. 102). +"
+                  "referencia_obra": "Diana, 3 (p. 102)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Seguía [don Luis de Reinoso] más la milicia por inclinación que de ambicioso, y así, sus trabajos, usurpados por otros, los subieron a grandes lugares.»",
                   "autor": "Fuenmayor",
-                  "referencia_obra": ", Vida de S. Pío V. 3 (p. 132). — El término es una prop. infinitiva, que expresa la finalidad."
-                },
+                  "referencia_obra": ", Vida de S. Pío V. 3 (p. 132)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Si su Magestad nos quisiere subir a ser de los de su Cámara, y secreto, ir de buena gana.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Vida, 22 (1. 177)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva, que expresa la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Si su Magestad nos quisiere subir a ser de los de su Cámara, y secreto, ir de buena gana.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Vida, 22 (1. 177)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con hasta, que señala el límite de la acción. +",
+              "definicion": "Con hasta, que señala el límite de la acción.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Las armas --- no sólo han hecho famosos algunos en su misma esfera, sino que los han subido hasta la majestad del imperio.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4661)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1492,63 +2026,78 @@
     {
       "id": "3",
       "definicion": "met. Agravarse o difundirse ciertas enfermedades (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con de. X",
+          "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Dónde estáis, visiones engendradas | Por mi delirio, cual la fiebre lenta | Que sube de los légamos nocturnos?»",
               "autor": "Maya",
               "referencia_obra": ", Obra poétic. 3 (p. 199)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. refl. Además con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Subiósele de todo punto la cólera a Alarico.»",
                   "autor": "Sig.",
                   "referencia_obra": "Vida de S. Jer. 6. 2 (p. 557)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. X",
+          "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La exageración es mala. Por eso decía el ingenioso Isla que para los jóvenes y para los viejos escritores es saludable consejo mantener los pies calientes en el acto de escribir, a fin de que el calor no se suba a la cabeza.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 4 (p. 312)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Loc. Subir(se) a la cabeza: embriagar, entonar. +",
+          "definicion": "Loc. Subir(se) a la cabeza: embriagar, entonar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«El que bebe mucho, luego padesce lisión en el seso, porque el vino, como por natura es más liviano y caliente, sube luego a la cabeza.»",
               "autor": "P. Mexía",
-              "referencia_obra": ", Coloq. 2. 2 pte. (p. 114). +"
+              "referencia_obra": ", Coloq. 2. 2 pte. (p. 114)."
             },
             {
+              "marca": "+",
               "texto_cita": "«El vino, cuanto más noble y de mejor ley, tanto más se sube a la cabeza.»",
               "autor": "",
               "referencia_obra": "J. de Pineda, Agr. crist. 10. 18 (R. 162. 3001)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1556,7 +2105,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «Subire: venir ante los oios y suceder y entrar.» Pal. Univ. vocab. 476b. X «Scandere: subir arriba quasi por escala dende scancio es el effecto del subir de lo baxo a lo alto.» Id. ib. 437b. X «Por vía que las vnas virtudes de las otras se alumbren, que de semejantes passos se suele hazer la escalera por do suben los tristes a aquella bienaventurada esperança que todos deseamos.» D. de S. Pedro, Serm. 1 (Cl. C. 133. 103). + «Quando el Condestable fue subido a lo alto de la cuesta ---, apeose de la mula en que yba.» Crón. Álv. de Luna, 28 (105). + «Atendiendo [Júpiter] tanta fieldat e firmeza subiose a Ercules en el çielo asi como estava, deificándolo.» Villena, Doze trabajos, 12 (p. 125).\n\n— Siglo XIV. + «Subió [Pero Fidalgo] de noche por mandado del Infante Don Pedro en una peña, que decían la peña negra.» Crón. Alf. XI, 16 (p. 38). + «Vos sodes el rey mejor | Que nunca sobió en siella.» Alf. XI, 1215 (p. 339). X «El quinto plazer oviste, | Quando al tu fijo viste | Sobir al çielo e diste | Graçias a Dios o sobía.» Arc. de Hita, (Cl. C. 14. 19). + «Tan ayna commo contastes estas palabras --- tan ayna me sobieron en coraçón, e creo que han de ser verdaderas.» Zifar 9 (p. 35).\n\n— Siglo XIII. + «Nuestro Ssennor Ihesu Cristo --- dixo, que quanto el grano de trigo ssouyese en tierra e non sse dannasse, que non leuaría ffructo.» Alf. X, Seten. ley 43 (p. 74). X «Quiero en esos árbores un ratiello sobir, | E de los sos miraclos algunos escrivir, | La Gloriosa me guíe que lo pueda complir, | Ca yo non me trevría en ello a venir.» Berc. Mil. (Cl. C. 44. 12).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. subire 'irse acercando a un lugar alto desde abajo'. Fr. subir.\n\n\u0000",
+  "etimologia": "Etim. Del lat. <i>subire</i> 'irse acercando a un lugar alto desde abajo'. Fr. <i>subir</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",

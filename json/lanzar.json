@@ -1,141 +1,174 @@
 {
   "lema": "LANZAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera: a) Etimológicamente, manejar la lanza o arrojarla con fuerza, b) en general, aplicado a armas arrojadizas, dispararlas, c) impeler con violencia una cosa, de modo que recorra una distancia, movida del impulso que ha recibido, arrojar (Despedir: ε; Referido a embarcaciones, Botar: ζ; Aplicado a carreras, Largar, efectuar:), d) echar, hacer salir (Dicho de las plantas, Echar, brotar: δ; Sembrar: δ,β β), e) introducir (Incorporar: ε), f) soltar, dejar libre, g) emitir, poner en circulación (Particularmente dicho de voces, ideas, juicios u opiniones, Pronunciar, proferir: ε; Despedir: ζ; Irradiar: η), h) particularmente referido a la mirada, dirigir, orientar, i) exhalar, j) arrojar violentamente por la boca lo contenido en el estómago, regurgitar, k) abalanzarse, particularmente para causar algún daño, l) precipitarse, dirigirse (Ocultarse: δ), m) entregarse, dedicarse a una cosa.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera: a) Etimológicamente, manejar la lanza o arrojarla con fuerza, b) en general, aplicado a armas arrojadizas, dispararlas, c) impeler con violencia una cosa, de modo que recorra una distancia, movida del impulso que ha recibido, arrojar (Despedir: ε; Referido a embarcaciones, Botar: ζ; Aplicado a carreras, Largar, efectuar:), d) echar, hacer salir (Dicho de las plantas, Echar, brotar: δ; Sembrar: δ,β β), e) introducir (Incorporar: ε), f) soltar, dejar libre, g) emitir, poner en circulación (Particularmente dicho de voces, ideas, juicios u opiniones, Pronunciar, proferir: ε; Despedir: ζ; Irradiar: η), h) particularmente referido a la mirada, dirigir, orientar, i) exhalar, j) arrojar violentamente por la boca lo contenido en el estómago, regurgitar, k) abalanzarse, particularmente para causar algún daño, l) precipitarse, dirigirse (Ocultarse: δ), m) entregarse, dedicarse a una cosa.",
   "acepciones": [
     {
       "id": "a)",
       "definicion": "Etimológicamente, Manejar la lanza o arrojarla con fuerza. Cfr. per. antecl.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "En general, aplicado a armas arrojadizas, Dispararlas (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Era tal la muchedumbre de saetas que lanzaban, que las sendas y el campo se veían cubiertos de ellas.»",
               "autor": "Quint.",
-              "referencia_obra": "Gran Capitán (R. 19. 2591). X"
+              "referencia_obra": "Gran Capitán (R. 19. 2591)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Quién lanzó la bala oficial que detuvo su carrera? ¿Partió de Buenos Aires o de Córdoba? La historia explicará este arcano.»",
               "autor": "D. F. Sarmiento",
               "referencia_obra": ", Facundo, intr. (p. 20)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con para, y una prop. infinitiva que señala el fin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Corta demostración hicieron contra ella [contra la ciudad], durante aquel día y el siguiente; contentándose con lanzar algunas armas arrojadizas para despejar la cima del muro.»",
                   "autor": "M. de la Rosa",
                   "referencia_obra": ", Is. de Solís, 2. 28 (4. 383)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con sobre, para señalar el blanco u objetivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Se acercó a los muros y lanzó sobre la ciudad toda clase de armas arrojadizas.»",
                   "autor": "Quint.",
                   "referencia_obra": "R. de Lauria (R. 19. 2202)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mas llegando junto al muro del tambo, la espesa nube de piedras que empezaron a lanzar sobre él, le desordenó los caballos.»",
                   "autor": "",
                   "referencia_obra": "Id. Pizarro (R. 19. 3462)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con tras, para indicar el objetivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Al ciervo en raudo curso fatigaba | Y el dardo volador tras él lanzaba.»",
                   "autor": "Quint.",
                   "referencia_obra": "Poes. La danza (R. 19. 141; Cl. C. 78. 124)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con sujeto de cosa. X",
+          "definicion": "Con sujeto de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«\"El arco de Saúl lanza la muerte, | Silban sus dardos y retiembla el suelo\".»",
               "autor": "Arolas",
               "referencia_obra": ", Poes. (Cl. C. 95. 39)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de. Además con contra.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«\"¡Socorro! ¿Quién nos ampara?\" | Gritó la dueña: en respuesta | Lanzó de sí mi ballesta | Contra el ladrón una jara.»",
                   "autor": "Hartz.",
                   "referencia_obra": "La jura en Santa Gadea, 1. 1 (Cl. C. 113. 142)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con sobre, para señalar el blanco. X",
+              "definicion": "Con sobre, para señalar el blanco.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El momento terrible había llegado: cien voces dijeron ¡fuego!, repitiendo como un eco infernal la del comandante, y la andanada lanzó cincuenta proyectiles sobre el navío inglés.»",
                   "autor": "P. Galdós",
                   "referencia_obra": "., Trafalgar, 11 (p. 105)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Absol. Con contra, para señalar el objetivo o blanco. X",
+          "definicion": "Absol. Con contra, para señalar el objetivo o blanco.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Vernon tiene más de siete hombres para lanzar contra cada uno de los defensores. El problema está en las piedras.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 2. 16 (p. 292)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Part. Con la prep. con, para señalar el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La saeta lanzada con ira pasa más allá del blanco; no le toca.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Espír. del siglo, 6. 10 (6. 58)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -143,66 +176,132 @@
     {
       "id": "c)",
       "definicion": "Impeler con violencia una cosa, de modo que recorra una distancia, movida del impulso que ha recibido, arrojar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con dat. X",
+          "definicion": "Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Iba contento sin haber bebido el zumo de hongos alucinógenos, creyeron en mi alucinación porque lancé confetis a las tumbas más aburridas.»",
               "autor": "Mejía Vallejo",
-              "referencia_obra": ", Y el mundo sigue, p. 221. — Además con a, para señalar el modo. X"
+              "referencia_obra": ", Y el mundo sigue, p. 221."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con a, para señalar el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«A veces le llevábamos papelitos escritos y se los lanzaban a la volada.»",
+                  "autor": "Vargas Llosa",
+                  "referencia_obra": ", Los cachorros, 2 (p. 53)."
+                }
+              ]
             },
             {
-              "texto_cita": "«A veces le llevábamos papelitos escritos y se los lanzaban a la volada.»",
-              "autor": "Vargas Llosa",
-              "referencia_obra": ", Los cachorros, 2 (p. 53). —met."
-            },
-            {
-              "texto_cita": "«Con voz atropellada y tartamuda lengua, lanzando vivo fuego por los ojos, dijo ---.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 46 (R. 1. 3852)."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Con voz atropellada y tartamuda lengua, lanzando vivo fuego por los ojos, dijo ---.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 1. 46 (R. 1. 3852)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para indicar: — el modo, y también el lugar.",
-              "ejemplos_citas": [
+              "definicion": "Con a, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Polvo en sí esparcieron, | Y al cielo le lanzaron a puñados.»",
-                  "autor": "León",
-                  "referencia_obra": ", Expos. de Job, 2 (1. 31). —La dirección. Además con un predicado referido al sujeto. X"
+                  "id_limpio": "—",
+                  "definicion": "el modo, y también el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Polvo en sí esparcieron, | Y al cielo le lanzaron a puñados.»",
+                      "autor": "León",
+                      "referencia_obra": ", Expos. de Job, 2 (1. 31)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Volvió a abrirse con rapidez la puerta de la trastienda, y apareció en ella el matón de nuevo, y blandiendo su largo cuchillo por la punta lo lanzó furioso a la cara de Leandro.»",
-                  "autor": "Baroja",
-                  "referencia_obra": ", La busca, 2. 8 (p. 112)."
+                  "id_limpio": "—",
+                  "definicion": "La dirección. Además con un predicado referido al sujeto.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Volvió a abrirse con rapidez la puerta de la trastienda, y apareció en ella el matón de nuevo, y blandiendo su largo cuchillo por la punta lo lanzó furioso a la cara de Leandro.»",
+                      "autor": "Baroja",
+                      "referencia_obra": ", La busca, 2. 8 (p. 112)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para señalar: — el medio.",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Hiere furioso con sencillos brazos, | Losas lanzando y rocas en pedazos.»",
-                  "autor": "Jáur.",
-                  "referencia_obra": "Fars. 6 (Fern. 7. 151). —El instrumento. Además con a, que indica el lugar. X"
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Hiere furioso con sencillos brazos, | Losas lanzando y rocas en pedazos.»",
+                      "autor": "Jáur.",
+                      "referencia_obra": "Fars. 6 (Fern. 7. 151)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Burlar de Sirio abrasador los fuegos, | Lanzando al viento los trillados granos | Con el dentado bieldo.»",
-                  "autor": "Mel.",
-                  "referencia_obra": "Poes. (Cl. C. 64. 287). — El modo. Además con en, para indicar el lugar. X"
+                  "id_limpio": "—",
+                  "definicion": "El instrumento. Además con a, que indica el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Burlar de Sirio abrasador los fuegos, | Lanzando al viento los trillados granos | Con el dentado bieldo.»",
+                      "autor": "Mel.",
+                      "referencia_obra": "Poes. (Cl. C. 64. 287)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Hasta que sacudiendo el Cristo de la caña el que la traía, lanzole con violencia en mitad de la hoguera.»",
-                  "autor": "Coloma",
-                  "referencia_obra": ", Jeromín, 1. 4 (p. 38)."
+                  "id_limpio": "—",
+                  "definicion": "El modo. Además con en, para indicar el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hasta que sacudiendo el Cristo de la caña el que la traía, lanzole con violencia en mitad de la hoguera.»",
+                      "autor": "Coloma",
+                      "referencia_obra": ", Jeromín, 1. 4 (p. 38)."
+                    }
+                  ]
                 }
               ]
             },
@@ -210,54 +309,75 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de, que indica el punto de partida. Además con por, para señalar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mas no por eso los demás que pueden emplearse en lo mismo, se deben tener por desobligados, ni deben por eso lanzar de las manos la pluma.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 1, introd. (3. 5)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con dentro de, para señalar el lugar. X",
+              "definicion": "Con dentro de, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Confiado en la bonança | Yo mismo me hice guerra; | Enbarqueme en esperança | Y en asomando al altura | Dentro del golfo me lança.»",
                   "autor": "Castillejo",
                   "referencia_obra": ", Obr. de amores (Cl. C. 79. 134)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Por qué no los apedreamos? ¿por qué no los lanzamos en este río?»",
                   "autor": "Sig.",
-                  "referencia_obra": "Vida de S. Jer. 4. 6 (p. 299). —Además con de, para señalar el punto de partida del movimiento. X"
-                },
+                  "referencia_obra": "Vida de S. Jer. 4. 6 (p. 299)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y al lanzarlo el verdugo en el vacío, | De lo alto de la horca, maniatado, | La faz adusta y el mirar sombrío, ---.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Antol. poética, p. 313."
+                  "id_limpio": "—",
+                  "definicion": "Además con de, para señalar el punto de partida del movimiento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y al lanzarlo el verdugo en el vacío, | De lo alto de la horca, maniatado, | La faz adusta y el mirar sombrío, ---.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Antol. poética, p. 313."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con sobre, para señalar el lugar. X",
+              "definicion": "Con sobre, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero al lanzarlos sobre la mesa, los atrapé de un golpe. —¡Canalla, estos dados son falsos!»",
                   "autor": "Rivera",
                   "referencia_obra": ", La vorágine, 1 (p. 61)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -265,133 +385,181 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con sujeto de cosa. Con a, para señalar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Muchas dellas se ahogaron sin que se supiese. Vínose a entender este daño, porque las hallaban a las riberas de los ríos, que el agua las lanzaba a la orilla.»",
               "autor": "M. de Chaide",
               "referencia_obra": ", Magd. 2. 10 (R. 27. 3122)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar el modo. X",
+              "definicion": "Con la prep. con, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No así veloz la piedra --- | Que lanzan los volcanes, | Con fieros estampidos | De sus cavernas sale.»",
                   "autor": "Vaca",
-                  "referencia_obra": ", Poes. himno (R. 61. 3252). — Además con en. X"
-                },
+                  "referencia_obra": ", Poes. himno (R. 61. 3252)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Poner en olvido | Las causas que lo hacen de mí ausente, | Que lanzan con violencia | El alma en fuego, el cuerpo en dura ausencia.»",
-                  "autor": "Cueva",
-                  "referencia_obra": ", Infantes de Lara (Cl. C. 60. 95)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Poner en olvido | Las causas que lo hacen de mí ausente, | Que lanzan con violencia | El alma en fuego, el cuerpo en dura ausencia.»",
+                      "autor": "Cueva",
+                      "referencia_obra": ", Infantes de Lara (Cl. C. 60. 95)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con dentro de, para señalar el lugar. X",
+              "definicion": "Con dentro de, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Una racha solía lanzar la lluvia dentro del corredor y aun azotarla contra la pared interna, como un baldazo.»",
                   "autor": "Barrios",
                   "referencia_obra": ", Gran señor y rajadiablos, p. 105."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la combinación de... en, para señalar el lugar. X",
+              "definicion": "Con la combinación de... en, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Todo acabó quizás, menos mi pena, | Puñal de doble filo; | Todo, menos la duda que nos lanza | De un abismo de horror en otro abismo.»",
                   "autor": "R. de Castro",
                   "referencia_obra": ", En las orillas del Sar (Cl. Castal. 90. 78)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, que señala el modo. X",
+              "definicion": "Con en, que señala el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Negro huracán que destrozando seres, | Los deja del pasado en la garganta; | Que del cieno a las cumbres nos levanta | Para después lanzarnos en turbión.»",
                   "autor": "E. Mejía",
                   "referencia_obra": ", Obr. complet. p. 73."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con por, para señalar el medio. Además con a, para indicar el modo. X",
+              "definicion": "Con por, para señalar el medio. Además con a, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Su alma, hinchándose cada año más peligrosamente, no cabía ya en su cuerpo y amenazaba en cualquier momento lanzar la inmundicia a chorros por las grietas.»",
                   "autor": "Sábato",
                   "referencia_obra": ", Sobre héroes y tumbas, p. 17."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Refl. Con desde. X",
+              "definicion": "Refl. Con desde.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«José me condujo al río y me habló de sus siembras y cacerías, mientras yo me sumergía en el remanso diáfano desde el cual se lanzaban las aguas formando una pequeña cascada.»",
                   "autor": "Isaacs",
                   "referencia_obra": ", María, p. 29."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. Con por, para señalar el agente. Además con a, para indicar el lugar. X",
+          "definicion": "Pas. Con por, para señalar el agente. Además con a, para indicar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mas no hay tregua para la duda; la barca ya es lanzada a las estrellas o ya sepultada en el abismo por el mar tempestuoso.»",
               "autor": "Cascales",
-              "referencia_obra": ", Cartas filológ. 2. 10 (Cl. C. 117. 276). — Además con de, para indicar el modo, y desde para señalar el punto de partida. X"
-            },
+              "referencia_obra": ", Cartas filológ. 2. 10 (Cl. C. 117. 276)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Los caballos villistas eran lanzados por sus jinetes de boca, verticalmente, desde el tope del cañón en un descenso suicida.»",
-              "autor": "Fuentes",
-              "referencia_obra": ", Obr. complet. (1. 1260)."
+              "id_limpio": "—",
+              "definicion": "Además con de, para indicar el modo, y desde para señalar el punto de partida.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Los caballos villistas eran lanzados por sus jinetes de boca, verticalmente, desde el tope del cañón en un descenso suicida.»",
+                  "autor": "Fuentes",
+                  "referencia_obra": ", Obr. complet. (1. 1260)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de... a, para señalar los límites de la acción. X",
+              "definicion": "Con de... a, para señalar los límites de la acción.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Impulso de inercia de la fuerza adquirida cuando somos lanzados de lo alto a la escena del mundo.»",
                   "autor": "Rodó",
                   "referencia_obra": ", Motivos de Proteo, p. 149."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para señalar el lugar. X",
+              "definicion": "Con en, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cessó toda aquella tormenta, y el navío en que ivan fue lançado en un puerto no muy lexos de donde avían de tomar el camino.»",
                   "autor": "Ortúñez de Calahorra",
                   "referencia_obra": ", Espejo, 1 (Cl. C. 193. 226)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -399,26 +567,47 @@
           "id_marcador_html": "—δ )",
           "id_limpio": "—δ )",
           "definicion": "Part. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El uno que surgía | Alegre ya en el puerto, salteado | De bravo soplo, guía | En alto mar lanzado | Apenas el navío desarmado.»",
               "autor": "León",
               "referencia_obra": ", Poes. 1. i Oh ya seguro puerto! (4. 321)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y nacer muy hijo de mujer, no es el mal ordinario, sino mal en hábito, y mal lanzado en los huesos.»",
               "autor": "León",
-              "referencia_obra": ", Expos. de Job, 25 (2. 51). —met. X"
+              "referencia_obra": ", Expos. de Job, 25 (2. 51)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Vi --- a cuanto hombre podía influir en el ánimo de Benavídez, para que lo contuviesen, si era posible, en la pendiente en que yo lo veía lanzado; el despotismo, el caudillaje, el trastorno de todos los fundamentos en que reposan las sociedades.»",
+                  "autor": "D. F. Sarmiento",
+                  "referencia_obra": ", Recuerdos de Prov. p. 138."
+                }
+              ]
             },
             {
-              "texto_cita": "«Vi --- a cuanto hombre podía influir en el ánimo de Benavídez, para que lo contuviesen, si era posible, en la pendiente en que yo lo veía lanzado; el despotismo, el caudillaje, el trastorno de todos los fundamentos en que reposan las sociedades.»",
-              "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Prov. p. 138. — Además con desde, para señalar el punto de partida. X"
-            },
-            {
-              "texto_cita": "«Las sorpresas del mundo,| Lanzadas desde lejos | Sobre ti, como olas, | En mansa espuma blanca | A los pies se te quiebran.»",
-              "autor": "Salinas",
-              "referencia_obra": ", Razón (Cl. Castal. 2. 131)."
+              "id_limpio": "—",
+              "definicion": "Además con desde, para señalar el punto de partida.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Las sorpresas del mundo,| Lanzadas desde lejos | Sobre ti, como olas, | En mansa espuma blanca | A los pies se te quiebran.»",
+                  "autor": "Salinas",
+                  "referencia_obra": ", Razón (Cl. Castal. 2. 131)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -427,57 +616,70 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "En los siguientes ejemplos, Despedir. Con por, para indicar el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Llamas lanza de fuego por la boca.»",
               "autor": "Hojeda",
-              "referencia_obra": ", Crist. 9 (R. 17. 4691). X"
+              "referencia_obra": ", Crist. 9 (R. 17. 4691)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Lanzando [el herido] por la boca una onda negruzca, desplomose.»",
               "autor": "Larreta",
               "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 231)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "En el siguiente texto, referido a embarcaciones, Botar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Unos a otros a voces se animaban | A aparejar solícitos las naves | Para lanzarlas a la mar inmensa.»",
               "autor": "",
               "referencia_obra": "Hermosilla, Iliada. 2 (1. 39)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
-          "definicion": "Aplicado a carreras, Largar, efectuar. Impers. Con al fin, para indicar el tiempo. X",
+          "definicion": "Aplicado a carreras, Largar, efectuar. Impers. Con al fin, para indicar el tiempo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Al fin se lanzó la semifinal de ochocientos metros. Yo nunca en mi vida había visto correr así.»",
               "autor": "Mallea",
               "referencia_obra": ", Los Rembrandts, (p. 108."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
-          "definicion": "Loc. Lanzar el guante: desafiar a duelo. X",
+          "definicion": "Loc. Lanzar el guante: desafiar a duelo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Desde hoy más, | Una vez lanzado el guante, | Te juro que iré adelante.»",
               "autor": "García Gutiérrez",
               "referencia_obra": ", Juan Lorenzo, 2 (Cl. C. 65. 220)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -485,111 +687,144 @@
     {
       "id": "d)",
       "definicion": "Echar, hacer salir (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ello es un recio martirio sabroso, pues todo lo que se le puede representar a el alma de la tierra, aunque sea lo que le suele ser más sabroso, ninguna cosa admite, luego parece lo lanza de sí.»",
               "autor": "Sta. Ter.",
               "referencia_obra": "Vida, 20 (R. 53. 652)."
             },
             {
+              "marca": "",
               "texto_cita": "«Porque si cuando el pensamiento se levanta, acude luego con el temor de Dios, o con la representación y memoria de Cristo crucificado, y lo lanza de sí, aquí no hay pecado, sino merecimiento.»",
               "autor": "Gran.",
               "referencia_obra": "Orac. y consid. 2. 3, § 3 (R. 8. 1152)."
             },
             {
+              "marca": "",
               "texto_cita": "«Curaron [los santos] las enfermedades, lanzaron los demonios, vencieron la muerte.»",
               "autor": "",
               "referencia_obra": "Id. ib. 3. 1. 2, § 2 (R. 8. 1732)."
             },
             {
+              "marca": "",
               "texto_cita": "«Andaba por la tierra lanzando los demonios.»",
               "autor": "",
               "referencia_obra": "Id. Símb. 5. 3. 18, §2 (R. 6. 7062)."
             },
             {
+              "marca": "",
               "texto_cita": "«Trasíbulo, lanzando al espartano, | No el vicio y la maldad lanzó de Atenas.»",
               "autor": "Lista",
               "referencia_obra": ", son. 4 (R. 67. 3151)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el medio. X",
+              "definicion": "Con la prep. con, para indicar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Muchos me dirán el día del juicio, Señor, ¿No es assí que profetizamos en tu nombre, y con tu virtud lanzamos los demonios, y obramos grandes maravillas?»",
                   "autor": "Valverde",
                   "referencia_obra": ", Vida de Christo, 3. 16 (Dicc. Autor.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de, para señalar el punto de partida u origen.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Lo cual es imitar la falsa justicia de los fariseos, y ser aquel tibio del Apocalipsis, que Dios alanza de su boca.»",
                   "autor": "",
                   "referencia_obra": "Gran. Orac. y consid. 1, lunes en la noche (R. 8. 241)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En diversos encuentros desbarataron los moros, y los corrieron por toda la tierra hasta lanzarlos de aquella isla.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 9. 14 (R. 30. 2632). X"
+                  "referencia_obra": ", Hist. Esp. 9. 14 (R. 30. 2632)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Lanzó violentamente de sus fauces el buío todo aquel trozo de caimán engullido, el cual ya estaba muerto; pero el buío dio mucho que hacer.»",
                   "autor": "Gumilla",
                   "referencia_obra": ", Orinoco, 2. 14 (p. 379)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Sancho II --- lanzó de Toro a Elvira, y puso sitio sobre Zamora.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Cid (R. 19. 2042). X"
+                  "referencia_obra": "Cid (R. 19. 2042)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ved que ya tarda el sucesor guerrero | Del gran Camilo, a quien el hado fía | Lanzar de aquí los galos insolentes | Y el ámbito lustrar de nuestros lares.»",
                   "autor": "",
                   "referencia_obra": "Id. Poes. (Cl. C. 78. 108)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ya los confederados, perdida la esperanza de forzar a su enemigo al combate, o de lanzarle del puesto que ocupaba, movieron su campo con dirección a Neobourg.»",
                   "autor": "",
                   "referencia_obra": "Id. Obr. inéd. p. 155."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Envió un batallón para que lanzase a sus individuos [de la junta de Asturias] de la sala capitular, do estaban congregados.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Def. de la Junta Central, 2. 2 (R. 46. 5452)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El mundo insano | Herviendo en fraudes, del regazo impuro | Las lanzó [las virtudes], y en su templo al odio impío | Estatuas levantó.»",
                   "autor": "Reinoso",
-                  "referencia_obra": ", epíst. 2 (R. 67. 2281). — Además con la prep. con, para indicar el modo."
-                },
+                  "referencia_obra": ", epíst. 2 (R. 67. 2281)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Con veloz furor pujante | De la cerrada plaza los lanzaron.»",
-                  "autor": "Erc.",
-                  "referencia_obra": "Arauc. 11 (R. 17. 461)."
-                },
-                {
-                  "texto_cita": "«¿No vendrá el día en que la adusta guerra | Tengan en odio, y bárbaro apelliden | Y enemigo común, al que atizare | De nuevo su furor, y le persigan, | Y con horror le lancen de su seno?»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "epíst. a Mor. (R. 46. 471)."
-                },
-                {
-                  "texto_cita": "«¿Puedes negarme que estalló en su nombre | La rebelión que de mi trono augusto | Con furor me lanzó?»",
-                  "autor": "Hartz.",
-                  "referencia_obra": "Alfonso el Casto, 3. 5 (p. 77)."
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, para indicar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Con veloz furor pujante | De la cerrada plaza los lanzaron.»",
+                      "autor": "Erc.",
+                      "referencia_obra": "Arauc. 11 (R. 17. 461)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«¿No vendrá el día en que la adusta guerra | Tengan en odio, y bárbaro apelliden | Y enemigo común, al que atizare | De nuevo su furor, y le persigan, | Y con horror le lancen de su seno?»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "epíst. a Mor. (R. 46. 471)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«¿Puedes negarme que estalló en su nombre | La rebelión que de mi trono augusto | Con furor me lanzó?»",
+                      "autor": "Hartz.",
+                      "referencia_obra": "Alfonso el Casto, 3. 5 (p. 77)."
+                    }
+                  ]
                 }
               ]
             },
@@ -597,28 +832,49 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con fuera de, para indicar el lugar de destino.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Al fin de tal manera los trataron | Que fuera de los muros los lanzaron.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 2 (R. 17. 112)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con por, para señalar: — el modo.",
-              "ejemplos_citas": [
+              "definicion": "Con por, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Se pusieron a punto para combatir aquellas torres y lanzar por fuerza a los que en ellas estaban.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 12. 17 (R. 30. 3662). — El lugar. X"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Se pusieron a punto para combatir aquellas torres y lanzar por fuerza a los que en ellas estaban.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 12. 17 (R. 30. 3662)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Es de suponer cómo serían las acusaciones y sentencias de ese gobierno, que lanzaba por el mundo a los perseguidos de su injusticia.»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 2 (p. 87)."
+                  "id_limpio": "—",
+                  "definicion": "El lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Es de suponer cómo serían las acusaciones y sentencias de ese gobierno, que lanzaba por el mundo a los perseguidos de su injusticia.»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños, 2 (p. 87)."
+                    }
+                  ]
                 }
               ]
             },
@@ -626,31 +882,60 @@
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Pas. Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ya que tenían ganada buena parte de aquella villa, fueron lanzados por el valor y esfuerzo de los soldados que dentro tenía.»",
                   "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 15. 4 (R. 30. 4342). — Además con de... en, para indicar los puntos de partida y de llegada."
+                  "referencia_obra": ", Hist. Esp. 15. 4 (R. 30. 4342)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con de... en, para indicar los puntos de partida y de llegada.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Por esta causa fue lanzado [el hombre] del paraíso en el destierro deste mundo.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Guía, 1. 4 (R. 6. 232)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Por esta causa fue lanzado [el hombre] del paraíso en el destierro deste mundo.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Guía, 1. 4 (R. 6. 232). — Con de, para señalar el punto de partida."
+                  "id_limpio": "—",
+                  "definicion": "Con de, para señalar el punto de partida.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«\"Lanzados fuimos del celeste imperio\".»",
+                      "autor": "Reinoso",
+                      "referencia_obra": ", La inocencia perd. p. 3."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En los mismos días en que las muchedumbres soberanas obraron como obraron, y en que el arzobispo, desamparado de las autoridades, era lanzado de su sede, ---.»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños, 1 (p. 129)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«\"Lanzados fuimos del celeste imperio\".»",
-                  "autor": "Reinoso",
-                  "referencia_obra": ", La inocencia perd. p. 3. X"
-                },
-                {
-                  "texto_cita": "«En los mismos días en que las muchedumbres soberanas obraron como obraron, y en que el arzobispo, desamparado de las autoridades, era lanzado de su sede, ---.»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 1 (p. 129). — Además con en vano, que indica el modo."
-                },
-                {
-                  "texto_cita": "«Lanzado en vano | Fue de Castilla el árabe inclemente, | Si otro opresor más pérfido y tirano | Prepara el yugo a su infelice frente.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Poes. A Padilla (R. 19. 32; Cl. C. 78. 69)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en vano, que indica el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Lanzado en vano | Fue de Castilla el árabe inclemente, | Si otro opresor más pérfido y tirano | Prepara el yugo a su infelice frente.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Poes. A Padilla (R. 19. 32; Cl. C. 78. 69)."
+                    }
+                  ]
                 }
               ]
             }
@@ -659,26 +944,32 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con sujeto de cosa. X",
+          "definicion": "Con sujeto de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En vano el abril florido, | Lanzando al áspero invierno, | Ríe a la tierra, y la alfombra | De galas y verdor nuevos.»",
               "autor": "Mel.",
               "referencia_obra": "Poes. (Cl. C. 64. 234)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para señalar el lugar o destino. X",
+              "definicion": "Con de, para señalar el lugar o destino.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Escudo viste de acero, | En que los golpes espera: | No desmaya de ligero, | Porqu'el amor verdadero | Al temor lança defuera.»",
                   "autor": "Castillejo",
                   "referencia_obra": ", Obr. de amores (Cl. C. 79. 70)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -686,21 +977,34 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con acus. de cosa. Con de, para señalar el punto de partida u origen.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y luego verás cómo el humo de la devoción que de ahí sale, basta para alanzar de tu ánima todas las pasiones y molestias del enemigo.»",
               "autor": "Gran.",
               "referencia_obra": "Orac. y consid. 3. 1. 1, § 4 (R. 8. 1701)."
             },
             {
+              "marca": "",
               "texto_cita": "«El mujeril temor de sí lanzando --- | Toman de los ya muertos las espadas.»",
               "autor": "Erc.",
-              "referencia_obra": "Arauc. 10 (R. 17. 401). — Además con la prep. con, que indica la causa o motivo. X"
-            },
+              "referencia_obra": "Arauc. 10 (R. 17. 401)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Ya bien puedo | Lançar de mí todo el miedo | Con tan cierta relación, | Pues me sacó de prisión | El gran César con su dedo.»",
-              "autor": "Lz. de Yanguas",
-              "referencia_obra": ", Obr. dramát. (Cl. C. 162. 92)."
+              "id_limpio": "—",
+              "definicion": "Además con la prep. con, que indica la causa o motivo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Ya bien puedo | Lançar de mí todo el miedo | Con tan cierta relación, | Pues me sacó de prisión | El gran César con su dedo.»",
+                  "autor": "Lz. de Yanguas",
+                  "referencia_obra": ", Obr. dramát. (Cl. C. 162. 92)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -709,37 +1013,46 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Dicho de las plantas, Echar, brotar. Calificado de galicismo por el P. Mir. Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Lanzará [el árbol] las raíces tan hondas cuanto levantare en alto las ramas.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 8 (1. 146)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con en, para indicar la dirección.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Cuanto lanza [él árbol] las raíces más en lo hondo, tanto en lo alto crece y sube más por el aire.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 1, Monte (3. 83)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "En el siguiente ejemplo, Sembrar. met. X",
+              "definicion": "En el siguiente ejemplo, Sembrar. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Todos los ambientes eran propicios para lanzar la nueva semilla de la Sociedad.»",
                   "autor": "Gómez de la Serna",
                   "referencia_obra": ", Cab. del hongo gris, p. 92."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -748,49 +1061,89 @@
     {
       "id": "e)",
       "definicion": "Introducir (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con debajo de, para señalar el lugar. Además con porque, y una prop. subjuntiva para indicar el fin. X",
+          "definicion": "Con debajo de, para señalar el lugar. Además con porque, y una prop. subjuntiva para indicar el fin.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Lançó la cabeça debajo del agua porque no fuese visto y juntose con la nao allí donde stá el timón.»",
               "autor": "",
               "referencia_obra": "Tirante el Blanco, 2 (Cl. C. 189. 42)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, que señala: — el fin que se persigue. met. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, que señala:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No creían que la revolución de independencia debiera llevarse hasta romper por completo con las tradiciones coloniales para lanzarse en el mar de las especulaciones políticas en busca de la República de Utopía.»",
-                  "autor": "Martínez Silva",
-                  "referencia_obra": ", Ensayos, p. 45. X"
+                  "id_limpio": "—",
+                  "definicion": "el fin que se persigue. met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«No creían que la revolución de independencia debiera llevarse hasta romper por completo con las tradiciones coloniales para lanzarse en el mar de las especulaciones políticas en busca de la República de Utopía.»",
+                      "autor": "Martínez Silva",
+                      "referencia_obra": ", Ensayos, p. 45."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«En realidad se apresuraba por agotar el tema, por lanzarse en el torbellino de sus propias cuestiones, de sus asuntos predilectos.»",
+                      "autor": "Mallea",
+                      "referencia_obra": ", El vínculo, p. 55."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«En realidad se apresuraba por agotar el tema, por lanzarse en el torbellino de sus propias cuestiones, de sus asuntos predilectos.»",
-                  "autor": "Mallea",
-                  "referencia_obra": ", El vínculo, p. 55. — Además con sin, que indica carencia."
+                  "id_limpio": "—",
+                  "definicion": "Además con sin, que indica carencia.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Aquí también de camino queda reprendida nuestra loca osadía y vana confianza, en lanzarnos tan sin méritos y tan sin las buenas partes que se requieren en tan altos y celestiales ministerios.»",
+                      "autor": "Sig.",
+                      "referencia_obra": "Vida de S. Jer. 2. 2 (p. 88)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Aquí también de camino queda reprendida nuestra loca osadía y vana confianza, en lanzarnos tan sin méritos y tan sin las buenas partes que se requieren en tan altos y celestiales ministerios.»",
-                  "autor": "Sig.",
-                  "referencia_obra": "Vida de S. Jer. 2. 2 (p. 88). — El lugar."
+                  "id_limpio": "—",
+                  "definicion": "El lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Huyendo del vivir tendrá por bueno | Que el áspide le beba sangre y vida, | O lance en él la víbora el veneno.»",
+                      "autor": "León",
+                      "referencia_obra": ", Expos. de Job, 20 (4. 319)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Huyendo del vivir tendrá por bueno | Que el áspide le beba sangre y vida, | O lance en él la víbora el veneno.»",
-                  "autor": "León",
-                  "referencia_obra": ", Expos. de Job, 20 (4. 319). — Además con por, para indicar el medio. X"
-                },
-                {
-                  "texto_cita": "«Que son muy eficaces contraveneno: y suelen hacer que a vista de ojos lo lancen por la boca.»",
-                  "autor": "",
-                  "referencia_obra": "Ov. Hist. de Chile, 8. 2 (Dicc. Autor.)."
+                  "id_limpio": "—",
+                  "definicion": "Además con por, para indicar el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Que son muy eficaces contraveneno: y suelen hacer que a vista de ojos lo lancen por la boca.»",
+                      "autor": "",
+                      "referencia_obra": "Ov. Hist. de Chile, 8. 2 (Dicc. Autor.)."
+                    }
+                  ]
                 }
               ]
             }
@@ -799,53 +1152,80 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. Con en, para señalar el lugar. Además con la prep. con, para indicar el modo. X",
+          "definicion": "Prnl. Con en, para señalar el lugar. Además con la prep. con, para indicar el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Antes que la princessa llegasse, con acelerada corrida se lançó en el río todo lo demás que pudo.»",
               "autor": "Ortúñez de Calahorra",
               "referencia_obra": ", Espejo, 1 (Cl. C. 193. 109)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Una gota de agua, por sí tomada, no es más que una gota de agua; mas lanzada en un gran vaso de vino, toma otro más noble ser, y hácese vino.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 6. 5, § 6 (R. 8. 3412)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "En los siguientes ejemplos, Incorporar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y el corazón humano --- lanzado en el gusto de estos bienes sensibles, dentro de sí se abraza, y se casa o amanceba con ellos.»",
               "autor": "León",
-              "referencia_obra": ", Expos. de Job, 1 (1.9). — Con a, para señalar el asunto."
+              "referencia_obra": ", Expos. de Job, 1 (1.9)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Con a, para señalar el asunto.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Las revoluciones que estallaron desde principios del presente [siglo], separando a nuestros mejores ingenios del campo de la literatura para lanzarlos al de la guerra y de la política.»",
+                  "autor": "Gil y Zárate",
+                  "referencia_obra": ", Resum. histór. p. 632."
+                }
+              ]
             },
             {
-              "texto_cita": "«Las revoluciones que estallaron desde principios del presente [siglo], separando a nuestros mejores ingenios del campo de la literatura para lanzarlos al de la guerra y de la política.»",
-              "autor": "Gil y Zárate",
-              "referencia_obra": ", Resum. histór. p. 632. — Con en, para señalar el lugar."
-            },
-            {
-              "texto_cita": "«Con lo cual se hace a sí más digno de ser oído, y como sin sentir, se lanza en los sentidos de los oyentes.»",
-              "autor": "León",
-              "referencia_obra": ", Expos. de Job, 32 (2. 144)."
-            },
-            {
-              "texto_cita": "«El regir Cristo a los suyos y llevarlos al pasto, no es otra cosa sino hacer que se lance en ellos, y que se embeba y que se incorpore su vida.»",
-              "autor": "León",
-              "referencia_obra": ", Nomb. 1, Pastor (3. 76)."
+              "id_limpio": "—",
+              "definicion": "Con en, para señalar el lugar.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Con lo cual se hace a sí más digno de ser oído, y como sin sentir, se lanza en los sentidos de los oyentes.»",
+                  "autor": "León",
+                  "referencia_obra": ", Expos. de Job, 32 (2. 144)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«El regir Cristo a los suyos y llevarlos al pasto, no es otra cosa sino hacer que se lance en ellos, y que se embeba y que se incorpore su vida.»",
+                  "autor": "León",
+                  "referencia_obra": ", Nomb. 1, Pastor (3. 76)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -853,37 +1233,46 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Prnl. Con en, para señalar el campo o asunto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Dábanle mucha priesa --- los herejes para que se diese por arriano. Sabían éstos que era imposible lanzarle en esto de golpe y abiertamente.»",
                   "autor": "Sig.",
                   "referencia_obra": "Vida de S. Jer. 3. 3 (p. 151)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Part. Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«O es envidia, o presunción, o confianza de sí, o vanidad lanzada en los tuétanos, o no curable ceguedad, o por acertar mejor, todo junto.»",
                   "autor": "León",
                   "referencia_obra": ", Apolog. Obr. Sta. Ter. (4. 222)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Part. adj. En comparativo, con valor ponderativo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Está [Dios] tan presente a todas las cosas, y tan lanzado como si dijésemos en sus entrañas, y tan infundido y tan íntimo como está su ser de ellas mesmas.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 1, introd. § 2 (3. 19)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -892,45 +1281,56 @@
     {
       "id": "f)",
       "definicion": "Soltar, dejar libre (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Úsase mucho en volatería, hablando de las aves. X",
+          "definicion": "Úsase mucho en volatería, hablando de las aves.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No era raro ver a las matronas --- más varoniles y arriscadas bajar de sus catafalcos a lanzar los halcones.»",
               "autor": "Jovell.",
               "referencia_obra": "(Pagés, Dicc.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Absol. X",
+          "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los perros vayan cabe él, y que no se aparten mucho quando quisieren lanzar.»",
               "autor": "",
               "referencia_obra": "Vall. Cetrer. 1. 16 (Dicc. Autor.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con por, para señalar el lugar. Además con a y una prop. infinitiva, que indica la finalidad. X",
+          "definicion": "Part. Con por, para señalar el lugar. Además con a y una prop. infinitiva, que indica la finalidad.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Blancas palomas lanzadas por los aires a llevar urbi et orbi la fama eterna de aquel día inolvidable.»",
               "autor": "Blest Gana",
               "referencia_obra": ", El loco Estero, p. 114."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -938,228 +1338,385 @@
     {
       "id": "g)",
       "definicion": "Emitir, poner en circulación (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No se halla [en la biblioteca de D. Quijote] ni uno solo de tantos Cancioneros de Romances, Silvas, Rosas, Flores y demás Romanceros como entonces lanzaban las prensas y estaban más de moda aún que la novela pastoril.»",
               "autor": "Mndz. Pidal",
               "referencia_obra": ", Miscelánea hist.-lit. p. 22."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar el modo. X",
+              "definicion": "Con la prep. con, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con un sentido italiano de tarjeta postal, el gobierno nicaragüense lanzó una estampilla de correos en que aparece al fondo el volcán como un Vesubio, y al pie, el lago y el ferrocarril.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 4. 27 (p. 424)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. Con a, para señalar el campo. X",
+          "definicion": "Pas. refl. Con a, para señalar el campo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«He salido de la Bolsa cuando se lanzaban al mercado cuatro mil acciones más.»",
               "autor": "Casona",
               "referencia_obra": ", La barca sin pescador, p. 98."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. con a. Además con desde, para indicar el medio de divulgación. X",
+          "definicion": "Part. con a. Además con desde, para indicar el medio de divulgación.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Queda su carta lanzada a todos los cuatro vientos de la publicidad, desde este diario.»",
               "autor": "Rueda Vargas",
               "referencia_obra": ", Lentus in umbra, p. 248."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. adj. X",
+          "definicion": "Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Celebro aulas sagradas, | Antes, modas lanzadas, | Y las damas pintadas | Y los maîtres d'hôtel.»",
               "autor": "Darío",
               "referencia_obra": ", Poes. p. 421."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Particularmente dicho de voces, ideas, juicios u opiniones, Pronunciar, proferir.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Conmovido | Al llanto del opreso, de la viuda | Y huérfano inocente, presumiera | Lanzar acentos dulces.»",
               "autor": "Jovell.",
-              "referencia_obra": "epíst. a sus amigos de Salam. (R. 46. 372). X"
+              "referencia_obra": "epíst. a sus amigos de Salam. (R. 46. 372)."
             },
             {
+              "marca": "X",
               "texto_cita": "«A tiempo llega el aviso. | — Confirma tú la sentencia | Que justo lanzó el Amir.»",
               "autor": "Hartz.",
               "referencia_obra": "Los amantes de Teruel (Cl. Ebro, 53. 96)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mi vanidad expío. | — Lanza esas melancólicas ideas.»",
               "autor": "",
-              "referencia_obra": "Id. Primero yo, 1. 8 (p. 93). X"
+              "referencia_obra": "Id. Primero yo, 1. 8 (p. 93)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De repente lanzó Perú un grito de alegría, y, bajando a escape a la plaza, sacó a Mari-Pepa al corro.»",
               "autor": "Trueba",
-              "referencia_obra": ", Breve antol. p. 141. X"
+              "referencia_obra": ", Breve antol. p. 141."
             },
             {
+              "marca": "X",
               "texto_cita": "«A lanzar iba la primera palabra, cuando el presidente, pluma en mano, me interrumpió diciéndome: ---.»",
               "autor": "Pereda",
-              "referencia_obra": ", Pedro Sánchez (Cl. C. 145. 126). X"
+              "referencia_obra": ", Pedro Sánchez (Cl. C. 145. 126)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los gritos que lanza el salvaje se vuelven pronto monosilábicos y representan en su mente nombres de objetos.»",
               "autor": "Nervo",
-              "referencia_obra": ", Obr. (2. 83). X"
+              "referencia_obra": ", Obr. (2. 83)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Una mañana, mientras podaban las rosas, Fernanda lanzó un grito de espanto e hizo quitar a Meme del lugar en que estaba, y que era el mismo del jardín donde subió a los cielos Remedios, la bella.»",
               "autor": "García Márquez",
-              "referencia_obra": ", Cien años de soledad, p. 263. — El acus. se presenta en estilo directo. X"
+              "referencia_obra": ", Cien años de soledad, p. 263."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "El acus. se presenta en estilo directo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Filomena lanzó un Ay! de horror, e instintivamente se tapó la cara con la colcha, chillando.»",
+                  "autor": "Carrasquilla",
+                  "referencia_obra": ", Frutos, 18 (p. 206)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Filomena lanzó un Ay! de horror, e instintivamente se tapó la cara con la colcha, chillando.»",
-              "autor": "Carrasquilla",
-              "referencia_obra": ", Frutos, 18 (p. 206). — Con dat. X"
+              "id_limpio": "—",
+              "definicion": "Con dat.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Y a poder de exorcismos se descubrieron dos medios renglones, que iban en hábito de Pacuvios, y le lanzamos los obsoletos, como los espíritus.»",
+                  "autor": "Quev.",
+                  "referencia_obra": "Obr. sat. festiv. (Cl. C. 56. 154)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Y a poder de exorcismos se descubrieron dos medios renglones, que iban en hábito de Pacuvios, y le lanzamos los obsoletos, como los espíritus.»",
-              "autor": "Quev.",
-              "referencia_obra": "Obr. sat. festiv. (Cl. C. 56. 154). — Con a, para señalar: — el medio. X"
+              "id_limpio": "—",
+              "definicion": "Con a, para señalar:",
+              "marca": "",
+              "ejemplos_citas": []
             },
             {
-              "texto_cita": "«A Oro le ocurrió lanzar a la circulación una buena idea, y el terror pánico se asió de ella como de la única tabla de salvación.»",
-              "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Prov. p. 59. — El motivo. Además con una prop. en gerundio que indica el asunto. X"
+              "id_limpio": "—",
+              "definicion": "el medio.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«A Oro le ocurrió lanzar a la circulación una buena idea, y el terror pánico se asió de ella como de la única tabla de salvación.»",
+                  "autor": "D. F. Sarmiento",
+                  "referencia_obra": ", Recuerdos de Prov. p. 59."
+                }
+              ]
             },
             {
-              "texto_cita": "«¿Falló por igual delito | La muerte de Gil Quiñones? | Un grito lanzó Valencia | Al saber esta noticia, | Rechazando la injusticia | De la desigual sentencia.»",
-              "autor": "García Gutiérrez",
-              "referencia_obra": ", Juan Lorenzo (Cl. C. 6 5. 222). — El tiempo. X"
+              "id_limpio": "—",
+              "definicion": "El motivo. Además con una prop. en gerundio que indica el asunto.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«¿Falló por igual delito | La muerte de Gil Quiñones? | Un grito lanzó Valencia | Al saber esta noticia, | Rechazando la injusticia | De la desigual sentencia.»",
+                  "autor": "García Gutiérrez",
+                  "referencia_obra": ", Juan Lorenzo (Cl. C. 6 5. 222)."
+                }
+              ]
             },
             {
-              "texto_cita": "«A los diez días de su proclamación [Alejandro IV] lanzó la bula que les abrió de nuevo el camino [a los dominicanos] para regir los destinos de la Universidad.»",
-              "autor": "Arciniegas",
-              "referencia_obra": ", Estud. mesa redonda, 1 (p. 25). — Con la prep. con, para señalar el modo. Además con hacia, para indicar la dirección. X"
+              "id_limpio": "—",
+              "definicion": "El tiempo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«A los diez días de su proclamación [Alejandro IV] lanzó la bula que les abrió de nuevo el camino [a los dominicanos] para regir los destinos de la Universidad.»",
+                  "autor": "Arciniegas",
+                  "referencia_obra": ", Estud. mesa redonda, 1 (p. 25)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Hubiera querido lanzar, con toda su voz, hacia la luna, el grito de guerra de sus mayores.»",
-              "autor": "Larreta",
-              "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 231). — Con contra. Además con de, para señalar el modo. X"
+              "id_limpio": "—",
+              "definicion": "Con la prep. con, para señalar el modo. Además con hacia, para indicar la dirección.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Hubiera querido lanzar, con toda su voz, hacia la luna, el grito de guerra de sus mayores.»",
+                  "autor": "Larreta",
+                  "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 231)."
+                }
+              ]
             },
             {
-              "texto_cita": "«¡Triste! perdón demandarás en vano; | Que contra ti de cólera encendido | Lanzó su maldición Dios soberano.»",
-              "autor": "Espronc.",
-              "referencia_obra": "Poes. (Cl. Castal. 20. 119). — Además con en medio de, para señalar la ocasión. X"
+              "id_limpio": "—",
+              "definicion": "Con contra. Además con de, para señalar el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«¡Triste! perdón demandarás en vano; | Que contra ti de cólera encendido | Lanzó su maldición Dios soberano.»",
+                  "autor": "Espronc.",
+                  "referencia_obra": "Poes. (Cl. Castal. 20. 119)."
+                }
+              ]
             },
             {
-              "texto_cita": "«En medio de la anarquía, los conservadores aprovechan esta oportunidad para lanzar invectivas contra la democracia, la federación y la república.»",
-              "autor": "Arciniegas",
-              "referencia_obra": ", Biogr. del Caribe, 4. 22 (p. 365). — Con de, que señala el medio de enunciación. X"
+              "id_limpio": "—",
+              "definicion": "Además con en medio de, para señalar la ocasión.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«En medio de la anarquía, los conservadores aprovechan esta oportunidad para lanzar invectivas contra la democracia, la federación y la república.»",
+                  "autor": "Arciniegas",
+                  "referencia_obra": ", Biogr. del Caribe, 4. 22 (p. 365)."
+                }
+              ]
             },
             {
-              "texto_cita": "«El segundón, teniendo en el aire sus manos crispadas por el ansia fratricida, lanzó de su boca fiero torrente de insultos y amenazas.»",
-              "autor": "Larreta",
-              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 69). — Con en."
+              "id_limpio": "—",
+              "definicion": "Con de, que señala el medio de enunciación.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«El segundón, teniendo en el aire sus manos crispadas por el ansia fratricida, lanzó de su boca fiero torrente de insultos y amenazas.»",
+                  "autor": "Larreta",
+                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 69)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Marte airado | Despierta en la alta sierra, | Lanzando rabia y sañas | En las infieles bárbaras entrañas.»",
-              "autor": "León",
-              "referencia_obra": ", Poes. 1, La cana y alta cumbre (4. 298)."
+              "id_limpio": "—",
+              "definicion": "Con en.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Marte airado | Despierta en la alta sierra, | Lanzando rabia y sañas | En las infieles bárbaras entrañas.»",
+                  "autor": "León",
+                  "referencia_obra": ", Poes. 1, La cana y alta cumbre (4. 298)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Aplicado a los animales. X",
+              "definicion": "Aplicado a los animales.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los perros volvieron al ataque simultáneamente. Otro de ellos quedó muerto sin dar un quejido. El tigre lanzó un maullido horroroso.»",
                   "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 73. X"
+                  "referencia_obra": ", María, p. 73."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Las lechuzas, en la torre de la iglesia, lanzan, a intervalos, misteriosos resoplidos.»",
                   "autor": "Azorín",
                   "referencia_obra": ", Trasuntos de Esp. p. 63."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Aplicado a las cosas. X",
+              "definicion": "Aplicado a las cosas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El piano lanza unas notas lentas y sonoras.»",
                   "autor": "Azorín",
                   "referencia_obra": ", Trasuntos de Esp. p. 74."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Part. Con por, para señalar el agente. X",
+              "definicion": "Part. Con por, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y esas exclamaciones, lanzadas por la atronadora voz del presidente Salomón, fueron repetidas en coro por todos los asistentes.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 1 (p. 137). X"
+                  "referencia_obra": ", Amalia, 1 (p. 137)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Todo investigador, por modesto que sea, habrá sentido alguna vez algo de aquella sobrehumana satisfacción que debió experimentar Colón al oír el grito de ¡Tierra! ¡Tierra! lanzado por Rodrigo de Triana.»",
                   "autor": "Ramón y Cajal",
-                  "referencia_obra": ", Tónicos de la voluntad, 3 (p. 72). — Además con en, para indicar la ocasión. X"
+                  "referencia_obra": ", Tónicos de la voluntad, 3 (p. 72)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para indicar la ocasión.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Todo el que recuerde las proclamas lanzadas por el general Joffre en vísperas de las batallas del Marne y de la Champaña ---»",
+                      "autor": "",
+                      "referencia_obra": "Maeztu, Crisis del humanismo, 1 (p. 80)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Todo el que recuerde las proclamas lanzadas por el general Joffre en vísperas de las batallas del Marne y de la Champaña ---»",
-                  "autor": "",
-                  "referencia_obra": "Maeztu, Crisis del humanismo, 1 (p. 80). — Con a, para señalar el modo. X"
+                  "id_limpio": "—",
+                  "definicion": "Con a, para señalar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Sin embargo, no podríamos dejar lanzada al viento esta idea de valorar la categoría científica de un libro por su cotización en el extranjero sin algunas aclaraciones.»",
+                      "autor": "Marañón",
+                      "referencia_obra": ", Tiempo viejo, p. 110."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Sin embargo, no podríamos dejar lanzada al viento esta idea de valorar la categoría científica de un libro por su cotización en el extranjero sin algunas aclaraciones.»",
-                  "autor": "Marañón",
-                  "referencia_obra": ", Tiempo viejo, p. 110. — Con contra. X"
+                  "id_limpio": "—",
+                  "definicion": "Con contra.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Qué sucede que tus ministros no dicen esta boca es mía para poner las cosas en su punto, analizando y desmenuzando los cargos lanzados contra sus respectivos ministerios?»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños, 2 (p. 85)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Qué sucede que tus ministros no dicen esta boca es mía para poner las cosas en su punto, analizando y desmenuzando los cargos lanzados contra sus respectivos ministerios?»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 2 (p. 85). — Con en, que encabeza una expresión modal, con valor de causa. X"
-                },
-                {
-                  "texto_cita": "«Había prometido a su Divina Magestad ingresar a la Orden del Carmelo apenas terminara sus estudios, y aquel voto, lanzado en un rapto de pasión, veíalo ahora suspendido a una altura inaccesible encima de su ánimo.»",
-                  "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 161)."
+                  "id_limpio": "—",
+                  "definicion": "Con en, que encabeza una expresión modal, con valor de causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Había prometido a su Divina Magestad ingresar a la Orden del Carmelo apenas terminara sus estudios, y aquel voto, lanzado en un rapto de pasión, veíalo ahora suspendido a una altura inaccesible encima de su ánimo.»",
+                      "autor": "Larreta",
+                      "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 161)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1167,28 +1724,34 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Forma la expresión Lanzar (el, un) grito de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No lanzó en vano | La invicta Zaragoza el santo grito | De vencer o morir.»",
                   "autor": "",
-                  "referencia_obra": "M. de la Rosa, Zaragoza (1. 80). X"
+                  "referencia_obra": "M. de la Rosa, Zaragoza (1. 80)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Surge el instinto patriótico que lanzará el grito tremendo de rebelión.»",
                   "autor": "Díaz-Plaja",
-                  "referencia_obra": ", Concepto de la lit. esp. p. 126. X"
+                  "referencia_obra": ", Concepto de la lit. esp. p. 126."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Entra [Miranda] en las logias. Se informa de las cosas de América. Ya los comuneros han lanzado el grito de independencia.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 4. 23 (p. 374). X"
+                  "referencia_obra": ", Biogr. del Caribe, 4. 23 (p. 374)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Como para el hombre en movimiento estas ataduras de la tierra no son sino un estorbo, cortar ese nudo era como lanzar un grito de independencia y libertad.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 4. 26 (p. 405)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1196,80 +1759,99 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Despedir. Con sujeto de cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Sus llagas y cicatrices | Lanzaban vivo fulgor.»",
               "autor": "Hartz.",
-              "referencia_obra": "La jura en Santa Gadea, 3. 5 (p. 182). X"
+              "referencia_obra": "La jura en Santa Gadea, 3. 5 (p. 182)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El candelero | Lanza una llama trémula, amarilla, | Agonizante.»",
               "autor": "Bello",
               "referencia_obra": ", Poes. p. 592."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, que señala el punto de partida.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El cuerpo [de esta mariposa] tiene la figura de un gusano; y de la parte inferior y extrema de él lanza una luz amarillenta, pero tan viva, que se percibe aunque no sea en plena obscuridad.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Descr. del castillo de Bellver (R. 46. 3972)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la combinación de... en, que indica frecuencia. Con un predicado referido al sujeto. X",
+              "definicion": "Con la combinación de... en, que indica frecuencia. Con un predicado referido al sujeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y el viejo reloj lanza despacio, grave, de hora en hora, sus campanadas.»",
                   "autor": "Azorín",
                   "referencia_obra": ", Ruta Quij. 4 (p. 347)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con desde, para señalar el lugar de origen. Además con sin. X",
+              "definicion": "Con desde, para señalar el lugar de origen. Además con sin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El sol, desde el cenit, sin nubes que le estorbaran, lanzaba su intensa luz intentando abrasar todo lo que los follajes de los árboles no defendían de sus rayos de fuego.»",
                   "autor": "Isaacs",
                   "referencia_obra": ", María, p. 197."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
-          "definicion": "Irradiar. met. Con a, para señalar el medio. Además con para, que indica la finalidad. X",
+          "definicion": "Irradiar. met. Con a, para señalar el medio. Además con para, que indica la finalidad.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La unión se hace para lanzar la energía española a los cuatro vientos, para inundar el planeta, para crear un Imperio aún más amplio.»",
               "autor": "Ortega y Gasset",
               "referencia_obra": ", Esp. invertebr. p. 39."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Pas. Con de... a. X",
+              "definicion": "Pas. Con de... a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El sol ya se había escondido detrás de los edificios del Zócalo, y su luz era lanzada del nivel de la tierra a una zona intermedia, grisácea, cada vez más estrecha.»",
                   "autor": "Fuentes",
                   "referencia_obra": ", La reg. más transp. (Obr. 1. 396)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1277,48 +1859,60 @@
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Lanzar algo al rostro: criticar, publicar. X",
+              "definicion": "Lanzar algo al rostro: criticar, publicar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La franqueza de buena ley (la otra se confunde con la grosería) consiste, no en lanzar al rostro defectos irremediables, sino en amonestar blanda y piadosamente las faltas capaces de ser corregidas.»",
                   "autor": "Ramón y Cajal",
-                  "referencia_obra": ", Charlas de café, 7 (p. 130). X"
+                  "referencia_obra": ", Charlas de café, 7 (p. 130)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Al escuchar tales palabras, en un instante como aquél, el mancebo sintió que una horrible blasfemia había sido lanzada al rostro del Señor.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 97)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Lanzar al mercado: vender, ofrecer una mercancía. met. X",
+              "definicion": "Lanzar al mercado: vender, ofrecer una mercancía. met.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Leyes que, de acuerdo con los íntimos anhelos del padre de familia, obligan a las fábricas del Liceo y de la Universidad a lanzar apresuradamente al mercado social sus inconsistentes hechuras.»",
                   "autor": "Ramón y Cajal",
                   "referencia_obra": ", Tónicos de la voluntad, 11 (p. 219)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Lanzar la candidatura de: designar e inscribir a alguien para que sea candidato a un cargo de elección. X",
+              "definicion": "Lanzar la candidatura de: designar e inscribir a alguien para que sea candidato a un cargo de elección.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los Córdova están ya en movimiento y son cuatro y decididos. Van a lanzar la candidatura de Florencio Córdova.»",
                   "autor": "Alegría",
                   "referencia_obra": ", El mundo es ancho y ajeno, 16 (p. 599)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1327,67 +1921,91 @@
     {
       "id": "h)",
       "definicion": "Particularmente referido a la mirada, Dirigir, orientar. Tachado de galicismo por P. Mir, hoy es de uso general (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con dat. Además con a, para señalar el blanco. X",
+          "definicion": "Con dat. Además con a, para señalar el blanco.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Diego le lanzó a la cara una mirada de odio antes de contestarle: — Dejá el pelado quieto, que no te está haciendo nada.»",
               "autor": "Hoyos",
-              "referencia_obra": ", Tuyo es mi corazón, 18 (p. 254). — Además con la prep. con, para indicar el modo. X"
-            },
+              "referencia_obra": ", Tuyo es mi corazón, 18 (p. 254)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Con llantos y enojos | Me lanzan sus ojos | Miradas de amor.»",
-              "autor": "García Gutiérrez",
-              "referencia_obra": ", Poes. p. 65. X"
-            },
-            {
-              "texto_cita": "«Y los siete mancebos a las siete doncellas | Lanzan vivas miradas de amor.»",
-              "autor": "Darío",
-              "referencia_obra": ", Poes. p. 231."
+              "id_limpio": "—",
+              "definicion": "Además con la prep. con, para indicar el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Con llantos y enojos | Me lanzan sus ojos | Miradas de amor.»",
+                  "autor": "García Gutiérrez",
+                  "referencia_obra": ", Poes. p. 65."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Y los siete mancebos a las siete doncellas | Lanzan vivas miradas de amor.»",
+                  "autor": "Darío",
+                  "referencia_obra": ", Poes. p. 231."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para indicar el modo. X",
+              "definicion": "Con a, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ni la mirada que lanzó al soslayo | Tímido amor, la senda el alma ignora.»",
                   "autor": "Bello",
                   "referencia_obra": ", Poes. p. 70."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Recípr. X",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Avanzaron los dos rivales hasta el centro de la taberna, lanzándose furiosas miradas.»",
               "autor": "Baroja",
               "referencia_obra": ", La busca, 2. 8 (p. 111)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con para, y una prop. infinitiva que señala el fin. X",
+              "definicion": "Con para, y una prop. infinitiva que señala el fin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Las dos niñas se aplicaron a deshilar el lenzuelo, lanzándose miradas furtivas, para ver cuál adelantaba más en su tarea.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de otoño, p. 61."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1395,39 +2013,48 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Aplicado a las construcciones o a los materiales que las conforman. Fue igualmente tachado de galicismo por el P. Mir, pero asimismo aceptado en la actualidad. Con hacia, para indicar la dirección.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y hacia la dulce bóveda, tras una nube leve, | Lanzan tu aguda flecha las finas catedrales.»",
               "autor": "Maya",
               "referencia_obra": ", Obra poétic. 4 (p. 243)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Pas. Con a, que señala la dirección. X",
+              "definicion": "Pas. Con a, que señala la dirección.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sobre la roca más alta de la isla echó las bases de la fábrica [el Faro de Alejandría], y el mármol fue lanzado al cielo mientras el corazón de Sóstrato subía de entusiasmo tras él.»",
                   "autor": "Rodó",
                   "referencia_obra": ", Motivos de Proteo, p. 42."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Loc. Lanzar los ojos en: mirar a. X",
+          "definicion": "Loc. Lanzar los ojos en: mirar a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Luego alçé mi cabeça y lançé mis ojos en Arnao, y con ellos le agradeçí el reconocimiento que tenía en mi fidelidad.»",
               "autor": "Villalón",
               "referencia_obra": ", Crot. (NBAE. 7. 2231)"
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1435,47 +2062,66 @@
     {
       "id": "i)",
       "definicion": "Exhalar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ardientes suspiros lanza | Y tiernas lágrimas vierte.»",
               "autor": "Cald.",
               "referencia_obra": "El príncipe constante, 1. 11 (R. 7. 2491)."
             },
             {
+              "marca": "",
               "texto_cita": "«Estas lágrimas que lloro, | Estos suspiros que lanzo ---.»",
               "autor": "Cald.",
               "referencia_obra": "El galán fantasma, 2. 22 (R. 7. 3023)."
             },
             {
+              "marca": "",
               "texto_cita": "«Quedó inmoble, | Y un suspiro lanzó.»",
               "autor": "A. Saav.",
-              "referencia_obra": "Moro expós. 3 (2. 79). X"
+              "referencia_obra": "Moro expós. 3 (2. 79)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Así que lo vio traspuesto | Lanzó un suspiro de angustia.»",
               "autor": "",
-              "referencia_obra": "Id. Rom. (Cl. C. 9. 103). X"
+              "referencia_obra": "Id. Rom. (Cl. C. 9. 103)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuando el notario le exigió que suscribiese el consentimiento, lanzó el buen viejo un suspiro, cogió la pluma de ganso y escribió.»",
               "autor": "Palma",
-              "referencia_obra": ", Trad. peruanas, p. 57. X"
+              "referencia_obra": ", Trad. peruanas, p. 57."
             },
             {
+              "marca": "X",
               "texto_cita": "«El mayor de Alvargonzález, | Lanzando un ronco suspiro, | Rompe el silencio exclamando: ---»",
               "autor": "Machado",
-              "referencia_obra": ", Poes. compl. p. 120. — met. X"
-            },
+              "referencia_obra": ", Poes. compl. p. 120."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«El gran león de España | Lanzará triste su postrer rugido.»",
-              "autor": "Caro",
-              "referencia_obra": ", Poes. complet. p. 88."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«El gran león de España | Lanzará triste su postrer rugido.»",
+                  "autor": "Caro",
+                  "referencia_obra": ", Poes. complet. p. 88."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -1483,56 +2129,69 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pero si vuestro corazón resiste a mis suspiros, yo iré a lanzarlos a los pies del señor don Justo.»",
                   "autor": "Jovell.",
                   "referencia_obra": "El delincuente honrado, 3. 6 (R. 46. 912)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y al tiempo | Que expiraba Padilla en el cadalso, | La vi [la castellana libertad] lanzar su postrimer aliento.»",
                   "autor": "M. de la Rosa",
                   "referencia_obra": ", La viuda de Padilla, 1. 2 (3. 52)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de, para señalar el origen.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En medio del silencio un gran suspiro | Lanzó del hondo pecho.»",
                   "autor": "Jovell.",
                   "referencia_obra": "epíst. a los amigos de Salam. (R. 46. 381)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por, que encabeza una expresión modal. X",
+              "definicion": "Con por, que encabeza una expresión modal.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Esperaba Daciano que el Santo Mártyr lanzaría por lo menos algún suspiro, o dexaría correr alguna lágrima.»",
                   "autor": "Isla",
                   "referencia_obra": ", año christiano, 22 (p. 330)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Coil sujeto de cosa. Con por, para señalar el medio. X",
+          "definicion": "Coil sujeto de cosa. Con por, para señalar el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las ciudades lanzaban por las chimeneas | Su hálito impuro, | Alimentado por aguas lentas.»",
               "autor": "Maya",
               "referencia_obra": ", Obra poét. 2 (p. 137)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1540,19 +2199,24 @@
     {
       "id": "j)",
       "definicion": "Arrojar violentamente por la boca lo contenido en el estómago, regurgitar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Siguiose luego el efecto [del veneno] en la copiosa sangre que lanzaba; --- luego que los vómitos dieron alguna tregua ---dijo estas palabras.»",
               "autor": "Gumilla",
               "referencia_obra": ", Orinoco, 2. 13 (p. 373)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1560,103 +2224,164 @@
     {
       "id": "k)",
       "definicion": "Abalanzarse, particularmente para causar algún daño (refl.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con contra, para señalar el objeto. X",
+          "definicion": "Con contra, para señalar el objeto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Miserable, canalla! —aúlla Martín palideciendo y lanzándose contra el burlón—. ¡Me has cogido de mingo!... y suena un pescozón.»",
               "autor": "Carrasquilla",
-              "referencia_obra": ", Frutos, 8 (p.106). —Además con a, para indicar el modo. X"
+              "referencia_obra": ", Frutos, 8 (p.106)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con a, para indicar el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Fue de repente, como un relámpago de sombra. Lo vi lanzarse contra él a traición, y desaparecer luego en la noche.»",
+                  "autor": "Casona",
+                  "referencia_obra": ", La barca sin pescador, p. 124."
+                }
+              ]
             },
             {
-              "texto_cita": "«Fue de repente, como un relámpago de sombra. Lo vi lanzarse contra él a traición, y desaparecer luego en la noche.»",
-              "autor": "Casona",
-              "referencia_obra": ", La barca sin pescador, p. 124. — Además con por, que indica el lugar."
-            },
-            {
-              "texto_cita": "«Con una lanza como gruesa entena |",
-              "autor": "",
-              "referencia_obra": ""
-            },
-            {
-              "texto_cita": "«Contra éI por medio del furor se lanza.»",
-              "autor": "Valb.",
-              "referencia_obra": "Bern. 7 (R. 17. 2162)."
+              "id_limpio": "—",
+              "definicion": "Además con por, que indica el lugar.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Con una lanza como gruesa entena |",
+                  "autor": "",
+                  "referencia_obra": ""
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Contra éI por medio del furor se lanza.»",
+                  "autor": "Valb.",
+                  "referencia_obra": "Bern. 7 (R. 17. 2162)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con hacia, para señalar la dirección y término de la acción. Además con un gerundio que indica el modo. X",
+              "definicion": "Con hacia, para señalar la dirección y término de la acción. Además con un gerundio que indica el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Al ruido que hizo la puerta ---, despertaron los perros y se lanzaron ladrando hacia allá.»",
                   "autor": "Palacios",
                   "referencia_obra": ", El Alférez real, 23 (p. 242)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con por, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Dejan el campo y de tropel corriendo",
                   "autor": "",
                   "referencia_obra": ""
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se lanzan por las puertas del castillo, |",
                   "autor": "",
                   "referencia_obra": ""
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Al bárbaro la entrada resistiendo.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 2 (R. 17. 121)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con sobre, para señalar el objeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tener un halcón y doctrinarle a lanzarse sobre las tímidas aves, y traerlas a la mano, no requería más que ingenio y paciencia.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Mem. sobre espect. 1 (R. 46. 4841). — Con un predicado referido al sujeto. X"
+                  "referencia_obra": "Mem. sobre espect. 1 (R. 46. 4841)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Con un predicado referido al sujeto.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«D. Eugenio sintió aquel nuevo agravio, y se lanzó sobre el tío Lucas como un basilisco.»",
+                      "autor": "Alarcón",
+                      "referencia_obra": ", El sombrero de tres picos, 32 (Cl. C. 200. 148)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Una noche, fueron sorprendidos por Luis, quien furioso se lanzó sobre el joven esclavo, al cual castigó cruelmente, apellidándolo holgazán.»",
+                      "autor": "",
+                      "referencia_obra": "Vargas Vila, Aura, p. 161."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Pepa y las Palmas, fuera de sí al ver aquello, se lanzan sobre los corchetes protestando.»",
+                      "autor": "Carrasquilla",
+                      "referencia_obra": ", Frutos, 4. 2 (p. 66)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«D. Eugenio sintió aquel nuevo agravio, y se lanzó sobre el tío Lucas como un basilisco.»",
-                  "autor": "Alarcón",
-                  "referencia_obra": ", El sombrero de tres picos, 32 (Cl. C. 200. 148). X"
+                  "id_limpio": "—",
+                  "definicion": "Además con la prep. con, que indica el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y batiendo los remos, se lanzaron | Con nueva rabia y priesa acelerada | Sobre la multitud de los paganos.»",
+                      "autor": "Erc.",
+                      "referencia_obra": "Arauc. 24 (R. 17. 932)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Una noche, fueron sorprendidos por Luis, quien furioso se lanzó sobre el joven esclavo, al cual castigó cruelmente, apellidándolo holgazán.»",
-                  "autor": "",
-                  "referencia_obra": "Vargas Vila, Aura, p. 161. X"
-                },
-                {
-                  "texto_cita": "«Pepa y las Palmas, fuera de sí al ver aquello, se lanzan sobre los corchetes protestando.»",
-                  "autor": "Carrasquilla",
-                  "referencia_obra": ", Frutos, 4. 2 (p. 66). — Además con la prep. con, que indica el modo."
-                },
-                {
-                  "texto_cita": "«Y batiendo los remos, se lanzaron | Con nueva rabia y priesa acelerada | Sobre la multitud de los paganos.»",
-                  "autor": "Erc.",
-                  "referencia_obra": "Arauc. 24 (R. 17. 932). — Además con para, y una prop. infinitiva que señala la finalidad. X"
-                },
-                {
-                  "texto_cita": "«El Conde iba a lanzarse sobre D. Luis para destrozarle si podía.»",
-                  "autor": "Valera",
-                  "referencia_obra": ", Pepita Jiménez, p. 154."
+                  "id_limpio": "—",
+                  "definicion": "Además con para, y una prop. infinitiva que señala la finalidad.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El Conde iba a lanzarse sobre D. Luis para destrozarle si podía.»",
+                      "autor": "Valera",
+                      "referencia_obra": ", Pepita Jiménez, p. 154."
+                    }
+                  ]
                 }
               ]
             },
@@ -1664,65 +2389,80 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con tras, para señalar el objeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Logró aquietar un momento el desorden, y, entrar en el convento con la debida precaución, para que no se lanzasen tras él los más atrevidos.»",
                   "autor": "A. Saav.",
                   "referencia_obra": "Masan. 1. 5 (5. 57)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Con sujeto de cosa. Con sobre, para señalar el objeto, y, props. de gerundio para indicar los efectos. X",
+          "definicion": "Con sujeto de cosa. Con sobre, para señalar el objeto, y, props. de gerundio para indicar los efectos.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ramiro adivinaba en la dirección del sudeste, por detrás de las sierras, un agazapamiento de vendaval, pronto a lanzarse sobre la dehesa, destechando cabañas, reventando la trojes, descuajando los árboles.»",
               "autor": "Larreta",
               "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 130)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Recípr. Con entre sí, para reforzar la reciprocidad, y predicados referidos a los sujetos. X",
+          "definicion": "Recípr. Con entre sí, para reforzar la reciprocidad, y predicados referidos a los sujetos.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Duro ejemplo el combate ensangrentado | De los centauros sea y de lapitas | Y el rigor por Lieo desplegado | Como castigo a bárbaros escitas, | Que locos, ebrios, entre sí se lanzan, | Y el bien y el mal a distinguir no alcanzan.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Odas de Hor. (ICC. 5. 34)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "trans. Con dat. refl. X",
+          "definicion": "trans. Con dat. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Le preocupa la noticia de la importación de perros policías para lanzárselos a los salvajes?»",
               "autor": "C. Uribe",
               "referencia_obra": ", Mancha de aceite, p. 47."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con contra, para señalar el objeto. X",
+              "definicion": "Con contra, para señalar el objeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Volvió a picar espuelas intentando lanzar la bestia contra la puerta.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 9 (p. 108)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1731,113 +2471,196 @@
     {
       "id": "l)",
       "definicion": "Precipitarse, dirigirse (refl.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con a, para señalar el lugar. X",
+          "definicion": "Con a, para señalar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Deshecha la tertulia de sobremesa, vestime con lo mejor del baúl, y lanceme a la calle.»",
               "autor": "Pereda",
-              "referencia_obra": ", Pedro Sánchez, 1. 9 (Cl. C. 144. 93). 891 X"
+              "referencia_obra": ", Pedro Sánchez, 1. 9 (Cl. C. 144. 93). 891"
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Volvieron a nuestra aldea | Los que entraron en la liza, | Y me siguieron valientes | Cuando en batalla reñida | Me lanzaba presuroso, | A las lanzas enemigas?»",
               "autor": "Silva",
-              "referencia_obra": ", El libro de versos, p. 115. — Además con una prop. indicativa que señala la causa."
+              "referencia_obra": ", El libro de versos, p. 115."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con una prop. indicativa que señala la causa.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Su ardiente imaginación, arrebatada por el magnífico espectáculo que se abría a sus ojos, se lanzó a contemplarle, y perdida, por decirlo así, en los cielos, se olvidó de la tierra o se desdeñó de mirarla.»",
+                  "autor": "Jovell.",
+                  "referencia_obra": "Disc. sobre la geogr. hist. (R. 46. 3272)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Su ardiente imaginación, arrebatada por el magnífico espectáculo que se abría a sus ojos, se lanzó a contemplarle, y perdida, por decirlo así, en los cielos, se olvidó de la tierra o se desdeñó de mirarla.»",
-              "autor": "Jovell.",
-              "referencia_obra": "Disc. sobre la geogr. hist. (R. 46. 3272). — Además con la prep. con, para indicar el modo. X"
+              "id_limpio": "—",
+              "definicion": "Además con la prep. con, para indicar el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Terminó de desnudarse y se lanzó con ímpetu a la corriente, como un animal sediento.»",
+                  "autor": "Uslar-Pietri",
+                  "referencia_obra": ", Lanzas coloradas, 6 (p. 65)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Terminó de desnudarse y se lanzó con ímpetu a la corriente, como un animal sediento.»",
-              "autor": "Uslar-Pietri",
-              "referencia_obra": ", Lanzas coloradas, 6 (p. 65). — Además con de, para indicar el modo."
+              "id_limpio": "—",
+              "definicion": "Además con de, para indicar el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«El puente echaron, el rastrillo abrieron, y al campo nos lanzamos de carrera.»",
+                  "autor": "A. Saav.",
+                  "referencia_obra": "Moro expós. 4 (2. 117)."
+                }
+              ]
             },
             {
-              "texto_cita": "«El puente echaron, el rastrillo abrieron, y al campo nos lanzamos de carrera.»",
-              "autor": "A. Saav.",
-              "referencia_obra": "Moro expós. 4 (2. 117). — Además con hacia, que señala la dirección y una prop. infinitiva para indicar el fin. X"
+              "id_limpio": "—",
+              "definicion": "Además con hacia, que señala la dirección y una prop. infinitiva para indicar el fin.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Dando [Braulio] una vuelta tras los robles, lanzose hacia nosotros a recoger la lanza que le arrojaba José.»",
+                  "autor": "Isaacs",
+                  "referencia_obra": ", María, p. 74."
+                }
+              ]
             },
             {
-              "texto_cita": "«Dando [Braulio] una vuelta tras los robles, lanzose hacia nosotros a recoger la lanza que le arrojaba José.»",
-              "autor": "Isaacs",
-              "referencia_obra": ", María, p. 74. — Además con para, y una prop. infinitiva que señala el fin. X"
-            },
-            {
-              "texto_cita": "«España se lanzó al mar para librar a Europa del turco y del infiel, con la cruz en alto.»",
-              "autor": "Calderón",
-              "referencia_obra": ", Ancha es Castilla, p. 281."
+              "id_limpio": "—",
+              "definicion": "Además con para, y una prop. infinitiva que señala el fin.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«España se lanzó al mar para librar a Europa del turco y del infiel, con la cruz en alto.»",
+                  "autor": "Calderón",
+                  "referencia_obra": ", Ancha es Castilla, p. 281."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para señalar el punto de partida de la acción. Además con un predicado referido al sujeto, cuyo significado bien puede ser modal o causal. X",
+              "definicion": "Con de, para señalar el punto de partida de la acción. Además con un predicado referido al sujeto, cuyo significado bien puede ser modal o causal.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Un cierzo impetuoso columpiaba los sauces del patio, y al acercarme al huerto lo oí rasgarse en los sotos de naranjos, de donde se lanzaban las aves asustadas.»",
                   "autor": "Isaacs",
                   "referencia_obra": ", María, p. 38."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la combinación de... a, para indicar los límites del movimiento. X",
+              "definicion": "Con la combinación de... a, para indicar los límites del movimiento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Empujé la puerta entornada del costurero de mi madre, quien se lanzó del asiento en que estaba a mis brazos.»",
                   "autor": "Isaacs",
                   "referencia_obra": ", María, p. 238."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, para indicar: — el lugar.",
-              "ejemplos_citas": [
+              "definicion": "Con en, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Comenzó el cuitado a llorar, postrose, lanzose en tierra, derrocose a vuestros pies.»",
-                  "autor": "M. de Chaide",
-                  "referencia_obra": ", Magd. 3. 29 (R. 27. 3641)."
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Comenzó el cuitado a llorar, postrose, lanzose en tierra, derrocose a vuestros pies.»",
+                      "autor": "M. de Chaide",
+                      "referencia_obra": ", Magd. 3. 29 (R. 27. 3641)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«¿Quién impelió a Curcio a lanzarse en la profunda sima ardiente que apareció en la mitad de Roma?»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Quij. 2. 8 (R. 1. 4201)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Para mi barca vieja, ya es mar de mucho fondo: | Para mis viejas alas ya mucho viento es: | Yo no me lanzo en aires en que volar no puedo, | Ni me aventuro en aguas en que nadar no sé.»",
+                      "autor": "Zorrilla",
+                      "referencia_obra": ", Poes. (Cl. C. 63. 260)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Me desnudé a toda prisa y me lancé en él [en el mar] como quien se arroja en los brazos de una persona querida.»",
+                      "autor": "P. Galdós",
+                      "referencia_obra": ", Trafalgar, 8 (p. 74)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Llegó alborozada, cargada de canastos con frutas y se lanzó en los brazos de su hermana y de su madre.»",
+                      "autor": "Osorio Lizarazo",
+                      "referencia_obra": ", El camino en la sombra, p. 90."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Quién impelió a Curcio a lanzarse en la profunda sima ardiente que apareció en la mitad de Roma?»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Quij. 2. 8 (R. 1. 4201). X"
+                  "id_limpio": "—",
+                  "definicion": "El medio. Además con la prep. con, que señala la compañía.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Con sesenta castellanos tan arrojados como él se lanzó en el mar en unas canoas.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "Balboa (R. 19. 2912)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Para mi barca vieja, ya es mar de mucho fondo: | Para mis viejas alas ya mucho viento es: | Yo no me lanzo en aires en que volar no puedo, | Ni me aventuro en aguas en que nadar no sé.»",
-                  "autor": "Zorrilla",
-                  "referencia_obra": ", Poes. (Cl. C. 63. 260). X"
-                },
-                {
-                  "texto_cita": "«Me desnudé a toda prisa y me lancé en él [en el mar] como quien se arroja en los brazos de una persona querida.»",
-                  "autor": "P. Galdós",
-                  "referencia_obra": ", Trafalgar, 8 (p. 74). X"
-                },
-                {
-                  "texto_cita": "«Llegó alborozada, cargada de canastos con frutas y se lanzó en los brazos de su hermana y de su madre.»",
-                  "autor": "Osorio Lizarazo",
-                  "referencia_obra": ", El camino en la sombra, p. 90. — El medio. Además con la prep. con, que señala la compañía."
-                },
-                {
-                  "texto_cita": "«Con sesenta castellanos tan arrojados como él se lanzó en el mar en unas canoas.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "Balboa (R. 19. 2912). — La finalidad. Además con un predicado referido al sujeto. X"
-                },
-                {
-                  "texto_cita": "«Mañana cuidaré yo de ir a recogerle a usted a su casa; pues si se lanza solo en busca de la mía, se expone a extraviarse.»",
-                  "autor": "Pereda",
-                  "referencia_obra": ", Pedro Sánchez, 1. 12 (Cl. C. 144. 122)."
+                  "id_limpio": "—",
+                  "definicion": "La finalidad. Además con un predicado referido al sujeto.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Mañana cuidaré yo de ir a recogerle a usted a su casa; pues si se lanza solo en busca de la mía, se expone a extraviarse.»",
+                      "autor": "Pereda",
+                      "referencia_obra": ", Pedro Sánchez, 1. 12 (Cl. C. 144. 122)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1845,81 +2668,135 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con entre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Olvidando el peligro en que aún estaba, | Entre los duros hierros se lanzaba.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 6 (R. 17. 251)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con hacia, para indicar el límite de la acción. Además con para, y una prop. infinitiva que señala el fin. X",
+              "definicion": "Con hacia, para indicar el límite de la acción. Además con para, y una prop. infinitiva que señala el fin.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Al aparecer los restantes camiones [del agua], muchos se lanzaron hacia ellos, para ser los primeros [en beber].»",
                   "autor": "Roa",
                   "referencia_obra": "Bastos, Hijo de hombre, p. 334."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
               "definicion": "Con hasta, para señalar el fin. Además con de, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«En medio de este universo moral, descubre el alto grado que le fue concedido en la escala de los seres; ve más de lleno las relaciones que enlazan tantas y tan varias esencias, y se lanza de un vuelo hasta el inefable principio de donde todas manan y se derivan.»",
                   "autor": "Jovell.",
                   "referencia_obra": "Orac. sobre el est. de las ciencias nat. (R. 46. 3421)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Con por, para señalar: — el lugar.",
-              "ejemplos_citas": [
+              "definicion": "Con por, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El impulso estaba dado, la senda señalada, todos se lanzaron por ella.»",
-                  "autor": "Gil y Zárate",
-                  "referencia_obra": ", Resum. histór. p. 284. — Además con un gerundio que indica el modo. X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«El impulso estaba dado, la senda señalada, todos se lanzaron por ella.»",
+                      "autor": "Gil y Zárate",
+                      "referencia_obra": ", Resum. histór. p. 284."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Unos estudiantes —nadie supo quiénes fueron— se lanzaron esa noche por las calles gritando, aullando.»",
-                  "autor": "",
-                  "referencia_obra": "Yáñez, Al filo del agua, p. 418. — Además con hacia, para indicar la dirección. X"
+                  "id_limpio": "—",
+                  "definicion": "Además con un gerundio que indica el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Unos estudiantes —nadie supo quiénes fueron— se lanzaron esa noche por las calles gritando, aullando.»",
+                      "autor": "",
+                      "referencia_obra": "Yáñez, Al filo del agua, p. 418."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Antes de llegar a la aldea se lanzó por la cuesta directamente hacia un río, que espumeaba en lo profundo de la cañada.»",
-                  "autor": "Osorio Lizarazo",
-                  "referencia_obra": ", El camino en la sombra, p. 165. — Además con una prop. infinitiva, para indicar el fin."
+                  "id_limpio": "—",
+                  "definicion": "Además con hacia, para indicar la dirección.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Antes de llegar a la aldea se lanzó por la cuesta directamente hacia un río, que espumeaba en lo profundo de la cañada.»",
+                      "autor": "Osorio Lizarazo",
+                      "referencia_obra": ", El camino en la sombra, p. 165."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Se lanzan por huir de la pobreza | Por la mar, por los riscos, por el fuego.»",
-                  "autor": "León",
-                  "referencia_obra": ", Expos. de Job, 28 (2. 80). — El fin. Con un infinitivo como término."
+                  "id_limpio": "—",
+                  "definicion": "Además con una prop. infinitiva, para indicar el fin.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Se lanzan por huir de la pobreza | Por la mar, por los riscos, por el fuego.»",
+                      "autor": "León",
+                      "referencia_obra": ", Expos. de Job, 28 (2. 80)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Cercada de frescura | Más clara que el cristal hallé una fuente --- | Yo todo deseoso | Lanceme por beber.»",
-                  "autor": "León",
-                  "referencia_obra": ", Poes. 1, Mi trabajoso día (4. 344)."
+                  "id_limpio": "—",
+                  "definicion": "El fin. Con un infinitivo como término.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Cercada de frescura | Más clara que el cristal hallé una fuente --- | Yo todo deseoso | Lanceme por beber.»",
+                      "autor": "León",
+                      "referencia_obra": ", Poes. 1, Mi trabajoso día (4. 344)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— θ θ )",
               "id_limpio": "— θ θ )",
-              "definicion": "Con un gerundio, para señalar el modo. Además con hasta, que indica el límite de la acción. X",
+              "definicion": "Con un gerundio, para señalar el modo. Además con hasta, que indica el límite de la acción.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El 12 de octubre se lanzan las indias nadando hasta los barcos, \"y nos traen papagayos\".»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 1. 2 (p. 33)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1927,28 +2804,49 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con sujeto de cosa. Con a, que señala en lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los lazos que me ataban a la tierra | Aflojarse sentía; y libre el alma | Lanzábase, dejando atrás los siglos | Al espacio sin límites.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", epíst. (1. 48)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para indicar: — el lugar.",
-              "ejemplos_citas": [
+              "definicion": "Con en, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Se encuentra con un río caudaloso | Que se lanza en la mar.»",
-                  "autor": "",
-                  "referencia_obra": "Hermosilla, Iliada. 5 (1. 155). — El objeto deseado. X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Se encuentra con un río caudaloso | Que se lanza en la mar.»",
+                      "autor": "",
+                      "referencia_obra": "Hermosilla, Iliada. 5 (1. 155)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Hay escritores cuyas palabras parecen lanzarse en busca de las ideas.»",
-                  "autor": "Machado",
-                  "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 93)."
+                  "id_limpio": "—",
+                  "definicion": "El objeto deseado.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Hay escritores cuyas palabras parecen lanzarse en busca de las ideas.»",
+                      "autor": "Machado",
+                      "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 93)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1957,31 +2855,52 @@
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Trans. Con a, para indicar: — el lugar.",
-          "ejemplos_citas": [
+          "definicion": "Trans. Con a, para indicar:",
+          "marca": "",
+          "ejemplos_citas": [],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Todos los once juntos de cuadrilla | Los caballos lanzamos al repecho, | Cada cual solevado alto en la silla.»",
-              "autor": "Erc.",
-              "referencia_obra": "Arauc. 28 (R. 17. 1081). — El modo. Además con en, que señala el lugar. X"
+              "id_limpio": "—",
+              "definicion": "el lugar.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Todos los once juntos de cuadrilla | Los caballos lanzamos al repecho, | Cada cual solevado alto en la silla.»",
+                  "autor": "Erc.",
+                  "referencia_obra": "Arauc. 28 (R. 17. 1081)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Monté llevando el corazón de luto, | Y siguiendo la ley de mi destino, | Clavé la espuela en el hijar [sic] del bruto, | Y lo lancé al galope en el camino.»",
-              "autor": "D. Uribe",
-              "referencia_obra": ", Obr. poética, escog. p. 9."
+              "id_limpio": "—",
+              "definicion": "El modo. Además con en, que señala el lugar.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Monté llevando el corazón de luto, | Y siguiendo la ley de mi destino, | Clavé la espuela en el hijar [sic] del bruto, | Y lo lancé al galope en el camino.»",
+                  "autor": "D. Uribe",
+                  "referencia_obra": ", Obr. poética, escog. p. 9."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con contra. X",
+              "definicion": "Con contra.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La firma Castelhum y Compañía, no obstante la flotilla de lanchas de vapor que lanzó contra las vigas — y esto por bastante más de treinta días perdió muchas.»",
                   "autor": "Quiroga",
                   "referencia_obra": ", Cuentos de amor, p. 134."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1989,13 +2908,16 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "En el siguiente texto, Ocultarse. Con entre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Traviesa Galatea me ha tirado, | Perdida por ser vista, una manzana, | Y luego entre los sauces se ha lanzado.»",
               "autor": "León",
               "referencia_obra": ", Poes. 2, égl. 3 (4. 407)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2003,109 +2925,163 @@
     {
       "id": "m)",
       "definicion": "Entregarse, dedicarse a una cosa (refl.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con a, que señala el objeto. X",
+          "definicion": "Con a, que señala el objeto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Aquel Dorado pasó de Mendoza a San Juan, y cuantos pudieron alistar caballos, se lanzaron a la conquista del vellocino de oro.»",
               "autor": "D. F. Sarmiento",
               "referencia_obra": ", Recuerdos de Prov. p. 21. 862"
             },
             {
+              "marca": "",
               "texto_cita": "«Puñal sagrado, | Ven, escóndete aquí; contigo llevo, | En la dudosa empresa a que me lanzo, | Si vencedor, la libertad de Roma; | Si vencido, la mía.»",
               "autor": "V. de la Vega",
-              "referencia_obra": ", La muerte de César, 4. 5 (p. 380). X"
+              "referencia_obra": ", La muerte de César, 4. 5 (p. 380)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hay que convenir en que los Almagros y los Pizarros que se lanzaron a la conquista del Perú no eran sino unos analfabetos enriquecidos en Panamá.»",
               "autor": "Arciniegas",
-              "referencia_obra": ", Estud. mesa redonda, 6 (p. 100). — Con una prop. infinitiva como término."
+              "referencia_obra": ", Estud. mesa redonda, 6 (p. 100)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Con una prop. infinitiva como término.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Extrañé, por lo mismo, ver en Méndez Vigo tan ansioso de lanzarse a restaurar la libertad ---»",
+                  "autor": "A. Galiano",
+                  "referencia_obra": ", Recuerdos, p. 503."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Contaba [Copérnico] veinticuatro años cuando se lanzó a formular sus dudas desde la cátedra.»",
+                  "autor": "Arciniegas",
+                  "referencia_obra": ", Estud. mesa redonda, 2 (p. 37)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Extrañé, por lo mismo, ver en Méndez Vigo tan ansioso de lanzarse a restaurar la libertad ---»",
-              "autor": "A. Galiano",
-              "referencia_obra": ", Recuerdos, p. 503. X"
+              "id_limpio": "—",
+              "definicion": "Además con bajo, para indicar el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Los fatigados varones de Europa se lanzaban, bajo una música violenta, a frenéticas danzas elementales.»",
+                  "autor": "Díaz-Plaja",
+                  "referencia_obra": ", Concepto de la lit. esp. p. 13."
+                }
+              ]
             },
             {
-              "texto_cita": "«Contaba [Copérnico] veinticuatro años cuando se lanzó a formular sus dudas desde la cátedra.»",
-              "autor": "Arciniegas",
-              "referencia_obra": ", Estud. mesa redonda, 2 (p. 37). — Además con bajo, para indicar el modo. X"
+              "id_limpio": "—",
+              "definicion": "Además con por, y una prop. infinitiva para indicar el motivo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«La pobre hija por no verme sufrir, por ayudarme a sobrellevar estas miserias, se lanza a todo. Ella costurera, ella modista, ella planchadora.»",
+                  "autor": "Arniches",
+                  "referencia_obra": ", Es mi hombre, 1 (p. 116)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Los fatigados varones de Europa se lanzaban, bajo una música violenta, a frenéticas danzas elementales.»",
-              "autor": "Díaz-Plaja",
-              "referencia_obra": ", Concepto de la lit. esp. p. 13. — Además con por, y una prop. infinitiva para indicar el motivo. X"
-            },
-            {
-              "texto_cita": "«La pobre hija por no verme sufrir, por ayudarme a sobrellevar estas miserias, se lanza a todo. Ella costurera, ella modista, ella planchadora.»",
-              "autor": "Arniches",
-              "referencia_obra": ", Es mi hombre, 1 (p. 116). — Además con porque. X"
-            },
-            {
-              "texto_cita": "«Y yo me he lanzado a hacerles caso, Eliacim, porque sería insensato seguir encerrada entre estas cuatro paredes.»",
-              "autor": "Cela",
-              "referencia_obra": ", Mrs. Caldwell, p. 179."
+              "id_limpio": "—",
+              "definicion": "Además con porque.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Y yo me he lanzado a hacerles caso, Eliacim, porque sería insensato seguir encerrada entre estas cuatro paredes.»",
+                  "autor": "Cela",
+                  "referencia_obra": ", Mrs. Caldwell, p. 179."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para señalar la ocupación a la cual se dedica el sujeto. X",
+              "definicion": "Con en, para señalar la ocupación a la cual se dedica el sujeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mi padre se había lanzado en la revolución, y mi madre palpitando todos los días con las noticias que llegaban por momentos sobre los progresos de la insurrección americana.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Recuerdos de Prov. p. 112."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con sin, que indica carencia. Además con a, y una prop. infinitiva para señalar el objeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Muchos de nuestro tiempo, sin tener alguna de estas alhajas, se lanzaron a tratar las divinas letras.»",
                   "autor": "",
                   "referencia_obra": "Sig. Vida de S. Jer. 6. 1 (p. 543)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. Con a, que señala el objeto. Además con la prep. con, para indicar el modo. X",
+          "definicion": "Part. Con a, que señala el objeto. Además con la prep. con, para indicar el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Aunque ahora vivía lanzado con ahínco a las labores del fundo, el fracaso de su amor y el dolor que sufría le habían contenido los alocados afanes de la juventud.»",
               "autor": "Barrios",
               "referencia_obra": ", Gran señor y rajadiablos, p. 132."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con en, para señalar la ocupación a la cual se dedica el sujeto. X",
+              "definicion": "Con en, para señalar la ocupación a la cual se dedica el sujeto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El administrador defendía esos trabajos, cubriéndose con la autoridad del arrendatario, mientras que éste, lanzado en las agitaciones políticas de aquel tiempo, leía apenas, o no leía, las cartas de quejas.»",
                   "autor": "Blest Gana",
-                  "referencia_obra": ", El loco Estero, p. 28. X"
+                  "referencia_obra": ", El loco Estero, p. 28."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Los caballos van ciegos, lanzados en una fuga frenética, y contra ellos vienen los otros.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 12 (p. 158)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -2114,12 +3090,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. (Nótese la forma alanzar). Siglo XV: «Mi ganado | No quiere pacer bocado, | Aunque lo lance en el trigo.» Encina, égl. (R. 2. 2282). X «Iacere que viene de iacio... significa esparzir y lançar.» Pal. Univ. vocab. 199b. X «Expectorare es lançar fuera del pecho.» Id. ib. 147d. X «Eliminare es lançar fuera del vmbral y tirar o echar fuera.» Id. ib. 130d. X «Clingo... es lançar fuera.» Id. ib. 81b. X «Carlos de Francia, que lançó de todo su reino al rey Eduarte de Inglaterra, su enemigo.» Pulgar, Clar. var. 7 (Cl. C. 49. 69). X «Entre dos fuegos lançado, | Donde amor es repartido, | Del uno soy encendido, | Del otro cerca quemado.» J. Manr. Canc. (Cl. C. 94. 73). «Con hasta quiñientos de caballo valientemente, a pesar de los moros se lanzaron en la cibdad.» Crón. de Juan II, 1. 45 (R. 68. 2962). «Lançaste e despoiaste del reyno al gállico rey, que duque agora se llama el de Anjou.» Canc. de Stúñ. p. 318. «Fortuna non da lugar | Que pueda tornar en tierra | Nin me lançe de la mar.» ib. p. 124. «Tomaron de aquellos leños assí gruessos, e comienzan a lanzar dellos sobre las cabezas de los omes darmas que estaban acerca de la puerta.» Crón. Álv. de Luna, 120 (p. 329). «Mandaron derribar un lienzo del adarbe del alcázar viejo de Valladolid, porque se decía que la reyna con el rey de Castilla su fijo e con las infantas se querían lanzar en él.» ib. 3 (p. 11). «Lo que a mí viniere no lo lanzaré fuera.» P. de Guzmán, Gener. 34 (R. 68. 7162). «En su vejez fue lanzado | De su alto trono e silla.» Id. Clar. var. 340 (Rim. inéd. 322). «Bazán encontró a Mendoza en la chapa de la silla delantera, lanzándole todo el fierro en ella.» Passo honroso,28 (p. 24). X «E él desque lo vio, lançose entierra delante de todos.» Arc. de Talav. Vida de S. Ildef. 10 (Cl. C. 134. 39). X «\"Paulo, Paulo. ¿por qué me persygues?\", cata que duro es a te lançar coces contra el aguijón.» Id. Corbacho (Cl. Castal. 24. 275). X «E vimos aquella que Europa dixeron, | De la que robada en la taurina fusta | Lançó los ermanos por causa tan justa.» Mena, Lab. (Cl. C. 119. 26). «Lançó por sus pechos [Lucreçia] la espada que tenía abscondida debaxo de las vestiduras.» Id. p. 75.«E lanzaba ella su falcón tan donosamente e tan bien, que non podía mejor ser.» Crón. P. Niño, p. 117. X «Lyessa, conoçido el Rey, no tardó luego lançarse a sus pies, abraçándose con ellos.» J. Rodríguez, Siervo libre de amor (CI.Castal. 66. 92). «Miremos la muerte qu'el mundo conquista | Lançando lo alto e baxo por suelo.» Canc. de Baena, p. 593. «Como quien se lança en muy alta mar, | Syn saber nadar.» ib.p. 180. «Por ende non debe homme estar mucho en pecado, mas lo más aína que pudiere lo llance de sí.» Libro de los enxemplos, 9 (R. 51.4491). «E lanzose dentro en casa, e de la caída quebráronsele una pierna e un brazo.» ib. 7 (R.51. 4491). «E en aquel derecho lanzaba el mar una arena negra menuda, e allegábanla e facían della fierro.» Gonz. Clav. p. 82. «Con el gran viento lanzaba grandes llamas de fuego y fumo con gran ruido.» Id. p. 34.\n\n— Siglo XIV: «Non quedaban de honrar la fiesta de su caballería et de su coronación, los unos lanzando a tablados en muchas partes de la villa; et los otros bofordaban a escudo et lanza de cada día.» Crón. Alf. XI, 99 (R. 66. 2342). «A la qual dise que quere leuar | A todos nosotros lançando sus redes.» Danza de la muerte (R. 57. 3801).«Cuando hobieres de lanzar tu azor a garza, guisa que falle la garza levantada.» Lz. de Ayala, Caza, 41 (Bibl. venat. 3. 317). «E con el trueno lançauan | Los moros por el rreal.» Alf XI, 2249 (R. 57. 5451). «Et esto le deben facer [al falcón] dende adelante fasta que entienda el falconero quel puede lanzar por su cabo.» J. Man. Caza, 6 (Bibl. venat. 3. 48). «Si un home fuese por una calle et lanzare otro una piedra et descalabrare a él en la cabeza ---.» Id. C. Luc. 39 (R. 51. 4171). «Le consejaban que le lanzase luego de la su tierra.» Crón. Fern. IV, 15 (R. 66. 1522). «E Bernaldo caualgó entonces e fue a lançar el tablado e quebrantol.» Crón. gen. 3. 10 (p. 2292). «Abrid vuestras orejas, vuestro corazón se lançe | En amor de Dios Lynpio, amor loco nol trançe.» Arc. de Hita, 878 (R. 57.2542; Cl. C. 17. 11). X «Las coçes el cavallo lançó fuerte en çierto.» Id. 303 (Cl. C. 14. 112).\n\n— Siglo XIII: X «Mas después que ovieron comido e los manteles fueron alçados, los cavalleros se fueron todos del palacio a una plaça que estava ay delante, e los unos se assentaron a jugar tablas e los otros axedrez, e los otros començaron a lançar al tablado, los otros a esgrimir, e los otros a justar e a bofardar.» Conq. de Ultr. 1. 183 (ICC. 51. 353). «E tomó una espada, e púsosela sobre el corazón, e echose en ella, e lanzósela por el cuerpo» Cast. e docum. 43 (R. 51. 1681). «Si algún omme por poco seso, o trebeiando alanzó piedra o alguna cosa o estavan muchos ommes aiuntados ---.» Fuero Juzgo, 6. 5. 7 (p. 113).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. lanceare 'manejar la lanza'. Cat. llançar, fr. lancer, it. lanciare, port. lançar.",
+  "etimologia": "Etim. Del lat. <i>lanceare</i> 'manejar la lanza'. Cat. <i>llançar</i>, fr. <i>lancer</i>, it. <i>lanciare</i>, port. <i>lançar</i>.",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: b, α - χ, α - δ, α - ε, α - φ, α - γ, α - η, α - ι, α - j, α - κ, δ - λ, γ.\n\n— Aβσολ.: β, γ - φ, β.\n\n— Pασ.: χ, γ - δ, α, ε ε - g, η, α α - h, γ, α α.\n\n— Refl.: c, β, ζ ζ - k, α - λ, α - μ, α.\n\n— Rεχíπρ.: η, β - κ, γ.\n\n— Pρνλ.: δ, δ - ε, β.\n\n— Iμπερσ.: χ, η.\n\n— Pαρτ.: b, δ - χ, δ - ε, γ - ε, δ - ε, δ, β β - f, γ - γ, γ - γ, ε, γ γ - m, β.\n\n— Pαρτ. adj.: e, δ, γ γ - g, δ.\n\n— Cον συjετο δε χοσα: β, β - χ, β - δ, β - γ, ζ - ι, β - κ, β - λ, β.\n\n— Cον αχυσ. δε χοσα: δ, γ.\n\n— Cον δατ.: χ, α - γ, ε - η, α.\n\n— Cον δατ. ρεφλ.: κ, δ.\n\n— Cον α: εν γενεραλ.\n\n— Cον αλ φιν: χ, η.\n\n— Cον βαjο: μ, α.\n\n— Cον λα πρεπ. χον: εν γενεραλ.\n\n— Cον χοντρα: β, β, α α - b, γ - γ, ε - κ, α - λ, γ, β β.\n\n— Con de: en general.\n\n— Con la combinación de... a: c, γ, α α - l, α, β β.\n\n— Con la combinación de... en: c, β, γ γ - d, α, ε ε - g, ζ, β β.\n\n— Con debajo de: e, α.\n\n— Cον δεντρο δε: χ, α, δ δ - c, β, β β.\n\n— Con desde: c, β, ζ ζ - c, γ - χ, δ - γ, γ - γ, ζ, γ γ.\n\n— Con en: en general.\n\n— Con en medio de: g, ε.\n\n— Cον εν vανο: δ, α, ε ε.\n\n— Con entre: l, α, δ δ - l, δ.\n\n— Cον εντρε σí: κ, γ.\n\n— Cον φυερα δε: δ, α, γ γ.\n\n— Con hacia: h, γ - κ, α, α α - l, α - λ, α, ε ε - l, α, η η.\n\n— Con hasta: l, α, ζ ζ - l, α, θ θ.\n\n— Con para: b, α, α α - g, η - η, β, α α - k, α, γ γ - l, α.\n\n— Con por: en general.\n\n— Con porque: e, α - μ, α.\n\n— Cον σιν: ε, α, α α - g, ζ, γ γ - m, α, β β.\n\n— Con sobre: b, α, β β - b, β, β β - c, α, ζ ζ - k, α, γ γ - k, β.\n\n— Cον τρασ: β, α, γ γ - k, α, δ δ.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: b, α - χ, α - δ, α - ε, α - φ, α - γ, α - η, α - ι, α - j, α - κ, δ - λ, γ.\n\n— Aβσολ.: β, γ - φ, β.\n\n— Pασ.: χ, γ - δ, α, ε ε - g, η, α α - h, γ, α α.\n\n— Refl.: c, β, ζ ζ - k, α - λ, α - μ, α.\n\n— Rεχíπρ.: η, β - κ, γ.\n\n— Pρνλ.: δ, δ - ε, β.\n\n— Iμπερσ.: χ, η.\n\n— Pαρτ.: b, δ - χ, δ - ε, γ - ε, δ - ε, δ, β β - f, γ - γ, γ - γ, ε, γ γ - m, β.\n\n— Pαρτ. adj.: e, δ, γ γ - g, δ.\n\n— Cον συjετο δε χοσα: β, β - χ, β - δ, β - γ, ζ - ι, β - κ, β - λ, β.\n\n— Cον αχυσ. δε χοσα: δ, γ.\n\n— Cον δατ.: χ, α - γ, ε - η, α.\n\n— Cον δατ. ρεφλ.: κ, δ.\n\n— Cον α: εν γενεραλ.\n\n— Cον αλ φιν: χ, η.\n\n— Cον βαjο: μ, α.\n\n— Cον λα πρεπ. χον: εν γενεραλ.\n\n— Cον χοντρα: β, β, α α - b, γ - γ, ε - κ, α - λ, γ, β β.\n\n— Con de: en general.\n\n— Con la combinación de... a: c, γ, α α - l, α, β β.\n\n— Con la combinación de... en: c, β, γ γ - d, α, ε ε - g, ζ, β β.\n\n— Con debajo de: e, α.\n\n— Cον δεντρο δε: χ, α, δ δ - c, β, β β.\n\n— Con desde: c, β, ζ ζ - c, γ - χ, δ - γ, γ - γ, ζ, γ γ.\n\n— Con en: en general.\n\n— Con en medio de: g, ε.\n\n— Cον εν vανο: δ, α, ε ε.\n\n— Con entre: l, α, δ δ - l, δ.\n\n— Cον εντρε σí: κ, γ.\n\n— Cον φυερα δε: δ, α, γ γ.\n\n— Con hacia: h, γ - κ, α, α α - l, α - λ, α, ε ε - l, α, η η.\n\n— Con hasta: l, α, ζ ζ - l, α, θ θ.\n\n— Con para: b, α, α α - g, η - η, β, α α - k, α, γ γ - l, α.\n\n— Con por: en general.\n\n— Con porque: e, α - μ, α.\n\n— Cον σιν: ε, α, α α - g, ζ, γ γ - m, α, β β.\n\n— Con sobre: b, α, β β - b, β, β β - c, α, ζ ζ - k, α, γ γ - k, β.\n\n— Cον τρασ: β, α, γ γ - k, α, δ δ.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

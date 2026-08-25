@@ -1,78 +1,103 @@
 {
   "lema": "SABER.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, Tener sabor cierta cosa;\n\n— 2, a) agradar o desagradar una cosa a una persona (Parecer: β ), b) tener una cosa semejanza o apariencia de otra;\n\n— 3, a) tener o adquirir cierta información (Velar, asistir: λ; Se emplea como instrucción para comunicar algo al interlocutor: μ ), b) tener noticias de algo o alguien, c) ser docto en alguna materia, conocer suficientemente de ella, d) conocer, tener en la mente la idea o noción de una cosa cualquiera (Identificar: δ ), e) sentir, experimentar, f) no estar acostumbrado a una cosa, no tolerar (No estar seguro: β );\n\n— 4, como verbo modal, saber + infinitivo (Poder: α, Deber: β, Querer: γ );\n\n— 5, sust. m. a) conocimiento profundo de alguna materia.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, Tener sabor cierta cosa;\n\n— 2, a) agradar o desagradar una cosa a una persona (Parecer: β ), b) tener una cosa semejanza o apariencia de otra;\n\n— 3, a) tener o adquirir cierta información (Velar, asistir: λ; Se emplea como instrucción para comunicar algo al interlocutor: μ ), b) tener noticias de algo o alguien, c) ser docto en alguna materia, conocer suficientemente de ella, d) conocer, tener en la mente la idea o noción de una cosa cualquiera (Identificar: δ ), e) sentir, experimentar, f) no estar acostumbrado a una cosa, no tolerar (No estar seguro: β );\n\n— 4, como verbo modal, saber + infinitivo (Poder: α, Deber: β, Querer: γ );\n\n— 5, sust. m. a) conocimiento profundo de alguna materia.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "Tener sabor cierta cosa (intrans.). Se usa con adv.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Aunque todos saben bien, | Un pernil sabe mejor.»",
               "autor": "Lobo",
-              "referencia_obra": ", Rom. (Poesía Siglo XVIII; Cl. Castal. 65. 50). X"
+              "referencia_obra": ", Rom. (Poesía Siglo XVIII; Cl. Castal. 65. 50)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De todas maneras; bien están los besos y los juegos, pero un azote a tiempo también es salud. Vinagre y miel sabe mal, pero hace bien.»",
               "autor": "Casona",
-              "referencia_obra": ", La dama del alba, p. 48. X"
+              "referencia_obra": ", La dama del alba, p. 48."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los sapos no se comen; pero yo me los he comido también, aunque no se coman, y saben igual que las ranas.»",
               "autor": "Rulfo",
               "referencia_obra": ", El llano en llamas, p. 3."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Cómo comerá bocado que bien le sepa, teniendo tales ojos tal furor, tal perseguidor, y tal brazo contra sí?»",
                   "autor": "Gran.",
                   "referencia_obra": "Guía, 1. 2. 13 (1. 921)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Qué será esto, que los días pasados comía de tan buena gana que todo me sabía bien?»",
                   "autor": "M. de Chaide",
                   "referencia_obra": ", Magd. 3. 31 (R. 27. 3452)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Uña de vaca es? Sí, señor. Dígote que es el mejor bocado del mundo, y que no hay faisán que así me sepa.»",
                   "autor": "Lazar.",
-                  "referencia_obra": "3 (R. 3. 861). X"
+                  "referencia_obra": "3 (R. 3. 861)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mucho mejor me sabe lo que como en mi rincón, sin melindres ni respetos, aunque sea pan y cebollas, que los pavos de otras meças.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 11 (Cl. C. 4. 246). — Con un adj. en función adverbial. X"
-                },
+                  "referencia_obra": "Quij. 1. 11 (Cl. C. 4. 246)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El Pavo empezó a ponerle pegas al vino, pero a mí me sabía bueno.»",
-                  "autor": "Delibes",
-                  "referencia_obra": ", Diario de un cazador, p. 78."
+                  "id_limpio": "—",
+                  "definicion": "Con un adj. en función adverbial.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El Pavo empezó a ponerle pegas al vino, pero a mí me sabía bueno.»",
+                      "autor": "Delibes",
+                      "referencia_obra": ", Diario de un cazador, p. 78."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El primero [de los mojones o catadores] dijo que aquel vino sabía a hierro; el segundo dijo que más sabía a cordobán.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 13 (Cl. C. 13. 245)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -80,30 +105,45 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "met. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Las bofetadas me saben | (Si son a tiempo) mejor | Que gallinas y faisanes.»",
               "autor": "Rojas",
-              "referencia_obra": ", Donde hay agravios no hay celos, 3 (R. 54. 1661). — Además con entre."
-            },
+              "referencia_obra": ", Donde hay agravios no hay celos, 3 (R. 54. 1661)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Dime, ¡cómo te sabía | Entre tus lisonjerías, | La saliva que comías | Que Dionisio escupía | Gran tirano?»",
-              "autor": "Castillejo",
-              "referencia_obra": ", Diál. entre verdad y lisonja, 3 (Fern. 13. 238)."
+              "id_limpio": "—",
+              "definicion": "Además con entre.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Dime, ¡cómo te sabía | Entre tus lisonjerías, | La saliva que comías | Que Dionisio escupía | Gran tirano?»",
+                  "autor": "Castillejo",
+                  "referencia_obra": ", Diál. entre verdad y lisonja, 3 (Fern. 13. 238)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Gloria, ¡oh Sublime que eres la existencia | Por quien siempre hay futuros en el útero eterno! | ¡Tu boca sabe al fruto del árbol de la Ciencia | Y al torcer tus cabellos apagaste el infierno!»",
                   "autor": "Darío",
                   "referencia_obra": ", Poes. p. 297."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -111,33 +151,40 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "met. En mística religiosa. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Esta sea, Señora, su oración, este su pensamiento, como se dará del todo y con amor muy sujeta a la santa voluntad y ley del Señor; y esta le sepa mas dulce que la miel y el panal.»",
               "autor": "Ávila",
               "referencia_obra": ", Epist. 3 (7. 35)."
             },
             {
+              "marca": "",
               "texto_cita": "«Por vuestro amor quiero perder esta alegría, este consuelo, esto que me sabía bien.»",
               "autor": "",
               "referencia_obra": "Id. Ven. Espír. Santo, 4 (2. 343)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si Dios no te sabe bien, ¿qué buscas que bien te sepa?»",
               "autor": "",
-              "referencia_obra": "Id. Eucar. 26 (4. 384). X"
+              "referencia_obra": "Id. Eucar. 26 (4. 384)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vee el alma y gusta en esta diuina vnión abundancia, riquezas inestimables, y halla todo el descanso y recreación que ella desea, y entiende secretos e intelligencias de Dios estrañas, que es otro manjar de los que mejor le sauen.»",
               "autor": "",
               "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 109)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ayuda otrosí la lección de los libros espirituales y devotos; porque dan materia de consideración,... y hacen que el hombre de buena gana piense en aquello que le supo dulcemente.»",
               "autor": "Gran.",
               "referencia_obra": "Doctr. esp. 6. 29 (6. 2581)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -145,65 +192,81 @@
     {
       "id": "2",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Agradar o desagradar una cosa a una persona (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con dat. X",
+          "definicion": "Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A quien Dios bien quiere, si miras, amigo, | La casa le sabe de noche y de día.»",
               "autor": "Yanguas",
-              "referencia_obra": ", Obr. dramát. (Cl. C. 162. 43). X"
+              "referencia_obra": ", Obr. dramát. (Cl. C. 162. 43)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Oyólos, y aquellos días | Tan bien la audiencia le supo, | Que años después se hizo | Rajas en servicio suyo.»",
               "autor": "Góng.",
               "referencia_obra": "Poes. (CI. Ebro, 11. 72)."
             },
             {
+              "marca": "",
               "texto_cita": "«Lo caro trueco a lo que bien me sepa.»",
               "autor": "Quev.",
               "referencia_obra": "Thalía, musa 6, soneto 8 (8. 9)."
             },
             {
+              "marca": "",
               "texto_cita": "«Porque hay sueño, le saben [al hombre] los colchones, | Y le sabe la lumbre si se enfría.»",
               "autor": "T. Iriarte",
               "referencia_obra": ", son. (R. 63. 512)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En los siguientes ejemplos, Parecer. X",
+          "definicion": "En los siguientes ejemplos, Parecer.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Qué altos le sabían sus treinta y tres años de carne canela y palmas rosadas!»",
               "autor": "Fuentes",
               "referencia_obra": ", Obr. complet. p. 1393."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Siendo el sujeto una prop. subjuntiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Hubo muchos a quien no supo bien, que en el clero se moderase la demasía de las mesas.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Cisma, 2. 18 (p. 220)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -212,31 +275,46 @@
     {
       "id": "b)",
       "definicion": "Tener una cosa semejanza o apariencia de otra (intrans.). Con a.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Tenían bien conocido a qué sabían estas manos, aquellos que en el Eclesiástico decían: Si no hiciéremos penitencia, caeremos en las manos de Dios.»",
           "autor": "Gran.",
           "referencia_obra": "Guía, 1. 1. 10 (1. 701)."
         },
         {
+          "marca": "",
           "texto_cita": "«Mas él mismo diga si algún día oyó que Arsileo me dijese cosa que supiese a amores.»",
           "autor": "Montem.",
           "referencia_obra": "Diana, 6 (p. 191)."
         },
         {
+          "marca": "",
           "texto_cita": "«En las églogas con mucho decoro [Garcilaso] usa de locuciones sencillas y elegantes, y de palabras cándidas que saben al campo y a la rustiquez de la aldea.»",
           "autor": "Saav.",
           "referencia_obra": "Emp. (R. 25. 3962)."
         },
         {
+          "marca": "",
           "texto_cita": "«Sin embargo no dejará de ser útil en esta Parte la Poesía..., y de suerte que no sepa a escuela ni a cátedra.»",
           "autor": "Luzán",
-          "referencia_obra": ", Poét. 2. 3 (1. 111). — Siendo el término una prop. indicativa. X"
-        },
+          "referencia_obra": ", Poét. 2. 3 (1. 111)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«El sango es símbolo actual de la escuela libero-gótica, que no sabe sino a lo que se le mezcla, sea anticlericalismo, sea indiferencia, sea ideas antiliberales de Lombroso, sea el diluvio de injurias de la prensa más amarilla del mundo.»",
-          "autor": "M. F. Suárez",
-          "referencia_obra": ", Sueños, 4 (p. 59)."
+          "id_limpio": "—",
+          "definicion": "Siendo el término una prop. indicativa.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "X",
+              "texto_cita": "«El sango es símbolo actual de la escuela libero-gótica, que no sabe sino a lo que se le mezcla, sea anticlericalismo, sea indiferencia, sea ideas antiliberales de Lombroso, sea el diluvio de injurias de la prensa más amarilla del mundo.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños, 4 (p. 59)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -244,140 +322,187 @@
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Tener o adquirir cierta información (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A los nobles principalmente se dió por entonces que no les fuese imputado a mal si alguna vez hiciesen entre sí juntas para defender su libertad sin que el Rey lo supiese.»",
               "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. (Cl. Ebro, 3. 59). X"
+              "referencia_obra": ", Hist. Esp. (Cl. Ebro, 3. 59)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No sepan los rabiosos celos ni las dudas sospechosas la morada de vuestros pechos.»",
               "autor": "Cerv.",
-              "referencia_obra": "Pers. 1. 10 (Cl. Castal. 12. 102). X"
+              "referencia_obra": "Pers. 1. 10 (Cl. Castal. 12. 102)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Anoche supimos la muerte de Grisóstomo.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 1. 13 (Cl. C. 8. 304). X"
+              "referencia_obra": "Id. ib. 1. 13 (Cl. C. 8. 304)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No te ha de aprovechar pensar entonces que no sabe nadie la desgracia que te ha sucedido; porque bastará para afligirte y deshacerte que la sepas tú mesmo.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 1. 33 (Cl. C. 8. 187). X"
+              "referencia_obra": "Id. ib. 1. 33 (Cl. C. 8. 187)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Gustáis de saberlo todo.»",
               "autor": "Rojas",
-              "referencia_obra": ", Morir pensando, matar (Cl. C. 153. 13). X"
+              "referencia_obra": ", Morir pensando, matar (Cl. C. 153. 13)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Bueno! | ¡Por Dios que es gentil donaire! | Digan que se vuelvan luego | A su convento los frailes, | Si no es que quieren saber | A lo que estos hierros saben.»",
               "autor": "Tirso",
               "referencia_obra": ", El condenado por desconfiado (Cl. Ebro, 1. 100)."
             },
             {
+              "marca": "",
               "texto_cita": "«Siempre fuiste amigo de saber, así cosas pasadas como cosas ocultas.»",
               "autor": "Capm.",
-              "referencia_obra": "Teatro (2. 95). X"
+              "referencia_obra": "Teatro (2. 95)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No sé... Hay aquí algo oscuro que a los dos nos importa averiguar. — Si no lo sabes tú, ¿quién puede saberlo?»",
               "autor": "Casona",
               "referencia_obra": ", La dama del alba, p. 63."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, que indica: — el asunto o el tema.",
-              "ejemplos_citas": [
+              "definicion": "Con de, que indica:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Los santos Evangelistas escribieron cosas que de ella supieron.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Festiv. 11 (5. 336)."
+                  "id_limpio": "—",
+                  "definicion": "el asunto o el tema.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Los santos Evangelistas escribieron cosas que de ella supieron.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Festiv. 11 (5. 336)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Mas supo Amor las nuevas de su dama, | No me acuerdo ya bien cómo o por dónde.»",
+                      "autor": "Valb.",
+                      "referencia_obra": "Bern. 10 (R. 17. 2531)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Posiblemente, en los espacios sidéreos tampoco saben nada de nuestras revoluciones.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Tirano Banderas, 2. 3. 7 (p. 57)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Mas supo Amor las nuevas de su dama, | No me acuerdo ya bien cómo o por dónde.»",
-                  "autor": "Valb.",
-                  "referencia_obra": "Bern. 10 (R. 17. 2531)."
-                },
-                {
-                  "texto_cita": "«Posiblemente, en los espacios sidéreos tampoco saben nada de nuestras revoluciones.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Tirano Banderas, 2. 3. 7 (p. 57). — La fuente o procedencia."
-                },
-                {
-                  "texto_cita": "«Y creo con el favor de Dios, en esto atinaré algo; porque... élo de algunos letrados muy letrados.»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Vida, 16 (1. 115)."
-                },
-                {
-                  "texto_cita": "«Hernán Cortés, que lo supo luego [que Xicotencal desamparó el ejército] de los mismos tlascaltecas, sintió vivamente una demostración de tan dañosas consecuencias.»",
-                  "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 5. 19 (R. 28. 3751)."
+                  "id_limpio": "—",
+                  "definicion": "La fuente o procedencia.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y creo con el favor de Dios, en esto atinaré algo; porque... élo de algunos letrados muy letrados.»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Vida, 16 (1. 115)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Hernán Cortés, que lo supo luego [que Xicotencal desamparó el ejército] de los mismos tlascaltecas, sintió vivamente una demostración de tan dañosas consecuencias.»",
+                      "autor": "Solís",
+                      "referencia_obra": ", Conq. de Méj. 5. 19 (R. 28. 3751)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con desde. X",
+              "definicion": "Con desde.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El conquistador se instaló en el alcázar toledano y buscó afanosamente los tesoros, y sobre todo, el cinturón de Zobeida, cuya riqueza sabían los príncipes árabes desde las canciones de su cuna.»",
                   "autor": "Marañón",
                   "referencia_obra": ", Tiempo viejo, p. 17."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, que señala el lugar. X",
+              "definicion": "Con en, que señala el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los peregrinos que venían de Boston supieron la noticia en el camino, y gentilmente volvieron sus barcas.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 2. 10 (p. 200)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con un predicado referido al acus. X",
+              "definicion": "Con un predicado referido al acus.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Qué ayuda iba yo a pedir en la hacienda, si lo sabía bien muerto y además con los muchachos del nuevo cacique que necesitaba matar a Atanasio tarde o temprano para serlo de veras?»",
                   "autor": "Fuentes",
                   "referencia_obra": ", Obr. complet. p. 1392."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Sustantivado. Además con sin y una prop. infinitiva. X",
+              "definicion": "Sustantivado. Además con sin y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El haber pronosticado el fuego, el saber vuestros nombres sin haberos visto jamás, las muertes que he dicho que he visto antes que vengan, os podrán mover, si queréis, a creerme.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 3. 18 (Cl. Castal. 12. 397)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -385,325 +510,427 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Siendo el acus. una prop. infinitiva.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pudiera junto con lo dicho probar esta verdad con ejemplos de muchas personas que yo he sabido haber mudado la vida, movidos por la lección de buenos libros.»",
               "autor": "Gran.",
               "referencia_obra": "Guía, pról."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Siendo el acus. una prop. indicativa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Basta saber que aquesta tan sencilla | Y tan pura amistad, quiso mi hado | En diferente especie convertilla.»",
               "autor": "Garcil.",
               "referencia_obra": "égl. 2 (R. 32. 82)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mejor me iba a mí entonces que agora, cuando yo no era galana, cuando yo no sabía si había ventanas en casa.»",
               "autor": "",
               "referencia_obra": "M. de Chaide, Magd. 3. 26 (R. 27. 3351)."
             },
             {
+              "marca": "",
               "texto_cita": "«Lo que quiero es, saber | Si el Príncipe se ha engañado, O qué causa le ha movido.»",
               "autor": "Cerv.",
               "referencia_obra": "Lab. de amor, 2 (Com. 2. 140)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si a esperar | Su parecer te dispones, | Según agora he sabido, | A Valmadrigal, señor, | Con Elvira y con Leonor | Esta mañana ha partido.»",
               "autor": "Alarcón",
               "referencia_obra": ", Los pechos privilegiados, 2. 15 (R. 20. 4242)."
             },
             {
+              "marca": "",
               "texto_cita": "«Eso veslo aquí pintando: | Como quien come un conejo, | Y sabe después que es gato.»",
               "autor": "Mto.",
-              "referencia_obra": "El poder de la amistad, 3. 12 (R. 39. 381). X"
+              "referencia_obra": "El poder de la amistad, 3. 12 (R. 39. 381)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Bien sé yo que no existen tales libros, y que probablemente tardarán en existir.»",
               "autor": "Jovell.",
-              "referencia_obra": "Mem. sobre educación pública (Cl. C. 111. 63). X"
+              "referencia_obra": "Mem. sobre educación pública (Cl. C. 111. 63)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Qué aroma derramas | En el alma mía | Si sé que me amas! | ¡Oh Mía! ¡Oh Mía!»",
               "autor": "Darío",
               "referencia_obra": ", Poes. p. 200."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, que denota la procedencia.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mi gente lo acetará, | Pues vuestro valor le abona, | Y sabe de vuestra ley, | Que sin méritos, al Rey | No le proponéis persona.»",
                   "autor": "Rojas",
-                  "referencia_obra": ", Del rey abajo ninguno, 2 (R. 54. 72). X"
+                  "referencia_obra": ", Del rey abajo ninguno, 2 (R. 54. 72)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«De la justicia esto escondo, | Y de ti vengo a saber | Si pudo ser mi mujer.»",
                   "autor": "G. de Castro",
                   "referencia_obra": ", Los mal casados (Cl. Castal. 76. 296)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Supo de ellos Hernán Cortés cuanto pasaba en el cuartel de su enemigo.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 4. 8 (R. 28. 3151)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con por, que indica el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Jerusalén era la principal ciudad, y la más hermosa, que había en toda Palestina, --- según sabemos por las escrituras hebreas.»",
                   "autor": "León",
-                  "referencia_obra": ", Cantares, 6 (4. 101). X"
+                  "referencia_obra": ", Cantares, 6 (4. 101)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo no le pienso ofender, | Supuesto que sé por cierto, | Por su palabra y concierto, | Que es Sabrina su mujer.»",
                   "autor": "Tirso",
                   "referencia_obra": "(NBAE. 4. 364)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Sustantivado. X",
+              "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Lo que sí me puso a canto de volverme loco fue el saber que eras candidato al primer empleo público.»",
                   "autor": "M. F. Suárez",
                   "referencia_obra": ", Sueños, 4 (p. 107)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Siendo el acus. una prop. subjuntiva. X",
+          "definicion": "Siendo el acus. una prop. subjuntiva.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No sabemos que aquí ni en parte alguna, ahora ni en ningún tiempo, se hubieran convertido en juego de muchachos ni en asunto de actividad inconsciente.»",
               "autor": "",
               "referencia_obra": "M. F. Suárez, Sueños, 4 (p. 18)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Siendo el acus. una prop. interrogativa. X",
+          "definicion": "Siendo el acus. una prop. interrogativa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ya tú, hermano, | Sabrás cómo este verano, | Fiesta de la Magdalena, | Embarcó en hora buena | A ver el mundo italiano.»",
               "autor": "Lz. de Yanguas",
-              "referencia_obra": ", Obr. dramát. (Cl. C. 162. 85). X"
+              "referencia_obra": ", Obr. dramát. (Cl. C. 162. 85)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Qué he de hablar, si no he sabido | Quién sois?»",
               "autor": "Tirso",
-              "referencia_obra": ", Averígüelo Vargas, 3 (Cl. C. 131. 236). X"
+              "referencia_obra": ", Averígüelo Vargas, 3 (Cl. C. 131. 236)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pedrarias quiere que la primera impresión no deje lugar a dudas, y que todos sepan quién es él.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 4 (p. 76)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, que designa la fuente o la procedencia.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Mas dende a pocos días supo de la misma [de la viuda] cómo Abén Humeya enviaba los turcos a cierta empresa.»",
                   "autor": "Mend.",
-                  "referencia_obra": "Guerra de Granad. 3 (R. 21. 1031). X"
+                  "referencia_obra": "Guerra de Granad. 3 (R. 21. 1031)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Don Antonio, yo quisiera | Saber de vos cómo se ama, | Sin que el corazón lo sepa.»",
                   "autor": "Cañizares",
                   "referencia_obra": ", El Dómine Lucas, 1 (R. 49. 5051)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Pas. X",
+          "definicion": "Pas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Fue su vida tan sabida y todo a todos tan notorio, que pretenderlo negar sería locura y a resto abierto dar nueva materia de murmuraciones.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 1. 1. 1 (Cl C. 73. 49)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
-          "definicion": "Pas. refl. X",
+          "definicion": "Pas. refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Avísote que no digas nada a nadie, ni a los que con nosotros vienen, de lo que aquí hemos departido y tratado; que pues Dulcinea es tan recatada, que no quiere que se sepan sus pensamientos, no será bien que yo, ni otro por mí, los descubra.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 31 (Cl. C. 8. 142)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, que indica la procedencia. Además con en, para señalar el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«No será fuera de propósito decir aquí lo que se supo de buen original en este tiempo, tocante a la calidad de la conversación del de Bearne.»",
                   "autor": "Coloma",
                   "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 752)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para señalar: — el tiempo. X",
-              "ejemplos_citas": [
+              "definicion": "Con en, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«La serie de sus obras, si metódicamente se leen, viene a constituir una inmensa enciclopedia, en que está derramado y como transfundido cuanto se sabía y podía saberse en el siglo VII.»",
-                  "autor": "Menéndez y Pelayo",
-                  "referencia_obra": ", Estudios, p. 18. — El lugar. X"
+                  "id_limpio": "—",
+                  "definicion": "el tiempo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La serie de sus obras, si metódicamente se leen, viene a constituir una inmensa enciclopedia, en que está derramado y como transfundido cuanto se sabía y podía saberse en el siglo VII.»",
+                      "autor": "Menéndez y Pelayo",
+                      "referencia_obra": ", Estudios, p. 18."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Tal fin hizo Aben Humeya, en quien después de tantos años revivió la memoria de aquel linaje, que fue uno de los en cuya mano estuvo la mayor parte de lo que entonces se sabía en el mundo.»",
-                  "autor": "Mend.",
-                  "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 295)."
+                  "id_limpio": "—",
+                  "definicion": "El lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Tal fin hizo Aben Humeya, en quien después de tantos años revivió la memoria de aquel linaje, que fue uno de los en cuya mano estuvo la mayor parte de lo que entonces se sabía en el mundo.»",
+                      "autor": "Mend.",
+                      "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 295)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Siendo el sujeto una prop. indicativa. X",
+              "definicion": "Siendo el sujeto una prop. indicativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y no sé cómo se supo que había hablado a solas estas o otras semejantes razones.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 3. 17 (Cl. Castal. 12. 388)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se sabía que habían entrado [los regimientos] en el país de Namur.»",
                   "autor": "Coloma",
-                  "referencia_obra": ", Guerras de los Est. Bajos, 8 (R. 28. 1171). X"
+                  "referencia_obra": ", Guerras de los Est. Bajos, 8 (R. 28. 1171)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Nadie volvió a verlo en la semana; se supo que estaba en el rancho.»",
                   "autor": "",
-                  "referencia_obra": "Yáñez, Al filo del agua, p. 305. — Además con en, para indicar el tiempo y el lugar."
+                  "referencia_obra": "Yáñez, Al filo del agua, p. 305."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para indicar el tiempo y el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Súpose en principio deste año en Francia, que venía en calidad de legado a latere el cardenal Gaetano.»",
+                      "autor": "Coloma",
+                      "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 292)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Súpose en principio deste año en Francia, que venía en calidad de legado a latere el cardenal Gaetano.»",
-                  "autor": "Coloma",
-                  "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 292). — Además con por, que señala el lugar. X"
-                },
-                {
-                  "texto_cita": "«El día que por toda Europa se sepa que el horrible monstruo que hoy desola la República y está gritando diariamente muerte a los extranjeros, ha desaparecido, ese día la inmigración industriosa de la Europa se dirigirá en masa al Río de la Plata.»",
-                  "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Facundo, 3. 2 (p. 269)."
+                  "id_limpio": "—",
+                  "definicion": "Además con por, que señala el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El día que por toda Europa se sepa que el horrible monstruo que hoy desola la República y está gritando diariamente muerte a los extranjeros, ha desaparecido, ese día la inmigración industriosa de la Europa se dirigirá en masa al Río de la Plata.»",
+                      "autor": "D. F. Sarmiento",
+                      "referencia_obra": ", Facundo, 3. 2 (p. 269)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Siendo el sujeto una prop. interrogativa. X",
+              "definicion": "Siendo el sujeto una prop. interrogativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El negro Toussaint, la criolla Josefina y el soldado de Córcega son tres ejemplos perfectos de la época. No se sabe cuál realiza proeza mayor.»",
                   "autor": "Arciniegas",
                   "referencia_obra": ", Biogr. del Caribe, 3. 19 (p. 330)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
-          "definicion": "Prnl. X",
+          "definicion": "Prnl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Sey cierto que nunca le falten maridos! | Pues los que Avaricia se tiene prendidos, | Dios se lo sabe, pastor, que no yo.»",
               "autor": "Lz. de Yanguas",
               "referencia_obra": ", Obr. dramát. (Cl. C. 162. 54)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si no te lo sabes, oh hermosa entre las mujeres, salte y sigue las pisadas del ganado.»",
               "autor": "León",
               "referencia_obra": ", Cantares, 10 (4. 19)."
             },
             {
+              "marca": "",
               "texto_cita": "«El ha puesto sobre mí su mano, y no por mi culpa, sino por los fines que El se sabe.»",
               "autor": "",
               "referencia_obra": "Id. Expos. de Job, 1. 9. (1. 168)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y las más veces los envía [los bienes] a quien no los merece, por los fines que El se sabe.»",
               "autor": "",
               "referencia_obra": "Id. Nomb. 2. 1 (3. 142)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y creyendo que eran los sabios, y que todo se lo sabían, esta misma soberbia y vanidad los precipitó en la más deplorable ceguedad.»",
               "autor": "Scío",
               "referencia_obra": ", S. Pablo. Rom. (5. 466)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ι )",
           "id_limpio": "— ι )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La justicia, sabido el caso, me adjudicó el despojo de la batalla y mandó que el dueño de la mula hurtada me pagasse muy buen hallazgo.»",
               "autor": "Píc. Just.",
-              "referencia_obra": "p. 202. X"
+              "referencia_obra": "p. 202."
             },
             {
+              "marca": "X",
               "texto_cita": "«Viendo a los dos en traje tan no usado de los que por aquellas soledades andaban, no dejó de admirarse algún tanto, y más cuando oyó que le habían hablado en su negocio, como es cosa sabida (porque las razones que el Cura le dijo así lo dieron a entender); y así, respondió desta manera ---.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 27 (Cl. C. 8. 17)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con por, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Sabida la rebelión de los de Magnesia por Roger, quiso castigalla luego.»",
                   "autor": "Moncada",
                   "referencia_obra": ", Exped. 18 (R. 21. 181)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -711,76 +938,93 @@
           "id_marcador_html": "— κ )",
           "id_limpio": "— κ )",
           "definicion": "Part. dep.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Pero tú de lo que pasa | No te has de dar por sabido, | Sino fingir un intento | Con que irla a visitar.»",
               "autor": "Mto.",
               "referencia_obra": "El lindo don Diego, 2. 3 (R. 39. 3583)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— λ )",
           "id_limpio": "— λ )",
           "definicion": "Velar, asistir. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Bienaventurado hombre que de Dios se acuerda, pues le sabe la Virgen la casa.»",
               "autor": "Ávila",
               "referencia_obra": ", Festiv. 5 (5. 149)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— μ )",
           "id_limpio": "— μ )",
           "definicion": "Se emplea como instrucción para comunicar algo al interlocutor.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mas sepa que han tenido gran cuidado de encomendarlas a Dios, y estado harto lastimadas.»",
               "autor": "Sta. Ter.",
-              "referencia_obra": "Cartas, 275 (R. 55. 2441). X"
+              "referencia_obra": "Cartas, 275 (R. 55. 2441)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sábete, Anselmo, que ha muchos días que he andado peleando conmigo mesmo.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 34 (Cl. C. 8. 233). X"
+              "referencia_obra": "Quij. 1. 34 (Cl. C. 8. 233)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sabed, amigo Lotario, que tengo una pena en el corazón.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 1. 34 (Cl. C. 8. 236). X"
+              "referencia_obra": "Id. ib. 1. 34 (Cl. C. 8. 236)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Como sabéis, la pregunta casi nunca se encuentra en las historias de las más diversas épocas que han reconstruido nuestros detectores.»",
               "autor": "Buero Vallejo",
-              "referencia_obra": ", El tragaluz (Cl. Castal. 35. 213). X"
+              "referencia_obra": ", El tragaluz (Cl. Castal. 35. 213)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Como todos lo saben, hubo un día en que esa media naranja del mundo se oscureció.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 1 (p. 17)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "La forma sepa encabeza generalmente un apóstrofe descortés o violento. X",
+              "definicion": "La forma sepa encabeza generalmente un apóstrofe descortés o violento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y sepa que, aunque safio y villano, todavía se me alcanza algo desto que llaman buen gobierno.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Quij. 1. 23 (Cl. C. 6. 234). X"
+                  "referencia_obra": "Quij. 1. 23 (Cl. C. 6. 234)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Sepa que yo no tengo miedo a nadie. | Como el agua que nace soy de limpia, | Y me puedo manchar si usted me toca; | Pero se defenderme. ¡Salga pronto!»",
                   "autor": "García Lorca",
                   "referencia_obra": ", Mariana Pineda, 9 (Obr. compl. 2. 193)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -789,73 +1033,90 @@
     {
       "id": "b)",
       "definicion": "Tener noticias de algo o alguien (intrans.). Con de, para indicar aquel o aquello de lo que se tiene noticia.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Deseo saber del mi buen prior de las Cuevas.»",
           "autor": "Sta. Ter.",
           "referencia_obra": "Cartas, 97 (R. 55. 871)."
         },
         {
+          "marca": "",
           "texto_cita": "«Lo mismo advirtió Jeroboán cuando, enviando a su mujer al profeta Ahías para saber de la enfermedad de su hijo, le ordenó que se disfrazase.»",
           "autor": "Saav.",
-          "referencia_obra": "Emp. 48 (R. 25. 1222). X"
+          "referencia_obra": "Emp. 48 (R. 25. 1222)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Para que el rey sepa de esta fábrica se la describe quien la ha visto: — La casa es tal, que ninguna sé yo de España de un cuarto que tal tenga, toda de piedra y muy buenas piezas y muchas, y de la más hermosa vista.»",
           "autor": "Arciniegas",
           "referencia_obra": ", Biogr. del Caribe, 1. 3 (p. 59)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Ser docto en alguna materia, conocer suficientemente de ella (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Este sabe más que Sant Augustín.»",
               "autor": "",
               "referencia_obra": "Loyola, Ejercicios (BAC. 86. 272)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«De todo sabe [ella]; y no poco, sino mucho.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Medit. (3. 4362). X"
+                  "referencia_obra": "Medit. (3. 4362)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Da gracias a Dios por haberte dado por Juez uno que es hombre y Dios, y que sabe de enfermedades.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Festiv. 6 (5. 170)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Tendríamos por bajeza, que nuestro príncipe supiese de todo.»",
                   "autor": "León",
-                  "referencia_obra": ", Nomb. 2. 2 (3. 177). X"
+                  "referencia_obra": ", Nomb. 2. 2 (3. 177)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«De esa manera, Antonio, bien podrás hacernos placer de cantar un poco, porque des este señor huésped, que tenemos, que también por los montes y selvas hay quien sepa de música.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 11 (Cl. C. 4. 256)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Como Herodes, hace juntas para saber de Dios.»",
                   "autor": "Quev.",
                   "referencia_obra": "Polític. de Dios, 2. 16 (6. 382)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -864,98 +1125,120 @@
     {
       "id": "d)",
       "definicion": "Conocer, tener en la mente la idea o noción de una cosa cualquiera (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A vuestra edad y a mi gravedad más les conviene ya saber las buenas tabernas que no ojear las ventanas de las enamoradas.»",
               "autor": "Guev.",
-              "referencia_obra": "Epíst. 1. 35 (Cl. Esp. 10. 230). X"
+              "referencia_obra": "Epíst. 1. 35 (Cl. Esp. 10. 230)."
             },
             {
+              "marca": "X",
               "texto_cita": "«A mí que sé la tierra, paréceme imposible ser recorrido con tiempo, aunque los soldados quisieran mandarse, ni hubiera enemigos en medio y a las espaldas.»",
               "autor": "Mend.",
-              "referencia_obra": "Guerra de Gran. (Cl. Castal. 22. 259). X"
+              "referencia_obra": "Guerra de Gran. (Cl. Castal. 22. 259)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Salieron de la ciudad una noche, atrochando por fuera de camino, como los que sabían bien la tierra.»",
               "autor": "Alemán",
-              "referencia_obra": ", Guzmán (Cl. C. 73. 183). X"
+              "referencia_obra": ", Guzmán (Cl. C. 73. 183)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y cada uno mire por el virote; aunque lo más acertado sería dejar dormir su cólera a cada uno; que no sabe nadie el alma de nadie, y tal suele venir por lana que vuelve tresquilado.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 14 (Cl. C. 13. 258)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Cómo sabiendo la casa | No conociste el camino?»",
               "autor": "Rojas",
-              "referencia_obra": ", Sin honra no hay amistad, 3 (R. 54. 3121). X"
+              "referencia_obra": ", Sin honra no hay amistad, 3 (R. 54. 3121)."
             },
             {
+              "marca": "X",
               "texto_cita": "«i Salve, lecho feliz, que sólo sabes | Misterios tan süaves!»",
               "autor": "Mel.",
               "referencia_obra": "Poes. (Cl. C. 64. 261)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Intrans. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Oh gente grosera, que no sabéis sino de la tierra, no estimáis sino el mantenimiento del cuerpo!»",
               "autor": "Ávila",
-              "referencia_obra": ", Eucar. 19 (4. 228). X"
+              "referencia_obra": ", Eucar. 19 (4. 228)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Para el congreso que se va a reunir, apenas si se le elige diputado por la población de San Juan Bautista de Pao, perdida en los llanos ardientes donde las gentes —todos rudos vaqueros— sólo saben de yeguas, mulas y ganados.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 4. 23 (p. 380)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No estudia para saberse, sino para desconocerse.»",
               "autor": "Gracián",
               "referencia_obra": ", El criticón, 1. 10 (Cl. C. 165. 151)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si no conocemos a nadie, si nadie nos habla, a bien que ni tu ni yo nos sabemos aún de memoria.»",
               "autor": "Valera",
               "referencia_obra": ", Pasarse de listo, 7 (p. 95)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "En los siguientes ejemplos, Identificar. X",
+          "definicion": "En los siguientes ejemplos, Identificar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No cayo en la cuenta quién es la parida, | Ni puedo acertalla, ni puedo sabella.»",
               "autor": "Lz. de Yanguas",
-              "referencia_obra": ", Obr. dramát. (Cl. C. 162. 22). X"
+              "referencia_obra": ", Obr. dramát. (Cl. C. 162. 22)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Con qué paciencia podré llevar que quiera vuestra merced que de sola una vez que vi la casa de nuestra ama, la haya de saber siempre y hallarla a media noche...?»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 9 (Cl. C. 13. 168)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -963,90 +1246,111 @@
     {
       "id": "e)",
       "definicion": "Sentir, experimentar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Siendo el acus. una prop. indicativa. X",
+          "definicion": "Siendo el acus. una prop. indicativa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A mí se me emplea bien, | Pero un consuelo tenía, | Que si dejas mi querer | Sabrás lo que son fatigas.»",
               "autor": "Ferrán",
               "referencia_obra": ", Obr. complet. (Cl. C. 164. 38)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Siendo el acus. una prop. subjuntiva. X",
+              "definicion": "Siendo el acus. una prop. subjuntiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Consiguientemente [la acedía] le queda por pecado mortal enemigo de la caridad que es diligentísima en el obrar y no sabe que sea cansarse.»",
                   "autor": "J. de Pineda",
                   "referencia_obra": ", Agr. christ. 23. 31 (R. 169. 1281)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Siendo el acus. una prop. interrogativa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Yo nunca supe qué cosa era descontento de ser Monja.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Vida, 36 (1. 320)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«El sexto [Privilegio], haber sido llevada en cuerpo y ánima al cielo, sin que su cuerpo supiese qué cosa era corrupción.»",
                   "autor": "Gran.",
                   "referencia_obra": "Mem. vida crist. 6 (3. 942)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Oh reino verdaderamente bienaventurado, que careces de muerte:... donde el día sin noche continuado no sabe qué cosa es mudanza.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 1. 2 (2. 3981)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No temen [las cosas de Dios] las mudanzas y vueltas del tiempo, ni saben qué cosa es vejez.»",
                   "autor": "",
                   "referencia_obra": "Id. Simb. 2. 22 (4. 2922)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. Con un predicado referido al acus. X",
+          "definicion": "Refl. Con un predicado referido al acus.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Se sabía dueño de esa ternura probada.»",
               "autor": "Fuentes",
               "referencia_obra": ", Obr. complet. p. 1137."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Intrans. Con de. X",
+          "definicion": "Intrans. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Yo supe de dolor desde mi infancia, | Mi juventud... ¿fué juventud la mía? | Sus rosas aún me dejan la fragancia... | Una fragancia de melancolía...»",
               "autor": "Darío",
-              "referencia_obra": ", Poes. p. 248. X"
+              "referencia_obra": ", Poes. p. 248."
             },
             {
+              "marca": "X",
               "texto_cita": "«Para ti, que conoces cómo la piedra canta, | Y cuya delicada pupila sabe ya del peso de una | Montaña sobre un ojo dulce.»",
               "autor": "Aleixandre",
               "referencia_obra": ", Sombra del paraíso (Cl. Castal. 71. 83)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1054,37 +1358,46 @@
     {
       "id": "f)",
       "definicion": "En forma negativa, No estar acostumbrado a una cosa, no tolerar (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El que no sabe de llorar no sabe de bien ninguno.»",
               "autor": "Ávila",
-              "referencia_obra": ", Festiv. 3 (5. 100). X"
+              "referencia_obra": ", Festiv. 3 (5. 100)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mas el cabrero, que no sabía de burlas, viendo con cuentas veras le maltraban --- saltó sobre don Quijote y, asiéndose del cuello con entrambas manos, no dudara de ahogalle si Sancho Panza no llegara en aquel punto y le asiera por las espaldas.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 52 (Cl. C. 10. 310)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "No estar seguro.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No se si me atreva a decir qué fueran los imperios perpetuos si en los príncipes se ajustara siempre la voluntad al poder y la razón a los acasos.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 60 (R. 25. 1652)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1092,274 +1405,337 @@
     {
       "id": "g)",
       "definicion": "Locuciones y expresiones varias.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "A saber: se usa para introducir la explicación o desarrollo de algo que se acaba de nombrar. X",
+          "definicion": "A saber: se usa para introducir la explicación o desarrollo de algo que se acaba de nombrar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Dize aquí que ni aún a la cerca y muro de este su huerto le topen, porque la esposa duerma más siguro, es a sauer, porque más a su sauor se deleite de la quietud y suabidad que goza en el Amado.»",
               "autor": "",
               "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 171)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se halló [D. Pero Ruiz] se halló en aquellas vistas de los reyes por estar, es a saber, ya reconciliado con ambos.»",
               "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 11. 20 (1. 5641). X"
+              "referencia_obra": ", Hist. Esp. 11. 20 (1. 5641)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En el cuadro de los presidentes encontramos que once han sido reelegidos, a saber: Washington, Jefferson, Madison, Monroe, Jackson, Lincoln, Grant, Cleveland, Mac Kinley, Roosevelt y Wilson.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 4 (p. 197)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Es de saber: fórmula que se emplea para advertir al interlocutor que lo que se va a decir es necesario o conveniente que él lo conozca. X",
+          "definicion": "Es de saber: fórmula que se emplea para advertir al interlocutor que lo que se va a decir es necesario o conveniente que él lo conozca.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Es también de saber que Malambruno me dijo que cuando la suerte me deparase al caballero nuestro libertador, que él enviaría una cabalgadura harto mejor y con menos malicias que las que son de retorno porque ha de ser aquel mesmo caballo de madera sobre quien el valeroso Pierres llevó robada a la linda Magalona.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 40 (Cl. C. 19. 57)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Hacer saber: avisar, comunicar. X",
+          "definicion": "Hacer saber: avisar, comunicar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Bien puede leella su reverencia, porque le hago saber que a algunos huéspedes que aquí la han leído les ha contentado mucho, y me la han pedido con muchas veras.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 32 (Cl. C. 8. 168)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "No saber cuántos son cinco: ser muy simple; ignorar hasta lo que es muy conocido y vulgar. X",
+          "definicion": "No saber cuántos son cinco: ser muy simple; ignorar hasta lo que es muy conocido y vulgar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A otro perro con ese hueso, respondió el ventero, como si yo no supiese cuántos son cinco.»",
               "autor": "Cerv.",
               "referencia_obra": "(Pagés, Dicc.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "No saber de la misa la media: no estar enterado de cierta cosa alguien que pretente o debería estarlo. X",
+          "definicion": "No saber de la misa la media: no estar enterado de cierta cosa alguien que pretente o debería estarlo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Tú no sabes de la misa la media, supuesto que olvidas la observación obligatoria del domingo.»",
               "autor": "",
               "referencia_obra": "M. E Suárez, Sueños, 4 (p. 113)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "No saber dónde meterse: expresa y pondera el gran temor o la vergüenza que le ocasionan una especie o un acontecimiento. X",
+          "definicion": "No saber dónde meterse: expresa y pondera el gran temor o la vergüenza que le ocasionan una especie o un acontecimiento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Yo creía que después de lo que había hecho, y al anuncio de la llegada de su padre, no sabría dónde meterse.»",
               "autor": "Pagés",
               "referencia_obra": ", Dicc.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
-          "definicion": "No saber lo que dice: no tener el dominio de sí al hablar. X",
+          "definicion": "No saber lo que dice: no tener el dominio de sí al hablar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Estaba desesperada. No supe lo que decía.»",
               "autor": "Casona",
               "referencia_obra": ", La dama del alba, p. 59."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
           "definicion": "No saben lo que hacen: estar obrando desacertada o inconcientemente en algún asunto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Padre perdónalos, que no saben lo que hacen.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 5 (3. 411)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ι )",
           "id_limpio": "— ι )",
-          "definicion": "No saber lo que se pesca: andar descaminado o hallarse ignorante en los negocios o asuntos que trata. X",
+          "definicion": "No saber lo que se pesca: andar descaminado o hallarse ignorante en los negocios o asuntos que trata.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En esta ocasión como en otras muchas de su comentario no sabía Clemencín lo que se pescaba.»",
               "autor": "Pagés",
-              "referencia_obra": ", Dicc.). X"
+              "referencia_obra": ", Dicc.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Le contestó que no hiciese caso de tales avisos, que el arzobispo estaba lelo y que no sabía lo que se pescaba.»",
               "autor": "Mir",
               "referencia_obra": "(Pagés, Dicc.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— κ )",
           "id_limpio": "— κ )",
-          "definicion": "No saber por dónde se anda: no tener expedición ni capacidad para desempeñar aquello de que está encargado. X",
+          "definicion": "No saber por dónde se anda: no tener expedición ni capacidad para desempeñar aquello de que está encargado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ni en los talleres de Barcelona ni en los de Madrid supo nunca por dónde se andaba.»",
               "autor": "Pagés",
               "referencia_obra": ", Dicc.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— λ )",
           "id_limpio": "— λ )",
-          "definicion": "No saber qué decir: no poder responder algo cierto. X",
+          "definicion": "No saber qué decir: no poder responder algo cierto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿No tarda mucho? —Yo no sé qué decirte. — ¿Si lo harán detenido?»",
               "autor": "García Lorca",
               "referencia_obra": ", Mariana Pineda, 2. 7 (Obr. complet. 2. 178)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— μ )",
           "id_limpio": "— μ )",
           "definicion": "No saber qué hacer: quedarse suspenso, turbado o indeciso.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Era ya tarde, hora de Vísperas, ya la gente se había ido, y no sabían que hacerse.»",
               "autor": "Ávila",
-              "referencia_obra": ", Festiv. 8 (5. 223). X"
+              "referencia_obra": ", Festiv. 8 (5. 223)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si de esta no escarmienta mi comadre, no sabré que hacer.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 4 (p. 74)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ν )",
           "id_limpio": "— ν )",
           "definicion": "No sé cómo (alabaros, agradeceros ): se emplea con valor ponderativo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«i Oh buen Señor, que no sé como os alabe, cómo os engrandezca ni con qué palabras encarezca vuestra soberana paciencia!»",
               "autor": "M. de Chaide",
               "referencia_obra": ", Magd. 3. 39 (R. 27. 3632)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ξ )",
           "id_limpio": "— ξ )",
-          "definicion": "No sé qué, un no sé qué: sustituye el nombre de una cosa especial que no se recuerda o no se acierta a explicar. X",
+          "definicion": "No sé qué, un no sé qué: sustituye el nombre de una cosa especial que no se recuerda o no se acierta a explicar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Digo que el no sé qué muy diferente dessotras partezillas, porque el no sé qué tiene gracia, y muchas veces se dize a tiempo que sinifica mucho.»",
               "autor": "Valdés",
               "referencia_obra": ", Diál. (Cl. C. 86. 153)."
             },
             {
+              "marca": "",
               "texto_cita": "«Tienen consigo [los cabritos] un no sé qué de travesura, y buen donaire.»",
               "autor": "León",
               "referencia_obra": ", Cantares, 4 (4. 68)."
             },
             {
+              "marca": "",
               "texto_cita": "«Coge [la hormiga] un granillo, otro no sé qué: en fin lo que halla enciérralo para cuando hubiere menester.»",
               "autor": "Ávila",
               "referencia_obra": ", Eucar. 27 (4.405)."
             },
             {
+              "marca": "",
               "texto_cita": "«Tiene, dice un no sé qué de secreta eficacia la voz viva.»",
               "autor": "Sig.",
               "referencia_obra": "Vida de S. Jer. 2. 1 (p. 63)."
             },
             {
+              "marca": "",
               "texto_cita": "«El no sé qué de su cara | Me tiene a mí no sé cómo.»",
               "autor": "Quev.",
               "referencia_obra": "Musa 5, Xácara 6 (7. 550)."
             },
             {
+              "marca": "",
               "texto_cita": "«Siempre se ve que les falta para la perfecta semejanza un no sé qué.»",
               "autor": "Luzán",
               "referencia_obra": ", Poét. 2. 19 (1. 282)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ο )",
           "id_limpio": "— ο )",
           "definicion": "Qué se yo:",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Expresión que se emplea para indicar que hay algo que no se recuerda, o no hay razón para recordar. X",
+              "definicion": "Expresión que se emplea para indicar que hay algo que no se recuerda, o no hay razón para recordar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El inglés Anson, Manson... | Qué sé yo cómo se llama.»",
                   "autor": "Mor.",
-                  "referencia_obra": "Obr. 2. 39. X"
+                  "referencia_obra": "Obr. 2. 39."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mi hermana tiene la culpa, mi hermana que se empeñó: \"¡que si te vas a quedar solo qué seé yo!\"»",
                   "autor": "García Lorca",
-                  "referencia_obra": ", La zapatera prodigiosa, 1 (Obr. complet. 2. 263). X"
+                  "referencia_obra": ", La zapatera prodigiosa, 1 (Obr. complet. 2. 263)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En lo que vamos a referir todo es cierto, menos los nombres de las heroínas, las cuales significan puramente para el lector \"Fulana yo no sé cómo \"Zutana, ¡qué se yo!\"»",
                   "autor": "Hartz.",
                   "referencia_obra": "(Pagés, Dicc.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Usada como un sustantivo equivale a cualquier X",
+              "definicion": "Usada como un sustantivo equivale a cualquier",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Un día [el marido] me dijo no sé qué cosa y le maté todos los colorines en la mano del almirez.»",
                   "autor": "García Lorca",
                   "referencia_obra": ", Barnarda de Alba, 2 (Obr. complet. 2. 875)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1367,88 +1743,116 @@
           "id_marcador_html": "— π )",
           "id_limpio": "— π )",
           "definicion": "Que yo sepa, que nosotros sepamos: expresión correctiva o restrictiva con que se hace una salvedad a algo que se acaba de afirmar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Mas ninguno que yo sepa, le ha llamado por eso temerario y sedicioso.»",
               "autor": "Quint.",
               "referencia_obra": "Poes. p. 94."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ρ )",
           "id_limpio": "— ρ )",
-          "definicion": "Quien sabe, Dios sabe: expresiones de duda que introducen una prop. interrogativa y equivalen a \"no sabemos, falta saber\". X",
+          "definicion": "Quien sabe, Dios sabe: expresiones de duda que introducen una prop. interrogativa y equivalen a \"no sabemos, falta saber\".",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«[Juntábanseles] el interese de los que desean acrecentar los inconvenientes, la avaricia de los soldados, y por la ventura la indignación del Príncipe, la voz del pueblo, y quien sabe si la de Dios.»",
               "autor": "Mend.",
-              "referencia_obra": "Guerra de Granad. 2 (R. 21. 891). X"
+              "referencia_obra": "Guerra de Granad. 2 (R. 21. 891)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Gerardo Cabrera el desposeído tomó el hábito de los Templarios, quien sabe si por devoción, si por otro respeto.»",
               "autor": "Mariana",
-              "referencia_obra": ", Hist. Esp. 12. 13 (1. 6122). X"
+              "referencia_obra": ", Hist. Esp. 12. 13 (1. 6122)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esta desgracia lo llevaría a él al manicomio o al cementerio, y a la patria quien sabe a dónde.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 3 (p. 299)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— σ )",
           "id_limpio": "— σ )",
-          "definicion": "Saber a la letra, saber de cabeza, saber de memoria: literalmente, textualmente, exactamente. X",
+          "definicion": "Saber a la letra, saber de cabeza, saber de memoria: literalmente, textualmente, exactamente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Señoría, este abogado | Dicen que sabe a la letra | Todas las leyes civiles.»",
               "autor": "",
-              "referencia_obra": "Ramón de la Cruz, Sainetes (NBAE. 23. 971). X"
+              "referencia_obra": "Ramón de la Cruz, Sainetes (NBAE. 23. 971)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La respuesta me contenta más cada vez que la leo, y casi la sé de cabeza.»",
               "autor": "Mendoza",
               "referencia_obra": "(Pagés, Dicc.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— τ )",
           "id_limpio": "— τ )",
-          "definicion": "Saber a la pega: imitar y seguir las malas costumbres y resabios de su mala educación o de su trato con malas compañías. X",
+          "definicion": "Saber a la pega: imitar y seguir las malas costumbres y resabios de su mala educación o de su trato con malas compañías.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Oh, cómo sabe a la pega!.»",
               "autor": "Tirso",
               "referencia_obra": ", El vergonzoso en palacio, 2 (Cl. C. 2. 94)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— υ )",
           "id_limpio": "— υ )",
-          "definicion": "Saber al dedillo: conocer perfectamente. X",
+          "definicion": "Saber al dedillo: conocer perfectamente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«No necesita ud. confirmarlo me sé estás historias al dedillo.»",
               "autor": "P. Galdós",
-              "referencia_obra": ", Fortunata y Jacinta, 2. 4. 4. — j ) Saber cuál es su mano derecha, saber dónde tiene la mano derecha: estar bien enterado o bien orientado, en general o en el asunto de que se trata. Generalmente se emplea en forma negativa, para denotar suma ignorancia, incapacidad o estupidez. X"
-            },
+              "referencia_obra": ", Fortunata y Jacinta, 2. 4. 4."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Desta manera se excusarían muchos males que se causan por andar este oficio y ejercicio [de alcahuete] entre gente idiota y de poco entendimiento, como son mujercillas de poco más o menos, pajecillos y truanes, de pocos años y de poca experiencia, que a la más necesaria ocasión, y cuando es menester dar una traza que importe, se les yelan las migas entre la boca y la mano, y no saben cuál es su mano derecha.»",
-              "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 22 (Cl. C. 6. 210). X"
-            },
-            {
-              "texto_cita": "«Ahora mismo está perorando, no como el convencido conservador que conocemos, sino como uno de tantos politicians desbaratados y desalumbrados, que no saben cuál es su mano derecha en cosa de religión y de filosofía.»",
-              "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 3 (p. 172)."
+              "id_limpio": "—",
+              "definicion": "j ) Saber cuál es su mano derecha, saber dónde tiene la mano derecha: estar bien enterado o bien orientado, en general o en el asunto de que se trata. Generalmente se emplea en forma negativa, para denotar suma ignorancia, incapacidad o estupidez.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Desta manera se excusarían muchos males que se causan por andar este oficio y ejercicio [de alcahuete] entre gente idiota y de poco entendimiento, como son mujercillas de poco más o menos, pajecillos y truanes, de pocos años y de poca experiencia, que a la más necesaria ocasión, y cuando es menester dar una traza que importe, se les yelan las migas entre la boca y la mano, y no saben cuál es su mano derecha.»",
+                  "autor": "Cerv.",
+                  "referencia_obra": "Quij. 1. 22 (Cl. C. 6. 210)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Ahora mismo está perorando, no como el convencido conservador que conocemos, sino como uno de tantos politicians desbaratados y desalumbrados, que no saben cuál es su mano derecha en cosa de religión y de filosofía.»",
+                  "autor": "M. F. Suárez",
+                  "referencia_obra": ", Sueños, 3 (p. 172)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1456,27 +1860,33 @@
         {
           "id_marcador_html": "— χ )",
           "id_limpio": "— χ )",
-          "definicion": "Saber de buena parte: Estar informado por buen conducto. X",
+          "definicion": "Saber de buena parte: Estar informado por buen conducto.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Porque real y verdaderamente yo sé de buena parte que la villana que dio el brinco sobre el pollino era y es Dulcinea del Toboso.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 33 (Cl. C. 16. 297)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ψ )",
           "id_limpio": "— ψ )",
-          "definicion": "Saber de coro: saber de memoria. X",
+          "definicion": "Saber de coro: saber de memoria.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y en las galeras de España hay más sosiego de aquel que sería menester, aunque no es menester mucho más para lo que yo tengo de escribir porque me lo sé de coro.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 22 (Cl. C. 6. 218)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1484,55 +1894,68 @@
     {
       "id": "h)",
       "definicion": "Refranes.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "El saber no ocupa lugar: da a entender que nunca estorba ampliar los conocimientos. X",
+          "definicion": "El saber no ocupa lugar: da a entender que nunca estorba ampliar los conocimientos.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Procura aprender algún arte u oficio, que el saber no ocupa lugar; y quien tiene arte va por toda parte.»",
               "autor": "Pagés",
               "referencia_obra": ", Dicc.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Más vale saber que haber: debe preferirse la ciencia a la riqueza. X",
+          "definicion": "Más vale saber que haber: debe preferirse la ciencia a la riqueza.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Vínome en deseo de saber cuál destos era la verdad, considerando que valía más saber que haber.»",
               "autor": "Pagés",
               "referencia_obra": ", Dicc.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Quien las sabe, las tañe: advierte que nadie obre ni hable sino en la materia que entiende.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Bien dice el proverbio nuestro, | Que el que las sabe las tañe.»",
               "autor": "Castillejo",
-              "referencia_obra": ", Diál. vida en la corte (Fern. 13. 76). X"
+              "referencia_obra": ", Diál. vida en la corte (Fern. 13. 76)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y al que a la llana viniere | No faltará quien le engañe, | Mas quien malicioso fuere | Volará por do quisiere | Que el que las sabe las tañe.»",
               "autor": "Horozco",
-              "referencia_obra": "(Pagés, Dicc.). X"
+              "referencia_obra": "(Pagés, Dicc.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Da al diablo, señor tal estilo, que yo que he tratado con mujeres toda mi vida, sé cómo se han de seguir y alcanzar, que no de balde dice el proverbio; quien las sabe las tañe; como yo he tañido esta noche a Quincia.»",
               "autor": "Pagés",
               "referencia_obra": ", Dicc.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1540,105 +1963,128 @@
     {
       "id": "4",
       "definicion": "Como verbo modal, Saber + infinitivo se usa con los siguientes sentidos:",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Poder. X",
+          "definicion": "Poder.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Como véis, ya en Italia assí entre damas como entre cavalleros, se tiene por gentileza y galanía saber hablar castellano.»",
               "autor": "Valdés",
-              "referencia_obra": ", Diál. (Cl. C. 86. 6). X"
+              "referencia_obra": ", Diál. (Cl. C. 86. 6)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sabed que sabe hacer | Que sea blanco lo prieto, | Y caber en un sujeto | Dos contrarios en un ser | Juntamente.»",
               "autor": "Castillejo",
-              "referencia_obra": ", Serm. de amores, (Cl. C. 72. 94). +"
+              "referencia_obra": ", Serm. de amores, (Cl. C. 72. 94)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Como --- los átomos no se sepan estar quedos --- parecióles [a algunos filósofos] ser el alma de su casta.»",
               "autor": "J. de Pineda",
-              "referencia_obra": ", Agr. crist. 11. 4 (R. 162. 3381). X"
+              "referencia_obra": ", Agr. crist. 11. 4 (R. 162. 3381)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Supiéraslo tú trovar | Mejor que él está trovado?»",
               "autor": "Lope",
               "referencia_obra": ", Fuente Ovejuna (Cl. Castal. 10. 123)."
             },
             {
+              "marca": "",
               "texto_cita": "«Pizarro no sabía escribir ni leer.»",
               "autor": "Quint.",
               "referencia_obra": "Pizarro, apénd. 1 (2. 171)."
             },
             {
+              "marca": "",
               "texto_cita": "«A los diez años ya sabía leer, escribir, montar a caballo.»",
               "autor": "",
               "referencia_obra": "Id. D. Álv. de Luna, 3 (34. 6)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se duda si [Carlomagno] sabía escribir cuando subió al trono.»",
               "autor": "Clem.",
-              "referencia_obra": "Coment. 1. 23 (2. 237). X"
+              "referencia_obra": "Coment. 1. 23 (2. 237)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Cuándo somos mayores, abuelo? — Pronto. Cuando sepáis leer y escribir.»",
               "autor": "Casona",
-              "referencia_obra": ", La dama del alba, p. 10. X"
+              "referencia_obra": ", La dama del alba, p. 10."
             },
             {
+              "marca": "X",
               "texto_cita": "«No sabéis hacer nada.»",
               "autor": "Sastre",
               "referencia_obra": ", La mordaza (Cl. Castal. 61. 174)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Deber. X",
+          "definicion": "Deber.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A lo que dizes que no puedo hablar en mal de que no tengo esperiencia, bueno sería que el médico no supiesse tratar de mal que él no uviese tenido.»",
               "autor": "Montem.",
-              "referencia_obra": "Díana, p. 43. X"
+              "referencia_obra": "Díana, p. 43."
             },
             {
+              "marca": "X",
               "texto_cita": "«Luego imaginó don Quijote que aquel era el dueño del cojín y de la maleta, y propuso en sí de buscalle, aunque supiese andar un año por aquellas montañas hasta hallarle.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 23 (Cl. C. 6. 246)."
             },
             {
+              "marca": "",
               "texto_cita": "«Sabemos respetar al desgraciado.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Morayma, 2. 2 (2. 2011)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Querer. X",
+          "definicion": "Querer.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Yacen ahora, y sus desnudas piedras | Visten piadosas yedras | Que a rüinas y a estragos, | Sabe el tiempo hacer verdes halagos.»",
               "autor": "Góng.",
-              "referencia_obra": "Poes. (Cl. Ebro, 11. 84). X"
+              "referencia_obra": "Poes. (Cl. Ebro, 11. 84)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Aunque yo no sepa perder | En tu servicio la vida, | La diera por bien perdida, | Y te prometo de ser | Tu esposo.»",
               "autor": "Tirso",
-              "referencia_obra": ", El burlador de Sevilla, 1 (Cl. C. 2. 183). X"
+              "referencia_obra": ", El burlador de Sevilla, 1 (Cl. C. 2. 183)."
             },
             {
+              "marca": "X",
               "texto_cita": "«i Ah, si el destino Supiese perdonar!»",
               "autor": "Quint.",
               "referencia_obra": "Poes. (Cl. C. 78. 141)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1646,86 +2092,107 @@
     {
       "id": "5",
       "definicion": "sust. m.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Conocimiento profundo de alguna materia.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cuando apareció el cristianismo estaban sofocados los gérmenes del saber esparcidos por aquellos grandes hombres.»",
               "autor": "Balmes",
-              "referencia_obra": ", Protest. (BAC. 48. 126). X"
+              "referencia_obra": ", Protest. (BAC. 48. 126)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Otra fase más espléndida y perfecta admiramos en las producciones de los siglos de oro, hijas del saber y la constancia.»",
               "autor": "Caro",
-              "referencia_obra": ", Del uso, p. 70. X"
+              "referencia_obra": ", Del uso, p. 70."
             },
             {
+              "marca": "X",
               "texto_cita": "«Bien haya Cartagena por ese honor insigne, aunque también fuera de desear que ya que al eminentísimo no le permite su salud llegar a esta ciudad de Quesada, donde alientan la fe, el saber y la bondad de este egregio fundador, pudiera alterar su itinerario viniendo a Medellín, ciudad que lleva el nombre de la patria de Hernán Cortés.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 4 (p. 179). X"
+              "referencia_obra": ", Sueños, 4 (p. 179)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Qué lectura más gustosa y atrevida! ¡Qué diferente es ese libro, monumental a causa de su sabiduría y de su idioma, de esos escritos que ofrecen ahora los reformadores de la literatura y del saber.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 4 (p. 243). X"
+              "referencia_obra": "Id. ib. 4 (p. 243)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La obra del doctor Robledo es digna de su autor y de su objeto; su parte crítica no podía estar desempeñada por mejor juicio ni por saber más competente.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 4 (p. 252). X"
+              "referencia_obra": "Id. ib. 4 (p. 252)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuando el saber se especializa, crece el volumen total de la cultura. Ésta es la ilusión y el consuelo de los especialistas. ¡Lo que sabemos entre todos!»",
               "autor": "Machado",
               "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 45)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de sujetivo. X",
+              "definicion": "Con de sujetivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Esta obra, este momento, este tabernáculo —prosiguió el canónigo— resume también, probado y purificado, es cierto, en el crisol de Santo Tomás, todo el saber del Estagirita.»",
                   "autor": "Larreta",
                   "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 46)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con de objetivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Fin llama lo último de la perfección y saber de Dios.»",
                   "autor": "León",
                   "referencia_obra": ", Expos. de Job, 1. 11 (1. 187)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con un posesivo. X",
+              "definicion": "Con un posesivo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nuestro saber y lo que acá nos parece que aprendemos, no es más que un acordarnos de lo que ya sabíamos y se nos ha olvidado.»",
                   "autor": "",
                   "referencia_obra": "M. de Chaide, Magd. 3. 17 (Cl. C. 105. 153)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1733,13 +2200,16 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Forma la expresión, Leal saber y entender.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En el cumplimiento de este encargo he procedido siempre según mi leal saber y entender.»",
               "autor": "Quint.",
               "referencia_obra": "Memoria sobre proceso, p. 254."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1747,12 +2217,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «A la hé, a la hé, el que las sabe las tañe: este es el deleite que lo al mejor lo hacen los asnos en el prado.» Celest. 1 (R. 3. 151). X «Mas el divino saber | Que los secretos revela | Y nuestro flaco entender | Con nuevo resplandecer | Todos los tiempos consuela | Me mostrará a desatar | Las mañas desta tu lucha, | Y con el tal confiar | Respondo a tu pregunta; | Por ende, lector, escucha.» I. de Mendoza, Canc. (Cl. C. 163. 110). X «[Gonzalo Nuñez de Guzmán] jamás sabía estar solo.» Pz. de Guzmán, Gener 22 (Cl. C. 61. 49). X «\"¡O byen sy lo sopiésedes, como es de mala lengua!» Arc. de Talav. Corbacho (Cl. Castal. 24. 169). X «Vengamos a la corona | Que ya non rresplandescía | De aquel fijo de Latona, | Mas del todo se ascondía; | E yo como non sabía | De mi signo nin ventura, | Contra rrazón y mesura | Me levó do non quería.» Santill. Canc. 7 (Cl. C. 18. 5).\n\n— Siglo XIV\n\n— X «É el rey don Alfonso su hermano, desque esto sopo.» Crón. Alfonso XI, p. 71. X «Eres [amor] tan enconado que, do fieres de golpe, | Non lo sana mengía, enplasto nin xarope, | Non sé ffuerte nin rreçio, que se contigo tope, que no l'debatas luego, por mucho que se enforce.» Arc. de Hita, (Cl. C. 14. 75).\n\n— Siglo XIII: X «Así como non ha cosa mas cierta que venir la muert, así non ha cosa mas sin certedumbre dell hora en que verná; et por esto que viene en todo en todo et non es sabudo cuando por ninguna guisa, es la cosa que ell homne mas debe temer, por que sabe aquel ha ella de matar et la non puede él foir.» Alf. X, Antol. p. 155. X «Quísolo el diablo durament espantar | Mas la Madre gloriosa sopo gelo vedar.» Berc. Mil. 461 (Cl. C. 44. 111). X «Si ante lo sopiessen lo que después sopieron | No lo ovieran fecho esso que li fizieron.» Id. ib. 148 (Cl. C. 44. 39). X «Quando esto ovyere fecho sabrán de mi mandado.» Fern. Gonz. 46 (Cl. C. 128. 13). X «Cuando sus compañeros queríen ir a folgar | El iba a oración o iba a estudiar | E así se sabe en todo su vida ordenar | Que nunca otro solo verían estar.» Vida de S. Ildef. (ICC. 36. 180). X «Los pelegrinos, quando la veyen, | ssu coraçón non gelo ssabíen, | Que ssi ellos ssopiessen quien era M | Non aurjen con ella companyia.» S. M. Egipc. (RAE. p. 121).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. sapére 'tener tal o cual sabor, ejercer el sentido del gusto, tener gusto' y figuradamente 'apreciar el valor de una cosa, tener inteligencia, ser entendido'. Cat. y port. saber, fr. savoir, it. sapere.",
+  "etimologia": "Etim. Del lat. <i>sapére </i>'tener tal o cual sabor, ejercer el sentido del gusto, tener gusto' y figuradamente 'apreciar el valor de una cosa, tener inteligencia, ser entendido'. Cat. y port. <i>saber</i>, fr. <i>savoir</i>, it. <i>sapere.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "Conjug. Presenta las siguientes fomas irregulares: Sé; supe, -iste, -o, -imos, -isteis, -ieron; sabré, -ás, -á, -emos, -éis, -án; sabría, -as, -ía, -íamos, -íais, -ían; sepa, -as, -a, -amos, -áis, -an; supiera, -as, -a. -amos, -ais, -an, o supiese, -es, -e, emos, -eis, -en; supiere, -es, -e, -emos, -eis, -en; sepa, -amos, -an.",
-  "construccion_sintactica": "Constr.\n\n— Intrans.: 1, α - 2, α, α - 2, β - 3, β - 3, χ, α - 3, δ, β - 3, ε, γ - 3, φ, α.\n\n— Tρανσ.: 3, α, α - 3, δ, α - 3, ε, α.\n\n— Pασ.: 3, α, ζ.\n\n— Pασ. ρεφλ.: 3, α, η.\n\n— Rεφλ.: 3, δ, γ - 3, ε, β.\n\n— Pρνλ.: 3, α, θ.\n\n— Pαρτ.: 3, a, ι.\n\n— Pαρτ. dep.: 3, a, κ.\n\n— Sustantivado: 3, γ, γ γ.\n\n— Con dat.: 1, α, α α - 1, γ - 3, α, λ.\n\n— Cον α: 1, α, β β - 1, β - 1, β, α α - 2, b.\n\n— Con de: 3, a, α, α α - 3, a, γ, α α - 3, a, ε, α α - 3, a, η, α α - 3, b - 3, c, α, α α - 3, d, β - 3, ε, γ - 3, φ, α - 5, α, α, α α - 5, a, α, β β.\n\n— Con desde: 3, a, α, β β.\n\n— Con en: 3, a, α, γ γ - 3, a, η, β β - 3, a, η, γ γ.\n\n— Con entre: 1, β.\n\n— Cον πορ: 3, α, γ, β β - 3, a, η, γ γ - 3, a, ι, α α.\n\n— Con sin: 3, a, α , ε ε.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Intrans.: 1, α - 2, α, α - 2, β - 3, β - 3, χ, α - 3, δ, β - 3, ε, γ - 3, φ, α.\n\n— Tρανσ.: 3, α, α - 3, δ, α - 3, ε, α.\n\n— Pασ.: 3, α, ζ.\n\n— Pασ. ρεφλ.: 3, α, η.\n\n— Rεφλ.: 3, δ, γ - 3, ε, β.\n\n— Pρνλ.: 3, α, θ.\n\n— Pαρτ.: 3, a, ι.\n\n— Pαρτ. dep.: 3, a, κ.\n\n— Sustantivado: 3, γ, γ γ.\n\n— Con dat.: 1, α, α α - 1, γ - 3, α, λ.\n\n— Cον α: 1, α, β β - 1, β - 1, β, α α - 2, b.\n\n— Con de: 3, a, α, α α - 3, a, γ, α α - 3, a, ε, α α - 3, a, η, α α - 3, b - 3, c, α, α α - 3, d, β - 3, ε, γ - 3, φ, α - 5, α, α, α α - 5, a, α, β β.\n\n— Con desde: 3, a, α, β β.\n\n— Con en: 3, a, α, γ γ - 3, a, η, β β - 3, a, η, γ γ.\n\n— Con entre: 1, β.\n\n— Cον πορ: 3, α, γ, β β - 3, a, η, γ γ - 3, a, ι, α α.\n\n— Con sin: 3, a, α, ε ε.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

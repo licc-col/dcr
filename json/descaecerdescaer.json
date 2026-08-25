@@ -1,56 +1,75 @@
 {
   "lema": "DESCAECER (DESCAER).",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\n(La última forma no aparece en lo moderno sino tal cual vez en el part.)",
+  "introduccion": "(La última forma no aparece en lo moderno sino tal cual vez en el part.)",
   "acepciones": [
     {
       "id": "a)",
       "definicion": "Ir á menos, ir perdiéndose poco á poco (intrans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Y en una de estas acciones públicas descuidadas y mal advertidas descaece su reputación.»",
           "autor": "Quev.",
           "referencia_obra": "Polític. de Dios, 1. 8 (R. 23. 192)."
         },
         {
+          "marca": "",
           "texto_cita": "«Ni cayó [Josef, privado de Faraón], ni otros muchos, cuya alabanza vivió igual hasta su fin; cuyo aplauso no descaeció.»",
           "autor": "",
           "referencia_obra": "Id. Entremetido (R. 23. 3681)."
         },
         {
+          "marca": "",
           "texto_cita": "«Admirable constancia, que no sólo duraba entre las dificultades presentes, pero se prevenía para no descaecer en las contingencias.»",
           "autor": "Solís",
           "referencia_obra": ", Conq. de Méj. 4. 4 (R. 28. 3072)."
         },
         {
+          "marca": "",
           "texto_cita": "«Si las letras humanas no florecen, | Las demás ciencias y artes descaecen.»",
           "autor": "T. Iriarte",
           "referencia_obra": ", epíst. 4 (R. 63. 282)."
         },
         {
+          "marca": "",
           "texto_cita": "«Logran [los hexámetros griegos y latinos] aquella variedad enérgica que no fastidia ni descaece aun en el más dilatado poema.»",
           "autor": "",
           "referencia_obra": "Id. Música, pról. (1. 149)."
         },
         {
+          "marca": "",
           "texto_cita": "«Pero el gusto pasa, los consumos menguan, el arte descaece y al fin acaba.»",
           "autor": "Jovell.",
           "referencia_obra": "Inf. sobre el libre ejerc. de las artes (R. 50. 372)."
         },
         {
+          "marca": "",
           "texto_cita": "«Entre tanto, la estimación que se hacía en España de esta obra iba aumentándose, ó porque el furor enemigo descaeciese faltando el objeto de sus venganzas, ó porque ---»",
           "autor": "Mor.",
           "referencia_obra": "Obr. póst. 3, p. 206."
         },
         {
+          "marca": "",
           "texto_cita": "«El interés novelesco, que pocos han sabido manejar como él, llega siempre á su mayor grado en medio ó á los dos tercios de la novela: hacia el fin, descaece.»",
           "autor": "Lista",
-          "referencia_obra": ", Ensayos, 1, p. 158. —"
-        },
+          "referencia_obra": ", Ensayos, 1, p. 158."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Ansí por ley en todo lo criado | Descae vuelve atrás el sér liviano.»",
-          "autor": "León",
-          "referencia_obra": ", Poes. 2, Geórg. 1 (Merino, 6. 199)."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Ansí por ley en todo lo criado | Descae vuelve atrás el sér liviano.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 2, Geórg. 1 (Merino, 6. 199)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -58,42 +77,60 @@
     {
       "id": "b)",
       "definicion": "Ir á menos en cualquier cosa que constituya fuerza ó influjo físico ó moral (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Espérame, que te sigo, susténtame, que descaezco.»",
               "autor": "Cerv.",
               "referencia_obra": "Nov. 9 (R. 1. 2001)."
             },
             {
+              "marca": "",
               "texto_cita": "«Descaece el estómago por hambre.»",
               "autor": "Lope",
               "referencia_obra": ", Los locos de Valencia, 3. 1 (R. 24. 1282)."
             },
             {
+              "marca": "",
               "texto_cita": "«Todas las cosas llegan á su vigor y descaecen.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 88 (R. 25. 2341)."
             },
             {
+              "marca": "",
               "texto_cita": "«Si animaba entonces una corona de laurel, que desde que se corta va descaeciendo, ¿cuánto mas animará agora aquella inmortal de estrellas?»",
               "autor": "",
               "referencia_obra": "Id. ib. 26 (R. 25. 701)."
             },
             {
+              "marca": "",
               "texto_cita": "«Haciéndonos al mar, descaeciendo un tanto [el viento], fuimos á dar en Ibiza.»",
               "autor": "Césp. y Men.",
-              "referencia_obra": "Sold. Pínd. 2. 23 (R. 18. 3622). —"
-            },
+              "referencia_obra": "Sold. Pínd. 2. 23 (R. 18. 3622)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Habiendo florecido mucho [Lacedemonia] en Grecia, así en las artes de la paz como de la guerra, vino finalmente á descaer después que vinieron á tenerse en precio las riquezas.»",
-              "autor": "Gran.",
-              "referencia_obra": "Símb. 4, diál. 5, § 1 (R. 6. 5562)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Habiendo florecido mucho [Lacedemonia] en Grecia, así en las artes de la paz como de la guerra, vino finalmente á descaer después que vinieron á tenerse en precio las riquezas.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "Símb. 4, diál. 5, § 1 (R. 6. 5562)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -101,66 +138,88 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part. dep. Que ha perdido de su fuerza, autoridad etc.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Si está tan flaco y descaecido, es porque no come.»",
                   "autor": "Gran.",
                   "referencia_obra": "Orac. y consid. 1, lunes por la mañ. (R. 8. 662)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«En esto viose con brioso paso | Venir al magno Andrés Rey de Artieda, | No por la edad descaecido ó laso.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Viaje, 3 (R. 1. 6851)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Le dijo: ¿Quieres sanar? Respondióle el enfermo descaecido: No tengo hombre para que cuando se mueve el agua me lleve á la piscina.»",
                   "autor": "Quev.",
                   "referencia_obra": "Polític. de Dios, 1. 18 (R. 23. 332)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Se acabaron de retraer á la población, tan descaecidos, que apenas se dispusieron á defenderla.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 5. 16 (R. 28. 3691)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Con la falta de pólvora y continuo trabajo se iba disminuyendo mucho nuestra gente de número y de ánimo, ayudando á ello las mujeres de los mal afectos, y haciendo con sus lisonjas y viles persuasiones más daño en los ánimos ya descaecidos de aquellos burgeses, que si fueran tres doblados hombres.»",
                   "autor": "Coloma",
                   "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 861)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Por ventura no consideras, piadoso Padre, la cabeza descaecida del amantísimo Hijo, su blanca cerviz inclinada con la presencia de la muerte?»",
                   "autor": "Gran.",
                   "referencia_obra": "Mem. del crist. 14 (R. 11. 1911). Item, Mem. vida crist. 5. 6, orac. 14 (R. 8. 3222)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Parecióme acertado restaurar, antes de volver á casa, los descaecidos miembros con algún breve sueño.»",
                   "autor": "Figueroa",
-                  "referencia_obra": ", Amarilis, 2 (121). —"
-                },
+                  "referencia_obra": ", Amarilis, 2 (121)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Ha de asistir en él [en el coro] no pesado ni tibio; no descaído, sino vivo, despierto, atento y devoto.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Doctr. espir. 38, § 1 (R. 11. 2741)."
-                },
-                {
-                  "texto_cita": "«¿Eres por quien los brazos descaídos | Cobraron nueva fuerza?»",
-                  "autor": "León",
-                  "referencia_obra": ", Expos. de Job, 4 (R. 37. 592)."
-                },
-                {
-                  "texto_cita": "«Mis descaídos ojos agravados | Del gran quebrantamiento se cerraron.»",
-                  "autor": "Erc.",
-                  "referencia_obra": "Arauc. 17 (R. 17. 672)."
-                },
-                {
-                  "texto_cita": "«Ronco el pico, | Sin luz el cuello hermoso, | Los ojos descaídos, | Se queda desmayada.»",
-                  "autor": "Mel.",
-                  "referencia_obra": "Anacr. 36 (R. 63. 1021)."
-                },
-                {
-                  "texto_cita": "«La Junta Central, al saber la rota de Medellín, no sintió descaído su ánimo, á pesar del peligro que de cerca le amagaba.»",
-                  "autor": "Toreno",
-                  "referencia_obra": ", Hist. 8 (R. 64. 1802)."
+                  "id_limpio": "—",
+                  "definicion": "",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ha de asistir en él [en el coro] no pesado ni tibio; no descaído, sino vivo, despierto, atento y devoto.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Doctr. espir. 38, § 1 (R. 11. 2741)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«¿Eres por quien los brazos descaídos | Cobraron nueva fuerza?»",
+                      "autor": "León",
+                      "referencia_obra": ", Expos. de Job, 4 (R. 37. 592)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Mis descaídos ojos agravados | Del gran quebrantamiento se cerraron.»",
+                      "autor": "Erc.",
+                      "referencia_obra": "Arauc. 17 (R. 17. 672)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Ronco el pico, | Sin luz el cuello hermoso, | Los ojos descaídos, | Se queda desmayada.»",
+                      "autor": "Mel.",
+                      "referencia_obra": "Anacr. 36 (R. 63. 1021)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«La Junta Central, al saber la rota de Medellín, no sintió descaído su ánimo, á pesar del peligro que de cerca le amagaba.»",
+                      "autor": "Toreno",
+                      "referencia_obra": ", Hist. 8 (R. 64. 1802)."
+                    }
+                  ]
                 }
               ]
             }
@@ -170,41 +229,58 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con de, para expresar aquello que uno va perdiendo como cosa de que se aparta.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Reformad vuestra casa de criados. | — No puedo descaecer, hasta casarme, | Del honor que he tenido.»",
               "autor": "Lope",
               "referencia_obra": ", Las flores de D. Juan, 2. 3 (R. 24. 4181)."
             },
             {
+              "marca": "",
               "texto_cita": "«Comenzó [la Iglesia] á gozar de alguna paz y quietud, y juntamente á aflojar en la virtud y descaecer de aquel perfecto y admirable estado de santidad que antes había tenido.»",
               "autor": "Rivad.",
               "referencia_obra": "Trib. 2. 21 (R. 60. 4442)."
             },
             {
+              "marca": "",
               "texto_cita": "«Conserváis todavía vuestra primera fe, y no habéis descaecido del estado de perfección en que os hallabais.»",
               "autor": "Scío",
-              "referencia_obra": ", S. Pablo, Corint. 2. 13. 5, nota. —"
-            },
+              "referencia_obra": ", S. Pablo, Corint. 2. 13. 5, nota."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Todas cuantas repúblicas y órdenes y religiones insignes hasta hoy se han perdido y descaído de su antigua perfección, por aquí comenzaron á descaer.»",
-              "autor": "Gran.",
-              "referencia_obra": "Orac. y consid. 3. 2. 2, § 6 (R. 8. 1872)."
-            },
-            {
-              "texto_cita": "«Vinieron á descaer [los cristianos] de aquel perfectísimo estado en que vivían en la primitiva iglesia, á este que agora vemos y lloramos.»",
-              "autor": "",
-              "referencia_obra": "Id. Símb. 4, diál. 10 (R. 6. 5891)."
-            },
-            {
-              "texto_cita": "«Mas luégo que esta [memoria] se perdió, comenzaron á descaer desta pureza de vida, y se fueron á adorar los ídolos.»",
-              "autor": "",
-              "referencia_obra": "Id. ib. 4, diál. 11 (R. 6. 5951)."
-            },
-            {
-              "texto_cita": "«En los cuales ha venido á dar poco á poco el pueblo cristiano, descayendo de su primera virtud.»",
-              "autor": "León",
-              "referencia_obra": ", Nomb. 1, introd. (R. 37. 681)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Todas cuantas repúblicas y órdenes y religiones insignes hasta hoy se han perdido y descaído de su antigua perfección, por aquí comenzaron á descaer.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "Orac. y consid. 3. 2. 2, § 6 (R. 8. 1872)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Vinieron á descaer [los cristianos] de aquel perfectísimo estado en que vivían en la primitiva iglesia, á este que agora vemos y lloramos.»",
+                  "autor": "",
+                  "referencia_obra": "Id. Símb. 4, diál. 10 (R. 6. 5891)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Mas luégo que esta [memoria] se perdió, comenzaron á descaer desta pureza de vida, y se fueron á adorar los ídolos.»",
+                  "autor": "",
+                  "referencia_obra": "Id. ib. 4, diál. 11 (R. 6. 5951)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«En los cuales ha venido á dar poco á poco el pueblo cristiano, descayendo de su primera virtud.»",
+                  "autor": "León",
+                  "referencia_obra": ", Nomb. 1, introd. (R. 37. 681)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -212,13 +288,16 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part. dep.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«A don Pedro Ahones daba pesadumbre verse descaído de la privanza que solía tener.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 12. 11 (R. 30. 3562)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -227,27 +306,42 @@
     {
       "id": "c)",
       "definicion": "Hacer ir á menos, quitar la fuerza (trans.) (ant.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los consonantes en verbales humillan mucho el estilo y le descaecen.»",
               "autor": "Valb.",
               "referencia_obra": "Bern. pról. (R. 17. 142)."
             },
             {
+              "marca": "",
               "texto_cita": "«Se volvió á Tepeaca con sus españoles y tlasealtecas, dejando --- frustradas las primeras disposiciones del nuevo emperador mejicano, que suelen observarse como pronósticos de su reinado, y descaecer y desanimar á los súbditos, según las malogran ó las califican los sucesos.»",
               "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 5. 4 (R. 28. 3482). —"
-            },
+              "referencia_obra": ", Conq. de Méj. 5. 4 (R. 28. 3482)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Ni el trabajo las cansa, ni el encerramiento las fatiga, ni la enfermedad las descae.»",
-              "autor": "León",
-              "referencia_obra": ", dedic. Obr. Sta. Ter. (R. 53. 18)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Ni el trabajo las cansa, ni el encerramiento las fatiga, ni la enfermedad las descae.»",
+                  "autor": "León",
+                  "referencia_obra": ", dedic. Obr. Sta. Ter. (R. 53. 18)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
@@ -255,21 +349,34 @@
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Probó á su misma madre en las bodas, para que con este ejemplo aprendamos á no descaecernos si no fuéremos oídos tan presto como deseamos.»",
                   "autor": "Puente",
                   "referencia_obra": ", Medit. 3. 29 (2. 204)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si ésta [la confianza] falta, se descaece el ánimo, y no aplicando los medios convenientes, desiste de la empresa.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 64 (R. 25. 1772). —"
-                },
+                  "referencia_obra": "Emp. 64 (R. 25. 1772)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Cuando son maltratadas y tenidas en poco de sus maridos, pierden el ánimo más, y descaénseles las alas del corazón.»",
-                  "autor": "León",
-                  "referencia_obra": ", Perf. cas. 4 (R. 37. 2201)."
+                  "id_limpio": "—",
+                  "definicion": "",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Cuando son maltratadas y tenidas en poco de sus maridos, pierden el ánimo más, y descaénseles las alas del corazón.»",
+                      "autor": "León",
+                      "referencia_obra": ", Perf. cas. 4 (R. 37. 2201)."
+                    }
+                  ]
                 }
               ]
             }
@@ -280,23 +387,26 @@
     {
       "id": "d)",
       "definicion": "mar. Decaer, separarse del rumbo hacia sotavento (intrans.) (ant.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Con el gozo de verse con la tierra que demandábamos se descuidó un poco el señor piloto --- y comenzó á descaer el navío del puerto, hasta que dando bordos se volvió á poner en la carrera.»",
           "autor": "Salazar",
           "referencia_obra": ", Cartas, 3 (R. 62. 2971)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «Por lo qual bien creo que yo non descayo | De sus nobles puntos.» Canc. de Baena, p. 458.\n\n— Siglo XIII: «Fueron ricos et honrados et despues vienen á pobreza en manera que el rey entienda que son muy descaidos del estado en que solían seer.» Part. 3. 23. 20 (2. 693. La ley concordante del Espéc. 5. 14. 15, dice decaydos.).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Port. descahir; prov. descazer; el it. tiene scadere, descaecer, y se usa como el prov. en sentido trans. Descaecer, es inceptivo de descaer, y ambos son formaciones populares que corresponden á la semierudita decaer. Véase éste y además Acaecer. El ant. escaecer se tomaba por Descaecer, Acaecer, Olvidar (port. esquecer). «Paras quando ouo a Yndia ganada, | Escaeció en Libia toda su mesnada.» Alex. 1120 (R. 57. 1812). «E por ende era meester que feziesen escriptura, por lo que ante fuera fecho non se olvidase, e sopiesen los omes las cosas que eran escaescidas, bien como se nuevamiente fuesen fechas.» Espéc. 4. 12, preámb. (O. L. 1. 247. El lugar concordante de la Part. 3. 18, dice acaescidas). «Pensé dos rrasones assas paresçientes; | Fundar y la cura a vos non enpesçe: | Es la primera, que Dios no escaeçe | Bien fecho que ssea en qualquier tenor.» Canc. de Baena, p. 558.",
+  "etimologia": "Etim. Port. <i>descahir</i>; prov. <i>descazer</i>; el it. tiene <i>scadere</i>, descaecer, y se usa como el prov. en sentido trans. <i>Descaecer</i>, es inceptivo de <i>descaer</i>, y ambos son formaciones populares que corresponden á la semierudita <i>decaer</i>. Véase éste y además <i>Acaecer</i>. El ant. <i>escaecer</i> se tomaba por Descaecer, Acaecer, Olvidar (port. <i>esquecer</i>). «Paras quando ouo a Yndia ganada, | Escaeció en Libia toda su mesnada.» <i>Alex</i>. 1120 (R. 57. 1812). «E por ende era meester que feziesen escriptura, por lo que ante fuera fecho non se olvidase, e sopiesen los omes las cosas que eran escaescidas, bien como se nuevamiente fuesen fechas.» <i>Espéc</i>. 4. 12, <i>preámb</i>. (O. L. 1. 247. El lugar concordante de la Part. 3. 18, dice <i>acaescidas</i>). «Pensé dos rrasones assas paresçientes; | Fundar y la cura a vos non enpesçe: | Es la primera, que Dios no escaeçe | Bien fecho que ssea en qualquier tenor.» <i>Canc. de Baena,</i> p. 558.",
   "nota": "",
   "forma": "",
   "ortografia": "",
-  "conjugacion": "Conjug. Descaecer tiene estas formas irregulares: descaezco; descaezc-a, as, a, amos, áis, an. Descaer sigue en un todo á caer.\n\n\u0000",
+  "conjugacion": "Conjug. Descaecer tiene estas formas irregulares: descaezco; descaezc-a, as, a, amos, áis, an. Descaer sigue en un todo á caer.",
   "construccion_sintactica": "",
   "prosodia": "",
   "colocacion_concordancia": ""

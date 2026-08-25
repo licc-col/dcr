@@ -1,233 +1,317 @@
 {
   "lema": "SACAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, Con la idea de desplazamiento espacial de personas u objetos, a) poner a alguien o algo fuera del lugar donde estaba (Trasladar: η ), b) hacer surgir o brotar o extraer algún producto, c) quitar o arrancar algo de su sitio, d) llevar, conducir, e) librar, liberar a alguien de cierta situación difícil o penosa, f) apartar a una persona de la situación o estado en que se encuentra (Mover, conmover: β ), g) exceptuar, excluir, h) quitar, borrar, suprimir manchas;\n\n— 2, en juegos, especialmente de pelota, iniciar una jugada al principio del juego o después de una interrupción, una falta, etc.;\n\n— 3, exhibir, mostrar, hacer patente o actual, a) exponer públicamente algo, en general para venderlo, b) mostrar, hacer patente (Ofrecer: β ), c) citar, nombrar, traer el discurso a la conversación, d) tomar citas o notas;\n\n— 4, obtener como resultado de un proceso, actividad o influjo sobre otra persona, a) deducir, hallar, descubrir por indicios, b) obligar a decir, hacer o dar una cosa, c) conseguir, lograr, obtener una cosa (Elaborar, hacer: ε; Desarrollar: ζ ), d) tener o recibir por herencia.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, Con la idea de desplazamiento espacial de personas u objetos, a) poner a alguien o algo fuera del lugar donde estaba (Trasladar: η ), b) hacer surgir o brotar o extraer algún producto, c) quitar o arrancar algo de su sitio, d) llevar, conducir, e) librar, liberar a alguien de cierta situación difícil o penosa, f) apartar a una persona de la situación o estado en que se encuentra (Mover, conmover: β ), g) exceptuar, excluir, h) quitar, borrar, suprimir manchas;\n\n— 2, en juegos, especialmente de pelota, iniciar una jugada al principio del juego o después de una interrupción, una falta, etc.;\n\n— 3, exhibir, mostrar, hacer patente o actual, a) exponer públicamente algo, en general para venderlo, b) mostrar, hacer patente (Ofrecer: β ), c) citar, nombrar, traer el discurso a la conversación, d) tomar citas o notas;\n\n— 4, obtener como resultado de un proceso, actividad o influjo sobre otra persona, a) deducir, hallar, descubrir por indicios, b) obligar a decir, hacer o dar una cosa, c) conseguir, lograr, obtener una cosa (Elaborar, hacer: ε; Desarrollar: ζ ), d) tener o recibir por herencia.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "Con la idea de desplazamiento espacial de personas u objetos.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Poner a alguien o algo fuera del lugar donde estaba (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los dos marineros, que muy diestros eran en nadar, no sólo salieron a nado a la desseada tierra, pero nos sacaron a todos, llevándonos a seguro salvamento.»",
               "autor": "Gil Polo",
-              "referencia_obra": ", Diana (Cl. C. 135. 51). X"
+              "referencia_obra": ", Diana (Cl. C. 135. 51)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Sacó los brazos honestamente fuera de la colcha, tendiólos por el lecho, y volvió la cabeza a la parte contraria de donde estaba Periandro.»",
               "autor": "Cerv.",
-              "referencia_obra": "Pers. 2. 4 (Cl. Castal. 12. 177). X"
+              "referencia_obra": "Pers. 2. 4 (Cl. Castal. 12. 177)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Entonces Clara, abriendo las portezuelas de un mueble adornado de ricos embutidos, que estaba cerca de mí arrimado a la pared, sacó una tarjeta con su nombre, y me la dio después de escribir algunas palabras en ella con lápiz.»",
               "autor": "Pereda",
               "referencia_obra": ", Pedro Sánchez, 1. 10 (Cl. C. 144. 100)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y con sus lágrimas pide a su madre que se la saque [la espina]»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Audi, 77 (2. 28). — Además con de, para especificar el lugar de destino."
-                },
+                  "referencia_obra": ", Audi, 77 (2. 28)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Les sacó del pecho [Cortés a Villafañe] el papel del tratado con las firmas de los conjurados.»",
-                  "autor": "Solís",
-                  "referencia_obra": ", Conq. de Méj. 5. 19 (R. 28. 3742)."
+                  "id_limpio": "—",
+                  "definicion": "Además con de, para especificar el lugar de destino.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Les sacó del pecho [Cortés a Villafañe] el papel del tratado con las firmas de los conjurados.»",
+                      "autor": "Solís",
+                      "referencia_obra": ", Conq. de Méj. 5. 19 (R. 28. 3742)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con a, para especificar el lugar de destino. X",
+              "definicion": "Con a, para especificar el lugar de destino.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En los portales de las casas de vecindad sacan las viejas brujas el brasero a la calle, para calentarse y hablar mal de las vecinas.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 128."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la prep. con, para expresar el modo. X",
+              "definicion": "Con la prep. con, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Él, a la hora, con mucha presteza y gran diligencia, saque su aparejo con mucho tiento y cordura, tomándole el pie entre las manos, aprovechándose del sentido del tocar o palpar, como buen médico y cerurgiano.»",
                   "autor": "Timoneda",
-                  "referencia_obra": ", El Patrañuelo, 4 (Cl. C. 101. 53). X"
+                  "referencia_obra": ", El Patrañuelo, 4 (Cl. C. 101. 53)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Con súbito impulso sacó la mano con un puñado de soles, y los echó sobre la pulgona frazada que en las cárceles hace las veces del tapete verde.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Tirano Banderas, 5. 3. 1 (p. 139)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con de, para expresar: — el lugar.",
-              "ejemplos_citas": [
+              "definicion": "Con de, para expresar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y con tanta fuerza le abrazó que sacándolo de la silla, dio con él en tierra.»",
-                  "autor": "Montem.",
-                  "referencia_obra": "Diana, 4 (p. 149). X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y con tanta fuerza le abrazó que sacándolo de la silla, dio con él en tierra.»",
+                      "autor": "Montem.",
+                      "referencia_obra": "Diana, 4 (p. 149)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Nadie ignora que los bienes ajenos los más ruines son los más pródigos, y hay quienes no sacando jamás un cuarto de la faltriquera para dar a un pobre, a puñados sacan los doblones del arca común para que sirvan a sus antojos.»",
+                      "autor": "Feijóo",
+                      "referencia_obra": ", Cartas eruditas (Cl. C. 85. 254)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Nadie ignora que los bienes ajenos los más ruines son los más pródigos, y hay quienes no sacando jamás un cuarto de la faltriquera para dar a un pobre, a puñados sacan los doblones del arca común para que sirvan a sus antojos.»",
-                  "autor": "Feijóo",
-                  "referencia_obra": ", Cartas eruditas (Cl. C. 85. 254). — El modo. X"
-                },
-                {
-                  "texto_cita": "«Tirano Banderas dejó su pináculo y, metiéndose en el círculo de valedores y compadres, sacó de una oreja al Licenciado Veguillas.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Tirano Banderas, 7. 3. 2 (p. 179)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Tirano Banderas dejó su pináculo y, metiéndose en el círculo de valedores y compadres, sacó de una oreja al Licenciado Veguillas.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Tirano Banderas, 7. 3. 2 (p. 179)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con para y una prop. infinitiva, que indica la finalidad. X",
+              "definicion": "Con para y una prop. infinitiva, que indica la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los dos fueron despojados de los grillos que en una sola barra aprisionaba a entrambos, y poco después vio sacar Nay los cadáveres para ser arrojados al mar.»",
                   "autor": "Isaacs",
                   "referencia_obra": ", María, (p. 183)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. Con de, para especificar el lugar. X",
+          "definicion": "Prnl. Con de, para especificar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Éste decía parar, sin sacarse las manos de los bolsillos del sobretodo, ni tampoco el sombrero; no había dado las buenas noches o no se las oí.»",
               "autor": "Onetti",
               "referencia_obra": ", El astillero, p. 89."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Desfalleció [su virtud] como una chiquita candela, que estando guardada en casa de lumbre, y sacada y puesta a los vientos se apaga.»",
               "autor": "Ávila",
               "referencia_obra": ", Festiv. 10 (5. 268)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para señalar el lugar. Además con otro compl. con a y una prop. infinitiva, que expresa la finalidad. X",
+              "definicion": "Con a, para señalar el lugar. Además con otro compl. con a y una prop. infinitiva, que expresa la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Si aquel filósofo que era esclavo sacado a la plaja a ser vendido, y preguntado qué officio sabía, respondió que mandar a hombres libres, si dixo verdad, mucho sabía; porque arte de artes es el regimiento de ánimas.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Epist. 11 (Cl. C. 11. 141)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de, para expresar el lugar. X",
+              "definicion": "Con de, para expresar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mariana desaparece rápidamente por la escalera y la galería llevándose las cosas sacadas últimamente de la alacena.»",
                   "autor": "J. Poncela",
                   "referencia_obra": ", Eloísa, 2 (p. 131)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Con sujeto de cosa. Con de, para indicar el lugar. Además con la prep. con, para indicar el medio. X",
+          "definicion": "Con sujeto de cosa. Con de, para indicar el lugar. Además con la prep. con, para indicar el medio.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La cautelosa Ismenia me supo tan bien responder a lo que dixe y fingir las palabras que para nuestra conversación eran necessarias que nadie pudiera huir del engaño en que yo caí si la fortuna de tan difficultoso laberinthio con el hilo de prudencia no le sacara.»",
               "autor": "Montem.",
               "referencia_obra": "Diana, p. 51."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con un gerundio. X",
+              "definicion": "Con un gerundio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Aplaude al buen toro cuando le sacan arrastrando las mulillas, y silba, ya muerto, el toro de desecho.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 267."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "met. X",
+          "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A ver si así me sacas el demonio, Antonia; a ver si me lo sorbes.»",
               "autor": "Unamuno",
               "referencia_obra": ", Abel Sánchez, 14 (p. 70)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para señalar el lugar. X",
+              "definicion": "Con a, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El amor es demasiado serio para sacarlo a la calle y a la plaza pública.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 170."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de, para expresar: — el modo.",
-              "ejemplos_citas": [
+              "definicion": "Con de, para expresar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El cuitado Florelo | De suerte se quejaba --- | Sacando de esta suerte | La triste voz del alma fatigada.»",
-                  "autor": "Quev.",
-                  "referencia_obra": "Egl. 6 (Parnaso esp. 7. 271)."
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«El cuitado Florelo | De suerte se quejaba --- | Sacando de esta suerte | La triste voz del alma fatigada.»",
+                      "autor": "Quev.",
+                      "referencia_obra": "Egl. 6 (Parnaso esp. 7. 271)."
+                    }
+                  ]
                 }
               ]
             }
@@ -236,55 +320,68 @@
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Aplicado a las armas. X",
+          "definicion": "Aplicado a las armas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Sacad la espada, y aquí | El uno de los dos muera: | Vos, porque no la sirváis, | O yo, porque no lo vea.»",
               "autor": "Cald.",
               "referencia_obra": "La devoción de la cruz, (Cl. Ebro, 66. 44)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para indicar el modo. X",
+              "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Brevemente don Alonso estuvo tan firme en la silla y cierto en el ristre, sacando la lanza con tan buen aire y llevando en ella tanta gracia, que parecía lo hubiera ejercitado muchos años.»",
                   "autor": "Alemán",
                   "referencia_obra": ", Guzmán, 1. 1. 8 (Cl. C. 73. 218)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con contra, que expresa oposición. X",
+              "definicion": "Con contra, que expresa oposición.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Quiso don Juan sacar la espada contra ellos, mas el Corregidor le reportó, advirtiéndole que su hija no asistía allí con quien pensaba, que aquel caballero era don Sancho de Leyva, bien conocido en la Corte por su mucha calidad.»",
                   "autor": "Solórzano",
                   "referencia_obra": ", La Garduña de Sevilla, 4 (Cl. C. 42. 292)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Mandó [Cortés] pena de la vida: Que ninguno fuese osado a sacar la espada contra otro en los cuarteles ni en la marcha.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 5. 9 (R. 28. 3571)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con para, que especifica la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Es ordinario en los hombres, en sacando una espada para ver los filos, sacarlas todos los que están presentes.»",
                   "autor": "Lope",
                   "referencia_obra": ", Dorotea, 1. 3 (Obr. suelt. 7. 90)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -292,13 +389,16 @@
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "Trasladar. Pas. refl. Con a, para señalar el lugar de destino.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Lamentábase Castilla de que se sacasen sus cortes a Galicia.»",
               "autor": "Solís",
               "referencia_obra": ", Conq. de Méj. 3. 1 (R. 28. 2651)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -306,32 +406,40 @@
     {
       "id": "b)",
       "definicion": "Hacer surgir o brotar o extraer algún producto (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con sujeto de cosa. Con de, para indicar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y será justo, saque el humo llanto de unos ojos, de quien la piedad jamás lo pudo sacar.»",
               "autor": "Figueroa",
               "referencia_obra": ", Amarilis, 1 (p. 66)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. Con de. X",
+          "definicion": "Part. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y recibiendo conocido amparo | Del rostro del amor allí esculpido, | Con vna voz del ánima sacada | Ansí se quexa de su suerte ayrada.»",
               "autor": "F. de la Torre",
               "referencia_obra": ", Poes. 5 (Cl. C. 124. 142)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -339,36 +447,45 @@
     {
       "id": "c)",
       "definicion": "Quitar o arrancar algo de su sitio (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Fui con ella, ¡que no fuera! a sacar de un ahorcado | Una muela; puse a un lado, | Como arlequín, la escalera.»",
               "autor": "Lope",
               "referencia_obra": ", Caballero (Cl. Castal. 19. 80)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con imponderable destreza Tiburcio desolló el tigre, sacándole sebos que diz que servían para qué sé yo qué.»",
                   "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 76. X"
+                  "referencia_obra": ", María, p. 76."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Le saqué el freno que recién se estaba acostumbrando a cascar; le aflojé el maneador lo más posible para que bebiera tranquilo.»",
                   "autor": "Güiraldes",
                   "referencia_obra": ", Don Segundo Sombra, 10 (p. 61)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -376,44 +493,54 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Aplicado a prendas de vestir. Con dat. Además con de, para señalar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Acusábanle [a Terencio] que los había hurtado [los zuecos] a ellos, y pudiendo más la fuerza que la verdad, se los sacaron del pie.»",
               "autor": "Saav.",
               "referencia_obra": "Rep. (R. 25. 4051)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. refl. X",
+              "definicion": "Con dat. refl.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Le apretó la mano y puso otra sobre el hombro empapado y frío. —¿Por qué no se saca el sobretodo y se sienta?»",
                   "autor": "Onetti",
                   "referencia_obra": ", El astillero, p. 81."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Refrán. Cría cuervos y te sacarán los ojos: enseña que los beneficios deben hacerse con juicio y discreción, pues suelen fomentar ingratos. X",
+          "definicion": "Refrán. Cría cuervos y te sacarán los ojos: enseña que los beneficios deben hacerse con juicio y discreción, pues suelen fomentar ingratos.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«La mesma razón ay en dezir ayudarte a por ayudaráte; yo siempre digo: Ayúdate y ayudaráte Dios. Lo mesmo es sacarte a o sacaráte, como dizíendo: Cría cuervo y sacaráte el ojo.»",
               "autor": "Valdés",
-              "referencia_obra": ", Diál. (Cl. C. 86. 51). X"
+              "referencia_obra": ", Diál. (Cl. C. 86. 51)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Qué ha hecho usted, siendo la bondad misma y la rectitud misma, sino criar cuervos para que le sacaran los ojos? ¿Cuántos bandidos no han salido de su escuela?»",
               "autor": "Gallegos",
               "referencia_obra": ", Cantaclaro, p. 66."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -421,72 +548,98 @@
     {
       "id": "d)",
       "definicion": "Llevar, conducir (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con a. X",
+          "definicion": "Con a.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Viste cómo llevar el ganado al río, sacar los corderos al soto, traer las ovejas por la siesta a la sombra d'estos alisos jamás sin mi compañía supo hazello?»",
               "autor": "Montem.",
-              "referencia_obra": "Diana, p. 25. — El término es una prop. infinitiva. X"
-            },
+              "referencia_obra": "Diana, p. 25."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Los campesinos de Ledesma siembran trigo y cebada en los campos de secano, y los pastores sacan sus partidas de cerdos a comer bellotas en los encinares.»",
-              "autor": "Caballero Calderón",
-              "referencia_obra": ", Ancha es Castilla, p. 84."
+              "id_limpio": "—",
+              "definicion": "El término es una prop. infinitiva.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Los campesinos de Ledesma siembran trigo y cebada en los campos de secano, y los pastores sacan sus partidas de cerdos a comer bellotas en los encinares.»",
+                  "autor": "Caballero Calderón",
+                  "referencia_obra": ", Ancha es Castilla, p. 84."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Fernando comprendió el gesto de aquel hombre rudo. Había querido salvarlo. —Coronel, yo se lo agradezco mucho. ¿Me deja usted darle la mano? —¡Cómo no, hijo! Y le tendió su callosa y fuerte mano. Después abrazó a Bernardo. —Buena suerte, Bernardo. Que Dios te saque con bien.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 10 (p. 133)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la combinación de... a, para señalar el punto de partida y el de llegada.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Sacó [Naharro] la música, que antes cantaba detrás, de la manta, al Teatro público.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Com. pról. (Com. 1. 61)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con en, para indicar el modo. Además con hacia, que expresa el lugar. X",
+              "definicion": "Con en, para indicar el modo. Además con hacia, que expresa el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Era el mismo silencio fúnebre de aquella tarde de Ferias en que en brazos de la cuadrilla sacaron hacia la enfermería, chorreando sudor y sangre, al príncipe de los toreros de España.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 266."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con hasta, para indicar el lugar. X",
+              "definicion": "Con hasta, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con muchas lágrimas nacidas de amor, me sacaron hasta la puerta de Alcalá, donde muchas vezes me abrajaron llorando tiernamente.»",
                   "autor": "",
                   "referencia_obra": "Cortés deTolosa, Lazarill. de Manzanares (Cl. C. 186. 19)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -495,63 +648,87 @@
     {
       "id": "e)",
       "definicion": "Librar, liberar a alguien de cierta situación difícil o penosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Crecía con las ocasiones la furia del pueblo, hasta que el 12 de mayo rompió tumultuosamente las cárceles, sacando al diputado militar.»",
               "autor": "Melo",
               "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4692)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y bajó [Cristo] a sus reinos oscuros, y quebrantóles las cárceles, y sacóles mil prisioneros.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 3 (3. 398)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Este Padre, y Señor mío me sacó con más bien que yo le sabía pedir.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Vida, 6 (1. 33)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de, para señalar aquello de lo que se libra.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¡Oh si viese yo nuestro negocio hecho! y sea en hora buena, y sáquenos su Majestad de este sobresalto a todos.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Cartas, 87 (R. 55. 781)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y vino un día en que Dios le hizo merced, de que el Rey Evilmerodach se acordase de él, y lo sacó de la cárcel.»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Eucar. 10 (3. 260). — Además con a. X"
-                },
+                  "referencia_obra": ", Eucar. 10 (3. 260)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Dadme la mano de ser mi esposa, señora mía, y sacadme de la esclavitud en que me veo, a la libertad de verme deba o de vuestro yugo.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Poes. (Cl. Castal. 12. 410)."
+                  "id_limpio": "—",
+                  "definicion": "Además con a.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Dadme la mano de ser mi esposa, señora mía, y sacadme de la esclavitud en que me veo, a la libertad de verme deba o de vuestro yugo.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Poes. (Cl. Castal. 12. 410)."
+                    }
+                  ]
                 }
               ]
             },
@@ -559,49 +736,60 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con un predicado referido al acus.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Admirados [los enemigos] de tanto valor y fortaleza, echando un garfio, le sacaron vivo y le trataron con gran humanidad.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 37 (R. 25. 951). X"
+                  "referencia_obra": "Emp. 37 (R. 25. 951)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Dios potente de Israel ----, | Sácame salvo a Rodrigo | Y doy mi vida por él!»",
                   "autor": "Hartz.",
                   "referencia_obra": "La jura en Santa Gadea, 3. 6 (Cl. C. 113. 222)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con sujeto de cosa. Con de, para indicar la condición de la que se libra. X",
+              "definicion": "Con sujeto de cosa. Con de, para indicar la condición de la que se libra.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ahora bien: el sentido de aquellos derechos no era otro que sacar las almas humanas de su interna servidumbre y proclamar dentro de ellas una cierta conciencia de señorío y dignidad.»",
                   "autor": "Ortega y Gasset",
                   "referencia_obra": ". Rebel. de las masas 2 (p. 76)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Forma la expresión Sacar vientre de mal año: saciar el hambre; comer más o mejor de lo que se acostumbra, y especialmente cuando lo hace en casa ajena. X",
+          "definicion": "Forma la expresión Sacar vientre de mal año: saciar el hambre; comer más o mejor de lo que se acostumbra, y especialmente cuando lo hace en casa ajena.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Hoy pienso | Sacar vientre de mal año, | Hoy las faltas recompenso | De aqueste viejo tacaño, | Hoy las tripas desaprenso.»",
               "autor": "Lope",
-              "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 299). X"
+              "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 299)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vna gata preñada que allí estava, pareciéndole que la treta yba buena y que si las sardinas anticipavan su venida, ella y la çorra sacarían el vientre de mal año, de puro contento, començó a retoçar.»",
               "autor": "",
               "referencia_obra": "Píc. Just. p.62."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -609,32 +797,61 @@
     {
       "id": "f)",
       "definicion": "Apartar a una persona de la situación o estado en que se encuentra (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Estaba el demonio --- poseyendo pacíficamente el principado de la tierra, sacándolo del servicio y obediencia de su legítimo y verdadero Señor.»",
               "autor": "Gran.",
               "referencia_obra": "Medit. (3. 4922)."
             },
             {
+              "marca": "",
               "texto_cita": "«Miren bien si soy difunto, porque por mi cuenta es imposible que pueda ser esto. En esto iba y venía, sin poderlo nadie sacar de aquí.»",
               "autor": "Quint.",
-              "referencia_obra": "Zahurdas (R. 23. 3191). — Además con la prep. con, para indicar: — el modo. X"
+              "referencia_obra": "Zahurdas (R. 23. 3191)."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Además con la prep. con, para indicar:",
+              "marca": "",
+              "ejemplos_citas": []
             },
             {
-              "texto_cita": "«A Dios está encomendado, que sobre todas las cosas no pierda la fe y lo cubra la Sombra del Señor San Pedro, el Manto de la Virgen lo saque con bien de malas compañías, de mujeres malasentrañas;»",
-              "autor": "",
-              "referencia_obra": "Yáñez, Al filo del agua, p. 20. — El medio."
+              "id_limpio": "—",
+              "definicion": "el modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«A Dios está encomendado, que sobre todas las cosas no pierda la fe y lo cubra la Sombra del Señor San Pedro, el Manto de la Virgen lo saque con bien de malas compañías, de mujeres malasentrañas;»",
+                  "autor": "",
+                  "referencia_obra": "Yáñez, Al filo del agua, p. 20."
+                }
+              ]
             },
             {
-              "texto_cita": "«Y ansí Job, visto lo mal que sus amigos entendían sus dichos y el error en que estaban, los saca de él aquí con palabras clarísimas.»",
-              "autor": "León",
-              "referencia_obra": ", Expos. de Job, 1. 9 (1. 162)."
+              "id_limpio": "—",
+              "definicion": "El medio.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Y ansí Job, visto lo mal que sus amigos entendían sus dichos y el error en que estaban, los saca de él aquí con palabras clarísimas.»",
+                  "autor": "León",
+                  "referencia_obra": ", Expos. de Job, 1. 9 (1. 162)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -642,70 +859,86 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En el siguiente ejemplo, Mover, conmover. Con dat. X",
+          "definicion": "En el siguiente ejemplo, Mover, conmover. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mas no le acaesció assí a don Felis, porque cuanto más entendía que su dama le olvidava tanto mayores ansias le sacavan el alma.»",
               "autor": "Montem.",
               "referencia_obra": "Diana, p. 134."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Forma las expresiones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Sacar de juicio (seso, naturales) a alguien: aturdirlo, confundirlo o exasperarlo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tu extremada, y jamás vista belleza, que basta a sacar de su seso a los hombres, me disculpa.»",
                   "autor": "León",
                   "referencia_obra": ", Cantares, 4 (4. 69)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Son de él tan amados [sus escogidos], que es para sacar de juicio a quien lo conoce.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Epist. 3 (7. 7)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ni su grande estima y reputación le desvaneció o sacó de sus juicios.»",
                   "autor": "",
                   "referencia_obra": "Id. Expos. de Job, 1. 1 (1. 7)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Tú que te amartirizas el rostro y le sacas de sus naturales ---, procuras de parecer otra de la que eres.»",
                   "autor": "M. de Chaide",
                   "referencia_obra": ", Magd. 2. 7 (R. 27. 3071)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Sacar de sí (mí): hacer perder el conocimiento y el juicio",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Basta [ese premio] para sacar de sí al que una vez lo ha gustado.»",
                   "autor": "Gran.",
                   "referencia_obra": "Orac. y medit. 2. 4 (2. 2401)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Espantan [vuestras misericordias] a los que las ven, y a mi me sacan de mí muchas veces.»",
                   "autor": "Sta. Ter.",
-                  "referencia_obra": "Vida, 14 (1. 104). X"
+                  "referencia_obra": "Vida, 14 (1. 104)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El amor llámase potencia unitiva, que une al amante con el amado, sacándole de sí y llevándole a lo que ama.»",
                   "autor": "M. de Chaide",
                   "referencia_obra": ", Magd. 1. 4 (Cl. C. 104. 102)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -714,60 +947,75 @@
     {
       "id": "g)",
       "definicion": "Exceptuar, excluir (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Desde el principio del mundo hasta el fin de él, sacando al Hijo de Dios y su Madre Benditísima, todos hemos pecado.»",
           "autor": "Ávila",
           "referencia_obra": ", Eucar. 5 (3. 148)."
         },
         {
+          "marca": "",
           "texto_cita": "«Yo te tomaré Madre Mía, y reinarás sobre todas cosas que desea tu ánima, y quien dijo todas ninguna sacó.»",
           "autor": "",
           "referencia_obra": "Id. Festiv. 10 (5. 292)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "h)",
       "definicion": "Quitar, borrar, suprimir manchas (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No es bueno romper la seda por sacar la mancha.»",
               "autor": "Lope",
               "referencia_obra": ", Dorotea, 1. 8 (Obr. suelt. 7. 64)."
             },
             {
+              "marca": "",
               "texto_cita": "«Mira, arrogante furia vengativa, | Que no es honra matar así una diosa, | Ni la hace menor, sino más ancha, | Quemar el paño por sacar la mancha.»",
               "autor": "Valb.",
               "referencia_obra": "Bern. 11 (R. 17. 2601)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "met. X",
+          "definicion": "met.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Que te admiras, que te espantas | Que de tu primera Culpa | Saque el Bautismo las manchas?»",
               "autor": "Cald.",
               "referencia_obra": "Autos, 2 (Cl. C. 74. 204)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con. | Que tu acero tu honor lave, | Que las manchas del honor | Las saca el valor con sangre.» Rojas, Donde hay agravios no hay celos, 3 (R. 54. 1643).",
-              "ejemplos_citas": []
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -776,37 +1024,46 @@
     {
       "id": "2",
       "definicion": "En juegos, especialmente de pelota, Iniciar una jugada al principio del juego o después de una interrupción, una falta, etc. (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Víneme a hacer tan robusto, | Que no volviera pelota | Que yo sacara Roldán: | Así volaba furiosa.»",
               "autor": "Rojas",
               "referencia_obra": ", Don Diego de noche, 1 (R. 54. 2152)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Absol.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si agora se hubiera ido | Al juego de la pelota, | Le haré que vuelva al proviso, | Aunque le encuentre sacando.»",
               "autor": "Mto.",
-              "referencia_obra": "El caballero, 3. 5 (R. 39. 3061). X"
+              "referencia_obra": "El caballero, 3. 5 (R. 39. 3061)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El árbitro indicó al futbolista que sacara, y se reanudó el partido.»",
               "autor": "Dicc. Planeta",
               "referencia_obra": "."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -814,38 +1071,48 @@
     {
       "id": "3",
       "definicion": "Exhibir, mostrar, hacer patente o actual.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Exponer públicamente algo, en general para venderlo (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con a, para especificar el lugar de destino. Además con por, que indica el tiempo. X",
+          "definicion": "Con a, para especificar el lugar de destino. Además con por, que indica el tiempo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Tienen más que con su oficio no engañan a nadie, pues por momentos sacan su mercaduría a pública plaza.»",
               "autor": "Cerv.",
               "referencia_obra": "Nov. 2 (Cl. C. 36. 64)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Impers. Con a, que indica el lugar. Además con para y una prop. subjuntiva, que expresa la finalidad. X",
+          "definicion": "Impers. Con a, que indica el lugar. Además con para y una prop. subjuntiva, que expresa la finalidad.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Recorriose la artillería y sacose a la plaza de armas pan y vino y queso para que se comiese en abundancia.»",
               "autor": "Valdés",
               "referencia_obra": ", Vida (NBAE. 2. 5062)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -853,61 +1120,90 @@
     {
       "id": "b)",
       "definicion": "Mostrar, hacer patente (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Saca afuera algunas ciudades principales (donde hay algún rastro de doctrina) y discurre por todo esotro carruaje de villas y lugares.»",
               "autor": "Gran.",
               "referencia_obra": "Guía, 1. 3. 27 (1. 1852)."
             },
             {
+              "marca": "",
               "texto_cita": "«Olvídase el valido de sí mismo, y se caen aquellas buenas calidades con que empezó a privar, como postizas, sacando la prosperidad afuera los vicios que había celado el arte.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 50 (R. 25. 1311)."
             },
             {
+              "marca": "",
               "texto_cita": "«Porque yo, según me he visto, | Nunca saco peor cara | Que con muchos atavíos.»",
               "autor": "Mto.",
               "referencia_obra": "El lindo D. Diego, 1. 4 (R. 39. 3523)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y tú toma este báculo ñudoso, | Que Antino mereciendo ser amado | Nunca me le sacó.»",
                   "autor": "León",
-                  "referencia_obra": ", Poes. Trad. Égl. 5 Virgilio (Fern. 10. 102). X"
+                  "referencia_obra": ", Poes. Trad. Égl. 5 Virgilio (Fern. 10. 102)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo no sé nada de tales misterios. El me mira con cierta lástima. Luego para demostrarme que es un abogado a la moderna me saca un libro de D'Aguanno.»",
                   "autor": "Azorín",
                   "referencia_obra": ", La voluntad (Cl. Castal. 3. 271)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para indicar: — el lugar.",
-              "ejemplos_citas": [
+              "definicion": "Con en, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«En Toledo más en particular sacan aquel día las banderas de los Moros.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 11. 25 (1. 5771). — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "el lugar.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«En Toledo más en particular sacan aquel día las banderas de los Moros.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 11. 25 (1. 5771)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Sírvale pues aqueste advertimiento de sonda que assegure en la navegación de mis jornadas, la certeza y verdad de su relación; sin que tan varios casos pierdan su autoridad por sacarlos en público para su exemplo y diversión.»",
-                  "autor": "Césp.",
-                  "referencia_obra": "y Men. Sold. Pínd. 2 (Cl. C. 203. 110)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Sírvale pues aqueste advertimiento de sonda que assegure en la navegación de mis jornadas, la certeza y verdad de su relación; sin que tan varios casos pierdan su autoridad por sacarlos en público para su exemplo y diversión.»",
+                      "autor": "Césp.",
+                      "referencia_obra": "y Men. Sold. Pínd. 2 (Cl. C. 203. 110)."
+                    }
+                  ]
                 }
               ]
             }
@@ -916,65 +1212,80 @@
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "En el siguiente texto, Ofrecer. Con dat. X",
+          "definicion": "En el siguiente texto, Ofrecer. Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pues que ha ido a hacer una visita para darle una limosna a Garibaldi, y Garibaldi le ha sacado una jícara de chocolate al señor obispo. Se ha sentado el señor obispo, ha tomado una y clac..., no se sabe qué le ha pasado: se ha quedado muerto.»",
               "autor": "Baroja",
               "referencia_obra": ", La busca, 3. 7 (p. 176)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Forma la expresión Sacar a luz:",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Editar una obra. X",
+              "definicion": "Editar una obra.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mi intención es, si el Señor fuere servido, tratar este mismo argumento más copiosamente en otro libro, contentándome al presente con sacar a luz este pequeño volumen que es como un epítome y sumario de lo que en el otro se ha de tractar.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Guía, 1 (Cl. C. 97. 13). X"
+                  "referencia_obra": "Guía, 1 (Cl. C. 97. 13)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Como la necesidad, según se dice, es maestra de avivar los ingenios, este mío que tiene un no se que de fantástico e inventivo, ha dado en una imaginación algo peregrina y nueva, y es que a costa ajena quiero sacar un libro a luz, cuyo trabajo sea, como he dicho ajeno y el provecho mío.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 4. 1 (Cl. Castal. 12. 416)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«No quisiera saber escribir. Sentencia, que obligó al filósofo a sacar a luz los libros de clementia.»",
                   "autor": "Capm.",
                   "referencia_obra": "Teatro, 4 (p. 1070)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Descubrir, hacer patente y notorio lo que estaba oculto.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El Señor ha de sacar esto a la luz, y ha de acabar lo que ha comenzado.»",
                   "autor": "Ávila",
-                  "referencia_obra": ", Epist. 3 (7. 132). X"
+                  "referencia_obra": ", Epist. 3 (7. 132)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Esta hermosura de cielo y mundo que vemos, y la otra mayor que entendemos, y que nos esconde el mundo invisible, ¿fue siempre como es agora, o hízose ella a sí misma, o Dios la sacó a luz y la hizo?»",
                   "autor": "León",
-                  "referencia_obra": ", Nomb. (Cl. C. 28. 59). X"
+                  "referencia_obra": ", Nomb. (Cl. C. 28. 59)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Mi cara y la del otro púgil quedaron de tan mal ver, que en más de una semana no nos fue dable sacarlas a luz, y aun después de ese término tuvimos que echar mano de una fábula para explicar los deterioros que habían sufrido.»",
                   "autor": "Marroquín",
                   "referencia_obra": ", Blas Gil, 6 (p.54)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -983,32 +1294,40 @@
     {
       "id": "c)",
       "definicion": "Citar, nombrar, traer el discurso a la conversación (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«También aquí es continuo el licenciado | Celedón, gran sugeto y gran letrado, | Que fue alcalde mayor en San Clemente, | Y a todo saca un texto de repente.»",
               "autor": "Mto.",
               "referencia_obra": "De fuera vendrá, 1. 1 (R. 39. 573)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Forma la expresión, Sacar a relucir una cosa: decirla o citarla en una conversación. X",
+          "definicion": "Forma la expresión, Sacar a relucir una cosa: decirla o citarla en una conversación.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Saca en seguida a relucir Justi lo del carácter sombrío de Felipe II —este ya tradicional lugar común— y lo de que proscribiera lo demasiado rico y presuntuoso.»",
               "autor": "Unamuno",
               "referencia_obra": ", Andanzas y visiones esp. p. 37."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1016,40 +1335,64 @@
     {
       "id": "d)",
       "definicion": "Tomar citas o notas (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "α)",
           "id_limpio": "α)",
-          "definicion": "Con de. X",
+          "definicion": "Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Con vuestra licencia voy a meter una corta baza para exponer ideas que he sacado de los mamotretos de don Luciano, relativas a la fortuna.»",
               "autor": "",
-              "referencia_obra": "M. E Suárez, Sueños, 1 (p. 257). X"
+              "referencia_obra": "M. E Suárez, Sueños, 1 (p. 257)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La mayor parte de las notas utilizadas en la conferencia las ha sacado de este libro.»",
               "autor": "Dicc. Planeta",
               "referencia_obra": "."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. Con de, para señalar: — el autor. X",
-          "ejemplos_citas": [
+          "definicion": "Part. Con de, para señalar:",
+          "marca": "",
+          "ejemplos_citas": [],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Ciertos poetas murmuravan de Terencio, diziendo que aquella comedia y otras que hazía eran agenas, sacadas, en effecto, de Menandro, y que por el mismo caso no merecía gloria ninguna.»",
-              "autor": "Cascales",
-              "referencia_obra": ", Tablas poét. 4 (Cl. C. 207. 211). — El objeto. X"
+              "id_limpio": "—",
+              "definicion": "el autor.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Ciertos poetas murmuravan de Terencio, diziendo que aquella comedia y otras que hazía eran agenas, sacadas, en effecto, de Menandro, y que por el mismo caso no merecía gloria ninguna.»",
+                  "autor": "Cascales",
+                  "referencia_obra": ", Tablas poét. 4 (Cl. C. 207. 211)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Y otros papeles y aprobaciones de muchos teólogos destos reinos, los cuales se verán al fin deste libro, sacados de sus originales, con otros de importancia.»",
-              "autor": "Herr.",
-              "referencia_obra": "Amparo de pobres (Cl. C. 199. 22)."
+              "id_limpio": "—",
+              "definicion": "El objeto.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Y otros papeles y aprobaciones de muchos teólogos destos reinos, los cuales se verán al fin deste libro, sacados de sus originales, con otros de importancia.»",
+                  "autor": "Herr.",
+                  "referencia_obra": "Amparo de pobres (Cl. C. 199. 22)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1059,60 +1402,103 @@
     {
       "id": "4",
       "definicion": "Obtener como resultado de un proceso, actividad o influjo sobre otra persona.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Deducir, hallar, descubrir por indicios (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con de, para expresar: — la causa. Además con una prop. en indicativo como acus.",
-          "ejemplos_citas": [
+          "definicion": "Con de, para expresar:",
+          "marca": "",
+          "ejemplos_citas": [],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Dos veces me casé, de cuya empresa | Sacaréis que acerté, pues porfiaba, | Que nadie vuelve a ver lo que le pesa.»",
-              "autor": "Lope",
-              "referencia_obra": ", Epist. 16 (Obr. suelt. 1. 471). X"
+              "id_limpio": "—",
+              "definicion": "la causa. Además con una prop. en indicativo como acus.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Dos veces me casé, de cuya empresa | Sacaréis que acerté, pues porfiaba, | Que nadie vuelve a ver lo que le pesa.»",
+                  "autor": "Lope",
+                  "referencia_obra": ", Epist. 16 (Obr. suelt. 1. 471)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«Es un pueblo de Italia donde se juntan los hombres de negocios (que acá llamamos fulleros de pluma), a poner los precios por donde se gobierna la moneda; de lo cual sacamos que en Visanzón se llevaba el compás a los músicos de uña.»",
+                  "autor": "Quev.",
+                  "referencia_obra": "Buscón, 10 (Cl. C. 5. 137)."
+                },
+                {
+                  "marca": "X",
+                  "texto_cita": "«De su información sacó Feliciano que aquella casa era de la tía de su dueño.»",
+                  "autor": "Solórzano",
+                  "referencia_obra": ", La Garduña de Sevilla, 3 (Cl. C. 42. 215)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Es un pueblo de Italia donde se juntan los hombres de negocios (que acá llamamos fulleros de pluma), a poner los precios por donde se gobierna la moneda; de lo cual sacamos que en Visanzón se llevaba el compás a los músicos de uña.»",
-              "autor": "Quev.",
-              "referencia_obra": "Buscón, 10 (Cl. C. 5. 137). X"
-            },
-            {
-              "texto_cita": "«De su información sacó Feliciano que aquella casa era de la tía de su dueño.»",
-              "autor": "Solórzano",
-              "referencia_obra": ", La Garduña de Sevilla, 3 (Cl. C. 42. 215). — El modo. X"
-            },
-            {
-              "texto_cita": "«Es verdad que aquellos a quienes Dios dotó de un entendimiento claro y reflexivo, no necesitan de que otro les haga esta advertencia. Ellos la sacan de su propio fondo.»",
-              "autor": "Feijóo",
-              "referencia_obra": ", Cartas eruditas (Cl. C. 85. 192)."
+              "id_limpio": "—",
+              "definicion": "El modo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Es verdad que aquellos a quienes Dios dotó de un entendimiento claro y reflexivo, no necesitan de que otro les haga esta advertencia. Ellos la sacan de su propio fondo.»",
+                  "autor": "Feijóo",
+                  "referencia_obra": ", Cartas eruditas (Cl. C. 85. 192)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, que indica: — el medio.",
-              "ejemplos_citas": [
+              "definicion": "Con por, que indica:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«El cordero por natural instinto sabe conocer su manjar; y si le ponéis muchos manjares, y entre ellos la leche, aunque no la vea, el la sacará por rastro.»",
-                  "autor": "Ávila",
-                  "referencia_obra": ", Eucar. 19 (4. 263). X"
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«El cordero por natural instinto sabe conocer su manjar; y si le ponéis muchos manjares, y entre ellos la leche, aunque no la vea, el la sacará por rastro.»",
+                      "autor": "Ávila",
+                      "referencia_obra": ", Eucar. 19 (4. 263)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¡Me has sacado por la fotografía! —¡Naturaca!. ¿Y va usted sin una flor en la solapa?»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Luces de bohemia, (Cl. C. 180. 35)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¡Me has sacado por la fotografía! —¡Naturaca!. ¿Y va usted sin una flor en la solapa?»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Luces de bohemia, (Cl. C. 180. 35). — El modo. X"
-                },
-                {
-                  "texto_cita": "«Llegan por sus renglones | A leer | Los secretos del placer | En que los novios se ensayan, | Y antes que al tálamo vayan | Saben la que puede ser | Por razón, | De más de la inclinación | Y el diablo se lo dice; | Mas aunque él no las atice, | Lo sacan por discreción.»",
-                  "autor": "Castillejo",
-                  "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 145)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Llegan por sus renglones | A leer | Los secretos del placer | En que los novios se ensayan, | Y antes que al tálamo vayan | Saben la que puede ser | Por razón, | De más de la inclinación | Y el diablo se lo dice; | Mas aunque él no las atice, | Lo sacan por discreción.»",
+                      "autor": "Castillejo",
+                      "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 145)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1122,30 +1508,37 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Pas. refl. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Todo este suceso que se ha referido es conforme se saca de lo que Montaner en su historia, y Berenguer en sus relaciones, nos dejó escrito.»",
               "autor": "Moncada",
               "referencia_obra": ", Exped. 20 (R. 21. 202)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con por, para especificar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«La ligereza y ambición de parecer favorecidos los revela [los secretos], o se descubren por otra parte, o se sacan por discurso, y causan la indignación del príncipe contra el valido.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Emp. 50 (R. 25. 1301). X"
+                  "referencia_obra": "Emp. 50 (R. 25. 1301)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Las etimologías unas veces se sacan por el conocimiento de las cosas significadas, otras por las mismas cosas y también por las palabras, que las significan, otras sólo por las palabras.»",
                   "autor": "Mayáns",
                   "referencia_obra": ", Orig. leng. esp. p. 381."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1153,44 +1546,55 @@
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por esta proporción tan igual del Hijo con el Padre, con razón se le atribuye la hermosura, pues tan al propio está sacada la imagen de su dechado.»",
               "autor": "Ávila",
               "referencia_obra": ", Audi, 108 (2. 188)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Expresiones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Sacar en limpio: deducir claramente. X",
+              "definicion": "Sacar en limpio: deducir claramente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Finalmente, no me faltaron medios para entender quién él era, y la calidad de su persona, y qué hacía en la corte o dónde iba, y lo que saqué en limpio fue que se llamaba Andrea Marulo, hijo de Juan Bautista Marulo, caballero desta ciudad, más noble que rico, y que iba a estudiar a Salamanca.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Pers. 3. 20 (Cl. Castal. 12. 406)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Sacar verdadero: probar con la propia conducta, o por diferente medio, que es cierto lo que otro había dicho de él.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Con tanta vigilancia atiende a la consagración de cualquier sacerdote, que en diciendo: Esto es mi cuerpo, en el mismo instante saca verdaderas las palabras.»",
                   "autor": "Puente",
                   "referencia_obra": ", Medit. 6. 40 (3. 492)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1199,44 +1603,63 @@
     {
       "id": "b)",
       "definicion": "Obligar a decir, hacer o dar una cosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con dat. X",
+          "definicion": "Con dat.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Alanio, cuando aquello oyó, disimuló lo mejor que él pudo, diziendo que havía sido grandíssimo donaire; y sacándole todo lo que conmigo havía passado, que no faltó cosa, llegaron a su aldea.»",
               "autor": "Montem.",
-              "referencia_obra": "Diana, (p. 53). X"
+              "referencia_obra": "Diana, (p. 53)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuando de golpe dejó de venir Tiburcio, sin que Candelaria pudiera sacarle a la muchacha el motivo; y como a mí me tiene Salomé el respeto que debe, menos pude averiguarle.»",
               "autor": "Isaacs",
               "referencia_obra": ", María, (p. 209)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Qué le cuento? Le compré al amo don Jerónimo el rastrojo aquel del guadalito; ¡pero qué hombre tan tirano!... Cuatrocientos patacones y diez ternerotes de aparte me sacó.»",
                   "autor": "Isaacs",
-                  "referencia_obra": ", María, p. 207. X"
+                  "referencia_obra": ", María, p. 207."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Unas veces con engaños, otras con amenazas o llorándose muertos de hambre, a éste le sacan mercancía, al otro préstamo en efectivo, al de más allá frijol y maíz.»",
                   "autor": "",
-                  "referencia_obra": "Yáñez, Al filo del agua, p. 182. — Siendo el acus. una prop. subjuntiva. Además con por, que expresa el modo."
-                },
+                  "referencia_obra": "Yáñez, Al filo del agua, p. 182."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Lo dejó entrar con sacarle por condición que ordenase una ley en que estableciese que ninguna sentencia de muerte se ejecutase antes de pasados treinta días después que fuese pronunciada.»",
-                  "autor": "Mariana",
-                  "referencia_obra": ", Hist. Esp. 4. 20 (1. 1921)."
+                  "id_limpio": "—",
+                  "definicion": "Siendo el acus. una prop. subjuntiva. Además con por, que expresa el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Lo dejó entrar con sacarle por condición que ordenase una ley en que estableciese que ninguna sentencia de muerte se ejecutase antes de pasados treinta días después que fuese pronunciada.»",
+                      "autor": "Mariana",
+                      "referencia_obra": ", Hist. Esp. 4. 20 (1. 1921)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1244,27 +1667,33 @@
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con sin y una prop. infinitiva, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Requiérese mucha prudencia para saber sacar los pecados sin enseñarse lo que no saben.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Epíst. 1 (6. 13)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Forma la expresión, Sacarle los ojos: instar con molestia a que haga una cosa. X",
+          "definicion": "Forma la expresión, Sacarle los ojos: instar con molestia a que haga una cosa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Entre gentes dell'arte no hay falsos pudores. Ni falsos, ni verdaderos. El honor lo ponen en otras cosas. Que Polichinela asegure que Colombina le ha robado un par de medias a Lelia, y Colombina le sacará un ojo a Polichinela. Pero por cosas de amor o de pudor, nadie se enfada.»",
               "autor": "Benavente",
               "referencia_obra": ", Intereses creados, p. 54."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1272,81 +1701,121 @@
     {
       "id": "c)",
       "definicion": "Conseguir, lograr, obtener una cosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«La fuerza sola de su no medido poder las sacaba todas [las cosas] al ser.»",
               "autor": "León",
               "referencia_obra": ", Nomb. 3. 3 (3. 385)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ningún pintor trabaja tanto por sacar su retrato tan semejante al natural, quanto él [el espíritu divino] procura hacer a todos sus escogidos semejantes a Cristo.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 4. 1 (2. 5192)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aquel tenemos por más excelente médico que más enfermos sana ---: y aquel por mejor maestro que más y mejores discípulos saca.»",
               "autor": "Gran.",
-              "referencia_obra": "Breve tratado, 5 (5. 4791). X"
+              "referencia_obra": "Breve tratado, 5 (5. 4791)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo —respondió Cortadillo— sé la treta que dicen mete dos y saca cinco, y sé dar tiento a una faldriquera con mucha puntualidad y destreza.»",
               "autor": "Cerv.",
-              "referencia_obra": "Nov. 1 (Cl. C. 27. 172). X"
+              "referencia_obra": "Nov. 1 (Cl. C. 27. 172)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De todo ¿que has sacado? | ¿Alivio en tus fatigas? | ¿Descanso en tus amores? | ¿Firmeza en tu Belisa?... | ¡Qué! ¿nada me respondes?»",
               "autor": "Mel.",
-              "referencia_obra": "Poes. inéd. p. 154. X"
+              "referencia_obra": "Poes. inéd. p. 154."
             },
             {
+              "marca": "X",
               "texto_cita": "«En Neiva y Girón dicen que hay ricas minas de oro, aunque el estilo general de sacarlo consiste en lavar las arenas de los ríos.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 2 (p. 135)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat. Además con de, para expresar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Heles mostrado mil maravillas, diles maná del cielo, saqueles agua de la piedra ---, y todavía me olvidan.»",
                   "autor": "Ávila",
                   "referencia_obra": ", Eucar. 26 (4. 391)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para indicar: —el medio. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y hame convertido este trabajo el Señor en mi luz y salud, y con las manos de los que me pretendían dañar ha sacado mi bien.»",
-                  "autor": "León",
-                  "referencia_obra": ", Nomb. (Cl. C. 28. 15). X"
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y hame convertido este trabajo el Señor en mi luz y salud, y con las manos de los que me pretendían dañar ha sacado mi bien.»",
+                      "autor": "León",
+                      "referencia_obra": ", Nomb. (Cl. C. 28. 15)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Qué sacamos con eso de saltar hasta el sol con nuestras máquinas a la velocidad del pensamiento?»",
+                      "autor": "Rojas",
+                      "referencia_obra": "Gonzalo, Contra la muerte (Pellegrini, Antol. poes. latin. p. 154)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Qué sacamos con eso de saltar hasta el sol con nuestras máquinas a la velocidad del pensamiento?»",
-                  "autor": "Rojas",
-                  "referencia_obra": "Gonzalo, Contra la muerte (Pellegrini, Antol. poes. latin. p. 154). — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Por cierto —dijo la dueña—, que si no es algún demonio el que te ha de enseñar, que yo no sé quién te pueda sacar músico con tanta brevedad.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Nov. 2 (Cl. C. 36. 125)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Por cierto —dijo la dueña—, que si no es algún demonio el que te ha de enseñar, que yo no sé quién te pueda sacar músico con tanta brevedad.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Nov. 2 (Cl. C. 36. 125). — El término es una prop. infinitiva. X"
-                },
-                {
-                  "texto_cita": "«El criado del duque de Nemurs le había dicho que el pintor que sacaba los [retratos] de las tres francesas damas sacaría también el de Auristela, con no más de haberla visto.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Pers. 4. 2 (Cl. Castal. 12. 420)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El criado del duque de Nemurs le había dicho que el pintor que sacaba los [retratos] de las tres francesas damas sacaría también el de Auristela, con no más de haberla visto.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Pers. 4. 2 (Cl. Castal. 12. 420)."
+                    }
+                  ]
                 }
               ]
             },
@@ -1354,248 +1823,334 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«¿Quién no se maravillará ---, que por modo tan extraño quiso redimir al mundo perdido, sacando los mayores bienes de los mayores males que los hombres hicieron?»",
                   "autor": "Ávila",
                   "referencia_obra": ", Audi, 111 (2. 202)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ya sabe Vm. la suma y omnipotente bondad de nuestro celestial Padre, que llega a sacar bienes de males.»",
                   "autor": "",
                   "referencia_obra": "Id. Epist. (5. 391)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Ni el sastre puede sacar el salario de su trabajo.»",
                   "autor": "M. de Chaide",
                   "referencia_obra": ", Magd. 2. 10 (R. 27. 3092)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Son innumerables y maravillosos los frutos que saca el hombre de la Tribulación.»",
                   "autor": "Rivad.",
-                  "referencia_obra": "Trib. 1. 13 (p. 120). X"
+                  "referencia_obra": "Trib. 1. 13 (p. 120)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Petrarca fue el primero que en aquellas confusas tinieblas de la ignorancia sacó de su mismo ingenio, como de rico pedernal de fuego, centellas, con que dió luz a la poesía toscana.»",
                   "autor": "Saav.",
-                  "referencia_obra": "Rep. (Cl. C. 46. 36). X"
+                  "referencia_obra": "Rep. (Cl. C. 46. 36)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pero, ¿de dónde ibas a sacar el lenguaje adecuado para ese próximo enfrentamiento?»",
                   "autor": "Collazos",
-                  "referencia_obra": ", Disociaciones, 1 (p. 28). — El término es una prop. infinitiva."
-                },
+                  "referencia_obra": ", Disociaciones, 1 (p. 28)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Qué pensamos sacar de contentar a las criaturas?»",
-                  "autor": "Sta. Ter.",
-                  "referencia_obra": "Vida, 15 (1. 461)."
+                  "id_limpio": "—",
+                  "definicion": "El término es una prop. infinitiva.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Qué pensamos sacar de contentar a las criaturas?»",
+                      "autor": "Sta. Ter.",
+                      "referencia_obra": "Vida, 15 (1. 461)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, para expresar la situación. X",
+              "definicion": "Con en, para expresar la situación.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Supo [mi abuelo] por un marino que en una isla del Pacífico habían sacado una vez una caja llena de plata, que suponían sería de un barco que había salido del Perú para Filipinas.»",
                   "autor": "Baroja",
-                  "referencia_obra": ", La busca 3. 3 (p. 144). X"
+                  "referencia_obra": ", La busca 3. 3 (p. 144)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tasadamente los burros | Pueden llevar el dinero | Que hemos sacado en la feria.»",
                   "autor": "",
                   "referencia_obra": "R. de la Cruz, Sainetes (NBAE. 23. 1511)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
               "definicion": "Con para y una prop. infinitiva, que indica la finalidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Es menester sacar fuerzas de nuevo para servir, y procurar no ser ingratos.»",
                   "autor": "Sta. Ter.",
                   "referencia_obra": "Vida, 10 (1. 67)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con por, que especifica: — el medio.",
-              "ejemplos_citas": [
+              "definicion": "Con por, que especifica:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No siempre la Providencia divina obra con los medios naturales, y si los obra, consigue con ellos diversos efectos, y saca líneas derechas por una regla torcida.»",
-                  "autor": "Saav.",
-                  "referencia_obra": "Emp. 29 (R. 25. 771). — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "el medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«No siempre la Providencia divina obra con los medios naturales, y si los obra, consigue con ellos diversos efectos, y saca líneas derechas por una regla torcida.»",
+                      "autor": "Saav.",
+                      "referencia_obra": "Emp. 29 (R. 25. 771)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«A estas razones últimas llegaba vertiendo espesas lágrimas la hermosa dama acompañada con igual sentimiento del ángel bello que sacó por padrino.»",
-                  "autor": "Césp.",
-                  "referencia_obra": "y Men. Hist. (Cl. Castal. 23. 156)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«A estas razones últimas llegaba vertiendo espesas lágrimas la hermosa dama acompañada con igual sentimiento del ángel bello que sacó por padrino.»",
+                      "autor": "Césp.",
+                      "referencia_obra": "y Men. Hist. (Cl. Castal. 23. 156)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— η η )",
               "id_limpio": "— η η )",
-              "definicion": "Con sin, para indicar el modo. X",
+              "definicion": "Con sin, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Vi conversando junto a ellos | Dos déstos que en las ciudades, | Sanguijuelas de las honras, | Sin espadas sacan sangre.»",
                   "autor": "Tirso",
                   "referencia_obra": ", Amor médico, 1 (Cl. C. 131. 27)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Pas. refl. Con de. X",
+          "definicion": "Pas. refl. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Pues yo, dixo Diana, tengo dello memoria: dezía que el soto es la cola del caballo, de donde se sacan las cerdas, con que las cuerdas del rabel tocadas dan voces, aunque ningunos dolores padescen.»",
               "autor": "Gil Polo",
-              "referencia_obra": ", Diana (Cl. C. 135. 228). X"
+              "referencia_obra": ", Diana (Cl. C. 135. 228)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tales son las doctrinas tiranas i el veneno que se ha sacado desta fuente; por quien dijo Budeo que era el más facineroso de los escritores.»",
               "autor": "Saav.",
-              "referencia_obra": "Rep. (Cl. C. 46. 49). X"
+              "referencia_obra": "Rep. (Cl. C. 46. 49)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Esto dize a diferencia de las vozes de las bestias, que aunque son de suyo indivisibles, no se puede sacar dellas ningún sentido.»",
               "autor": "Cascales",
-              "referencia_obra": ", Tablas poétic. 5 (Cl. C. 207. 96). X"
+              "referencia_obra": ", Tablas poétic. 5 (Cl. C. 207. 96)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¿Pues qué fruto se puede sacar de los buenos ejemplares sin este cuidado?»",
               "autor": "Feijóo",
-              "referencia_obra": ", Cartas eruditas (Cl. C. 85. 70). X"
+              "referencia_obra": ", Cartas eruditas (Cl. C. 85. 70)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hoy parece que aquellos principios ideológicos y prácticos comienzan a perder su vigor de excitantes vitales, tal vez porque se ha sacado ya de ellos cuanto podían dar.»",
               "autor": "Ortega y Gasset",
               "referencia_obra": ", Esp. invertebr. p. 133."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con de. X",
+          "definicion": "Part. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Tenéis ilustre Cosme este quaderno | De tan diuinas obras adornado, | Que es un trasumpto natural sacado | De la gloria inmortal, y gozo eterno.»",
               "autor": "Aldana",
-              "referencia_obra": ", Obr. complet. (BALH. 22. 14). X"
+              "referencia_obra": ", Obr. complet. (BALH. 22. 14)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vista de noche, la ciudad se hacía aleluya de ciudad adosada a una sierra, con estampas de edificación y estampas del infierno sacadas de las tinieblas por los focos, del alumbrado municipal.»",
               "autor": "Carpentier",
               "referencia_obra": ", Los pasos perdidos, p. 71."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Sustantivado. Con de. X",
+          "definicion": "Sustantivado. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Todo esto nos ha parecido tan imposible como el sacar de un billón de imágenes o vibraciones diversas, un terno determinado y repetido de semejantes fenómenos.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 1 (p. 170)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "En el siguiente ejemplo, Elaborar, hacer.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El consejo dispone la idea de la fábrica de un negocio, el secretario saca la planta; y si esta va errada, también saldrá errado el edificio levantado por ella.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 56 (R. 25. 1501)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Desarrollar. Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ansí el cedro como el pino, son árboles altos y bien sacados.»",
               "autor": "León",
               "referencia_obra": ", Cantares, 5 (4. 96)."
             },
             {
+              "marca": "",
               "texto_cita": "«Tu cuello como torre de marfil: que es llamarle alto, blanco, liso y bien sacado.»",
               "autor": "León",
               "referencia_obra": ", Cantares, 7 (4. 117)."
             },
             {
+              "marca": "",
               "texto_cita": "«Era muchacha grande, bien formada, | De frente alegre y ojos estremados ---, | Hermosas manos, brazos bien sacados.»",
               "autor": "Erc.",
               "referencia_obra": "Arauc. 28 (R. 17. 1042)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "Forma las expresiones:",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Sacar los huevos: empollarlos, estar sobre ellos el ave, calentándolos, hasta que salgan los pollos.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El flaco pajarillo por no dejar sus huevos, olvida el comer y se enflaquece, y cuando los ha sacado, rodea todo el aire volando.»",
                   "autor": "León",
-                  "referencia_obra": ", Perf. cas. 18 (4. 509). — met."
-                },
+                  "referencia_obra": ", Perf. cas. 18 (4. 509)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Y los huevos, que aquel infeliz ingenio por su daño puso empollolos él, y sacáronlos, o, por mejor decir, rompiéronlos sus discípulos.»",
-                  "autor": "Sig.",
-                  "referencia_obra": "Vida de S. Jer. 5. 8 (p. 490)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y los huevos, que aquel infeliz ingenio por su daño puso empollolos él, y sacáronlos, o, por mejor decir, rompiéronlos sus discípulos.»",
+                      "autor": "Sig.",
+                      "referencia_obra": "Vida de S. Jer. 5. 8 (p. 490)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Sacar partido (ventaja). X",
+              "definicion": "Sacar partido (ventaja).",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Sin embargo, no es raro que en semejantes pueblos se descubran algunos vestigios de su antigua religión y costumbres; indicios de que suele sacar gran partido la filosofía, pero que a mí me dejaron en la misma oscuridad.»",
                   "autor": "Jovell.",
-                  "referencia_obra": "Cartas, (Cl. C. 129. 255). X"
+                  "referencia_obra": "Cartas, (Cl. C. 129. 255)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando fui mozo, ninguno | Logró sacarme ventaja | Ni en el afán de una siega, | Ni con el bieldo en la parva.»",
                   "autor": "Mel.",
-                  "referencia_obra": "Poes. (Cl. C. 64. 205). X"
+                  "referencia_obra": "Poes. (Cl. C. 64. 205)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Lo cierto es —concluí con la mayor ingenuidad—, que si he de sacar partido de estas cosas, necesito aprender a bailar.»",
                   "autor": "Pereda",
                   "referencia_obra": ", Pedro Sánchez, 1. 12 (Cl. C. 144. 124)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1604,43 +2159,54 @@
     {
       "id": "d)",
       "definicion": "Tener o recibir por herencia (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los hijos casi nunca sacan los atributos de los padres ni las imperfecciones.»",
               "autor": "Zabaleta",
               "referencia_obra": ", Errores celebr. (Cl. C. 169. 215)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Nada ha sacado a mí, es idéntica a su madre.»",
                   "autor": "Fern.",
                   "referencia_obra": "Caball. Lágrimas, 10 (p. 109)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con de, para señalar la persona de quien se hereda. X",
+              "definicion": "Con de, para señalar la persona de quien se hereda.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Pero de dónde has sacado ese geniecillo, niña? —¿Geniecillo? ¡Ah, sí, el genio es de otros!»",
                   "autor": "Unamuno",
                   "referencia_obra": ", Abel Sánchez, 33 (p. 137)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1649,12 +2215,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «Ca sabían que estando el condestable allí non lo podían ansí fazer, trabajauan de le sacar de allí.» Pz. de Guzmán, Gener. (Cl. C. 61. 142). X «Maestro que nos enseñas | De lo divino lo cierto, | Bondad que no te desdeñas | De guiarnos por las breñas | Fasta sacarnos a puerto.» I. de Mendoza, Canc. (Cl. C. 163. 212). X «Venus, de tanto serviçio | Que te fize atribulada, | De oración e sacrificio | ¿Qué gualardón he sacada?» Santill. Canc. y decires, (Cl. C. 18. 120).\n\n— Siglo XIV: X «Yo non quise fast' agora muncho buen casamiento; | De quantos me rogaron sabes tú más de çiento: | Sy agora tú me sacas de buen entendimiento, | Assentóse el lobo, estudo atendiendo.» Arc. de Hita (Cl. C. 14. 265).\n\n— Siglo XIII: X «E aun fazíales otro bien por amor dél; que a los que estavan cativos en tierra de moros, a los unos sacava e embiava a sus tierras, e a los otros, que no podía sacar, dávales algo con que pudiessen bevir.» Conq. de Ultr. (ICC. 51. 13).\n\n— Siglo XII: X «Bien lo sabemos que él algo gannó | Quando a tierra de moros entró, que grant aver sacó.» Cid, 125 (Cl. C. 24. 12).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Voz exclusiva del cast. y el port. que sólo reaparece en el fr. ant. y dialectal, sachier arrebatar, tironear'. Del lat. saccáre.",
+  "etimologia": "Etim. Voz exclusiva del cast. y el port. que sólo reaparece en el fr. ant. y dialectal, <i>sachier </i>arrebatar, tironear'. Del lat. <i>saccáre.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "Ortogr. Ante e la c cambia en qu: saque, saquemos, etc.",
   "conjugacion": "",
-  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Absol.: 2, β.\n\n— Pas. refl.: 1, a, η - 4, α, γ - 4, χ, β.\n\n— Pρνλ.: 1, α, β.\n\n— Iμπερσ.: 3, α, β.\n\n— Pαρτ.: 1, a, γ - 1, β, β - 3, δ, β - 4, α, δ - 4, χ, γ.\n\n— Pαρτ. adj.: 4, c, ζ.\n\n— Sυσταντιvαδο: 4, χ, δ.\n\n— Cον δατ.: 1, α, α, α α - 1, c, α, α α - 1, c, β - 1, ε, α, α α - 1, f, β - 3, β, α, α α - 3, b, β - 4, β, α - 4, β, α, α α - 4, c, α, α α.\n\n— Con dat. refl.: 1, c, β, α α.\n\n— Con a: 1, a, α, β β - 1, a, γ, α α - 1, a, ε, α α - 1, a, η - 1, δ, α - 1, ε, α, γ γ - 3, a, α - 3, α, β - 4, δ, α, α α.\n\n— Cον λα πρεπ. χον: 1, α, α, γ γ - 1, a, δ - 1, α, ζ, α α - 1, d, α, α α - 1, e, α, β β - 1, f, α - 1, η, β, α α - 4, c, α, β β.\n\n— Con contra: 1, a, ζ, β β.\n\n— Con de: en general.\n\n— Con la combinación de... a: 1, d, α, β β.\n\n— Con en: 1, d, α, γ γ - 3, b, α, β β - 4, c, α, δ δ.\n\n— Con hacia: 1, d, α, γ γ.\n\n— Con hasta: 1, d, α, δ δ.\n\n— Con para: 1, a, α, ε ε - 1, a, ζ, γ γ - 3, a, β - 4, χ, α, ε ε.\n\n— Con por: 3, a, α - 4, α, α, α α - 4, a, γ, α α - 4, b, α, α α - 4, c, α, ζ ζ.\n\n— Con sin: 4, b, α, β β - 4, c, α, η η.\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: en general.\n\n— Absol.: 2, β.\n\n— Pas. refl.: 1, a, η - 4, α, γ - 4, χ, β.\n\n— Pρνλ.: 1, α, β.\n\n— Iμπερσ.: 3, α, β.\n\n— Pαρτ.: 1, a, γ - 1, β, β - 3, δ, β - 4, α, δ - 4, χ, γ.\n\n— Pαρτ. adj.: 4, c, ζ.\n\n— Sυσταντιvαδο: 4, χ, δ.\n\n— Cον δατ.: 1, α, α, α α - 1, c, α, α α - 1, c, β - 1, ε, α, α α - 1, f, β - 3, β, α, α α - 3, b, β - 4, β, α - 4, β, α, α α - 4, c, α, α α.\n\n— Con dat. refl.: 1, c, β, α α.\n\n— Con a: 1, a, α, β β - 1, a, γ, α α - 1, a, ε, α α - 1, a, η - 1, δ, α - 1, ε, α, γ γ - 3, a, α - 3, α, β - 4, δ, α, α α.\n\n— Cον λα πρεπ. χον: 1, α, α, γ γ - 1, a, δ - 1, α, ζ, α α - 1, d, α, α α - 1, e, α, β β - 1, f, α - 1, η, β, α α - 4, c, α, β β.\n\n— Con contra: 1, a, ζ, β β.\n\n— Con de: en general.\n\n— Con la combinación de... a: 1, d, α, β β.\n\n— Con en: 1, d, α, γ γ - 3, b, α, β β - 4, c, α, δ δ.\n\n— Con hacia: 1, d, α, γ γ.\n\n— Con hasta: 1, d, α, δ δ.\n\n— Con para: 1, a, α, ε ε - 1, a, ζ, γ γ - 3, a, β - 4, χ, α, ε ε.\n\n— Con por: 3, a, α - 4, α, α, α α - 4, a, γ, α α - 4, b, α, α α - 4, c, α, ζ ζ.\n\n— Con sin: 4, b, α, β β - 4, c, α, η η.",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

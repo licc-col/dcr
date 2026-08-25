@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const checkDef = document.getElementById('checkDef');
     const checkSub = document.getElementById('checkSub');
     const checkSubSub = document.getElementById('checkSubSub');
+    const checkTercer = document.getElementById('checkTercer');
     const checkEje = document.getElementById('checkEje');
     
     // Output Areas
@@ -32,6 +33,13 @@ document.addEventListener('DOMContentLoaded', () => {
     let selectedLetter = null;
     let abbreviationsDb = {};
     let authorsDb = {};
+
+    // Glosas de las marcas de autoría de los ejemplos, según la página de
+    // Signos del CD-ROM (ayuda/presenta/Signos.htm).
+    const MARCAS_EJEMPLO = {
+        '+': 'Ejemplos de Martínez',
+        'X': 'Ejemplos del Departamento de Lexicografía'
+    };
 
     // 1. Initial Load
     const cacheBuster = Date.now();
@@ -259,15 +267,10 @@ document.addEventListener('DOMContentLoaded', () => {
         data.acepciones.forEach(acep => {
             // Check if this acep has any content whatsoever to display, or has a structural ID
             const hasContent = (acep.id && acep.id.trim() !== "") ||
-                                (acep.definicion && acep.definicion.trim() !== "") || 
-                                (acep.ejemplos_citas && acep.ejemplos_citas.length > 0) || 
-                                (acep.subacepciones && acep.subacepciones.some(sub => 
-                                    (sub.definicion && sub.definicion.trim() !== "") || 
-                                    (sub.ejemplos_citas && sub.ejemplos_citas.length > 0) ||
-                                    (sub.subsubacepciones && sub.subsubacepciones.some(ss => 
-                                        (ss.definicion && ss.definicion.trim() !== "") || 
-                                        (ss.ejemplos_citas && ss.ejemplos_citas.length > 0)
-                                    ))
+                                nodoTieneContenido(acep) ||
+                                (acep.subacepciones && acep.subacepciones.some(sub =>
+                                    nodoTieneContenido(sub) ||
+                                    (sub.subsubacepciones && sub.subsubacepciones.some(nodoTieneContenido))
                                 ));
             
             if (!hasContent) {
@@ -290,16 +293,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 `;
             }
             html += renderCitas(acep.ejemplos_citas);
-            
+            html += renderTercerNivel(acep.subsubsubacepciones);
+
             if (acep.subacepciones.length > 0) {
                 let subHtml = '';
                 acep.subacepciones.forEach(sub => {
-                    const hasSubContent = (sub.definicion && sub.definicion.trim() !== "") || 
-                                          (sub.ejemplos_citas && sub.ejemplos_citas.length > 0) || 
-                                          (sub.subsubacepciones && sub.subsubacepciones.some(ss => 
-                                              (ss.definicion && ss.definicion.trim() !== "") || 
-                                              (ss.ejemplos_citas && ss.ejemplos_citas.length > 0)
-                                          ));
+                    const hasSubContent = nodoTieneContenido(sub) ||
+                                          (sub.subsubacepciones && sub.subsubacepciones.some(nodoTieneContenido));
                     if (!hasSubContent) return;
 
                     subHtml += `
@@ -309,14 +309,13 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <div class="sub-text">${linkifyText(sub.definicion)}</div>
                             </div>
                             ${renderCitas(sub.ejemplos_citas)}
+                            ${renderTercerNivel(sub.subsubsubacepciones)}
                     `;
-                    
+
                     if (sub.subsubacepciones && sub.subsubacepciones.length > 0) {
                         let subSubHtml = '';
                         sub.subsubacepciones.forEach(ss => {
-                            const hasSubSubContent = (ss.definicion && ss.definicion.trim() !== "") || 
-                                                     (ss.ejemplos_citas && ss.ejemplos_citas.length > 0);
-                            if (!hasSubSubContent) return;
+                            if (!nodoTieneContenido(ss)) return;
 
                             subSubHtml += `
                                 <div class="sub-sub-item">
@@ -325,6 +324,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                         <div class="sub-sub-text">${linkifyText(ss.definicion)}</div>
                                     </div>
                                     ${renderCitas(ss.ejemplos_citas)}
+                                    ${renderTercerNivel(ss.subsubsubacepciones)}
                                 </div>
                             `;
                         });
@@ -374,6 +374,34 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Subacepciones de tercer nivel: se marcan con un guion (—) y cuelgan de
+    // cualquiera de los niveles superiores.
+    function renderTercerNivel(nodos) {
+        if (!nodos || nodos.length === 0) return '';
+        let html = '';
+        nodos.forEach(n => {
+            const tieneContenido = (n.definicion && n.definicion.trim() !== '') ||
+                                   (n.ejemplos_citas && n.ejemplos_citas.length > 0);
+            if (!tieneContenido) return;
+            html += `
+                <div class="sub-tercer-item">
+                    <div class="acepcion-head">
+                        <span class="acepcion-num">${n.id_limpio}</span>
+                        <div class="sub-tercer-text">${linkifyText(n.definicion)}</div>
+                    </div>
+                    ${renderCitas(n.ejemplos_citas)}
+                </div>
+            `;
+        });
+        return html ? `<div class="sub-tercer-list">${html}</div>` : '';
+    }
+
+    function nodoTieneContenido(n) {
+        return (n.definicion && n.definicion.trim() !== '') ||
+               (n.ejemplos_citas && n.ejemplos_citas.length > 0) ||
+               (n.subsubsubacepciones && n.subsubsubacepciones.length > 0);
+    }
+
     function renderCitas(citas) {
         if (!citas || citas.length === 0) return '';
         let html = '<div class="examples-grid">';
@@ -402,9 +430,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 ? `<span class="author popover-trigger" data-popover-type="author" data-popover-key="${authorKey}">${c.autor}</span>` 
                 : `<span class="author">${c.autor || ''}</span>`;
 
+            // La marca de autoría (X, +) antecede al ejemplo que introduce
+            const marcaSpan = c.marca
+                ? `<span class="marca marca-${c.marca === '+' ? 'cruz' : 'equis'} popover-trigger" data-popover-type="marca" data-popover-key="${c.marca}">${c.marca}</span>`
+                : '';
+
             html += `
                 <div class="example-card">
-                    <span class="quote">${c.texto_cita}</span>
+                    <span class="quote">${marcaSpan}${c.texto_cita}</span>
                     <div class="meta">
                         ${authorSpan}
                         <span class="cite">${c.referencia_obra || ''}</span>
@@ -421,12 +454,14 @@ document.addEventListener('DOMContentLoaded', () => {
         viewerContent.classList.toggle('hide-def', !checkDef.checked);
         viewerContent.classList.toggle('hide-sub', !checkSub.checked);
         viewerContent.classList.toggle('hide-subsub', !checkSubSub.checked);
+        viewerContent.classList.toggle('hide-tercer', !checkTercer.checked);
         viewerContent.classList.toggle('hide-eje', !checkEje.checked);
     };
     
     checkDef.onchange = updateToggles;
     checkSub.onchange = updateToggles;
     checkSubSub.onchange = updateToggles;
+    checkTercer.onchange = updateToggles;
     checkEje.onchange = updateToggles;
 
     // 7. JSON Modal
@@ -534,6 +569,14 @@ document.addEventListener('DOMContentLoaded', () => {
             const authorData = authorsDb[key];
             if (!authorData) return;
             content = authorData;
+        } else if (type === 'marca') {
+            const glosa = MARCAS_EJEMPLO[key];
+            if (!glosa) return;
+            content = `
+                <div class="popover-abbr-body">
+                    <span class="abbr-key">${key}</span> &rarr; <span class="abbr-val">${glosa}</span>
+                </div>
+            `;
         } else {
             return;
         }

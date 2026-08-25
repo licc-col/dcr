@@ -1,77 +1,103 @@
 {
   "lema": "HERIR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nLas acepciones se distribuyen de la siguiente manera:\n\n— 1, a) golpear alguna cosa (Tocar: η ); b) causar en un organismo humano o animal un daño o lesión; c) alcanzar o impresionar los sentidos; d) sangriento, cruel;\n\n— 2, pulsar, tañer, tocar las cuerdas de un instrumento;\n\n— 3, a) cargar la voz o el acento sobre una nota o sílaba; articular uno o varios fonemas; b) apoyarse uno o varios fonemas sobre otro, formando sílaba con él;\n\n— 4, alumbrar a uno o a una cosa, alcanzarle la luz, especialmente la del sol (Tratándose del sol, Obrar, hacerse sentir directa o inmediatamente sobre una cosa: β; Reflejarse, quebrarse: δ );\n\n— 5, a) atacar una enfermedad; b) temblar, tener convulsiones o movimientos violentos de pies, manos y boca;\n\n— 6, a) causar impresión en el ánimo o en alguna facultad como la fantasía, la atención; b) mover o excitar en el ánimo alguna pasión o sentimiento;\n\n— 7, ofender o agraviar de palabra o por escrito;\n\n— 8, tocar el punto esencial de una cuestión, acertar.",
+  "introduccion": "Las acepciones se distribuyen de la siguiente manera:\n\n— 1, a) golpear alguna cosa (Tocar: η ); b) causar en un organismo humano o animal un daño o lesión; c) alcanzar o impresionar los sentidos; d) sangriento, cruel;\n\n— 2, pulsar, tañer, tocar las cuerdas de un instrumento;\n\n— 3, a) cargar la voz o el acento sobre una nota o sílaba; articular uno o varios fonemas; b) apoyarse uno o varios fonemas sobre otro, formando sílaba con él;\n\n— 4, alumbrar a uno o a una cosa, alcanzarle la luz, especialmente la del sol (Tratándose del sol, Obrar, hacerse sentir directa o inmediatamente sobre una cosa: β; Reflejarse, quebrarse: δ );\n\n— 5, a) atacar una enfermedad; b) temblar, tener convulsiones o movimientos violentos de pies, manos y boca;\n\n— 6, a) causar impresión en el ánimo o en alguna facultad como la fantasía, la atención; b) mover o excitar en el ánimo alguna pasión o sentimiento;\n\n— 7, ofender o agraviar de palabra o por escrito;\n\n— 8, tocar el punto esencial de una cuestión, acertar.",
   "acepciones": [
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Golpear alguna cosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Una de las propriedades de la piedra es que tiene el fuego encerrado en el seno, y no se parece ni lo echáis si no herís el pedernal.»",
               "autor": "M. de Chaide",
               "referencia_obra": ", Magd. 3. 40 (R. 27. 3672)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los suspiros y lamentos comenzaron de nuevo a herir los vientos.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 6 (R. 1. 1682). X"
+              "referencia_obra": "Quij. 1. 6 (R. 1. 1682)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se escucha el ruido que forman las armas de los caballeros, | Los frenos que mascan los fuertes caballos de guerra, | Los cascos que hieren la tierra | Y los timbaleros, | Que el paso acompasan con ritmos marciales.»",
               "autor": "Darío",
               "referencia_obra": ", Poes. p. 267."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con a, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Pues del caballo bélico se oía | El son con que a compás el suelo hería.»",
                   "autor": "Lope",
                   "referencia_obra": ", La mayor vitoria, 1. 3 (R. 41. 2221)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para señalar el instrumento. +",
+              "definicion": "Con la prep. con, para señalar el instrumento.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«En hallándose en un aposento de la casa --- con grandes puñadas me comenzó a herir.»",
                   "autor": "F. de Mena",
                   "referencia_obra": ", Teágenes y Cariclea, 1 (p. 27)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Hería algunas veces la cama con la mano diciendo: ¡Oh qué estrecho es el juicio divino!»",
                   "autor": "L. Palma",
                   "referencia_obra": ", Vida de G. de la Palm., p. 84."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Oyóseles al comenzar la batalla herir los vientos con alaridos de sorpresa y de alegría.»",
                   "autor": "Quint.",
-                  "referencia_obra": "Pizarro (R. 19. 3601). — Además con a. X"
-                },
+                  "referencia_obra": "Pizarro (R. 19. 3601)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Apenas hay trabajo a quien no preste | Algún alivio: el que con remo a fuerza | Hiere la blanca espuma.»",
-                  "autor": "Arguijo",
-                  "referencia_obra": ", Obra poétic. (Cl. Castal. 40. 190)."
+                  "id_limpio": "—",
+                  "definicion": "Además con a.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Apenas hay trabajo a quien no preste | Algún alivio: el que con remo a fuerza | Hiere la blanca espuma.»",
+                      "autor": "Arguijo",
+                      "referencia_obra": ", Obra poétic. (Cl. Castal. 40. 190)."
+                    }
+                  ]
                 }
               ]
             },
@@ -79,94 +105,124 @@
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«El aire oyose | Herir de una dulcísima armonía.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Viaje, 4 (R. 1. 6881)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con la combinación de... en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Y a su son yendo [las vírgenes] cantando, | El suelo herían de cuando en cuando.»",
                   "autor": "León",
                   "referencia_obra": ", Poes. 2, Después de tantos días (4. 503)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Recípr. +",
+          "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Se causa [el sonido] del herirse algunos cuerpos duros y de la conmoción del aire.»",
               "autor": "",
               "referencia_obra": "Pineda, Agr. crist. 12. 23 (R. 162. 4172)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Intrans. X",
+          "definicion": "Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El concepto, si es largo, cansa, y, si boto, hiere como mazo; y con éste me parece auer acabado con las especies menores o menos principales de la poética, de las quales tomaron nombre algunos poetas.»",
               "autor": "",
               "referencia_obra": "L. Pinciano, Philosophia (BALH. 20. 252)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para expresar el modo. +",
+              "definicion": "Con a, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Con el embate de las olas, que allí [en Castil del Ovo] a la contina herían, no oían los de arriba los golpes que con los picos daban.»",
                   "autor": "",
                   "referencia_obra": "Crón. Gran Capitán, 7. 16 (NBAE. 10. 3841)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "—β β )",
               "id_limpio": "—β β )",
               "definicion": "Con en, para señalar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Tú que en la patria entre quien bien te quiere, | La deleitosa playa estás mirando, | Y oyendo el son del mar que en ella hiere.»",
                   "autor": "Garcil.",
-                  "referencia_obra": "eleg. 2 (R. 32. 262). +"
+                  "referencia_obra": "eleg. 2 (R. 32. 262)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Hirió un rayo en el castillo de San Angelo.»",
                   "autor": "Fuenmayor",
                   "referencia_obra": ", Vida de S. Pío V, 6 (p. 237)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Los vientos | Hieren molestos en su nueva vela.»",
                   "autor": "B. Argens.",
                   "referencia_obra": "elog. Domadas ya las islas (R. 42. 3311)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«¿Cuándo no logró centellas | Aquel que en la piedra hiere?»",
                   "autor": "Rojas",
-                  "referencia_obra": ", Lo que son mujeres, 2 (R. 54. 204 ). — Además con de, que indica el modo. +"
-                },
+                  "referencia_obra": ", Lo que son mujeres, 2 (R. 54. 204 )."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Levantados [aquellos arietes] en el ayre herían de punta en aquel muro.»",
-                  "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 10 (1. 146)."
+                  "id_limpio": "—",
+                  "definicion": "Además con de, que indica el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Levantados [aquellos arietes] en el ayre herían de punta en aquel muro.»",
+                      "autor": "Oviedo",
+                      "referencia_obra": ", Quinquag. 1. 10 (1. 146)."
+                    }
+                  ]
                 }
               ]
             }
@@ -175,66 +231,89 @@
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. Con la prep. con, para señalar el instrumento. +",
+          "definicion": "Part. Con la prep. con, para señalar el instrumento.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Son [los huesos] todos macizos y fortísimos, de los cuales dice Aristóteles que, hiriendo unos con otros, se saca fuego dellos como de pedernal herido con eslabón de acero.»",
               "autor": "",
-              "referencia_obra": "Pineda, Agr. crist. 9. 34 (R. 162. 2692). +"
+              "referencia_obra": "Pineda, Agr. crist. 9. 34 (R. 162. 2692)."
             },
             {
+              "marca": "+",
               "texto_cita": "«Es tan recia, dura y densa esta piedra, que sirve de pedernal, y herida con el eslabón, despide muchas centellas.»",
               "autor": "Cobo",
               "referencia_obra": ", Hist. Nuevo Mundo, 1. 6. 127 (R. 91. 2841)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de, para señalar el medio. +",
+              "definicion": "Con de, para señalar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Hipocrene nasció allí de la piedra herida de la uña del caballo de Cadmo.»",
                   "autor": "",
                   "referencia_obra": "Pineda, Agr. crist. 7. 23 (R. 162. 1312)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
-          "definicion": "Sustantivado. Con de. +",
+          "definicion": "Sustantivado. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«El haber sacado el caballo, con el herir de su pata en la piedra, la fuente consagrada a las Musas, es decir que las obras excelentes dan que escrebir a los sabios.»",
               "autor": "",
-              "referencia_obra": "Pineda, Agr. crist. 7. 24 (R. 162. 1352). X"
+              "referencia_obra": "Pineda, Agr. crist. 7. 24 (R. 162. 1352)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Se oía ya la música, ahogada entre el campaneo, los cohetes, el duro herir de los cascos herrados en las piedras.»",
               "autor": "J. R. Jiménez",
               "referencia_obra": ", Platero y yo, 52 (p. 90)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "En los siguientes ejemplos, Tocar. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y así yéndose poco a poco, gustando de un templado céfiro que en el rostro le hería ---.»",
               "autor": "Cerv.",
-              "referencia_obra": "Gal. 1 (R. 1. 61). — Además con sin, con el mismo sentido anterior. +"
-            },
+              "referencia_obra": "Gal. 1 (R. 1. 61)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Se fue [el viento] disminuyendo y poco después tornó tan flojo, que ya hería en las velas sin fuerzas.»",
-              "autor": "F. de Mena",
-              "referencia_obra": ", Teágenes y Cariclea, 5 (p. 205)."
+              "id_limpio": "—",
+              "definicion": "Además con sin, con el mismo sentido anterior.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "+",
+                  "texto_cita": "«Se fue [el viento] disminuyendo y poco después tornó tan flojo, que ya hería en las velas sin fuerzas.»",
+                  "autor": "F. de Mena",
+                  "referencia_obra": ", Teágenes y Cariclea, 5 (p. 205)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -243,25 +322,32 @@
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Herir el aire (los cielos) con quejas: fr. poétic. quejarse o llorar a gritos. X",
+              "definicion": "Herir el aire (los cielos) con quejas: fr. poétic. quejarse o llorar a gritos.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Habiéndose enterado [Claudia] que ya su dulce esposo no vivía, rompió los aires con suspiros, hirió los cielos con quejas, maltrató sus cabellos, entregándolos al viento, afeó su rostro con sus propias manos, con todas las muestras de dolor y sentimiento que de un lastimado pecho pudiera imaginarse.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 2. 60 (Cl. C. 22. 112)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Bienes heridos: los que están anteriormente gravados con alguna carga: lo que es más usado en Aragón. Cfr. Dicc. Autor.",
-              "ejemplos_citas": []
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -270,143 +356,231 @@
     {
       "id": "b)",
       "definicion": "Causar en un organismo humano o animal un daño o lesión (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ellos, confusos y perdidos, se estorbaban y se ahogaban, mientras que los castellanos los herían y mataban a su salvo.»",
               "autor": "Quint.",
-              "referencia_obra": "Pizarro (R. 19. 3252). X"
+              "referencia_obra": "Pizarro (R. 19. 3252)."
             },
             {
+              "marca": "X",
               "texto_cita": "«(Tira la pistola, que al dar en tierra se dispara y hiere al marqués, que cae moribundo en los brazos de su hija y de los criados, dando un alarido).»",
               "autor": "A. Saav.",
-              "referencia_obra": "Don Álvaro, 1. 8 (Cl. C. 206. 29). X"
+              "referencia_obra": "Don Álvaro, 1. 8 (Cl. C. 206. 29)."
             },
             {
+              "marca": "X",
               "texto_cita": "«¡Su espada | Punzante | Bastante | Me hirió! | Ya es justo | Que un día | Sonría | Mi faz; | ¡Ya es justo | Siquiera | Que muera.»",
               "autor": "J. E. Caro",
-              "referencia_obra": ", Poes. complet. p. 53. X"
+              "referencia_obra": ", Poes. complet. p. 53."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ir al monte con sus sabuesos; seguir la pista del oso; llegar a verle, apuntarle, herirle, ¡oh placer!...»",
               "autor": "Pereda",
-              "referencia_obra": ", Hombres de pro, 11 (p. 129). X"
+              "referencia_obra": ", Hombres de pro, 11 (p. 129)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La madre había sido una española de Amalfi, que el escudero robó una noche, hiriendo al padre y matando a su hermano, y que, descubierta dos años después, prefirió dejarse ultimar en el tormento antes que denunciarle.»",
               "autor": "Larreta",
-              "referencia_obra": ", Gloria de D. Rarniro, 1 (p. 29). X"
+              "referencia_obra": ", Gloria de D. Rarniro, 1 (p. 29)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Chico, nada te dice de lo que te debe, ni de la puñalada, ni del disparo; porque él fue quien te hirió.»",
               "autor": "Rivera",
               "referencia_obra": ", La vorágine, 1 (p. 68)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para expresar el modo. X",
+              "definicion": "Con a, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Os juro por el orden de cavallería que professo de no consentir ser curado hasta que tome entera satisfacción y vengança de quien tan a su salvo me hirió a trayción, sin aguardar como cavallero a que yo metiesse mano a la espada.»",
                   "autor": "Avell.",
-                  "referencia_obra": "Quij. 5. 7. (Cl. C. 174. 143). X"
+                  "referencia_obra": "Quij. 5. 7. (Cl. C. 174. 143)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pues si a todos los mortales | Que a traición no me han herido debo gratitud... ¡qué diablos! | ¿Pues en qué mundo vivimos?»",
                   "autor": "García Gutiérrez",
                   "referencia_obra": ", Venganza catal. 4 (Cl. C. 65. 134)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para señalar: — el instrumento. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Cortar es general a muchas cosas, y lisiar solamente significa herir con hierro, no quisiera que lo uviéramos dexado.»",
-                  "autor": "Valdés",
-                  "referencia_obra": ", Diál. (Cl. C. 86. 115). +"
+                  "id_limpio": "—",
+                  "definicion": "el instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Cortar es general a muchas cosas, y lisiar solamente significa herir con hierro, no quisiera que lo uviéramos dexado.»",
+                      "autor": "Valdés",
+                      "referencia_obra": ", Diál. (Cl. C. 86. 115)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Traquino, alzando el brazo, quiso herir a Peloro con la tasa.»",
+                      "autor": "F. de Mena",
+                      "referencia_obra": ", Teágenes y Cariclea, 5 (p. 216)."
+                    },
+                    {
+                      "marca": "",
+                      "texto_cita": "«Canto a su puerta [de Galatea] y Filis me responde; | Hiéreme por detrás con el cayado, | Y luego se me va no sé por dónde.»",
+                      "autor": "Valb.",
+                      "referencia_obra": "Siglo de oro, 4 (p. 90)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Traquino, alzando el brazo, quiso herir a Peloro con la tasa.»",
-                  "autor": "F. de Mena",
-                  "referencia_obra": ", Teágenes y Cariclea, 5 (p. 216)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Le puse los cinco dedos en la cara y con la guarnición le herí en el carrillo izquierdo.»",
+                      "autor": "Espinel",
+                      "referencia_obra": ", Escud. 2. 2 (R. 18. 4281)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Juan Cañamares, loco rematado, hirió casi mortalmente con un alfanje al rey Fernando de Aragón, en la ciudad de Barcelona.»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños, 4 (p. 75)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Canto a su puerta [de Galatea] y Filis me responde; | Hiéreme por detrás con el cayado, | Y luego se me va no sé por dónde.»",
-                  "autor": "Valb.",
-                  "referencia_obra": "Siglo de oro, 4 (p. 90). — Además con en."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«La hallaron a ella las guardas que hacían la ronda, y que la despojaron y que la hirieron con golpes.»",
+                      "autor": "León",
+                      "referencia_obra": ", Nomb. 9, Esposo (Cl. C. 33. 263)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Le puse los cinco dedos en la cara y con la guarnición le herí en el carrillo izquierdo.»",
-                  "autor": "Espinel",
-                  "referencia_obra": ", Escud. 2. 2 (R. 18. 4281). X"
+                  "id_limpio": "—",
+                  "definicion": "Además con en, para indicar la parte herida.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Rompió muchos cogotes, no se sabe que a nadie hiriese en la frente; con esta buena traba, a cuantos intentó matar lo hizo, y al fin en Córdoba llegó al finibus terrae.»",
+                      "autor": "Salas Barbadillo",
+                      "referencia_obra": ", El sagaz Estacio, 3 (Cl. C. 57. 228)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Juan Cañamares, loco rematado, hirió casi mortalmente con un alfanje al rey Fernando de Aragón, en la ciudad de Barcelona.»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 4 (p. 75). — El modo. X"
-                },
-                {
-                  "texto_cita": "«La hallaron a ella las guardas que hacían la ronda, y que la despojaron y que la hirieron con golpes.»",
-                  "autor": "León",
-                  "referencia_obra": ", Nomb. 9, Esposo (Cl. C. 33. 263). — Además con en, para indicar la parte herida. X"
-                },
-                {
-                  "texto_cita": "«Rompió muchos cogotes, no se sabe que a nadie hiriese en la frente; con esta buena traba, a cuantos intentó matar lo hizo, y al fin en Córdoba llegó al finibus terrae.»",
-                  "autor": "Salas Barbadillo",
-                  "referencia_obra": ", El sagaz Estacio, 3 (Cl. C. 57. 228). — met. X"
-                },
-                {
-                  "texto_cita": "«El Señor hirió a su siervo en su propia carne... Yo mismo, a fuerza de callar, daba pábulo a las calumnias sobre mi hijo.»",
-                  "autor": "Pemán",
-                  "referencia_obra": ", Felipe II, 1. 7 (p. 66)."
+                  "id_limpio": "—",
+                  "definicion": "met.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El Señor hirió a su siervo en su propia carne... Yo mismo, a fuerza de callar, daba pábulo a las calumnias sobre mi hijo.»",
+                      "autor": "Pemán",
+                      "referencia_obra": ", Felipe II, 1. 7 (p. 66)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de, para señalar: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "Con de, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Señora es tal ballestero que de un mismo golpe nos hirió a los dos. Ecco adonque due anime in uno core. ¡Oh Diana! ¡Oh Cupido! ¡Socorred el vuestro siervo!»",
-                  "autor": "Delicado",
-                  "referencia_obra": ", La Lozana (Cl. Castal. 13. 42). +"
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Señora es tal ballestero que de un mismo golpe nos hirió a los dos. Ecco adonque due anime in uno core. ¡Oh Diana! ¡Oh Cupido! ¡Socorred el vuestro siervo!»",
+                      "autor": "Delicado",
+                      "referencia_obra": ", La Lozana (Cl. Castal. 13. 42)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Comenzaron [los italianos] a herir a los franceses de tan pesados golpes que hicieron gran susto y fueron muy gran parte del vencimiento.»",
+                      "autor": "Crón. Gran Capitán",
+                      "referencia_obra": ", 5. 2 (NBAE. 10. 3462)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Adelanté hacia el ladrón, que dio un paso procurando herirme de soslayo. Por ventura mía, la luna dábale de lleno y advertí el ataque en sazón de evitarlo.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de estío, p. 93."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Comenzaron [los italianos] a herir a los franceses de tan pesados golpes que hicieron gran susto y fueron muy gran parte del vencimiento.»",
-                  "autor": "Crón. Gran Capitán",
-                  "referencia_obra": ", 5. 2 (NBAE. 10. 3462). X"
+                  "id_limpio": "—",
+                  "definicion": "El instrumento.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Tornaron a huir a gran furia, hiriendo los caballos de las espuelas y haciéndoles a rienda suelta correr.»",
+                      "autor": "F. de Mena",
+                      "referencia_obra": ", Teágenes y Cariclea, 8 (p. 328)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Estando el oso çercado de canes que le ladrauan e arrimado a vna peña, el Rey le hirio de la lança.»",
+                      "autor": "Oviedo",
+                      "referencia_obra": ", Quinquag. 1. 5 (1. 74)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Adelanté hacia el ladrón, que dio un paso procurando herirme de soslayo. Por ventura mía, la luna dábale de lleno y advertí el ataque en sazón de evitarlo.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de estío, p. 93. — El instrumento. +"
-                },
-                {
-                  "texto_cita": "«Tornaron a huir a gran furia, hiriendo los caballos de las espuelas y haciéndoles a rienda suelta correr.»",
-                  "autor": "F. de Mena",
-                  "referencia_obra": ", Teágenes y Cariclea, 8 (p. 328). +"
-                },
-                {
-                  "texto_cita": "«Estando el oso çercado de canes que le ladrauan e arrimado a vna peña, el Rey le hirio de la lança.»",
-                  "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 5 (1. 74). — Con la combinación de... a. X"
-                },
-                {
-                  "texto_cita": "«Y con la misma rabia, derribando las puertas, entró donde su esposa estava reposando, y arremetiendo a ella, arrebatándola del lecho por sus madexas de oro, que tal era el cabello, la truxo un largo espacio arrastrando y hiriendo de unas partes a otras.»",
-                  "autor": "Césp. y Men.",
-                  "referencia_obra": "Sold. Pínd. 2 (Cl. C. 203. 219)."
+                  "id_limpio": "—",
+                  "definicion": "Con la combinación de... a.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Y con la misma rabia, derribando las puertas, entró donde su esposa estava reposando, y arremetiendo a ella, arrebatándola del lecho por sus madexas de oro, que tal era el cabello, la truxo un largo espacio arrastrando y hiriendo de unas partes a otras.»",
+                      "autor": "Césp. y Men.",
+                      "referencia_obra": "Sold. Pínd. 2 (Cl. C. 203. 219)."
+                    }
+                  ]
                 }
               ]
             },
@@ -414,42 +588,52 @@
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Le mataron el caballo y le hirieron en el muslo.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 5. 4 (R. 28. 3481)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Lanzó el aquivo | Su pica, y al fogoso Trasimelo | Escudero del rey, hirió en el vientre | Y le quitó la vida.»",
                   "autor": "",
                   "referencia_obra": "Hermosilla, Iliada. 16 (2. 139)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con por, para indicar el modo. X",
+              "definicion": "Con por, para indicar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«El marido mató al chino denunciante de su rancho, y a otro — a Caridad la hirieron por la espalda; el marido se rodó muerto — la guerrilla huyó — Caridad recoge a una hija al brazo, y chorreando sangre, se les va detrás: \"si hubiera tenido un rifle\".»",
                   "autor": "Martí",
                   "referencia_obra": ", Sus mejores páginas, p. 224."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con sobre, para señalar la parte herida. X",
+              "definicion": "Con sobre, para señalar la parte herida.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Creyendo que no estava más su victoria de en acertar un golpe en lleno a su contrario sobre el yelmo, tomando su gran cuchillo a dos manos se fue para él, haziendo muestra de le herir sobre la cabeza.»",
                   "autor": "Ortúñez de Calahorra",
                   "referencia_obra": ", Espejo, 2. 7 (Cl. C. 195. 75)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -457,229 +641,311 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Hiriendo, derribando y dando muerte.»",
               "autor": "Erc.",
-              "referencia_obra": "Arauc. 19 (R. 17. 751). X"
+              "referencia_obra": "Arauc. 19 (R. 17. 751)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El hombre culto es comparable a la hoja de acero: cuanto más se la afila y pule, trabaja mejor, pero también hiere más fácilmente.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Charlas de café, 7 (p. 132)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para señalar el modo. X",
+              "definicion": "Con a, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Es de color muy morado, | Y es muchacho niño y ciego, | Y es de muy bella fación. | Tira saetas de huego, | Sin sossiego; | Siempre hiere a trayción.»",
                   "autor": "Fernández",
-                  "referencia_obra": ", Farsas y égl. (Cl. Castal. 72. 146). +"
+                  "referencia_obra": ", Farsas y égl. (Cl. Castal. 72. 146)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«Herir a espaldas vueltas es mucha gala.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 2. 11 (Cl. C. 51. 92)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La gracia desta bula sólo la concedió el uso a los hermanos mayores de la cofradía de ricos y poderosos, a los privados, --- a los alacranes que no muerden con la boca y hieren con la cola.»",
                   "autor": "Alemán",
-                  "referencia_obra": ", Guzmán, 1. 2. 6 (Cl. C. 83. 83). X"
+                  "referencia_obra": ", Guzmán, 1. 2. 6 (Cl. C. 83. 83)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La gorda es fresca de verano y tiene con que abrigarse un hombre en el invierno; tiene qué tomar y qué dejar, y no huesos con que herir.»",
                   "autor": "Rojas",
                   "referencia_obra": "Villandrando, Viaje entretenido, p. 76."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de, para señalar el modo. +",
+              "definicion": "Con de, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Dio [el Gran capitán] a cada uno [de los trece italianos] --- sendas espadas cortas y anchas ceñidas para herir de tajo y revés.»",
                   "autor": "Crón. Gran Capitán",
-                  "referencia_obra": ", 5. 2 (NBAE. 10. 3641). X"
+                  "referencia_obra": ", 5. 2 (NBAE. 10. 3641)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Tales eran de Bolívar | Los brazos, los instrumentos, | Que él templó, que él manejaba | Con incontestable imperio; | Hombres que usar plomo y pólvora | Y matar o herir de lejos | Tuvieron siempre a baldón.»",
                   "autor": "Pombo",
                   "referencia_obra": ", Antol. poética, p. 253."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
               "definicion": "Con en, para señalar la persona herida.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«A la venganza lícita movido, | Hiere en los matadores de tal suerte, | Que fue recompensada bien su muerte.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 24 (R. 17. 941)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Herían en los contrarios de manera ---.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 19 (R. 17. 752)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Hicieron una salida con que hirieron en los romanos y los forzaron a recogerse a sus reales.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 3. 1 (R. 30. 601)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con por, para señalar el modo. +",
+              "definicion": "Con por, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Muy poco camino es el que ay en la mayor çircunferençia del mundo para el que ha de castigar los pecadores, sino queda por la lança del que hiere por el ojo (que es Dios).»",
                   "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 33 (1. 384). X"
+                  "referencia_obra": ", Quinquag. 1. 33 (1. 384)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya he visto bastante, | Don Juan, para conocer | Cuál uso puedes hacer | De tu valor arrogante; | Y quien hiere por detrás | Y se humilla en la ocasión, | Es tan vil como el ladrón | Que roba y huye.»",
                   "autor": "Zorrilla",
-                  "referencia_obra": ", Don Juan Tenorio, 1. 4 (Cl. C. 201. 117). X"
+                  "referencia_obra": ", Don Juan Tenorio, 1. 4 (Cl. C. 201. 117)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Debajo de un caballo, pisado por un caballo, un hombre ensangrentado lo ve con una mirada pavorosa, con una mirada inhumana que, por todos los gritos muertos en su boca muda, grita, que golpea y hiere por sus manos inútiles, unos ojos angustiados y feroces.»",
                   "autor": "Uslar-Pietri",
                   "referencia_obra": ", Lanzas coloradas, 12 (p. 163)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ζ ζ )",
               "id_limpio": "— ζ ζ )",
-              "definicion": "Con sentido recípr. +",
+              "definicion": "Con sentido recípr.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Vistas dos espadas desnudas, una con otra han de herir o huir.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 1. 1 (Cl. C. 43. 46). X"
+                  "referencia_obra": ", Escud. 1. 1 (Cl. C. 43. 46)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Hijos de Ismael, herid y matad! ¡El Dios de Mahoma os está mirando, y el ángel exterminador va delante.»",
                   "autor": "M. de la Rosa",
                   "referencia_obra": ", Aben Humeya, 1 (Cl. C. 107. 222)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. X",
+          "definicion": "Pas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«En estos combates fueron heridos Felipe y Tirante y muchos otros. Fueron a una isla despoblada cerca de tierra de moros, e allí se curaron de sus heridas.»",
               "autor": "",
-              "referencia_obra": "Tirante el Blanco, 2 (Cl. C. 189. 11). X"
+              "referencia_obra": "Tirante el Blanco, 2 (Cl. C. 189. 11)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Porque fue herido el porquerón lo llevaron a la cárcel, y por sentencia, a cabo de días, le azotaron por la ciudad.»",
               "autor": "Timoneda",
-              "referencia_obra": ", El Patrañuelo, 10 (Cl. C. 101. 105). X"
+              "referencia_obra": ", El Patrañuelo, 10 (Cl. C. 101. 105)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Pienso guardarme con todos mis cinco sentidos de ser ferido ni de ferir a nadie.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 21 (Cl. C. 6. 170)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de. +",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Un ermitaño, habiendo sido herido acaso de una saeta, pidió a Dios que le durase toda la vida aquella herida.»",
                   "autor": "Rivad.",
                   "referencia_obra": "Trib. 1. 17 (R. 60. 3902)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para señalar: — la parte herida.",
-              "ejemplos_citas": [
+              "definicion": "Con en, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Fue herido en el ojo en descubierto, | Donde a poco de rato cayó muerto.»",
-                  "autor": "Erc.",
-                  "referencia_obra": "Arauc. 24 (R. 17. 941). — El modo. X"
+                  "id_limpio": "—",
+                  "definicion": "la parte herida.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Fue herido en el ojo en descubierto, | Donde a poco de rato cayó muerto.»",
+                      "autor": "Erc.",
+                      "referencia_obra": "Arauc. 24 (R. 17. 941)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«¿Usted fue soldado de Pinedo? — Sí, señora; fui herido en servicio, y me dieron la baja.»",
-                  "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 3 (p. 274)."
+                  "id_limpio": "—",
+                  "definicion": "El modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Usted fue soldado de Pinedo? — Sí, señora; fui herido en servicio, y me dieron la baja.»",
+                      "autor": "Mármol",
+                      "referencia_obra": ", Amalia, 3 (p. 274)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por, para señalar el agente. X",
+              "definicion": "Con por, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ya descendía el Héroe | Cuando fue herido por la flecha | Bajo la luz impasible del día.»",
                   "autor": "Maya",
                   "referencia_obra": ", Obra poétic. 2 (p. 137)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Refl. X",
+          "definicion": "Refl.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Yo te desengaño | Que es tu amor, si en tí no muere, | Niño que un cuchillo quiere, | Y, como el peligro ignora, | Cuando no se lo dan llora | Y si se lo dan se hiere.»",
               "autor": "M. de Amescua",
               "referencia_obra": ", El ejemplo mayor de la desdicha, 1 (Cl. C. 82. 181)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con. X",
+              "definicion": "Con la prep. con.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Rendido | Estoy a mi resistencia; | Volver temo. | — ¡Ten, por Cristo, | Que te herirás con la daga! | — Yo no puedo más, amigo. | — Hombre, mira qua te clavas.»",
                   "autor": "Mto.",
-                  "referencia_obra": "El desdén con el desdén, 2 (Cl. C. 32. 212). — Además con de y sin, para indicar el modo. X"
+                  "referencia_obra": "El desdén con el desdén, 2 (Cl. C. 32. 212)."
+                }
+              ],
+              "subsubsubacepciones": [
+                {
+                  "id_limpio": "—",
+                  "definicion": "Además con de y sin, para indicar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Con su misma espada, | De su propia voluntad, | Se hirió sin piedad, | Metiéndola por la hijada | Con extraña crueldad.»",
+                      "autor": "Castillejo",
+                      "referencia_obra": ", Obr. de amores (Cl. C. 79. 196)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Con su misma espada, | De su propia voluntad, | Se hirió sin piedad, | Metiéndola por la hijada | Con extraña crueldad.»",
-                  "autor": "Castillejo",
-                  "referencia_obra": ", Obr. de amores (Cl. C. 79. 196). — Además con en. +"
-                },
-                {
-                  "texto_cita": "«Hiriéndose [el pelícano] reziamente con el pico en los pechos derrama de su propria sangre sobre los hijos muertos.»",
-                  "autor": "Oviedo",
-                  "referencia_obra": ", Quinquag. 1. 11 (1. 155)."
+                  "id_limpio": "—",
+                  "definicion": "Además con en.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Hiriéndose [el pelícano] reziamente con el pico en los pechos derrama de su propria sangre sobre los hijos muertos.»",
+                      "autor": "Oviedo",
+                      "referencia_obra": ", Quinquag. 1. 11 (1. 155)."
+                    }
+                  ]
                 }
               ]
             }
@@ -689,59 +955,73 @@
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Recípr.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«No rehusaron ellos la pelea, y mezclándose los escuadrones, se herían cruelmente.»",
               "autor": "Capm.",
-              "referencia_obra": "Teatro, 4. 404). X"
+              "referencia_obra": "Teatro, 4. 404)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cruzados hierros mil contino erizan; | Hiérense, a herirse tornan y desprecian | La muerte, hirviendo en cólera, y arrecian.»",
               "autor": "Espronc.",
-              "referencia_obra": "Poes. (Cl. C. 47. 370). X"
+              "referencia_obra": "Poes. (Cl. C. 47. 370)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuando dos parlamentarios hábiles indígnanse y contienden acremente, no te alarmes demasiado. Son dos maestros de esgrima que se baten para el público y hacen como que se hieren.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Charlas de café, 10 (p. 234)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con las preps. con y de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Heríanse de todos modos, con las hachas, con los estoques, con las dagas.»",
                   "autor": "Quint.",
                   "referencia_obra": "Gran Capitán (R. 19. 2631)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con por. X",
+              "definicion": "Con por.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los valientes cavalleros, viendo el poco daño que se hazían, crescía su grande enojo y saña, que de contino parescía que la batalla con nuevos y redoblados golpes resonavan, hiriéndose por todas partes, y sacando tanta lumbre de sus armas que en vivas llamas parescía que ardían.»",
                   "autor": "",
                   "referencia_obra": "Ortúñez de Calahorra, Espejo, 1 (Cl. C. 193. 169)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con la expresión los unos a los otros, para reforzar la idea de reciprocidad. +",
+              "definicion": "Con la expresión los unos a los otros, para reforzar la idea de reciprocidad.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Entre los demás se comenzó una batalla cruel y atroz hiriéndose los unos a los otros sin ninguna piedad.»",
                   "autor": "F. de Mena",
                   "referencia_obra": ", Teágenes y Cariclea, 5 (p. 216)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -749,109 +1029,163 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Los indios, heridos y atropellados, cuidaban sólo de apartarse de ellos [de los caballos].»",
               "autor": "Solís",
-              "referencia_obra": ", Conq. de Méj. 1. 19 (R. 28. 2282). X"
+              "referencia_obra": ", Conq. de Méj. 1. 19 (R. 28. 2282)."
             },
             {
+              "marca": "X",
               "texto_cita": "«De pronto, en el momento en que ella iba a decir: \"¡Cuándo llegará este tren!\", se detuvo en mitad de la frase, fulminada como por un repentino golpe, mal. Se puso en pie, herida, exangüe. Se llevó la pálida mano a la garganta. Los ojos se le salían de las órbitas, \"Ismael — gritó —. Ismael\".»",
               "autor": "Mallea",
               "referencia_obra": ", La rosa, p. 173."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por o de, para señalar el agente. +",
+              "definicion": "Con por o de, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Son tan animosos y atrevidos los españoles, que aun heridos del toro se tornan al peligro tan manifiesto.»",
                   "autor": "Espinel",
-                  "referencia_obra": ", Escud. 2. 11 (Cl. C. 51. 91). X"
+                  "referencia_obra": ", Escud. 2. 11 (Cl. C. 51. 91)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Aguarda, no te apresures, | Detén el paso, no corras, | Que pareces fiera herida | De saeta venenosa.»",
                   "autor": "M. de Amescua",
-                  "referencia_obra": ", La mesonera (Cl. C. 171. 15). X"
+                  "referencia_obra": ", La mesonera (Cl. C. 171. 15)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Es en verdad doloroso | Verse, golpe sobre golpe, | Herido por una mano | Que entre las sombras se esconde.»",
                   "autor": "Ferrán",
-                  "referencia_obra": ", Obr. compl. (Cl. C. 164. 101). X"
+                  "referencia_obra": ", Obr. compl. (Cl. C. 164. 101)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Gravemente herido de un astillazo en la cabeza, había caído exánime y al punto dos marineros subieron para trasladarle a la cámara.»",
                   "autor": "P. Galdós",
-                  "referencia_obra": ", Trafalgar, 11 (p. 114). X"
+                  "referencia_obra": ", Trafalgar, 11 (p. 114)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Herido por la espada de Don Juan, todavía dialoga | Con éste. Ya solo y en tierra, cuando Don Juan y Catalinón han huido, muere razonando.»",
                   "autor": "Machado",
-                  "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 223). — Además con de, para expresar el modo. X"
-                },
+                  "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 223)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No acierto a dar con la expresión, con el alma de Abel. Porque quiero pintarle antes de morir, derribado en tierra y herido de muerte por su hermano.»",
-                  "autor": "Unamuno",
-                  "referencia_obra": ", Abel Sánchez, 11 (p. 55)."
+                  "id_limpio": "—",
+                  "definicion": "Además con de, para expresar el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«No acierto a dar con la expresión, con el alma de Abel. Porque quiero pintarle antes de morir, derribado en tierra y herido de muerte por su hermano.»",
+                      "autor": "Unamuno",
+                      "referencia_obra": ", Abel Sánchez, 11 (p. 55)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para señalar: — la parte herida. +",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Este es el Cordero sin mancilla ---, herido con azotes.»",
-                  "autor": "Gran.",
-                  "referencia_obra": "Mem. del crist. 14 (R. 11. 1911). +"
-                },
-                {
-                  "texto_cita": "«Mira el dulce Hijo extendido en un madero ---, herido con un cruel hierro de lanza.»",
-                  "autor": "",
-                  "referencia_obra": "Id. ib. 14 (R. 11. 1911)."
+                  "id_limpio": "—",
+                  "definicion": "la parte herida.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Este es el Cordero sin mancilla ---, herido con azotes.»",
+                      "autor": "Gran.",
+                      "referencia_obra": "Mem. del crist. 14 (R. 11. 1911)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Mira el dulce Hijo extendido en un madero ---, herido con un cruel hierro de lanza.»",
+                      "autor": "",
+                      "referencia_obra": "Id. ib. 14 (R. 11. 1911)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de, para señalar el modo. X",
+              "definicion": "Con de, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Todos tres murieron a manos de Diego Ordóñez, que peleaba con esfuerzo muy grande. Sólo el tercero, bien que herido de muerte, alzó la espada.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. (Cl. Ebro, 3. 70)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, para indicar: — la parte lesionada. +",
-              "ejemplos_citas": [
+              "definicion": "Con en, para indicar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Roger, herido en un brazo ---, fue salvado por un soldado.»",
-                  "autor": "Quint.",
-                  "referencia_obra": "R. de Lauria (R. 19. 2302). X"
+                  "id_limpio": "—",
+                  "definicion": "la parte lesionada.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Roger, herido en un brazo ---, fue salvado por un soldado.»",
+                      "autor": "Quint.",
+                      "referencia_obra": "R. de Lauria (R. 19. 2302)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«El grito inútil cae en el mar | Como una gaviota herida en las alas. | ¡Noche, noche tropical, | Que no has querido cercenar mi amarra!»",
+                      "autor": "Ibarbourou",
+                      "referencia_obra": ", Antol. poética, p. 189."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Del regio lecho, en la aromada alcoba, | Saltó la madre; al corredor sombrío | Salió gritando, aullando, como loba | Herida en las entrañas: ¡hijo mío!»",
+                      "autor": "Machado",
+                      "referencia_obra": ", Poes. complet. p. 194."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«El grito inútil cae en el mar | Como una gaviota herida en las alas. | ¡Noche, noche tropical, | Que no has querido cercenar mi amarra!»",
-                  "autor": "Ibarbourou",
-                  "referencia_obra": ", Antol. poética, p. 189. X"
-                },
-                {
-                  "texto_cita": "«Del regio lecho, en la aromada alcoba, | Saltó la madre; al corredor sombrío | Salió gritando, aullando, como loba | Herida en las entrañas: ¡hijo mío!»",
-                  "autor": "Machado",
-                  "referencia_obra": ", Poes. complet. p. 194. — La ocasión. X"
-                },
-                {
-                  "texto_cita": "«Herido en batalla sólo había uno: Yo me acerqué a conversar con él: Viéndome llegar se cuadró militarmente.»",
-                  "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de invierno, p. 157."
+                  "id_limpio": "—",
+                  "definicion": "La ocasión.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Herido en batalla sólo había uno: Yo me acerqué a conversar con él: Viéndome llegar se cuadró militarmente.»",
+                      "autor": "Valle-Inclán",
+                      "referencia_obra": ", Sonata de invierno, p. 157."
+                    }
+                  ]
                 }
               ]
             }
@@ -861,115 +1195,141 @@
           "id_marcador_html": "— η )",
           "id_limpio": "— η )",
           "definicion": "Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Ni libre canto yo, ni lloro preso, | Ni sano de mi llaga ni herido.»",
               "autor": "Herr.",
-              "referencia_obra": "2, son. 39 (R. 32. 3111). X"
+              "referencia_obra": "2, son. 39 (R. 32. 3111)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Aquel hombre hizo como el jabalí herido y acosado que se sacude los alanos: De pronto le vi erguido en pie, revolverse entre el tropel que le sujetaba, libertar los brazos y atravesar la iglesia corriendo.»",
               "autor": "Valle-Inclán",
-              "referencia_obra": ", Sonata de estío, p. 124. X"
+              "referencia_obra": ", Sonata de estío, p. 124."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ya éstos se habían acomodado en sus puestos, formando un gran círculo en torno al rodeo, mientras aquellos vaqueros que traían los caballos heridos, se encaminaban a una mata cercana a cambiarlos por sus remontas.»",
               "autor": "Gallegos",
-              "referencia_obra": ", Doña Bárbara, p. 192. X"
+              "referencia_obra": ", Doña Bárbara, p. 192."
             },
             {
+              "marca": "X",
               "texto_cita": "«Las manos sucias y heridas de la mujer retiraron el plato de Larsen.»",
               "autor": "Onetti",
               "referencia_obra": ", El astillero, p. 69."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— θ )",
           "id_limpio": "— θ )",
-          "definicion": "Sustantivado. X",
+          "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Llegó el alguacil, apartó la gente, entregó a sus corchetes al Asturiano, y antecogiendo a su asno, y al herido sobre el suyo, dio con ellos en la cárcel.»",
               "autor": "Cerv.",
               "referencia_obra": "La ilustre fregona (Cl. C. 27. 258)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con de. X",
+              "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Parecía escarbar en su memoria con encarnizamiento callado y doloroso, como un herido de muerte que intenta extraer de su carne desgarrada, con infinito cuidado, la flecha envenenada.»",
                   "autor": "Sábato",
                   "referencia_obra": ", Sobre héroes y tumbas, p. 507."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— ι )",
           "id_limpio": "— ι )",
-          "definicion": "Aplicado a vegetales. X",
+          "definicion": "Aplicado a vegetales.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Frente a donde estaba en su heredad, levantábase un grueso árbol. Lanzaría la acerada hoja contra el tronco, y si después de herirle, se desplomaba el hacha al pie del árbol, Jacobo no modificaría el tenor de su existencia.»",
               "autor": "Rodó",
               "referencia_obra": ", Motivos de Proteo, p. 112."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Intrans. Con en. X",
+              "definicion": "Intrans. Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Hiere más hondamente en el tronco: ábrelo hasta el centro mismo donde su tejido se espesa y endurece, y en esta profundidad pon el guijarro. ¿Dirás tampoco ahora que forma parte de la vida del árbol ese trozo de piedra?»",
                   "autor": "Rodó",
                   "referencia_obra": ", Motivos de Proteo, p. 251."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Part. X",
+              "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Y ese árbol roto en el camino blanco | Hace llorar de lástima. | ¡Dos ramas en el tronco herido, y una | Hoja marchita y negra en cada rama!»",
                   "autor": "Machado",
                   "referencia_obra": ", Poes. complet. p. 75."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— κ )",
           "id_limpio": "— κ )",
-          "definicion": "Loc. adv. Mal herido. X",
+          "definicion": "Loc. adv. Mal herido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Ya encolerizado, sin esperar más, enristrando su lanzón, arremetió a uno de los enlutados, y mal ferido dio con él en tierra.»",
               "autor": "Cerv.",
-              "referencia_obra": "Quij. 1. 19 (Cl. C. 6. 108). X"
+              "referencia_obra": "Quij. 1. 19 (Cl. C. 6. 108)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Al pavoroso golpe conmovido | De las voces de un gallo, en tierno llanto, | Uno Pedro artilló y otro gemido; | Y a Pedro Ignacio se refiere tanto, | Tan bien curado de tan mal herido, | Que un canto a Ignacio, a Pedro le hace un canto | Suspirando gemir, y en los dos hallo | Que a Ignacio el galo hiere, a Pedro el gallo.»",
               "autor": "Domínguez Camargo",
-              "referencia_obra": ", Obr. (ICC. 15. 106). X"
+              "referencia_obra": ", Obr. (ICC. 15. 106)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En un peligro extremo, P. Sextio Baculo, primer capitán de los piqueros, --- había salido mal herido de la batalla con los de Hainaut.»",
               "autor": "Valbuena",
               "referencia_obra": ", tr. Los coment. de Julio César, p. 100."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -977,108 +1337,141 @@
     {
       "id": "c)",
       "definicion": "Alcanzar o impresionar los sentidos (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Una sola consonante | Hiere más que dos vocales.»",
               "autor": "Castillejo",
-              "referencia_obra": ", Obr. de amores (Cl. C. 79. 19). X"
+              "referencia_obra": ", Obr. de amores (Cl. C. 79. 19)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Llevados del deseo que tenían de saberlo, se lo iban ya a preguntar [a Timbrio], si en aquel punto no hiriera los oídos de todos una voz de un pastor.»",
               "autor": "Cerv.",
-              "referencia_obra": "Gal. 2 (Cl. C. 155. 91). X"
+              "referencia_obra": "Gal. 2 (Cl. C. 155. 91)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Confuso son de las volantes ruedas, | A herir tu oído y afligir tu pecho | De un tardío pesar irán agudos.»",
               "autor": "Mel.",
-              "referencia_obra": "Poes. (Cl. C. 64. 253). X"
+              "referencia_obra": "Poes. (Cl. C. 64. 253)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Huye a donde jamás hiera tu oído | El eco envenenado, aborrecido, | De humana voz.»",
               "autor": "Bello",
-              "referencia_obra": ", Poes. p. 273. X"
+              "referencia_obra": ", Poes. p. 273."
             },
             {
+              "marca": "X",
               "texto_cita": "«El vozarrón de Constantino fue lo primero que hirió mis oídos, sí, su odiosa voz que decía: \"Niña de mi alma, me muero por ti\".»",
               "autor": "P. Galdós",
-              "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 387). X"
+              "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 387)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Cuando entramos en Horcajo hirió lo primero mi vista, como ya en Las Erías me pasó, las macetas de flores en ciertos salientes.»",
               "autor": "Unamuno",
               "referencia_obra": ", Andanzas y visiones esp. p. 79."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Oímos también el trueno a su tiempo, y sentimos el viento que vuela y brama, y el resplandor del relámpago nos hiere los ojos.»",
                   "autor": "León",
                   "referencia_obra": ", Nomb. 1, Padre (3. 125)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Bien notas --- aquel incesable golpear que nos hiere y lastima los oídos.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 20 (R. 1. 2961)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y apenas el ruido | Hirió a la bella ninfa el pronto oído ---.»",
                   "autor": "Jáur.",
                   "referencia_obra": "silva, En la espesura (R. 42. 1181)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para expresar el medio. X",
+              "definicion": "Con la prep. con, para expresar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«En herir los oídos de las personas sensatas con palabras tan superfluas como indecentes.»",
                   "autor": "Larra",
                   "referencia_obra": ", Artíc. de cost. (Cl. C. 45. 18)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Intrans. Con en, que señala el lugar. X",
+          "definicion": "Intrans. Con en, que señala el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Hallamos --- un viñedo espacioso, por quien nos emboscamos con alguna esperança; si bien ya a esta sazón hería en nuestras orejas y coraçones el rumor y algaçara con que se yvan juntando los aldeanos.»",
               "autor": "Césp. y Men.",
               "referencia_obra": "Sold. Pínd. 2 (Cl. C. 203. 175)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Part. Con de, para señalar el agente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Heridas sus narices del olor de ella [de la carne], huele las sillas, los bancos y los cofres.»",
               "autor": "Salazar",
-              "referencia_obra": ", Cartas, 4 (R. 62. 3001). — Loc. Herir los castos oídos. X"
-            },
+              "referencia_obra": ", Cartas, 4 (R. 62. 3001)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«No desmiente su virtud severa, | Ante la causa altanera | De ejemplos seductores, | Ni el acento halagüeño, fementido, | De ociosos amadores, | Si hiere el casto oído, | Deja en el alma bella | La más ligera mella.»",
-              "autor": "Bello",
-              "referencia_obra": ", Poes. p. 348."
+              "id_limpio": "—",
+              "definicion": "Loc. Herir los castos oídos.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«No desmiente su virtud severa, | Ante la causa altanera | De ejemplos seductores, | Ni el acento halagüeño, fementido, | De ociosos amadores, | Si hiere el casto oído, | Deja en el alma bella | La más ligera mella.»",
+                  "autor": "Bello",
+                  "referencia_obra": ", Poes. p. 348."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -1088,36 +1481,45 @@
     {
       "id": "d)",
       "definicion": "Sangriento, cruel (part. adj. ).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Él dice la lucha, la herida venganza, | Las ásperas crines, | Los rudos penachos, la pica, la lanza, | La sangre que riega de heroicos carmines | La tierra.»",
               "autor": "Darío",
               "referencia_obra": ", Poes. p. 267."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "En superlativo absol.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Ordenadas sus haces diose, según dicen, la batalla, que fue muy herida, en los campos de Tarifa.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 1. 8 (R. 30. 91)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«La batalla fue muy herida: pelearon por espacio de un día entero sin declararse ni conocerse la victoria por ninguna de las partes.»",
                   "autor": "",
                   "referencia_obra": "Id. ib. 2. 1 (R, 30. 291)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -1126,105 +1528,129 @@
     {
       "id": "2",
       "definicion": "Pulsar, tañer, tocar las cuerdas de un instrumento (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y el rojo y crespo Apolo --- | La cítara hería | Y con divino canto ansí decía ---.»",
               "autor": "León",
               "referencia_obra": ", Poes. 1, Inspira nuevo canto (4. 304)."
             },
             {
+              "marca": "",
               "texto_cita": "«Herid la lira, y dad algún consuelo | A mi pena y afán.»",
               "autor": "Herr.",
               "referencia_obra": "1, son. 113 (R. 32. 2812)."
             },
             {
+              "marca": "",
               "texto_cita": "«Herid [oh musas] las dulces cuerdas paralelas.»",
               "autor": "Lope",
               "referencia_obra": ", Laurel de Apolo, 1 (Obr. suelt. 1. 1)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hiere la esposa | El arpa deliciosa | Que a su pastor recrea.»",
               "autor": "Lista",
               "referencia_obra": ", Poes. sagr. 14 (R. 67. 2822)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ya las cuerdas hiriendo dulcemente | Las blandas guerras canta | De la madre de Amor.»",
               "autor": "V. de la Vega",
               "referencia_obra": ", Poes. p. 513."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con la prep. con, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Céfiro la aura blanda y sosegada | Aparte de las cuerdas, que hería | Con armonía dulce y regalada.»",
                   "autor": "Herr.",
-                  "referencia_obra": "1, eleg. 13 (R. 32. 2832). +"
+                  "referencia_obra": "1, eleg. 13 (R. 32. 2832)."
                 },
                 {
+                  "marca": "+",
                   "texto_cita": "«En la verdad de herir la cuerda con aire y sciencia, acompañando la vihuela con gallardísimos pasajes de voz y garganta, llegó [Gaspar de Torres] al extremo que se puede llegar.»",
                   "autor": "Espinel",
                   "referencia_obra": ", Escud. 3. 5 (Cl. C. 51. 156)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Y asiendo presto de un rabel sonoro, | Con diestro pulso hirió las cuerdas de oro.»",
                   "autor": "Iglesias",
                   "referencia_obra": ", égl. 8 (R. 61. 4591)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para expresar el modo. X",
+              "definicion": "Con en, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Tal, dulce | Suspira | La lira | Que hirió | En blando | Concento | Del viento | La voz.»",
                   "autor": "Espronc.",
                   "referencia_obra": "Estud. de Salam. (Cl. C. 47. 336)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Avanzamos con choque de espadas, | Con clamor de campanas heridas, | Con angustia de voces ahogadas | Y crujido de torres vencidas.»",
               "autor": "Maya",
               "referencia_obra": ", Obra poétic. 3 (p. 211)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Loc. adv. A campana herida: a toque de campana. X",
+          "definicion": "Loc. adv. A campana herida: a toque de campana.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«\"¡Apártense; que rabia el perro sabio!\" Otros decían: — \"¡No rabia, sino que es demonio en figura de perro!\" Con este molimiento, a campana herida salí del pueblo, siguiéndome muchos que indudablemente creyeron que era demonio.»",
               "autor": "Cerv.",
-              "referencia_obra": "Coloq. (Cl. C. 36. 308). X"
+              "referencia_obra": "Coloq. (Cl. C. 36. 308)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ella [la fe], sirviéndoles de áncora, de faro y de brújula, los habilita y agiliza para sostener a campana herida que la libertad no está en la banda de allende, sino en la banda de aquende.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 2 (p. 31)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1232,44 +1658,56 @@
     {
       "id": "3",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Cargar la voz o el acento sobre una nota o sílaba; articular uno o varios fonemas. Cfr. Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Apoyarse uno o varios fonemas sobre otro, formando sílaba con él (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Cuando a la vocal antecedente se siguen muta y líquida, las dos hieren a la siguiente vocal, como agro, a-gro; Pablo, Pa-blo. Líquidas son en castellano, solas r, l, como milagro, Agramante, Agreda, vocablo, Atlante, pentatlo, Acrocorinto.»",
               "autor": "Cascales",
               "referencia_obra": ", Cartas filológ. 2. 4 (Cl. C. 117. 81)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Loc. A grito herido: fr. adv. que vale con toda la fuerza de la voz. X",
+          "definicion": "Loc. A grito herido: fr. adv. que vale con toda la fuerza de la voz.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Se oyen en la plaza, a grito herido, los pregones convidando a conquistar, y en la casa de Cortés, en voz confidencial, invitaciones a hacerse rico.»",
               "autor": "Arciniegas",
               "referencia_obra": ", Biogr. del Caribe, 1. 5 (p. 88)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1277,90 +1715,132 @@
     {
       "id": "4",
       "definicion": "Alumbrar a uno o a una cosa, Alcanzarle la luz, especialmente la del sol (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Dichosa fue la nube | Que concibió el vapor, que del mar sube | Donde del sol la rubia | Madeja hiriendo, desató la lluvia.»",
               "autor": "Cald.",
-              "referencia_obra": "La pedidora (Ramillete de Entremeses; Cl. Castal. 21. 404). X"
+              "referencia_obra": "La pedidora (Ramillete de Entremeses; Cl. Castal. 21. 404)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Así los barqueros pasaban cantando | La eterna canción | Y al golpe del remo saltaba la espuma | Y heríala el sol.»",
               "autor": "Bécquer",
-              "referencia_obra": ", Rimas, p. 111. X"
+              "referencia_obra": ", Rimas, p. 111."
             },
             {
+              "marca": "X",
               "texto_cita": "«El sol hallábase en el ocaso, y como yo lo llevaba de frente, me hería y casi me cegaba.»",
               "autor": "Valle-Inclán",
-              "referencia_obra": ", Sonata de estío, p. 153. X"
+              "referencia_obra": ", Sonata de estío, p. 153."
             },
             {
+              "marca": "X",
               "texto_cita": "«Y esas voces anuncian la pálida alborada | De un sol que va trazando su parábola inmensa... | ¡Cómo herirán sus rayos las abatidas frentes.»",
               "autor": "",
-              "referencia_obra": "J. Freyre, Poem. p. 113. X"
+              "referencia_obra": "J. Freyre, Poem. p. 113."
             },
             {
+              "marca": "X",
               "texto_cita": "«Le brillaban los ojos (como si la luz hiriese prismas de lágrimas).»",
               "autor": "",
               "referencia_obra": "Yáñez, Al filo del agua, p. 219."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con dat. X",
+              "definicion": "Con dat.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Cuando penetró en la celda de Juan, éste estaba tendido en el suelo, y apoyaba su cabeza en las manos; el resplandor de la luz, que le hirió las pupilas, le hizo alzar la frente.»",
                   "autor": "Vargas Vila",
                   "referencia_obra": ", Aura, p. 182."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para expresar: — el modo. X",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para expresar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Se salieron con ella del aldea a tiempo que ya los rayos del sol más derechos y con más fuerzas comenzaban a herir la tierra.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Gal. 2 (Cl. C. 155. 8). — El medio."
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Se salieron con ella del aldea a tiempo que ya los rayos del sol más derechos y con más fuerzas comenzaban a herir la tierra.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Gal. 2 (Cl. C. 155. 8)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Y del ardiente y encendido fuego | Con que los rasos campos Febo hería, | Al claro néctar de su albergue echadas | Las claras aguas dejan plateadas.»",
-                  "autor": "",
-                  "referencia_obra": "F. de la Torre, 3, égl. 5 (p. 126). +"
+                  "id_limpio": "—",
+                  "definicion": "El medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Y del ardiente y encendido fuego | Con que los rasos campos Febo hería, | Al claro néctar de su albergue echadas | Las claras aguas dejan plateadas.»",
+                      "autor": "",
+                      "referencia_obra": "F. de la Torre, 3, égl. 5 (p. 126)."
+                    },
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Cuando el sol pasa a nuestro hemisferio y anda sobre nuestras cabezas hiriéndonos derechamente con sus rayos, entonces son las más copiosas y continuas lluvias.»",
+                      "autor": "Cobo",
+                      "referencia_obra": ", Hist. Nuevo Mundo, 1. 2. 3 (R. 91. 552)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Cuando el sol pasa a nuestro hemisferio y anda sobre nuestras cabezas hiriéndonos derechamente con sus rayos, entonces son las más copiosas y continuas lluvias.»",
-                  "autor": "Cobo",
-                  "referencia_obra": ", Hist. Nuevo Mundo, 1. 2. 3 (R. 91. 552). — Además con a. X"
-                },
-                {
-                  "texto_cita": "«Ni tememos quedar helados por su ausencia cuando nos hiere a soslayo con sus rayos, ni quedar abrasados cuando con ellos perpendicularmente nos toca.»",
-                  "autor": "Cerv.",
-                  "referencia_obra": "Gitanilla (Cl. C. 27. 70)."
+                  "id_limpio": "—",
+                  "definicion": "Además con a.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Ni tememos quedar helados por su ausencia cuando nos hiere a soslayo con sus rayos, ni quedar abrasados cuando con ellos perpendicularmente nos toca.»",
+                      "autor": "Cerv.",
+                      "referencia_obra": "Gitanilla (Cl. C. 27. 70)."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por, que señala el agente. X",
+              "definicion": "Con por, que señala el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La espléndida reina de las flores abría su globo de púrpura para beber el llanto de la aurora, dejando herir su seno por el rayo del matutino sol.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 5 (p. 542)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1368,121 +1848,149 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Tratándose del sol, Obrar, hacerse sentir directa o inmediatamente sobre una cosa. Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Comenzó a herir el sol, que entonces estaba en toda su fuerza.»",
               "autor": "Avell.",
-              "referencia_obra": "Quij. 14 (R. 18. 432; Cl. C. 175. 45). X"
+              "referencia_obra": "Quij. 14 (R. 18. 432; Cl. C. 175. 45)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La luz que derechamente hiere atormenta los ojos de una águila, de un lince, cuanto más los que flaquean.»",
               "autor": "Gracián",
               "referencia_obra": ", Agudeza (Cl. Castal. 15. 192)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar el modo. Además con en. +",
+              "definicion": "Con la prep. con, para señalar el modo. Además con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Hiere en verano el sol más derecho con sus rayos.»",
                   "autor": "P. Mexía",
                   "referencia_obra": ", Coloq. 6 (p. 205)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Si vimos en el verano | Herir con tal fuerza el sol, | Luego en el ivierno vemos | Templado su resplandor.»",
                   "autor": "Lope",
                   "referencia_obra": ", El piadoso veneciano, 3. 6 (R. 41. 5602)."
                 },
                 {
+                  "marca": "",
                   "texto_cita": "«Padecía la gente en aquellos arenales, donde hería y reverberaba el sol con doblada fuerza.»",
                   "autor": "Solís",
                   "referencia_obra": ", Conq. de Méj. 2. 2 (R. 28. 2342)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en, para indicar el lugar. X",
+              "definicion": "Con en, para indicar el lugar.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Despierta miras y al mirar tus ojos | Húmedos resplandecen, | Como la onda azul en cuya cresta | Chispeando el sol hiere.»",
                   "autor": "Bécquer",
                   "referencia_obra": ", Rimas, p. 53."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con sobre. Además con en, que expresa el tiempo. +",
+              "definicion": "Con sobre. Además con en, que expresa el tiempo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«En el solsticio del estío hiere el sol perpendicularmente sobre las cabezas de los que habitan en la ciudad de Siena.»",
                   "autor": "Mena",
                   "referencia_obra": ", Teágenes y Cariclea, 9 (p. 362)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. Con de, para señalar el agente. X",
+          "definicion": "Pas. Con de, para señalar el agente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Las torres relumbravan de lexos ansí como un christal o un limpio azero quando es herido de los rayos del sol.»",
               "autor": "Ortúñez de Calahorra",
               "referencia_obra": ", Espejo, 1 (Cl. C. 193. 72)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "En el siguiente ejemplo, Reflejarse, quebrarse. Refl. Con en, pan indicar el lugar. X",
+          "definicion": "En el siguiente ejemplo, Reflejarse, quebrarse. Refl. Con en, pan indicar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Como el sol envía algunos rayos que se hieren en las aristas de las cosas de una manera rosada, la caricatura de la campiña y de la aldea fingida por la hora adquiere un alma y una vibración de ternura.»",
               "autor": "Ortega y Gasset",
               "referencia_obra": ", Mocedades, p. 55."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
           "definicion": "Part. Con de, para señalar el agente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Caminando por una estrecha senda, se baja al lago Averno, rodeado de montañas por todas partes, que en verano, heridas del sol, despiden ardor insufrible.»",
               "autor": "Mor.",
               "referencia_obra": "Obr. póst. (1. 407)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, con el mismo sentido anterior. X",
+              "definicion": "Con por, con el mismo sentido anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Oh sol! Hacia ti levanto mis brazos, tanto tiempo caídos e inmóviles, y con profundo júbilo me paro a mirarte y exclamo, herido por tu deslumbrante esplendor: ---.»",
                   "autor": "Ferrán",
-                  "referencia_obra": ", Obr. complet. (Cl. C. 164. 132). X"
+                  "referencia_obra": ", Obr. complet. (Cl. C. 164. 132)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Diríase que en el cerebro humano, a semejanza del espejo herido por el rayo de la luz, el ángulo de reflexión es igual y contrario al de incidencia.»",
                   "autor": "Ramón y Cajal",
                   "referencia_obra": ", Charlas de café, 6 (p. 127)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -1490,13 +1998,16 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "met. Con la prep. con, para indicar el modo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Porque entonces [por la mañana] la luz como viene después de las tinieblas, y se halla como después de haber sido perdida, parece ser otra, y hiere el corazón del hombre con una nueva alegría.»",
               "autor": "León",
               "referencia_obra": ", Perf. cas. 7 (3. 457)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1504,105 +2015,130 @@
     {
       "id": "5",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Atacar una enfermedad (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Pas. Con la prep. con, para señalar la enfermedad. +",
+          "definicion": "Pas. Con la prep. con, para señalar la enfermedad.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Llegose Oza y tocó en el arca del testamento, y murió luego --- Llegó el rey Ozías como no debía, y fue herido con lepra.»",
               "autor": "Estella",
               "referencia_obra": ", Medit. 26 (p. 128)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Con de, con el mismo sentido anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Todo junto fue causa de que se dilatase el sitio, y de que las tropas católicas fuesen heridas de terribles enfermedades.»",
                   "autor": "Melo",
                   "referencia_obra": ", Guerra de Catal. 1 (R. 21. 4631)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. Con de. +",
+          "definicion": "Part. Con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Son más tolerables los que están heridos de lepra que no los que son muy ambiciosos de honra.»",
               "autor": "Guev.",
-              "referencia_obra": "Oratorio, 30 (p. 624). X"
+              "referencia_obra": "Oratorio, 30 (p. 624)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Con estas consideraciones, diciendo entre sí mismo: \"En fin, no soy yo solo herido deste mal en el mundo\", --- el enano y la Reina no dejaban de celebrar los cuernos reales.»",
               "autor": "Timoneda",
               "referencia_obra": ", El patrañuelo, 8 (Cl. C. 101. 88)."
             },
             {
+              "marca": "",
               "texto_cita": "«Gran cosa es a un enfermo hallar otro herido de aquel mal.»",
               "autor": "Sta. Ter.",
-              "referencia_obra": "Vida, 34 (R. 53. 1052). X"
+              "referencia_obra": "Vida, 34 (R. 53. 1052)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En la fértil provincia de Glocester, | A la orilla del Támesis britano, | Aparecieron de repente heridos | De contagiosa plaga los rebaños.»",
               "autor": "Bello",
               "referencia_obra": ", Poes. p. 22."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Sustantivado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Vínose a la ciudad de Braga, donde estuvo todo el tiempo del mal [la peste], visitando cada día los heridos, y proveyéndolos de todo lo necesario.»",
                   "autor": "Gran.",
                   "referencia_obra": "Vida de B. de los Márt. 7 (R. 11. 4402)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Intrans. +",
+          "definicion": "Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Pida vuestra señoría la medicina al que envió la herida: que para sanar hirió, no para herir.»",
               "autor": "Ávila",
               "referencia_obra": ", Epist. 1. 14 (1. 364)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Sustantivado. +",
+          "definicion": "Sustantivado.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "+",
               "texto_cita": "«Se arrojó sobre la cama, donde le dio un temblor de cuerpo muy grande, y un herir de dientes recio y presuroso.»",
               "autor": "F. de Mena",
               "referencia_obra": ", Teágenes y Cariclea, 5 (p. 179)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1610,24 +2146,30 @@
     {
       "id": "b)",
       "definicion": "Temblar, tener convulsiones o movimientos violentos de pies, manos y boca (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«En viéndole Sancho, comenzó a herir de pie y de mano como niño con alferecía.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 2. 14 (R. 1. 4321)."
             },
             {
+              "marca": "",
               "texto_cita": "«Al momento comenzó a herir de pie y de mano como si tuviera alferecía.»",
               "autor": "Cerv.",
               "referencia_obra": "Lic. vidriera (R. 1. 1602)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1635,55 +2177,83 @@
     {
       "id": "6",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "met. Causar impresión en el ánimo o en alguna facultad como la fantasía, la atención (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Las representaciones dramáticas --- reúnen en sí la imitación de todas las bellezas que pueden herir nuestros sentidos e interesar nuestra alma.»",
               "autor": "Jovell.",
               "referencia_obra": "Trat. de enseñ. Moral relig. (R. 46. 2661)."
             },
             {
+              "marca": "",
               "texto_cita": "«El temor hiere la imaginación más vivamente que la esperanza.»",
               "autor": "",
-              "referencia_obra": "Id. Ley agraria, 1ª clase (R. 50. 1102). X"
+              "referencia_obra": "Id. Ley agraria, 1ª clase (R. 50. 1102)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si hubiera sido posible que en medio de la epopeya dramática de nuestra revolución, las utopías no hubiesen herido la imaginación de nuestros mayores, el porvenir les habría debido grandes bienes.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 1 (p. 67). X"
+              "referencia_obra": ", Amalia, 1 (p. 67)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Ni romances, ni poemas, ni don Adriano, ni nada llegó a herir tanto la fantasía del joven, ni a empeorarlo de cabeza, como la Biografía de Lord Byron, por Castelar.»",
               "autor": "Carrasquilla",
               "referencia_obra": ", Frutos, 5. 1 (p. 75)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para expresar: — el modo.",
-              "ejemplos_citas": [
+              "definicion": "Con la prep. con, para expresar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Tales ideas, o si usted quiere, ilusiones, se ofrecen frecuentemente a mi imaginación, y la hieren con tanta más viveza cuanto se refieren a objetos que ---.»",
-                  "autor": "",
-                  "referencia_obra": "Jovell, Descr. del castillo de Bellver (R. 46. 3952). — El medio."
+                  "id_limpio": "—",
+                  "definicion": "el modo.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Tales ideas, o si usted quiere, ilusiones, se ofrecen frecuentemente a mi imaginación, y la hieren con tanta más viveza cuanto se refieren a objetos que ---.»",
+                      "autor": "",
+                      "referencia_obra": "Jovell, Descr. del castillo de Bellver (R. 46. 3952)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Los demás espectáculos divierten hiriendo fuertemente la imaginación con lo maravilloso.»",
-                  "autor": "Jovell.",
-                  "referencia_obra": "Mem. sobre espect. 2 (R. 46. 4951)."
+                  "id_limpio": "—",
+                  "definicion": "El medio.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "",
+                      "texto_cita": "«Los demás espectáculos divierten hiriendo fuertemente la imaginación con lo maravilloso.»",
+                      "autor": "Jovell.",
+                      "referencia_obra": "Mem. sobre espect. 2 (R. 46. 4951)."
+                    }
+                  ]
                 }
               ]
             }
@@ -1693,31 +2263,38 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Part. Con de, para señalar la causa.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Todos con pavor cayeron | Heridos del asombro que sintieron.»",
               "autor": "Hojeda",
               "referencia_obra": ", Crist. 3 (R. 17. 4271)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El estilo simple es el más a propósito para instruir; el adornado para agradar, y el fuerte o grande para herir y conmover.»",
               "autor": "Jovell.",
               "referencia_obra": "Human. castell. Retór. (R. 46. 1261)."
             },
             {
+              "marca": "",
               "texto_cita": "«Su memoria [del Cid], semejante a la de Aquiles, ha tenido la suerte de herir fuertemente y ocupar la fantasía.»",
               "autor": "Quint.",
               "referencia_obra": "Introd. al Parn. esp. 1 (R. 19. 1261)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -1725,278 +2302,372 @@
     {
       "id": "b)",
       "definicion": "met. Mover o excitar en el ánimo alguna pasión o sentimiento (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Cuanto más te considero, más me hiere tu amor.»",
               "autor": "Gran.",
               "referencia_obra": "Mem. vida crist. 1. 2 (R. 8. 2092)."
             },
             {
+              "marca": "",
               "texto_cita": "«Hiriole la religión que moraba en su ánimo, y el conocimiento que está firme en él, de que a Dios le es todo posible.»",
               "autor": "León",
               "referencia_obra": ", Expos. de Job, 7 (1. 126)."
             },
             {
+              "marca": "",
               "texto_cita": "«Siempre cuidado tal cayó en olvido, | Que si el temor que tengo me hiriera, | Hallara Amor el paso defendido.»",
               "autor": "Herr.",
               "referencia_obra": "2, eleg. 3 (R. 32. 3052)."
             },
             {
+              "marca": "",
               "texto_cita": "«Cuando, despreciada esta consideración, se trasforma la tiara en yelmo, la desconoce el respeto y la hiere como a cosa temporal.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 94 (R. 25. 2451)."
             },
             {
+              "marca": "",
               "texto_cita": "«Aunque la calumnia hirió indistintamente a todos los miembros de la suprema Junta Central, la ofensa no pudo ser igual en todos.»",
               "autor": "Jovell.",
-              "referencia_obra": "Def. de la Junta Central, 2, preámb. (R. 50. 5342). X"
+              "referencia_obra": "Def. de la Junta Central, 2, preámb. (R. 50. 5342)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El hombre me sacaba de quicio, es cierto; sus miradas me herían más que sus palabras, pero debí tratarle de otro modo.»",
               "autor": "Unamuno",
               "referencia_obra": ", La tía Tula, 17 (p. 99)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para señalar el modo. X",
+              "definicion": "Con a, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«¡Y no eran, Pedro, de allí | Los que allí a traición me herían! | ¡Pedro, los dardos venían | Envenenados de aquí!»",
                   "autor": "Zorrilla",
                   "referencia_obra": ", Poes. (Cl. C. 63. 106)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
               "definicion": "Con la prep. con, para señalar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Hiéreme con el don de la piedad y traspasa mi corazón con el don del temor.»",
                   "autor": "Gran.",
-                  "referencia_obra": "Mem. del crist. 12 (R. 11. 1891). X"
+                  "referencia_obra": "Mem. del crist. 12 (R. 11. 1891)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo comprendía que la noble señora buscaba herirme con su desdén, y un poco indeciso, me detuve en medio de la estancia.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de primav. p. 55."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con de, para expresar el modo. X",
+              "definicion": "Con de, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo no entendía la cosa así; herirlos de muerte, en su orgullo necio a todos y esperar y sufrir las consecuencias.»",
                   "autor": "",
-                  "referencia_obra": "D. F. Sarmiento, Recuerdos de Prov. p. 157. X"
+                  "referencia_obra": "D. F. Sarmiento, Recuerdos de Prov. p. 157."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«La flirtatión no deja rastro, ni huella, ni señal de la herida, y puede no obstante penetrar en lo profundo del alma y herirla de muerte.»",
                   "autor": "Valera",
-                  "referencia_obra": ", Pasarse de listo, p. 194. X"
+                  "referencia_obra": ", Pasarse de listo, p. 194."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«El matrimonio es sucio e impuro; el estado perfecto del hombre y la mujer es el noviazgo. El matrimonio mata el amor o, por lo menos, lo hiere de mucha gravedad.»",
                   "autor": "Cela",
                   "referencia_obra": ", Mrs. Caldwell, p. 80."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en, para designar el sentimiento afectado. X",
+              "definicion": "Con en, para designar el sentimiento afectado.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo reconocí la mano que había querido herirme en mis afectos y en mi honra. ¿Quién sino Perejil?»",
                   "autor": "Marroquín",
-                  "referencia_obra": ", Blas Gil, 20 (p. 228). X"
+                  "referencia_obra": ", Blas Gil, 20 (p. 228)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿Por qué no había de hacer él, y mejor, lo que cualquier mentecato, enclenque y apocado hace? Heríale en su amor propio; habría querido que su mujer hubiese dado a luz a los nueve meses justos y cabales de haberse ellos casado.»",
                   "autor": "Unamuno",
                   "referencia_obra": ", La tía Tula, 7 (p. 54)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— ε ε )",
               "id_limpio": "— ε ε )",
-              "definicion": "Con por, para expresar el modo. X",
+              "definicion": "Con por, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La sobrina que llevó fruta más temprana estava sabidora del sucesso. Vino en casa de su tía, hiriéndola por el mismo camino que ella fue herida.»",
                   "autor": "Cortés de Tolosa",
                   "referencia_obra": ", Nov. (Cl. C. 187. 49)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Intrans. X",
+          "definicion": "Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los amantes, porque el rey | Cupido guarda la ley | Igual con los caballeros, | Que trabajan; | Nunca los amores cuajan | Si amor entrambos no hiere, | Que cuando el uno no quiere | Dicen que dos no barajan.»",
               "autor": "Castillejo",
               "referencia_obra": ", Sermón de amores (Cl. C. 72. 61)."
             },
             {
+              "marca": "",
               "texto_cita": "«En mí será tu aguda punta ociosa, | Y de nuevo herir o dar favores | No puede otra virtud en ti escondida, | Mientras hay viva nieve y blanda rosa, | Y en desmayados ojos resplandores | Árbitros de la muerte y de la vida.»",
               "autor": "Rioja",
               "referencia_obra": ", Son. amor. 28 (R. 32. 3781)."
             },
             {
+              "marca": "",
               "texto_cita": "«Una desatención en un inferior a un superior ofende; una desatención en un superior a un inferior, hiere.»",
               "autor": "Fern.",
               "referencia_obra": "Caball. Cosa cumplida, p. 30."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. Con de, para señalar el agente. X",
+          "definicion": "Pas. Con de, para señalar el agente.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A quatro días quel emperador Trebacio fue herido del amor de la princesa Briana, el príncipe Theoduardo, con veinte mil cavalleros, entró en la gran ciudad de Belgrado.»",
               "autor": "Ortúñez de Calahorra",
-              "referencia_obra": ", Espejo, 1 (Cl. C. 193. 39). X"
+              "referencia_obra": ", Espejo, 1 (Cl. C. 193. 39)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vos, digo yo, cuya barbarie escolástica no os hace capaz de ser herido del sentimiento ---, sois demasiadamente ciego de razón para que por vuestro solo sufragio haya de ser condenado un libro que lleva consigo un gran carácter.»",
               "autor": "Forner",
               "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 174)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, con el mismo sentido anterior. X",
+              "definicion": "Con por, con el mismo sentido anterior.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Él fue herido por nuestras maldades, y fue quebrantado y molido por nuestros pecados. Todos nosotros erramos como ovejas, y el Señor puso en él las maldades de todos nosotros.»",
                   "autor": "M. de Chaide",
-                  "referencia_obra": ", Magd. 3. 20 (Cl. C. 105. 183). X"
+                  "referencia_obra": ", Magd. 3. 20 (Cl. C. 105. 183)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Toda la sangre de Daniel se agolpó a su rostro. Su amor propio, su honor, la conciencia de su buena fe, todo acababa de ser herido por la mirada punzadora de Florencia.»",
                   "autor": "Mármol",
                   "referencia_obra": ", Amalia, 1 (p. 128)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
-          "definicion": "Part. En grado comparativo. X",
+          "definicion": "Part. En grado comparativo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Tengo 16 años y muchos viejos me han dicho que parezco un viejo. Y algo tienen razón; —porque si tengo en toda su fuerza el atolondramiento y la efervescencia de mis pocos años, tengo en cambio un corazón tan chico como herido—.»",
               "autor": "Martí",
-              "referencia_obra": ", Sus mejores páginas, p. 241. — Con valor ponderativo. +"
-            },
+              "referencia_obra": ", Sus mejores páginas, p. 241."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Él tenía la imaginación tan herida, que temía le diesen veneno en la comida.»",
-              "autor": "Quint.",
-              "referencia_obra": "Prínc. de Viana (R. 19. 2381)."
+              "id_limpio": "—",
+              "definicion": "Con valor ponderativo.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "+",
+                  "texto_cita": "«Él tenía la imaginación tan herida, que temía le diesen veneno en la comida.»",
+                  "autor": "Quint.",
+                  "referencia_obra": "Prínc. de Viana (R. 19. 2381)."
+                }
+              ]
             }
           ],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, para señalar: — el agente. X",
-              "ejemplos_citas": [
+              "definicion": "Con por, para señalar:",
+              "marca": "",
+              "ejemplos_citas": [],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«No me recrea ya, como otros días, | Escribir versos, gravemente herido | Por un amor que ardió las venas mías; | Nadie tortura igual habrá sufrido.»",
-                  "autor": "Arciniegas",
-                  "referencia_obra": ", Odas de Hor. (ICC. 5. 230). — La causa. X"
+                  "id_limpio": "—",
+                  "definicion": "el agente.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«No me recrea ya, como otros días, | Escribir versos, gravemente herido | Por un amor que ardió las venas mías; | Nadie tortura igual habrá sufrido.»",
+                      "autor": "Arciniegas",
+                      "referencia_obra": ", Odas de Hor. (ICC. 5. 230)."
+                    }
+                  ]
                 },
                 {
-                  "texto_cita": "«Notamos que el patricio no ocultaba el dolor del amor patrio herido por la mayor de las crueldades, pues habiendo callado unos momentos, nos dijo que quería volver a su sueño del busto.»",
-                  "autor": "M. F. Suárez",
-                  "referencia_obra": ", Sueños, 1 (p. 169). X"
-                },
-                {
-                  "texto_cita": "«¿Quiénes son estos hombres? Son, en su mayor parte, campesinos toscos que, heridos por un súbito fervor, ascienden a este monte, y aquí se olvidan de sí mismos por espacio de algunos años y aun todo el resto de sus días.»",
-                  "autor": "Ortega y Gasset",
-                  "referencia_obra": ", Mocedades, p. 14. X"
-                },
-                {
-                  "texto_cita": "«Yo voy en el mundo herido por el dolor de los dolores ajenos: voy, herido de caridad, consolando al prójimo... Podemos marchar juntos.»",
-                  "autor": "Lz. de Mesa",
-                  "referencia_obra": ", El libro de los apólogos, p. 215."
+                  "id_limpio": "—",
+                  "definicion": "La causa.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Notamos que el patricio no ocultaba el dolor del amor patrio herido por la mayor de las crueldades, pues habiendo callado unos momentos, nos dijo que quería volver a su sueño del busto.»",
+                      "autor": "M. F. Suárez",
+                      "referencia_obra": ", Sueños, 1 (p. 169)."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«¿Quiénes son estos hombres? Son, en su mayor parte, campesinos toscos que, heridos por un súbito fervor, ascienden a este monte, y aquí se olvidan de sí mismos por espacio de algunos años y aun todo el resto de sus días.»",
+                      "autor": "Ortega y Gasset",
+                      "referencia_obra": ", Mocedades, p. 14."
+                    },
+                    {
+                      "marca": "X",
+                      "texto_cita": "«Yo voy en el mundo herido por el dolor de los dolores ajenos: voy, herido de caridad, consolando al prójimo... Podemos marchar juntos.»",
+                      "autor": "Lz. de Mesa",
+                      "referencia_obra": ", El libro de los apólogos, p. 215."
+                    }
+                  ]
                 }
               ]
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con a, para expresar el modo. +",
+              "definicion": "Con a, para expresar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Ustedes confunden al amante engañado, y quizás herido a traición, con el que es correspondido.»",
                   "autor": "Ganiv.",
                   "referencia_obra": "Pío Cid, 3 (1. 283)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
               "definicion": "Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Verás que cuenta más bien | El que está herido de amor | La ventura y el favor | Que la pena y el desdén.»",
                   "autor": "Mto.",
-                  "referencia_obra": "Lo que puede la aprehensión, 1. 1 (R. 39. 1672). X"
+                  "referencia_obra": "Lo que puede la aprehensión, 1. 1 (R. 39. 1672)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«¿No es verdad, di, que está muerto | Quien vive solo en el mundo? | — ¿Solo? | — Sentirás mañana | Tu pecho de amor herido.»",
                   "autor": "",
-                  "referencia_obra": "García Gutiérrez, Juan Lorenzo, 2 (Cl. C. 65. 215). X"
+                  "referencia_obra": "García Gutiérrez, Juan Lorenzo, 2 (Cl. C. 65. 215)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Aun cuando toda la navegación tuvimos tiempo de bonanza, como yo iba herido de mal de amores, apenas salía de mi camarote ni hablaba con nadie.»",
                   "autor": "Valle-Inclán",
                   "referencia_obra": ", Sonata de estío, p. 85."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Con en. +",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "+",
                   "texto_cita": "«Cariclea merece ser perdonada, porque verdaderamente está herida en lo vivo del amor.»",
                   "autor": "F. de Mena",
-                  "referencia_obra": ", Teágenes y Cariclea, 6 (p. 227). — Además con de. +"
-                },
+                  "referencia_obra": ", Teágenes y Cariclea, 6 (p. 227)."
+                }
+              ],
+              "subsubsubacepciones": [
                 {
-                  "texto_cita": "«Herida podrá salir el alma en el perdón y sufrimiento de las injurias, mas considerando ---.»",
-                  "autor": "Estella",
-                  "referencia_obra": ", Medit. 6 (p. 73)."
+                  "id_limpio": "—",
+                  "definicion": "Además con de.",
+                  "marca": "",
+                  "ejemplos_citas": [
+                    {
+                      "marca": "+",
+                      "texto_cita": "«Herida podrá salir el alma en el perdón y sufrimiento de las injurias, mas considerando ---.»",
+                      "autor": "Estella",
+                      "referencia_obra": ", Medit. 6 (p. 73)."
+                    }
+                  ]
                 }
               ]
             }
@@ -2005,41 +2676,50 @@
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Part. adj. X",
+          "definicion": "Part. adj.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y ¡ay! ¡mi corazón herido | Que ama hoy cual nunca amó, | A tu vista al ir a abrirse | Sangre llora de dolor! | ¡Que al decirte quién es ésa, | Ésa que amo tanto yo.»",
               "autor": "Caro",
-              "referencia_obra": ", Poes. complet. p. 116. X"
+              "referencia_obra": ", Poes. complet. p. 116."
             },
             {
+              "marca": "X",
               "texto_cita": "«Más tarde don José se separó del partido de los hombres de progreso de entonces, que eran centenares y se disgustó con Carril, no tanto por las ideas liberales, cuanto por algunas susceptibilidades heridas.»",
               "autor": "D. F. Sarmiento",
-              "referencia_obra": ", Recuerdos de Prov. p. 43. X"
+              "referencia_obra": ", Recuerdos de Prov. p. 43."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo estrecharé contra tu fino oído, | Como un gran caracol, que el mar encierra, | El corazón eternamente herido | Y eternamente joven de la tierra.»",
               "autor": "Maya",
               "referencia_obra": ", Obra poétic. 3 (p. 181)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con por, para señalar el agente. X",
+              "definicion": "Con por, para señalar el agente.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Con el alma herida por el desdén que María Rosario me mostrara, volví al estrado, donde la Princesa seguía con el pañuelo sobre los ojos.»",
                   "autor": "Valle-Inclán",
-                  "referencia_obra": ", Sonata de primavera, p. 26. X"
+                  "referencia_obra": ", Sonata de primavera, p. 26."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Pareció calmarse; contempló los dibujos del tablero de la mesa: corazones heridos por una flecha, nombres de mujeres; sacó una navaja del bolsillo y se puso a grabar letras en la tabla.»",
                   "autor": "Baroja",
                   "referencia_obra": ", La busca, 2. 8 (p. 108)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -2047,36 +2727,45 @@
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Locuciones.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Herir por los mismos filos: servirse contra un adversario de sus mismas armas, o hacer de modo que los medios de que otro se vale para perjudicar a uno le sirvan para su daño. X",
+              "definicion": "Herir por los mismos filos: servirse contra un adversario de sus mismas armas, o hacer de modo que los medios de que otro se vale para perjudicar a uno le sirvan para su daño.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Bien veo que quise engañar y fui engañado, porque me hirieron por mis propios filos; pero no puedo tener tan a raya el sentimiento, que no me queje de mí mismo.»",
                   "autor": "Cerv.",
-                  "referencia_obra": "Casamiento engañoso (Cl. C. 36. 198). X"
+                  "referencia_obra": "Casamiento engañoso (Cl. C. 36. 198)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo sé bien que el pícaro moscón no se propuso escribir otra cosa que una sátira y que la dispuso en aquella forma para heriros por los mismos filos con que vos habéis herido a otros.»",
                   "autor": "Forner",
                   "referencia_obra": ", Los gramáticos (Cl. C. 168. 115)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "A pendón herido: frase que se usa para explicar la porfía, contienda, celeridad o viveza con que se excusa alguna cosa. X",
+              "definicion": "A pendón herido: frase que se usa para explicar la porfía, contienda, celeridad o viveza con que se excusa alguna cosa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«La fortuna adversa es tyrana, si desea venganza es insaciable, y a pendón herido da licencia general a todo necio.»",
                   "autor": "Píc. Just.",
                   "referencia_obra": "fol. 80 (Dicc. Autor.)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -2085,145 +2774,179 @@
     {
       "id": "7",
       "definicion": "Ofender o agraviar de palabra o por escrito (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Mirad si tenéis prestas | Las manos del mal decir | Para llagar y herir | También las viudas honestas.»",
               "autor": "Castillejo",
-              "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 178). X"
+              "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 178)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Por haber oído decir que dijo un gran poeta de los antiguos que era difícil cosa el no escribir sátiras, consentiré que murmures un poco de luz, y no de sangre: quiero decir que señales, y no hieras ni des mate a ninguno en cosa señalada; que no es buena la murmuración.»",
               "autor": "Cerv.",
-              "referencia_obra": "Coloq. (Cl. C. 36. 224). X"
+              "referencia_obra": "Coloq. (Cl. C. 36. 224)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Hiciste bien en dejarme: también te hubiera herido la mofa de los hombres.»",
               "autor": "Cadalso",
-              "referencia_obra": ", Noches lúgubres (Cl. C. 152. 39). X"
+              "referencia_obra": ", Noches lúgubres (Cl. C. 152. 39)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En el estallido de su cólera, permanecía perplejo. Tuve vagas nociones del deber y busqué con la mirada mi carabina. Por sobre el eco de los torrentes me herían las palabras de la agresión, que Franco seguía emitiendo a gritos.»",
               "autor": "Rivera",
               "referencia_obra": ", La vorágine, 2 (p. 131)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con la prep. con, para señalar el medio. X",
+              "definicion": "Con la prep. con, para señalar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Nunca es tan feliz el vicioso como cuando le hieren con la murmuración o la chanza. Si siente mucho las picadas de la chanza y de la murmuración.»",
                   "autor": "Zabaleta",
-                  "referencia_obra": ", Errores celebr. (Cl. C. 169. 158). X"
+                  "referencia_obra": ", Errores celebr. (Cl. C. 169. 158)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Estaban todos dando solfas de murmuración a cuantos veían y descompasadamente hiriendo con la lengua, no la opinión sino las figuras de los que pasaban por la calle, no valiéndoles la confusión del concurso para ocultarse de su fisga descomunal.»",
                   "autor": "",
-                  "referencia_obra": "Torres Villarroel, Visiones y visitas (Cl. C. 161. 90). X"
+                  "referencia_obra": "Torres Villarroel, Visiones y visitas (Cl. C. 161. 90)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Van siempre a la cola de lo que dicen otros y dando que reír a los prudentes y sabios, ocasionan la mofa y burla con que hieren algunos al común de los cuerpos.»",
                   "autor": "Forner",
                   "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 101)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Hiriéndole [Cervantes] quizá en alguna de las censuras particulares a que aluden este coloquio i la Novela de los perros, que puede mui bien llamarse sátira lucilio-horaciana porque, imitando a Lucilio i a Horacio, reprehende a muchíssimos mordacíssima pero ocultamente.»",
                   "autor": "Mayáns",
-                  "referencia_obra": ", Vida de Cerv. p. 76. X"
+                  "referencia_obra": ", Vida de Cerv. p. 76."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Vi al que es por cierto el primero y el último, y con la espada de dos filos que salía de su boca me hería en el alma, llena de maldades, de vicios y de pecados.»",
                   "autor": "Valera",
                   "referencia_obra": ", Pepita Jiménez, p. 82."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con por, para señalar la causa. X",
+              "definicion": "Con por, para señalar la causa.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Llégate al mundo, al ausente | Que por pasatiempo heriste, | Y ay! tratarás vanamente | De lavar con llanto ardiente | La ponzoña de tu chiste.»",
                   "autor": "Pombo",
                   "referencia_obra": ", Las mejores fáb. p. 33."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Intrans. X",
+          "definicion": "Intrans.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y aquesta opinión es mía; | Que no hay arma tan cruel | Que hiera como un papel | Escrito con demasía.»",
               "autor": "M. de Amescua",
               "referencia_obra": ", La Fénix de Salam. 2 (Cl. C. 82. 90)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Pas. X",
+          "definicion": "Pas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Hay algunos Escritorcillos, que la buscan [la gloria] también en los vituperios. Se desesperan quando ven, que no hay antagonistas que los combatan, y nada les hiere más, que no ser heridos.»",
               "autor": "Forner",
               "referencia_obra": ", Declam. contra la charl. p. 36."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Refl",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Hiriose uno a sí mismo, no tiene de quien dar querella por la injuria.»",
               "autor": "",
               "referencia_obra": "Navarrete, 5. 8 (p. 1351)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ε )",
           "id_limpio": "— ε )",
-          "definicion": "Part. Con por, para señalar el agente y en. X",
+          "definicion": "Part. Con por, para señalar el agente y en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Heridos en lo vivo por la cruda verdad, los enemigos públicos se tornan secretos y la aversión franca conviértese en rencor.»",
               "autor": "Ramón y Cajal",
               "referencia_obra": ", Charlas de café, 1 (p. 20)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— ζ )",
           "id_limpio": "— ζ )",
           "definicion": "Loc. Herir agudo: frase de la destreza que significa herir de punta, o de estocada; y por alusión se usa para dar a entender que a alguno le han ofendido en la honra injuriándole.» Cfr. Dicc. Autor.",
+          "marca": "",
           "ejemplos_citas": [],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -2231,43 +2954,54 @@
     {
       "id": "8",
       "definicion": "Tocar el punto esencial de una cuestión, acertar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«El mismo primer cónsul no se desdeñó de tomar parte en ellas [en las discusiones del código civil], mostrando tal exactitud en el raciocinio, y tal tino para herir las dificultades, que causaba admiración aun a los menos lisonjeros.»",
               "autor": "M. de la Rosa",
               "referencia_obra": ", Espír. del siglo, 7. 7 (6. 154)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a, para señalar el modo. X",
+              "definicion": "Con a, para señalar el modo.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Labremos el filo por solo un lado, o por dos a lo más, si queremos conservar su eficacia analítica y herir a fondo el corazón de las cuestiones.»",
                   "autor": "Ramón y Cajal",
                   "referencia_obra": ", Tónicos de la voluntad, 4 (p. 80)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con la prep. con, para señalar el medio. X",
+              "definicion": "Con la prep. con, para señalar el medio.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Es don del talento y del buen tino político arrojar una palabra como al acaso, y herir con ella la dificultad.»",
                   "autor": "D. F. Sarmiento",
                   "referencia_obra": ", Recuerdos de Prov. p. 147."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -2276,12 +3010,12 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: «Este caballero fue el que mostrando grand esfuerzo a los suyos, fería primero en los contrarios.» Pulgar, Clar. var. 13 (p. 92). «Si la fortuna dispusiere que hayamos de pelear, perdería gran parte de la ira que en la facienda debo tener, e menos feriría mi fierro en los tuyos membrándome aver comido pan contigo.» Id. ib. 7 (p. 68). «Esta batalla fue muy ferida e sangrienta.» Id. ib. 7 (p. 65). «E diose la batalla entre ellos, e fue muy crudamente ferida por ambas partes.» Crón. Juan II, 10. 2 (R. 68. 3701). «E después que el torneo fue ferido una pieza --- el rey los mandó despartir.» Crón. Álv. de Luna, 74 (p. 194). «¿E quál enemigo lo avrá visto o sentido ferir de la espada, que tema más la fiereza de aquel ome e duro varón llamado Sceva?» Ib. pról. (p. 2). «Señor, tú fieres e sanas, | Tú adoleces e curas.» P. de Guzmán, Clar. var. 114 (Rom. inéd. 289). «Del hombre se falla ser grand enemigo, | Porque lo fiere do nunca sospecha.» Santill. p. 319. «Unos decían que el sol era ferido, e que mostraba grand mortandad de gentes.» Crón. P. Niño, p. 138. «E tan fuertemente ferían en él, que los non podría sofrir.» Ib. p. 66. «Tanto fue aquella hora aquella batalla ferida, que el rey se tovo por vencido de aquella vez.» Ib. p. 22. «A los que aman e usan de amores | Digo --- | O donde fiere, commo non paresçe | La llaga que fase con tantos dolores.» Canc. de Baena, p. 400. «Quando fyere el sol en él, | Más rreluse que cristal.» Ib. p. 288. «E aun se decía que Pero Carrillo --- feriera al infante de la primera ferida.» Crón. Pedro I, 14. 8 (R. 66. 5292).\n\n— Siglo XIV: «E todos los fijos dalgo | Feriendo en los paganos.» Alf. Xl, 2167 (R. 57. 5422). «Con las galeas entraron, | Fueron ferir la batalla.» Ib. 2091 (R. 57. 5401). «E firiol con una espada que traye por medio del vientre.» Crón. gen. 2. 48 (p. 1831). «E los coraxines quando aquesto oyeron firiéronle las manos vnas con otras.» Ib. 2. 45 (p. 1802). «E fue esta batalla muy ferida e mucho esquiva.» Ib. 1. 107 (p. 672). «E fue la lid muy fuerte e muy ferida e duró todo el día.» Ib. 1. 94 (p. 532). «Viven los esforzados disiendo ¡daldes ferid!» Arc. de Hita, 1424 (R. 57. 2721). «Nin otrosí de noche nunca gente de moros se atreve a ferir en la hueste de los cristianos.» J. Man. Libro de los est. 77 (R. 51. 3241). «El sol et las planetas et el aire non fieren en todos los lugares de la tierra en una manera.» Id. Caball. e escud. 48 (R. 51. 2561). «Cuando el viento fiere en ella [en la mar], fácela ensañar.» Id. ib. 47 (R. 51. 2551). «Ca el padre cuando fiere al fijo pequeño, si le fiere con la una mano, dal’ del pan con la otra.» Id. ib. 39 (R. 51. 2481).\n\n— Siglo XIII: «Otrosí le deben guardar que ninguno dellos non lo fiera, porque la ferida es carrera de la muerte.» Part. 2. 13. 26 (2. 125). «E fue tan ferida y esta batalla que de la parte de Aníbal morieron y doze mill.» Crón. Esp. 1. 20 (p. 121). «Ca mal cae el pied si fiere en la petra.» Berc. Duelo, 203 (R. 57. 1372). «El bien torrnase atrás del commo se torrna la saeta quando fiere en alguna piedra.» Boc. de oro, 12 (Knust, 207). «Guardadvos de les dar armas con que vos fieran.» Ib. 2 (Knust, 95). «Dio de mano a la lança, ferió a Demofanta.» Alex. 483 (R. 57. 1622). «El rey por la veste mandó ferir pregones | Que rancassen las tiendas e alçassen los pendones.» Ib. 409 (R. 57. 1601). «Quando a ferir uenier, tu se el primero.» Ib. 60 (R. 57. 1491). «Jesucristo nos dice e nos manda pedir, e rogar, e ferir a la puerta.» Ib. 12. 3. 3 (p. 189). «E si por ventura viere algún poco aquel que es firido en el oio, el que lo firió peche una libra doro al firido. E si el que es ferido en las narizes, si pierde las narizes, el que lo firió debe pechar C. sueldos.» Ib. 6. 4. 3 (p. 109). «Quien ama a su fiio, fiérelo a menudo.» Id. 4. 2. 14 (p. 70). «Toto omme qui mesare uel firiere con puno aut cozes a uecino aut filio de uecino in taberna --- pectet IIII. mº. a los fiadores.» Fuero de Madrid, año 1202 (Mem. Acad. Hist. 8. 29).\n\n— Siglo XII: «Todos se cuedan que ferido es de muert.» Cid, 3687 (R. 57. 372). «Quando lovo a oio el buen rey don Alfonso, | Ffirios a tierra Myo Cid el Campeador.» Ib. 3025 (R. 57. 321). «Con unos XV a tierras firió, | Commo lo comidia el que en buen ora nació.» Ib. 2020 (R. 57. 231). «Ffiriéronse a tierra, deçendieron de los caualos.» Ib. 1842 (R. 57. 211). «Feridlos, caualleros, damor e de grado e de grand voluntad.» Ib. 1139 (R. 57. 142). «Ffiriom el sobrino e non lo enmendó más.» Ib. 963 (R. 57. 131). «Fferidlos, caualleros, por amor de caridad.» Ib. 720 (R. 57. 101). «Ffiridlos, caualleros, todos sines dubdança» Ib. 597 (R. 57. 82).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del lat. ferire, ‘golpear, dar (con algo)’. It. ferire, fr. ant. ferir, cat. ferir.",
+  "etimologia": "Etim. Del lat.<i> ferire,</i> ‘golpear, dar (con algo)’. It.<i> ferire,</i> fr. ant.<i> ferir,</i> cat.<i> ferir.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",
   "conjugacion": "Conjug. Presenta las siguientes formas irregulares: hiero -es, -e, -en; hiera, -as, -a; hiramos, -áis, -an; hiere (tú).",
-  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 1, β, α - 1, χ, α - 2, α - 3, β, α - 4, α - 5, α - 6, α, α - 6, β, α - 7, α - 8, α.\n\n— Pασ.: 1, β, γ - 4, γ - 5, α, α - 6, β, γ - 7, γ.\n\n— Rεφλ.: 1, β, δ - 4, δ - 7, δ.\n\n— Rεχíπρ.: 1, α, β - 1, β, ε.\n\n— Iντρανσ.: 1, α, γ - 1, β, β - 1, ι, α α - 1, c, β - 4, β - 5, α, γ - 5, β, α - 6, α, γ - 6, β, β - 7, β.\n\n— Pαρτ.: 1, a, δ - 1, β, ζ - 1, β, ι, β β - 1, c, γ - 2, β - 4, ε - 5, α, β - 6, α, β - 6, β, δ -7, ε.\n\n— Pαρτ. adj.:1, b, η - 1, δ, α - 6, β, ε.\n\n— Sυσταντιvαδο: 1, α, ζ - 1, β, θ - 5, α, β, α α - 5, a, δ.\n\n— Cον α: 1, α, α, α α - 1, a, α, β β - 1, a,, γ, α α - 1, b, α, α α - 1, b, β, α α - 4, α, β β - 6, b, α, α α - 6, b, δ, β β - 7, α, α α.\n\n— Con dat.: 1, c, α, α α - 4, α, α α.\n\n— Con la prep. con: en general.\n\n— Con de: en general.\n\n— Con la combinación de... a: 1, b, α, γ γ.\n\n— Con la combinación de... en: 1, a, α, δ δ.\n\n— Con en: en general.\n\n— Con por: en general.\n\n— Con sin: 1, a, η - 1, b, δ, α α.\n\n— Con sobre: 1, b, α, ζ ζ - 4, β, γ γ\n\n\u0000",
+  "construccion_sintactica": "Constr.\n\n— Trans.: 1, a, α - 1, β, α - 1, χ, α - 2, α - 3, β, α - 4, α - 5, α - 6, α, α - 6, β, α - 7, α - 8, α.\n\n— Pασ.: 1, β, γ - 4, γ - 5, α, α - 6, β, γ - 7, γ.\n\n— Rεφλ.: 1, β, δ - 4, δ - 7, δ.\n\n— Rεχíπρ.: 1, α, β - 1, β, ε.\n\n— Iντρανσ.: 1, α, γ - 1, β, β - 1, ι, α α - 1, c, β - 4, β - 5, α, γ - 5, β, α - 6, α, γ - 6, β, β - 7, β.\n\n— Pαρτ.: 1, a, δ - 1, β, ζ - 1, β, ι, β β - 1, c, γ - 2, β - 4, ε - 5, α, β - 6, α, β - 6, β, δ -7, ε.\n\n— Pαρτ. adj.:1, b, η - 1, δ, α - 6, β, ε.\n\n— Sυσταντιvαδο: 1, α, ζ - 1, β, θ - 5, α, β, α α - 5, a, δ.\n\n— Cον α: 1, α, α, α α - 1, a, α, β β - 1, a,, γ, α α - 1, b, α, α α - 1, b, β, α α - 4, α, β β - 6, b, α, α α - 6, b, δ, β β - 7, α, α α.\n\n— Con dat.: 1, c, α, α α - 4, α, α α.\n\n— Con la prep. con: en general.\n\n— Con de: en general.\n\n— Con la combinación de... a: 1, b, α, γ γ.\n\n— Con la combinación de... en: 1, a, α, δ δ.\n\n— Con en: en general.\n\n— Con por: en general.\n\n— Con sin: 1, a, η - 1, b, δ, α α.\n\n— Con sobre: 1, b, α, ζ ζ - 4, β, γ γ",
   "prosodia": "",
   "colocacion_concordancia": ""
 }

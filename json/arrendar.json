@@ -1,52 +1,64 @@
 {
   "lema": "ARRENDAR.",
   "categoria_gramatical": "v.",
-  "introduccion": "v.\n\nEsta forma representa tres verbos de origen y significado diferentes; aunque sólo el primero debería figurar aquí, para mayor abundamiento se explican todos.",
+  "introduccion": "Esta forma representa tres verbos de origen y significado diferentes; aunque sólo el primero debería figurar aquí, para mayor abundamiento se explican todos.",
   "acepciones": [
     {
       "id": "I",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Atar y asegurar por las riendas una cabalgadura (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Nuño Vero, Nuño Vero, | Buen caballero probado, | Hinquedes la lanza en tierra | Y arrendedes el caballo.»",
               "autor": "Romanc.",
               "referencia_obra": "(R. 10. 2181)."
             },
             {
+              "marca": "",
               "texto_cita": "«Caballero de lejas tierras, | Llegaos acá y paréis, | Hinquedes la lanza en tierra, | Vuestro caballo arrendéis.»",
               "autor": "",
               "referencia_obra": "Ib. (R. 10. 1751)."
             },
             {
+              "marca": "",
               "texto_cita": "«Arrendó Antonio el mozo la cabalgadura, que era un poderoso macho.»",
               "autor": "Cerv.",
               "referencia_obra": "Pers. 3. 6 (R. 1. 6342)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Subid sobre vuestro caballo, y tomad vuestra lanza (que también tenía una lanza arrimada á la encina donde estaba arrendada la yegua), que yo os haré conocer ser de cobardes lo que estáis haciendo.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Quij. 1. 4 (R. 1. 2622)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -54,25 +66,31 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con á, para expresar el objeto en que se aseguran las riendas.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Apenas hubo andado la mitad, cuando acosado de sus pensamientos le fue forzoso apearse y arrendar su caballo á un árbol.»",
               "autor": "Cerv.",
               "referencia_obra": "Quij. 1. 35 (R. 1. 3541)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Hallámosle Elicio, Erastro y yo habrá dos horas en medio de aquel monte que á esta mano derecha se descubre, el caballo arrendado á un pino, y éI en el suelo boca abajo tendido, dando tiernos y dolorosos suspiros.»",
                   "autor": "Cerv.",
                   "referencia_obra": "Gal. 5 (R. 1. 722)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
@@ -80,25 +98,31 @@
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con en, en igual sentido.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Le dice que Abindarráez, | Con el cuento de la lanza, | Dio tres golpes á la puerta, | Que es la seña concertada; | Que en ella arrendó el caballo, | Y ya sube por la escala.»",
               "autor": "Romanc.",
               "referencia_obra": "(R. 16. 1061)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Part.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Yo de le ver así maravillado, | Y más de la siniestra profecía, | Mi caballo en un líbano arrendado, | Le quise hacer un rato compañía.»",
                   "autor": "Erc.",
                   "referencia_obra": "Arauc. 27 (R. 17. 1011)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -107,57 +131,86 @@
     {
       "id": "b)",
       "definicion": "Enseñar al caballo á que obedezca á la rienda (trans.). Es de particular uso en el part.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«El [caballo] que has de llevar es tal, | Tan presto, tan arriendado, | Tan cierto en acción igual, | Que de un bruto gobernado | Obra como racional.»",
           "autor": "Alarcón",
           "referencia_obra": ", Todo es ventura, 2. 1 (R. 20. 1252). Nótese que aquí aparece el diptongo, como si hubiera el designio de hacer recordar inmediatamente el origen y evitar toda confusión."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
-      "definicion": "met. Sujetar (trans.). — Part.",
+      "definicion": "met. Sujetar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [
+        {
+          "id_limpio": "—",
+          "definicion": "Part.",
+          "marca": "",
+          "ejemplos_citas": []
+        }
+      ],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¿Quién hay que no falte? ¿quién hay que tenga todas sus pasiones arrendadas?»",
               "autor": "Mariana",
               "referencia_obra": ", Hist. Esp. 3. 4 (R. 30. 651)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con á.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¡Oh espacioso reloj, aína te vea yo arder en vivo fuego de amor Si tú esperases lo que yo, cuando das doce, jamás estarías arrendado á la voluntad del maestro que te compuso!»",
               "autor": "Celest.",
-              "referencia_obra": "14 (R. 3. 601). Per. antecl. —Siglo XIII:"
-            },
+              "referencia_obra": "14 (R. 3. 601). Per. antecl."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Desde que llegó al logar do querie ir, que es una legua é un mijero de la villa, arrendó su caballo en una espesura.»",
-              "autor": "",
-              "referencia_obra": "Crón. gen. fol. 111 (Dicc. Autor.)."
-            },
-            {
-              "texto_cita": "«Tovyeron todo el día la mula arrendada.»",
-              "autor": "Fern.",
-              "referencia_obra": "Gonz. 651 (R. 57. 4091)."
-            },
-            {
-              "texto_cita": "«Lamando primas, luego descaualgó; | Arrendó el cauallo, a ellas adelinó.»",
-              "autor": "Cid",
-              "referencia_obra": ", 2779 (R. 57. 301). Etim. Comp. de á y rienda. Conjug. Tiene estas formas diptongadas: arriend-o, as, a, an; arriend-e, es, e, en; arrienda tú."
+              "id_limpio": "—",
+              "definicion": "Siglo XIII:",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Desde que llegó al logar do querie ir, que es una legua é un mijero de la villa, arrendó su caballo en una espesura.»",
+                  "autor": "",
+                  "referencia_obra": "Crón. gen. fol. 111 (Dicc. Autor.)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Tovyeron todo el día la mula arrendada.»",
+                  "autor": "Fern.",
+                  "referencia_obra": "Gonz. 651 (R. 57. 4091)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Lamando primas, luego descaualgó; | Arrendó el cauallo, a ellas adelinó.»",
+                  "autor": "Cid",
+                  "referencia_obra": ", 2779 (R. 57. 301). Etim. Comp. de á y rienda. Conjug. Tiene estas formas diptongadas: arriend-o, as, a, an; arriend-e, es, e, en; arrienda tú."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -167,47 +220,59 @@
     {
       "id": "II",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Dar á uno alguna cosa para que la beneficie ó use de ella por el tiempo que se determine y mediante el pago de la renta convenida. Empléase más comúnmente tratándose de fincas rústicas y de edificios ó establecimientos de que se puede sacar alguna utilidad (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Labran la tierra, ó se mantienen de algún trato y oficio, ó arriendan sus haciendas á otros, y viven ociosos del fruto dellas.»",
               "autor": "León",
               "referencia_obra": ", Perf. cas. 6 (R. 37. 2202)."
             },
             {
+              "marca": "",
               "texto_cita": "«Los labradores á quienes arrienda sus campos, le miran como á un ángel tutelar de sus casas.»",
               "autor": "Cadalso",
               "referencia_obra": ", Cart. marr. 69. (2. 287)."
             },
             {
+              "marca": "",
               "texto_cita": "«Era costumbre antigua, introducida por los virreyes, el arrendar no sólo la mayor parte de las rentas permanentes y contribuciones ordinarias, sino también los impuestos provisorios [provisionales] y los arbitrios con que se cubrían los servicios y donativos extraordinarios.»",
               "autor": "A. Saav.",
               "referencia_obra": "Masan. 1. 2 (5. 34)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Pas.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Las monedas de cruzados y reales (que el año pasado se acuñaron y arrendaron) gastados en pagar sueldos y premiar capitanes.»",
                   "autor": "Mariana",
                   "referencia_obra": ", Hist. Esp. 17. 15 (R. 30. 5212)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -216,27 +281,42 @@
     {
       "id": "b)",
       "definicion": "Tomar de uno alguna cosa para beneficiarla ó usar de ella por el tiempo que se determine y mediante el pago de la renta convenida (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Por estar en lo que es tuyo, | Que al fin estoy en sagrado, | Tu molino me ha guardado, Que soy molinero suyo. | El que le arrienda me tiene | Por su mozo en este traje.»",
               "autor": "Lope",
               "referencia_obra": ", El molino, 2. 13 (R. 24. 313). ¿"
             },
             {
+              "marca": "",
               "texto_cita": "«Habéisla arrendado [la casa]? — Ayer | Ciertos hombres la arrendaban | Que vienen con el infante, | Y no se la quise dar.»",
               "autor": "",
-              "referencia_obra": "Id. La niña de plata, 2. 1 (R. 24. 2811). —"
-            },
+              "referencia_obra": "Id. La niña de plata, 2. 1 (R. 24. 2811)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Hombre destos ha ido al infierno, que viendo la leña y fuego que se gasta, ha querido hacer estanco de la lumbre; y otro quiso arrendar los tormentos, pareciéndole que ganará con ellos mucho.»",
-              "autor": "Quev.",
-              "referencia_obra": "Alguacil (R. 23. 3061)."
+              "id_limpio": "—",
+              "definicion": "",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Hombre destos ha ido al infierno, que viendo la leña y fuego que se gasta, ha querido hacer estanco de la lumbre; y otro quiso arrendar los tormentos, pareciéndole que ganará con ellos mucho.»",
+                  "autor": "Quev.",
+                  "referencia_obra": "Alguacil (R. 23. 3061)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -245,101 +325,144 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "De aquí la frase metafórica No le arriendo la ganancia: da á entender que la situación de alguno es peligrosa, ó que le amenaza algún trabajo ó castigo. Alude á una empresa aventurada que uno no tomaría por su cuenta.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Si como en valor subido, | Vas creciendo en arrogancia, | No le arriendo la ganancia | A la edad en que has nacido.»",
               "autor": "Cerv.",
-              "referencia_obra": "Nov. 1 (R. 1. 1031). Per. antecl. —Siglo XV:"
+              "referencia_obra": "Nov. 1 (R. 1. 1031). Per. antecl."
+            }
+          ],
+          "subsubsubacepciones": [
+            {
+              "id_limpio": "—",
+              "definicion": "Siglo XV:",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Los dichos embajadores arrendaron una nave para ir fasta en la isla de Xio.»",
+                  "autor": "Gonz. Clav.",
+                  "referencia_obra": "p. 40."
+                }
+              ]
             },
             {
-              "texto_cita": "«Los dichos embajadores arrendaron una nave para ir fasta en la isla de Xio.»",
-              "autor": "Gonz. Clav.",
-              "referencia_obra": "p. 40. — Siglo XIV:"
+              "id_limpio": "—",
+              "definicion": "Siglo XIV:",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Pues las rentas de la villa quando se an de arrendar | Alli llegan los alcaldes por en ellas encarnar.»",
+                  "autor": "Pal.",
+                  "referencia_obra": "363 (R. 57. 4362)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Et todos ellos otorgáronle dos monedas en todo el señorío del rey, et entretanto que esto se arrendaba, dixieronle ---»",
+                  "autor": "Alf. XI",
+                  "referencia_obra": ", 303 (R. 66. 3681)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Otorgaronle todos las alcavalas de todos los sus logares, et pidiéronle merced que las mandase arrendar et coger.»",
+                  "autor": "",
+                  "referencia_obra": "lb. 262 (R. 66. 3371)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Mando que siruan por ssi las notarias e non por escusadores, et que las non arrenden.»",
+                  "autor": "C. de L. y C.",
+                  "referencia_obra": "1. 192)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Otrosi prometo que daqui adelante que no arrente los sseruiçios.»",
+                  "autor": "",
+                  "referencia_obra": "Cortes de Burgos, año 1301 ( C. de L y C. 1. 149)."
+                }
+              ]
             },
             {
-              "texto_cita": "«Pues las rentas de la villa quando se an de arrendar | Alli llegan los alcaldes por en ellas encarnar.»",
-              "autor": "Pal.",
-              "referencia_obra": "363 (R. 57. 4362)."
-            },
-            {
-              "texto_cita": "«Et todos ellos otorgáronle dos monedas en todo el señorío del rey, et entretanto que esto se arrendaba, dixieronle ---»",
-              "autor": "Alf. XI",
-              "referencia_obra": ", 303 (R. 66. 3681)."
-            },
-            {
-              "texto_cita": "«Otorgaronle todos las alcavalas de todos los sus logares, et pidiéronle merced que las mandase arrendar et coger.»",
-              "autor": "",
-              "referencia_obra": "lb. 262 (R. 66. 3371)."
-            },
-            {
-              "texto_cita": "«Mando que siruan por ssi las notarias e non por escusadores, et que las non arrenden.»",
-              "autor": "C. de L. y C.",
-              "referencia_obra": "1. 192)."
-            },
-            {
-              "texto_cita": "«Otrosi prometo que daqui adelante que no arrente los sseruiçios.»",
-              "autor": "",
-              "referencia_obra": "Cortes de Burgos, año 1301 ( C. de L y C. 1. 149). — Siglo XIII:"
-            },
-            {
-              "texto_cita": "«Aquellos que mostraren nuestras cartas, o de aquellos que lo ouieren de ueer por nos, de como dieron cuenta, tenemos por bien que les vala, et esto que sse non arrende.»",
-              "autor": "C. de L. y C.",
-              "referencia_obra": "1. 102)."
-            },
-            {
-              "texto_cita": "«Et arrendamiento, segunt el lenguage de España es arrendar heredamiento, ó almoxarifadgo ó alguna otra cosa por renta cierta que den por ello.»",
-              "autor": "",
-              "referencia_obra": "Part. 5. 8. 1 (3. 219)."
-            },
-            {
-              "texto_cita": "«Arrendar non puede el perlado sus veces nin poner vicarios por precio en su lugar.»",
-              "autor": "",
-              "referencia_obra": "Part. 1. 17. 8. (1. 430)."
-            },
-            {
-              "texto_cita": "«Arrendando ó empeñando home de orden á otro home qualquier su villa ó aldea --- pasa el poder --- á aquel que la tomó arrendada ó empeñada.»",
-              "autor": "Part.",
-              "referencia_obra": "1. 15. 9 (1. 405)."
-            },
-            {
-              "texto_cita": "«Todo ome pueda arrendar o logar sus cosas a plazo sabido o para siempre.»",
-              "autor": "Fuero",
-              "referencia_obra": "real, 3. 18. 7 (O. L. 2. 106)."
-            },
-            {
-              "texto_cita": "«Cuando tal cosa fuere de arrendar o de logar, ayuntese el conceio e arriendese o aloguese por todos.»",
-              "autor": "O. L.",
-              "referencia_obra": "2. 106)."
-            },
-            {
-              "texto_cita": "«Si en esta guisa non se pudieren avenir, arriendenla e partan la renda entre sí.»",
-              "autor": "O. L.",
-              "referencia_obra": "2. 70)."
-            },
-            {
-              "texto_cita": "«Ca pues que él arrendó la heredat por razon de los fructos, non puede contar el tesoro por fructo.»",
-              "autor": "O. L.",
-              "referencia_obra": "1. 370)."
-            },
-            {
-              "texto_cita": "«Pertenescen al arrendamiento, segunt la postura de aquel que arrenda.»",
-              "autor": "O. L.",
-              "referencia_obra": "1. 260.)"
-            },
-            {
-              "texto_cita": "«Devenlos tomar los parientes mas propinquos a ellos, e sus bienes deven ser arrendados a quien mas dier por ellos.»",
-              "autor": "Fuero",
-              "referencia_obra": "viejo, 5. 4. 1 (134)."
-            },
-            {
-              "texto_cita": "«Puede usar de toda la sua suerte, e servirse de ella en toda la sua vida e arrendarla a los estraños.»",
-              "autor": "",
-              "referencia_obra": "lb. 5. 2. 2 (126)."
-            },
-            {
-              "texto_cita": "«Si algun omne tiene de otro tierra ó vinna arrendada --- páguele la renda al plazo en todas guisas.»",
-              "autor": "Fuero",
-              "referencia_obra": "Juzgo, 10. 1. 19 (167). Etim. Comp. de á y renda, como se dijo antiguamente por renta. Conjug. Tiene las mismas formas diptongadas que en la significación anterior, aunque no fue así de ordinario en lo antiguo, según aparece de los ejemplos."
+              "id_limpio": "—",
+              "definicion": "Siglo XIII:",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Aquellos que mostraren nuestras cartas, o de aquellos que lo ouieren de ueer por nos, de como dieron cuenta, tenemos por bien que les vala, et esto que sse non arrende.»",
+                  "autor": "C. de L. y C.",
+                  "referencia_obra": "1. 102)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Et arrendamiento, segunt el lenguage de España es arrendar heredamiento, ó almoxarifadgo ó alguna otra cosa por renta cierta que den por ello.»",
+                  "autor": "",
+                  "referencia_obra": "Part. 5. 8. 1 (3. 219)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Arrendar non puede el perlado sus veces nin poner vicarios por precio en su lugar.»",
+                  "autor": "",
+                  "referencia_obra": "Part. 1. 17. 8. (1. 430)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Arrendando ó empeñando home de orden á otro home qualquier su villa ó aldea --- pasa el poder --- á aquel que la tomó arrendada ó empeñada.»",
+                  "autor": "Part.",
+                  "referencia_obra": "1. 15. 9 (1. 405)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Todo ome pueda arrendar o logar sus cosas a plazo sabido o para siempre.»",
+                  "autor": "Fuero",
+                  "referencia_obra": "real, 3. 18. 7 (O. L. 2. 106)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Cuando tal cosa fuere de arrendar o de logar, ayuntese el conceio e arriendese o aloguese por todos.»",
+                  "autor": "O. L.",
+                  "referencia_obra": "2. 106)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Si en esta guisa non se pudieren avenir, arriendenla e partan la renda entre sí.»",
+                  "autor": "O. L.",
+                  "referencia_obra": "2. 70)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Ca pues que él arrendó la heredat por razon de los fructos, non puede contar el tesoro por fructo.»",
+                  "autor": "O. L.",
+                  "referencia_obra": "1. 370)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Pertenescen al arrendamiento, segunt la postura de aquel que arrenda.»",
+                  "autor": "O. L.",
+                  "referencia_obra": "1. 260.)"
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Devenlos tomar los parientes mas propinquos a ellos, e sus bienes deven ser arrendados a quien mas dier por ellos.»",
+                  "autor": "Fuero",
+                  "referencia_obra": "viejo, 5. 4. 1 (134)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Puede usar de toda la sua suerte, e servirse de ella en toda la sua vida e arrendarla a los estraños.»",
+                  "autor": "",
+                  "referencia_obra": "lb. 5. 2. 2 (126)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«Si algun omne tiene de otro tierra ó vinna arrendada --- páguele la renda al plazo en todas guisas.»",
+                  "autor": "Fuero",
+                  "referencia_obra": "Juzgo, 10. 1. 19 (167). Etim. Comp. de á y renda, como se dijo antiguamente por renta. Conjug. Tiene las mismas formas diptongadas que en la significación anterior, aunque no fue así de ordinario en lo antiguo, según aparece de los ejemplos."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -349,30 +472,36 @@
     {
       "id": "III",
       "definicion": "Remedar, contrahacer la voz ó acciones de alguno. (trans.). Lo registra ya Covarr.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Diome un antojo --- de arrendalle todos sus gestos y meneos.»",
           "autor": "Almazán",
           "referencia_obra": ", Trad. de la historia del Momo, 3. 11, fol. 49 (Dicc. Autor. 2). Per. antecl. Siglo XIII:"
         },
         {
+          "marca": "",
           "texto_cita": "«Nin sso negro [habla el espejo] nin he color certero. | Nin lengua con que fable un prouerbio senyero, | Mas sse rendar a todos, ssiempre sso refertero --- | El que en él sse cata veye su mismo çeio, | A altos e a baxos riéndelos [riéndalos?] en pareio.»",
           "autor": "",
           "referencia_obra": "Appoll. 520-1 (R. 57. 3002). Etim"
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl.\n\n—Siglo XIII: «Desde que llegó al logar do querie ir, que es una legua é un mijero de la villa, arrendó su caballo en una espesura.» Crón. gen. fol. 111 (Dicc. Autor.). «Tovyeron todo el día la mula arrendada.» Fern. Gonz. 651 (R. 57. 4091). «Lamando primas, luego descaualgó; | Arrendó el cauallo, a ellas adelinó.» Cid, 2779 (R. 57. 301).\n\nPer. antecl.\n\n—Siglo XV: «Los dichos embajadores arrendaron una nave para ir fasta en la isla de Xio.» Gonz. Clav. p. 40.\n\n— Siglo XIV: «Pues las rentas de la villa quando se an de arrendar | Alli llegan los alcaldes por en ellas encarnar.» Rim. de Pal. 363 (R. 57. 4362). «Et todos ellos otorgáronle dos monedas en todo el señorío del rey, et entretanto que esto se arrendaba, dixieronle ---» Crón. Alf. XI, 303 (R. 66. 3681). «Otorgaronle todos las alcavalas de todos los sus logares, et pidiéronle merced que las mandase arrendar et coger.» lb. 262 (R. 66. 3371). «Mando que siruan por ssi las notarias e non por escusadores, et que las non arrenden.» Cortes de Valladolid, año 1307 (C. de L. y C. 1. 192). «Otrosi prometo que daqui adelante que no arrente los sseruiçios.» Cortes de Burgos, año 1301 ( C. de L y C. 1. 149).\n\n— Siglo XIII: «Aquellos que mostraren nuestras cartas, o de aquellos que lo ouieren de ueer por nos, de como dieron cuenta, tenemos por bien que les vala, et esto que sse non arrende.» Cortes de Haro, año 1288 (C. de L. y C. 1. 102). «Et arrendamiento, segunt el lenguage de España es arrendar heredamiento, ó almoxarifadgo ó alguna otra cosa por renta cierta que den por ello.» Part. 5. 8. 1 (3. 219). «Arrendar non puede el perlado sus veces nin poner vicarios por precio en su lugar.» Part. 1. 17. 8. (1. 430). «Arrendando ó empeñando home de orden á otro home qualquier su villa ó aldea --- pasa el poder --- á aquel que la tomó arrendada ó empeñada.» Part. 1. 15. 9 (1. 405). «Todo ome pueda arrendar o logar sus cosas a plazo sabido o para siempre.» Fuero real, 3. 18. 7 (O. L. 2. 106). «Cuando tal cosa fuere de arrendar o de logar, ayuntese el conceio e arriendese o aloguese por todos.» lb. 3. 18. 3 (O. L. 2. 106). «Si en esta guisa non se pudieren avenir, arriendenla e partan la renda entre sí.» lb. 3. 4. 2 (O. L. 2. 70).«Ca pues que él arrendó la heredat por razon de los fructos, non puede contar el tesoro por fructo.» Espéc. 5. 8. 18 (O. L. 1. 370). «Pertenescen al arrendamiento, segunt la postura de aquel que arrenda.» lb. 4. 12. 21 (O. L. 1. 260.) «Devenlos tomar los parientes mas propinquos a ellos, e sus bienes deven ser arrendados a quien mas dier por ellos.» Fuero viejo, 5. 4. 1 (134). «Puede usar de toda la sua suerte, e servirse de ella en toda la sua vida e arrendarla a los estraños.» lb. 5. 2. 2 (126). «Si algun omne tiene de otro tierra ó vinna arrendada --- páguele la renda al plazo en todas guisas.» Fuero Juzgo, 10. 1. 19 (167).\n\nPer. antecl. Siglo XIII: «Nin sso negro [habla el espejo] nin he color certero. | Nin lengua con que fable un prouerbio senyero, | Mas sse rendar a todos, ssiempre sso refertero --- | El que en él sse cata veye su mismo çeio, | A altos e a baxos riéndelos [riéndalos?] en pareio.» Appoll. 520-1 (R. 57. 3002).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Comp. de á y rienda.\n\n\n\nEtim. Comp. de á y renda, como se dijo antiguamente por renta.\n\n\n\nEtim. Arremedar y arrendar son formaciones divergentes de re-imitor; el segundo es semejante á conde de comitem, linde de limitem, senda de semitam. Véase C. Michaelis, Studien zur romanischen Wortschöpfung, p. 241.\n\n\u0000",
+  "etimologia": "Etim. Comp. de <i>á</i> y <i>rienda.</i>\n\n\n\nEtim. Comp. de <i>á</i> y <i>renda</i>, como se dijo antiguamente por <i>renta.</i>\n\n\n\nEtim<i>.</i><i> Arremedar </i>y<i> arrendar </i>son formaciones divergentes de <i>re-imitor; </i>el segundo es semejante á <i>conde </i>de<i> comitem, linde </i>de <i>limitem, senda </i>de<i> semitam. </i>Véase C. Michaelis<i>, Studien zur romanischen Wortschöpfung, </i>p. 241.\n\n<i></i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

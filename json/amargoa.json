@@ -6,43 +6,62 @@
     {
       "id": "1",
       "definicion": "",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Que tiene un sabor semejante al de la hiel, el ajeno ó el acíbar.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Es aquel endurecido y muy amargo licor que en Castilla se dice acíbar.»",
               "autor": "Laguna",
               "referencia_obra": ", Diosc. 3. 23 (3. 29)."
             },
             {
+              "marca": "",
               "texto_cita": "«Para los empeines son buenas las almendras amargas majadas.»",
               "autor": "Herr.",
               "referencia_obra": "Agric. gen. 3. 9 (2. 111)."
             },
             {
+              "marca": "",
               "texto_cita": "«No podían beber las aguas de Mara, porque eran amargas.»",
               "autor": "Scío",
-              "referencia_obra": ", Ex. 15. 23. — Sup."
-            },
+              "referencia_obra": ", Ex. 15. 23."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Por haber ella bebido un brebaje amarguísimo sirviendo á una enferma, le apareció y le dio á beber un licor celestial.»",
-              "autor": "Gran.",
-              "referencia_obra": "Adic. al Mem. 2. 14, § 6 (R. 8. 4772)."
-            },
-            {
-              "texto_cita": "«No hubo cosa en nuestro Bien adonde no llegase el cuchillo y el diente: al costado, á los pies --- y á la boca con gusto amarguísimo.»",
-              "autor": "León",
-              "referencia_obra": ", Nomb. 3, Cordero (R. 37. 1841)."
+              "id_limpio": "—",
+              "definicion": "Sup.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "",
+                  "texto_cita": "«Por haber ella bebido un brebaje amarguísimo sirviendo á una enferma, le apareció y le dio á beber un licor celestial.»",
+                  "autor": "Gran.",
+                  "referencia_obra": "Adic. al Mem. 2. 14, § 6 (R. 8. 4772)."
+                },
+                {
+                  "marca": "",
+                  "texto_cita": "«No hubo cosa en nuestro Bien adonde no llegase el cuchillo y el diente: al costado, á los pies --- y á la boca con gusto amarguísimo.»",
+                  "autor": "León",
+                  "referencia_obra": ", Nomb. 3, Cordero (R. 37. 1841)."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -51,59 +70,72 @@
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Con á, para expresar la parte ó sentido en que obra el objeto amargo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Amargo al paladar.»",
               "autor": "Salvá",
               "referencia_obra": ", Gram."
             },
             {
+              "marca": "",
               "texto_cita": "«Amargo al gusto.»",
               "autor": "Acad.",
               "referencia_obra": "Gram."
             },
             {
+              "marca": "",
               "texto_cita": "«Es aquella planta olorosa, aunque con olor algo grave, y amarga al gusto.»",
               "autor": "Laguna",
               "referencia_obra": "Diosc. 3. 27 (3. 33)."
             },
             {
+              "marca": "",
               "texto_cita": "«La una [especie de endibia] tiene las hojas muy anchas y se parece á la lechuga infinito, la otra las tiene angostas y al gusto es amarga.»",
               "autor": "",
               "referencia_obra": "Id. ib. 2. 121 (2. 134)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
           "definicion": "Con de, para particularizar el concepto en que un objeto es amargo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Amargo de sabor.»",
               "autor": "Acad.",
               "referencia_obra": "Gram."
             },
             {
+              "marca": "",
               "texto_cita": "«Amargo de gusto.»",
               "autor": "Salvá",
               "referencia_obra": ", Gram."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— δ )",
           "id_limpio": "— δ )",
           "definicion": "Con en, en sentido análogo.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Es [el ajenjo] hierba en el sabor amarga, mas muy medicinal.»",
               "autor": "Herr.",
               "referencia_obra": "Agric. gen. 4. 10 (3. 51)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -111,133 +143,176 @@
     {
       "id": "b)",
       "definicion": "Dícese, por extensión, del árbol que, á distinción de otros individuos de la misma especie, produce fruto amargo.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Los almendros dulces se hacen amargos dejándolos de labrar mucho tiempo.»",
           "autor": "Herr.",
           "referencia_obra": "Agric. gen. 3. 9 (2. 108)."
         },
         {
+          "marca": "",
           "texto_cita": "«Se ha hallado el modo de trocar los almendros amargos en almendros dulces, sólo con agujerarles el pie.»",
           "autor": "Quev.",
           "referencia_obra": "Vida devota, 1. 24 (R. 48. 2691)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "met. Que causa disgusto ó pena, en lo físico (en este caso, raro) ó en lo moral: doloroso, triste.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«El sentido todo del tacto, rasgado y herido por infinitas partes del cuerpo, no tocó cosa que no le fuese enemiga y amarga.»",
           "autor": "León",
           "referencia_obra": ", Nomb. 2, Rey (R. 37. 1272)."
         },
         {
+          "marca": "",
           "texto_cita": "«En eco amargo del cansado aliento | Responde el monte.»",
           "autor": "Cerv.",
           "referencia_obra": "Gal. 1 (R. 1. 31)."
         },
         {
+          "marca": "",
           "texto_cita": "«Vé, amigo, y guíete otra mejor ventura que la mía, y vuélvate otro mejor suceso del que yo quedo temiendo y esperando en esta amarga soledad.»",
           "autor": "",
           "referencia_obra": "Id. Quij. 2. 10 (R. 1. 4222)."
         },
         {
+          "marca": "",
           "texto_cita": "«Muévate á compasión mi amargo duelo.»",
           "autor": "",
           "referencia_obra": "Id. Numancia, 1. 2 (Arrieta, 10. 17)."
         },
         {
+          "marca": "",
           "texto_cita": "«Sólo deseaban alguna manera de servidumbre tolerable y de vida no tan amarga como era la que padecían.»",
           "autor": "Mariana",
           "referencia_obra": ", Hist. Esp. 7. 1 (R. 30. 1891)."
         },
         {
+          "marca": "",
           "texto_cita": "«No podrás gustar de Dios hasta que los bienes deste mundo y sus deleites tengas por amargos y desabridos.»",
           "autor": "Estella",
           "referencia_obra": ", Van. del mundo, 1. 1 (Míst. 4. 1)."
         },
         {
+          "marca": "",
           "texto_cita": "«Mi lengua prueba | A razonar con vos, oh dulce amigo, | De la amarga memoria de aquel día.»",
           "autor": "Garcil.",
           "referencia_obra": "son. 19 (R. 32. 342)."
         },
         {
+          "marca": "",
           "texto_cita": "«Ahora, que reciente el daño siento | Con la memoria dulcemente amarga, | Busco alguna ocasión al sufrimiento.»",
           "autor": "Herr.",
           "referencia_obra": "1, eleg. 12 (R. 32. 2812)."
         },
         {
+          "marca": "",
           "texto_cita": "«¡Ay! qué vida tan amarga | Do no se goza el Señor!»",
           "autor": "Sta. Ter.",
           "referencia_obra": "Poes. 1 (R. 53. 5091)."
         },
         {
+          "marca": "",
           "texto_cita": "«Los lazos de tormento, | Que estrechamente ciñen mi afligida | Alma, ya son sin cuento; | ¡Ay Dios! libra mi vida | De suerte tan amarga y abatida.»",
           "autor": "León",
           "referencia_obra": ", Poes. 3, salmo 24 (R. 37. 491)."
         },
         {
+          "marca": "",
           "texto_cita": "«La amarga noche sin dormir pasaban | Al són de dolorosos instrumentos.»",
           "autor": "Erc.",
           "referencia_obra": "Arauc. 7 (R. 17. 281)."
         },
         {
+          "marca": "",
           "texto_cita": "«Ya tiene los sentidos entregados | Al ocio, y los amargos pensamientos | En el profundo olvido sepultados.»",
           "autor": "Jáur.",
           "referencia_obra": "eleg. Partió la noche (R. 42. 1072)."
         },
         {
+          "marca": "",
           "texto_cita": "«Debo decir que pocos días de mi larga vida han sido más amargos.»",
           "autor": "A. Galiano",
           "referencia_obra": ", Recuerdos, p. 386."
         },
         {
+          "marca": "",
           "texto_cita": "«Cuando dice con sequedad á su hijo que se prepare á la muerte porque los dioses la han decretado y es forzosa, más bien excita indignación y odio que la compasión que debiera un padre colocado en tan amargo trance.»",
           "autor": "M. de la Rosa",
           "referencia_obra": ", Trag. esp. (2. 121)."
         },
         {
+          "marca": "",
           "texto_cita": "«No quisiera omitir una reflexión, amarga y desconsoladora, pero que me parece importantísima y confirmada por la experiencia.»",
           "autor": "",
           "referencia_obra": "Id. Esp. del siglo, 3. 11 (5. 209)."
         },
         {
+          "marca": "",
           "texto_cita": "«Las virtudes son severas | Y la verdad es amarga.»",
           "autor": "Mel.",
           "referencia_obra": "Disc. 1 (R. 63. 2551)."
         },
         {
+          "marca": "",
           "texto_cita": "«En donde tus dichas fueron | Sólo hay recuerdos amargos.»",
           "autor": "A. Saav.",
           "referencia_obra": "Moro expós. 5 (2. 172)."
         },
         {
+          "marca": "",
           "texto_cita": "«¿No son bastantes | Tres siglos infelices | De amarga expiación?»",
           "autor": "Quint.",
-          "referencia_obra": "Poes. A la exped. esp. (R. 19. 51). —"
+          "referencia_obra": "Poes. A la exped. esp. (R. 19. 51)."
+        }
+      ],
+      "subsubsubacepciones": [
+        {
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Lloraba la vieja á cada paso, enclavijaba las manos, y suspiraba de lo amargo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac. 16 (R. 23. 5132)."
+            }
+          ]
         },
         {
-          "texto_cita": "«Lloraba la vieja á cada paso, enclavijaba las manos, y suspiraba de lo amargo.»",
-          "autor": "Quev.",
-          "referencia_obra": "Gran Tac. 16 (R. 23. 5132). — Sup."
-        },
-        {
-          "texto_cita": "«Entre tanto que me atormentaban, meditaba como podía la amarguísima pasión de mi Salvador, llena de innumerables dolores.»",
-          "autor": "Gran.",
-          "referencia_obra": "Símb. 5. 2. 23, § 1 (R. 6. 6571)."
-        },
-        {
-          "texto_cita": "«Tú, que buscas el verdadero descanso, el cual se promete á los cristianos después de la muerte, ten por cierto que también lo hallarás entre las molestias amarguísimas desta vida, si amares los mandamientos de aquel que lo prometió.»",
-          "autor": "",
-          "referencia_obra": "Id. Guía, 1. 17, § 1 (R. 6. 642)."
-        },
-        {
-          "texto_cita": "«La muerte amarguísima que trae consigo la privación de la divina gracia.»",
-          "autor": "Puente",
-          "referencia_obra": ", Medit. 1. 22 (1. 221)."
+          "id_limpio": "—",
+          "definicion": "Sup.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Entre tanto que me atormentaban, meditaba como podía la amarguísima pasión de mi Salvador, llena de innumerables dolores.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 5. 2. 23, § 1 (R. 6. 6571)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«Tú, que buscas el verdadero descanso, el cual se promete á los cristianos después de la muerte, ten por cierto que también lo hallarás entre las molestias amarguísimas desta vida, si amares los mandamientos de aquel que lo prometió.»",
+              "autor": "",
+              "referencia_obra": "Id. Guía, 1. 17, § 1 (R. 6. 642)."
+            },
+            {
+              "marca": "",
+              "texto_cita": "«La muerte amarguísima que trae consigo la privación de la divina gracia.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 1. 22 (1. 221)."
+            }
+          ]
         }
       ],
       "subacepciones": [
@@ -245,33 +320,40 @@
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "A menudo se contrapone á dulce y sus cognados.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Las letras tienen amargas las raíces, si bien son dulces sus frutos.»",
               "autor": "Saav.",
               "referencia_obra": "Emp. 5 (R. 25. 191)."
             },
             {
+              "marca": "",
               "texto_cita": "«Porque suele ser amarga la verdad, es menester endulzalle los labios al vaso para que los príncipes la beban.»",
               "autor": "",
               "referencia_obra": "Id. Emp. 48 (R. 25. 1242)."
             },
             {
+              "marca": "",
               "texto_cita": "«Ni conoce la dulzura de la paz quien no ha robado lo amargo de la guerra.»",
               "autor": "",
               "referencia_obra": "Id. Emp. 99 (R. 25. 2571)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Qué dulce cosa amor, qué amarga celos!»",
               "autor": "Lope",
               "referencia_obra": ", Gatom. 1 (Obr. suelt. 19. 183)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y de sus bellos ojos | Solía gustar una dulzura extraña, | Que al fin dejaba un no sé qué de amargo.»",
               "autor": "Jáur.",
               "referencia_obra": "Aminta, 1 (R. 42. 1352)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -279,43 +361,61 @@
     {
       "id": "d)",
       "definicion": "met. Que hiere ú ofende, duro, ofensivo. Véase Acad. Dicc. sb. voc. Sarcasmo.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Oyeron en su tránsito inusitados insultos del populacho, y recriminaciones muy amargas aunque bien fundadas.»",
           "autor": "A. Saav.",
           "referencia_obra": "Masan. 1. 6 (5. 60)."
         },
         {
+          "marca": "",
           "texto_cita": "«Vi los ojos de Lope y de Cervantes | Moverse en encontradas direcciones, | Y por sus labios extenderse lenta | Sonrisa amarga de piedad que afrenta.»",
           "autor": "Hartz.",
           "referencia_obra": "La medianía de ingenio (412)."
         },
         {
+          "marca": "",
           "texto_cita": "«No era fácil responder, ni mucho menos acallar estas quejas amargas del desaliento.»",
           "autor": "Quint.",
           "referencia_obra": "Pizarro (R. 19. 3071)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "e)",
       "definicion": "met. Funesto, negro.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Pues amargas cien monedas serían éstas.»",
           "autor": "Celest.",
           "referencia_obra": "4 (R. 3. 201)."
         },
         {
+          "marca": "",
           "texto_cita": "«¿Es posible, señor hidalgo, que haya podido tanto con vuestra merced la amarga y ociosa letura de los libros de caballerías, que le hayan vuelto el juicio?»",
           "autor": "Cerv.",
-          "referencia_obra": "Quij. 1. 49 (R. 1. 3931). —"
-        },
+          "referencia_obra": "Quij. 1. 49 (R. 1. 3931)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Considera qué mala y amarga cosa es el haber dejado tú al Señor tu Dios.»",
-          "autor": "Scío",
-          "referencia_obra": ", Jerem. 2. 19."
+          "id_limpio": "—",
+          "definicion": "",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Considera qué mala y amarga cosa es el haber dejado tú al Señor tu Dios.»",
+              "autor": "Scío",
+              "referencia_obra": ", Jerem. 2. 19."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -323,67 +423,82 @@
     {
       "id": "f)",
       "definicion": "met. Dícese de la persona áspera y de genio desabrido. Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«¿Ves qué hombre éste? — Asperillo de condición, y amargo de respuestas.»",
           "autor": "Mor.",
           "referencia_obra": "La escuela de los maridos, 1. 6 (R. 2. 4472)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "g)",
       "definicion": "met. Lleno de pesar ó amargura, desdichado.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Yo quedo la más amarga del mundo y echada por puertas.»",
           "autor": "Quev.",
           "referencia_obra": "Cuento de cuentos (R. 48. 4142)."
         },
         {
+          "marca": "",
           "texto_cita": "«Si inclinas los oídos | A las piadosas y dolientes quejas | De un espíritu amargo ---»",
           "autor": "F. de la Torre",
           "referencia_obra": ", 1, canc. 1 (19)."
         },
         {
+          "marca": "",
           "texto_cita": "«Asiéntate agora un poco á los pies del profeta Jeremías, y tomándole las palabras de la boca, con amargo y doloroso corazón sospirando, dí así ---»",
           "autor": "Gran.",
           "referencia_obra": "Orac. y consid. 1, sáb. por la mañana (R. 8. 822)."
         },
         {
+          "marca": "",
           "texto_cita": "«Presta atento oído | No al concertado són sino al rüido | Que de lo hondo de mi amargo pecho, | Llevado de un forzoso desvarío, | Por gusto mío sale y tu despecho.»",
           "autor": "Cerv.",
           "referencia_obra": "Quij. 1. 14 (R. 1. 2811)."
         },
         {
+          "marca": "",
           "texto_cita": "«¡Ay Alá! ¿quién me picó? | Mira por aquí, Costanza, | Si es avispa? amarga yo, | Que parece que una lanza | Por el cuello se me entró.»",
           "autor": "",
           "referencia_obra": "Id. Los baños de Argel, 2 (Com. 1. 157)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Interjectivamente con de.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«¡Ay amarga de mí! ¡En qué lazo me he metido!»",
               "autor": "",
               "referencia_obra": "Celest. 4 (R. 3. 201; * cuitada)."
             },
             {
+              "marca": "",
               "texto_cita": "«¡Ay amargo de mí! voime, señor, que es tarde.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán, 1. 3. 8 (R. 3. 2532)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Dó el dinero? — Aquí en el pecho | Lo tengo, amargo de mí.»",
               "autor": "Cerv.",
               "referencia_obra": "Los baños de Argel, 2 (Com. 1. 158)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -391,21 +506,34 @@
     {
       "id": "h)",
       "definicion": "Aplicado á las lágrimas denota las que se derraman á causa de un gran dolor.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Ahora despreciada | Derramas llanto amargo.»",
           "autor": "Jovell.",
           "referencia_obra": "Anfriso á Belisa, 4 (R. 46. 132)."
         },
         {
+          "marca": "",
           "texto_cita": "«Zahira contemplando las facciones | De aquel rostro infantil y tiernas gracias, | De un oculto dolor sobrecogida, | Bañó el semblante en lágrimas amargas.»",
           "autor": "A. Saav.",
-          "referencia_obra": "Moro expós. 1 (2. 6). — Sup."
-        },
+          "referencia_obra": "Moro expós. 1 (2. 6)."
+        }
+      ],
+      "subsubsubacepciones": [
         {
-          "texto_cita": "«Otros abrazaban su cuello y lo besaban derramando amarguísimas lágrimas por aquel apartamiento.»",
-          "autor": "Gran.",
-          "referencia_obra": "Simb. 2. 22, § 3 (R. 6. 3401)."
+          "id_limpio": "—",
+          "definicion": "Sup.",
+          "marca": "",
+          "ejemplos_citas": [
+            {
+              "marca": "",
+              "texto_cita": "«Otros abrazaban su cuello y lo besaban derramando amarguísimas lágrimas por aquel apartamiento.»",
+              "autor": "Gran.",
+              "referencia_obra": "Simb. 2. 22, § 3 (R. 6. 3401)."
+            }
+          ]
         }
       ],
       "subacepciones": []
@@ -413,49 +541,62 @@
     {
       "id": "i)",
       "definicion": "met. Dícese del semblante ó expresión que demuestra un gran dolor.",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«Con expresión tan amarga, | Mas con una fe tan fuerte | Alza el rostro, y ambas manos | Hacia los cielos extiende ---»",
           "autor": "Saav.",
           "referencia_obra": "El solemne desengaño, 5 (3. 213)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "2",
       "definicion": "Sust.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "a)",
       "definicion": "Amargor. El amargo del acíbar.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "b)",
       "definicion": "Dulce seco compuesto con almendras amargas. Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "c)",
       "definicion": "Licor confeccionado con almendras amargas. Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "d)",
       "definicion": "Farm. Composición que principalmente se hace de ingredientes amargos. Acad. Dicc.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": []
     }
   ],
   "periodo_anteclasico": "Per. antecl. (Llegó á usarse en el siglo XV la forma latina amaro.) — Siglo XV: «No se os haga tan amarga | La batalla temerosa | Que esperais.» J. Manr. Coplas (Fern. 16. 60). «En el Viernes de la Cruz, | Pasó á la clara luz | Deste amargo e turbio mar.» P. de Guzmán, Clar. var. 366 (Rim. inéd. 326). «Y no te mostraras a el tan amargo | Ni triste dexaras a mi querellosa.» Mena, Lab. 205 (711). «La fiel es amarga.» Vis. delect. 1. 2 (R. 36. 3451). «Algasaras muy amaras | Contra muchos buenos fases.» Canc. de Baena, p. 540.\n\n— Siglo XIV: «Díxole donna Rama, como venides, amiga? | Como vengo, sennora, non sé como lo diga, | Corrida é amarga.» Arc. de Hita, 799 (R. 57. 2521). «Agora con fame et con mengua comia altarmuces que son tan amargos et de tan mal sabor.» J. Man. C. Luc. 25 (R. 51. 3781).\n\n— Siglo XIII: «El gostar departe las cosas dulces de las amargas.» Part. 2. 13. 4 (2. 105). «Pierden los cuerpos et quanto traen afogándose, bebiendo el agua amarga de la mar.» Part. 2. 9. 28 (2. 84). «Es dulce en el comienzo, é en la fin amargo é lleno de tósigo mortal.» Cal. é Dymna (R. 51. 282). «Et pensé en los deleites deste mundo, de que ha sabor el alma, et dije: ¡Oh qué amargo é qué tan fuerte es esto!» Ib. (R. 51. 172). «Juro por el que mudó las aguas amargas por echar la viga en ellas, é ficiéronse dulces.» Fuero Juzgo, 12. 3. 15 (197). «Essas ypocrisias que combusco traedes, | Bien creo que en cabo amargas las veredes.» Berc. S. Dom. 179 (R. 57. 452). «Avie una azemila, bestia era de carga: | Turibio e Simpronio vidiéronla amarga, | Por so mal la modraron del pasto de la varga.» Id. S. Mill. 271 (R. 57. 731). «Si revellar quisiere, levemoslo en peso, | Si non, darnos a Deçio amargos ajos queso [?]» Id. S. Laur. 76 (R. 57. 922).",
   "testimonios_latino_hispanicos": "Test. latin. hisp. «Radmiro test. Vincenti test. Petro Amargo test.» Docum. de 1062 (Berg. Antigüed. 2. 432.).",
-  "etimologia": "Etim. Port. amargo; val., mall. amarg; cat. amarch: corresponde á una forma latina amaricus, de donde amaricare, amargar, amaricosus, amargoso; cp. Diefenbach, Gloss. lat. germ. De la forma clásica amarus: prov. amar; fr. amer; it. y port. amaro; vál. amar, amarul de mine! amargo de mí! Se ha comparado la voz latina con el gr. éμ`ζ, crudo, sansc. âmas, amas, crudo, amlas, ácido, ant. al. ampher, acedera, irl. om, crudo, inmaturo; considerándose lo ácido y lo amargo como diversas fases de lo crudo é inmaturo. El sufijo sería el mismo que en avarus. (Curtius4, Griech. Etym. 341; Vanicek, Gr. lat. et. Wb. 38. 1234; Pietet2, Or. 1. 381).\n\n\u0000",
+  "etimologia": "Etim. Port. <i>amargo</i>; val., mall. <i>amarg</i>; cat. <i>amarch</i>: corresponde á una forma latina <i>amaricus</i>, de donde <i>amaricare</i>, amargar, <i>amaricosus</i>, amargoso; cp. Diefenbach, <i>Gloss. lat. germ</i>. De la forma clásica <i>amarus</i>: prov. <i>amar</i>; fr. <i>amer</i>; it. y port. <i>amaro</i>; vál. <i>amar, amarul de mine!</i><i> </i>amargo de mí! Se ha comparado la voz latina con el gr. éμ`ζ, crudo, sansc. <i>âmas</i>, amas, crudo, <i>amlas</i>, ácido, ant. al<i>. ampher,</i><i> </i>acedera, irl. <i>om,</i> crudo, inmaturo; considerándose lo ácido y lo amargo como diversas fases de lo crudo é inmaturo. El sufijo sería el mismo que en <i>avarus</i>. (Curtius4, <i>Griech. Etym. </i>341; Vanicek, <i>Gr. lat. et. Wb</i>. 38. 1234; Pietet2, <i>Or</i>. 1. 381).",
   "nota": "",
   "forma": "",
   "ortografia": "",

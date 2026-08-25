@@ -6,48 +6,68 @@
     {
       "id": "a)",
       "definicion": "Colocar o estar encima de una cosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "Con en, para indicar el lugar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y montó en carretas, tiradas por bueyes o mulas, algunas piezas de artillería.»",
               "autor": "A. Saav.",
               "referencia_obra": "Masan. 1. 11 (5. 90)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. Con en. X",
+          "definicion": "Refl. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Los chicos se montaron en las piernas del Fiero y él sacó de la alforja una muñeca de lana y un paquete de caramelos que les entregó diciendo cualquier cosa.»",
               "autor": "Alegría",
               "referencia_obra": ", El mundo es ancho y ajeno, 4 (p. 154)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. Con sobre. X",
+          "definicion": "Part. Con sobre.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Necesita arreglarse la boca; le ha nacío un diente montado sobre otro y habrá que arrancárselo.»",
               "autor": "Pagés",
-              "referencia_obra": ", Dicc.). — met. X"
-            },
+              "referencia_obra": ", Dicc.)."
+            }
+          ],
+          "subsubsubacepciones": [
             {
-              "texto_cita": "«Su criterio montado sobre las coordenadas de lo materialmente útil, expresa el tremendo vacío interior del hombre contemporáneo.»",
-              "autor": "Calderón",
-              "referencia_obra": ", Ancha es Castilla, p. 73."
+              "id_limpio": "—",
+              "definicion": "met.",
+              "marca": "",
+              "ejemplos_citas": [
+                {
+                  "marca": "X",
+                  "texto_cita": "«Su criterio montado sobre las coordenadas de lo materialmente útil, expresa el tremendo vacío interior del hombre contemporáneo.»",
+                  "autor": "Calderón",
+                  "referencia_obra": ", Ancha es Castilla, p. 73."
+                }
+              ]
             }
           ],
           "subsubacepciones": []
@@ -57,275 +77,336 @@
     {
       "id": "b)",
       "definicion": "Cabalgar, ir a caballo (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Intimados por la yegua que montaba el gobernador y por la lanza que llevaba, no se habían atrevido a ejecutarlo.»",
               "autor": "Quint.",
-              "referencia_obra": "Balboa (2. 16). X"
+              "referencia_obra": "Balboa (2. 16)."
             },
             {
+              "marca": "X",
               "texto_cita": "«En la esquina de la de Cuyo encontró a Fermín, que lo esperaba con un caballo de la brida. La calle estaba llena de gente, y, sin mirar al criado, Daniel le dijo al montar estas solas palabras: ---.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 1 (p. 140). X"
+              "referencia_obra": ", Amalia, 1 (p. 140)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Había ya montado, y Braulio estrechaba en sus manos una de las mías, cuando el revuelo de un ave --- interrumpió nuestra despedida.»",
               "autor": "Isaacs",
-              "referencia_obra": ", María, p. 280. X"
+              "referencia_obra": ", María, p. 280."
             },
             {
+              "marca": "X",
               "texto_cita": "«Yo, como jamás he aprendido a montar, he acompañando a mi padre a todas las anteriores excursiones en una mulita de paso, muy mansa.»",
               "autor": "Valera",
-              "referencia_obra": ", Pepita Jiménez, p. 52. X"
+              "referencia_obra": ", Pepita Jiménez, p. 52."
             },
             {
+              "marca": "X",
               "texto_cita": "«Mina, entre tanto, los esperaba en el corredor de una casa, para ver si Filomena quería montar; porque si así no lo hacía, ¿quién aguantaba después a la bollona?»",
               "autor": "Carrasquilla",
-              "referencia_obra": ", Frutos, 2. 7 (p. 309). X"
+              "referencia_obra": ", Frutos, 2. 7 (p. 309)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La dejé pacer un poco a la orilla del arroyo, monté y aguardé que el animal hiciera de práctico esta vez como la anterior.»",
               "autor": "Marroquín",
-              "referencia_obra": ", Blas Gil, 12 (p. 126). X"
+              "referencia_obra": ", Blas Gil, 12 (p. 126)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El molinero desataba las mulas y del ronzal las sacaba hasta el camino, para que montásemos.»",
               "autor": "Valle-Inclán",
-              "referencia_obra": ", Sonata de otoño, p. 12. X"
+              "referencia_obra": ", Sonata de otoño, p. 12."
             },
             {
+              "marca": "X",
               "texto_cita": "«El jabalí se desplomó, y el caballero, volviendo a montar, y saltando otra vez el vallado, saludó con la gorra a las damas, alejándose a escape.»",
               "autor": "Larreta",
-              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 80). X"
+              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 80)."
             },
             {
+              "marca": "X",
               "texto_cita": "«No había otra solución que montar si se quería llegar al tambo.»",
               "autor": "Alegría",
-              "referencia_obra": ", El mundo es ancho y ajeno, 9 (p. 394). X"
+              "referencia_obra": ", El mundo es ancho y ajeno, 9 (p. 394)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Aparece Damián, en la puerta, tirando a su caballo por la rienda. ---. Ya ven que se dispone a montar sosegadamente, valientemente.»",
               "autor": "",
               "referencia_obra": "Yáñez, Al filo del agua, p. 428."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Mira, y haz que ensillen inmediatamente al Moro, mientras tú vas allá. Si han salido, vuelves, montas a caballo y en una buena carrera que des, los alcanzas.»",
                   "autor": "Mor.",
-                  "referencia_obra": "El sí de las niñas, p. 257. X"
+                  "referencia_obra": "El sí de las niñas, p. 257."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Rïó de esta amenaza el bravo moro, | Como de cosa que muy poco estime, | Y borrar anhelando su desdoro | Monta a caballo y el acero esgrime.»",
                   "autor": "Bello",
-                  "referencia_obra": ", Poes. p. 381. X"
+                  "referencia_obra": ", Poes. p. 381."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Montaba a caballo con frecuencia, precedida y seguida de esclavos, para dar una vista por sus viñas, cuyos viejos troncos vense aún en las capellanías de Santa Lucía.»",
                   "autor": "D. F. Sarmiento",
-                  "referencia_obra": ", Recuerdos de Prov. p. 37. X"
+                  "referencia_obra": ", Recuerdos de Prov. p. 37."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Allí he de desembarcar dentro de dos horas. Pero con toda precaución monta a caballo ya y vete a esperarme.»",
                   "autor": "Mármol",
-                  "referencia_obra": ", Amalia, 5 (p. 532). X"
+                  "referencia_obra": ", Amalia, 5 (p. 532)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Parecía como si estuviera esperando siempre la hora de montar a caballo.»",
                   "autor": "Martí",
-                  "referencia_obra": ", Sus mejores páginas, p. 145. X"
+                  "referencia_obra": ", Sus mejores páginas, p. 145."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Presenció este injusto y bárbaro atropello; y tal como se hallaba, después de acudir al ministerio de la Guerra, montó a caballo. El impulso fue noble y generoso.»",
                   "autor": "Pereda",
-                  "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 106). X"
+                  "referencia_obra": ", Pedro Sánchez, 2 (Cl. C. 145. 106)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Con saber montar a caballo, quedaba comprendido cuanto el hombre necesitaba para abrirse partido en la vida.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Estud. mesa redonda, 7 (p. 115). X"
+                  "referencia_obra": ", Estud. mesa redonda, 7 (p. 115)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Para destacarse más en su papel de rivales y que no hubiese el emboscamiento de la caja del coche, comenzaron a montar a caballo, pareciendo engancharse en el escape de su cólera al pasar muy cercanos, sin que la escaramuza acabase más que en un caracoleo, ya que ninguno de los dos tenía lanza.»",
                   "autor": "Gómez de la Serna",
-                  "referencia_obra": ", Cab. del hongo gris, p. 173. X"
+                  "referencia_obra": ", Cab. del hongo gris, p. 173."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«En Castilla y en España la hidalguía es la flor de la tierra, la espiga del campo, el señor que todavía no ha montado a caballo ni ha querido ir a la guerra para volverse caballero andante ---.»",
                   "autor": "Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 88."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con sin y una prop. infinitiva. X",
+              "definicion": "Con sin y una prop. infinitiva.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«No podía dejar la silla, a no ser que perdiese el rejón, la lanza, el guante o el sombrero, en cuyo caso no podía volver a montar sin haber dado antes muerte a la fiera y recobrado la prenda perdida.»",
                   "autor": "Larra",
                   "referencia_obra": ", Artíc. de cost. (Cl. C. 45. 28)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Don Quijote, transcurrido el primer instante, sintió surgir en él su intrepidez de siempre; rápidamente montó sobre el buen Rocinante.»",
                   "autor": "Azorín",
-                  "referencia_obra": ", Ruta de D. Quij. 9 (p. 369). X"
+                  "referencia_obra": ", Ruta de D. Quij. 9 (p. 369)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Yo montaré desnudo sobre su giba hirsuta, | Y desandando el tedio de vuestra larga ruta, | Vendré desde otro oriente con una nueva estrella.»",
                   "autor": "Maya",
                   "referencia_obra": ", Obra poétic. 1 (p. 61)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— δ δ )",
               "id_limpio": "— δ δ )",
-              "definicion": "Sustantivado. Con de. X",
+              "definicion": "Sustantivado. Con de.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Ellos se burlan del modo de montar de los filipichines, de sus gestos estudiados, de su miedo frente a un toro manso o ante un mal paso del camino.»",
                   "autor": "Arias Trujillo",
                   "referencia_obra": ", Risaralda, 21 (p. 145)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Refl. Con en. X",
+          "definicion": "Refl. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿No más me anda dando carita para volarme y montarme en puercos pintos?»",
               "autor": "",
               "referencia_obra": "Yáñez, Al filo del agua, p. 226."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Con resolución rápida llamó a uno de sus hombres montados: — Venga acá. Déme ese caballo.»",
               "autor": "Uslar-Pietri",
-              "referencia_obra": ", Lanzas coloradas, 9 (p. 118). X"
+              "referencia_obra": ", Lanzas coloradas, 9 (p. 118)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Le veíamos aparecer por los arenosos callejones de Bosa, en alguna de sus yeguas briosas, erguido, gallardo, montado a la antigua usanza, cubierta la cabeza entrecana con el suaza.»",
               "autor": "Rueda Vargas",
-              "referencia_obra": ", Lentus in umbra, p. 67. X"
+              "referencia_obra": ", Lentus in umbra, p. 67."
             },
             {
+              "marca": "X",
               "texto_cita": "«El potro azul recién montado huele | El aroma del pan y de la alfalfa.»",
               "autor": "Neruda",
-              "referencia_obra": ", Poes. p. 192. X"
+              "referencia_obra": ", Poes. p. 192."
             },
             {
+              "marca": "X",
               "texto_cita": "«A éste asistieron, bien montados, con sus arreos chapeados en plata, con laboreados chamantos, bonetes bordados de flores y cuantos lujos pudieron ostentar.»",
               "autor": "Barrios",
               "referencia_obra": ", Gran señor y rajadiablos, p. 27."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
-              "definicion": "Con a. X",
+              "definicion": "Con a.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Era caballero quien tenía derecho a ir a la guerra montado a caballo, tal vez por la razón de que debía tenerlo.»",
                   "autor": "Caballero Calderón",
                   "referencia_obra": ", Ancha es Castilla, p. 88."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— β β )",
               "id_limpio": "— β β )",
-              "definicion": "Con en. X",
+              "definicion": "Con en.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Emprendió el camino | Montado en su pollino, | Como un rey fugitivo de Judea.»",
                   "autor": "Campoamor",
-                  "referencia_obra": ", Poes. (Cl. C. 40. 248). X"
+                  "referencia_obra": ", Poes. (Cl. C. 40. 248)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Usted está lastimado de las bromas de Currito y de hacer (hablando profanamente) un papel poco airoso, montado en una mula mansa como el señor Vicario, con sus ochenta años, y no en un brioso caballo, como debiera un joven de su edad y circunstancias.»",
                   "autor": "Valera",
-                  "referencia_obra": ", Pepita Jiménez, p. 56. X"
+                  "referencia_obra": ", Pepita Jiménez, p. 56."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Un fraile, predicando el sermón del Domingo de Ramos, tuvo la insolencia de decir que Cristo había entrado en Jerusalen montado en un burro manso, bufonería con la que creyó poner en ridículo a su excelencia.»",
                   "autor": "Palma",
-                  "referencia_obra": ", Trad. peruanas, p. 191. X"
+                  "referencia_obra": ", Trad. peruanas, p. 191."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Ramiro caminaba a la par del alguacil Pedro Ronco, que iba montado en su famoso rocín todo negro.»",
                   "autor": "Larreta",
-                  "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 186). X"
+                  "referencia_obra": ", Gloria de D. Ramiro, 2 (p. 186)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Iba Sigüenza montado en un jumento, porque así recorrió, hacía mucho tiempo, sus campos natales. Estaba muy gozoso, como entonces.»",
                   "autor": "Miró",
-                  "referencia_obra": ", Años y leguas, p. 17. X"
+                  "referencia_obra": ", Años y leguas, p. 17."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Felipe entra al campo en su caballo de guerra, con armadura resplandeciente, y sus guardias bien montados en corceles.»",
                   "autor": "Arciniegas",
-                  "referencia_obra": ", Biogr. del Caribe, 1. 3 (p. 53). X"
+                  "referencia_obra": ", Biogr. del Caribe, 1. 3 (p. 53)."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Allí viene mi tatarabuelo conquistador, el donjuán de la comarca, montado en uno de sus famosos caballos.»",
                   "autor": "",
-                  "referencia_obra": "Yáñez, Al filo del agua, p. 134. X"
+                  "referencia_obra": "Yáñez, Al filo del agua, p. 134."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Y se fue, montado en su macho, la cara dura, sin mirar hacia atrás, como si hubiera dejado aquí la imagen de la perdición.»",
                   "autor": "Rulfo",
                   "referencia_obra": ", Pedro Páramo, p. 202."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             },
             {
               "id_marcador_html": "— γ γ )",
               "id_limpio": "— γ γ )",
-              "definicion": "Con sobre. X",
+              "definicion": "Con sobre.",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "X",
                   "texto_cita": "«Los escultores de estatuas ecuestres tenían que modelar y fundir en bronce, o tallar en mármol, para que el corcel de buen ver respondiera por el Héroe sobre él montado, dando buena sombra a los enamorados que se daban cita en los parques municipales.»",
                   "autor": "Carpentier",
-                  "referencia_obra": ", Los pasos perdidos, p. 123. X"
+                  "referencia_obra": ", Los pasos perdidos, p. 123."
                 },
                 {
+                  "marca": "X",
                   "texto_cita": "«Montado sobre un normando | Las crines hasta la tierra, | Lucero blanco, la frente; | La cola, rubia cometa, | El primer Carlos de España.»",
                   "autor": "Pemán",
                   "referencia_obra": ", Felipe Il, 1. 6 (p. 65)."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         }
@@ -334,42 +415,52 @@
     {
       "id": "c)",
       "definicion": "En particular, Subir en un vehículo (intrans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con en. X",
+          "definicion": "Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¿Y qué harías tú? — ¿Yo? montar en un coche ---, irme muy tranquilo a la casa donde estuviese mi fugitiva, tomarla del brazo muy cariñosamente, y decir a los que allí estuviesen: paso, señores, que esta es mi mujer y me la llevo a mi casa.»",
               "autor": "Mármol",
-              "referencia_obra": ", Amalia, 3 (p. 293). X"
+              "referencia_obra": ", Amalia, 3 (p. 293)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Vamos pues; y al efecto montemos en automóvil, el cual no se desliza tan rápido como en las calles de Bogotá, donde vuela y mata, todo en uno, merced o nuestras absolutas licencias.»",
               "autor": "M. F. Suárez",
-              "referencia_obra": ", Sueños, 4 (p. 42). X"
+              "referencia_obra": ", Sueños, 4 (p. 42)."
             },
             {
+              "marca": "X",
               "texto_cita": "«La familia monta en su galera para seguir y recoger a Milá. Se lo lleva; lo agasaja. En regocijos va desgarrándose la hacienda del señor.»",
               "autor": "Miró",
               "referencia_obra": ", Años y leguas, p. 86."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Prnl. Con en. X",
+          "definicion": "Prnl. Con en.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Al montarse en la bicicleta perdió el equilibrio y se cayó.»",
               "autor": "Dicc. Planeta",
               "referencia_obra": "."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -377,85 +468,104 @@
     {
       "id": "d)",
       "definicion": "Referido a cuentas, Importar, sumar o subir a una determinada cantidad (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
           "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Y milagrosamente halló el justo precio, que montaba el lienzo, como arriba queda referido.»",
               "autor": "Rivad.",
-              "referencia_obra": "Cisma, 2. 36 (p. 299). X"
+              "referencia_obra": "Cisma, 2. 36 (p. 299)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Compró algunas cosas que montaron como ciento y cincuenta reales.»",
               "autor": "Alemán",
               "referencia_obra": ", Guzmán (Cl. C. 83. 129)."
             },
             {
+              "marca": "",
               "texto_cita": "«Salió Juliano con su pretensión con promesa que hizo de dar a cada uno de los soldados veinte y cinco sestercios, que montan seiscientos y veinte y cinco coronas.»",
               "autor": "Mor.",
               "referencia_obra": "Hist. Esp. 4. 7 (1. 1632)."
             },
             {
+              "marca": "",
               "texto_cita": "«Lo principal que de ellos resultó, fue un gran socorro y servicio de dineros ---, por ser ya consumido lo que montaron los intereses que se sacaron de las monedas de cruzadas y reales --- gastados.»",
               "autor": "",
-              "referencia_obra": "Id. ib. 17. 15 (2. 1051). X"
+              "referencia_obra": "Id. ib. 17. 15 (2. 1051)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Los rufianes hicieron la cuenta y vino a montar sesenta reales, que no entendiera Juan de Leganés la suma.»",
               "autor": "Quev.",
               "referencia_obra": "Buscón (Cl. C. 5. 59)."
             },
             {
+              "marca": "",
               "texto_cita": "«Y entré contigo a prender | De tus manos tejedoras | A gobernar lanzaderas, | Y no lanzas, quiero agora | Hacer cuenta. Tú me has dado | Tres ducados, que esto montan | Tres meses que te he servido.»",
               "autor": "Alarcón",
               "referencia_obra": ", El tejedor de Segovia, 2. 1. 20 (R. 20. 4011)."
             },
             {
+              "marca": "",
               "texto_cita": "«¿Quieres que le dé cuidado | Cosa que monta once reales?»",
               "autor": "Mto.",
-              "referencia_obra": "La misma conciencia acusa, 1. 4 (R. 39. 1023). X"
+              "referencia_obra": "La misma conciencia acusa, 1. 4 (R. 39. 1023)."
             },
             {
+              "marca": "X",
               "texto_cita": "«El gasto de los procesos era caprichoso y a mi cargo, tan monstruosos, que dos memoriales de a página montaron cien libras de costas, las cuales tuve que cubrir so pena de ver embargadas indefinidamente mis propiedades.»",
               "autor": "M. F. Suárez",
               "referencia_obra": ", Sueños, 2 (p. 249)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": [
             {
               "id_marcador_html": "— α α )",
               "id_limpio": "— α α )",
               "definicion": "Cuervo anota:",
+              "marca": "",
               "ejemplos_citas": [
                 {
+                  "marca": "",
                   "texto_cita": "«Conforme al uso autorizado, montar, aplicado a cuentas, no llevo preposición alguna ---. En Bogotá, como en otras partes, acomodamos este verbo a la construcción de ascender, subir: montar a tanto.»",
                   "autor": "",
                   "referencia_obra": "Apuntaciones, §422."
                 }
-              ]
+              ],
+              "subsubsubacepciones": []
             }
           ]
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Forma la expresión tanto monta a que se reduce el proverbio. Tanto monta, cortar como desatar. X",
+          "definicion": "Forma la expresión tanto monta a que se reduce el proverbio. Tanto monta, cortar como desatar.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Y pues tanto monta cortar como desatar, rompamos y cortemos las coyundas.»",
               "autor": "Pagés",
-              "referencia_obra": ", Dicc.). X"
+              "referencia_obra": ", Dicc.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Si a quien te adora aborreces | Que te olvide tanto monta.»",
               "autor": "Romanc.",
               "referencia_obra": "(Pagés, Dicc.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -463,109 +573,135 @@
     {
       "id": "e)",
       "definicion": "Importar, significar una cosa (trans.).",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "",
           "texto_cita": "«¿Qué más que esto es menester para que entiendan los hombres lo que montan todas las cosas exteriores, por altísimos y nobilísimos que sean?»",
           "autor": "Gran.",
           "referencia_obra": "Guía, 2. 2. 20 (1. 2972)."
         },
         {
+          "marca": "",
           "texto_cita": "«¿Qué monta lavarme por haber tocado un muerto, si acabándome de lavar lo torno a tocar?»",
           "autor": "Gran.",
-          "referencia_obra": "Mem. vida crist. 7 (3. 2412). X"
+          "referencia_obra": "Mem. vida crist. 7 (3. 2412)."
         },
         {
+          "marca": "X",
           "texto_cita": "«Este confuso abismo | Donde amor todo es portento, | Mi vida todo prodigios, | No pesas, no montan tanto | Como haber Cristerna dicho | Que está a su cuenta premiarlo.»",
           "autor": "Cald.",
           "referencia_obra": "(Pagés, Dicc.)."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "f)",
       "definicion": "Aplicado a armas, Ponerlas en condición de disparar (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "X",
+          "definicion": "",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«El Comisario sale. El Agente monta la pistola y se la guarda en un bolsillo, del que no saca la mano.»",
               "autor": "Sastre",
               "referencia_obra": ", La mordaza (Cl. Castal. 61. 184)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«¡Agente! (Entra un Agente, que se cuadra ante el Comisario.) Vigila al señor Isaías Krappo hasta que yo vuelva. Ten montada la pistola. Mucho cuidado. Hasta luego.»",
               "autor": "Sastre",
               "referencia_obra": ", La mordaza (Cl. Castal. 61. 184)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
     },
     {
       "id": "g)",
-      "definicion": "Armar las piezas de un aparato o máquina (trans.) X",
+      "definicion": "Armar las piezas de un aparato o máquina (trans.)",
+      "marca": "",
       "ejemplos_citas": [
         {
+          "marca": "X",
           "texto_cita": "«Todos aspiran a montar relojes sin construir buenas piezas.»",
           "autor": "Pagés",
-          "referencia_obra": ", Dicc.). X"
+          "referencia_obra": ", Dicc.)."
         },
         {
+          "marca": "X",
           "texto_cita": "«El coche está hecho a escala y lleva las explicaciones para montarlo.»",
           "autor": "Dicc. Planeta",
           "referencia_obra": "."
         }
       ],
+      "subsubsubacepciones": [],
       "subacepciones": []
     },
     {
       "id": "h)",
       "definicion": "Organizar, disponer convenientemente una casa, taller o comercio (trans.).",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Con la prep. con. X",
+          "definicion": "Con la prep. con.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Se le presentó elevándose sucesivamente al rango de ayo de príncipe, de consejero de conde --- montando su casa con la etiqueta y servidumbre palaciega.»",
               "autor": "Larra",
-              "referencia_obra": "(Pagés, Dicc.). X"
+              "referencia_obra": "(Pagés, Dicc.)."
             },
             {
+              "marca": "X",
               "texto_cita": "«Tuvo que montar la empresa con el dinero que le prestaron sus suegros, pero ahora está forrado.»",
               "autor": "Dicc. Planeta",
               "referencia_obra": "."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
-          "definicion": "Part. X",
+          "definicion": "Part.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«A las doce, se sirve el té con pastas en la mayor parte de las casas montadas a la moderna.»",
               "autor": "Alarcón",
               "referencia_obra": "(Pagés, Dicc.)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -573,50 +709,62 @@
     {
       "id": "i)",
       "definicion": "Expresiones.",
+      "marca": "",
       "ejemplos_citas": [],
+      "subsubsubacepciones": [],
       "subacepciones": [
         {
           "id_marcador_html": "— α )",
           "id_limpio": "— α )",
-          "definicion": "Montar guardia: prestar los soldados el servicio de vigilancia. X",
+          "definicion": "Montar guardia: prestar los soldados el servicio de vigilancia.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Armole caballero el mismo Rey Católico, y montó más de una vez la guardia en el Quirinal, siendo Papa nuestro tío Alejandro Borja!»",
               "autor": "Alarcón",
-              "referencia_obra": ", Hist. p. 29. X"
+              "referencia_obra": ", Hist. p. 29."
             },
             {
+              "marca": "X",
               "texto_cita": "«Felipe hizo construir una larga sala para los oficiales que montaban guardia vestidos de negro.»",
               "autor": "Caballero Calderón",
               "referencia_obra": ", Ancha es Castilla, p. 101."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— β )",
           "id_limpio": "— β )",
           "definicion": "Montar en cólera: enfurecerse, enfadarse.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "",
               "texto_cita": "«Montaron en cólera las desarrapadas turbas.»",
               "autor": "A. Saav.",
               "referencia_obra": "Masan. 2. 8 (5. 197)."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         },
         {
           "id_marcador_html": "— γ )",
           "id_limpio": "— γ )",
-          "definicion": "Montar una obra. En teatro, Poner en escena. X",
+          "definicion": "Montar una obra. En teatro, Poner en escena.",
+          "marca": "",
           "ejemplos_citas": [
             {
+              "marca": "X",
               "texto_cita": "«Hacía tiempo que este director no montaba ninguna obra de autor español.»",
               "autor": "Dicc. Planeta",
               "referencia_obra": "."
             }
           ],
+          "subsubsubacepciones": [],
           "subsubacepciones": []
         }
       ]
@@ -624,7 +772,7 @@
   ],
   "periodo_anteclasico": "Per. antecl. Siglo XV: X «Montar: insumam excrescare.» Nebr. Vocab. X «Lucrum: es ganancia crescida en lo que se contracta allende de lo que montaua la primer suma.» Pal. Univ. vocab. 254b sb. voc. ganancia. X «Denarius: se dice porque monta diez dineros.» Id. ib. 109b sb. voc. dinero.\n\n— Siglo XIV: X «Contó el rey lo que podía costar la compra e la despensa para el viaje, e montó grande haber.» J. Man. C. Luc. 20 (Cuervo, Apuntaciones, § 422).",
   "testimonios_latino_hispanicos": "",
-  "etimologia": "Etim. Del fr. monter. Desde el francés, opina Corominas, se extendió a todos los demás romances aun en el sentido militar ‘subirse encima de un animal’ que el Dicc. Autor. señala como voz italiana. Cfr. DCELC. Cat. muntar, it. montare, port. y prov. montar.\n\n\u0000",
+  "etimologia": "Etim. Del fr.<i> monter.</i> Desde el francés, opina Corominas, se extendió a todos los demás romances aun en el sentido militar ‘subirse encima de un animal’ que el<i> Dicc. Autor.</i> señala como voz italiana. Cfr.<i> DCELC.</i> Cat.<i> muntar,</i> it.<i> montare,</i> port. y prov.<i> montar.</i>",
   "nota": "",
   "forma": "",
   "ortografia": "",

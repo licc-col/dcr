@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // UI Elements
     const listContainer = document.getElementById('lemaList');
+    const listPager = document.getElementById('listPager');
     const searchInput = document.getElementById('searchInput');
     const alphabetNav = document.getElementById('alphabetNav');
     const viewerContent = document.getElementById('viewerContent');
@@ -28,6 +29,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const btnBack = document.getElementById('btnBack');
     
     let fullIndex = [];
+    let listItems = [];
+    let listPage = 0;
     let currentData = null;
     let currentFilter = '';
     let selectedLetter = null;
@@ -136,12 +139,25 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // 3. List Rendering
-    function renderList(items) {
+    // La lista se pagina para no volcar cientos de lemas de golpe (la A sola
+    // tiene 489), pero sin recortar: todos son alcanzables con el paginador.
+    const PAGE_SIZE = 100;
+
+    function renderList(items, page = 0) {
+        listItems = items;
+        const totalPages = Math.max(1, Math.ceil(items.length / PAGE_SIZE));
+        listPage = Math.min(Math.max(page, 0), totalPages - 1);
+
         listContainer.innerHTML = '';
-        // Limit to 300 items for performance
-        const visible = items.slice(0, 300);
-        
-        visible.forEach(item => {
+
+        if (items.length === 0) {
+            listContainer.innerHTML = '<div class="loading">No hay resultados.</div>';
+            renderPager(0, 1);
+            return;
+        }
+
+        const start = listPage * PAGE_SIZE;
+        items.slice(start, start + PAGE_SIZE).forEach(item => {
             const el = document.createElement('div');
             el.className = 'list-item';
             el.innerHTML = item.lema;
@@ -152,10 +168,30 @@ document.addEventListener('DOMContentLoaded', () => {
             };
             listContainer.appendChild(el);
         });
-        
-        if (items.length === 0) {
-            listContainer.innerHTML = '<div class="loading">No hay resultados.</div>';
+
+        listContainer.scrollTop = 0;
+        renderPager(start, totalPages);
+    }
+
+    function renderPager(start, totalPages) {
+        if (listItems.length <= PAGE_SIZE) {
+            listPager.classList.add('hidden');
+            listPager.innerHTML = '';
+            return;
         }
+
+        const desde = start + 1;
+        const hasta = Math.min(start + PAGE_SIZE, listItems.length);
+
+        listPager.classList.remove('hidden');
+        listPager.innerHTML = `
+            <button class="pager-btn" id="pagerPrev" aria-label="Página anterior"${listPage === 0 ? ' disabled' : ''}>‹</button>
+            <span class="pager-info">${desde}–${hasta} de ${listItems.length}</span>
+            <button class="pager-btn" id="pagerNext" aria-label="Página siguiente"${listPage >= totalPages - 1 ? ' disabled' : ''}>›</button>
+        `;
+
+        document.getElementById('pagerPrev').onclick = () => renderList(listItems, listPage - 1);
+        document.getElementById('pagerNext').onclick = () => renderList(listItems, listPage + 1);
     }
 
     // 4. Search
